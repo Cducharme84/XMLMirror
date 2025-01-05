@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jack Sawyer</Characters>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-192698</GTIN>
+  <Inker>Nei Ruffino, Tony Shasteen, Nei Ruffino, Tony Shasteen</Inker>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:25:42 [Issue ID 4000-192698] urn:comicvine:4000-192698
+Tagged with ComicTagger 1.6.0b3.dev4 using info from Comic Vine on 2024-11-15 11:31:43. [Issue ID 192698]</Notes>
+  <Number>3</Number>
+  <PageCount>34</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="1990" ImageSize="550383" ImageWidth="1280" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="1985" ImageSize="959064" ImageWidth="1280" />
+    <Page DoublePage="False" Image="2" ImageHeight="2039" ImageSize="643424" ImageWidth="1280" />
+    <Page DoublePage="False" Image="3" ImageHeight="2017" ImageSize="472690" ImageWidth="1280" />
+    <Page DoublePage="False" Image="4" ImageHeight="2007" ImageSize="972253" ImageWidth="1280" />
+    <Page DoublePage="False" Image="5" ImageHeight="2007" ImageSize="1140706" ImageWidth="1280" />
+    <Page DoublePage="False" Image="6" ImageHeight="2006" ImageSize="1283622" ImageWidth="1280" />
+    <Page DoublePage="False" Image="7" ImageHeight="2008" ImageSize="1035457" ImageWidth="1280" />
+    <Page DoublePage="False" Image="8" ImageHeight="1989" ImageSize="1149535" ImageWidth="1280" />
+    <Page DoublePage="False" Image="9" ImageHeight="1999" ImageSize="1321376" ImageWidth="1280" />
+    <Page DoublePage="False" Image="10" ImageHeight="1992" ImageSize="1228754" ImageWidth="1280" />
+    <Page DoublePage="False" Image="11" ImageHeight="1999" ImageSize="970816" ImageWidth="1280" />
+    <Page DoublePage="False" Image="12" ImageHeight="2016" ImageSize="1040187" ImageWidth="1280" />
+    <Page DoublePage="False" Image="13" ImageHeight="1979" ImageSize="1028015" ImageWidth="1280" />
+    <Page DoublePage="False" Image="14" ImageHeight="1996" ImageSize="941290" ImageWidth="1280" />
+    <Page DoublePage="True" Image="15" ImageHeight="1899" ImageSize="1870748" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="2005" ImageSize="614672" ImageWidth="1280" />
+    <Page DoublePage="False" Image="17" ImageHeight="2019" ImageSize="930772" ImageWidth="1280" />
+    <Page DoublePage="False" Image="18" ImageHeight="2017" ImageSize="815530" ImageWidth="1280" />
+    <Page DoublePage="False" Image="19" ImageHeight="1995" ImageSize="700001" ImageWidth="1280" />
+    <Page DoublePage="False" Image="20" ImageHeight="1993" ImageSize="748726" ImageWidth="1280" />
+    <Page DoublePage="False" Image="21" ImageHeight="2020" ImageSize="736844" ImageWidth="1280" />
+    <Page DoublePage="False" Image="22" ImageHeight="2002" ImageSize="868580" ImageWidth="1280" />
+    <Page DoublePage="False" Image="23" ImageHeight="1990" ImageSize="892153" ImageWidth="1280" />
+    <Page DoublePage="False" Image="24" ImageHeight="2011" ImageSize="861503" ImageWidth="1280" />
+    <Page DoublePage="False" Image="25" ImageHeight="2005" ImageSize="1025076" ImageWidth="1280" />
+    <Page DoublePage="False" Image="26" ImageHeight="2005" ImageSize="1097458" ImageWidth="1280" />
+    <Page DoublePage="False" Image="27" ImageHeight="2003" ImageSize="1080566" ImageWidth="1280" />
+    <Page DoublePage="False" Image="28" ImageHeight="2015" ImageSize="1105834" ImageWidth="1280" />
+    <Page DoublePage="False" Image="29" ImageHeight="2015" ImageSize="654039" ImageWidth="1280" />
+    <Page DoublePage="False" Image="30" ImageHeight="1993" ImageSize="478529" ImageWidth="1280" />
+    <Page DoublePage="False" Image="31" ImageHeight="1994" ImageSize="845588" ImageWidth="1280" />
+    <Page DoublePage="True" Image="32" ImageHeight="960" ImageSize="138483" ImageWidth="1280" />
+    <Page DoublePage="True" Image="33" ImageHeight="776" ImageSize="543571" ImageWidth="800" />
+  </Pages>
+  <Penciller>Nei Ruffino, Tony Shasteen, Nei Ruffino, Tony Shasteen</Penciller>
+  <Publisher>Random House</Publisher>
+  <Series>The Talisman: The Road of Trials</Series>
+  <Summary>The sadistic Osmond has Jack in his clutches at last - and he won't let go until he's squeezed from him the truth about his identity and his presence inside the Queen's Pavillion. Cover by Massimo Carnevale.</Summary>
+  <Tags>Jack Sawyer</Tags>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/the-talisman-the-road-of-trials-3/4000-192698/</Web>
+  <Writer>Peter Straub, Robin Furth, Stephen King</Writer>
+  <Year>2010</Year>
+  <Count>6</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

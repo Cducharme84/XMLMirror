@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Ernie Ray Clementine</Characters>
+  <Count>1</Count>
+  <Day>28</Day>
+  <GTIN>urn:comicvine:4000-839686</GTIN>
+  <Genre>Comedy,Action/Adventure</Genre>
+  <Inker>Andrew Robinson,Eric Powell,Lewis LaRosa,Moreno DiNisio,Roland Boschi,Wes Craig,Andrew Robinson,Eric Powell,Lewis LaRosa,Moreno DiNisio,Roland Boschi,Wes Craig</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:55:48 [Issue ID 4000-839686] urn:comicvine:4000-839686
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 04:53:31. [Issue ID 839686]</Notes>
+  <Number>1</Number>
+  <PageCount>151</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="4352767" ImageWidth="1987" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="335095" ImageWidth="1987" />
+    <Page Image="2" ImageHeight="3056" ImageSize="674152" ImageWidth="1987" />
+    <Page Image="3" ImageHeight="3056" ImageSize="3794964" ImageWidth="3974" />
+    <Page Image="4" ImageHeight="3056" ImageSize="3809588" ImageWidth="1987" />
+    <Page Image="5" ImageHeight="3056" ImageSize="376449" ImageWidth="1987" />
+    <Page Image="6" ImageHeight="3056" ImageSize="356386" ImageWidth="1987" />
+    <Page Image="7" ImageHeight="3056" ImageSize="4299986" ImageWidth="1987" />
+    <Page Image="8" ImageHeight="3056" ImageSize="4509650" ImageWidth="1987" />
+    <Page Image="9" ImageHeight="3056" ImageSize="3987174" ImageWidth="1987" />
+    <Page Image="10" ImageHeight="3056" ImageSize="4137081" ImageWidth="1987" />
+    <Page Image="11" ImageHeight="3056" ImageSize="3022365" ImageWidth="1987" />
+    <Page Image="12" ImageHeight="3056" ImageSize="8271989" ImageWidth="3974" />
+    <Page Image="13" ImageHeight="3056" ImageSize="3920168" ImageWidth="1987" />
+    <Page Image="14" ImageHeight="3056" ImageSize="3177191" ImageWidth="1987" />
+    <Page Image="15" ImageHeight="3056" ImageSize="3515202" ImageWidth="1987" />
+    <Page Image="16" ImageHeight="3056" ImageSize="3468288" ImageWidth="1987" />
+    <Page Image="17" ImageHeight="3056" ImageSize="3819204" ImageWidth="1987" />
+    <Page Image="18" ImageHeight="3056" ImageSize="3562588" ImageWidth="1987" />
+    <Page Image="19" ImageHeight="3056" ImageSize="3667708" ImageWidth="1987" />
+    <Page Image="20" ImageHeight="3056" ImageSize="3512996" ImageWidth="1987" />
+    <Page Image="21" ImageHeight="3056" ImageSize="3315621" ImageWidth="1987" />
+    <Page Image="22" ImageHeight="3056" ImageSize="4409483" ImageWidth="1987" />
+    <Page Image="23" ImageHeight="3056" ImageSize="4184639" ImageWidth="1987" />
+    <Page Image="24" ImageHeight="3056" ImageSize="4140071" ImageWidth="1987" />
+    <Page Image="25" ImageHeight="3056" ImageSize="4335158" ImageWidth="1987" />
+    <Page Image="26" ImageHeight="3056" ImageSize="4378826" ImageWidth="1987" />
+    <Page Image="27" ImageHeight="3056" ImageSize="3167930" ImageWidth="1987" />
+    <Page Image="28" ImageHeight="3056" ImageSize="353395" ImageWidth="1987" />
+    <Page Image="29" ImageHeight="3056" ImageSize="364159" ImageWidth="1987" />
+    <Page Image="30" ImageHeight="3056" ImageSize="3727674" ImageWidth="1987" />
+    <Page Image="31" ImageHeight="3056" ImageSize="3403306" ImageWidth="1987" />
+    <Page Image="32" ImageHeight="3056" ImageSize="2782318" ImageWidth="1987" />
+    <Page Image="33" ImageHeight="3056" ImageSize="3172391" ImageWidth="1987" />
+    <Page Image="34" ImageHeight="3056" ImageSize="3183989" ImageWidth="1987" />
+    <Page Image="35" ImageHeight="3056" ImageSize="2288600" ImageWidth="1987" />
+    <Page Image="36" ImageHeight="3056" ImageSize="2122219" ImageWidth="1987" />
+    <Page Image="37" ImageHeight="3056" ImageSize="2804116" ImageWidth="1987" />
+    <Page Image="38" ImageHeight="3056" ImageSize="2483605" ImageWidth="1987" />
+    <Page Image="39" ImageHeight="3056" ImageSize="2180309" ImageWidth="1987" />
+    <Page Image="40" ImageHeight="3056" ImageSize="3666361" ImageWidth="1987" />
+    <Page Image="41" ImageHeight="3056" ImageSize="3646607" ImageWidth="1987" />
+    <Page Image="42" ImageHeight="3056" ImageSize="2935180" ImageWidth="1987" />
+    <Page Image="43" ImageHeight="3056" ImageSize="2808998" ImageWidth="1987" />
+    <Page Image="44" ImageHeight="3056" ImageSize="2827328" ImageWidth="1987" />
+    <Page Image="45" ImageHeight="3056" ImageSize="3065775" ImageWidth="1987" />
+    <Page Image="46" ImageHeight="3056" ImageSize="3112736" ImageWidth="1987" />
+    <Page Image="47" ImageHeight="3056" ImageSize="2768680" ImageWidth="1987" />
+    <Page Image="48" ImageHeight="3056" ImageSize="3209210" ImageWidth="1987" />
+    <Page Image="49" ImageHeight="3056" ImageSize="3062906" ImageWidth="1987" />
+    <Page Image="50" ImageHeight="3056" ImageSize="2881704" ImageWidth="1987" />
+    <Page Image="51" ImageHeight="3056" ImageSize="2853658" ImageWidth="1987" />
+    <Page Image="52" ImageHeight="3056" ImageSize="3338498" ImageWidth="1987" />
+    <Page Image="53" ImageHeight="3056" ImageSize="3073750" ImageWidth="1987" />
+    <Page Image="54" ImageHeight="3056" ImageSize="416858" ImageWidth="1987" />
+    <Page Image="55" ImageHeight="3056" ImageSize="2861112" ImageWidth="1987" />
+    <Page Image="56" ImageHeight="3056" ImageSize="2844105" ImageWidth="1987" />
+    <Page Image="57" ImageHeight="3056" ImageSize="2687196" ImageWidth="1987" />
+    <Page Image="58" ImageHeight="3056" ImageSize="2917477" ImageWidth="1987" />
+    <Page Image="59" ImageHeight="3056" ImageSize="2751180" ImageWidth="1987" />
+    <Page Image="60" ImageHeight="3056" ImageSize="2574348" ImageWidth="1987" />
+    <Page Image="61" ImageHeight="3056" ImageSize="2622031" ImageWidth="1987" />
+    <Page Image="62" ImageHeight="3056" ImageSize="2399318" ImageWidth="1987" />
+    <Page Image="63" ImageHeight="3056" ImageSize="2921308" ImageWidth="1987" />
+    <Page Image="64" ImageHeight="3056" ImageSize="2800231" ImageWidth="1987" />
+    <Page Image="65" ImageHeight="3056" ImageSize="2957638" ImageWidth="1987" />
+    <Page Image="66" ImageHeight="3056" ImageSize="2748228" ImageWidth="1987" />
+    <Page Image="67" ImageHeight="3056" ImageSize="2368666" ImageWidth="1987" />
+    <Page Image="68" ImageHeight="3056" ImageSize="2629736" ImageWidth="1987" />
+    <Page Image="69" ImageHeight="3056" ImageSize="2317273" ImageWidth="1987" />
+    <Page Image="70" ImageHeight="3056" ImageSize="2741312" ImageWidth="1987" />
+    <Page Image="71" ImageHeight="3056" ImageSize="2908488" ImageWidth="1987" />
+    <Page Image="72" ImageHeight="3056" ImageSize="2667054" ImageWidth="1987" />
+    <Page Image="73" ImageHeight="3056" ImageSize="2789985" ImageWidth="1987" />
+    <Page Image="74" ImageHeight="3056" ImageSize="2953923" ImageWidth="1987" />
+    <Page Image="75" ImageHeight="3056" ImageSize="2797271" ImageWidth="1987" />
+    <Page Image="76" ImageHeight="3056" ImageSize="2480998" ImageWidth="1987" />
+    <Page Image="77" ImageHeight="3056" ImageSize="2858942" ImageWidth="1987" />
+    <Page Image="78" ImageHeight="3056" ImageSize="2970988" ImageWidth="1987" />
+    <Page Image="79" ImageHeight="3056" ImageSize="3444545" ImageWidth="1987" />
+    <Page Image="80" ImageHeight="3056" ImageSize="3120686" ImageWidth="1987" />
+    <Page Image="81" ImageHeight="3056" ImageSize="6085215" ImageWidth="3974" />
+    <Page Image="82" ImageHeight="3056" ImageSize="3446063" ImageWidth="1987" />
+    <Page Image="83" ImageHeight="3056" ImageSize="3237221" ImageWidth="1987" />
+    <Page Image="84" ImageHeight="3056" ImageSize="3213059" ImageWidth="1987" />
+    <Page Image="85" ImageHeight="3056" ImageSize="3257332" ImageWidth="1987" />
+    <Page Image="86" ImageHeight="3056" ImageSize="2418682" ImageWidth="1987" />
+    <Page Image="87" ImageHeight="3056" ImageSize="3145216" ImageWidth="1987" />
+    <Page Image="88" ImageHeight="3056" ImageSize="7018195" ImageWidth="3974" />
+    <Page Image="89" ImageHeight="3056" ImageSize="2933787" ImageWidth="1987" />
+    <Page Image="90" ImageHeight="3056" ImageSize="3050569" ImageWidth="1987" />
+    <Page Image="91" ImageHeight="3056" ImageSize="3258762" ImageWidth="1987" />
+    <Page Image="92" ImageHeight="3056" ImageSize="2943502" ImageWidth="1987" />
+    <Page Image="93" ImageHeight="3056" ImageSize="3005462" ImageWidth="1987" />
+    <Page Image="94" ImageHeight="3056" ImageSize="2780832" ImageWidth="1987" />
+    <Page Image="95" ImageHeight="3056" ImageSize="2539720" ImageWidth="1987" />
+    <Page Image="96" ImageHeight="3056" ImageSize="2369299" ImageWidth="1987" />
+    <Page Image="97" ImageHeight="3056" ImageSize="2718595" ImageWidth="1987" />
+    <Page Image="98" ImageHeight="3056" ImageSize="2673450" ImageWidth="1987" />
+    <Page Image="99" ImageHeight="3056" ImageSize="3266963" ImageWidth="1987" />
+    <Page Image="100" ImageHeight="3056" ImageSize="3257418" ImageWidth="1987" />
+    <Page Image="101" ImageHeight="3056" ImageSize="2578838" ImageWidth="1987" />
+    <Page Image="102" ImageHeight="3056" ImageSize="734270" ImageWidth="1987" />
+    <Page Image="103" ImageHeight="3056" ImageSize="4212125" ImageWidth="1987" />
+    <Page Image="104" ImageHeight="3056" ImageSize="2332479" ImageWidth="1987" />
+    <Page Image="105" ImageHeight="3056" ImageSize="2177583" ImageWidth="1987" />
+    <Page Image="106" ImageHeight="3056" ImageSize="2202159" ImageWidth="1987" />
+    <Page Image="107" ImageHeight="3056" ImageSize="2392354" ImageWidth="1987" />
+    <Page Image="108" ImageHeight="3056" ImageSize="2261515" ImageWidth="1987" />
+    <Page Image="109" ImageHeight="3056" ImageSize="2465896" ImageWidth="1987" />
+    <Page Image="110" ImageHeight="3056" ImageSize="2365235" ImageWidth="1987" />
+    <Page Image="111" ImageHeight="3056" ImageSize="1803722" ImageWidth="1987" />
+    <Page Image="112" ImageHeight="3056" ImageSize="1883515" ImageWidth="1987" />
+    <Page Image="113" ImageHeight="3056" ImageSize="2240911" ImageWidth="1987" />
+    <Page Image="114" ImageHeight="3056" ImageSize="1837167" ImageWidth="1987" />
+    <Page Image="115" ImageHeight="3056" ImageSize="2018125" ImageWidth="1987" />
+    <Page Image="116" ImageHeight="3056" ImageSize="2224643" ImageWidth="1987" />
+    <Page Image="117" ImageHeight="3056" ImageSize="2588017" ImageWidth="1987" />
+    <Page Image="118" ImageHeight="3056" ImageSize="2081098" ImageWidth="1987" />
+    <Page Image="119" ImageHeight="3056" ImageSize="4956900" ImageWidth="3974" />
+    <Page Image="120" ImageHeight="3056" ImageSize="2017745" ImageWidth="1987" />
+    <Page Image="121" ImageHeight="3056" ImageSize="2244001" ImageWidth="1987" />
+    <Page Image="122" ImageHeight="3056" ImageSize="2326255" ImageWidth="1987" />
+    <Page Image="123" ImageHeight="3056" ImageSize="2231207" ImageWidth="1987" />
+    <Page Image="124" ImageHeight="3056" ImageSize="2126536" ImageWidth="1987" />
+    <Page Image="125" ImageHeight="3056" ImageSize="2608730" ImageWidth="1987" />
+    <Page Image="126" ImageHeight="3056" ImageSize="2307791" ImageWidth="1987" />
+    <Page Image="127" ImageHeight="3056" ImageSize="2113880" ImageWidth="1987" />
+    <Page Image="128" ImageHeight="3056" ImageSize="2957098" ImageWidth="1987" />
+    <Page Image="129" ImageHeight="3056" ImageSize="2588214" ImageWidth="1987" />
+    <Page Image="130" ImageHeight="3056" ImageSize="2651239" ImageWidth="1987" />
+    <Page Image="131" ImageHeight="3056" ImageSize="2079372" ImageWidth="1987" />
+    <Page Image="132" ImageHeight="3056" ImageSize="2110741" ImageWidth="1987" />
+    <Page Image="133" ImageHeight="3056" ImageSize="2618940" ImageWidth="1987" />
+    <Page Image="134" ImageHeight="3056" ImageSize="2174647" ImageWidth="1987" />
+    <Page Image="135" ImageHeight="3056" ImageSize="1489781" ImageWidth="1987" />
+    <Page Image="136" ImageHeight="3056" ImageSize="676704" ImageWidth="1987" />
+    <Page Image="137" ImageHeight="3056" ImageSize="2171168" ImageWidth="1987" />
+    <Page Image="138" ImageHeight="3056" ImageSize="2677174" ImageWidth="1987" />
+    <Page Image="139" ImageHeight="3056" ImageSize="2046640" ImageWidth="1987" />
+    <Page Image="140" ImageHeight="3056" ImageSize="2053381" ImageWidth="1987" />
+    <Page Image="141" ImageHeight="3056" ImageSize="3847263" ImageWidth="1987" />
+    <Page Image="142" ImageHeight="3056" ImageSize="1814654" ImageWidth="1987" />
+    <Page Image="143" ImageHeight="3056" ImageSize="2144164" ImageWidth="1987" />
+    <Page Image="144" ImageHeight="3056" ImageSize="5214240" ImageWidth="3974" />
+    <Page Image="145" ImageHeight="3056" ImageSize="1918856" ImageWidth="1987" />
+    <Page Image="146" ImageHeight="3056" ImageSize="2327111" ImageWidth="1987" />
+    <Page Image="147" ImageHeight="3056" ImageSize="3748974" ImageWidth="1987" />
+    <Page Image="148" ImageHeight="3056" ImageSize="335095" ImageWidth="1987" />
+    <Page Image="149" ImageHeight="3056" ImageSize="2923903" ImageWidth="1987" />
+    <Page Image="150" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Andrew Robinson,Eric Powell,Lewis LaRosa,Moreno DiNisio,Roland Boschi,Wes Craig,Andrew Robinson,Eric Powell,Lewis LaRosa,Moreno DiNisio,Roland Boschi,Wes Craig</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>The Scumbag: Cocainefinger</Series>
+  <Summary>The fate of the world rests in the hands of the worst person on it! From New York Times best selling writer RICK REMENDER and a murderers' row of all-star artistic talent, comes the story of Ernie Ray Clementine - a profane, illiterate, drug-addicted biker with a fifth-grade education accidentally received a power-imbuing serum making him the world's most powerful super spy. He is a relic of a bygone era, the living embodiment of sex, drugs, and rock and roll - so, this doesn't make things easy for the spy organization that needs his help as they bribe, cajole, and manipulate him to choose between his own self-interests and doing what's right.
+
+Collects THE SCUMBAG #1-5.</Summary>
+  <Tags>Ernie Ray Clementine</Tags>
+  <Title>Volume One</Title>
+  <Volume>2021</Volume>
+  <Web>https://comicvine.gamespot.com/the-scumbag-cocainefinger-1-volume-one/4000-839686/</Web>
+  <Writer>Rick Remender</Writer>
+  <Year>2021</Year>
+  <CoverArtist>Nic Klein</CoverArtist>
+</ComicInfo>

@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Sara Pezzini</Characters>
+  <Day>27</Day>
+  <GTIN>urn:comicvine:4000-414176</GTIN>
+  <Inker>Diego Bernard</Inker>
+  <Locations>Chicago</Locations>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:34:55 [Issue ID 4000-414176] urn:comicvine:4000-414176
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 00:07:32. [Issue ID 1565649]</Notes>
+  <Number>2</Number>
+  <PageCount>154</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="7115988" Type="FrontCover" />
+    <Page Image="1" ImageSize="396014" />
+    <Page Image="2" ImageSize="4071661" />
+    <Page Image="3" ImageSize="1391444" />
+    <Page Image="4" ImageSize="1762625" />
+    <Page Image="5" ImageSize="1140445" />
+    <Page Image="6" ImageSize="1138909" />
+    <Page Image="7" ImageSize="1228744" />
+    <Page Image="8" ImageSize="1055554" />
+    <Page Image="9" ImageSize="947221" />
+    <Page Image="10" ImageSize="1341871" />
+    <Page Image="11" ImageSize="1169374" />
+    <Page Image="12" ImageSize="974174" />
+    <Page Image="13" ImageSize="1016287" />
+    <Page Image="14" ImageSize="924818" />
+    <Page Image="15" ImageSize="1108041" />
+    <Page Image="16" ImageSize="1372459" />
+    <Page Image="17" ImageSize="1180315" />
+    <Page Image="18" ImageSize="1257511" />
+    <Page Image="19" ImageSize="1340544" />
+    <Page Image="20" ImageSize="1226927" />
+    <Page Image="21" ImageSize="1300627" />
+    <Page Image="22" ImageSize="1717732" />
+    <Page Image="23" ImageSize="1391408" />
+    <Page Image="24" ImageSize="3546173" />
+    <Page Image="25" ImageSize="1618661" />
+    <Page Image="26" ImageSize="1668163" />
+    <Page Image="27" ImageSize="1411516" />
+    <Page Image="28" ImageSize="1749910" />
+    <Page Image="29" ImageSize="1864700" />
+    <Page Image="30" ImageSize="1732798" />
+    <Page Image="31" ImageSize="1892144" />
+    <Page Image="32" ImageSize="1939862" />
+    <Page Image="33" ImageSize="2166917" />
+    <Page Image="34" ImageSize="1678757" />
+    <Page Image="35" ImageSize="1730145" />
+    <Page Image="36" ImageSize="1466055" />
+    <Page Image="37" ImageSize="1707026" />
+    <Page Image="38" ImageSize="1786091" />
+    <Page Image="39" ImageSize="1698686" />
+    <Page Image="40" ImageSize="1896527" />
+    <Page Image="41" ImageSize="1686977" />
+    <Page Image="42" ImageSize="1590908" />
+    <Page Image="43" ImageSize="1270105" />
+    <Page Image="44" ImageSize="1391408" />
+    <Page Image="45" ImageSize="2725332" />
+    <Page Image="46" ImageSize="1917504" />
+    <Page Image="47" ImageSize="2347974" />
+    <Page Image="48" ImageSize="2193791" />
+    <Page Image="49" ImageSize="1918048" />
+    <Page Image="50" ImageSize="2268273" />
+    <Page Image="51" ImageSize="2243137" />
+    <Page Image="52" ImageSize="1437446" />
+    <Page Image="53" ImageSize="2489417" />
+    <Page Image="54" ImageSize="2345975" />
+    <Page Image="55" ImageSize="2679551" />
+    <Page Image="56" ImageSize="2160044" />
+    <Page Image="57" ImageSize="2147476" />
+    <Page Image="58" ImageSize="2294166" />
+    <Page Image="59" ImageSize="2323962" />
+    <Page Image="60" ImageSize="2270285" />
+    <Page Image="61" ImageSize="2346726" />
+    <Page Image="62" ImageSize="2057745" />
+    <Page Image="63" ImageSize="2158318" />
+    <Page Image="64" ImageSize="1752686" />
+    <Page Image="65" ImageSize="1391408" />
+    <Page Image="66" ImageSize="3978607" />
+    <Page Image="67" ImageSize="1570392" />
+    <Page Image="68" ImageSize="2180307" />
+    <Page Image="69" ImageSize="1885275" />
+    <Page Image="70" ImageSize="1925550" />
+    <Page Image="71" ImageSize="1828657" />
+    <Page Image="72" ImageSize="1777676" />
+    <Page Image="73" ImageSize="1934975" />
+    <Page Image="74" ImageSize="2235522" />
+    <Page Image="75" ImageSize="1949729" />
+    <Page Image="76" ImageSize="1889554" />
+    <Page Image="77" ImageSize="1784311" />
+    <Page Image="78" ImageSize="1979784" />
+    <Page Image="79" ImageSize="2050395" />
+    <Page Image="80" ImageSize="1922834" />
+    <Page Image="81" ImageSize="1928323" />
+    <Page Image="82" ImageSize="2132774" />
+    <Page Image="83" ImageSize="2142064" />
+    <Page Image="84" ImageSize="2305476" />
+    <Page Image="85" ImageSize="2081237" />
+    <Page Image="86" ImageSize="1391408" />
+    <Page Image="87" ImageSize="3859921" />
+    <Page Image="88" ImageSize="1792499" />
+    <Page Image="89" ImageSize="2471339" />
+    <Page Image="90" ImageSize="2146239" />
+    <Page Image="91" ImageSize="2007647" />
+    <Page Image="92" ImageSize="2037734" />
+    <Page Image="93" ImageSize="1864648" />
+    <Page Image="94" ImageSize="4884652" />
+    <Page Image="95" ImageSize="2022395" />
+    <Page Image="96" ImageSize="2415847" />
+    <Page Image="97" ImageSize="3110153" />
+    <Page Image="98" ImageSize="2005578" />
+    <Page Image="99" ImageSize="1892819" />
+    <Page Image="100" ImageSize="1950548" />
+    <Page Image="101" ImageSize="2113607" />
+    <Page Image="102" ImageSize="1960698" />
+    <Page Image="103" ImageSize="1810569" />
+    <Page Image="104" ImageSize="1996682" />
+    <Page Image="105" ImageSize="2085348" />
+    <Page Image="106" ImageSize="1391408" />
+    <Page Image="107" ImageSize="3762363" />
+    <Page Image="108" ImageSize="2233799" />
+    <Page Image="109" ImageSize="1527481" />
+    <Page Image="110" ImageSize="1348125" />
+    <Page Image="111" ImageSize="1046243" />
+    <Page Image="112" ImageSize="1162289" />
+    <Page Image="113" ImageSize="1183974" />
+    <Page Image="114" ImageSize="2059581" />
+    <Page Image="115" ImageSize="1808278" />
+    <Page Image="116" ImageSize="4569062" />
+    <Page Image="117" ImageSize="2002980" />
+    <Page Image="118" ImageSize="3417567" />
+    <Page Image="119" ImageSize="2999097" />
+    <Page Image="120" ImageSize="4188425" />
+    <Page Image="121" ImageSize="1860033" />
+    <Page Image="122" ImageSize="3972656" />
+    <Page Image="123" ImageSize="1762035" />
+    <Page Image="124" ImageSize="2202062" />
+    <Page Image="125" ImageSize="2507043" />
+    <Page Image="126" ImageSize="1340781" />
+    <Page Image="127" ImageSize="1842327" />
+    <Page Image="128" ImageSize="1391408" />
+    <Page Image="129" ImageSize="1505539" />
+    <Page Image="130" ImageSize="1886135" />
+    <Page Image="131" ImageSize="1637751" />
+    <Page Image="132" ImageSize="1583686" />
+    <Page Image="133" ImageSize="1563958" />
+    <Page Image="134" ImageSize="2022851" />
+    <Page Image="135" ImageSize="1511495" />
+    <Page Image="136" ImageSize="1525293" />
+    <Page Image="137" ImageSize="1391408" />
+    <Page Image="138" ImageSize="1934069" />
+    <Page Image="139" ImageSize="1588603" />
+    <Page Image="140" ImageSize="1263605" />
+    <Page Image="141" ImageSize="1565354" />
+    <Page Image="142" ImageSize="1427283" />
+    <Page Image="143" ImageSize="1561446" />
+    <Page Image="144" ImageSize="1284994" />
+    <Page Image="145" ImageSize="1575360" />
+    <Page Image="146" ImageSize="1797153" />
+    <Page Image="147" ImageSize="1492695" />
+    <Page Image="148" ImageSize="1391408" />
+    <Page Image="149" ImageSize="3603099" />
+    <Page Image="150" ImageSize="3876968" />
+    <Page Image="151" ImageSize="2240943" />
+    <Page Image="152" ImageSize="1140879" />
+    <Page Image="153" ImageSize="3541111" />
+  </Pages>
+  <Penciller>Diego Bernard</Penciller>
+  <Publisher>Panini Deutschland</Publisher>
+  <Series>Witchblade: Rebirth</Series>
+  <Summary>THE REBIRTH OF WITCHBLADE CONTINUES! The upstart creative team of TIM SEELEY (HACK/SLASH, BLOODSTRIKE) and DIEGO BERNARD (The Man With No Name) continues their hot run on Top Cow's flagship title! Even as Sara Pezzini tries to settle into her new life in Chicago, the Witchblade's talent for seeking out weirdness pulls her into bizarre case after bizarre case. This volume sees Pezzini dealing with mercenary mana-hunters, spirit realms, fantastical steampunk warriors, and the most distilled embodiment of evil she's ever encountered. And that's before the local cops and corrupt political system complicates her life... Featuring a complete cover gallery alongside a host of bonus content and extras, this trade is a must for anyone curious about Top Cow's REBIRTH! Collects WITCHBLADE #156-#160.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-15 09:44:12.  [CVDB414176]
+
+https://comicvine.gamespot.com/witchblade-rebirth-2-volume-2/4000-414176/</Summary>
+  <Tags>Sara Pezzini,Chicago</Tags>
+  <Title>Portale</Title>
+  <Volume>2013</Volume>
+  <Web>https://comicvine.gamespot.com/witchblade-rebirth-2-volume-2/4000-414176/</Web>
+  <Writer>Tim Seeley</Writer>
+  <Year>2013</Year>
+  <Count>6</Count>
+  <LanguageISO>de</LanguageISO>
+</ComicInfo>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Avengelyne</Characters>
+	<Count>3</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-118943</GTIN>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:42:48 [Issue ID 4000-118943] urn:comicvine:4000-118943</Notes>
+	<Number>½</Number>
+	<PageCount>17</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1280" ImageHeight="2000" ImageSize="879909" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1280" ImageHeight="1975" ImageSize="815771"/>
+		<Page Image="2" ImageWidth="1280" ImageHeight="1995" ImageSize="1048404"/>
+		<Page Image="3" ImageWidth="1280" ImageHeight="1992" ImageSize="925837"/>
+		<Page Image="4" ImageWidth="1280" ImageHeight="1997" ImageSize="531662"/>
+		<Page Image="5" ImageWidth="1280" ImageHeight="1989" ImageSize="819594"/>
+		<Page Image="6" ImageWidth="2560" ImageHeight="1975" ImageSize="1554392"/>
+		<Page Image="7" ImageWidth="1280" ImageHeight="1982" ImageSize="799815"/>
+		<Page Image="8" ImageWidth="1280" ImageHeight="1989" ImageSize="776264"/>
+		<Page Image="9" ImageWidth="1280" ImageHeight="1983" ImageSize="617242"/>
+		<Page Image="10" ImageWidth="1280" ImageHeight="1998" ImageSize="682289"/>
+		<Page Image="11" ImageWidth="1280" ImageHeight="2020" ImageSize="690230"/>
+		<Page Image="12" ImageWidth="1280" ImageHeight="1984" ImageSize="714204"/>
+		<Page Image="13" ImageWidth="1280" ImageHeight="2008" ImageSize="715902"/>
+		<Page Image="14" ImageWidth="1280" ImageHeight="1990" ImageSize="671921"/>
+		<Page Image="15" ImageWidth="1280" ImageHeight="1989" ImageSize="746062"/>
+		<Page Image="16" ImageSize="112416"/>
+	</Pages>
+	<Penciller>Rick Lyon</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Ori-DCP)</ScanInformation>
+	<Series>Avengelyne: Dragon Realm</Series>
+	<Title>1/2</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/avengelyne-dragon-realm-1-2-1-2/4000-118943/</Web>
+	<Year>2001</Year>
+</ComicInfo>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Noro,Tibitha,Agger</Characters>
+  <Colorist>Digikore Studios</Colorist>
+  <Count>1</Count>
+  <GTIN>urn:comicvine:4000-434068</GTIN>
+  <Letterer>Kurt Hathaway</Letterer>
+  <Locations>Vermintown,London</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:39:35 [Issue ID 4000-434068] urn:comicvine:4000-434068
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:30:45. [Issue ID 1155553]</Notes>
+  <Number>1</Number>
+  <PageCount>21</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3127" ImageSize="1724296" ImageWidth="2048" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3140" ImageSize="720902" ImageWidth="2048" />
+    <Page Image="2" ImageHeight="3129" ImageSize="1779752" ImageWidth="2048" />
+    <Page Image="3" ImageHeight="3140" ImageSize="1326073" ImageWidth="2048" />
+    <Page Image="4" ImageHeight="3140" ImageSize="1945619" ImageWidth="2048" />
+    <Page Image="5" ImageHeight="3140" ImageSize="1682362" ImageWidth="2048" />
+    <Page Image="6" ImageHeight="3140" ImageSize="1531162" ImageWidth="2048" />
+    <Page Image="7" ImageHeight="3140" ImageSize="1851175" ImageWidth="2048" />
+    <Page Image="8" ImageHeight="3140" ImageSize="1410500" ImageWidth="2048" />
+    <Page Image="9" ImageHeight="3140" ImageSize="1527857" ImageWidth="2048" />
+    <Page Image="10" ImageHeight="3140" ImageSize="1533371" ImageWidth="2048" />
+    <Page Image="11" ImageHeight="3140" ImageSize="1522503" ImageWidth="2048" />
+    <Page Image="12" ImageHeight="3140" ImageSize="1526214" ImageWidth="2048" />
+    <Page Image="13" ImageHeight="3140" ImageSize="1453354" ImageWidth="2048" />
+    <Page Image="14" ImageHeight="3140" ImageSize="1418416" ImageWidth="2048" />
+    <Page Image="15" ImageHeight="3119" ImageSize="1831182" ImageWidth="2048" />
+    <Page Image="16" ImageHeight="3144" ImageSize="1773583" ImageWidth="2048" />
+    <Page Image="17" ImageHeight="3119" ImageSize="1818207" ImageWidth="2048" />
+    <Page Image="18" ImageHeight="3135" ImageSize="835924" ImageWidth="2048" />
+    <Page Image="19" ImageHeight="3140" ImageSize="230010" ImageWidth="2048" />
+    <Page Image="20" ImageSize="138246" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Disenchanted Debut</Series>
+  <Summary>The Fair Folk have fallen on hard times and have to live in squalid conditions underneath London.</Summary>
+  <Volume>2013</Volume>
+  <Web>https://comicvine.gamespot.com/disenchanted-debut-1/4000-434068/</Web>
+  <Writer>Simon Spurrier</Writer>
+  <Year>2013</Year>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

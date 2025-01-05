@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>29</Day>
+	<Editor>Ed Polgardy</Editor>
+	<GTIN>urn:comicvine:4000-142983</GTIN>
+	<Inker>Al Davison</Inker>
+	<Letterer>Todd Klein</Letterer>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:30 [Issue ID 4000-142983] urn:comicvine:4000-142983</Notes>
+	<Number>9</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="160108" Type="FrontCover"/>
+		<Page Image="1" ImageSize="490016"/>
+		<Page Image="2" ImageSize="418533"/>
+		<Page Image="3" ImageSize="614017"/>
+		<Page Image="4" ImageSize="416536"/>
+		<Page Image="5" ImageSize="424447"/>
+		<Page Image="6" ImageSize="559130"/>
+		<Page Image="7" ImageSize="505950"/>
+		<Page Image="8" ImageSize="643293"/>
+		<Page Image="9" ImageSize="611552"/>
+		<Page Image="10" ImageSize="362314"/>
+		<Page Image="11" ImageSize="433737"/>
+		<Page Image="12" ImageSize="470843"/>
+		<Page Image="13" ImageSize="422558"/>
+		<Page Image="14" ImageSize="432013"/>
+		<Page Image="15" ImageSize="455517"/>
+		<Page Image="16" ImageSize="326631"/>
+		<Page Image="17" ImageSize="405407"/>
+		<Page Image="18" ImageSize="328427"/>
+		<Page Image="19" ImageSize="510399"/>
+		<Page Image="20" ImageSize="360782"/>
+		<Page Image="21" ImageSize="343744"/>
+		<Page Image="22" ImageSize="404995"/>
+		<Page Image="23" ImageSize="424656"/>
+		<Page Image="24" ImageSize="404436"/>
+	</Pages>
+	<Penciller>Al Davison</Penciller>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Teknophage</Series>
+	<Summary>https://comicvine.gamespot.com/teknophage-9-heart-of-the-beast/4000-142983/</Summary>
+	<Title>Heart of the Beast</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/teknophage-9-heart-of-the-beast/4000-142983/</Web>
+	<Writer>Paul Jenkins</Writer>
+	<Year>1996</Year>
+</ComicInfo>

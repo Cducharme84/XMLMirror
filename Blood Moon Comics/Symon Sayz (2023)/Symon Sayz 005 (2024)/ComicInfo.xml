@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>7</Count>
+	<Format>Limited Series</Format>
+	<Genre>Horror</Genre>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-18T02:48:08</Notes>
+	<Number>5</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3936" ImageSize="1444603" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3936" ImageSize="1755937"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3936" ImageSize="2359677"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3936" ImageSize="834752"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3936" ImageSize="1589561"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3936" ImageSize="1463261"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3936" ImageSize="1374009"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3936" ImageSize="1729672"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3936" ImageSize="1258520"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3936" ImageSize="1187645"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3936" ImageSize="1222811"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3936" ImageSize="1519464"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3936" ImageSize="1607740"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3936" ImageSize="1446785"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3936" ImageSize="1411647"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3936" ImageSize="1455799"/>
+		<Page DoublePage="True" Image="16" ImageWidth="5120" ImageHeight="3936" ImageSize="3274763"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3936" ImageSize="1106846"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3936" ImageSize="1360108"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3936" ImageSize="1194134"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3936" ImageSize="1256827"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3936" ImageSize="1418039"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3936" ImageSize="1628490"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3936" ImageSize="1434694"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3936" ImageSize="1409590"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3936" ImageSize="1497702"/>
+		<Page Image="26" ImageSize="695310"/>
+	</Pages>
+	<Publisher>Blood Moon Comics</Publisher>
+	<Series>Symon Sayz</Series>
+	<Summary>Symon is beginning the awakening process. Someone saved the Cardinal and wait until you found out who! A new story arc and this is a perfect jumping on point for new readers! Enter the mind of madness!</Summary>
+	<Volume>2023</Volume>
+	<Writer>Jeff Meuth</Writer>
+	<Year>2024</Year>
+</ComicInfo>

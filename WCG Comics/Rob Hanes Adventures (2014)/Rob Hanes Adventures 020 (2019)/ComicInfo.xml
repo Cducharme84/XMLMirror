@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>20</Count>
+	<CoverArtist>Randy Reynaldo</CoverArtist>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-694420</GTIN>
+	<Genre>Adventure,Crime</Genre>
+	<Inker>Randy Reynaldo</Inker>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-28T02:18:47 [Issue ID 4000-694420] urn:comicvine:4000-694420</Notes>
+	<Number>20</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1484293" Type="FrontCover"/>
+		<Page Image="1" ImageSize="3892925"/>
+		<Page Image="2" ImageSize="2510763"/>
+		<Page Image="3" ImageSize="2211004"/>
+		<Page Image="4" ImageSize="2530040"/>
+		<Page Image="5" ImageSize="2413204"/>
+		<Page Image="6" ImageSize="2018702"/>
+		<Page Image="7" ImageSize="2516137"/>
+		<Page Image="8" ImageSize="2254532"/>
+		<Page Image="9" ImageSize="2403958"/>
+		<Page Image="10" ImageSize="2396237"/>
+		<Page Image="11" ImageSize="2144968"/>
+		<Page Image="12" ImageSize="2179535"/>
+		<Page Image="13" ImageSize="2287039"/>
+		<Page Image="14" ImageSize="2164478"/>
+		<Page Image="15" ImageSize="2342989"/>
+		<Page Image="16" ImageSize="2450356"/>
+		<Page Image="17" ImageSize="2796621"/>
+		<Page Image="18" ImageSize="2277349"/>
+		<Page Image="19" ImageSize="2303209"/>
+		<Page Image="20" ImageSize="2018673"/>
+		<Page Image="21" ImageSize="2604079"/>
+		<Page Image="22" ImageSize="2200193"/>
+		<Page Image="23" ImageSize="2641842"/>
+		<Page Image="24" ImageSize="2792414"/>
+		<Page Image="25" ImageSize="2017977"/>
+		<Page Image="26" ImageSize="2394708"/>
+		<Page Image="27" ImageSize="1546002"/>
+		<Page Image="28" ImageSize="1489743"/>
+		<Page Image="29" ImageSize="1560342"/>
+		<Page Image="30" ImageSize="1495621"/>
+	</Pages>
+	<Penciller>Randy Reynaldo</Penciller>
+	<Publisher>WCG Comics</Publisher>
+	<Series>Rob Hanes Adventures</Series>
+	<Summary>After his detective agency, Justice International, is nationalized by federal government as its own private spy and security agency, troubleshooter Rob Hanes is assigned to track down the president's missing daughter. His investigation, however, uncovers evidence of deep corruption and moral decay in the government.</Summary>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-694420/</Web>
+	<Writer>Randy Reynaldo</Writer>
+	<Year>2019</Year>
+</ComicInfo>

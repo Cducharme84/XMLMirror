@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Colorist>Gaston Zubeklia,Gaston Zubeldia</Colorist>
+	<Count>6</Count>
+	<CoverArtist>Emiliano Urdinola,Jamie Tyndall,Karl Liversidge,Paolo Pantalena,Ron Leary Jr.,Ryan Kincaid</CoverArtist>
+	<Editor>Murphey</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-921175</GTIN>
+	<Inker>Emiliano Urdinola,Emiliano Urdinoloa</Inker>
+	<Letterer>Joel Rodriguez</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-07T19:51:50 [Issue ID 4000-921175] urn:comicvine:4000-921175</Notes>
+	<Number>4</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3886" ImageSize="2540425" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3886" ImageSize="1837423"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3886" ImageSize="2324574"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3886" ImageSize="1786658"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3886" ImageSize="1725682"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3886" ImageSize="1883794"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3886" ImageSize="1992498"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3886" ImageSize="2440491"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3886" ImageSize="2191576"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3886" ImageSize="2270853"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3886" ImageSize="2547734"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3886" ImageSize="2244037"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3886" ImageSize="2051563"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3886" ImageSize="2222278"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3886" ImageSize="2007877"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3886" ImageSize="2109744"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3886" ImageSize="2353866"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3886" ImageSize="2280121"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3886" ImageSize="2321189"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3886" ImageSize="2155319"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3886" ImageSize="2153454"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3886" ImageSize="2217747"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3886" ImageSize="1346529"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3886" ImageSize="1292562"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3886" ImageSize="964000"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3886" ImageSize="1600422"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3886" ImageSize="1965735"/>
+		<Page Image="27" ImageSize="1516680"/>
+	</Pages>
+	<Penciller>Emiliano Urdinola</Penciller>
+	<Publisher>MERC</Publisher>
+	<Series>Deathrage</Series>
+	<Summary>After tearing through the Kodiak Syndicate, it's finally time for Deathrage to get some answers.</Summary>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/deathrage-4/4000-921175/</Web>
+	<Writer>Murphey</Writer>
+	<Year>2021</Year>
+</ComicInfo>

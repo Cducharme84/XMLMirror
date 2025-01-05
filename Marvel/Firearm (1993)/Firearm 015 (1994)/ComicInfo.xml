@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Ellen Swan,Penny Slater,Cayman,Pressure,Anything,Old Man,Sweetface,Rafferty,Plug,Firearm,Night Man</Characters>
+  <Day>15</Day>
+  <GTIN>urn:comicvine:4000-102501</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:16:38 [Issue ID 4000-102501] urn:comicvine:4000-102501
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 03:47:34. [Issue ID 227453]</Notes>
+  <Number>15</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1355" ImageSize="411492" ImageWidth="900" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1350" ImageSize="492137" ImageWidth="900" />
+    <Page Image="2" ImageHeight="1355" ImageSize="309853" ImageWidth="900" />
+    <Page Image="3" ImageHeight="1347" ImageSize="781821" ImageWidth="1800" />
+    <Page Image="4" ImageHeight="1350" ImageSize="331426" ImageWidth="900" />
+    <Page Image="5" ImageHeight="1353" ImageSize="389902" ImageWidth="900" />
+    <Page Image="6" ImageHeight="1372" ImageSize="364293" ImageWidth="900" />
+    <Page Image="7" ImageHeight="1365" ImageSize="417001" ImageWidth="900" />
+    <Page Image="8" ImageHeight="1351" ImageSize="399917" ImageWidth="900" />
+    <Page Image="9" ImageHeight="1354" ImageSize="364622" ImageWidth="900" />
+    <Page Image="10" ImageHeight="1350" ImageSize="436402" ImageWidth="900" />
+    <Page Image="11" ImageHeight="1354" ImageSize="421680" ImageWidth="900" />
+    <Page Image="12" ImageHeight="1357" ImageSize="436459" ImageWidth="900" />
+    <Page Image="13" ImageHeight="1376" ImageSize="411432" ImageWidth="900" />
+    <Page Image="14" ImageHeight="1356" ImageSize="332129" ImageWidth="900" />
+    <Page Image="15" ImageHeight="1361" ImageSize="408085" ImageWidth="900" />
+    <Page Image="16" ImageHeight="1350" ImageSize="337645" ImageWidth="900" />
+    <Page Image="17" ImageHeight="1359" ImageSize="355342" ImageWidth="900" />
+    <Page Image="18" ImageHeight="1355" ImageSize="387352" ImageWidth="900" />
+    <Page Image="19" ImageHeight="1362" ImageSize="394298" ImageWidth="900" />
+    <Page Image="20" ImageHeight="1355" ImageSize="769012" ImageWidth="1800" />
+    <Page Image="21" ImageHeight="1361" ImageSize="423979" ImageWidth="900" />
+    <Page Image="22" ImageHeight="1358" ImageSize="372656" ImageWidth="900" />
+    <Page Image="23" ImageHeight="1355" ImageSize="429939" ImageWidth="900" />
+    <Page Image="24" ImageHeight="1353" ImageSize="388366" ImageWidth="900" />
+    <Page Image="25" ImageHeight="1361" ImageSize="356210" ImageWidth="900" />
+    <Page Image="26" ImageSize="410334" />
+  </Pages>
+  <Publisher>Marvel</Publisher>
+  <Series>Firearm</Series>
+  <Summary>.
+
+https://comicvine.gamespot.com/firearm-15-bay-city-blues/4000-102501/</Summary>
+  <Teams>Freex</Teams>
+  <Title>Bay City Blues - The Rafferty Saga Part Three</Title>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/firearm-15-bay-city-blues/4000-102501/</Web>
+  <Writer>James Robinson,James Robinson</Writer>
+  <Year>1994</Year>
+  <Count>19</Count>
+  <Genre>Superhero</Genre>
+  <Imprint>Malibu Comics</Imprint>
+  <LanguageISO>en</LanguageISO>
+  <Penciller>Mike Edsey,Mike Edsey</Penciller>
+  <Inker>Mike Christian,Mike Christian</Inker>
+  <Colorist>Robert Alvord,Malibu Pack Rats,Robert Alvord,Malibu Pack Rats</Colorist>
+  <Letterer>Susan Dorne,Susan Dorne</Letterer>
+  <Editor>Hank Kanalz</Editor>
+</ComicInfo>

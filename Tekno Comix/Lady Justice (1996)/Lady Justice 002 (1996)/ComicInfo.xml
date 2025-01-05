@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Lady Justice</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-118382</GTIN>
+	<Inker>Andrew Pepoy,Ken Bruzenak</Inker>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:49 [Issue ID 4000-118382] urn:comicvine:4000-118382</Notes>
+	<Number>2</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="323652" Type="FrontCover"/>
+		<Page Image="1" ImageSize="378303"/>
+		<Page Image="2" ImageSize="475559"/>
+		<Page Image="3" ImageSize="417409"/>
+		<Page Image="4" ImageSize="403213"/>
+		<Page Image="5" ImageSize="505788"/>
+		<Page Image="6" ImageSize="469810"/>
+		<Page Image="7" ImageSize="872894"/>
+		<Page Image="8" ImageSize="487900"/>
+		<Page Image="9" ImageSize="508511"/>
+		<Page Image="10" ImageSize="493120"/>
+		<Page Image="11" ImageSize="591551"/>
+		<Page Image="12" ImageSize="679229"/>
+		<Page Image="13" ImageSize="517134"/>
+		<Page Image="14" ImageSize="411914"/>
+		<Page Image="15" ImageSize="514843"/>
+		<Page Image="16" ImageSize="391986"/>
+		<Page Image="17" ImageSize="359076"/>
+		<Page Image="18" ImageSize="396855"/>
+		<Page Image="19" ImageSize="464368"/>
+		<Page Image="20" ImageSize="472838"/>
+		<Page Image="21" ImageSize="522749"/>
+		<Page Image="22" ImageSize="532781"/>
+		<Page Image="23" ImageSize="433480"/>
+		<Page Image="24" ImageSize="446478"/>
+	</Pages>
+	<Penciller>Andrew Pepoy,Ken Bruzenak</Penciller>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Lady Justice</Series>
+	<Summary>https://comicvine.gamespot.com/lady-justice-2-control-freak-part-1-of-4-psycho-th/4000-118382/</Summary>
+	<Tags>Lady Justice</Tags>
+	<Title>Control Freak Part 1 of 4: Psycho Therapy</Title>
+	<Volume>1996</Volume>
+	<Web>https://comicvine.gamespot.com/lady-justice-2-control-freak-part-1-of-4-psycho-th/4000-118382/</Web>
+	<Year>1996</Year>
+</ComicInfo>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Matau,Nokama,Nuju,Onewa,Vakama,Whenua</Characters>
+	<Colorist>Peter Pantazis</Colorist>
+	<Day>1</Day>
+	<Editor>Jaye Gardner</Editor>
+	<GTIN>urn:comicvine:4000-213886</GTIN>
+	<Inker>Randy Elliott</Inker>
+	<Letterer>Ken Lopez</Letterer>
+	<Locations>The Island of Metru-Nui</Locations>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:55:53 [Issue ID 4000-213886] urn:comicvine:4000-213886</Notes>
+	<Number>19</Number>
+	<PageCount>16</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="361722" Type="FrontCover"/>
+		<Page Image="1" ImageSize="224522"/>
+		<Page Image="2" ImageSize="444232"/>
+		<Page Image="3" ImageSize="390310"/>
+		<Page Image="4" ImageSize="410292"/>
+		<Page Image="5" ImageSize="432772"/>
+		<Page Image="6" ImageSize="415288"/>
+		<Page Image="7" ImageSize="355039"/>
+		<Page Image="8" ImageSize="387204"/>
+		<Page Image="9" ImageSize="302533"/>
+		<Page Image="10" ImageSize="335348"/>
+		<Page Image="11" ImageSize="369392"/>
+		<Page Image="12" ImageSize="386006"/>
+		<Page Image="13" ImageSize="372983"/>
+		<Page Image="14" ImageSize="241459"/>
+		<Page Image="15" ImageSize="346807"/>
+	</Pages>
+	<Penciller>Randy Elliott</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>Bionicle</Series>
+	<Summary>https://comicvine.gamespot.com/bionicle-19-enemies-of-metru-nui/4000-213886/</Summary>
+	<Tags>Matau,Nokama,Nuju,Onewa,The Island of Metru-Nui,Toa Metru,Vakama,Whenua</Tags>
+	<Teams>Toa Metru</Teams>
+	<Title>Enemies of Metru Nui</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/bionicle-19-enemies-of-metru-nui/4000-213886/</Web>
+	<Writer>Greg Farshtey</Writer>
+	<Year>2004</Year>
+</ComicInfo>

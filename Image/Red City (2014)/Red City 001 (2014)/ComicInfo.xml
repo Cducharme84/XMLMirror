@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cal Talmage</Characters>
+  <GTIN>urn:comicvine:4000-456060</GTIN>
+  <Inker>Mark Dos Santos</Inker>
+  <Locations>Red City</Locations>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:40:29 [Issue ID 4000-456060] urn:comicvine:4000-456060
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 21:51:00. [Issue ID 1212892]</Notes>
+  <Number>1</Number>
+  <PageCount>119</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1660202" Type="FrontCover" />
+    <Page Image="1" ImageSize="4185719" />
+    <Page Image="2" ImageSize="2887995" />
+    <Page Image="3" ImageSize="3489853" />
+    <Page Image="4" ImageSize="1365901" />
+    <Page Image="5" ImageSize="1284874" />
+    <Page Image="6" ImageSize="1613451" />
+    <Page Image="7" ImageSize="1437756" />
+    <Page Image="8" ImageSize="1368520" />
+    <Page Image="9" ImageSize="1530244" />
+    <Page Image="10" ImageSize="1439186" />
+    <Page Image="11" ImageSize="1060350" />
+    <Page Image="12" ImageSize="1535605" />
+    <Page Image="13" ImageSize="1786747" />
+    <Page Image="14" ImageSize="1585263" />
+    <Page Image="15" ImageSize="1236654" />
+    <Page Image="16" ImageSize="1660564" />
+    <Page Image="17" ImageSize="3101526" />
+    <Page Image="18" ImageSize="1140443" />
+    <Page Image="19" ImageSize="1195318" />
+    <Page Image="20" ImageSize="1807982" />
+    <Page Image="21" ImageSize="1288631" />
+    <Page Image="22" ImageSize="1298962" />
+    <Page Image="23" ImageSize="1457053" />
+    <Page Image="24" ImageSize="1080313" />
+    <Page Image="25" ImageSize="1020501" />
+    <Page Image="26" ImageSize="849809" />
+    <Page Image="27" ImageSize="1794935" />
+    <Page Image="28" ImageSize="1273359" />
+    <Page Image="29" ImageSize="1310233" />
+    <Page Image="30" ImageSize="1082585" />
+    <Page Image="31" ImageSize="1214329" />
+    <Page Image="32" ImageSize="1319324" />
+    <Page Image="33" ImageSize="1335146" />
+    <Page Image="34" ImageSize="1195097" />
+    <Page Image="35" ImageSize="1256828" />
+    <Page Image="36" ImageSize="1380261" />
+    <Page Image="37" ImageSize="1479447" />
+    <Page Image="38" ImageSize="1347157" />
+    <Page Image="39" ImageSize="1529052" />
+    <Page Image="40" ImageSize="1342386" />
+    <Page Image="41" ImageSize="1141832" />
+    <Page Image="42" ImageSize="1318966" />
+    <Page Image="43" ImageSize="1392848" />
+    <Page Image="44" ImageSize="1399067" />
+    <Page Image="45" ImageSize="1321894" />
+    <Page Image="46" ImageSize="1797179" />
+    <Page Image="47" ImageSize="1403492" />
+    <Page Image="48" ImageSize="1318602" />
+    <Page Image="49" ImageSize="1791780" />
+    <Page Image="50" ImageSize="1467427" />
+    <Page Image="51" ImageSize="1750266" />
+    <Page Image="52" ImageSize="1186867" />
+    <Page Image="53" ImageSize="1406704" />
+    <Page Image="54" ImageSize="1199724" />
+    <Page Image="55" ImageSize="1563123" />
+    <Page Image="56" ImageSize="1639698" />
+    <Page Image="57" ImageSize="1581457" />
+    <Page Image="58" ImageSize="1171364" />
+    <Page Image="59" ImageSize="1738183" />
+    <Page Image="60" ImageSize="1691546" />
+    <Page Image="61" ImageSize="1487300" />
+    <Page Image="62" ImageSize="1253446" />
+    <Page Image="63" ImageSize="1489763" />
+    <Page Image="64" ImageSize="1398493" />
+    <Page Image="65" ImageSize="1412383" />
+    <Page Image="66" ImageSize="1768982" />
+    <Page Image="67" ImageSize="1571566" />
+    <Page Image="68" ImageSize="1620923" />
+    <Page Image="69" ImageSize="1400827" />
+    <Page Image="70" ImageSize="1571968" />
+    <Page Image="71" ImageSize="1387840" />
+    <Page Image="72" ImageSize="2500378" />
+    <Page Image="73" ImageSize="1853923" />
+    <Page Image="74" ImageSize="1000982" />
+    <Page Image="75" ImageSize="1671003" />
+    <Page Image="76" ImageSize="1673676" />
+    <Page Image="77" ImageSize="1428150" />
+    <Page Image="78" ImageSize="2158149" />
+    <Page Image="79" ImageSize="1372378" />
+    <Page Image="80" ImageSize="1423664" />
+    <Page Image="81" ImageSize="1796121" />
+    <Page Image="82" ImageSize="1664372" />
+    <Page Image="83" ImageSize="1631951" />
+    <Page Image="84" ImageSize="1365239" />
+    <Page Image="85" ImageSize="1898637" />
+    <Page Image="86" ImageSize="1515085" />
+    <Page Image="87" ImageSize="1518179" />
+    <Page Image="88" ImageSize="1551109" />
+    <Page Image="89" ImageSize="2280894" />
+    <Page Image="90" ImageSize="2122067" />
+    <Page Image="91" ImageSize="2271711" />
+    <Page Image="92" ImageSize="2151736" />
+    <Page Image="93" ImageSize="1705530" />
+    <Page Image="94" ImageSize="2048376" />
+    <Page Image="95" ImageSize="1452994" />
+    <Page Image="96" ImageSize="1316321" />
+    <Page Image="97" ImageSize="1567074" />
+    <Page Image="98" ImageSize="1827068" />
+    <Page Image="99" ImageSize="2051553" />
+    <Page Image="100" ImageSize="1035825" />
+    <Page Image="101" ImageSize="2322847" />
+    <Page Image="102" ImageSize="1295709" />
+    <Page Image="103" ImageSize="2154843" />
+    <Page Image="104" ImageSize="1824948" />
+    <Page Image="105" ImageSize="2140279" />
+    <Page Image="106" ImageSize="1764847" />
+    <Page Image="107" ImageSize="1809779" />
+    <Page Image="108" ImageSize="1885156" />
+    <Page Image="109" ImageSize="1727944" />
+    <Page Image="110" ImageSize="1620368" />
+    <Page Image="111" ImageSize="1727944" />
+    <Page Image="112" ImageSize="1324871" />
+    <Page Image="113" ImageSize="499428" />
+    <Page Image="114" ImageSize="3287419" />
+    <Page Image="115" ImageSize="3028047" />
+    <Page Image="116" ImageSize="2647557" />
+    <Page Image="117" ImageSize="2144033" />
+    <Page Image="118" ImageSize="1475349" />
+  </Pages>
+  <Penciller>Mark Dos Santos</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Red City</Series>
+  <Summary>In the wake of a systemwide civil war, hard-nosed interplanetary investigator Cal Talmage is given a simple mission to find a missing ambassador’s daughter in Mars Central, a.k.a. Red City. The routine case quickly complicates as Cal finds himself in the midst of rival alien mobs, street vendettas, and political conspiracies. He struggles with personal demons as he discovers that another war is brewing, and the lives of an entire race hang in the balance.</Summary>
+  <Tags>Cal Talmage,Red City</Tags>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/red-city-1/4000-456060/</Web>
+  <Writer>Daniel Corey</Writer>
+  <Year>2014</Year>
+  <Count>4</Count>
+  <CoverArtist>Mark Dos Santos</CoverArtist>
+  <LanguageISO>en</LanguageISO>
+  <Format>Mini-Series</Format>
+  <AgeRating>Rated T+ / Teen Plus</AgeRating>
+</ComicInfo>

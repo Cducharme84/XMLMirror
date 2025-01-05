@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Andoria,Cowardly Lion,General Jinjur,Glinda,Jack Pumpkinhead,Mombi,Sawhorse,Scarecrow,Tin Man,Tip,Toto,Wicked Witch</Characters>
+	<Count>18</Count>
+	<Day>9</Day>
+	<GTIN>urn:comicvine:4000-395353</GTIN>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:32:08 [Issue ID 4000-395353] urn:comicvine:4000-395353</Notes>
+	<Number>5</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2648115" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1301043"/>
+		<Page Image="2" ImageSize="2592355"/>
+		<Page Image="3" ImageSize="1368437"/>
+		<Page Image="4" ImageSize="1484852"/>
+		<Page Image="5" ImageSize="1285750"/>
+		<Page Image="6" ImageSize="1708953"/>
+		<Page Image="7" ImageSize="1991353"/>
+		<Page Image="8" ImageSize="1342173"/>
+		<Page Image="9" ImageSize="1509046"/>
+		<Page Image="10" ImageSize="1669261"/>
+		<Page Image="11" ImageSize="785752"/>
+		<Page Image="12" ImageSize="1704618"/>
+		<Page Image="13" ImageSize="1921006"/>
+		<Page Image="14" ImageSize="1681859"/>
+		<Page Image="15" ImageSize="1375226"/>
+		<Page Image="16" ImageSize="1046879"/>
+		<Page Image="17" ImageSize="723955"/>
+		<Page Image="18" ImageSize="1309035"/>
+		<Page Image="19" ImageSize="1597307"/>
+		<Page Image="20" ImageSize="2465838"/>
+		<Page Image="21" ImageSize="1304697"/>
+		<Page Image="22" ImageSize="1014221"/>
+		<Page Image="23" ImageSize="1475058"/>
+		<Page Image="24" ImageSize="1203441"/>
+		<Page Image="25" ImageSize="445719"/>
+		<Page Image="26" ImageSize="1006544"/>
+	</Pages>
+	<Publisher>Big Dog Ink</Publisher>
+	<Series>Legend of Oz: The Wicked West</Series>
+	<Summary>As General Jinjur rides towards the Forest of the Kalidahs, Jack Pumpkinhead reveals his true colors.</Summary>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/the-legend-of-oz-the-wicked-west-5/4000-395353/</Web>
+	<Writer>Tom Hutchison</Writer>
+	<Year>2013</Year>
+</ComicInfo>

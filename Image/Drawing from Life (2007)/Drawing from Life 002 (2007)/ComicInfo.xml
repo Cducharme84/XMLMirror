@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>2</Count>
+  <Day>28</Day>
+  <GTIN>urn:comicvine:4000-220559</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:33:35 [Issue ID 4000-220559] urn:comicvine:4000-220559
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 00:04:40. [Issue ID 1771817]</Notes>
+  <Number>2</Number>
+  <PageCount>29</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1920" ImageSize="349297" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1920" ImageSize="197275" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1920" ImageSize="433869" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1920" ImageSize="498553" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1920" ImageSize="438647" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1920" ImageSize="417833" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="2875" ImageSize="782564" ImageWidth="1940" />
+    <Page Image="7" ImageHeight="1920" ImageSize="488566" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1920" ImageSize="491810" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1920" ImageSize="366413" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1920" ImageSize="402562" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1920" ImageSize="363615" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1920" ImageSize="532496" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1920" ImageSize="450264" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1920" ImageSize="533201" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1920" ImageSize="418749" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1920" ImageSize="401223" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1920" ImageSize="392963" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1920" ImageSize="435104" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1920" ImageSize="445241" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1920" ImageSize="419077" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1920" ImageSize="591290" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1920" ImageSize="509929" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1920" ImageSize="440622" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1920" ImageSize="406857" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1920" ImageSize="405653" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1920" ImageSize="601042" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1920" ImageSize="366631" ImageWidth="1280" />
+    <Page Image="28" ImageSize="270765" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <ScanInformation>(Wolfpack-DCP)</ScanInformation>
+  <Series>Drawing from Life</Series>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/drawing-from-life-2/4000-220559/</Web>
+  <Year>2007</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

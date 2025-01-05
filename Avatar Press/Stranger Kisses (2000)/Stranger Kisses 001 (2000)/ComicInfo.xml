@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>John Weston,Gravel</Characters>
+  <Colorist>Dan Parsons,Dan Parsons</Colorist>
+  <Count>3</Count>
+  <Country>US</Country>
+  <Editor>William Christensen</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-806706</GTIN>
+  <Inker>Dan Parsons,Mike Wolfer,Mike Wolfer</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Los Angeles</Locations>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:33:15 [Issue ID 4000-806706] urn:comicvine:4000-806706 urn:grandcomicsdatabase:issue/806706
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:12:06. [Issue ID 806706]</Notes>
+  <Number>1</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="895608" Type="FrontCover" />
+    <Page Image="1" ImageSize="379585" />
+    <Page Image="2" ImageSize="238846" />
+    <Page Image="3" ImageSize="318190" />
+    <Page Image="4" ImageSize="393423" />
+    <Page Image="5" ImageSize="367870" />
+    <Page Image="6" ImageSize="350750" />
+    <Page Image="7" ImageSize="387588" />
+    <Page Image="8" ImageSize="475928" />
+    <Page Image="9" ImageSize="418253" />
+    <Page Image="10" ImageSize="337633" />
+    <Page Image="11" ImageSize="448775" />
+    <Page Image="12" ImageSize="349239" />
+    <Page Image="13" ImageSize="404452" />
+    <Page Image="14" ImageSize="411491" />
+    <Page Image="15" ImageSize="371739" />
+    <Page Image="16" ImageSize="500110" />
+    <Page Image="17" ImageSize="301157" />
+    <Page Image="18" ImageSize="397311" />
+    <Page Image="19" ImageSize="322282" />
+    <Page Image="20" ImageSize="328192" />
+    <Page Image="21" ImageSize="359961" />
+    <Page Image="22" ImageSize="345417" />
+    <Page Image="23" ImageSize="266404" />
+  </Pages>
+  <Penciller>Mike Wolfer,Mike Wolfer</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Stranger Kisses</Series>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-806706/</Web>
+  <Writer>Warren Ellis,Warren Ellis</Writer>
+  <Year>2000</Year>
+</ComicInfo>

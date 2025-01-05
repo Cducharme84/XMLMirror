@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Preacher Cain</Characters>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-333594</GTIN>
+  <Inker>Gordon Rennie,S. B. Davis,Sean Longcroft,Garry Marshall,Frank Quitely</Inker>
+  <Locations>The Cursed Earth</Locations>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:55:20 [Issue ID 4000-333594] urn:comicvine:4000-333594
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 21:47:11. [Issue ID 2267755]</Notes>
+  <Number>1</Number>
+  <PageCount>117</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2037" ImageSize="225358" ImageWidth="1470" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2037" ImageSize="50978" ImageWidth="1470" />
+    <Page Image="2" ImageHeight="3055" ImageSize="234149" ImageWidth="2204" />
+    <Page Image="3" ImageHeight="3055" ImageSize="377357" ImageWidth="2204" />
+    <Page Image="4" ImageHeight="2037" ImageSize="219309" ImageWidth="1470" />
+    <Page Image="5" ImageHeight="3055" ImageSize="237875" ImageWidth="2204" />
+    <Page Image="6" ImageHeight="1528" ImageSize="200459" ImageWidth="1102" />
+    <Page Image="7" ImageHeight="1528" ImageSize="229437" ImageWidth="1102" />
+    <Page Image="8" ImageHeight="1528" ImageSize="281319" ImageWidth="1102" />
+    <Page Image="9" ImageHeight="1528" ImageSize="247373" ImageWidth="1102" />
+    <Page Image="10" ImageHeight="1528" ImageSize="255723" ImageWidth="1102" />
+    <Page Image="11" ImageHeight="1528" ImageSize="261566" ImageWidth="1102" />
+    <Page Image="12" ImageHeight="1528" ImageSize="176630" ImageWidth="1102" />
+    <Page Image="13" ImageHeight="1528" ImageSize="69092" ImageWidth="1102" />
+    <Page Image="14" ImageHeight="1528" ImageSize="230338" ImageWidth="1102" />
+    <Page Image="15" ImageHeight="1528" ImageSize="229018" ImageWidth="1102" />
+    <Page Image="16" ImageHeight="1528" ImageSize="267323" ImageWidth="1102" />
+    <Page Image="17" ImageHeight="1528" ImageSize="263114" ImageWidth="1102" />
+    <Page Image="18" ImageHeight="1528" ImageSize="264209" ImageWidth="1102" />
+    <Page Image="19" ImageHeight="1528" ImageSize="252253" ImageWidth="1102" />
+    <Page Image="20" ImageHeight="1528" ImageSize="212042" ImageWidth="1102" />
+    <Page Image="21" ImageHeight="1528" ImageSize="85181" ImageWidth="1102" />
+    <Page Image="22" ImageHeight="1528" ImageSize="256749" ImageWidth="1102" />
+    <Page Image="23" ImageHeight="1528" ImageSize="268927" ImageWidth="1102" />
+    <Page Image="24" ImageHeight="1528" ImageSize="267280" ImageWidth="1102" />
+    <Page Image="25" ImageHeight="1528" ImageSize="293178" ImageWidth="1102" />
+    <Page Image="26" ImageHeight="1528" ImageSize="289091" ImageWidth="1102" />
+    <Page Image="27" ImageHeight="1528" ImageSize="297460" ImageWidth="1102" />
+    <Page Image="28" ImageHeight="1528" ImageSize="264233" ImageWidth="1102" />
+    <Page Image="29" ImageHeight="1538" ImageSize="65197" ImageWidth="1110" />
+    <Page Image="30" ImageHeight="1528" ImageSize="162321" ImageWidth="1102" />
+    <Page Image="31" ImageHeight="1528" ImageSize="200611" ImageWidth="1102" />
+    <Page Image="32" ImageHeight="1528" ImageSize="206294" ImageWidth="1102" />
+    <Page Image="33" ImageHeight="1528" ImageSize="235712" ImageWidth="1102" />
+    <Page Image="34" ImageHeight="1528" ImageSize="237293" ImageWidth="1102" />
+    <Page Image="35" ImageHeight="1528" ImageSize="191298" ImageWidth="1102" />
+    <Page Image="36" ImageHeight="1528" ImageSize="258685" ImageWidth="1102" />
+    <Page Image="37" ImageHeight="1528" ImageSize="259831" ImageWidth="1102" />
+    <Page Image="38" ImageHeight="1528" ImageSize="224586" ImageWidth="1102" />
+    <Page Image="39" ImageHeight="1528" ImageSize="267671" ImageWidth="1102" />
+    <Page Image="40" ImageHeight="1528" ImageSize="245949" ImageWidth="1102" />
+    <Page Image="41" ImageHeight="1528" ImageSize="229770" ImageWidth="1102" />
+    <Page Image="42" ImageHeight="1528" ImageSize="215121" ImageWidth="1102" />
+    <Page Image="43" ImageHeight="1528" ImageSize="216565" ImageWidth="1102" />
+    <Page Image="44" ImageHeight="1528" ImageSize="181944" ImageWidth="1102" />
+    <Page Image="45" ImageHeight="1528" ImageSize="199227" ImageWidth="1102" />
+    <Page Image="46" ImageHeight="1528" ImageSize="216183" ImageWidth="1102" />
+    <Page Image="47" ImageHeight="1528" ImageSize="313790" ImageWidth="1102" />
+    <Page Image="48" ImageHeight="1528" ImageSize="216468" ImageWidth="1102" />
+    <Page Image="49" ImageHeight="1528" ImageSize="239477" ImageWidth="1102" />
+    <Page Image="50" ImageHeight="1528" ImageSize="271974" ImageWidth="1102" />
+    <Page Image="51" ImageHeight="1528" ImageSize="253077" ImageWidth="1102" />
+    <Page Image="52" ImageHeight="1528" ImageSize="281212" ImageWidth="1102" />
+    <Page Image="53" ImageHeight="1528" ImageSize="246336" ImageWidth="1102" />
+    <Page Image="54" ImageHeight="1528" ImageSize="249392" ImageWidth="1102" />
+    <Page Image="55" ImageHeight="1528" ImageSize="228176" ImageWidth="1102" />
+    <Page Image="56" ImageHeight="1528" ImageSize="249040" ImageWidth="1102" />
+    <Page Image="57" ImageHeight="1528" ImageSize="277596" ImageWidth="1102" />
+    <Page Image="58" ImageHeight="1528" ImageSize="243152" ImageWidth="1102" />
+    <Page Image="59" ImageHeight="1528" ImageSize="226657" ImageWidth="1102" />
+    <Page Image="60" ImageHeight="1528" ImageSize="242744" ImageWidth="1102" />
+    <Page Image="61" ImageHeight="1528" ImageSize="240397" ImageWidth="1102" />
+    <Page Image="62" ImageHeight="1528" ImageSize="265001" ImageWidth="1102" />
+    <Page Image="63" ImageHeight="1528" ImageSize="231928" ImageWidth="1102" />
+    <Page Image="64" ImageHeight="1528" ImageSize="240176" ImageWidth="1102" />
+    <Page Image="65" ImageHeight="1528" ImageSize="230263" ImageWidth="1102" />
+    <Page Image="66" ImageHeight="1528" ImageSize="229294" ImageWidth="1102" />
+    <Page Image="67" ImageHeight="1528" ImageSize="211775" ImageWidth="1102" />
+    <Page Image="68" ImageHeight="1528" ImageSize="244113" ImageWidth="1102" />
+    <Page Image="69" ImageHeight="1528" ImageSize="212286" ImageWidth="1102" />
+    <Page Image="70" ImageHeight="1528" ImageSize="214147" ImageWidth="1102" />
+    <Page Image="71" ImageHeight="1528" ImageSize="180948" ImageWidth="1102" />
+    <Page Image="72" ImageHeight="3065" ImageSize="190304" ImageWidth="2204" />
+    <Page Image="73" ImageHeight="1528" ImageSize="225665" ImageWidth="1102" />
+    <Page Image="74" ImageHeight="1528" ImageSize="284892" ImageWidth="1102" />
+    <Page Image="75" ImageHeight="1528" ImageSize="269082" ImageWidth="1102" />
+    <Page Image="76" ImageHeight="1528" ImageSize="262275" ImageWidth="1102" />
+    <Page Image="77" ImageHeight="1528" ImageSize="257026" ImageWidth="1102" />
+    <Page Image="78" ImageHeight="1528" ImageSize="254475" ImageWidth="1102" />
+    <Page Image="79" ImageHeight="1528" ImageSize="234801" ImageWidth="1102" />
+    <Page Image="80" ImageHeight="1528" ImageSize="279651" ImageWidth="1102" />
+    <Page Image="81" ImageHeight="1528" ImageSize="281814" ImageWidth="1102" />
+    <Page Image="82" ImageHeight="1528" ImageSize="240384" ImageWidth="1102" />
+    <Page Image="83" ImageHeight="1528" ImageSize="240809" ImageWidth="1102" />
+    <Page Image="84" ImageHeight="1528" ImageSize="259927" ImageWidth="1102" />
+    <Page Image="85" ImageHeight="1528" ImageSize="224469" ImageWidth="1102" />
+    <Page Image="86" ImageHeight="1528" ImageSize="241163" ImageWidth="1102" />
+    <Page Image="87" ImageHeight="1538" ImageSize="79584" ImageWidth="1102" />
+    <Page Image="88" ImageHeight="1528" ImageSize="271699" ImageWidth="1102" />
+    <Page Image="89" ImageHeight="1528" ImageSize="250590" ImageWidth="1102" />
+    <Page Image="90" ImageHeight="1528" ImageSize="275889" ImageWidth="1102" />
+    <Page Image="91" ImageHeight="1528" ImageSize="270415" ImageWidth="1102" />
+    <Page Image="92" ImageHeight="1528" ImageSize="273068" ImageWidth="1102" />
+    <Page Image="93" ImageHeight="1528" ImageSize="295063" ImageWidth="1102" />
+    <Page Image="94" ImageHeight="1528" ImageSize="313709" ImageWidth="1102" />
+    <Page Image="95" ImageHeight="1528" ImageSize="331588" ImageWidth="1102" />
+    <Page Image="96" ImageHeight="1528" ImageSize="272587" ImageWidth="1102" />
+    <Page Image="97" ImageHeight="1528" ImageSize="279525" ImageWidth="1102" />
+    <Page Image="98" ImageHeight="1528" ImageSize="303765" ImageWidth="1102" />
+    <Page Image="99" ImageHeight="1528" ImageSize="322470" ImageWidth="1102" />
+    <Page Image="100" ImageHeight="1528" ImageSize="305718" ImageWidth="1102" />
+    <Page Image="101" ImageHeight="1528" ImageSize="296254" ImageWidth="1102" />
+    <Page Image="102" ImageHeight="1528" ImageSize="101059" ImageWidth="1102" />
+    <Page Image="103" ImageHeight="1528" ImageSize="340157" ImageWidth="1102" />
+    <Page Image="104" ImageHeight="1528" ImageSize="347545" ImageWidth="1102" />
+    <Page Image="105" ImageHeight="1528" ImageSize="353081" ImageWidth="1102" />
+    <Page Image="106" ImageHeight="1528" ImageSize="329514" ImageWidth="1102" />
+    <Page Image="107" ImageHeight="1528" ImageSize="315645" ImageWidth="1102" />
+    <Page Image="108" ImageHeight="1528" ImageSize="371376" ImageWidth="1102" />
+    <Page Image="109" ImageHeight="1528" ImageSize="348694" ImageWidth="1102" />
+    <Page Image="110" ImageHeight="2037" ImageSize="56733" ImageWidth="1470" />
+    <Page Image="111" ImageHeight="1528" ImageSize="168546" ImageWidth="1102" />
+    <Page Image="112" ImageHeight="1528" ImageSize="188287" ImageWidth="1102" />
+    <Page Image="113" ImageHeight="2047" ImageSize="253818" ImageWidth="1472" />
+    <Page Image="114" ImageHeight="1528" ImageSize="196263" ImageWidth="1102" />
+    <Page Image="115" ImageHeight="1528" ImageSize="106251" ImageWidth="1102" />
+    <Page Image="116" ImageSize="215082" />
+  </Pages>
+  <Penciller>Gordon Rennie,S. B. Davis,Sean Longcroft,Garry Marshall,Frank Quitely</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <ScanInformation>(2000AD) (digital) (JeffAlbertson-DCP)</ScanInformation>
+  <Series>Missionary Man</Series>
+  <Summary>BRINGING FAITH THROUGH FIREPOWER!
+
+The Cursed Earth is a radiation-wasted landscape spanning most of what was once known as America. Only the toughest of the tough, the meanest of the mean, can survive there.
+
+Now, one man has come to bring law to this unlawful place. Rumour has it that Preacher Cain was once a Judge who had succumbed to religion and madness in equal measure. Now he roams the godless territories – the physical embodiment of the angel of death himself – spreading the word of God and punishing the wicked.
+
+It’s a full-time job!
+
+Scripted by Gordon Rennie (Judge Dredd, Caballistics Inc.) and featuring the gorgeous artwork of Frank Quitely (WE3, All-Star Superman), Missionary Man: Bad Moon Rising effortlessly blends the sci-fi and western genres to create a unique, epic story.
+
+THIS VOLUME INCLUDES THE STORIES
+
+SALVATION AT THE LAST CHANCE SALOON (Judge Dredd Megazines 2.29)
+
+A TOWN CALLED INTOLERANCE (Judge Dredd Megazine 2.30)
+
+LEGEND OF THE UNHOLY DRINKER (Judge Dredd Megazine 2.43)
+
+BAD MOON RISING (Judge Dredd Megazines 2.50-2.55)
+
+SEASON OF THE WITCH (Judge Dredd Megazines 2.56-2.57)
+
+SANCTUARY (Judge Dredd Megazines 2.58-2.59)
+
+THE UNDERTAKER COMETH (Judge Dredd Mega Special 1994)
+
+PLUS!
+
+Creator Bios
+
+https://comicvine.gamespot.com/missionary-man-1-bad-moon-rising/4000-333594/</Summary>
+  <Title>The Undertaker Cometh; Sanctuary, Part 2; Sanctuary, Part 1; Season of the Witch, Part 2; Season of the Witch, Part 1; Bad Moon Rising, Part 6; Bad Moon Rising, Part 5; Bad Moon Rising, Part 4; Bad Moon Rising, Part 3; Bad Moon Rising, Part 2; Bad Moon Rising, Part 1; Legend of the Unholy Drinker; A Town Called Intolerance; Salvation at the Last Chance Saloon</Title>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/missionary-man-1-bad-moon-rising/4000-333594/</Web>
+  <Writer>Gordon Rennie,Gordon Rennie</Writer>
+  <Year>2011</Year>
+  <Count>1</Count>
+  <Genre>Science fiction</Genre>
+  <Month>8</Month>
+  <LanguageISO>en</LanguageISO>
+  <Colorist>S. B. Davis,Sean Longcroft,Garry Marshall,Frank Quitely</Colorist>
+  <Letterer>Ellie de Ville,Steve Potter,Annie Parkhouse</Letterer>
+</ComicInfo>

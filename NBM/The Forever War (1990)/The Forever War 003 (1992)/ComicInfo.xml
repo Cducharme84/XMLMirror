@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-356039</GTIN>
+	<Inker>Marvano</Inker>
+	<Letterer>L. Lois Buhalis</Letterer>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:11:57 [Issue ID 4000-356039] urn:comicvine:4000-356039</Notes>
+	<Number>3</Number>
+	<PageCount>53</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="900" ImageHeight="1213" ImageSize="2057255" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="801" ImageHeight="1335" ImageSize="119672"/>
+		<Page Image="2" ImageWidth="1470" ImageHeight="2331" ImageSize="322199"/>
+		<Page Image="3" ImageWidth="1470" ImageHeight="2271" ImageSize="397852"/>
+		<Page Image="4" ImageWidth="1470" ImageHeight="2319" ImageSize="602240"/>
+		<Page Image="5" ImageWidth="1470" ImageHeight="2249" ImageSize="425107"/>
+		<Page Image="6" ImageWidth="1470" ImageHeight="2273" ImageSize="429764"/>
+		<Page Image="7" ImageWidth="1470" ImageHeight="2288" ImageSize="605407"/>
+		<Page Image="8" ImageWidth="1470" ImageHeight="2271" ImageSize="667633"/>
+		<Page Image="9" ImageWidth="1470" ImageHeight="2270" ImageSize="747928"/>
+		<Page Image="10" ImageWidth="1470" ImageHeight="2262" ImageSize="629940"/>
+		<Page Image="11" ImageWidth="1470" ImageHeight="2286" ImageSize="604891"/>
+		<Page Image="12" ImageWidth="1470" ImageHeight="2255" ImageSize="551128"/>
+		<Page Image="13" ImageWidth="1470" ImageHeight="2310" ImageSize="256864"/>
+		<Page Image="14" ImageWidth="1470" ImageHeight="2264" ImageSize="595606"/>
+		<Page Image="15" ImageWidth="1470" ImageHeight="2300" ImageSize="739330"/>
+		<Page Image="16" ImageWidth="1470" ImageHeight="2264" ImageSize="652419"/>
+		<Page Image="17" ImageWidth="1470" ImageHeight="2312" ImageSize="647462"/>
+		<Page Image="18" ImageWidth="1470" ImageHeight="2274" ImageSize="539204"/>
+		<Page Image="19" ImageWidth="1470" ImageHeight="2268" ImageSize="457241"/>
+		<Page Image="20" ImageWidth="1470" ImageHeight="2234" ImageSize="660396"/>
+		<Page Image="21" ImageWidth="1470" ImageHeight="2265" ImageSize="533731"/>
+		<Page Image="22" ImageWidth="1470" ImageHeight="2330" ImageSize="288108"/>
+		<Page Image="23" ImageWidth="1470" ImageHeight="2327" ImageSize="535067"/>
+		<Page Image="24" ImageWidth="1470" ImageHeight="2306" ImageSize="595161"/>
+		<Page Image="25" ImageWidth="1470" ImageHeight="2276" ImageSize="658723"/>
+		<Page Image="26" ImageWidth="1470" ImageHeight="2315" ImageSize="610724"/>
+		<Page Image="27" ImageWidth="1470" ImageHeight="2273" ImageSize="614783"/>
+		<Page Image="28" ImageWidth="1470" ImageHeight="2289" ImageSize="511252"/>
+		<Page Image="29" ImageWidth="1470" ImageHeight="2280" ImageSize="429727"/>
+		<Page Image="30" ImageWidth="1470" ImageHeight="2294" ImageSize="669202"/>
+		<Page Image="31" ImageWidth="1470" ImageHeight="2303" ImageSize="441212"/>
+		<Page Image="32" ImageWidth="1470" ImageHeight="2280" ImageSize="563639"/>
+		<Page Image="33" ImageWidth="1470" ImageHeight="2291" ImageSize="581114"/>
+		<Page Image="34" ImageWidth="1470" ImageHeight="2334" ImageSize="165514"/>
+		<Page Image="35" ImageWidth="1470" ImageHeight="2286" ImageSize="500512"/>
+		<Page Image="36" ImageWidth="1470" ImageHeight="2351" ImageSize="595208"/>
+		<Page Image="37" ImageWidth="1470" ImageHeight="2268" ImageSize="476970"/>
+		<Page Image="38" ImageWidth="1470" ImageHeight="2346" ImageSize="566869"/>
+		<Page Image="39" ImageWidth="1470" ImageHeight="2301" ImageSize="514502"/>
+		<Page Image="40" ImageWidth="1470" ImageHeight="2336" ImageSize="612721"/>
+		<Page Image="41" ImageWidth="1470" ImageHeight="2273" ImageSize="564954"/>
+		<Page Image="42" ImageWidth="1470" ImageHeight="2337" ImageSize="604763"/>
+		<Page Image="43" ImageWidth="1470" ImageHeight="2291" ImageSize="409170"/>
+		<Page Image="44" ImageWidth="1470" ImageHeight="2264" ImageSize="175065"/>
+		<Page Image="45" ImageWidth="1470" ImageHeight="2267" ImageSize="461558"/>
+		<Page Image="46" ImageWidth="1470" ImageHeight="2280" ImageSize="523161"/>
+		<Page Image="47" ImageWidth="1470" ImageHeight="2262" ImageSize="574036"/>
+		<Page Image="48" ImageWidth="1470" ImageHeight="2282" ImageSize="681909"/>
+		<Page Image="49" ImageWidth="1470" ImageHeight="2273" ImageSize="534176"/>
+		<Page Image="50" ImageWidth="1470" ImageHeight="2276" ImageSize="451815"/>
+		<Page Image="51" ImageWidth="504" ImageHeight="750" ImageSize="110438"/>
+		<Page Image="52" ImageSize="562402"/>
+	</Pages>
+	<Penciller>Marvano</Penciller>
+	<Publisher>NBM</Publisher>
+	<ScanInformation>03 (mu)</ScanInformation>
+	<Series>The Forever War</Series>
+	<Summary>https://comicvine.gamespot.com/forever-war-3-major-mandella/4000-356039/</Summary>
+	<Title>Major Mandella</Title>
+	<Volume>1990</Volume>
+	<Web>https://comicvine.gamespot.com/forever-war-3-major-mandella/4000-356039/</Web>
+	<Writer>Joe Haldeman</Writer>
+	<Year>1992</Year>
+</ComicInfo>

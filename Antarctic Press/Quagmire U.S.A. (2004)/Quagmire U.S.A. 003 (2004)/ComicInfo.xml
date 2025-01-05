@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Anna Feeple,Itchy Koo Ichinohei,Kassy,Lendo Rivalsan,Tomorrow Girl</Characters>
+	<Count>6</Count>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-306980</GTIN>
+	<Genre>Action</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-23T14:30:41 [Issue ID 4000-306980] urn:comicvine:4000-306980</Notes>
+	<Number>3</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2025" ImageHeight="3150" ImageSize="2733583" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1756" ImageHeight="2488" ImageSize="1404069"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1756" ImageHeight="2488" ImageSize="1338746"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1756" ImageHeight="2488" ImageSize="1284467"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1756" ImageHeight="2488" ImageSize="1377488"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1756" ImageHeight="2488" ImageSize="1477100"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1756" ImageHeight="2488" ImageSize="1619156"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1756" ImageHeight="2488" ImageSize="1555662"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1756" ImageHeight="2488" ImageSize="1479561"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1756" ImageHeight="2488" ImageSize="1442341"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1756" ImageHeight="2488" ImageSize="1495545"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1756" ImageHeight="2488" ImageSize="1777414"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1756" ImageHeight="2488" ImageSize="1488263"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1756" ImageHeight="2488" ImageSize="1505633"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1756" ImageHeight="2488" ImageSize="1495790"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1756" ImageHeight="2488" ImageSize="1595750"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1756" ImageHeight="2488" ImageSize="1438773"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1756" ImageHeight="2488" ImageSize="1633654"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1756" ImageHeight="2488" ImageSize="1543462"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1756" ImageHeight="2488" ImageSize="1378774"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1756" ImageHeight="2488" ImageSize="1810401"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1756" ImageHeight="2488" ImageSize="1179516"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1756" ImageHeight="2488" ImageSize="1448216"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1756" ImageHeight="2488" ImageSize="1325351"/>
+		<Page Image="24" ImageSize="1456787"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Quagmire U.S.A.</Series>
+	<Summary>Kassy, Bento, and Asagi have found Ricky in a fairy realm and now must help him invade a massive fortress and destroy a soul-twisting magical artifact. But will Tomorrow Girl spoil everything? Can they work as a team? Why do the fairies have a copy of the artifact? And is Bento really expected to sleep with the girls while camping out?</Summary>
+	<Title>Return to a Small Town</Title>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/quagmire-usa-3-return-to-a-small-town/4000-306980/</Web>
+	<Year>2004</Year>
+</ComicInfo>

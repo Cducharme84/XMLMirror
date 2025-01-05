@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Carl,Joe,Justin,Lauren,Luke,Richie,Tabitha</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-475308</GTIN>
+	<Inker>Daniel Gete</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>California</Locations>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:28:20 [Issue ID 4000-475308] urn:comicvine:4000-475308</Notes>
+	<Number>5</Number>
+	<PageCount>9</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="285584" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="781" ImageSize="257476"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="785" ImageSize="237519"/>
+		<Page Image="3" ImageWidth="1000" ImageHeight="783" ImageSize="232977"/>
+		<Page Image="4" ImageWidth="1000" ImageHeight="781" ImageSize="195965"/>
+		<Page Image="5" ImageWidth="1000" ImageHeight="781" ImageSize="231316"/>
+		<Page Image="6" ImageWidth="1000" ImageHeight="780" ImageSize="287894"/>
+		<Page Image="7" ImageWidth="1000" ImageHeight="784" ImageSize="152728"/>
+		<Page Image="8" ImageSize="294666"/>
+	</Pages>
+	<Penciller>Daniel Gete</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(crossedcomic.com)</ScanInformation>
+	<Series>Crossed: Dead Or Alive</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-dead-or-alive-5-part-5/4000-475308/</Summary>
+	<Tags>California,Carl,Joe,Justin,Lauren,Luke,Richie,Tabitha,The Crossed</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Part 5</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-dead-or-alive-5-part-5/4000-475308/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2014</Year>
+</ComicInfo>

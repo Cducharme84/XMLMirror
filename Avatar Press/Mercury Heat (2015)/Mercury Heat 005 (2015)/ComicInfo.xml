@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Luiza Bora</Characters>
+	<Count>12</Count>
+	<Country>US</Country>
+	<Day>28</Day>
+	<GTIN>urn:comicvine:4000-1489453</GTIN>
+	<Genre>Science fiction</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Mercury</Locations>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:12 [Issue ID 4000-1489453] urn:comicvine:4000-1489453 urn:grandcomicsdatabase:issue/1489453</Notes>
+	<Number>5</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1814894" Type="FrontCover"/>
+		<Page Image="1" ImageSize="588457"/>
+		<Page Image="2" ImageSize="2106681"/>
+		<Page Image="3" ImageSize="1512213"/>
+		<Page Image="4" ImageSize="989852"/>
+		<Page Image="5" ImageSize="2186590"/>
+		<Page Image="6" ImageSize="1722926"/>
+		<Page Image="7" ImageSize="1308278"/>
+		<Page Image="8" ImageSize="1864482"/>
+		<Page Image="9" ImageSize="1470395"/>
+		<Page Image="10" ImageSize="1212500"/>
+		<Page Image="11" ImageSize="1452446"/>
+		<Page Image="12" ImageSize="1267484"/>
+		<Page Image="13" ImageSize="1896440"/>
+		<Page Image="14" ImageSize="1295174"/>
+		<Page Image="15" ImageSize="1521019"/>
+		<Page Image="16" ImageSize="1627236"/>
+		<Page Image="17" ImageSize="1300922"/>
+		<Page Image="18" ImageSize="2003336"/>
+		<Page Image="19" ImageSize="1647335"/>
+		<Page Image="20" ImageSize="1851618"/>
+		<Page Image="21" ImageSize="1961480"/>
+		<Page Image="22" ImageSize="1856173"/>
+		<Page Image="23" ImageSize="1732371"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Mercury Heat</Series>
+	<Summary>Diamond order code: SEP151070</Summary>
+	<Title>The Long, Slow Dawn</Title>
+	<Volume>2015</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1489453/</Web>
+	<Writer>Kieron Gillen</Writer>
+	<Year>2015</Year>
+</ComicInfo>

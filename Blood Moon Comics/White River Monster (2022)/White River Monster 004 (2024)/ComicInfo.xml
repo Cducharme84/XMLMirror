@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Colorist>Wolfgang Schwandt</Colorist>
+	<Count>5</Count>
+	<Format>Limited Series</Format>
+	<Genre>Horror</Genre>
+	<Inker>Wolfgang Schwandt</Inker>
+	<Letterer>Keith Rommel</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-19T01:51:27</Notes>
+	<Number>4</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3936" ImageSize="247950" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3936" ImageSize="440248"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3936" ImageSize="312562"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3936" ImageSize="376064"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3936" ImageSize="519496"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3936" ImageSize="339838"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3936" ImageSize="474868"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3936" ImageSize="300180"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3936" ImageSize="220270"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3936" ImageSize="508062"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3936" ImageSize="370326"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3936" ImageSize="409530"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3936" ImageSize="302406"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3936" ImageSize="300240"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3936" ImageSize="316864"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3936" ImageSize="338568"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3936" ImageSize="404042"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3936" ImageSize="347168"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3936" ImageSize="367850"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3936" ImageSize="392316"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3936" ImageSize="382016"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3936" ImageSize="430174"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3936" ImageSize="537166"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3936" ImageSize="333622"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3936" ImageSize="345942"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3936" ImageSize="302076"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3936" ImageSize="382366"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3936" ImageSize="569166"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3936" ImageSize="800788"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3936" ImageSize="415920"/>
+		<Page Image="30" ImageSize="365438"/>
+	</Pages>
+	<Penciller>Wolfgang Schwandt</Penciller>
+	<Publisher>Blood Moon Comics</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>White River Monster</Series>
+	<Summary>The monsters are rising and people are dying. You can only hold a secret for so long...</Summary>
+	<Volume>2022</Volume>
+	<Writer>Keith Rommel</Writer>
+	<Year>2024</Year>
+</ComicInfo>

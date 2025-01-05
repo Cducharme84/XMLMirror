@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Peter Grant,Inspector Nightingale,Sahra Guleed</Characters>
+  <Colorist>Luis Guerrero</Colorist>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-609403</GTIN>
+  <Inker>Lee Sullivan</Inker>
+  <Locations>London</Locations>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:25:27 [Issue ID 4000-609403] urn:comicvine:4000-609403
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 13:00:05. [Issue ID 2519868]</Notes>
+  <Number>1</Number>
+  <PageCount>126</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3984" ImageSize="2376190" ImageWidth="2612" Type="FrontCover" />
+    <Page Image="1" ImageHeight="4063" ImageSize="5976982" ImageWidth="2677" />
+    <Page Image="2" ImageHeight="4063" ImageSize="11245161" ImageWidth="5354" />
+    <Page Image="3" ImageHeight="4063" ImageSize="8079719" ImageWidth="5354" />
+    <Page Image="4" ImageHeight="4063" ImageSize="2904657" ImageWidth="2677" />
+    <Page Image="5" ImageHeight="4063" ImageSize="3506393" ImageWidth="2677" />
+    <Page Image="6" ImageHeight="4063" ImageSize="2412620" ImageWidth="2677" />
+    <Page Image="7" ImageHeight="4063" ImageSize="2798066" ImageWidth="2677" />
+    <Page Image="8" ImageHeight="4063" ImageSize="3654055" ImageWidth="2677" />
+    <Page Image="9" ImageHeight="4063" ImageSize="3123390" ImageWidth="2677" />
+    <Page Image="10" ImageHeight="4063" ImageSize="3178967" ImageWidth="2677" />
+    <Page Image="11" ImageHeight="4063" ImageSize="3283522" ImageWidth="2677" />
+    <Page Image="12" ImageHeight="4063" ImageSize="2865643" ImageWidth="2677" />
+    <Page Image="13" ImageHeight="4063" ImageSize="2908499" ImageWidth="2677" />
+    <Page Image="14" ImageHeight="4063" ImageSize="3214123" ImageWidth="2677" />
+    <Page Image="15" ImageHeight="4063" ImageSize="3602440" ImageWidth="2677" />
+    <Page Image="16" ImageHeight="4063" ImageSize="3478406" ImageWidth="2677" />
+    <Page Image="17" ImageHeight="4063" ImageSize="3834328" ImageWidth="2677" />
+    <Page Image="18" ImageHeight="4063" ImageSize="2161914" ImageWidth="2677" />
+    <Page Image="19" ImageHeight="4063" ImageSize="3146440" ImageWidth="2677" />
+    <Page Image="20" ImageHeight="4063" ImageSize="2768071" ImageWidth="2677" />
+    <Page Image="21" ImageHeight="4063" ImageSize="3072697" ImageWidth="2677" />
+    <Page Image="22" ImageHeight="4063" ImageSize="2707694" ImageWidth="2677" />
+    <Page Image="23" ImageHeight="4063" ImageSize="3659212" ImageWidth="2677" />
+    <Page Image="24" ImageHeight="4063" ImageSize="3477047" ImageWidth="2677" />
+    <Page Image="25" ImageHeight="4063" ImageSize="3434536" ImageWidth="2677" />
+    <Page Image="26" ImageHeight="4063" ImageSize="3773931" ImageWidth="2677" />
+    <Page Image="27" ImageHeight="4063" ImageSize="3442861" ImageWidth="2677" />
+    <Page Image="28" ImageHeight="4063" ImageSize="3430384" ImageWidth="2677" />
+    <Page Image="29" ImageHeight="4063" ImageSize="3826055" ImageWidth="2677" />
+    <Page Image="30" ImageHeight="4063" ImageSize="4367483" ImageWidth="2677" />
+    <Page Image="31" ImageHeight="4063" ImageSize="3493445" ImageWidth="2677" />
+    <Page Image="32" ImageHeight="4063" ImageSize="2206578" ImageWidth="2677" />
+    <Page Image="33" ImageHeight="4063" ImageSize="1998283" ImageWidth="2677" />
+    <Page Image="34" ImageHeight="4063" ImageSize="3488119" ImageWidth="2677" />
+    <Page Image="35" ImageHeight="4063" ImageSize="2355506" ImageWidth="2677" />
+    <Page Image="36" ImageHeight="4063" ImageSize="2899499" ImageWidth="2677" />
+    <Page Image="37" ImageHeight="4063" ImageSize="3038720" ImageWidth="2677" />
+    <Page Image="38" ImageHeight="4063" ImageSize="3200996" ImageWidth="2677" />
+    <Page Image="39" ImageHeight="4063" ImageSize="3164906" ImageWidth="2677" />
+    <Page Image="40" ImageHeight="4063" ImageSize="3321338" ImageWidth="2677" />
+    <Page Image="41" ImageHeight="4063" ImageSize="3951056" ImageWidth="2677" />
+    <Page Image="42" ImageHeight="4063" ImageSize="3694940" ImageWidth="2677" />
+    <Page Image="43" ImageHeight="4063" ImageSize="3216595" ImageWidth="2677" />
+    <Page Image="44" ImageHeight="4063" ImageSize="3496084" ImageWidth="2677" />
+    <Page Image="45" ImageHeight="4063" ImageSize="3165083" ImageWidth="2677" />
+    <Page Image="46" ImageHeight="4063" ImageSize="2238138" ImageWidth="2677" />
+    <Page Image="47" ImageHeight="4063" ImageSize="3040868" ImageWidth="2677" />
+    <Page Image="48" ImageHeight="4063" ImageSize="2482969" ImageWidth="2677" />
+    <Page Image="49" ImageHeight="4063" ImageSize="2772575" ImageWidth="2677" />
+    <Page Image="50" ImageHeight="4063" ImageSize="3249041" ImageWidth="2677" />
+    <Page Image="51" ImageHeight="4063" ImageSize="2884772" ImageWidth="2677" />
+    <Page Image="52" ImageHeight="4063" ImageSize="2983700" ImageWidth="2677" />
+    <Page Image="53" ImageHeight="4063" ImageSize="2968176" ImageWidth="2677" />
+    <Page Image="54" ImageHeight="4063" ImageSize="2940646" ImageWidth="2677" />
+    <Page Image="55" ImageHeight="4063" ImageSize="3230631" ImageWidth="2677" />
+    <Page Image="56" ImageHeight="4063" ImageSize="2767817" ImageWidth="2677" />
+    <Page Image="57" ImageHeight="4063" ImageSize="2716991" ImageWidth="2677" />
+    <Page Image="58" ImageHeight="4063" ImageSize="3030893" ImageWidth="2677" />
+    <Page Image="59" ImageHeight="4063" ImageSize="2717323" ImageWidth="2677" />
+    <Page Image="60" ImageHeight="4063" ImageSize="2184230" ImageWidth="2677" />
+    <Page Image="61" ImageHeight="4063" ImageSize="2861608" ImageWidth="2677" />
+    <Page Image="62" ImageHeight="4063" ImageSize="2399170" ImageWidth="2677" />
+    <Page Image="63" ImageHeight="4063" ImageSize="2970630" ImageWidth="2677" />
+    <Page Image="64" ImageHeight="4063" ImageSize="3509841" ImageWidth="2677" />
+    <Page Image="65" ImageHeight="4063" ImageSize="3394232" ImageWidth="2677" />
+    <Page Image="66" ImageHeight="4063" ImageSize="3504329" ImageWidth="2677" />
+    <Page Image="67" ImageHeight="4063" ImageSize="2545743" ImageWidth="2677" />
+    <Page Image="68" ImageHeight="4063" ImageSize="2661385" ImageWidth="2677" />
+    <Page Image="69" ImageHeight="4063" ImageSize="3412192" ImageWidth="2677" />
+    <Page Image="70" ImageHeight="4063" ImageSize="2282266" ImageWidth="2677" />
+    <Page Image="71" ImageHeight="4063" ImageSize="3440458" ImageWidth="2677" />
+    <Page Image="72" ImageHeight="4063" ImageSize="2394763" ImageWidth="2677" />
+    <Page Image="73" ImageHeight="4063" ImageSize="2083488" ImageWidth="2677" />
+    <Page Image="74" ImageHeight="4063" ImageSize="3130283" ImageWidth="2677" />
+    <Page Image="75" ImageHeight="4063" ImageSize="2686059" ImageWidth="2677" />
+    <Page Image="76" ImageHeight="4063" ImageSize="2788726" ImageWidth="2677" />
+    <Page Image="77" ImageHeight="4063" ImageSize="3198641" ImageWidth="2677" />
+    <Page Image="78" ImageHeight="4063" ImageSize="2848762" ImageWidth="2677" />
+    <Page Image="79" ImageHeight="4063" ImageSize="3264039" ImageWidth="2677" />
+    <Page Image="80" ImageHeight="4063" ImageSize="2673021" ImageWidth="2677" />
+    <Page Image="81" ImageHeight="4063" ImageSize="2572438" ImageWidth="2677" />
+    <Page Image="82" ImageHeight="4063" ImageSize="2615518" ImageWidth="2677" />
+    <Page Image="83" ImageHeight="4063" ImageSize="2799972" ImageWidth="2677" />
+    <Page Image="84" ImageHeight="4063" ImageSize="2694930" ImageWidth="2677" />
+    <Page Image="85" ImageHeight="4063" ImageSize="2848822" ImageWidth="2677" />
+    <Page Image="86" ImageHeight="4063" ImageSize="2904997" ImageWidth="2677" />
+    <Page Image="87" ImageHeight="4063" ImageSize="2783910" ImageWidth="2677" />
+    <Page Image="88" ImageHeight="4063" ImageSize="3302262" ImageWidth="2677" />
+    <Page Image="89" ImageHeight="4063" ImageSize="3113452" ImageWidth="2677" />
+    <Page Image="90" ImageHeight="4063" ImageSize="3541320" ImageWidth="2677" />
+    <Page Image="91" ImageHeight="4063" ImageSize="3358254" ImageWidth="2677" />
+    <Page Image="92" ImageHeight="4063" ImageSize="2875701" ImageWidth="2677" />
+    <Page Image="93" ImageHeight="4063" ImageSize="2195648" ImageWidth="2677" />
+    <Page Image="94" ImageHeight="4063" ImageSize="3223745" ImageWidth="2677" />
+    <Page Image="95" ImageHeight="4063" ImageSize="2982778" ImageWidth="2677" />
+    <Page Image="96" ImageHeight="4063" ImageSize="2542741" ImageWidth="2677" />
+    <Page Image="97" ImageHeight="4063" ImageSize="3008084" ImageWidth="2677" />
+    <Page Image="98" ImageHeight="4063" ImageSize="2644940" ImageWidth="2677" />
+    <Page Image="99" ImageHeight="4063" ImageSize="2535324" ImageWidth="2677" />
+    <Page Image="100" ImageHeight="4063" ImageSize="3283034" ImageWidth="2677" />
+    <Page Image="101" ImageHeight="4063" ImageSize="2692524" ImageWidth="2677" />
+    <Page Image="102" ImageHeight="4063" ImageSize="3067853" ImageWidth="2677" />
+    <Page Image="103" ImageHeight="4063" ImageSize="2848102" ImageWidth="2677" />
+    <Page Image="104" ImageHeight="4063" ImageSize="3347976" ImageWidth="2677" />
+    <Page Image="105" ImageHeight="4063" ImageSize="3285585" ImageWidth="2677" />
+    <Page Image="106" ImageHeight="4063" ImageSize="3397832" ImageWidth="2677" />
+    <Page Image="107" ImageHeight="4063" ImageSize="2888450" ImageWidth="2677" />
+    <Page Image="108" ImageHeight="4063" ImageSize="3285162" ImageWidth="2677" />
+    <Page Image="109" ImageHeight="4063" ImageSize="2359217" ImageWidth="2677" />
+    <Page Image="110" ImageHeight="4063" ImageSize="3477452" ImageWidth="2677" />
+    <Page Image="111" ImageHeight="4063" ImageSize="2392663" ImageWidth="2677" />
+    <Page Image="112" ImageHeight="4063" ImageSize="2653681" ImageWidth="2677" />
+    <Page Image="113" ImageHeight="4063" ImageSize="3015103" ImageWidth="2677" />
+    <Page Image="114" ImageHeight="4063" ImageSize="3157554" ImageWidth="2677" />
+    <Page Image="115" ImageHeight="4063" ImageSize="3363474" ImageWidth="2677" />
+    <Page Image="116" ImageHeight="4063" ImageSize="4204194" ImageWidth="2677" />
+    <Page Image="117" ImageHeight="4063" ImageSize="2894058" ImageWidth="2677" />
+    <Page Image="118" ImageHeight="4063" ImageSize="2915061" ImageWidth="2677" />
+    <Page Image="119" ImageHeight="4063" ImageSize="3984075" ImageWidth="2677" />
+    <Page Image="120" ImageHeight="4063" ImageSize="10450168" ImageWidth="5354" />
+    <Page Image="121" ImageHeight="4063" ImageSize="12044433" ImageWidth="5354" />
+    <Page Image="122" ImageHeight="4063" ImageSize="4548050" ImageWidth="2677" />
+    <Page Image="123" ImageHeight="4063" ImageSize="4924693" ImageWidth="2677" />
+    <Page Image="124" ImageHeight="4063" ImageSize="4433057" ImageWidth="2677" />
+    <Page Image="125" ImageSize="3860391" />
+  </Pages>
+  <Penciller>Lee Sullivan</Penciller>
+  <Publisher>Titan</Publisher>
+  <ScanInformation>(Digital) (XRA-Empire)</ScanInformation>
+  <Series>Rivers of London: Black Mould</Series>
+  <Summary>CSI meets Harry Potter in this fantastic new graphic novel from Ben Aaronovitch, writer of the bestselling Rivers of London supernatural police procedural crime novel series! Something dark and slimy is dripping through the walls of suburban London. Not the usual stuff that smells funny and can be hell on the lungs, this mould is possessed by some dark power full of bad intentions. Looks like it's another case for London's one and only trainee wizard cop, Police Constable Peter Grant, and his reluctant partner, Sahra Guleed! Collects the complete story arc from Rivers of London: Black Mould #1-#5.
+
+https://comicvine.gamespot.com/rivers-of-london-black-mould-1-volume-3/4000-609403/</Summary>
+  <Title>Volume 3</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/rivers-of-london-black-mould-1-volume-3/4000-609403/</Web>
+  <Writer>Andrew Cartmel,Ben Aaronovitch</Writer>
+  <Year>2017</Year>
+  <Count>1</Count>
+  <LanguageISO>en</LanguageISO>
+  <Editor>Steve White</Editor>
+</ComicInfo>

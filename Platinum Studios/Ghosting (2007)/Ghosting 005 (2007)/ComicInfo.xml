@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>5</Count>
+  <GTIN>urn:comicvine:4000-284815</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:59:09 [Issue ID 4000-284815] urn:comicvine:4000-284815
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:40:53. [Issue ID 502851]</Notes>
+  <Number>5</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="516788" Type="FrontCover" />
+    <Page Image="1" ImageSize="477597" />
+    <Page Image="2" ImageSize="461149" />
+    <Page Image="3" ImageSize="427549" />
+    <Page Image="4" ImageSize="400519" />
+    <Page Image="5" ImageSize="405773" />
+    <Page Image="6" ImageSize="411358" />
+    <Page Image="7" ImageSize="393025" />
+    <Page Image="8" ImageSize="514549" />
+    <Page Image="9" ImageSize="420329" />
+    <Page Image="10" ImageSize="313744" />
+    <Page Image="11" ImageSize="580789" />
+    <Page Image="12" ImageSize="390898" />
+    <Page Image="13" ImageSize="312230" />
+    <Page Image="14" ImageSize="491085" />
+    <Page Image="15" ImageSize="556901" />
+    <Page Image="16" ImageSize="401858" />
+    <Page Image="17" ImageSize="546705" />
+    <Page Image="18" ImageSize="475261" />
+    <Page Image="19" ImageSize="473479" />
+    <Page Image="20" ImageSize="525783" />
+    <Page Image="21" ImageSize="379073" />
+    <Page Image="22" ImageSize="392935" />
+    <Page Image="23" ImageSize="429768" />
+    <Page Image="24" ImageSize="507295" />
+    <Page Image="25" ImageSize="617090" />
+    <Page Image="26" ImageSize="271267" />
+  </Pages>
+  <Publisher>Platinum Studios</Publisher>
+  <Series>Ghosting</Series>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/ghosting-5/4000-284815/</Web>
+  <Year>2007</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+  <Characters>Sarah,Maggie,Josh,Jocelyn,Adriano</Characters>
+</ComicInfo>

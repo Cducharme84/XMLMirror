@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>2</Count>
+  <Format>Limited Series</Format>
+  <Genre>Horror</Genre>
+  <Inker>John Epple</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-27T20:06:38</Notes>
+  <Number>1.1</Number>
+  <PageCount>8</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3956" ImageSize="2202881" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3956" ImageSize="1587349" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3956" ImageSize="2060247" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3956" ImageSize="2419142" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3956" ImageSize="2272924" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3956" ImageSize="2371166" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3956" ImageSize="2726380" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3956" ImageSize="2278158" ImageWidth="2560" />
+  </Pages>
+  <Penciller>John Epple</Penciller>
+  <Publisher>Comic Unknown</Publisher>
+  <Series>Exodus Z</Series>
+  <Volume>2023</Volume>
+  <Writer>Jorge Alvarez</Writer>
+  <Year>2024</Year>
+  <Summary>A Companion Story for Exodus Z Issue One. What Else Occured During the Zombie Outbreak?</Summary>
+</ComicInfo>

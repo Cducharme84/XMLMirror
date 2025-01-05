@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-1038482</GTIN>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:14:15 [Issue ID 4000-1038482] urn:comicvine:4000-1038482</Notes>
+	<Number>2</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="3974" ImageHeight="6112" ImageSize="899544" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="3974" ImageHeight="6112" ImageSize="1385748"/>
+		<Page Image="2" ImageWidth="3974" ImageHeight="6112" ImageSize="1167876"/>
+		<Page Image="3" ImageWidth="3974" ImageHeight="6112" ImageSize="1497676"/>
+		<Page Image="4" ImageWidth="3974" ImageHeight="6112" ImageSize="1341908"/>
+		<Page Image="5" ImageWidth="3974" ImageHeight="6112" ImageSize="1543558"/>
+		<Page Image="6" ImageWidth="3974" ImageHeight="6112" ImageSize="1747928"/>
+		<Page Image="7" ImageWidth="3974" ImageHeight="6112" ImageSize="1081028"/>
+		<Page Image="8" ImageWidth="3974" ImageHeight="6112" ImageSize="937684"/>
+		<Page Image="9" ImageWidth="3974" ImageHeight="6112" ImageSize="1096024"/>
+		<Page Image="10" ImageWidth="3974" ImageHeight="6112" ImageSize="1273508"/>
+		<Page Image="11" ImageWidth="3974" ImageHeight="6112" ImageSize="1354882"/>
+		<Page Image="12" ImageWidth="3974" ImageHeight="6112" ImageSize="1194976"/>
+		<Page Image="13" ImageWidth="3974" ImageHeight="6112" ImageSize="1581434"/>
+		<Page Image="14" ImageWidth="3974" ImageHeight="6112" ImageSize="1581246"/>
+		<Page Image="15" ImageWidth="3974" ImageHeight="6112" ImageSize="1535118"/>
+		<Page Image="16" ImageWidth="3974" ImageHeight="6112" ImageSize="1319600"/>
+		<Page Image="17" ImageWidth="3974" ImageHeight="6112" ImageSize="1378860"/>
+		<Page Image="18" ImageWidth="3974" ImageHeight="6112" ImageSize="1387032"/>
+		<Page Image="19" ImageWidth="3974" ImageHeight="6112" ImageSize="1420254"/>
+		<Page Image="20" ImageWidth="3974" ImageHeight="6112" ImageSize="1233724"/>
+		<Page Image="21" ImageWidth="3974" ImageHeight="6112" ImageSize="1194416"/>
+		<Page Image="22" ImageWidth="3974" ImageHeight="6112" ImageSize="1047874"/>
+		<Page Image="23" ImageWidth="3974" ImageHeight="6112" ImageSize="1164392"/>
+		<Page Image="24" ImageWidth="3974" ImageHeight="6112" ImageSize="1416590"/>
+		<Page Image="25" ImageWidth="3974" ImageHeight="6112" ImageSize="1329260"/>
+		<Page Image="26" ImageWidth="3974" ImageHeight="6112" ImageSize="1467558"/>
+		<Page Image="27" ImageWidth="3974" ImageHeight="6112" ImageSize="931370"/>
+		<Page Image="28" ImageWidth="3974" ImageHeight="6112" ImageSize="946386"/>
+		<Page Image="29" ImageWidth="3974" ImageHeight="6112" ImageSize="1865780"/>
+		<Page Image="30" ImageWidth="3974" ImageHeight="6112" ImageSize="860950"/>
+		<Page Image="31" ImageWidth="3974" ImageHeight="6112" ImageSize="964480"/>
+		<Page Image="32" ImageWidth="3974" ImageHeight="6112" ImageSize="833496"/>
+		<Page Image="33" ImageWidth="3974" ImageHeight="6112" ImageSize="1262028"/>
+		<Page Image="34" ImageWidth="3974" ImageHeight="6112" ImageSize="738650"/>
+		<Page Image="35" ImageSize="341304"/>
+	</Pages>
+	<Publisher>Scout Comics</Publisher>
+	<Series>Rad Wraith Double Feature</Series>
+	<Summary>https://comicvine.gamespot.com/rad-wraith-double-feature-1/4000-1038482/</Summary>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/rad-wraith-double-feature-1/4000-1038482/</Web>
+	<Year>2023</Year>
+</ComicInfo>

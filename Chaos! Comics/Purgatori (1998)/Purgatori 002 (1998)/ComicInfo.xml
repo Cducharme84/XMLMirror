@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Dracula,Lady Death,Purgatori,Rath,Rubicante</Characters>
+	<Colorist>Brimstone</Colorist>
+	<Count>7</Count>
+	<Day>1</Day>
+	<Editor>Brad Gould,Brian Pulido</Editor>
+	<GTIN>urn:comicvine:4000-118970</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Al Rio,Brimstone</Inker>
+	<Letterer>Comicraft</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:37:58 [Issue ID 4000-118970] urn:comicvine:4000-118970</Notes>
+	<Number>2</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="463672" Type="FrontCover"/>
+		<Page Image="1" ImageSize="259217"/>
+		<Page Image="2" ImageSize="371899"/>
+		<Page Image="3" ImageSize="380430"/>
+		<Page Image="4" ImageSize="321164"/>
+		<Page Image="5" ImageSize="306382"/>
+		<Page Image="6" ImageSize="425321"/>
+		<Page Image="7" ImageSize="431261"/>
+		<Page Image="8" ImageSize="403429"/>
+		<Page Image="9" ImageSize="394576"/>
+		<Page Image="10" ImageSize="418588"/>
+		<Page Image="11" ImageSize="440954"/>
+		<Page Image="12" ImageSize="460461"/>
+		<Page Image="13" ImageSize="375570"/>
+		<Page Image="14" ImageSize="342585"/>
+		<Page Image="15" ImageSize="355067"/>
+		<Page Image="16" ImageSize="331195"/>
+		<Page Image="17" ImageSize="340179"/>
+		<Page Image="18" ImageSize="341083"/>
+		<Page Image="19" ImageSize="373396"/>
+		<Page Image="20" ImageSize="344960"/>
+		<Page Image="21" ImageSize="363931"/>
+		<Page Image="22" ImageSize="361069"/>
+		<Page Image="23" ImageSize="389734"/>
+		<Page Image="24" ImageSize="316988"/>
+	</Pages>
+	<Penciller>Al Rio,Brimstone</Penciller>
+	<Publisher>Chaos! Comics</Publisher>
+	<Series>Purgatori</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-12 10:44:28.  [CVDB118970]
+
+https://comicvine.gamespot.com/purgatori-2-godess-war-part-1/4000-118970/</Summary>
+	<Tags>Dracula,Lady Death,Purgatori,Rath,Rubicante</Tags>
+	<Title>Godess War Part 1</Title>
+	<Volume>1998</Volume>
+	<Web>https://comicvine.gamespot.com/purgatori-2-godess-war-part-1/4000-118970/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>1998</Year>
+</ComicInfo>

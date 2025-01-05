@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Characters>Zan</Characters>
+	<Count>27</Count>
+	<CoverArtist>Rich Stahnke</CoverArtist>
+	<Day>12</Day>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-1038000</GTIN>
+	<Genre>Anthology,Fantasy,Jungle</Genre>
+	<Inker>Bruno Marraffa,Marcelo Bravo</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-18T01:48:26 [Issue ID 4000-1038000] urn:comicvine:4000-1038000 urn:grandcomicsdatabase:issue/2518540</Notes>
+	<Number>14</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3961" ImageSize="1323087" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3961" ImageSize="1521443"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3961" ImageSize="1641886"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3961" ImageSize="1639807"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3961" ImageSize="1597957"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3961" ImageSize="1558978"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3961" ImageSize="1417689"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3961" ImageSize="1301718"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3961" ImageSize="1512964"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3961" ImageSize="1691494"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3961" ImageSize="1682370"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3961" ImageSize="1766214"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3961" ImageSize="1464301"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3961" ImageSize="1596409"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3961" ImageSize="1688840"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3961" ImageSize="1717279"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3961" ImageSize="1529354"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3961" ImageSize="1869940"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3961" ImageSize="1986969"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3961" ImageSize="1833567"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3961" ImageSize="1726243"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3961" ImageSize="2005207"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3961" ImageSize="1690219"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3961" ImageSize="1993915"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3961" ImageSize="1796863"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3961" ImageSize="1802083"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3961" ImageSize="1532700"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3961" ImageSize="1719231"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3961" ImageSize="1610926"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3961" ImageSize="1413064"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3961" ImageSize="1403700"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3961" ImageSize="1526762"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3961" ImageSize="1473863"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3961" ImageSize="1912536"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3961" ImageSize="1045968"/>
+		<Page Image="35" ImageSize="491795"/>
+	</Pages>
+	<Penciller>Bruno Marraffa,Marcelo Bravo</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Jungle Comics</Series>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/jungle-comics-14/4000-1038000/</Web>
+	<Writer>Eric Alan Nelson,Giuseppe Pederiali,Roberto Renzi</Writer>
+	<Year>2023</Year>
+</ComicInfo>

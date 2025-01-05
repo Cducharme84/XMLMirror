@@ -1,0 +1,498 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Karen,Cousin Eerie,Darklon,Jerome Curry,Jedediah Pan</Characters>
+  <Colorist>Bill DuBay,Ken Kelly</Colorist>
+  <Day>31</Day>
+  <Editor>Bill DuBay,Bruce Jones,James Warren</Editor>
+  <GTIN>urn:comicvine:4000-454064</GTIN>
+  <Inker>Al Milgrom,Carmine Infantino,Esteban Maroto,Gonzalo Mayo,Jaime Brocal Remohí,Jim Starlin,Josep Maria Bea,Ken Kelly,Luis Bermejo,Manuel Sanjulian,Richard Corben,Wayne Howard</Inker>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:10:07 [Issue ID 4000-454064] urn:comicvine:4000-454064
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 09:06:36. [Issue ID 1208379]</Notes>
+  <Number>16</Number>
+  <PageCount>313</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2787704" Type="FrontCover" />
+    <Page Image="1" ImageSize="560685" />
+    <Page Image="2" ImageSize="86637" />
+    <Page Image="3" ImageSize="661944" />
+    <Page Image="4" ImageSize="1144297" />
+    <Page Image="5" ImageSize="1161365" />
+    <Page Image="6" ImageSize="1074738" />
+    <Page Image="7" ImageSize="381358" />
+    <Page Image="8" ImageSize="2403869" />
+    <Page Image="9" ImageSize="2270429" />
+    <Page Image="10" ImageSize="1403195" />
+    <Page Image="11" ImageSize="2388580" />
+    <Page Image="12" ImageSize="1809152" />
+    <Page Image="13" ImageSize="2065337" />
+    <Page Image="14" ImageSize="2017812" />
+    <Page Image="15" ImageSize="2007198" />
+    <Page Image="16" ImageSize="2064234" />
+    <Page Image="17" ImageSize="2075840" />
+    <Page Image="18" ImageSize="2187816" />
+    <Page Image="19" ImageSize="1973107" />
+    <Page Image="20" ImageSize="2272094" />
+    <Page Image="21" ImageSize="1968820" />
+    <Page Image="22" ImageSize="1838612" />
+    <Page Image="23" ImageSize="2018968" />
+    <Page Image="24" ImageSize="1703509" />
+    <Page Image="25" ImageSize="2308283" />
+    <Page Image="26" ImageSize="2129144" />
+    <Page Image="27" ImageSize="2317280" />
+    <Page Image="28" ImageSize="2351170" />
+    <Page Image="29" ImageSize="2046035" />
+    <Page Image="30" ImageSize="1950361" />
+    <Page Image="31" ImageSize="1629789" />
+    <Page Image="32" ImageSize="1580117" />
+    <Page Image="33" ImageSize="1728693" />
+    <Page Image="34" ImageSize="1630681" />
+    <Page Image="35" ImageSize="1694293" />
+    <Page Image="36" ImageSize="1663101" />
+    <Page Image="37" ImageSize="1327462" />
+    <Page Image="38" ImageSize="2143759" />
+    <Page Image="39" ImageSize="2001514" />
+    <Page Image="40" ImageSize="1503171" />
+    <Page Image="41" ImageSize="2302395" />
+    <Page Image="42" ImageSize="2601428" />
+    <Page Image="43" ImageSize="1988940" />
+    <Page Image="44" ImageSize="2817856" />
+    <Page Image="45" ImageSize="2397418" />
+    <Page Image="46" ImageSize="1847515" />
+    <Page Image="47" ImageSize="1930409" />
+    <Page Image="48" ImageSize="2106500" />
+    <Page Image="49" ImageSize="2237720" />
+    <Page Image="50" ImageSize="1860903" />
+    <Page Image="51" ImageSize="2084797" />
+    <Page Image="52" ImageSize="2096077" />
+    <Page Image="53" ImageSize="2149240" />
+    <Page Image="54" ImageSize="2013848" />
+    <Page Image="55" ImageSize="2236070" />
+    <Page Image="56" ImageSize="1549116" />
+    <Page Image="57" ImageSize="2220310" />
+    <Page Image="58" ImageSize="1985247" />
+    <Page Image="59" ImageSize="2035173" />
+    <Page Image="60" ImageSize="2200098" />
+    <Page Image="61" ImageSize="1958828" />
+    <Page Image="62" ImageSize="2507068" />
+    <Page Image="63" ImageSize="1403293" />
+    <Page Image="64" ImageSize="1455080" />
+    <Page Image="65" ImageSize="2443986" />
+    <Page Image="66" ImageSize="1864685" />
+    <Page Image="67" ImageSize="1914681" />
+    <Page Image="68" ImageSize="2478047" />
+    <Page Image="69" ImageSize="2269860" />
+    <Page Image="70" ImageSize="2800877" />
+    <Page Image="71" ImageSize="2728820" />
+    <Page Image="72" ImageSize="2197073" />
+    <Page Image="73" ImageSize="2243075" />
+    <Page Image="74" ImageSize="2356427" />
+    <Page Image="75" ImageSize="1954663" />
+    <Page Image="76" ImageSize="2034603" />
+    <Page Image="77" ImageSize="1663298" />
+    <Page Image="78" ImageSize="1867047" />
+    <Page Image="79" ImageSize="1749081" />
+    <Page Image="80" ImageSize="1688045" />
+    <Page Image="81" ImageSize="2060546" />
+    <Page Image="82" ImageSize="1720626" />
+    <Page Image="83" ImageSize="2200372" />
+    <Page Image="84" ImageSize="1826593" />
+    <Page Image="85" ImageSize="2021857" />
+    <Page Image="86" ImageSize="1865135" />
+    <Page Image="87" ImageSize="2055623" />
+    <Page Image="88" ImageSize="1774504" />
+    <Page Image="89" ImageSize="1838552" />
+    <Page Image="90" ImageSize="1840376" />
+    <Page Image="91" ImageSize="1778769" />
+    <Page Image="92" ImageSize="1936175" />
+    <Page Image="93" ImageSize="1984108" />
+    <Page Image="94" ImageSize="1781191" />
+    <Page Image="95" ImageSize="1790533" />
+    <Page Image="96" ImageSize="2127886" />
+    <Page Image="97" ImageSize="2393978" />
+    <Page Image="98" ImageSize="2036822" />
+    <Page Image="99" ImageSize="1989401" />
+    <Page Image="100" ImageSize="1898047" />
+    <Page Image="101" ImageSize="2163797" />
+    <Page Image="102" ImageSize="1754046" />
+    <Page Image="103" ImageSize="1693582" />
+    <Page Image="104" ImageSize="2442479" />
+    <Page Image="105" ImageSize="2126209" />
+    <Page Image="106" ImageSize="2096903" />
+    <Page Image="107" ImageSize="2214011" />
+    <Page Image="108" ImageSize="2388708" />
+    <Page Image="109" ImageSize="2463113" />
+    <Page Image="110" ImageSize="2091601" />
+    <Page Image="111" ImageSize="2125421" />
+    <Page Image="112" ImageSize="2662612" />
+    <Page Image="113" ImageSize="2388835" />
+    <Page Image="114" ImageSize="2475830" />
+    <Page Image="115" ImageSize="2633773" />
+    <Page Image="116" ImageSize="2903839" />
+    <Page Image="117" ImageSize="2715510" />
+    <Page Image="118" ImageSize="1602822" />
+    <Page Image="119" ImageSize="2213702" />
+    <Page Image="120" ImageSize="2221601" />
+    <Page Image="121" ImageSize="2881032" />
+    <Page Image="122" ImageSize="2789749" />
+    <Page Image="123" ImageSize="2868828" />
+    <Page Image="124" ImageSize="2317889" />
+    <Page Image="125" ImageSize="2420523" />
+    <Page Image="126" ImageSize="2618113" />
+    <Page Image="127" ImageSize="2371839" />
+    <Page Image="128" ImageSize="2214277" />
+    <Page Image="129" ImageSize="2704750" />
+    <Page Image="130" ImageSize="1470040" />
+    <Page Image="131" ImageSize="2059355" />
+    <Page Image="132" ImageSize="2282370" />
+    <Page Image="133" ImageSize="2130669" />
+    <Page Image="134" ImageSize="2069653" />
+    <Page Image="135" ImageSize="1922339" />
+    <Page Image="136" ImageSize="2146480" />
+    <Page Image="137" ImageSize="2040156" />
+    <Page Image="138" ImageSize="1841437" />
+    <Page Image="139" ImageSize="1892560" />
+    <Page Image="140" ImageSize="1862499" />
+    <Page Image="141" ImageSize="1832365" />
+    <Page Image="142" ImageSize="1574386" />
+    <Page Image="143" ImageSize="1370442" />
+    <Page Image="144" ImageSize="1648234" />
+    <Page Image="145" ImageSize="2030177" />
+    <Page Image="146" ImageSize="1733809" />
+    <Page Image="147" ImageSize="2004439" />
+    <Page Image="148" ImageSize="1698271" />
+    <Page Image="149" ImageSize="2161881" />
+    <Page Image="150" ImageSize="3354141" />
+    <Page Image="151" ImageSize="2502544" />
+    <Page Image="152" ImageSize="2618135" />
+    <Page Image="153" ImageSize="2770860" />
+    <Page Image="154" ImageSize="2700318" />
+    <Page Image="155" ImageSize="2933953" />
+    <Page Image="156" ImageSize="2657491" />
+    <Page Image="157" ImageSize="2900424" />
+    <Page Image="158" ImageSize="1872898" />
+    <Page Image="159" ImageSize="2762591" />
+    <Page Image="160" ImageSize="2047768" />
+    <Page Image="161" ImageSize="2052654" />
+    <Page Image="162" ImageSize="2236265" />
+    <Page Image="163" ImageSize="2148343" />
+    <Page Image="164" ImageSize="2295253" />
+    <Page Image="165" ImageSize="2023882" />
+    <Page Image="166" ImageSize="1978256" />
+    <Page Image="167" ImageSize="2119574" />
+    <Page Image="168" ImageSize="2750136" />
+    <Page Image="169" ImageSize="2383505" />
+    <Page Image="170" ImageSize="2458956" />
+    <Page Image="171" ImageSize="2039259" />
+    <Page Image="172" ImageSize="2603814" />
+    <Page Image="173" ImageSize="2088726" />
+    <Page Image="174" ImageSize="2679557" />
+    <Page Image="175" ImageSize="3671336" />
+    <Page Image="176" ImageSize="1588503" />
+    <Page Image="177" ImageSize="3605340" />
+    <Page Image="178" ImageSize="4813267" />
+    <Page Image="179" ImageSize="3134126" />
+    <Page Image="180" ImageSize="3275511" />
+    <Page Image="181" ImageSize="3333901" />
+    <Page Image="182" ImageSize="4086654" />
+    <Page Image="183" ImageSize="4501071" />
+    <Page Image="184" ImageSize="4055751" />
+    <Page Image="185" ImageSize="2066885" />
+    <Page Image="186" ImageSize="2688289" />
+    <Page Image="187" ImageSize="2576141" />
+    <Page Image="188" ImageSize="2224736" />
+    <Page Image="189" ImageSize="2681541" />
+    <Page Image="190" ImageSize="2537382" />
+    <Page Image="191" ImageSize="2476834" />
+    <Page Image="192" ImageSize="2708684" />
+    <Page Image="193" ImageSize="2789096" />
+    <Page Image="194" ImageSize="2463129" />
+    <Page Image="195" ImageSize="3481591" />
+    <Page Image="196" ImageSize="1543873" />
+    <Page Image="197" ImageSize="2575645" />
+    <Page Image="198" ImageSize="2141203" />
+    <Page Image="199" ImageSize="2242962" />
+    <Page Image="200" ImageSize="2274802" />
+    <Page Image="201" ImageSize="2395528" />
+    <Page Image="202" ImageSize="2030325" />
+    <Page Image="203" ImageSize="2442265" />
+    <Page Image="204" ImageSize="2552002" />
+    <Page Image="205" ImageSize="1726114" />
+    <Page Image="206" ImageSize="1724653" />
+    <Page Image="207" ImageSize="2516635" />
+    <Page Image="208" ImageSize="1822117" />
+    <Page Image="209" ImageSize="1748630" />
+    <Page Image="210" ImageSize="2073811" />
+    <Page Image="211" ImageSize="1748746" />
+    <Page Image="212" ImageSize="2094095" />
+    <Page Image="213" ImageSize="2356398" />
+    <Page Image="214" ImageSize="1356363" />
+    <Page Image="215" ImageSize="1893307" />
+    <Page Image="216" ImageSize="1859743" />
+    <Page Image="217" ImageSize="1711606" />
+    <Page Image="218" ImageSize="3183418" />
+    <Page Image="219" ImageSize="2392233" />
+    <Page Image="220" ImageSize="2586607" />
+    <Page Image="221" ImageSize="2657702" />
+    <Page Image="222" ImageSize="2210361" />
+    <Page Image="223" ImageSize="2190575" />
+    <Page Image="224" ImageSize="2614486" />
+    <Page Image="225" ImageSize="2061474" />
+    <Page Image="226" ImageSize="1964587" />
+    <Page Image="227" ImageSize="1777684" />
+    <Page Image="228" ImageSize="2533080" />
+    <Page Image="229" ImageSize="1777459" />
+    <Page Image="230" ImageSize="1978113" />
+    <Page Image="231" ImageSize="1957518" />
+    <Page Image="232" ImageSize="2315647" />
+    <Page Image="233" ImageSize="2058175" />
+    <Page Image="234" ImageSize="1791680" />
+    <Page Image="235" ImageSize="1760635" />
+    <Page Image="236" ImageSize="2223839" />
+    <Page Image="237" ImageSize="2151246" />
+    <Page Image="238" ImageSize="2036331" />
+    <Page Image="239" ImageSize="2280381" />
+    <Page Image="240" ImageSize="2212638" />
+    <Page Image="241" ImageSize="2093014" />
+    <Page Image="242" ImageSize="2368296" />
+    <Page Image="243" ImageSize="2500646" />
+    <Page Image="244" ImageSize="2396322" />
+    <Page Image="245" ImageSize="1991840" />
+    <Page Image="246" ImageSize="2216580" />
+    <Page Image="247" ImageSize="2292388" />
+    <Page Image="248" ImageSize="2356255" />
+    <Page Image="249" ImageSize="2712485" />
+    <Page Image="250" ImageSize="2532258" />
+    <Page Image="251" ImageSize="2264490" />
+    <Page Image="252" ImageSize="1530817" />
+    <Page Image="253" ImageSize="2449674" />
+    <Page Image="254" ImageSize="2462163" />
+    <Page Image="255" ImageSize="1776691" />
+    <Page Image="256" ImageSize="2269801" />
+    <Page Image="257" ImageSize="2082737" />
+    <Page Image="258" ImageSize="1940186" />
+    <Page Image="259" ImageSize="1689480" />
+    <Page Image="260" ImageSize="2026859" />
+    <Page Image="261" ImageSize="1910471" />
+    <Page Image="262" ImageSize="1511138" />
+    <Page Image="263" ImageSize="2125966" />
+    <Page Image="264" ImageSize="2961727" />
+    <Page Image="265" ImageSize="2559859" />
+    <Page Image="266" ImageSize="2284890" />
+    <Page Image="267" ImageSize="2109787" />
+    <Page Image="268" ImageSize="2561270" />
+    <Page Image="269" ImageSize="2328643" />
+    <Page Image="270" ImageSize="2013916" />
+    <Page Image="271" ImageSize="2347437" />
+    <Page Image="272" ImageSize="1817686" />
+    <Page Image="273" ImageSize="1927421" />
+    <Page Image="274" ImageSize="1354980" />
+    <Page Image="275" ImageSize="2187710" />
+    <Page Image="276" ImageSize="2063291" />
+    <Page Image="277" ImageSize="2029269" />
+    <Page Image="278" ImageSize="1721259" />
+    <Page Image="279" ImageSize="1995426" />
+    <Page Image="280" ImageSize="2901468" />
+    <Page Image="281" ImageSize="2528934" />
+    <Page Image="282" ImageSize="2505299" />
+    <Page Image="283" ImageSize="2403321" />
+    <Page Image="284" ImageSize="2333660" />
+    <Page Image="285" ImageSize="2074832" />
+    <Page Image="286" ImageSize="2069766" />
+    <Page Image="287" ImageSize="2141340" />
+    <Page Image="288" ImageSize="1361791" />
+    <Page Image="289" ImageSize="1790076" />
+    <Page Image="290" ImageSize="2128597" />
+    <Page Image="291" ImageSize="2261478" />
+    <Page Image="292" ImageSize="1711607" />
+    <Page Image="293" ImageSize="1652964" />
+    <Page Image="294" ImageSize="1859008" />
+    <Page Image="295" ImageSize="1836797" />
+    <Page Image="296" ImageSize="1818221" />
+    <Page Image="297" ImageSize="1851041" />
+    <Page Image="298" ImageSize="2325026" />
+    <Page Image="299" ImageSize="2337862" />
+    <Page Image="300" ImageSize="2635842" />
+    <Page Image="301" ImageSize="2650287" />
+    <Page Image="302" ImageSize="2480703" />
+    <Page Image="303" ImageSize="2411788" />
+    <Page Image="304" ImageSize="2620141" />
+    <Page Image="305" ImageSize="2292462" />
+    <Page Image="306" ImageSize="3271848" />
+    <Page Image="307" ImageSize="2057386" />
+    <Page Image="308" ImageSize="2490382" />
+    <Page Image="309" ImageSize="2285615" />
+    <Page Image="310" ImageSize="749166" />
+    <Page Image="311" ImageSize="355873" />
+    <Page Image="312" ImageSize="1498438" />
+  </Pages>
+  <Penciller>Al Milgrom,Carmine Infantino,Esteban Maroto,Gonzalo Mayo,Jaime Brocal Remohí,Jim Starlin,Josep Maria Bea,Ken Kelly,Luis Bermejo,Manuel Sanjulian,Richard Corben,Wayne Howard</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Eerie Archives</Series>
+  <Summary>A terrifying tome delivering a stunning variety of high fantasy, sexy science fiction, Victorian mystery, and modern-day adventure—all united by a common sense of profound horror! Richard Corben, Bruce Jones, Jim Starlin, and others deliver subtle shudders, scream-inducing terrors, and shocking twist endings in Eerie issues #75–#80!
+
+The debut of Jim Starlin’s Darklon the Mystic series!
+
+Marvel at Richard Corben’s sexy thrillers!
+
+Foreword by Peter Bagge!
+
+Contains:
+
+Demons of Jeremiah Cold
+
+Dr. Bottles found his childrens' bodies. They had been cruelly tortured...nailed to railroad ties...left to die in the scorching sun. Jeremiah Cold discovered Dr. Bottles. His father, the demon man with the silver bracelet, found the murderers!
+
+Freaks
+
+She was old...evil itself! Like a spider, she had woven an intricate web...of horror...of death. The Freaks had been caught...accidentally. And they would help her reach her wicked goal. They would become studs in her stable of terror. And would breed more human monsters!
+
+Oogie and the Worm
+
+As resident god, Kil Gore Trowt did exactly as he pleased...relived Buck Blaster's video adventures. As the terrible Oogi Finger, he fought heroic Buck and his loyal sidekick, Thelma Starbust. Till Thelma demanded her own adventures...and damn Buck!
+
+Invasion
+
+The universe is populated with living entities...malignant and benign...miniscule and tremendous. Danger is everywhere. A man, escaping a fanged beast of prey, might easily succumb to the invisible. And fall before a microscopic particle too small for him to perceive!
+
+Gillian and the Pirates
+
+You might have called Gillian Taxi mad...had his inventions not worked so beautifully. But even his most loyal supporters questioned the practicality of his latest brain storm. His flying tea kettle...his taxi-cab...powered with ruby dust.
+
+Deliver the Child
+
+Mr. Digger had conjured up the demon named Jahnte. Unfortunately, it was easier to call on a hellish imp than to control him. The angry demon, bent on revenge, would obey no one except his own horrible instincts!
+
+Wolfer: Highsong
+
+Wolfer O'Connel had always been a brother to the Crow Indians. So why had they come to kill him? What was this "beast" they were babbling about? Wolfer had wit and courage...but was that enough to keep him alive?
+
+Oogie: The Scroungers
+
+Thelma Starbust, goddess of Oogie's planet, was prepared for invasions. Little green cannibals. Cyclotic giants. Buy-eyed octopi. Anything. But not the dreaded IRS! Anywhat the IRS shouldn't be able to tax a goddess.
+
+Hypnos: The Silver Key
+
+The insulted artist picked Peter up...then hurled him through his painting into a mad wonderland. there only one goal made sense. Find the key. Unlock the door. Then leave. But there were thousands of keys!
+
+Beware Darklon, Mystic
+
+Four assassins had struck swiftly but not accurately. Darklon's concubine lay dead in his place. On her blood her swore his revenge but his search for the killers led him to his own house!
+
+Within You...Without You
+
+She was a beautiful time traveler, marooned in the Cretaceous period. Jeff Lyendecker used to love her. Now he was the only man on earth who could save her. If he would!
+
+Moonweavers: The Gift
+
+He came from the Dark Star, in the dead of night, with his warm, ethereal kisses and gentle touch. He brought her something she desperately needed...a gift!
+
+The King of Nob Hill
+
+The old knife sharpener swore revenge on an entire town. when he severed the hand of Jedediah Pan, and stole the mystical hell-spawned bracelet, the terror began!
+
+Demons of Father Pain
+
+Nine slayings had occurred in the neighborhood of the old Spanish Mission. Jeremiah Cold knew who was responsible. But it was already far too late to stop them!
+
+Oogie and the Lie
+
+Leroy was having a bad time in paradise. He was a mortal among gods, His series had been cancelled. The IRS was after him. And Prunie was about to deliver some very bad news.
+
+Cronk
+
+Cronk may have been a Satyrian devil boar, but he was human enough to want to avenge the deaths of his parents. Even if he had to climb in a rocket ship and travel to the end of the universe.
+
+Death of a Friend
+
+A Mummy stalked the deserted streets of Cairo. Its mission was murder. And its victims were beautiful women...who, coincidentally, had scored the advances of Jerome Curry.
+
+The Mind Within
+
+Jerome Curry found an amulet. Now he could transfer minds...with any properly preserved mummy. It never occurred to him that once in the mummy's body...he might be there forever!
+
+Ghoulish Encounter.
+
+Jerome was trapped. He was in the mummy's corpse. And without the amulet, he could not get out. So he must find the amulet. And he must protect his own unconscious body!
+
+Enter, Mr. Hyde
+
+Warren wanted to create a longer life-span for mankind. And thought he had the serum to do so. 'Til he injected himself, and became a raging monster. Could even the mummy stop him?
+
+Village of the Insane
+
+The mummy discovered who stole his amulet. He followed her into the desert. There before a ruined temple, he face his most awful enemy. A demon conjured by madmen!
+
+And An End
+
+Curry was caught in a body that had been dead thousands of years. A ponderous, rotting, almost immobile hulk! And Curry found it difficult, impossible to run...to escape the torch-laden mob!
+
+Hope of the Future
+
+He was a palm-reader. A professional who believed a person's future was written in his hand. Then he entered a class full of children. And read in their palms no future at all!
+
+Brancatelli: Comic Books
+
+Many comics are not selling because no one sees them. Who's at fault? The distributors, and publishers who can't, or won't, make the effort to insure good distribution.
+
+Time and Time Again
+
+Jeff journeyed to the past to rescue trapped time traveler, Linda. In doing so he lost his life. But what mattered most was his missing gun. Linda must retrieve the weapon...or risk a chance of changing history!
+
+Brancatelli: Comic Books
+
+The beloved Burroughs characters temporarily lost a home in comics when National ceased publication of their adventures. Who will pick up the option? Which company will be next to publish Tarzan's exploits?
+
+The Pea Green Boat
+
+"I've lined our sailboat's hull with plates of lead and steel." bragged Al Green. "Below is enough ammo to equip an army!" "No!" screamed his partner. "You're mad!" But Al's madness was survivor's deadly sanity!
+
+Darklon: The Price
+
+Mystic sorcerer, beyond man's law though he was, Darklon still retained some faith...some human feelings...some love for the man he called Father. And now he had discovered that his father was trying to kill him!
+
+Third Person Singular
+
+Lee's was a world populated by men. Babies were created in test tubes. there were no women. And those rare, condemned few with heterosexual longings were hunted...destroyed by government controlled Snuffers!
+
+Sam's Son and Delilah
+
+Sam's deaf-mute son didn't need ears to paint. The kid was a genius. But Sam did not care. Because his kid was a natural at something better. Football! And that talent meant more than the boy himself!
+
+Scallywag
+
+The brave Samurai, one respected warriors, were now feared as vagabonds and hated as thieves. Their bitterness was volatile. they were restless. Searching for a fight. then along came Captain Sully!
+
+Darklon: Retribution
+
+It was time for Darklon to free his father. He had given up his body to the Nameless One to achieve this purpose. He was determined, even though it meant damnation!
+
+Boat: On Moonlight Bay
+
+The Owl and the Pussycat went to sea in a nuclear holocaust! The first port for the Pea Green Boat was nearly their last. For a night-stalking monster had also landed!
+
+Tombspawn: Vampire
+
+They were remnants of the Old Earth. The tribes. The vampires! But vampires were no threat. The aliens knew how to eliminate them. Or wold it be the other way around?
+
+Third Person Singular: II
+
+Dr. Otis had been killed, not by Snuffers but...by a woman! Why was a girl dressed in a Snuffer's robe? Were there others? Rick had to know. Even if it meant tragedy!
+
+Cronk: Queen of Purple
+
+IT was a simple mission. All the devilboard had to do was deliver a half dozen...eggs! They weren't ordinary. But Cronk asked no questions. 'Til the deadly queen hatched!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-09-17 11:52:49.  [CVDB454064]
+
+https://comicvine.gamespot.com/eerie-archives-16-volume-sixteen/4000-454064/</Summary>
+  <Tags>Karen,Cousin Eerie,Darklon,Jerome Curry,Jedediah Pan</Tags>
+  <Title>Volume Sixteen</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/eerie-archives-16-volume-sixteen/4000-454064/</Web>
+  <Writer>Bill DuBay,Doug Moench,Gerry Boudreau,Steve Skeates</Writer>
+  <Year>2009</Year>
+  <Count>27</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

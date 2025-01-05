@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Divinity,Myshka</Characters>
+	<Colorist>David Baron</Colorist>
+	<Day>28</Day>
+	<Editor>Kyle Andrukiewicz,Warren Simmons</Editor>
+	<GTIN>urn:comixology:242819</GTIN>
+	<Genre>Superhero</Genre>
+	<Inker>Ryan Winn,Trevor Hairsine</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Dave Lanphear</Letterer>
+	<Locations>Australia,Space,The Soviet Union</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:04:56 [Issue ID 4000-479248] urn:comicvine:4000-479248 urn:comixology:242819</Notes>
+	<Number>1</Number>
+	<PageCount>129</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1987" ImageHeight="3056" ImageSize="1717883" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1987" ImageHeight="3056" ImageSize="335095"/>
+		<Page Image="2" ImageWidth="1987" ImageHeight="3056" ImageSize="503502"/>
+		<Page Image="3" ImageWidth="3974" ImageHeight="3056" ImageSize="1975813"/>
+		<Page Image="4" ImageWidth="1987" ImageHeight="3056" ImageSize="1314646"/>
+		<Page Image="5" ImageWidth="1987" ImageHeight="3056" ImageSize="1700763"/>
+		<Page Image="6" ImageWidth="1987" ImageHeight="3056" ImageSize="374506"/>
+		<Page Image="7" ImageWidth="1987" ImageHeight="3056" ImageSize="2187646"/>
+		<Page Image="8" ImageWidth="1987" ImageHeight="3056" ImageSize="2134573"/>
+		<Page Image="9" ImageWidth="1987" ImageHeight="3056" ImageSize="2130323"/>
+		<Page Image="10" ImageWidth="1987" ImageHeight="3056" ImageSize="2074949"/>
+		<Page Image="11" ImageWidth="1987" ImageHeight="3056" ImageSize="2701413"/>
+		<Page Image="12" ImageWidth="1987" ImageHeight="3056" ImageSize="2150433"/>
+		<Page Image="13" ImageWidth="1987" ImageHeight="3056" ImageSize="2706172"/>
+		<Page Image="14" ImageWidth="1987" ImageHeight="3056" ImageSize="2061939"/>
+		<Page Image="15" ImageWidth="1987" ImageHeight="3056" ImageSize="2938782"/>
+		<Page Image="16" ImageWidth="1987" ImageHeight="3056" ImageSize="3709746"/>
+		<Page Image="17" ImageWidth="1987" ImageHeight="3056" ImageSize="2464835"/>
+		<Page Image="18" ImageWidth="1987" ImageHeight="3056" ImageSize="2283411"/>
+		<Page Image="19" ImageWidth="1987" ImageHeight="3056" ImageSize="3127359"/>
+		<Page Image="20" ImageWidth="1987" ImageHeight="3056" ImageSize="2736559"/>
+		<Page Image="21" ImageWidth="1987" ImageHeight="3056" ImageSize="2322765"/>
+		<Page Image="22" ImageWidth="1987" ImageHeight="3056" ImageSize="1756627"/>
+		<Page Image="23" ImageWidth="1987" ImageHeight="3056" ImageSize="2338725"/>
+		<Page Image="24" ImageWidth="1987" ImageHeight="3056" ImageSize="6068781"/>
+		<Page Image="25" ImageWidth="1987" ImageHeight="3056" ImageSize="3053185"/>
+		<Page Image="26" ImageWidth="1987" ImageHeight="3056" ImageSize="2422667"/>
+		<Page Image="27" ImageWidth="1987" ImageHeight="3056" ImageSize="2492022"/>
+		<Page Image="28" ImageWidth="1987" ImageHeight="3056" ImageSize="2379978"/>
+		<Page Image="29" ImageWidth="1987" ImageHeight="3056" ImageSize="1215934"/>
+		<Page Image="30" ImageWidth="1987" ImageHeight="3056" ImageSize="371234"/>
+		<Page Image="31" ImageWidth="1987" ImageHeight="3056" ImageSize="2250067"/>
+		<Page Image="32" ImageWidth="1987" ImageHeight="3056" ImageSize="2376959"/>
+		<Page Image="33" ImageWidth="1987" ImageHeight="3056" ImageSize="2360822"/>
+		<Page Image="34" ImageWidth="1987" ImageHeight="3056" ImageSize="2791878"/>
+		<Page Image="35" ImageWidth="1987" ImageHeight="3056" ImageSize="3025700"/>
+		<Page Image="36" ImageWidth="1987" ImageHeight="3056" ImageSize="2403570"/>
+		<Page Image="37" ImageWidth="1987" ImageHeight="3056" ImageSize="3128881"/>
+		<Page Image="38" ImageWidth="1987" ImageHeight="3056" ImageSize="1995819"/>
+		<Page Image="39" ImageWidth="1987" ImageHeight="3056" ImageSize="2310359"/>
+		<Page Image="40" ImageWidth="1987" ImageHeight="3056" ImageSize="3417379"/>
+		<Page Image="41" ImageWidth="1987" ImageHeight="3056" ImageSize="3034168"/>
+		<Page Image="42" ImageWidth="1987" ImageHeight="3056" ImageSize="2522540"/>
+		<Page Image="43" ImageWidth="1987" ImageHeight="3056" ImageSize="2563511"/>
+		<Page Image="44" ImageWidth="1987" ImageHeight="3056" ImageSize="2683759"/>
+		<Page Image="45" ImageWidth="1987" ImageHeight="3056" ImageSize="2858994"/>
+		<Page Image="46" ImageWidth="1987" ImageHeight="3056" ImageSize="1749814"/>
+		<Page Image="47" ImageWidth="1987" ImageHeight="3056" ImageSize="1465219"/>
+		<Page Image="48" ImageWidth="1987" ImageHeight="3056" ImageSize="1739271"/>
+		<Page Image="49" ImageWidth="1987" ImageHeight="3056" ImageSize="2789270"/>
+		<Page Image="50" ImageWidth="1987" ImageHeight="3056" ImageSize="2952671"/>
+		<Page Image="51" ImageWidth="1987" ImageHeight="3056" ImageSize="2487824"/>
+		<Page Image="52" ImageWidth="1987" ImageHeight="3056" ImageSize="2852484"/>
+		<Page Image="53" ImageWidth="1987" ImageHeight="3056" ImageSize="1556915"/>
+		<Page Image="54" ImageWidth="1987" ImageHeight="3056" ImageSize="383818"/>
+		<Page Image="55" ImageWidth="1987" ImageHeight="3056" ImageSize="2557087"/>
+		<Page Image="56" ImageWidth="1987" ImageHeight="3056" ImageSize="2910461"/>
+		<Page Image="57" ImageWidth="1987" ImageHeight="3056" ImageSize="2743993"/>
+		<Page Image="58" ImageWidth="1987" ImageHeight="3056" ImageSize="3016955"/>
+		<Page Image="59" ImageWidth="1987" ImageHeight="3056" ImageSize="1993259"/>
+		<Page Image="60" ImageWidth="1987" ImageHeight="3056" ImageSize="2171095"/>
+		<Page Image="61" ImageWidth="1987" ImageHeight="3056" ImageSize="2114338"/>
+		<Page Image="62" ImageWidth="1987" ImageHeight="3056" ImageSize="2566172"/>
+		<Page Image="63" ImageWidth="1987" ImageHeight="3056" ImageSize="2755185"/>
+		<Page Image="64" ImageWidth="1987" ImageHeight="3056" ImageSize="2550417"/>
+		<Page Image="65" ImageWidth="1987" ImageHeight="3056" ImageSize="2701795"/>
+		<Page Image="66" ImageWidth="1987" ImageHeight="3056" ImageSize="2200655"/>
+		<Page Image="67" ImageWidth="1987" ImageHeight="3056" ImageSize="2058915"/>
+		<Page Image="68" ImageWidth="1987" ImageHeight="3056" ImageSize="2295249"/>
+		<Page Image="69" ImageWidth="1987" ImageHeight="3056" ImageSize="2369701"/>
+		<Page Image="70" ImageWidth="1987" ImageHeight="3056" ImageSize="2548566"/>
+		<Page Image="71" ImageWidth="1987" ImageHeight="3056" ImageSize="2168091"/>
+		<Page Image="72" ImageWidth="1987" ImageHeight="3056" ImageSize="2451935"/>
+		<Page Image="73" ImageWidth="1987" ImageHeight="3056" ImageSize="2570439"/>
+		<Page Image="74" ImageWidth="1987" ImageHeight="3056" ImageSize="2484662"/>
+		<Page Image="75" ImageWidth="1987" ImageHeight="3056" ImageSize="2880057"/>
+		<Page Image="76" ImageWidth="1987" ImageHeight="3056" ImageSize="2118952"/>
+		<Page Image="77" ImageWidth="1987" ImageHeight="3056" ImageSize="1429322"/>
+		<Page Image="78" ImageWidth="1987" ImageHeight="3056" ImageSize="377262"/>
+		<Page Image="79" ImageWidth="1987" ImageHeight="3056" ImageSize="3138178"/>
+		<Page Image="80" ImageWidth="3974" ImageHeight="3056" ImageSize="5264126"/>
+		<Page Image="81" ImageWidth="1987" ImageHeight="3056" ImageSize="2373370"/>
+		<Page Image="82" ImageWidth="1987" ImageHeight="3056" ImageSize="2867924"/>
+		<Page Image="83" ImageWidth="1987" ImageHeight="3056" ImageSize="2498333"/>
+		<Page Image="84" ImageWidth="1987" ImageHeight="3056" ImageSize="2598723"/>
+		<Page Image="85" ImageWidth="1987" ImageHeight="3056" ImageSize="2475700"/>
+		<Page Image="86" ImageWidth="1987" ImageHeight="3056" ImageSize="2926091"/>
+		<Page Image="87" ImageWidth="1987" ImageHeight="3056" ImageSize="2570922"/>
+		<Page Image="88" ImageWidth="1987" ImageHeight="3056" ImageSize="1776137"/>
+		<Page Image="89" ImageWidth="1987" ImageHeight="3056" ImageSize="2381144"/>
+		<Page Image="90" ImageWidth="1987" ImageHeight="3056" ImageSize="2678950"/>
+		<Page Image="91" ImageWidth="1987" ImageHeight="3056" ImageSize="2311492"/>
+		<Page Image="92" ImageWidth="1987" ImageHeight="3056" ImageSize="2953973"/>
+		<Page Image="93" ImageWidth="1987" ImageHeight="3056" ImageSize="2285933"/>
+		<Page Image="94" ImageWidth="1987" ImageHeight="3056" ImageSize="1962717"/>
+		<Page Image="95" ImageWidth="1987" ImageHeight="3056" ImageSize="2063411"/>
+		<Page Image="96" ImageWidth="1987" ImageHeight="3056" ImageSize="2162706"/>
+		<Page Image="97" ImageWidth="1987" ImageHeight="3056" ImageSize="2927001"/>
+		<Page Image="98" ImageWidth="1987" ImageHeight="3056" ImageSize="1718550"/>
+		<Page Image="99" ImageWidth="1987" ImageHeight="3056" ImageSize="2797157"/>
+		<Page Image="100" ImageWidth="1987" ImageHeight="3056" ImageSize="3883748"/>
+		<Page Image="101" ImageWidth="1987" ImageHeight="3056" ImageSize="4984690"/>
+		<Page Image="102" ImageWidth="1987" ImageHeight="3056" ImageSize="4133859"/>
+		<Page Image="103" ImageWidth="1987" ImageHeight="3056" ImageSize="6401154"/>
+		<Page Image="104" ImageWidth="1987" ImageHeight="3056" ImageSize="5034533"/>
+		<Page Image="105" ImageWidth="1987" ImageHeight="3056" ImageSize="391893"/>
+		<Page Image="106" ImageWidth="1987" ImageHeight="3056" ImageSize="1989877"/>
+		<Page Image="107" ImageWidth="1987" ImageHeight="3056" ImageSize="2564685"/>
+		<Page Image="108" ImageWidth="1987" ImageHeight="3056" ImageSize="2606838"/>
+		<Page Image="109" ImageWidth="1987" ImageHeight="3056" ImageSize="2140167"/>
+		<Page Image="110" ImageWidth="1987" ImageHeight="3056" ImageSize="2013999"/>
+		<Page Image="111" ImageWidth="1987" ImageHeight="3056" ImageSize="2114231"/>
+		<Page Image="112" ImageWidth="1987" ImageHeight="3056" ImageSize="2011116"/>
+		<Page Image="113" ImageWidth="1987" ImageHeight="3056" ImageSize="1898770"/>
+		<Page Image="114" ImageWidth="1987" ImageHeight="3056" ImageSize="2216793"/>
+		<Page Image="115" ImageWidth="3974" ImageHeight="3056" ImageSize="4160152"/>
+		<Page Image="116" ImageWidth="1987" ImageHeight="3056" ImageSize="2005806"/>
+		<Page Image="117" ImageWidth="1987" ImageHeight="3056" ImageSize="1610223"/>
+		<Page Image="118" ImageWidth="1987" ImageHeight="3056" ImageSize="2896162"/>
+		<Page Image="119" ImageWidth="1987" ImageHeight="3056" ImageSize="2701919"/>
+		<Page Image="120" ImageWidth="1987" ImageHeight="3056" ImageSize="2857056"/>
+		<Page Image="121" ImageWidth="1987" ImageHeight="3056" ImageSize="2926437"/>
+		<Page Image="122" ImageWidth="1987" ImageHeight="3056" ImageSize="1997729"/>
+		<Page Image="123" ImageWidth="1987" ImageHeight="3056" ImageSize="1874122"/>
+		<Page Image="124" ImageWidth="1987" ImageHeight="3056" ImageSize="2571310"/>
+		<Page Image="125" ImageWidth="1987" ImageHeight="3056" ImageSize="2002637"/>
+		<Page Image="126" ImageWidth="1987" ImageHeight="3056" ImageSize="1264845"/>
+		<Page Image="127" ImageWidth="1987" ImageHeight="3056" ImageSize="2046541"/>
+		<Page Image="128" ImageSize="1204289"/>
+	</Pages>
+	<Penciller>Trevor Hairsine</Penciller>
+	<Publisher>DMG/Valiant Entertainment</Publisher>
+	<Series>Divinity</Series>
+	<Summary>From New York Times best-selling writer Matt Kindt (THE VALIANT, Mind MGMT) and blockbuster artist Trevor Hairsine (X-Men: Deadly Genesis) comes a shocking new vision of science fiction in an all-new prestige format limited series.
+
+At the height of the Cold War, the Soviet Union – determined to win the Space Race at any cost – green lit a dangerously advanced mission. They sent a man farther into the cosmos than anyone has gone before or since. Lost in the stars, he encountered something unknown. Something that…changed him.
+
+Long thought lost and erased from the history books, he has suddenly returned, crash-landing in the Australian Outback. The few that have been able to reach him believe him to be a deity – one who turned the scorched desert into a lush oasis. They say he can bend matter, space, and even time to his will. Earth is about to meet a new god. And he’s a communist.
+
+How long can it be before the first confrontation between mankind and DIVINITY begins?
+
+*List of covers and their creators:*
+ Cover | Name                                 | Creator(s)                   | Sidebar Location |
+---------------------------------------------------------------------------------------------
+ A     | Cover A                              | Jelena Kevic Djurdjevic      | 1                |
+ B     | Cover B                              | Tom Muller                   | 6                |
+ C     | Cover C (Blank)                      | None                         | 7                |
+ D     | 1:10 Retailer Incentive "Next" Cover | Trevor Hairsine &amp; Tom Muller | 8                |
+ E     | 1:20 Retailer Incentive Cover        | Lewis LaRosa                 | 9                |
+ F     | 1:40 Retailer Incentive Cover        | Lewis LaRosa                 | 10               |
+ 2nd   | Second Printing Cover                | Jelena Kevic Djurdjevic      | 2                |
+ 3rd   | Third Printing Cover                 | Jelena Kevic Djurdjevic      | 3                |
+ 4th   | Fourth Printing Cover                | Jelena Kevic Djurdjevic      | 4                |
+ 5th   | Fifth Printing Cover                 | Jelena Kevic Djurdjevic      | 5                |
+
+
+https://comicvine.gamespot.com/divinity-1-book-one/4000-479248/</Summary>
+	<Teams>Russian Army,The Vine</Teams>
+	<Title>Book One</Title>
+	<Volume>2015</Volume>
+	<Web>https://comicvine.gamespot.com/divinity-1-book-one/4000-479248/</Web>
+	<Writer>Matt Kindt</Writer>
+	<Year>2015</Year>
+</ComicInfo>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Brett,Cindy,Face,Horsecock,Kelly,Kitrick,Patrick,Patrick (death),Stan,Stump,Thomas</Characters>
+	<Count>10</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-691811</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:24:47 [Issue ID 4000-691811] urn:comicvine:4000-691811 urn:grandcomicsdatabase:issue/691811</Notes>
+	<Number>7</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1589709" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1109424"/>
+		<Page Image="2" ImageSize="1619092"/>
+		<Page Image="3" ImageSize="1326297"/>
+		<Page Image="4" ImageSize="1642189"/>
+		<Page Image="5" ImageSize="1400313"/>
+		<Page Image="6" ImageSize="1693328"/>
+		<Page Image="7" ImageSize="1729985"/>
+		<Page Image="8" ImageSize="956905"/>
+		<Page Image="9" ImageSize="1672470"/>
+		<Page Image="10" ImageSize="1437691"/>
+		<Page Image="11" ImageSize="1899477"/>
+		<Page Image="12" ImageSize="1901150"/>
+		<Page Image="13" ImageSize="1606360"/>
+		<Page Image="14" ImageSize="1748533"/>
+		<Page Image="15" ImageSize="1862558"/>
+		<Page Image="16" ImageSize="1489591"/>
+		<Page Image="17" ImageSize="1485746"/>
+		<Page Image="18" ImageSize="1637834"/>
+		<Page Image="19" ImageSize="1675492"/>
+		<Page Image="20" ImageSize="1655381"/>
+		<Page Image="21" ImageSize="1321086"/>
+		<Page Image="22" ImageSize="1373858"/>
+		<Page Image="23" ImageSize="1462199"/>
+		<Page Image="24" ImageSize="974213"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Crossed</Series>
+	<Summary>We coulda been anything we wanted to be!: A group of the Crossed has followed the survivors all the way across the Rocky Mountains and most of the way across the Nevada desert.  The Crossed attack the survivors as they cross a river.  Patrick gets separated from the group and swept downstream.  The group can't find Patrick, but they spot a group of the Crossed near the river and attack.</Summary>
+	<Tags>Brett,Cindy,Kelly,Kitrick,Patrick (death),Stan,Thomas</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>We coulda been anything we wanted to be!</Title>
+	<Volume>2008</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-691811/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2009</Year>
+</ComicInfo>

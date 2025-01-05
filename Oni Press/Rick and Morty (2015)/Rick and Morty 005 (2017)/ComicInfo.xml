@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Jerry Smith,Morty Smith,Rick Sanchez</Characters>
+	<Colorist>Katy Farina</Colorist>
+	<Day>31</Day>
+	<Editor>Ari Yarwood</Editor>
+	<GTIN>urn:comicvine:4000-609387</GTIN>
+	<Inker>CJ Cannon,Kyle Starks,Marc Ellerby</Inker>
+	<Letterer>Crank!</Letterer>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:49:54 [Issue ID 4000-609387] urn:comicvine:4000-609387</Notes>
+	<Number>5</Number>
+	<PageCount>123</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2680152" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1975146"/>
+		<Page Image="2" ImageSize="5150174"/>
+		<Page Image="3" ImageSize="1631201"/>
+		<Page Image="4" ImageSize="2335418"/>
+		<Page Image="5" ImageSize="2604589"/>
+		<Page Image="6" ImageSize="2980096"/>
+		<Page Image="7" ImageSize="2830337"/>
+		<Page Image="8" ImageSize="2720219"/>
+		<Page Image="9" ImageSize="2431503"/>
+		<Page Image="10" ImageSize="3115074"/>
+		<Page Image="11" ImageSize="2225663"/>
+		<Page Image="12" ImageSize="3120870"/>
+		<Page Image="13" ImageSize="1868114"/>
+		<Page Image="14" ImageSize="2555315"/>
+		<Page Image="15" ImageSize="2673448"/>
+		<Page Image="16" ImageSize="2341190"/>
+		<Page Image="17" ImageSize="2606400"/>
+		<Page Image="18" ImageSize="2407617"/>
+		<Page Image="19" ImageSize="2447372"/>
+		<Page Image="20" ImageSize="2384842"/>
+		<Page Image="21" ImageSize="2607734"/>
+		<Page Image="22" ImageSize="1905247"/>
+		<Page Image="23" ImageSize="2466942"/>
+		<Page Image="24" ImageSize="2355060"/>
+		<Page Image="25" ImageSize="2584720"/>
+		<Page Image="26" ImageSize="2963505"/>
+		<Page Image="27" ImageSize="2265798"/>
+		<Page Image="28" ImageSize="2608564"/>
+		<Page Image="29" ImageSize="1861495"/>
+		<Page Image="30" ImageSize="2289847"/>
+		<Page Image="31" ImageSize="2607681"/>
+		<Page Image="32" ImageSize="2837873"/>
+		<Page Image="33" ImageSize="2607376"/>
+		<Page Image="34" ImageSize="3014794"/>
+		<Page Image="35" ImageSize="3092613"/>
+		<Page Image="36" ImageSize="2877425"/>
+		<Page Image="37" ImageSize="3026455"/>
+		<Page Image="38" ImageSize="2628760"/>
+		<Page Image="39" ImageSize="2655345"/>
+		<Page Image="40" ImageSize="2265988"/>
+		<Page Image="41" ImageSize="2469182"/>
+		<Page Image="42" ImageSize="1990138"/>
+		<Page Image="43" ImageSize="2138851"/>
+		<Page Image="44" ImageSize="2721419"/>
+		<Page Image="45" ImageSize="2921172"/>
+		<Page Image="46" ImageSize="2731583"/>
+		<Page Image="47" ImageSize="2878967"/>
+		<Page Image="48" ImageSize="2307769"/>
+		<Page Image="49" ImageSize="2429020"/>
+		<Page Image="50" ImageSize="2819391"/>
+		<Page Image="51" ImageSize="2690588"/>
+		<Page Image="52" ImageSize="2900758"/>
+		<Page Image="53" ImageSize="2293957"/>
+		<Page Image="54" ImageSize="3082424"/>
+		<Page Image="55" ImageSize="2712290"/>
+		<Page Image="56" ImageSize="2818834"/>
+		<Page Image="57" ImageSize="1984035"/>
+		<Page Image="58" ImageSize="2734463"/>
+		<Page Image="59" ImageSize="1667551"/>
+		<Page Image="60" ImageSize="2797078"/>
+		<Page Image="61" ImageSize="1641998"/>
+		<Page Image="62" ImageSize="2779517"/>
+		<Page Image="63" ImageSize="2586055"/>
+		<Page Image="64" ImageSize="2363859"/>
+		<Page Image="65" ImageSize="2582848"/>
+		<Page Image="66" ImageSize="2768133"/>
+		<Page Image="67" ImageSize="3032189"/>
+		<Page Image="68" ImageSize="3166042"/>
+		<Page Image="69" ImageSize="3237065"/>
+		<Page Image="70" ImageSize="2313820"/>
+		<Page Image="71" ImageSize="2793684"/>
+		<Page Image="72" ImageSize="2033547"/>
+		<Page Image="73" ImageSize="4499729"/>
+		<Page Image="74" ImageSize="3094827"/>
+		<Page Image="75" ImageSize="3236441"/>
+		<Page Image="76" ImageSize="3713916"/>
+		<Page Image="77" ImageSize="4295979"/>
+		<Page Image="78" ImageSize="2741614"/>
+		<Page Image="79" ImageSize="3094401"/>
+		<Page Image="80" ImageSize="2930783"/>
+		<Page Image="81" ImageSize="2454784"/>
+		<Page Image="82" ImageSize="3334485"/>
+		<Page Image="83" ImageSize="2743620"/>
+		<Page Image="84" ImageSize="2027285"/>
+		<Page Image="85" ImageSize="3172781"/>
+		<Page Image="86" ImageSize="3238800"/>
+		<Page Image="87" ImageSize="2919397"/>
+		<Page Image="88" ImageSize="3457515"/>
+		<Page Image="89" ImageSize="3121419"/>
+		<Page Image="90" ImageSize="2915144"/>
+		<Page Image="91" ImageSize="3205244"/>
+		<Page Image="92" ImageSize="3151995"/>
+		<Page Image="93" ImageSize="3112112"/>
+		<Page Image="94" ImageSize="2836722"/>
+		<Page Image="95" ImageSize="3020147"/>
+		<Page Image="96" ImageSize="2788329"/>
+		<Page Image="97" ImageSize="2960099"/>
+		<Page Image="98" ImageSize="2894438"/>
+		<Page Image="99" ImageSize="2916271"/>
+		<Page Image="100" ImageSize="3100528"/>
+		<Page Image="101" ImageSize="2914551"/>
+		<Page Image="102" ImageSize="2004642"/>
+		<Page Image="103" ImageSize="2554851"/>
+		<Page Image="104" ImageSize="3297935"/>
+		<Page Image="105" ImageSize="3572653"/>
+		<Page Image="106" ImageSize="3177399"/>
+		<Page Image="107" ImageSize="3145172"/>
+		<Page Image="108" ImageSize="3008162"/>
+		<Page Image="109" ImageSize="3084033"/>
+		<Page Image="110" ImageSize="2961359"/>
+		<Page Image="111" ImageSize="3573967"/>
+		<Page Image="112" ImageSize="3620480"/>
+		<Page Image="113" ImageSize="2988849"/>
+		<Page Image="114" ImageSize="3449414"/>
+		<Page Image="115" ImageSize="3302972"/>
+		<Page Image="116" ImageSize="2795051"/>
+		<Page Image="117" ImageSize="2957598"/>
+		<Page Image="118" ImageSize="3031039"/>
+		<Page Image="119" ImageSize="3275812"/>
+		<Page Image="120" ImageSize="4998291"/>
+		<Page Image="121" ImageSize="4061996"/>
+		<Page Image="122" ImageSize="2001488"/>
+	</Pages>
+	<Penciller>CJ Cannon,Kyle Starks,Marc Ellerby</Penciller>
+	<Publisher>Oni Press</Publisher>
+	<Series>Rick and Morty</Series>
+	<Summary>Catch up on the adventures of degenerate genius Rick Sanchez and his bumbling grandson Morty as they explore the outer reaches of time, space, and how much of Jerry one person can take. This volume features Eisner-nominated writer Kyle Starks (Sexcastle) in collaboration with series artist CJ Cannon in a three-issue story about the despicable Doofus Jerry and his attempt to take over the multiverse. Also included is the uncanny and sinister "Morty Shines," drawn by artist Marc Ellerby, the action-packed return of Tiny Rick in "Honey, I Shrunk The Ricks," drawn by Kyle Starks. Plus: hilarious bonus comics about the whole family!
+
+Collects #21-25.
+
+*List of covers and their creators:*
+ Cover | Name                              | Creator(s)              | Sidebar Location |
+-------------------------------------------------------------------------------------
+ Reg   | Regular Cover                     | CJ Cannon &amp; Katy Farina | 1                |
+ RE    | Oni Press Exclusive Variant Cover | Julieta Colas           | Missing          |
+
+
+https://comicvine.gamespot.com/rick-and-morty-5-volume-five/4000-609387/</Summary>
+	<Tags>Jerry Smith,Morty Smith,Rick Sanchez</Tags>
+	<Title>Volume Five</Title>
+	<Volume>2015</Volume>
+	<Web>https://comicvine.gamespot.com/rick-and-morty-5-volume-five/4000-609387/</Web>
+	<Writer>Kyle Starks,Marc Ellerby</Writer>
+	<Year>2017</Year>
+</ComicInfo>

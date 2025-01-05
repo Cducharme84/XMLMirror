@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Frankenstein's Monster</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-178626</GTIN>
+	<Inker>Dick Briefer</Inker>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:09:57 [Issue ID 4000-178626] urn:comicvine:4000-178626</Notes>
+	<Number>24</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1393" ImageHeight="2000" ImageSize="1201537" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1386" ImageHeight="2000" ImageSize="1058072"/>
+		<Page Image="2" ImageWidth="1293" ImageHeight="2000" ImageSize="1173219"/>
+		<Page Image="3" ImageWidth="1346" ImageHeight="2000" ImageSize="1008296"/>
+		<Page Image="4" ImageWidth="1360" ImageHeight="2000" ImageSize="1043281"/>
+		<Page Image="5" ImageWidth="1360" ImageHeight="2000" ImageSize="1026196"/>
+		<Page Image="6" ImageWidth="1372" ImageHeight="2000" ImageSize="976949"/>
+		<Page Image="7" ImageWidth="1363" ImageHeight="2000" ImageSize="979927"/>
+		<Page Image="8" ImageWidth="1363" ImageHeight="2000" ImageSize="936538"/>
+		<Page Image="9" ImageWidth="1373" ImageHeight="2000" ImageSize="1013837"/>
+		<Page Image="10" ImageWidth="1355" ImageHeight="2000" ImageSize="970756"/>
+		<Page Image="11" ImageWidth="1406" ImageHeight="2000" ImageSize="982447"/>
+		<Page Image="12" ImageWidth="1398" ImageHeight="2000" ImageSize="1077120"/>
+		<Page Image="13" ImageWidth="1355" ImageHeight="2000" ImageSize="939916"/>
+		<Page Image="14" ImageWidth="1363" ImageHeight="2000" ImageSize="646058"/>
+		<Page Image="15" ImageWidth="1456" ImageHeight="2000" ImageSize="851128"/>
+		<Page Image="16" ImageWidth="1366" ImageHeight="2000" ImageSize="945517"/>
+		<Page Image="17" ImageWidth="1366" ImageHeight="2000" ImageSize="912975"/>
+		<Page Image="18" ImageWidth="1367" ImageHeight="2000" ImageSize="914916"/>
+		<Page Image="19" ImageWidth="1365" ImageHeight="2000" ImageSize="940304"/>
+		<Page Image="20" ImageWidth="1358" ImageHeight="2000" ImageSize="979131"/>
+		<Page Image="21" ImageWidth="1347" ImageHeight="2000" ImageSize="942777"/>
+		<Page Image="22" ImageWidth="1404" ImageHeight="2000" ImageSize="591723"/>
+		<Page Image="23" ImageWidth="1440" ImageHeight="2000" ImageSize="722440"/>
+		<Page Image="24" ImageWidth="1396" ImageHeight="2000" ImageSize="720910"/>
+		<Page Image="25" ImageWidth="1377" ImageHeight="2000" ImageSize="571656"/>
+		<Page Image="26" ImageWidth="1369" ImageHeight="2000" ImageSize="962382"/>
+		<Page Image="27" ImageWidth="1354" ImageHeight="2000" ImageSize="868752"/>
+		<Page Image="28" ImageWidth="1365" ImageHeight="2000" ImageSize="974577"/>
+		<Page Image="29" ImageWidth="1383" ImageHeight="2000" ImageSize="877040"/>
+		<Page Image="30" ImageWidth="1358" ImageHeight="2000" ImageSize="895648"/>
+		<Page Image="31" ImageWidth="1349" ImageHeight="2000" ImageSize="870349"/>
+		<Page Image="32" ImageWidth="1361" ImageHeight="2000" ImageSize="620020"/>
+		<Page Image="33" ImageWidth="1361" ImageHeight="2000" ImageSize="565972"/>
+		<Page Image="34" ImageWidth="1379" ImageHeight="2000" ImageSize="671566"/>
+		<Page Image="35" ImageWidth="1378" ImageHeight="2000" ImageSize="660714"/>
+		<Page Image="36" ImageSize="773192"/>
+	</Pages>
+	<Penciller>Dick Briefer</Penciller>
+	<Publisher>Prize</Publisher>
+	<ScanInformation>Prize1953 altScan Soothsayr Yoc</ScanInformation>
+	<Series>Frankenstein</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-02 18:29:13.  [Issue ID 178626]
+
+https://comicvine.gamespot.com/frankenstein-24/4000-178626/</Summary>
+	<Tags>Frankenstein's Monster</Tags>
+	<Volume>1945</Volume>
+	<Web>https://comicvine.gamespot.com/frankenstein-24/4000-178626/</Web>
+	<Writer>Dick Briefer</Writer>
+	<Year>1953</Year>
+</ComicInfo>

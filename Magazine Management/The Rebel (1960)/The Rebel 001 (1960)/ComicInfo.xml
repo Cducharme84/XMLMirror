@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Rebel</Characters>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-325373</GTIN>
+  <Inker>Pepe Moreno</Inker>
+  <Locations>New York City</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:51:55 [Issue ID 4000-325373] urn:comicvine:4000-325373
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 11:03:49. [Issue ID 1713062]</Notes>
+  <Number>1</Number>
+  <PageCount>98</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3306" ImageSize="5722821" ImageWidth="2564" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3334" ImageSize="2374661" ImageWidth="2564" />
+    <Page Image="2" ImageHeight="910" ImageSize="407619" ImageWidth="1400" />
+    <Page Image="3" ImageHeight="3425" ImageSize="1911613" ImageWidth="2564" />
+    <Page Image="4" ImageHeight="3595" ImageSize="5814627" ImageWidth="2564" />
+    <Page Image="5" ImageHeight="3603" ImageSize="7848901" ImageWidth="2564" />
+    <Page Image="6" ImageHeight="3520" ImageSize="6493814" ImageWidth="2564" />
+    <Page Image="7" ImageHeight="3639" ImageSize="7847017" ImageWidth="2564" />
+    <Page Image="8" ImageHeight="3613" ImageSize="6656053" ImageWidth="2564" />
+    <Page Image="9" ImageHeight="3579" ImageSize="7884665" ImageWidth="2564" />
+    <Page Image="10" ImageHeight="3596" ImageSize="7712565" ImageWidth="2564" />
+    <Page Image="11" ImageHeight="3585" ImageSize="6843415" ImageWidth="2564" />
+    <Page Image="12" ImageHeight="3542" ImageSize="7529389" ImageWidth="2564" />
+    <Page Image="13" ImageHeight="3756" ImageSize="7306300" ImageWidth="2564" />
+    <Page Image="14" ImageHeight="3472" ImageSize="8362974" ImageWidth="2564" />
+    <Page Image="15" ImageHeight="3576" ImageSize="6821227" ImageWidth="2564" />
+    <Page Image="16" ImageHeight="3565" ImageSize="6890056" ImageWidth="2564" />
+    <Page Image="17" ImageHeight="3589" ImageSize="6652245" ImageWidth="2564" />
+    <Page Image="18" ImageHeight="3574" ImageSize="6890066" ImageWidth="2564" />
+    <Page Image="19" ImageHeight="3619" ImageSize="6254018" ImageWidth="2564" />
+    <Page Image="20" ImageHeight="3580" ImageSize="5598005" ImageWidth="2564" />
+    <Page Image="21" ImageHeight="3582" ImageSize="6767495" ImageWidth="2564" />
+    <Page Image="22" ImageHeight="3599" ImageSize="7002746" ImageWidth="2564" />
+    <Page Image="23" ImageHeight="3590" ImageSize="7136972" ImageWidth="2564" />
+    <Page Image="24" ImageHeight="3560" ImageSize="7446743" ImageWidth="2564" />
+    <Page Image="25" ImageHeight="3576" ImageSize="7047582" ImageWidth="2564" />
+    <Page Image="26" ImageHeight="3587" ImageSize="7935292" ImageWidth="2564" />
+    <Page Image="27" ImageHeight="3621" ImageSize="6938378" ImageWidth="2564" />
+    <Page Image="28" ImageHeight="3599" ImageSize="7710787" ImageWidth="2564" />
+    <Page Image="29" ImageHeight="3585" ImageSize="7583649" ImageWidth="2564" />
+    <Page Image="30" ImageHeight="3590" ImageSize="7620857" ImageWidth="2564" />
+    <Page Image="31" ImageHeight="3584" ImageSize="7260230" ImageWidth="2564" />
+    <Page Image="32" ImageHeight="3613" ImageSize="7645078" ImageWidth="2564" />
+    <Page Image="33" ImageHeight="3590" ImageSize="7330463" ImageWidth="2564" />
+    <Page Image="34" ImageHeight="3602" ImageSize="7098052" ImageWidth="2564" />
+    <Page Image="35" ImageHeight="3597" ImageSize="7275280" ImageWidth="2564" />
+    <Page Image="36" ImageHeight="3557" ImageSize="7838148" ImageWidth="2564" />
+    <Page Image="37" ImageHeight="3572" ImageSize="7277451" ImageWidth="2564" />
+    <Page Image="38" ImageHeight="3565" ImageSize="6887074" ImageWidth="2564" />
+    <Page Image="39" ImageHeight="3618" ImageSize="7744515" ImageWidth="2564" />
+    <Page Image="40" ImageHeight="953" ImageSize="715824" ImageWidth="1400" />
+    <Page Image="41" ImageHeight="3588" ImageSize="7449214" ImageWidth="2564" />
+    <Page Image="42" ImageHeight="3587" ImageSize="6394924" ImageWidth="2564" />
+    <Page Image="43" ImageHeight="3593" ImageSize="6811803" ImageWidth="2564" />
+    <Page Image="44" ImageHeight="3605" ImageSize="7430970" ImageWidth="2564" />
+    <Page Image="45" ImageHeight="3574" ImageSize="6779236" ImageWidth="2564" />
+    <Page Image="46" ImageHeight="3607" ImageSize="7565545" ImageWidth="2564" />
+    <Page Image="47" ImageHeight="3588" ImageSize="6771736" ImageWidth="2564" />
+    <Page Image="48" ImageHeight="3587" ImageSize="6640406" ImageWidth="2564" />
+    <Page Image="49" ImageHeight="3553" ImageSize="6757495" ImageWidth="2564" />
+    <Page Image="50" ImageHeight="3601" ImageSize="7501913" ImageWidth="2564" />
+    <Page Image="51" ImageHeight="3600" ImageSize="7226952" ImageWidth="2564" />
+    <Page Image="52" ImageHeight="3598" ImageSize="6342071" ImageWidth="2564" />
+    <Page Image="53" ImageHeight="3600" ImageSize="6800516" ImageWidth="2564" />
+    <Page Image="54" ImageHeight="3434" ImageSize="8512875" ImageWidth="2564" />
+    <Page Image="55" ImageHeight="961" ImageSize="337216" ImageWidth="1400" />
+    <Page Image="56" ImageHeight="3461" ImageSize="8434947" ImageWidth="2564" />
+    <Page Image="57" ImageHeight="3577" ImageSize="5778620" ImageWidth="2564" />
+    <Page Image="58" ImageHeight="3567" ImageSize="6807727" ImageWidth="2564" />
+    <Page Image="59" ImageHeight="3552" ImageSize="6691543" ImageWidth="2564" />
+    <Page Image="60" ImageHeight="3604" ImageSize="8324378" ImageWidth="2564" />
+    <Page Image="61" ImageHeight="3615" ImageSize="7921857" ImageWidth="2564" />
+    <Page Image="62" ImageHeight="3609" ImageSize="8105237" ImageWidth="2564" />
+    <Page Image="63" ImageHeight="3577" ImageSize="7663584" ImageWidth="2564" />
+    <Page Image="64" ImageHeight="3503" ImageSize="7751429" ImageWidth="2564" />
+    <Page Image="65" ImageHeight="3555" ImageSize="7977937" ImageWidth="2564" />
+    <Page Image="66" ImageHeight="3598" ImageSize="8295933" ImageWidth="2564" />
+    <Page Image="67" ImageHeight="3577" ImageSize="5413615" ImageWidth="2564" />
+    <Page Image="68" ImageHeight="3611" ImageSize="5786202" ImageWidth="2564" />
+    <Page Image="69" ImageHeight="3554" ImageSize="5660465" ImageWidth="2564" />
+    <Page Image="70" ImageHeight="3575" ImageSize="6456865" ImageWidth="2564" />
+    <Page Image="71" ImageHeight="3596" ImageSize="7356472" ImageWidth="2564" />
+    <Page Image="72" ImageHeight="3584" ImageSize="6410972" ImageWidth="2564" />
+    <Page Image="73" ImageHeight="3596" ImageSize="8253803" ImageWidth="2564" />
+    <Page Image="74" ImageHeight="3591" ImageSize="8128054" ImageWidth="2564" />
+    <Page Image="75" ImageHeight="3586" ImageSize="6988118" ImageWidth="2564" />
+    <Page Image="76" ImageHeight="3600" ImageSize="8433977" ImageWidth="2564" />
+    <Page Image="77" ImageHeight="941" ImageSize="401192" ImageWidth="1450" />
+    <Page Image="78" ImageHeight="3345" ImageSize="6056270" ImageWidth="2564" />
+    <Page Image="79" ImageHeight="3328" ImageSize="5850409" ImageWidth="2560" />
+    <Page Image="80" ImageHeight="3217" ImageSize="6218573" ImageWidth="2564" />
+    <Page Image="81" ImageHeight="3248" ImageSize="5746354" ImageWidth="2564" />
+    <Page Image="82" ImageHeight="3295" ImageSize="6206824" ImageWidth="2564" />
+    <Page Image="83" ImageHeight="3284" ImageSize="6016883" ImageWidth="2564" />
+    <Page Image="84" ImageHeight="3248" ImageSize="6567593" ImageWidth="2564" />
+    <Page Image="85" ImageHeight="3247" ImageSize="6229223" ImageWidth="2564" />
+    <Page Image="86" ImageHeight="3243" ImageSize="5970738" ImageWidth="2564" />
+    <Page Image="87" ImageHeight="3243" ImageSize="5950416" ImageWidth="2564" />
+    <Page Image="88" ImageHeight="3325" ImageSize="5847952" ImageWidth="2564" />
+    <Page Image="89" ImageHeight="3314" ImageSize="5968740" ImageWidth="2564" />
+    <Page Image="90" ImageHeight="3315" ImageSize="2710844" ImageWidth="2564" />
+    <Page Image="91" ImageHeight="3287" ImageSize="1675947" ImageWidth="2564" />
+    <Page Image="92" ImageHeight="3292" ImageSize="1823056" ImageWidth="2564" />
+    <Page Image="93" ImageHeight="3343" ImageSize="1665087" ImageWidth="2564" />
+    <Page Image="94" ImageHeight="908" ImageSize="642412" ImageWidth="1400" />
+    <Page Image="95" ImageHeight="892" ImageSize="680622" ImageWidth="1400" />
+    <Page Image="96" ImageHeight="953" ImageSize="555186" ImageWidth="1450" />
+    <Page Image="97" ImageSize="3684061" />
+  </Pages>
+  <Penciller>Pepe Moreno</Penciller>
+  <Publisher>Magazine Management</Publisher>
+  <ScanInformation>(IDW edition) (scan)</ScanInformation>
+  <Series>The Rebel</Series>
+  <Summary>Welcome to the future that never was. After a devastating civil war, society as we knew it has ceased to exist. There are no “superpowers” and there are no superheroes either. Things are simple, everything is real and everything is lethal. There are no cell phones, no Internet and there's no 911. To survive you need guns (duh), and you must have wheels. It's the law of the jungle, it is raw, it is dangerous and it is out of control… And for some it's just fun…
+
+https://comicvine.gamespot.com/rebel-1-rebel/4000-325373/</Summary>
+  <Title>Rebel</Title>
+  <Volume>1960</Volume>
+  <Web>https://comicvine.gamespot.com/rebel-1-rebel/4000-325373/</Web>
+  <Writer>Pepe Moreno</Writer>
+  <Year>1960</Year>
+  <Count>6</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

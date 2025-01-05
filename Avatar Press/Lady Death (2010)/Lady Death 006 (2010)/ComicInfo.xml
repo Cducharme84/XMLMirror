@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Tormina,Wargoth,Death Queen,Salacia,Lady Death,Behemoth</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-274358</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Hell,Himalayas,Nepal</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:51 [Issue ID 4000-274358] urn:comicvine:4000-274358 urn:grandcomicsdatabase:issue/847298
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:44:24. [Issue ID 847298]</Notes>
+  <Number>6</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2255544" Type="FrontCover" />
+    <Page Image="1" ImageSize="654053" />
+    <Page Image="2" ImageSize="2353560" />
+    <Page Image="3" ImageSize="2260845" />
+    <Page Image="4" ImageSize="1973277" />
+    <Page Image="5" ImageSize="2068069" />
+    <Page Image="6" ImageSize="1438201" />
+    <Page Image="7" ImageSize="1621215" />
+    <Page Image="8" ImageSize="1733560" />
+    <Page Image="9" ImageSize="2364474" />
+    <Page Image="10" ImageSize="1917790" />
+    <Page Image="11" ImageSize="2140720" />
+    <Page Image="12" ImageSize="1946414" />
+    <Page Image="13" ImageSize="1879804" />
+    <Page Image="14" ImageSize="2188627" />
+    <Page Image="15" ImageSize="2115118" />
+    <Page Image="16" ImageSize="2273913" />
+    <Page Image="17" ImageSize="2016499" />
+    <Page Image="18" ImageSize="2077724" />
+    <Page Image="19" ImageSize="2561681" />
+    <Page Image="20" ImageSize="2126350" />
+    <Page Image="21" ImageSize="2351720" />
+    <Page Image="22" ImageSize="2096072" />
+    <Page Image="23" ImageSize="1974141" />
+    <Page Image="24" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-274358/</Web>
+  <Year>2010</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>6</Count>
+	<Day>30</Day>
+	<Editor>William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-229538</GTIN>
+	<Inker>Andres Guinaldo</Inker>
+	<Letterer>Neal Barrett Jr.</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:20:44 [Issue ID 4000-229538] urn:comicvine:4000-229538</Notes>
+	<Number>5</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1024" ImageHeight="1570" ImageSize="377580" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1024" ImageHeight="1593" ImageSize="425023"/>
+		<Page Image="2" ImageWidth="1024" ImageHeight="1607" ImageSize="538393"/>
+		<Page Image="3" ImageWidth="1024" ImageHeight="1616" ImageSize="637616"/>
+		<Page Image="4" ImageWidth="1024" ImageHeight="1619" ImageSize="549724"/>
+		<Page Image="5" ImageWidth="1024" ImageHeight="1597" ImageSize="675829"/>
+		<Page Image="6" ImageWidth="1024" ImageHeight="1588" ImageSize="589663"/>
+		<Page Image="7" ImageWidth="1024" ImageHeight="1614" ImageSize="721051"/>
+		<Page Image="8" ImageWidth="1024" ImageHeight="1603" ImageSize="598605"/>
+		<Page Image="9" ImageWidth="1024" ImageHeight="1616" ImageSize="651644"/>
+		<Page Image="10" ImageWidth="1024" ImageHeight="1608" ImageSize="558084"/>
+		<Page Image="11" ImageWidth="1024" ImageHeight="1614" ImageSize="630621"/>
+		<Page Image="12" ImageWidth="1024" ImageHeight="1613" ImageSize="670887"/>
+		<Page Image="13" ImageWidth="1024" ImageHeight="1597" ImageSize="617615"/>
+		<Page Image="14" ImageWidth="1024" ImageHeight="1599" ImageSize="656852"/>
+		<Page Image="15" ImageWidth="1024" ImageHeight="1612" ImageSize="658147"/>
+		<Page Image="16" ImageWidth="1024" ImageHeight="1626" ImageSize="779672"/>
+		<Page Image="17" ImageWidth="1028" ImageHeight="1622" ImageSize="694832"/>
+		<Page Image="18" ImageWidth="1024" ImageHeight="1598" ImageSize="684761"/>
+		<Page Image="19" ImageWidth="1024" ImageHeight="1606" ImageSize="625805"/>
+		<Page Image="20" ImageWidth="1024" ImageHeight="1607" ImageSize="675243"/>
+		<Page Image="21" ImageWidth="1024" ImageHeight="1611" ImageSize="713492"/>
+		<Page Image="22" ImageWidth="1024" ImageHeight="1593" ImageSize="678690"/>
+		<Page Image="23" ImageWidth="1024" ImageHeight="1608" ImageSize="686368"/>
+		<Page Image="24" ImageSize="442023"/>
+	</Pages>
+	<Penciller>Andres Guinaldo</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>By Bizarre Hands</Series>
+	<Title>Night They Missed the Horror Show</Title>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/by-bizarre-hands-5-night-they-missed-the-horror-sh/4000-229538/</Web>
+	<Writer>Joe R. Lansdale</Writer>
+	<Year>2004</Year>
+</ComicInfo>

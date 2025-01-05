@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Dr. Harrison,Cain (host)</Characters>
+  <Colorist>Jerry Serpe,Jerry Serpe,Liz Berube</Colorist>
+  <GTIN>urn:comicvine:4000-117451</GTIN>
+  <Inker>Arthur Suydam,Aubrey Bradford,Bill Draut,Dave Manak,E.R. Cruz,Jess Jodloman,John Albano,Mark Bright,Michael Golden,E. R. Cruz,Bill Draut,Michael Golden,Tony DeZuniga,Jess Jodloman,Aubrey Bradford,Arthur Suydam,Dave Manak</Inker>
+  <Letterer>E.R. Cruz,E. R. Cruz,Dave Manak</Letterer>
+  <Locations>Mediterranean Sea,The House of Mystery,Africa</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:40:36 [Issue ID 4000-117451] urn:comicvine:4000-117451
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:20:54. [Issue ID 32018]</Notes>
+  <Number>257</Number>
+  <PageCount>85</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1515" ImageSize="300495" ImageWidth="975" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1538" ImageSize="304890" ImageWidth="985" />
+    <Page Image="2" ImageHeight="1549" ImageSize="320504" ImageWidth="954" />
+    <Page Image="3" ImageHeight="1552" ImageSize="297216" ImageWidth="951" />
+    <Page Image="4" ImageHeight="1535" ImageSize="289466" ImageWidth="937" />
+    <Page Image="5" ImageHeight="1549" ImageSize="278030" ImageWidth="944" />
+    <Page Image="6" ImageHeight="1542" ImageSize="305418" ImageWidth="964" />
+    <Page Image="7" ImageHeight="1549" ImageSize="306192" ImageWidth="951" />
+    <Page Image="8" ImageHeight="1552" ImageSize="293072" ImageWidth="961" />
+    <Page Image="9" ImageHeight="1542" ImageSize="297633" ImageWidth="940" />
+    <Page Image="10" ImageHeight="1552" ImageSize="302348" ImageWidth="961" />
+    <Page Image="11" ImageHeight="1545" ImageSize="298097" ImageWidth="940" />
+    <Page Image="12" ImageHeight="1549" ImageSize="279268" ImageWidth="954" />
+    <Page Image="13" ImageHeight="1545" ImageSize="285875" ImageWidth="940" />
+    <Page Image="14" ImageHeight="1549" ImageSize="297440" ImageWidth="972" />
+    <Page Image="15" ImageHeight="1545" ImageSize="306630" ImageWidth="951" />
+    <Page Image="16" ImageHeight="1549" ImageSize="291634" ImageWidth="954" />
+    <Page Image="17" ImageHeight="1549" ImageSize="292950" ImageWidth="947" />
+    <Page Image="18" ImageHeight="1552" ImageSize="305602" ImageWidth="958" />
+    <Page Image="19" ImageHeight="1552" ImageSize="303398" ImageWidth="951" />
+    <Page Image="20" ImageHeight="1552" ImageSize="289614" ImageWidth="964" />
+    <Page Image="21" ImageHeight="1549" ImageSize="254151" ImageWidth="947" />
+    <Page Image="22" ImageHeight="1552" ImageSize="289141" ImageWidth="961" />
+    <Page Image="23" ImageHeight="1552" ImageSize="304093" ImageWidth="947" />
+    <Page Image="24" ImageHeight="1549" ImageSize="275237" ImageWidth="958" />
+    <Page Image="25" ImageHeight="1549" ImageSize="287735" ImageWidth="947" />
+    <Page Image="26" ImageHeight="1545" ImageSize="312243" ImageWidth="961" />
+    <Page Image="27" ImageHeight="1545" ImageSize="285094" ImageWidth="947" />
+    <Page Image="28" ImageHeight="1549" ImageSize="289111" ImageWidth="958" />
+    <Page Image="29" ImageHeight="1545" ImageSize="286486" ImageWidth="947" />
+    <Page Image="30" ImageHeight="1545" ImageSize="273668" ImageWidth="954" />
+    <Page Image="31" ImageHeight="1545" ImageSize="309774" ImageWidth="951" />
+    <Page Image="32" ImageHeight="1549" ImageSize="315772" ImageWidth="954" />
+    <Page Image="33" ImageHeight="1549" ImageSize="273787" ImageWidth="947" />
+    <Page Image="34" ImageHeight="1549" ImageSize="283143" ImageWidth="958" />
+    <Page Image="35" ImageHeight="1545" ImageSize="310141" ImageWidth="944" />
+    <Page Image="36" ImageHeight="1549" ImageSize="288080" ImageWidth="961" />
+    <Page Image="37" ImageHeight="1549" ImageSize="285541" ImageWidth="947" />
+    <Page Image="38" ImageHeight="1542" ImageSize="282250" ImageWidth="947" />
+    <Page Image="39" ImageHeight="1535" ImageSize="306054" ImageWidth="930" />
+    <Page Image="40" ImageHeight="1542" ImageSize="298265" ImageWidth="940" />
+    <Page Image="41" ImageHeight="1538" ImageSize="300169" ImageWidth="933" />
+    <Page Image="42" ImageHeight="1549" ImageSize="302994" ImageWidth="916" />
+    <Page Image="43" ImageHeight="1549" ImageSize="303020" ImageWidth="947" />
+    <Page Image="44" ImageHeight="1545" ImageSize="285138" ImageWidth="947" />
+    <Page Image="45" ImageHeight="1552" ImageSize="314453" ImageWidth="947" />
+    <Page Image="46" ImageHeight="1556" ImageSize="303997" ImageWidth="947" />
+    <Page Image="47" ImageHeight="1552" ImageSize="319337" ImageWidth="937" />
+    <Page Image="48" ImageHeight="1556" ImageSize="297687" ImageWidth="947" />
+    <Page Image="49" ImageHeight="1552" ImageSize="291046" ImageWidth="940" />
+    <Page Image="50" ImageHeight="1549" ImageSize="308545" ImageWidth="951" />
+    <Page Image="51" ImageHeight="1542" ImageSize="328530" ImageWidth="940" />
+    <Page Image="52" ImageHeight="1552" ImageSize="299212" ImageWidth="947" />
+    <Page Image="53" ImageHeight="1545" ImageSize="299745" ImageWidth="940" />
+    <Page Image="54" ImageHeight="1552" ImageSize="293774" ImageWidth="951" />
+    <Page Image="55" ImageHeight="1552" ImageSize="305455" ImageWidth="940" />
+    <Page Image="56" ImageHeight="1552" ImageSize="292123" ImageWidth="940" />
+    <Page Image="57" ImageHeight="1549" ImageSize="278632" ImageWidth="940" />
+    <Page Image="58" ImageHeight="1552" ImageSize="299051" ImageWidth="951" />
+    <Page Image="59" ImageHeight="1552" ImageSize="292608" ImageWidth="937" />
+    <Page Image="60" ImageHeight="1549" ImageSize="263759" ImageWidth="933" />
+    <Page Image="61" ImageHeight="1545" ImageSize="294738" ImageWidth="926" />
+    <Page Image="62" ImageHeight="1552" ImageSize="307886" ImageWidth="943" />
+    <Page Image="63" ImageHeight="1545" ImageSize="314263" ImageWidth="940" />
+    <Page Image="64" ImageHeight="1552" ImageSize="255995" ImageWidth="944" />
+    <Page Image="65" ImageHeight="1549" ImageSize="275947" ImageWidth="944" />
+    <Page Image="66" ImageHeight="1549" ImageSize="277561" ImageWidth="937" />
+    <Page Image="67" ImageHeight="1538" ImageSize="269890" ImageWidth="944" />
+    <Page Image="68" ImageHeight="1549" ImageSize="305689" ImageWidth="947" />
+    <Page Image="69" ImageHeight="1549" ImageSize="263978" ImageWidth="947" />
+    <Page Image="70" ImageHeight="1549" ImageSize="279404" ImageWidth="940" />
+    <Page Image="71" ImageHeight="1549" ImageSize="284237" ImageWidth="940" />
+    <Page Image="72" ImageHeight="1545" ImageSize="267694" ImageWidth="940" />
+    <Page Image="73" ImageHeight="1545" ImageSize="263958" ImageWidth="926" />
+    <Page Image="74" ImageHeight="1538" ImageSize="281787" ImageWidth="933" />
+    <Page Image="75" ImageHeight="1545" ImageSize="266744" ImageWidth="933" />
+    <Page Image="76" ImageHeight="1549" ImageSize="264166" ImageWidth="957" />
+    <Page Image="77" ImageHeight="1549" ImageSize="273476" ImageWidth="944" />
+    <Page Image="78" ImageHeight="1549" ImageSize="285675" ImageWidth="940" />
+    <Page Image="79" ImageHeight="1538" ImageSize="296884" ImageWidth="919" />
+    <Page Image="80" ImageHeight="1549" ImageSize="302182" ImageWidth="940" />
+    <Page Image="81" ImageHeight="1542" ImageSize="292786" ImageWidth="923" />
+    <Page Image="82" ImageHeight="1545" ImageSize="280754" ImageWidth="947" />
+    <Page Image="83" ImageHeight="1552" ImageSize="247104" ImageWidth="947" />
+    <Page Image="84" ImageSize="339957" />
+  </Pages>
+  <Penciller>Arthur Suydam,Aubrey Bradford,Dave Manak,E.R. Cruz,Ernie Chan,Jerry Grandenetti,John Albano,Mark Bright,Michael Golden,E. R. Cruz,Ernie Chan,Michael Golden,Jerry Grandenetti,Jess Jodloman,Mark Bright,Arthur Suydam,Dave Manak</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery</Series>
+  <Summary>Contains: 
+
+The Ebony God
+
+A Gift from Satan
+
+To Catch a God!
+
+Mirror Madness
+
+Haunts Upon a Time
+
+The Fastest Draw in the East!
+
+Father to the Beast!
+
+ 
+
+On Christmas Eve the House of Mystery is invaded by a crook on the lam who finds that he has bitten off a bit more than he can chew.
+
+https://comicvine.gamespot.com/house-of-mystery-257/4000-117451/</Summary>
+  <Tags>Mediterranean Sea,Santa Claus,Satan,Abel,Africa,The House of Mystery,Cain,Harpies</Tags>
+  <Teams>Harpies</Teams>
+  <Volume>1951</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-257/4000-117451/</Web>
+  <Writer>Arnold Drake,Barry Jameson,Dave Manak,David Michelinie,E. Nelson Bridwell,Jack Oleck,Joe Gill,John Albano,Otto Binder,Arnold Drake,Jack Oleck,Barry Jameson,Joe Gill,Otto Binder,Guy Lillian,E. Nelson Bridwell,Scott Edelman,David Michelinie,Dave Manak</Writer>
+  <Year>1978</Year>
+  <Count>321</Count>
+  <Title>The Ebony God; A Gift from Satan; To Catch a God!; Mirror Madness; Haunts Upon a Time...; The Fastest Draw in the East!; Father to the Beast!</Title>
+  <Genre>Humor,Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+  <Editor>Paul Levitz</Editor>
+</ComicInfo>

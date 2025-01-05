@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Series>Norbert's Valentine</Series>
+  <Number>1</Number>
+  <Count>1</Count>
+  <Volume>2023</Volume>
+  <Genre>Horror</Genre>
+  <Summary>Norbert finds a friend who helps him get revenge.</Summary>
+  <Publisher>Julio Gagne</Publisher>
+  <Year>2023</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>One Shot</Format>
+  <AgeRating>Mature</AgeRating>
+  <PageCount>24</PageCount>
+  <Writer>Julio Gagne</Writer>
+  <Penciller>Marcos Lima</Penciller>
+  <Inker>Marcos Lima</Inker>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3889" ImageSize="648135" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3888" ImageSize="199261" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3889" ImageSize="1179584" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3889" ImageSize="1264565" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3889" ImageSize="1533738" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3889" ImageSize="1424036" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3889" ImageSize="1623293" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3889" ImageSize="1660413" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3889" ImageSize="1393290" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3889" ImageSize="1811318" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3889" ImageSize="2309887" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3889" ImageSize="2003696" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3889" ImageSize="1630540" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3889" ImageSize="1370534" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3889" ImageSize="1338350" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3889" ImageSize="1383444" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3889" ImageSize="1894557" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3889" ImageSize="1586065" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3889" ImageSize="1237381" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3889" ImageSize="1451700" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3889" ImageSize="1357668" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3889" ImageSize="1648320" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3889" ImageSize="1782956" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3889" ImageSize="1702893" ImageWidth="2560" />
+  </Pages>
+</ComicInfo>

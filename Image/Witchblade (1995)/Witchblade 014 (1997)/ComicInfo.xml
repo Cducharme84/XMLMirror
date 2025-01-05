@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Bruce Wilder,Dannette Boucher,Jake McCarthy,Joe Siry,Kenneth Irons,Lisa Buzanis,Sara Pezzini,Vincent Pezzini,Witchblade</Characters>
+	<Colorist>Jonathan D. Smith</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-51968</GTIN>
+	<Inker>D-Tron,Michael Turner</Inker>
+	<Letterer>Dennis Heisler</Letterer>
+	<Locations>New York City,New York State</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:50:59 [Issue ID 4000-51968] urn:comicvine:4000-51968</Notes>
+	<Number>14</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1014514" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1049163"/>
+		<Page Image="2" ImageSize="835289"/>
+		<Page Image="3" ImageSize="1934672"/>
+		<Page Image="4" ImageSize="687195"/>
+		<Page Image="5" ImageSize="865141"/>
+		<Page Image="6" ImageSize="1007798"/>
+		<Page Image="7" ImageSize="910381"/>
+		<Page Image="8" ImageSize="1076525"/>
+		<Page Image="9" ImageSize="890724"/>
+		<Page Image="10" ImageSize="935617"/>
+		<Page Image="11" ImageSize="1013590"/>
+		<Page Image="12" ImageSize="950571"/>
+		<Page Image="13" ImageSize="1006188"/>
+		<Page Image="14" ImageSize="935647"/>
+		<Page Image="15" ImageSize="877286"/>
+		<Page Image="16" ImageSize="1226997"/>
+		<Page Image="17" ImageSize="957293"/>
+		<Page Image="18" ImageSize="896858"/>
+		<Page Image="19" ImageSize="925286"/>
+		<Page Image="20" ImageSize="919175"/>
+		<Page Image="21" ImageSize="732588"/>
+	</Pages>
+	<Penciller>Michael Turner</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>Witchblade</Series>
+	<Summary>Sara cracks the identity of the Microwave Murderer and a final confrontation occurs.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-15 09:48:10.  [CVDB51968]
+
+https://comicvine.gamespot.com/witchblade-14/4000-51968/</Summary>
+	<Tags>Bruce Wilder,Dannette Boucher,Jake McCarthy,Joe Siry,Kenneth Irons,Lisa Buzanis,New York City,New York Police Department,New York State,Sara Pezzini,Vincent Pezzini,Witchblade</Tags>
+	<Teams>New York Police Department</Teams>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/witchblade-14/4000-51968/</Web>
+	<Writer>Christina Z,David Wohl,Michael Turner</Writer>
+	<Year>1997</Year>
+</ComicInfo>

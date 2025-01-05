@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>2</Count>
+	<Country>US</Country>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-2130046</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Jenni Gregory</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Jenni Gregory</Letterer>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:42:33 [Issue ID 4000-2130046] urn:comicvine:4000-2130046 urn:grandcomicsdatabase:issue/2130046</Notes>
+	<Number>2</Number>
+	<PageCount>30</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="955720" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1178626"/>
+		<Page Image="2" ImageSize="613907"/>
+		<Page Image="3" ImageSize="559069"/>
+		<Page Image="4" ImageSize="428702"/>
+		<Page Image="5" ImageSize="450295"/>
+		<Page Image="6" ImageSize="566566"/>
+		<Page Image="7" ImageSize="424017"/>
+		<Page Image="8" ImageSize="409996"/>
+		<Page Image="9" ImageSize="426547"/>
+		<Page Image="10" ImageSize="533771"/>
+		<Page Image="11" ImageSize="490871"/>
+		<Page Image="12" ImageSize="517338"/>
+		<Page Image="13" ImageSize="476372"/>
+		<Page Image="14" ImageSize="492400"/>
+		<Page Image="15" ImageSize="520085"/>
+		<Page Image="16" ImageSize="1044614"/>
+		<Page Image="17" ImageSize="346412"/>
+		<Page Image="18" ImageSize="393402"/>
+		<Page Image="19" ImageSize="409441"/>
+		<Page Image="20" ImageSize="324478"/>
+		<Page Image="21" ImageSize="384898"/>
+		<Page Image="22" ImageSize="390733"/>
+		<Page Image="23" ImageSize="468155"/>
+		<Page Image="24" ImageSize="519914"/>
+		<Page Image="25" ImageSize="411487"/>
+		<Page Image="26" ImageSize="352062"/>
+		<Page Image="27" ImageSize="444274"/>
+		<Page Image="28" ImageSize="278937"/>
+		<Page Image="29" ImageSize="112416"/>
+	</Pages>
+	<Penciller>Jenni Gregory</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Dreamwalker: Autumn Leaves</Series>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-2130046/</Web>
+	<Writer>Barry Gregory,Jenni Gregory</Writer>
+	<Year>1999</Year>
+</ComicInfo>

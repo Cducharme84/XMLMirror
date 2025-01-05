@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>8</Count>
+	<CoverArtist>Joseph Wight</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-381746</GTIN>
+	<Genre>Action</Genre>
+	<Inker>Joseph Wight</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-12T01:01:43 [Issue ID 4000-381746] urn:comicvine:4000-381746</Notes>
+	<Number>8</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3982" ImageSize="590058" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3982" ImageSize="1063593"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3982" ImageSize="706351"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3982" ImageSize="602342"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3982" ImageSize="701871"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3982" ImageSize="987375"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3982" ImageSize="767342"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3982" ImageSize="720165"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3982" ImageSize="756251"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3982" ImageSize="931670"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3982" ImageSize="1020566"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3982" ImageSize="897169"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3982" ImageSize="975708"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3982" ImageSize="1020991"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3982" ImageSize="844294"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3982" ImageSize="633329"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3982" ImageSize="535825"/>
+		<Page DoublePage="True" Image="17" ImageWidth="5120" ImageHeight="3982" ImageSize="1238649"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3982" ImageSize="640294"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3982" ImageSize="619320"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3982" ImageSize="781220"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3982" ImageSize="569941"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3982" ImageSize="758910"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3982" ImageSize="730879"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3982" ImageSize="653106"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3982" ImageSize="845869"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3982" ImageSize="328179"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3982" ImageSize="943608"/>
+		<Page DoublePage="True" Image="28" ImageWidth="5120" ImageHeight="3982" ImageSize="686385"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3982" ImageSize="752119"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3982" ImageSize="889499"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3982" ImageSize="685512"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3982" ImageSize="1540309"/>
+		<Page Image="33" ImageSize="1754388"/>
+	</Pages>
+	<Penciller>Joseph Wight</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Twilight X: Storm</Series>
+	<Summary>Caught in the middle of a tropical hurricane, Jed and Toots search in vain for their friends, who are trapped between two mighty armies bent on mutual destruction. But there are forces unknown and powers unseen that will change the equation of war in the Caribbean and determine the fate of Old America forever!</Summary>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/twilight-x-storm-8/4000-381746/</Web>
+	<Writer>Joseph Wight</Writer>
+	<Year>2004</Year>
+</ComicInfo>

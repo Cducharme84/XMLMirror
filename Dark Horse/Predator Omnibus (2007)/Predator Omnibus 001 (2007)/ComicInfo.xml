@@ -1,0 +1,480 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Detective Schaefer,Predator</Characters>
+  <Colorist>Chris Chalenor,Dave Nestelle,Erik Vincent,Gail Beckett,Gregory Wright,John Hanan,Rachelle Menashe,Steve Mattsson</Colorist>
+  <Day>22</Day>
+  <Editor>Chris Warner,Randy Stradley</Editor>
+  <GTIN>urn:comicvine:4000-112287</GTIN>
+  <Inker>Chris Warner,Dan Barry,Dan Jackson,Dan Panosian,Den Beauvais,Enrique Quique Alcatena,Leopoldo Durañona,Miriam Kim,Perry McNamee,Randy Emberlin,Ray Lago,Rick Magyar,Sam De La Rosa,Steve Mitchell,Val Mayerik</Inker>
+  <Letterer>Clem Robins,David Jackson,Ellie De Ville,Gail Beckett,Jim Massara,Steve Dutro</Letterer>
+  <Locations>New York City,Russia,South America</Locations>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:09:06 [Issue ID 4000-112287] urn:comicvine:4000-112287
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 07:23:53. [Issue ID 640060]</Notes>
+  <Number>1</Number>
+  <PageCount>431</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="357785" Type="FrontCover" />
+    <Page Image="1" ImageSize="271455" />
+    <Page Image="2" ImageSize="100501" />
+    <Page Image="3" ImageSize="36376" />
+    <Page Image="4" ImageSize="93523" />
+    <Page Image="5" ImageSize="207201" />
+    <Page Image="6" ImageSize="411251" />
+    <Page Image="7" ImageSize="277948" />
+    <Page Image="8" ImageSize="545268" />
+    <Page Image="9" ImageSize="502594" />
+    <Page Image="10" ImageSize="534107" />
+    <Page Image="11" ImageSize="553870" />
+    <Page Image="12" ImageSize="582315" />
+    <Page Image="13" ImageSize="642582" />
+    <Page Image="14" ImageSize="626279" />
+    <Page Image="15" ImageSize="581781" />
+    <Page Image="16" ImageSize="640585" />
+    <Page Image="17" ImageSize="571901" />
+    <Page Image="18" ImageSize="527527" />
+    <Page Image="19" ImageSize="575513" />
+    <Page Image="20" ImageSize="594078" />
+    <Page Image="21" ImageSize="592817" />
+    <Page Image="22" ImageSize="572201" />
+    <Page Image="23" ImageSize="647448" />
+    <Page Image="24" ImageSize="565546" />
+    <Page Image="25" ImageSize="610442" />
+    <Page Image="26" ImageSize="583657" />
+    <Page Image="27" ImageSize="653449" />
+    <Page Image="28" ImageSize="603524" />
+    <Page Image="29" ImageSize="618985" />
+    <Page Image="30" ImageSize="654182" />
+    <Page Image="31" ImageSize="631045" />
+    <Page Image="32" ImageSize="598665" />
+    <Page Image="33" ImageSize="281975" />
+    <Page Image="34" ImageSize="611752" />
+    <Page Image="35" ImageSize="634629" />
+    <Page Image="36" ImageSize="656829" />
+    <Page Image="37" ImageSize="695476" />
+    <Page Image="38" ImageSize="618187" />
+    <Page Image="39" ImageSize="625457" />
+    <Page Image="40" ImageSize="615292" />
+    <Page Image="41" ImageSize="693196" />
+    <Page Image="42" ImageSize="703075" />
+    <Page Image="43" ImageSize="599138" />
+    <Page Image="44" ImageSize="611902" />
+    <Page Image="45" ImageSize="700676" />
+    <Page Image="46" ImageSize="637185" />
+    <Page Image="47" ImageSize="640821" />
+    <Page Image="48" ImageSize="641057" />
+    <Page Image="49" ImageSize="647577" />
+    <Page Image="50" ImageSize="648181" />
+    <Page Image="51" ImageSize="612467" />
+    <Page Image="52" ImageSize="636413" />
+    <Page Image="53" ImageSize="660829" />
+    <Page Image="54" ImageSize="667602" />
+    <Page Image="55" ImageSize="629820" />
+    <Page Image="56" ImageSize="574182" />
+    <Page Image="57" ImageSize="541526" />
+    <Page Image="58" ImageSize="638809" />
+    <Page Image="59" ImageSize="980901" />
+    <Page Image="60" ImageSize="629412" />
+    <Page Image="61" ImageSize="646838" />
+    <Page Image="62" ImageSize="616750" />
+    <Page Image="63" ImageSize="631739" />
+    <Page Image="64" ImageSize="586569" />
+    <Page Image="65" ImageSize="593016" />
+    <Page Image="66" ImageSize="583700" />
+    <Page Image="67" ImageSize="625590" />
+    <Page Image="68" ImageSize="623321" />
+    <Page Image="69" ImageSize="669523" />
+    <Page Image="70" ImageSize="659850" />
+    <Page Image="71" ImageSize="679864" />
+    <Page Image="72" ImageSize="635881" />
+    <Page Image="73" ImageSize="583875" />
+    <Page Image="74" ImageSize="644450" />
+    <Page Image="75" ImageSize="562781" />
+    <Page Image="76" ImageSize="555479" />
+    <Page Image="77" ImageSize="615468" />
+    <Page Image="78" ImageSize="575844" />
+    <Page Image="79" ImageSize="608434" />
+    <Page Image="80" ImageSize="582986" />
+    <Page Image="81" ImageSize="668559" />
+    <Page Image="82" ImageSize="608052" />
+    <Page Image="83" ImageSize="725391" />
+    <Page Image="84" ImageSize="1305857" />
+    <Page Image="85" ImageSize="640406" />
+    <Page Image="86" ImageSize="654019" />
+    <Page Image="87" ImageSize="569986" />
+    <Page Image="88" ImageSize="630668" />
+    <Page Image="89" ImageSize="667386" />
+    <Page Image="90" ImageSize="617817" />
+    <Page Image="91" ImageSize="658069" />
+    <Page Image="92" ImageSize="632882" />
+    <Page Image="93" ImageSize="647240" />
+    <Page Image="94" ImageSize="620720" />
+    <Page Image="95" ImageSize="627309" />
+    <Page Image="96" ImageSize="678268" />
+    <Page Image="97" ImageSize="657045" />
+    <Page Image="98" ImageSize="627612" />
+    <Page Image="99" ImageSize="666608" />
+    <Page Image="100" ImageSize="724319" />
+    <Page Image="101" ImageSize="687611" />
+    <Page Image="102" ImageSize="682362" />
+    <Page Image="103" ImageSize="682219" />
+    <Page Image="104" ImageSize="663531" />
+    <Page Image="105" ImageSize="667202" />
+    <Page Image="106" ImageSize="549575" />
+    <Page Image="107" ImageSize="297506" />
+    <Page Image="108" ImageSize="619074" />
+    <Page Image="109" ImageSize="1315280" />
+    <Page Image="110" ImageSize="661189" />
+    <Page Image="111" ImageSize="619438" />
+    <Page Image="112" ImageSize="683539" />
+    <Page Image="113" ImageSize="583632" />
+    <Page Image="114" ImageSize="700816" />
+    <Page Image="115" ImageSize="727798" />
+    <Page Image="116" ImageSize="576372" />
+    <Page Image="117" ImageSize="587145" />
+    <Page Image="118" ImageSize="601837" />
+    <Page Image="119" ImageSize="694549" />
+    <Page Image="120" ImageSize="647021" />
+    <Page Image="121" ImageSize="627890" />
+    <Page Image="122" ImageSize="616791" />
+    <Page Image="123" ImageSize="601195" />
+    <Page Image="124" ImageSize="556496" />
+    <Page Image="125" ImageSize="552148" />
+    <Page Image="126" ImageSize="619530" />
+    <Page Image="127" ImageSize="603547" />
+    <Page Image="128" ImageSize="555865" />
+    <Page Image="129" ImageSize="648527" />
+    <Page Image="130" ImageSize="640142" />
+    <Page Image="131" ImageSize="594210" />
+    <Page Image="132" ImageSize="692019" />
+    <Page Image="133" ImageSize="702979" />
+    <Page Image="134" ImageSize="583019" />
+    <Page Image="135" ImageSize="606065" />
+    <Page Image="136" ImageSize="626614" />
+    <Page Image="137" ImageSize="671655" />
+    <Page Image="138" ImageSize="589727" />
+    <Page Image="139" ImageSize="507907" />
+    <Page Image="140" ImageSize="650404" />
+    <Page Image="141" ImageSize="631192" />
+    <Page Image="142" ImageSize="656207" />
+    <Page Image="143" ImageSize="589470" />
+    <Page Image="144" ImageSize="541592" />
+    <Page Image="145" ImageSize="555546" />
+    <Page Image="146" ImageSize="689549" />
+    <Page Image="147" ImageSize="636104" />
+    <Page Image="148" ImageSize="636275" />
+    <Page Image="149" ImageSize="639709" />
+    <Page Image="150" ImageSize="615793" />
+    <Page Image="151" ImageSize="624661" />
+    <Page Image="152" ImageSize="652194" />
+    <Page Image="153" ImageSize="636416" />
+    <Page Image="154" ImageSize="629841" />
+    <Page Image="155" ImageSize="659445" />
+    <Page Image="156" ImageSize="617951" />
+    <Page Image="157" ImageSize="558651" />
+    <Page Image="158" ImageSize="497774" />
+    <Page Image="159" ImageSize="552971" />
+    <Page Image="160" ImageSize="579125" />
+    <Page Image="161" ImageSize="601321" />
+    <Page Image="162" ImageSize="641097" />
+    <Page Image="163" ImageSize="614459" />
+    <Page Image="164" ImageSize="549389" />
+    <Page Image="165" ImageSize="631412" />
+    <Page Image="166" ImageSize="591110" />
+    <Page Image="167" ImageSize="637607" />
+    <Page Image="168" ImageSize="652578" />
+    <Page Image="169" ImageSize="637024" />
+    <Page Image="170" ImageSize="563211" />
+    <Page Image="171" ImageSize="559642" />
+    <Page Image="172" ImageSize="580308" />
+    <Page Image="173" ImageSize="568144" />
+    <Page Image="174" ImageSize="622865" />
+    <Page Image="175" ImageSize="577126" />
+    <Page Image="176" ImageSize="595117" />
+    <Page Image="177" ImageSize="626618" />
+    <Page Image="178" ImageSize="585154" />
+    <Page Image="179" ImageSize="616151" />
+    <Page Image="180" ImageSize="285651" />
+    <Page Image="181" ImageSize="521628" />
+    <Page Image="182" ImageSize="558878" />
+    <Page Image="183" ImageSize="572720" />
+    <Page Image="184" ImageSize="560088" />
+    <Page Image="185" ImageSize="500031" />
+    <Page Image="186" ImageSize="576127" />
+    <Page Image="187" ImageSize="584109" />
+    <Page Image="188" ImageSize="601419" />
+    <Page Image="189" ImageSize="586880" />
+    <Page Image="190" ImageSize="568008" />
+    <Page Image="191" ImageSize="617927" />
+    <Page Image="192" ImageSize="670788" />
+    <Page Image="193" ImageSize="603911" />
+    <Page Image="194" ImageSize="634837" />
+    <Page Image="195" ImageSize="640002" />
+    <Page Image="196" ImageSize="625125" />
+    <Page Image="197" ImageSize="689506" />
+    <Page Image="198" ImageSize="566752" />
+    <Page Image="199" ImageSize="570645" />
+    <Page Image="200" ImageSize="582587" />
+    <Page Image="201" ImageSize="603491" />
+    <Page Image="202" ImageSize="531598" />
+    <Page Image="203" ImageSize="601673" />
+    <Page Image="204" ImageSize="562332" />
+    <Page Image="205" ImageSize="437485" />
+    <Page Image="206" ImageSize="287865" />
+    <Page Image="207" ImageSize="636663" />
+    <Page Image="208" ImageSize="603878" />
+    <Page Image="209" ImageSize="677909" />
+    <Page Image="210" ImageSize="609477" />
+    <Page Image="211" ImageSize="610366" />
+    <Page Image="212" ImageSize="650668" />
+    <Page Image="213" ImageSize="638289" />
+    <Page Image="214" ImageSize="556749" />
+    <Page Image="215" ImageSize="560705" />
+    <Page Image="216" ImageSize="578110" />
+    <Page Image="217" ImageSize="554922" />
+    <Page Image="218" ImageSize="547316" />
+    <Page Image="219" ImageSize="545029" />
+    <Page Image="220" ImageSize="532646" />
+    <Page Image="221" ImageSize="506810" />
+    <Page Image="222" ImageSize="627909" />
+    <Page Image="223" ImageSize="586201" />
+    <Page Image="224" ImageSize="521469" />
+    <Page Image="225" ImageSize="540504" />
+    <Page Image="226" ImageSize="540987" />
+    <Page Image="227" ImageSize="572721" />
+    <Page Image="228" ImageSize="511149" />
+    <Page Image="229" ImageSize="540388" />
+    <Page Image="230" ImageSize="594208" />
+    <Page Image="231" ImageSize="590051" />
+    <Page Image="232" ImageSize="562641" />
+    <Page Image="233" ImageSize="548406" />
+    <Page Image="234" ImageSize="621619" />
+    <Page Image="235" ImageSize="579431" />
+    <Page Image="236" ImageSize="620065" />
+    <Page Image="237" ImageSize="584308" />
+    <Page Image="238" ImageSize="602827" />
+    <Page Image="239" ImageSize="585021" />
+    <Page Image="240" ImageSize="603010" />
+    <Page Image="241" ImageSize="558654" />
+    <Page Image="242" ImageSize="532258" />
+    <Page Image="243" ImageSize="589152" />
+    <Page Image="244" ImageSize="526860" />
+    <Page Image="245" ImageSize="530948" />
+    <Page Image="246" ImageSize="562302" />
+    <Page Image="247" ImageSize="609664" />
+    <Page Image="248" ImageSize="574732" />
+    <Page Image="249" ImageSize="554685" />
+    <Page Image="250" ImageSize="661763" />
+    <Page Image="251" ImageSize="570527" />
+    <Page Image="252" ImageSize="588522" />
+    <Page Image="253" ImageSize="591043" />
+    <Page Image="254" ImageSize="584196" />
+    <Page Image="255" ImageSize="570193" />
+    <Page Image="256" ImageSize="551106" />
+    <Page Image="257" ImageSize="456866" />
+    <Page Image="258" ImageSize="601062" />
+    <Page Image="259" ImageSize="656255" />
+    <Page Image="260" ImageSize="622089" />
+    <Page Image="261" ImageSize="537038" />
+    <Page Image="262" ImageSize="570961" />
+    <Page Image="263" ImageSize="559551" />
+    <Page Image="264" ImageSize="529637" />
+    <Page Image="265" ImageSize="632251" />
+    <Page Image="266" ImageSize="545026" />
+    <Page Image="267" ImageSize="520498" />
+    <Page Image="268" ImageSize="526434" />
+    <Page Image="269" ImageSize="571538" />
+    <Page Image="270" ImageSize="642636" />
+    <Page Image="271" ImageSize="624802" />
+    <Page Image="272" ImageSize="583259" />
+    <Page Image="273" ImageSize="602202" />
+    <Page Image="274" ImageSize="590261" />
+    <Page Image="275" ImageSize="599824" />
+    <Page Image="276" ImageSize="584366" />
+    <Page Image="277" ImageSize="554358" />
+    <Page Image="278" ImageSize="614872" />
+    <Page Image="279" ImageSize="554724" />
+    <Page Image="280" ImageSize="600633" />
+    <Page Image="281" ImageSize="723242" />
+    <Page Image="282" ImageSize="716784" />
+    <Page Image="283" ImageSize="673256" />
+    <Page Image="284" ImageSize="706080" />
+    <Page Image="285" ImageSize="627392" />
+    <Page Image="286" ImageSize="731495" />
+    <Page Image="287" ImageSize="759281" />
+    <Page Image="288" ImageSize="694780" />
+    <Page Image="289" ImageSize="634548" />
+    <Page Image="290" ImageSize="670077" />
+    <Page Image="291" ImageSize="668329" />
+    <Page Image="292" ImageSize="678660" />
+    <Page Image="293" ImageSize="643966" />
+    <Page Image="294" ImageSize="778603" />
+    <Page Image="295" ImageSize="610305" />
+    <Page Image="296" ImageSize="623137" />
+    <Page Image="297" ImageSize="626740" />
+    <Page Image="298" ImageSize="642603" />
+    <Page Image="299" ImageSize="574642" />
+    <Page Image="300" ImageSize="593810" />
+    <Page Image="301" ImageSize="653882" />
+    <Page Image="302" ImageSize="584393" />
+    <Page Image="303" ImageSize="561424" />
+    <Page Image="304" ImageSize="256687" />
+    <Page Image="305" ImageSize="416372" />
+    <Page Image="306" ImageSize="436232" />
+    <Page Image="307" ImageSize="405469" />
+    <Page Image="308" ImageSize="395407" />
+    <Page Image="309" ImageSize="470978" />
+    <Page Image="310" ImageSize="438105" />
+    <Page Image="311" ImageSize="415498" />
+    <Page Image="312" ImageSize="398993" />
+    <Page Image="313" ImageSize="438702" />
+    <Page Image="314" ImageSize="485570" />
+    <Page Image="315" ImageSize="517652" />
+    <Page Image="316" ImageSize="414654" />
+    <Page Image="317" ImageSize="477619" />
+    <Page Image="318" ImageSize="457814" />
+    <Page Image="319" ImageSize="504723" />
+    <Page Image="320" ImageSize="436088" />
+    <Page Image="321" ImageSize="565062" />
+    <Page Image="322" ImageSize="264268" />
+    <Page Image="323" ImageSize="654462" />
+    <Page Image="324" ImageSize="613317" />
+    <Page Image="325" ImageSize="662941" />
+    <Page Image="326" ImageSize="673516" />
+    <Page Image="327" ImageSize="703218" />
+    <Page Image="328" ImageSize="663186" />
+    <Page Image="329" ImageSize="675607" />
+    <Page Image="330" ImageSize="657823" />
+    <Page Image="331" ImageSize="717115" />
+    <Page Image="332" ImageSize="634589" />
+    <Page Image="333" ImageSize="683344" />
+    <Page Image="334" ImageSize="712229" />
+    <Page Image="335" ImageSize="750360" />
+    <Page Image="336" ImageSize="618096" />
+    <Page Image="337" ImageSize="673186" />
+    <Page Image="338" ImageSize="700880" />
+    <Page Image="339" ImageSize="753095" />
+    <Page Image="340" ImageSize="667505" />
+    <Page Image="341" ImageSize="716351" />
+    <Page Image="342" ImageSize="691728" />
+    <Page Image="343" ImageSize="566528" />
+    <Page Image="344" ImageSize="587493" />
+    <Page Image="345" ImageSize="552931" />
+    <Page Image="346" ImageSize="570278" />
+    <Page Image="347" ImageSize="530052" />
+    <Page Image="348" ImageSize="291502" />
+    <Page Image="349" ImageSize="593922" />
+    <Page Image="350" ImageSize="596285" />
+    <Page Image="351" ImageSize="676549" />
+    <Page Image="352" ImageSize="648941" />
+    <Page Image="353" ImageSize="631031" />
+    <Page Image="354" ImageSize="590966" />
+    <Page Image="355" ImageSize="581966" />
+    <Page Image="356" ImageSize="615909" />
+    <Page Image="357" ImageSize="672690" />
+    <Page Image="358" ImageSize="621383" />
+    <Page Image="359" ImageSize="627110" />
+    <Page Image="360" ImageSize="616278" />
+    <Page Image="361" ImageSize="580414" />
+    <Page Image="362" ImageSize="621166" />
+    <Page Image="363" ImageSize="655481" />
+    <Page Image="364" ImageSize="675885" />
+    <Page Image="365" ImageSize="749236" />
+    <Page Image="366" ImageSize="687630" />
+    <Page Image="367" ImageSize="703011" />
+    <Page Image="368" ImageSize="671614" />
+    <Page Image="369" ImageSize="591326" />
+    <Page Image="370" ImageSize="639117" />
+    <Page Image="371" ImageSize="679078" />
+    <Page Image="372" ImageSize="651424" />
+    <Page Image="373" ImageSize="732741" />
+    <Page Image="374" ImageSize="679673" />
+    <Page Image="375" ImageSize="689560" />
+    <Page Image="376" ImageSize="622714" />
+    <Page Image="377" ImageSize="680433" />
+    <Page Image="378" ImageSize="675523" />
+    <Page Image="379" ImageSize="699317" />
+    <Page Image="380" ImageSize="701790" />
+    <Page Image="381" ImageSize="721764" />
+    <Page Image="382" ImageSize="697482" />
+    <Page Image="383" ImageSize="708197" />
+    <Page Image="384" ImageSize="642952" />
+    <Page Image="385" ImageSize="660584" />
+    <Page Image="386" ImageSize="683895" />
+    <Page Image="387" ImageSize="699677" />
+    <Page Image="388" ImageSize="655361" />
+    <Page Image="389" ImageSize="678201" />
+    <Page Image="390" ImageSize="711219" />
+    <Page Image="391" ImageSize="664337" />
+    <Page Image="392" ImageSize="624468" />
+    <Page Image="393" ImageSize="673084" />
+    <Page Image="394" ImageSize="653898" />
+    <Page Image="395" ImageSize="659616" />
+    <Page Image="396" ImageSize="575933" />
+    <Page Image="397" ImageSize="593464" />
+    <Page Image="398" ImageSize="269615" />
+    <Page Image="399" ImageSize="591071" />
+    <Page Image="400" ImageSize="286902" />
+    <Page Image="401" ImageSize="540861" />
+    <Page Image="402" ImageSize="652785" />
+    <Page Image="403" ImageSize="596924" />
+    <Page Image="404" ImageSize="623471" />
+    <Page Image="405" ImageSize="632125" />
+    <Page Image="406" ImageSize="589209" />
+    <Page Image="407" ImageSize="518991" />
+    <Page Image="408" ImageSize="587154" />
+    <Page Image="409" ImageSize="556710" />
+    <Page Image="410" ImageSize="568745" />
+    <Page Image="411" ImageSize="645099" />
+    <Page Image="412" ImageSize="547119" />
+    <Page Image="413" ImageSize="531100" />
+    <Page Image="414" ImageSize="633350" />
+    <Page Image="415" ImageSize="565251" />
+    <Page Image="416" ImageSize="596816" />
+    <Page Image="417" ImageSize="596512" />
+    <Page Image="418" ImageSize="586529" />
+    <Page Image="419" ImageSize="596377" />
+    <Page Image="420" ImageSize="554676" />
+    <Page Image="421" ImageSize="581055" />
+    <Page Image="422" ImageSize="573477" />
+    <Page Image="423" ImageSize="655132" />
+    <Page Image="424" ImageSize="630388" />
+    <Page Image="425" ImageSize="570931" />
+    <Page Image="426" ImageSize="265175" />
+    <Page Image="427" ImageSize="458117" />
+    <Page Image="428" ImageSize="432204" />
+    <Page Image="429" ImageSize="449469" />
+    <Page Image="430" ImageSize="279568" />
+  </Pages>
+  <Penciller>Chris Warner,Dan Barry,Dan Jackson,Den Beauvais,Enrique Quique Alcatena,Leopoldo Durañona,Miriam Kim,Perry McNamee,Ray Lago,Rick Leonardi,Ron Randall,Val Mayerik</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Predator Omnibus</Series>
+  <Summary>Now, the three core Dark Horse Predator graphic novels-Concrete Jungle, Cold War, and Dark River-and several other chilling Predator tales, some never before reprinted, are collected together for the first time, in a value-priced, quality-format omnibus, featuring over 400 explosive story pages in full color.
+
+Written by screen and television scribe Mark Verheiden (The Mask, Battlestar Galactica) and comics legend Dan Barry and illustrated by Chris Warner, Ron Randall, Dan Barry, and others, Predator Omnibus Vol. 1 is an essential piece of the Predator mythos and a great entry point into the storied Dark Horse Predator library.
+
+The definitive comics collection of all things Predator starts here!
+
+*Back Blurb*
+Hunters from another world, drawn to heat and conflict. Physically superior, possessing lethal alien technology, capable of hiding in plain sight. Throughout our history, these Predators have used Earth as their own private hunting ground, haunting our battlefields and mean streets not to gain ground or to defeat tyranny, but to collect gruesome trophies. Their prey? Not lions or elephants, but the most dangerous game---Man.
+
+Dark Horse Comics set the comic industry on its ear with its expansion of the Predator mythos, so true to the spirit of the original blockbuster film that concepts from the first Predator comics series were incorporated into the Predator screen universe. Now, the core Predator graphic novels penned by screenwriter Mark Verheiden---plus several other chilling Predator tales, most never before reprinted---are collected in a value-priced, quality-format omnibus, featuring over 400 explosive story pages in full color.
+
+*Collects*
+ Predator: Cold War #1-4 
+ Predator: Dark River #1-4
+Predator: Concrete Jungle
+ Predator: The Bloody Sands of Time #1-2
+And select stories from  Dark Horse Comics #1, 2, 4-7, &amp; 10-12
+
+https://comicvine.gamespot.com/predator-omnibus-1-volume-1/4000-112287/</Summary>
+  <Tags>Predators,Russian Army,South America,New York City,New York Police Department,Russia,Predator,Detective Schaefer</Tags>
+  <Teams>New York Police Department,Russian Army,Predators</Teams>
+  <Title>Volume 1</Title>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/predator-omnibus-1-volume-1/4000-112287/</Web>
+  <Writer>Chuck Dixon,Dan Barry,Ian Edginton,Mark Verheiden,Neal Barrett Jr.</Writer>
+  <Year>2007</Year>
+  <Count>4</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+<Genre>Action,Science Fiction</Genre></ComicInfo>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Andrew Dalhouse</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-990214</GTIN>
+	<Inker>Marc Ellerby</Inker>
+	<Letterer>Marc Ellerby</Letterer>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:10:32 [Issue ID 4000-990214] urn:comicvine:4000-990214</Notes>
+	<Number>4</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="783622" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1385483"/>
+		<Page Image="2" ImageSize="2065273"/>
+		<Page Image="3" ImageSize="1706906"/>
+		<Page Image="4" ImageSize="1667604"/>
+		<Page Image="5" ImageSize="1683878"/>
+		<Page Image="6" ImageSize="1608352"/>
+		<Page Image="7" ImageSize="1824304"/>
+		<Page Image="8" ImageSize="1691030"/>
+		<Page Image="9" ImageSize="1638398"/>
+		<Page Image="10" ImageSize="1489931"/>
+		<Page Image="11" ImageSize="1956905"/>
+		<Page Image="12" ImageSize="1646845"/>
+		<Page Image="13" ImageSize="1553816"/>
+		<Page Image="14" ImageSize="1773671"/>
+		<Page Image="15" ImageSize="1957263"/>
+		<Page Image="16" ImageSize="1654295"/>
+		<Page Image="17" ImageSize="1844702"/>
+		<Page Image="18" ImageSize="1870858"/>
+		<Page Image="19" ImageSize="1838699"/>
+		<Page Image="20" ImageSize="1895645"/>
+		<Page Image="21" ImageSize="1805349"/>
+		<Page Image="22" ImageSize="1567797"/>
+		<Page Image="23" ImageSize="2369115"/>
+		<Page Image="24" ImageSize="1534974"/>
+		<Page Image="25" ImageSize="753349"/>
+	</Pages>
+	<Penciller>Marc Ellerby</Penciller>
+	<Publisher>Oni Press</Publisher>
+	<Series>Rick and Morty</Series>
+	<Summary>So Rick averted a Goldenfold invasion and sent Morty's girlfriend into another dimension. Big deal. Well, now Morty's mad for some reason and has gone to save Noelle. In his absence, hyper tech-bro and Rick fanboy Glug Vronsky swoops in to...impress Rick or something? Is this the end of Rick AND Morty? Rick and Glug? Doesn't have the same ring to it.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-28 22:56:07.  [CVDB990214]
+
+https://comicvine.gamespot.com/rick-and-morty-4/4000-990214/</Summary>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/rick-and-morty-4/4000-990214/</Web>
+	<Writer>Alex Firer</Writer>
+	<Year>2023</Year>
+</ComicInfo>

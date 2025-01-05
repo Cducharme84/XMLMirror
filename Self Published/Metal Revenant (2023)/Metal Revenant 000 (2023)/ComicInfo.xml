@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>4</Count>
+  <Format>Limited Series</Format>
+  <Genre>Science Fiction,Western</Genre>
+  <Inker>Ben Guillfoy</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-16T23:52:36</Notes>
+  <Number>0</Number>
+  <PageCount>11</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3779" ImageSize="1242743" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3779" ImageSize="327668" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3779" ImageSize="1655682" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3779" ImageSize="1553846" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3779" ImageSize="1397774" ImageWidth="2560" />
+    <Page DoublePage="True" Image="5" ImageHeight="3871" ImageSize="3411044" ImageWidth="5120" />
+    <Page DoublePage="False" Image="6" ImageHeight="3779" ImageSize="1407520" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3779" ImageSize="1617189" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3779" ImageSize="1726241" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3779" ImageSize="1909255" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3779" ImageSize="766710" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Ben Guillfoy</Penciller>
+  <Publisher>Self Published</Publisher>
+  <Series>Metal Revenant</Series>
+  <Volume>2023</Volume>
+  <Writer>Ben Guillfoy</Writer>
+  <Year>2023</Year>
+  <Summary>Deep in the galactic frontier, a place where the only authority is power, everyone owes someone something. And out here, whether it’s money or fealty, everyone owes the local mob boss -- the Hangman. Alice “Duster” H’Rera is no different. She’s broken bones and collected debts for the Hangman for years, but now, tired of the violence and wracked with guilt, she wants out. Hangman is happy to oblige, if Duster can pay the price: A few quick beatings in Fortune’s Core.</Summary>
+</ComicInfo>

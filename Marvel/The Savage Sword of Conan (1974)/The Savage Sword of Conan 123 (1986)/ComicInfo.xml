@@ -1,0 +1,102 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Veena,Conan,Shaalu,Hacima</Characters>
+  <Editor>Jim Shooter,Larry Hama,Pat Redding</Editor>
+  <GTIN>urn:comicvine:4000-135244</GTIN>
+  <Inker>Ernie Chan,James Baldwin,Rudy Nebres,Ernie Chan,James Baldwin</Inker>
+  <Letterer>Diana Albers,Janice Chiang,Diana Albers,Janice Chiang</Letterer>
+  <Locations>Hyboria,Kezankian Mountains</Locations>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T13:47:17 [Issue ID 4000-135244] urn:comicvine:4000-135244
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 11:44:42. [Issue ID 174729]</Notes>
+  <Number>123</Number>
+  <PageCount>69</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1620" ImageSize="839929" ImageWidth="1180" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1620" ImageSize="843544" ImageWidth="1189" />
+    <Page Image="2" ImageHeight="1609" ImageSize="620551" ImageWidth="1140" />
+    <Page Image="3" ImageHeight="1588" ImageSize="797381" ImageWidth="1152" />
+    <Page Image="4" ImageHeight="1589" ImageSize="764676" ImageWidth="1134" />
+    <Page Image="5" ImageHeight="1620" ImageSize="586354" ImageWidth="1149" />
+    <Page Image="6" ImageHeight="1591" ImageSize="823287" ImageWidth="1100" />
+    <Page Image="7" ImageHeight="1586" ImageSize="855197" ImageWidth="1135" />
+    <Page Image="8" ImageHeight="1591" ImageSize="792577" ImageWidth="1115" />
+    <Page Image="9" ImageHeight="1586" ImageSize="843765" ImageWidth="1106" />
+    <Page Image="10" ImageHeight="1583" ImageSize="902178" ImageWidth="1117" />
+    <Page Image="11" ImageHeight="1577" ImageSize="860729" ImageWidth="1108" />
+    <Page Image="12" ImageHeight="1583" ImageSize="952057" ImageWidth="1097" />
+    <Page Image="13" ImageHeight="1586" ImageSize="797828" ImageWidth="1105" />
+    <Page Image="14" ImageHeight="1582" ImageSize="870273" ImageWidth="1117" />
+    <Page Image="15" ImageHeight="1562" ImageSize="879532" ImageWidth="1106" />
+    <Page Image="16" ImageHeight="1582" ImageSize="721457" ImageWidth="1103" />
+    <Page Image="17" ImageHeight="1591" ImageSize="814152" ImageWidth="1111" />
+    <Page Image="18" ImageHeight="1589" ImageSize="780533" ImageWidth="1108" />
+    <Page Image="19" ImageHeight="1580" ImageSize="775557" ImageWidth="1097" />
+    <Page Image="20" ImageHeight="1591" ImageSize="819999" ImageWidth="1111" />
+    <Page Image="21" ImageHeight="1583" ImageSize="871370" ImageWidth="1112" />
+    <Page Image="22" ImageHeight="1591" ImageSize="877314" ImageWidth="1106" />
+    <Page Image="23" ImageHeight="1578" ImageSize="824211" ImageWidth="1115" />
+    <Page Image="24" ImageHeight="1586" ImageSize="810861" ImageWidth="1117" />
+    <Page Image="25" ImageHeight="1571" ImageSize="926948" ImageWidth="1111" />
+    <Page Image="26" ImageHeight="1582" ImageSize="742383" ImageWidth="1109" />
+    <Page Image="27" ImageHeight="1588" ImageSize="888503" ImageWidth="1106" />
+    <Page Image="28" ImageHeight="1591" ImageSize="930671" ImageWidth="1106" />
+    <Page Image="29" ImageHeight="1574" ImageSize="873117" ImageWidth="1100" />
+    <Page Image="30" ImageHeight="1580" ImageSize="796697" ImageWidth="1100" />
+    <Page Image="31" ImageHeight="1583" ImageSize="863048" ImageWidth="1117" />
+    <Page Image="32" ImageHeight="1591" ImageSize="795997" ImageWidth="1097" />
+    <Page Image="33" ImageHeight="1583" ImageSize="858737" ImageWidth="1103" />
+    <Page Image="34" ImageHeight="1569" ImageSize="855682" ImageWidth="1120" />
+    <Page Image="35" ImageHeight="1582" ImageSize="823629" ImageWidth="1097" />
+    <Page Image="36" ImageHeight="1577" ImageSize="904211" ImageWidth="1120" />
+    <Page Image="37" ImageHeight="1568" ImageSize="676787" ImageWidth="1088" />
+    <Page Image="38" ImageHeight="1580" ImageSize="815210" ImageWidth="1100" />
+    <Page Image="39" ImageHeight="1580" ImageSize="713041" ImageWidth="1094" />
+    <Page Image="40" ImageHeight="1566" ImageSize="836491" ImageWidth="1100" />
+    <Page Image="41" ImageHeight="1580" ImageSize="866779" ImageWidth="1112" />
+    <Page Image="42" ImageHeight="1580" ImageSize="778053" ImageWidth="1103" />
+    <Page Image="43" ImageHeight="1583" ImageSize="774998" ImageWidth="1102" />
+    <Page Image="44" ImageHeight="1571" ImageSize="762736" ImageWidth="1103" />
+    <Page Image="45" ImageHeight="1583" ImageSize="871094" ImageWidth="1108" />
+    <Page Image="46" ImageHeight="1577" ImageSize="807943" ImageWidth="1100" />
+    <Page Image="47" ImageHeight="1568" ImageSize="708159" ImageWidth="1112" />
+    <Page Image="48" ImageHeight="1583" ImageSize="869397" ImageWidth="1094" />
+    <Page Image="49" ImageHeight="1545" ImageSize="1244569" ImageWidth="2194" />
+    <Page Image="50" ImageHeight="1591" ImageSize="850719" ImageWidth="1103" />
+    <Page Image="51" ImageHeight="1574" ImageSize="802605" ImageWidth="1106" />
+    <Page Image="52" ImageHeight="1574" ImageSize="868817" ImageWidth="1100" />
+    <Page Image="53" ImageHeight="1588" ImageSize="747230" ImageWidth="1114" />
+    <Page Image="54" ImageHeight="1574" ImageSize="784119" ImageWidth="1120" />
+    <Page Image="55" ImageHeight="1588" ImageSize="790835" ImageWidth="1112" />
+    <Page Image="56" ImageHeight="1583" ImageSize="706942" ImageWidth="1112" />
+    <Page Image="57" ImageHeight="1586" ImageSize="752077" ImageWidth="1108" />
+    <Page Image="58" ImageHeight="1591" ImageSize="692487" ImageWidth="1112" />
+    <Page Image="59" ImageHeight="1586" ImageSize="695846" ImageWidth="1115" />
+    <Page Image="60" ImageHeight="1586" ImageSize="791015" ImageWidth="1117" />
+    <Page Image="61" ImageHeight="1580" ImageSize="733295" ImageWidth="1120" />
+    <Page Image="62" ImageHeight="1571" ImageSize="717972" ImageWidth="1114" />
+    <Page Image="63" ImageHeight="1583" ImageSize="698398" ImageWidth="1114" />
+    <Page Image="64" ImageHeight="1594" ImageSize="705342" ImageWidth="1032" />
+    <Page Image="65" ImageHeight="1577" ImageSize="730369" ImageWidth="1123" />
+    <Page Image="66" ImageHeight="1574" ImageSize="874006" ImageWidth="1152" />
+    <Page Image="67" ImageHeight="1557" ImageSize="887125" ImageWidth="1103" />
+    <Page Image="68" ImageSize="766693" />
+  </Pages>
+  <Penciller>Ernie Chan,Mike Docherty,Rudy Nebres,Ernie Chan,Mike Docherty</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>The Savage Sword of Conan</Series>
+  <Tags>Conan,Hyboria,Kezankian Mountains</Tags>
+  <Title>Secret of the Great Stone; The Debt of the Warrior</Title>
+  <Volume>1974</Volume>
+  <Web>https://comicvine.gamespot.com/the-savage-sword-of-conan-123-secret-of-the-great-/4000-135244/</Web>
+  <Writer>Larry Yakata,Larry Yakata</Writer>
+  <Year>1986</Year>
+  <Count>235</Count>
+  <CoverArtist>Ernie Chan</CoverArtist>
+  <Genre>Fantasy</Genre>
+  <Summary>Secret of the Great Stone: Traveling the frozen Kezankian peaks, Conan finds adventure.
+
+The Debt of the Warrior: Conan encounters the wife and son of a warrior he killed in the past and feels honor bound to aid them.
+
+</Summary>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

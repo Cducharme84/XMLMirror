@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-246581</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:18:20 [Issue ID 4000-246581] urn:comicvine:4000-246581 urn:grandcomicsdatabase:issue/246581
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 01:53:56. [Issue ID 246581]</Notes>
+  <Number>34</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="380323" Type="FrontCover" />
+    <Page Image="1" ImageSize="476314" />
+    <Page Image="2" ImageSize="470933" />
+    <Page Image="3" ImageSize="389625" />
+    <Page Image="4" ImageSize="579221" />
+    <Page Image="5" ImageSize="637405" />
+    <Page Image="6" ImageSize="658912" />
+    <Page Image="7" ImageSize="510830" />
+    <Page Image="8" ImageSize="474471" />
+    <Page Image="9" ImageSize="571025" />
+    <Page Image="10" ImageSize="468721" />
+    <Page Image="11" ImageSize="626913" />
+    <Page Image="12" ImageSize="477750" />
+    <Page Image="13" ImageSize="673764" />
+    <Page Image="14" ImageSize="714684" />
+    <Page Image="15" ImageSize="558770" />
+    <Page Image="16" ImageSize="543628" />
+    <Page Image="17" ImageSize="638996" />
+    <Page Image="18" ImageSize="602594" />
+    <Page Image="19" ImageSize="700063" />
+    <Page Image="20" ImageSize="616088" />
+    <Page Image="21" ImageSize="550004" />
+    <Page Image="22" ImageSize="623159" />
+    <Page Image="23" ImageSize="619438" />
+    <Page Image="24" ImageSize="584099" />
+    <Page Image="25" ImageSize="522800" />
+    <Page Image="26" ImageSize="73007" />
+  </Pages>
+  <Publisher>Broadsword</Publisher>
+  <Series>Tarot: Witch of the Black Rose</Series>
+  <Summary>According to Holly Golightly, VP of Broadsword Comics, the series did not have an editor until Neil Morris in issue #12.
+
+Won the 2008 Project Fanboy Award for Best Title &amp; Best Indie Title.</Summary>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-246581/</Web>
+  <Year>2000</Year>
+</ComicInfo>

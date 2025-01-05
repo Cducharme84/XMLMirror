@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Everyone</AgeRating>
+  <Count>8</Count>
+  <Format>Limited Series</Format>
+  <Genre>Science Fiction</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-24T13:53:39</Notes>
+  <Number>2</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3840" ImageSize="830630" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3840" ImageSize="1088887" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3840" ImageSize="952469" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3840" ImageSize="1148793" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3840" ImageSize="1124697" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3840" ImageSize="1460044" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3840" ImageSize="1240441" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3840" ImageSize="1237597" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3840" ImageSize="1163290" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3840" ImageSize="1257030" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3840" ImageSize="1256846" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3840" ImageSize="1033738" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3840" ImageSize="1502000" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3840" ImageSize="898685" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3840" ImageSize="1395742" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3840" ImageSize="1229785" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3840" ImageSize="1464475" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3840" ImageSize="1364783" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3840" ImageSize="1125516" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3840" ImageSize="1122751" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3840" ImageSize="735350" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3840" ImageSize="970689" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3840" ImageSize="902566" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3840" ImageSize="909667" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3840" ImageSize="951485" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3840" ImageSize="837690" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3840" ImageSize="937392" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3840" ImageSize="802542" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3840" ImageSize="379513" ImageWidth="2560" />
+    <Page DoublePage="False" Image="29" ImageHeight="3150" ImageSize="540856" ImageWidth="2100" />
+  </Pages>
+  <Publisher>Kappa Kafe Studio</Publisher>
+  <Series>The Adventures of Captain Orange</Series>
+  <Volume>2021</Volume>
+  <Title>Captain Orange and the Giant Woman of Durem</Title>
+  <Summary>The Exo-Terra Colonization Community has lost contact with the 6 plus 1 scientific survey team assigned to a stage 2 (Atmosphere Development) planet. Captain Orange returns to investigate planet Durem. Where are the scientists? Why is the ground shaking like that?</Summary>
+  <Year>2021</Year>
+</ComicInfo>

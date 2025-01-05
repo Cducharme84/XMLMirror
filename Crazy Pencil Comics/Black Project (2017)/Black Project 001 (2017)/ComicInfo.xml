@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Jack</Characters>
+	<Count>4</Count>
+	<CoverArtist>Bulent Hasan</CoverArtist>
+	<Day>30</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-618790</GTIN>
+	<Genre>Action,Science Fiction</Genre>
+	<Inker>Bulent Hasan</Inker>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-03T15:15:18 [Issue ID 4000-618790] urn:comicvine:4000-618790</Notes>
+	<Number>1</Number>
+	<PageCount>67</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3956" ImageSize="3174574" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1989" ImageHeight="3057" ImageSize="316287"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1988" ImageHeight="3072" ImageSize="629871"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1989" ImageHeight="3057" ImageSize="423338"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1988" ImageHeight="3072" ImageSize="506013"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1988" ImageHeight="3072" ImageSize="387126"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1988" ImageHeight="3072" ImageSize="1083361"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1988" ImageHeight="3072" ImageSize="1002319"/>
+		<Page DoublePage="True" Image="8" ImageWidth="3976" ImageHeight="3073" ImageSize="3157192"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1988" ImageHeight="3072" ImageSize="1444511"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1988" ImageHeight="3072" ImageSize="1454910"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1988" ImageHeight="3072" ImageSize="1391154"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1988" ImageHeight="3072" ImageSize="1348424"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1988" ImageHeight="3072" ImageSize="1655290"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1988" ImageHeight="3072" ImageSize="1351506"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1988" ImageHeight="3072" ImageSize="1212818"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1988" ImageHeight="3072" ImageSize="1082827"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1988" ImageHeight="3072" ImageSize="1039842"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1988" ImageHeight="3072" ImageSize="281874"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1988" ImageHeight="3072" ImageSize="253188"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1988" ImageHeight="3072" ImageSize="644689"/>
+		<Page DoublePage="True" Image="21" ImageWidth="3976" ImageHeight="3072" ImageSize="3743526"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1988" ImageHeight="3072" ImageSize="760265"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1988" ImageHeight="3072" ImageSize="1162924"/>
+		<Page DoublePage="False" Image="24" ImageWidth="1988" ImageHeight="3072" ImageSize="1253782"/>
+		<Page DoublePage="False" Image="25" ImageWidth="1988" ImageHeight="3072" ImageSize="1592406"/>
+		<Page DoublePage="False" Image="26" ImageWidth="1988" ImageHeight="3072" ImageSize="1021356"/>
+		<Page DoublePage="False" Image="27" ImageWidth="1988" ImageHeight="3072" ImageSize="1134867"/>
+		<Page DoublePage="False" Image="28" ImageWidth="1988" ImageHeight="3072" ImageSize="662156"/>
+		<Page DoublePage="False" Image="29" ImageWidth="1988" ImageHeight="3072" ImageSize="1167764"/>
+		<Page DoublePage="False" Image="30" ImageWidth="1988" ImageHeight="3072" ImageSize="862142"/>
+		<Page DoublePage="False" Image="31" ImageWidth="1988" ImageHeight="3072" ImageSize="844784"/>
+		<Page DoublePage="False" Image="32" ImageWidth="1988" ImageHeight="3072" ImageSize="691920"/>
+		<Page DoublePage="False" Image="33" ImageWidth="1988" ImageHeight="3072" ImageSize="872947"/>
+		<Page DoublePage="False" Image="34" ImageWidth="1988" ImageHeight="3072" ImageSize="1029542"/>
+		<Page DoublePage="False" Image="35" ImageWidth="1988" ImageHeight="3072" ImageSize="634729"/>
+		<Page DoublePage="False" Image="36" ImageWidth="1988" ImageHeight="3072" ImageSize="666867"/>
+		<Page DoublePage="False" Image="37" ImageWidth="1988" ImageHeight="3072" ImageSize="520214"/>
+		<Page DoublePage="True" Image="38" ImageWidth="3976" ImageHeight="3072" ImageSize="1408543"/>
+		<Page DoublePage="False" Image="39" ImageWidth="1988" ImageHeight="3072" ImageSize="552236"/>
+		<Page DoublePage="False" Image="40" ImageWidth="1988" ImageHeight="3072" ImageSize="428281"/>
+		<Page DoublePage="False" Image="41" ImageWidth="1988" ImageHeight="3072" ImageSize="579478"/>
+		<Page DoublePage="False" Image="42" ImageWidth="1988" ImageHeight="3072" ImageSize="488781"/>
+		<Page DoublePage="False" Image="43" ImageWidth="1988" ImageHeight="3072" ImageSize="702238"/>
+		<Page DoublePage="False" Image="44" ImageWidth="1988" ImageHeight="3072" ImageSize="650668"/>
+		<Page DoublePage="False" Image="45" ImageWidth="1988" ImageHeight="3072" ImageSize="735880"/>
+		<Page DoublePage="False" Image="46" ImageWidth="1988" ImageHeight="3072" ImageSize="712299"/>
+		<Page DoublePage="False" Image="47" ImageWidth="1988" ImageHeight="3072" ImageSize="974713"/>
+		<Page DoublePage="False" Image="48" ImageWidth="1988" ImageHeight="3072" ImageSize="906732"/>
+		<Page DoublePage="True" Image="49" ImageWidth="3976" ImageHeight="3072" ImageSize="1939261"/>
+		<Page DoublePage="False" Image="50" ImageWidth="1988" ImageHeight="3072" ImageSize="1064250"/>
+		<Page DoublePage="False" Image="51" ImageWidth="1988" ImageHeight="3072" ImageSize="1081310"/>
+		<Page DoublePage="False" Image="52" ImageWidth="1988" ImageHeight="3072" ImageSize="1166526"/>
+		<Page DoublePage="False" Image="53" ImageWidth="1988" ImageHeight="3072" ImageSize="1030462"/>
+		<Page DoublePage="False" Image="54" ImageWidth="1988" ImageHeight="3072" ImageSize="917872"/>
+		<Page DoublePage="False" Image="55" ImageWidth="1988" ImageHeight="3072" ImageSize="1238156"/>
+		<Page DoublePage="False" Image="56" ImageWidth="1988" ImageHeight="3072" ImageSize="1239112"/>
+		<Page DoublePage="False" Image="57" ImageWidth="1988" ImageHeight="3072" ImageSize="1345915"/>
+		<Page DoublePage="False" Image="58" ImageWidth="1988" ImageHeight="3072" ImageSize="1226922"/>
+		<Page DoublePage="False" Image="59" ImageWidth="1988" ImageHeight="3072" ImageSize="1276604"/>
+		<Page DoublePage="False" Image="60" ImageWidth="1988" ImageHeight="3072" ImageSize="1092927"/>
+		<Page DoublePage="False" Image="61" ImageWidth="1989" ImageHeight="3057" ImageSize="1125909"/>
+		<Page DoublePage="False" Image="62" ImageWidth="1989" ImageHeight="3057" ImageSize="728325"/>
+		<Page DoublePage="False" Image="63" ImageWidth="1989" ImageHeight="3057" ImageSize="1130947"/>
+		<Page DoublePage="False" Image="64" ImageWidth="1988" ImageHeight="3072" ImageSize="1090216"/>
+		<Page DoublePage="False" Image="65" ImageWidth="2550" ImageHeight="3300" ImageSize="644029"/>
+		<Page Image="66" ImageSize="2151000"/>
+	</Pages>
+	<Penciller>Bulent Hasan</Penciller>
+	<Publisher>Crazy Pencil Comics</Publisher>
+	<Series>Black Project</Series>
+	<Summary>Chapter One : Mechanism Of Change
+
+A meteorite rockets through the atmosphere and lands on a secluded highway, landing near a truck en route. As a mysterious retrieval crew arrive to obtain the object and 'clean up' what's left behind, an object starts to move and suddenly attacks the crew killing them all!.
+
+Our story picks up 15 years later, and we find JACK, a normal boy who's pretty much a nobody, but after a shocking incident at school, Jack unknowingly triggers off a genetic alarm alerting The Nexus, who sends one of their inhuman Agents to retrieve him. Now, Jack is a ticking time bomb on the run, hiding from Nexus, and dangerously unable to control his newfound abilities. The Nexus, with unlimited resources, are not too far behind. Their leader being the key to controlling Jack's abilities, and are more than determined to reclaim their lost 'black project'.
+
+"The Fugitive" meets "The X-Files" meets "the Matrix". This is Black Project.</Summary>
+	<Title>Chapter One : Mechanism Of Change</Title>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/black-project-1-chapter-one-mechanism-of-change/4000-618790/</Web>
+	<Writer>Bulent Hasan,Josh Whittall</Writer>
+	<Year>2017</Year>
+</ComicInfo>

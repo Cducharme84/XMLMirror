@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Guru-eFX</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-433778</GTIN>
+	<Inker>Fred Perry</Inker>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:14:51 [Issue ID 4000-433778] urn:comicvine:4000-433778</Notes>
+	<Number>1</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1124901" Type="FrontCover"/>
+		<Page Image="1" ImageSize="292138"/>
+		<Page Image="2" ImageSize="383774"/>
+		<Page Image="3" ImageSize="394344"/>
+		<Page Image="4" ImageSize="395917"/>
+		<Page Image="5" ImageSize="365373"/>
+		<Page Image="6" ImageSize="387686"/>
+		<Page Image="7" ImageSize="452031"/>
+		<Page Image="8" ImageSize="326431"/>
+		<Page Image="9" ImageSize="655060"/>
+		<Page Image="10" ImageSize="300138"/>
+		<Page Image="11" ImageSize="366663"/>
+		<Page Image="12" ImageSize="347538"/>
+		<Page Image="13" ImageSize="355407"/>
+		<Page Image="14" ImageSize="370184"/>
+		<Page Image="15" ImageSize="324798"/>
+		<Page Image="16" ImageSize="333375"/>
+		<Page Image="17" ImageSize="362425"/>
+		<Page Image="18" ImageSize="368463"/>
+		<Page Image="19" ImageSize="350108"/>
+		<Page Image="20" ImageSize="304801"/>
+		<Page Image="21" ImageSize="334574"/>
+		<Page Image="22" ImageSize="394469"/>
+		<Page Image="23" ImageSize="368581"/>
+		<Page Image="24" ImageSize="343872"/>
+		<Page Image="25" ImageSize="298303"/>
+		<Page Image="26" ImageSize="588206"/>
+		<Page Image="27" ImageSize="348818"/>
+		<Page Image="28" ImageSize="296657"/>
+		<Page Image="29" ImageSize="358001"/>
+		<Page Image="30" ImageSize="397976"/>
+		<Page Image="31" ImageSize="339935"/>
+		<Page Image="32" ImageSize="90796"/>
+	</Pages>
+	<Penciller>Fred Perry</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Fred Perry's Legacy</Series>
+	<Summary>https://comicvine.gamespot.com/legacy-1/4000-433778/</Summary>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/legacy-1/4000-433778/</Web>
+	<Writer>Fred Perry</Writer>
+	<Year>1999</Year>
+</ComicInfo>

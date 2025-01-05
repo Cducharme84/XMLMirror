@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-1010270</GTIN>
+	<Inker>Paul Maybury</Inker>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:32:53 [Issue ID 4000-1010270] urn:comicvine:4000-1010270</Notes>
+	<Number>4</Number>
+	<PageCount>35</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="242377" Type="FrontCover"/>
+		<Page Image="1" ImageSize="517318"/>
+		<Page Image="2" ImageSize="689152"/>
+		<Page Image="3" ImageSize="653192"/>
+		<Page Image="4" ImageSize="509758"/>
+		<Page Image="5" ImageSize="507517"/>
+		<Page Image="6" ImageSize="531671"/>
+		<Page Image="7" ImageSize="543612"/>
+		<Page Image="8" ImageSize="428481"/>
+		<Page Image="9" ImageSize="444794"/>
+		<Page Image="10" ImageSize="507250"/>
+		<Page Image="11" ImageSize="525279"/>
+		<Page Image="12" ImageSize="697059"/>
+		<Page Image="13" ImageSize="664501"/>
+		<Page Image="14" ImageSize="656811"/>
+		<Page Image="15" ImageSize="562077"/>
+		<Page Image="16" ImageSize="579108"/>
+		<Page Image="17" ImageSize="382750"/>
+		<Page Image="18" ImageSize="621970"/>
+		<Page Image="19" ImageSize="766391"/>
+		<Page Image="20" ImageSize="727662"/>
+		<Page Image="21" ImageSize="674252"/>
+		<Page Image="22" ImageSize="694380"/>
+		<Page Image="23" ImageSize="507533"/>
+		<Page Image="24" ImageSize="756023"/>
+		<Page Image="25" ImageSize="638255"/>
+		<Page Image="26" ImageSize="620784"/>
+		<Page Image="27" ImageSize="700208"/>
+		<Page Image="28" ImageSize="114507"/>
+		<Page Image="29" ImageSize="241626"/>
+		<Page Image="30" ImageSize="201726"/>
+		<Page Image="31" ImageSize="676243"/>
+		<Page Image="32" ImageSize="533095"/>
+		<Page Image="33" ImageSize="235950"/>
+		<Page Image="34" ImageSize="978643"/>
+	</Pages>
+	<Penciller>Paul Maybury</Penciller>
+	<Publisher>South Fellini</Publisher>
+	<Series>D.O.G.S. of Mars</Series>
+	<Summary>https://comicvine.gamespot.com/dogs-of-mars-4/4000-1010270/</Summary>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/dogs-of-mars-4/4000-1010270/</Web>
+	<Writer>Christian Weiser,Johnny Zito,Tony Trov</Writer>
+	<Year>2011</Year>
+</ComicInfo>

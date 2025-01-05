@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Colorist>Cesar Edgar</Colorist>
+	<Count>8</Count>
+	<Day>1</Day>
+	<Editor>Eric Peyron</Editor>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-680882</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Emanuele Braga,Stéphane Degardin</Inker>
+	<Letterer>Eric Peyron,Steve Wands</Letterer>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-01T01:47:29 [Issue ID 4000-680882] urn:comicvine:4000-680882</Notes>
+	<Number>1</Number>
+	<PageCount>43</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3682" ImageSize="1213248" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3682" ImageSize="1036741"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3682" ImageSize="1399874"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3682" ImageSize="75525"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3682" ImageSize="1471648"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3682" ImageSize="1467122"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3682" ImageSize="1423807"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3682" ImageSize="1446289"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3682" ImageSize="630676"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3682" ImageSize="1379832"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3682" ImageSize="1308497"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3682" ImageSize="1441109"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3682" ImageSize="1496330"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3682" ImageSize="1380707"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3682" ImageSize="1418924"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3682" ImageSize="1471133"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3682" ImageSize="1341776"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3682" ImageSize="1144824"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3682" ImageSize="832928"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3682" ImageSize="1095954"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3682" ImageSize="1709690"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3682" ImageSize="1787993"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3682" ImageSize="1620825"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3682" ImageSize="840512"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3682" ImageSize="1340445"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3682" ImageSize="945540"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3682" ImageSize="1186858"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3682" ImageSize="512106"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3682" ImageSize="718522"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3682" ImageSize="652515"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3682" ImageSize="1163123"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3682" ImageSize="1073230"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3682" ImageSize="998360"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3682" ImageSize="1118867"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3682" ImageSize="511934"/>
+		<Page DoublePage="False" Image="35" ImageWidth="2560" ImageHeight="3682" ImageSize="1391618"/>
+		<Page DoublePage="False" Image="36" ImageWidth="2560" ImageHeight="3682" ImageSize="37041"/>
+		<Page DoublePage="False" Image="37" ImageWidth="2632" ImageHeight="3682" ImageSize="1327713"/>
+		<Page DoublePage="False" Image="38" ImageWidth="2560" ImageHeight="3682" ImageSize="990177"/>
+		<Page DoublePage="False" Image="39" ImageWidth="2560" ImageHeight="3682" ImageSize="1477469"/>
+		<Page DoublePage="False" Image="40" ImageWidth="2560" ImageHeight="3682" ImageSize="593363"/>
+		<Page DoublePage="False" Image="41" ImageWidth="2560" ImageHeight="3682" ImageSize="841740"/>
+		<Page Image="42" ImageSize="1091405"/>
+	</Pages>
+	<Penciller>Paulo Teles,Stéphane Degardin</Penciller>
+	<Publisher>Glyphs Productions</Publisher>
+	<Series>Worlds of Rage</Series>
+	<Summary>Discover the Worlds of Rage in this new anthology series featuring stories from the Rage Universe! This first issue features the series Serena and Arcana, by Eric Peyron, Stéphane Degardin &amp; Yonami!</Summary>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/worlds-of-rage-1/4000-680882/</Web>
+	<Writer>Eric Peyron</Writer>
+	<Year>2017</Year>
+</ComicInfo>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>The Brute</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-15084</GTIN>
+	<Inker>Dick Giordano,Pablo Marcos</Inker>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:19 [Issue ID 4000-15084] urn:comicvine:4000-15084</Notes>
+	<Number>1</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1116055" Type="FrontCover"/>
+		<Page Image="1" ImageSize="330030"/>
+		<Page Image="2" ImageSize="279054"/>
+		<Page Image="3" ImageSize="297282"/>
+		<Page Image="4" ImageSize="317754"/>
+		<Page Image="5" ImageSize="311791"/>
+		<Page Image="6" ImageSize="309128"/>
+		<Page Image="7" ImageSize="367568"/>
+		<Page Image="8" ImageSize="290113"/>
+		<Page Image="9" ImageSize="296654"/>
+		<Page Image="10" ImageSize="292481"/>
+		<Page Image="11" ImageSize="332981"/>
+		<Page Image="12" ImageSize="325056"/>
+		<Page Image="13" ImageSize="275983"/>
+		<Page Image="14" ImageSize="322750"/>
+		<Page Image="15" ImageSize="291110"/>
+		<Page Image="16" ImageSize="281390"/>
+		<Page Image="17" ImageSize="310855"/>
+		<Page Image="18" ImageSize="283672"/>
+		<Page Image="19" ImageSize="285969"/>
+		<Page Image="20" ImageSize="304558"/>
+	</Pages>
+	<Penciller>Dick Giordano,Mike Sekowsky</Penciller>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>Brute</Series>
+	<Summary>https://comicvine.gamespot.com/brute-1/4000-15084/</Summary>
+	<Tags>The Brute</Tags>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/brute-1/4000-15084/</Web>
+	<Writer>Michael Fleisher</Writer>
+	<Year>1975</Year>
+</ComicInfo>

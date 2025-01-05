@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature Readers</AgeRating>
+	<Characters>Bruce,Burt,Chris Rhodes,Faust,Girl Artist [Eliza],Keith Pearson,Todd</Characters>
+	<Count>4</Count>
+	<CoverArtist>Charles Burns</CoverArtist>
+	<GTIN>urn:comicvine:4000-51523</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Charles Burns</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Charles Burns,Susan Moore</Letterer>
+	<Locations>Seattle</Locations>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.9 on 2024-08-08T01:58:42 [Issue ID 4000-51523] urn:comicvine:4000-51523</Notes>
+	<Number>4</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="314996" Type="FrontCover"/>
+		<Page Image="1" ImageSize="357102"/>
+		<Page Image="2" ImageSize="314794"/>
+		<Page Image="3" ImageSize="65614"/>
+		<Page Image="4" ImageSize="447442"/>
+		<Page Image="5" ImageSize="366742"/>
+		<Page Image="6" ImageSize="359360"/>
+		<Page Image="7" ImageSize="400062"/>
+		<Page Image="8" ImageSize="365220"/>
+		<Page Image="9" ImageSize="418218"/>
+		<Page Image="10" ImageSize="431152"/>
+		<Page Image="11" ImageSize="490428"/>
+		<Page Image="12" ImageSize="386742"/>
+		<Page Image="13" ImageSize="387702"/>
+		<Page Image="14" ImageSize="271840"/>
+		<Page Image="15" ImageSize="308370"/>
+		<Page Image="16" ImageSize="369872"/>
+		<Page Image="17" ImageSize="332096"/>
+		<Page Image="18" ImageSize="370284"/>
+		<Page Image="19" ImageSize="343898"/>
+		<Page Image="20" ImageSize="332904"/>
+		<Page Image="21" ImageSize="396140"/>
+		<Page Image="22" ImageSize="377902"/>
+		<Page Image="23" ImageSize="402230"/>
+		<Page Image="24" ImageSize="359864"/>
+		<Page Image="25" ImageSize="443622"/>
+		<Page Image="26" ImageSize="429422"/>
+		<Page Image="27" ImageSize="400104"/>
+		<Page Image="28" ImageSize="386654"/>
+		<Page Image="29" ImageSize="390812"/>
+		<Page Image="30" ImageSize="377284"/>
+		<Page Image="31" ImageSize="330700"/>
+	</Pages>
+	<Penciller>Charles Burns</Penciller>
+	<Publisher>Kitchen Sink Press</Publisher>
+	<Series>Black Hole</Series>
+	<Summary>Bag Action: Keith meets an alluring artist.</Summary>
+	<Title>Bag Action</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/black-hole-4-bag-action/4000-51523/</Web>
+	<Writer>Charles Burns</Writer>
+	<Year>1997</Year>
+</ComicInfo>

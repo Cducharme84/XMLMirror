@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>6</Count>
+	<CoverArtist>John Myers</CoverArtist>
+	<Day>30</Day>
+	<GTIN>urn:comicvine:4000-465345</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>John Myers</Inker>
+	<Locations>Pangaea</Locations>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-05T20:37:17 [Issue ID 4000-465345] urn:comicvine:4000-465345</Notes>
+	<Number>1</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3936" ImageSize="2457761" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3936" ImageSize="1307875"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3936" ImageSize="2458997"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3936" ImageSize="2649239"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3936" ImageSize="2772928"/>
+		<Page DoublePage="True" Image="5" ImageWidth="5120" ImageHeight="3936" ImageSize="5084008"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3936" ImageSize="3340086"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3936" ImageSize="3217965"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3936" ImageSize="2850552"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3936" ImageSize="3222227"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3936" ImageSize="3331285"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3936" ImageSize="3181364"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3936" ImageSize="3325160"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3936" ImageSize="2488004"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3936" ImageSize="3001436"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3936" ImageSize="2739407"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3936" ImageSize="2720183"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3936" ImageSize="2966213"/>
+		<Page DoublePage="True" Image="18" ImageWidth="5120" ImageHeight="3959" ImageSize="6570055"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3887" ImageSize="3230022"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3887" ImageSize="3199360"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3887" ImageSize="3427176"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3887" ImageSize="3110634"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3887" ImageSize="3313475"/>
+		<Page Image="24" ImageSize="3155547"/>
+	</Pages>
+	<Penciller>John Myers</Penciller>
+	<Publisher>Source Point Press</Publisher>
+	<Series>The Era of Great Wonders</Series>
+	<Summary>Over the course of the six years that would come to be known as the "The Era of Great Wonders," or the "Time of Giant Men," the people of Pangaea lived in the shadow of giant monsters that waged war across their homeland.
+
+As word of the first giant monster attacks reached them, they found themselves struggling to make sense of a world that would never be the same again. In the days ahead that struggle would become one simply to survive in the wake of the massive destruction and loss of life caused by the attacks.
+
+This in their story in their own words...</Summary>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/era-of-great-wonders-1/4000-465345/</Web>
+	<Writer>John Myers</Writer>
+	<Year>2014</Year>
+</ComicInfo>

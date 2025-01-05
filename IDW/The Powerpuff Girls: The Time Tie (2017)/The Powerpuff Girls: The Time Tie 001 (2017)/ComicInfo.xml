@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>The Mayor,Bubbles,Blossom,Buttercup,Kitty the Kid,Wyatt Earp,Mojo Jojo</Characters>
+  <Colorist>Leonardo Ito,Philip Murphy</Colorist>
+  <Day>24</Day>
+  <Editor>Alonzo Simon,Chase Marotz,Justin Eisinger,Sarah Gaydos</Editor>
+  <GTIN>urn:comixology:550495</GTIN>
+  <Genre>Children,Superhero</Genre>
+  <Inker>Philip Murphy</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>AndWorld Design</Letterer>
+  <Locations>Townsville</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:00:54 [Issue ID 4000-649371] urn:comicvine:4000-649371 urn:comixology:550495
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 15:45:36. [Issue ID 1708655]</Notes>
+  <Number>1</Number>
+  <PageCount>75</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2700" ImageSize="1321827" ImageWidth="1799" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2700" ImageSize="1182219" ImageWidth="1799" />
+    <Page Image="2" ImageHeight="2700" ImageSize="632140" ImageWidth="1799" />
+    <Page Image="3" ImageHeight="2700" ImageSize="1923836" ImageWidth="3598" />
+    <Page Image="4" ImageHeight="2700" ImageSize="1154180" ImageWidth="1799" />
+    <Page Image="5" ImageHeight="2700" ImageSize="1311658" ImageWidth="1799" />
+    <Page Image="6" ImageHeight="2700" ImageSize="1301973" ImageWidth="1799" />
+    <Page Image="7" ImageHeight="2700" ImageSize="1772375" ImageWidth="1799" />
+    <Page Image="8" ImageHeight="2700" ImageSize="1635000" ImageWidth="1799" />
+    <Page Image="9" ImageHeight="2700" ImageSize="1480540" ImageWidth="1799" />
+    <Page Image="10" ImageHeight="2700" ImageSize="1567381" ImageWidth="1799" />
+    <Page Image="11" ImageHeight="2700" ImageSize="1665138" ImageWidth="1799" />
+    <Page Image="12" ImageHeight="2700" ImageSize="1549598" ImageWidth="1799" />
+    <Page Image="13" ImageHeight="2700" ImageSize="1434701" ImageWidth="1799" />
+    <Page Image="14" ImageHeight="2700" ImageSize="1325340" ImageWidth="1799" />
+    <Page Image="15" ImageHeight="2700" ImageSize="1553387" ImageWidth="1799" />
+    <Page Image="16" ImageHeight="2700" ImageSize="1658325" ImageWidth="1799" />
+    <Page Image="17" ImageHeight="2700" ImageSize="1592620" ImageWidth="1799" />
+    <Page Image="18" ImageHeight="2700" ImageSize="1588903" ImageWidth="1799" />
+    <Page Image="19" ImageHeight="2700" ImageSize="1752345" ImageWidth="1799" />
+    <Page Image="20" ImageHeight="2700" ImageSize="1686544" ImageWidth="1799" />
+    <Page Image="21" ImageHeight="2700" ImageSize="1502126" ImageWidth="1799" />
+    <Page Image="22" ImageHeight="2700" ImageSize="1396121" ImageWidth="1799" />
+    <Page Image="23" ImageHeight="2700" ImageSize="1716077" ImageWidth="1799" />
+    <Page Image="24" ImageHeight="2700" ImageSize="1427000" ImageWidth="1799" />
+    <Page Image="25" ImageHeight="2700" ImageSize="1157321" ImageWidth="1799" />
+    <Page Image="26" ImageHeight="2700" ImageSize="1632062" ImageWidth="1799" />
+    <Page Image="27" ImageHeight="2700" ImageSize="762118" ImageWidth="1799" />
+    <Page Image="28" ImageHeight="2700" ImageSize="1330755" ImageWidth="1799" />
+    <Page Image="29" ImageHeight="2700" ImageSize="1402684" ImageWidth="1799" />
+    <Page Image="30" ImageHeight="2700" ImageSize="1378121" ImageWidth="1799" />
+    <Page Image="31" ImageHeight="2700" ImageSize="1488935" ImageWidth="1799" />
+    <Page Image="32" ImageHeight="2700" ImageSize="1376645" ImageWidth="1799" />
+    <Page Image="33" ImageHeight="2700" ImageSize="1409218" ImageWidth="1799" />
+    <Page Image="34" ImageHeight="2700" ImageSize="1396650" ImageWidth="1799" />
+    <Page Image="35" ImageHeight="2700" ImageSize="1788611" ImageWidth="1799" />
+    <Page Image="36" ImageHeight="2700" ImageSize="1475465" ImageWidth="1799" />
+    <Page Image="37" ImageHeight="2700" ImageSize="1749613" ImageWidth="1799" />
+    <Page Image="38" ImageHeight="2700" ImageSize="1512477" ImageWidth="1799" />
+    <Page Image="39" ImageHeight="2700" ImageSize="1264161" ImageWidth="1799" />
+    <Page Image="40" ImageHeight="2700" ImageSize="1252206" ImageWidth="1799" />
+    <Page Image="41" ImageHeight="2700" ImageSize="1299420" ImageWidth="1799" />
+    <Page Image="42" ImageHeight="2700" ImageSize="1347426" ImageWidth="1799" />
+    <Page Image="43" ImageHeight="2700" ImageSize="1424709" ImageWidth="1799" />
+    <Page Image="44" ImageHeight="2700" ImageSize="1307285" ImageWidth="1799" />
+    <Page Image="45" ImageHeight="2700" ImageSize="1270285" ImageWidth="1799" />
+    <Page Image="46" ImageHeight="2700" ImageSize="1195698" ImageWidth="1799" />
+    <Page Image="47" ImageHeight="2700" ImageSize="838550" ImageWidth="1799" />
+    <Page Image="48" ImageHeight="2700" ImageSize="1136650" ImageWidth="1799" />
+    <Page Image="49" ImageHeight="2700" ImageSize="566731" ImageWidth="1799" />
+    <Page Image="50" ImageHeight="2700" ImageSize="1436551" ImageWidth="1799" />
+    <Page Image="51" ImageHeight="2700" ImageSize="1338179" ImageWidth="1799" />
+    <Page Image="52" ImageHeight="2700" ImageSize="1394991" ImageWidth="1799" />
+    <Page Image="53" ImageHeight="2700" ImageSize="1233837" ImageWidth="1799" />
+    <Page Image="54" ImageHeight="2700" ImageSize="1320149" ImageWidth="1799" />
+    <Page Image="55" ImageHeight="2700" ImageSize="1341137" ImageWidth="1799" />
+    <Page Image="56" ImageHeight="2700" ImageSize="1441173" ImageWidth="1799" />
+    <Page Image="57" ImageHeight="2700" ImageSize="1305498" ImageWidth="1799" />
+    <Page Image="58" ImageHeight="2700" ImageSize="1221608" ImageWidth="1799" />
+    <Page Image="59" ImageHeight="2700" ImageSize="1461960" ImageWidth="1799" />
+    <Page Image="60" ImageHeight="2700" ImageSize="1242005" ImageWidth="1799" />
+    <Page Image="61" ImageHeight="2700" ImageSize="1215800" ImageWidth="1799" />
+    <Page Image="62" ImageHeight="2700" ImageSize="1409381" ImageWidth="1799" />
+    <Page Image="63" ImageHeight="2700" ImageSize="1391654" ImageWidth="1799" />
+    <Page Image="64" ImageHeight="2700" ImageSize="1328156" ImageWidth="1799" />
+    <Page Image="65" ImageHeight="2700" ImageSize="1081135" ImageWidth="1799" />
+    <Page Image="66" ImageHeight="2700" ImageSize="1518152" ImageWidth="1799" />
+    <Page Image="67" ImageHeight="2700" ImageSize="1428511" ImageWidth="1799" />
+    <Page Image="68" ImageHeight="2700" ImageSize="1205289" ImageWidth="1799" />
+    <Page Image="69" ImageHeight="2700" ImageSize="1195605" ImageWidth="1799" />
+    <Page Image="70" ImageHeight="2700" ImageSize="1197883" ImageWidth="1799" />
+    <Page Image="71" ImageHeight="2700" ImageSize="1190821" ImageWidth="1799" />
+    <Page Image="72" ImageHeight="2700" ImageSize="1336386" ImageWidth="1799" />
+    <Page Image="73" ImageHeight="2700" ImageSize="1173110" ImageWidth="1799" />
+    <Page Image="74" ImageSize="1179862" />
+  </Pages>
+  <Penciller>Philip Murphy</Penciller>
+  <Publisher>IDW</Publisher>
+  <Series>The Powerpuff Girls: The Time Tie</Series>
+  <Summary>The Time Tie, Part 1: Using his latest invention of a necktie that can pierce the time barrier, Mojo Jojo sends the Powerpuff Girls into history.  Stranded in 1880, Blossom must find a means to return to her time in the technologically backward era.
+
+</Summary>
+  <Teams>Dinosaurs,Pirates,Powerpuff Girls</Teams>
+  <Title>The Time Tie, Part 1</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/the-powerpuff-girls-the-time-tie-1-hc/4000-649371/</Web>
+  <Writer>Haley Mancini,Jake Goldman</Writer>
+  <Year>2017</Year>
+  <Count>3</Count>
+  <Format>Limited Series</Format>
+</ComicInfo>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550704</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:47:57 [Issue ID 4000-550704] urn:comicvine:4000-550704 urn:grandcomicsdatabase:issue/550704
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:57:19. [Issue ID 550704]</Notes>
+  <Number>90</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="461509" Type="FrontCover" />
+    <Page Image="1" ImageSize="333407" />
+    <Page Image="2" ImageSize="476198" />
+    <Page Image="3" ImageSize="688240" />
+    <Page Image="4" ImageSize="648644" />
+    <Page Image="5" ImageSize="625194" />
+    <Page Image="6" ImageSize="692018" />
+    <Page Image="7" ImageSize="590085" />
+    <Page Image="8" ImageSize="712974" />
+    <Page Image="9" ImageSize="712603" />
+    <Page Image="10" ImageSize="674051" />
+    <Page Image="11" ImageSize="630623" />
+    <Page Image="12" ImageSize="675483" />
+    <Page Image="13" ImageSize="676498" />
+    <Page Image="14" ImageSize="684594" />
+    <Page Image="15" ImageSize="678290" />
+    <Page Image="16" ImageSize="699843" />
+    <Page Image="17" ImageSize="624465" />
+    <Page Image="18" ImageSize="598558" />
+    <Page Image="19" ImageSize="650264" />
+    <Page Image="20" ImageSize="638770" />
+    <Page Image="21" ImageSize="558807" />
+    <Page Image="22" ImageSize="676320" />
+    <Page Image="23" ImageSize="650695" />
+    <Page Image="24" ImageSize="651422" />
+    <Page Image="25" ImageSize="597459" />
+    <Page Image="26" ImageSize="627061" />
+    <Page Image="27" ImageSize="650369" />
+    <Page Image="28" ImageSize="576361" />
+    <Page Image="29" ImageSize="655094" />
+    <Page Image="30" ImageSize="571482" />
+    <Page Image="31" ImageSize="698660" />
+    <Page Image="32" ImageSize="585579" />
+    <Page Image="33" ImageSize="637622" />
+    <Page Image="34" ImageSize="605520" />
+    <Page Image="35" ImageSize="160567" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Return of the Planet Tamer</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550704/</Web>
+  <Year>1979</Year>
+</ComicInfo>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Varvara,Abe Sapien,Elizabeth Sherman</Characters>
+  <Colorist>Dave Stewart,Laurence Campbell</Colorist>
+  <Day>11</Day>
+  <Editor>Katii O'Brien,Scott Allie</Editor>
+  <GTIN>urn:comicvine:4000-665867</GTIN>
+  <Genre>Horror</Genre>
+  <Inker>Laurence Campbell,Tim Sale</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Clem Robins</Letterer>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:59:56 [Issue ID 4000-665867] urn:comicvine:4000-665867
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 20:40:29. [Issue ID 1799399]</Notes>
+  <Number>1</Number>
+  <PageCount>141</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1048053" Type="FrontCover" />
+    <Page Image="1" ImageSize="275712" />
+    <Page Image="2" ImageSize="515198" />
+    <Page Image="3" ImageSize="388752" />
+    <Page Image="4" ImageSize="712572" />
+    <Page Image="5" ImageSize="1481206" />
+    <Page Image="6" ImageSize="250354" />
+    <Page Image="7" ImageSize="743635" />
+    <Page Image="8" ImageSize="734649" />
+    <Page Image="9" ImageSize="755736" />
+    <Page Image="10" ImageSize="739192" />
+    <Page Image="11" ImageSize="1002309" />
+    <Page Image="12" ImageSize="960795" />
+    <Page Image="13" ImageSize="1059711" />
+    <Page Image="14" ImageSize="991257" />
+    <Page Image="15" ImageSize="1553495" />
+    <Page Image="16" ImageSize="1489100" />
+    <Page Image="17" ImageSize="1196046" />
+    <Page Image="18" ImageSize="1315588" />
+    <Page Image="19" ImageSize="1610480" />
+    <Page Image="20" ImageSize="1627027" />
+    <Page Image="21" ImageSize="1532156" />
+    <Page Image="22" ImageSize="1470299" />
+    <Page Image="23" ImageSize="1521517" />
+    <Page Image="24" ImageSize="1093391" />
+    <Page Image="25" ImageSize="1458263" />
+    <Page Image="26" ImageSize="1542146" />
+    <Page Image="27" ImageSize="1648178" />
+    <Page Image="28" ImageSize="1583823" />
+    <Page Image="29" ImageSize="1815307" />
+    <Page Image="30" ImageSize="235835" />
+    <Page Image="31" ImageSize="1472260" />
+    <Page Image="32" ImageSize="1874781" />
+    <Page Image="33" ImageSize="1403385" />
+    <Page Image="34" ImageSize="1479510" />
+    <Page Image="35" ImageSize="1526529" />
+    <Page Image="36" ImageSize="1790721" />
+    <Page Image="37" ImageSize="1350564" />
+    <Page Image="38" ImageSize="1322089" />
+    <Page Image="39" ImageSize="1632989" />
+    <Page Image="40" ImageSize="1490436" />
+    <Page Image="41" ImageSize="1304172" />
+    <Page Image="42" ImageSize="1017483" />
+    <Page Image="43" ImageSize="1689894" />
+    <Page Image="44" ImageSize="6418905" />
+    <Page Image="45" ImageSize="1383401" />
+    <Page Image="46" ImageSize="1777771" />
+    <Page Image="47" ImageSize="1892213" />
+    <Page Image="48" ImageSize="1249352" />
+    <Page Image="49" ImageSize="1533122" />
+    <Page Image="50" ImageSize="1456143" />
+    <Page Image="51" ImageSize="1968389" />
+    <Page Image="52" ImageSize="1364596" />
+    <Page Image="53" ImageSize="211675" />
+    <Page Image="54" ImageSize="1475404" />
+    <Page Image="55" ImageSize="1790336" />
+    <Page Image="56" ImageSize="1238927" />
+    <Page Image="57" ImageSize="1727386" />
+    <Page Image="58" ImageSize="1273624" />
+    <Page Image="59" ImageSize="1177148" />
+    <Page Image="60" ImageSize="1361543" />
+    <Page Image="61" ImageSize="1384260" />
+    <Page Image="62" ImageSize="1420688" />
+    <Page Image="63" ImageSize="1324666" />
+    <Page Image="64" ImageSize="1312874" />
+    <Page Image="65" ImageSize="1831123" />
+    <Page Image="66" ImageSize="1182065" />
+    <Page Image="67" ImageSize="1360355" />
+    <Page Image="68" ImageSize="1416499" />
+    <Page Image="69" ImageSize="1510760" />
+    <Page Image="70" ImageSize="1851568" />
+    <Page Image="71" ImageSize="1659137" />
+    <Page Image="72" ImageSize="1738092" />
+    <Page Image="73" ImageSize="1533713" />
+    <Page Image="74" ImageSize="1562667" />
+    <Page Image="75" ImageSize="1435081" />
+    <Page Image="76" ImageSize="1416028" />
+    <Page Image="77" ImageSize="248866" />
+    <Page Image="78" ImageSize="1084482" />
+    <Page Image="79" ImageSize="1378967" />
+    <Page Image="80" ImageSize="1146199" />
+    <Page Image="81" ImageSize="1168024" />
+    <Page Image="82" ImageSize="1751527" />
+    <Page Image="83" ImageSize="1591941" />
+    <Page Image="84" ImageSize="1524407" />
+    <Page Image="85" ImageSize="1472454" />
+    <Page Image="86" ImageSize="1412234" />
+    <Page Image="87" ImageSize="7509394" />
+    <Page Image="88" ImageSize="1360325" />
+    <Page Image="89" ImageSize="1326749" />
+    <Page Image="90" ImageSize="1684907" />
+    <Page Image="91" ImageSize="1452580" />
+    <Page Image="92" ImageSize="1481538" />
+    <Page Image="93" ImageSize="1473724" />
+    <Page Image="94" ImageSize="1438353" />
+    <Page Image="95" ImageSize="1073077" />
+    <Page Image="96" ImageSize="7064878" />
+    <Page Image="97" ImageSize="1178735" />
+    <Page Image="98" ImageSize="1113333" />
+    <Page Image="99" ImageSize="183605" />
+    <Page Image="100" ImageSize="1229937" />
+    <Page Image="101" ImageSize="981778" />
+    <Page Image="102" ImageSize="918541" />
+    <Page Image="103" ImageSize="1243108" />
+    <Page Image="104" ImageSize="1816983" />
+    <Page Image="105" ImageSize="1637683" />
+    <Page Image="106" ImageSize="1462441" />
+    <Page Image="107" ImageSize="1440108" />
+    <Page Image="108" ImageSize="1438653" />
+    <Page Image="109" ImageSize="1395447" />
+    <Page Image="110" ImageSize="1462989" />
+    <Page Image="111" ImageSize="1211786" />
+    <Page Image="112" ImageSize="1395436" />
+    <Page Image="113" ImageSize="1293693" />
+    <Page Image="114" ImageSize="1461142" />
+    <Page Image="115" ImageSize="1247656" />
+    <Page Image="116" ImageSize="1367583" />
+    <Page Image="117" ImageSize="941208" />
+    <Page Image="118" ImageSize="1269968" />
+    <Page Image="119" ImageSize="1641326" />
+    <Page Image="120" ImageSize="1356198" />
+    <Page Image="121" ImageSize="906877" />
+    <Page Image="122" ImageSize="678597" />
+    <Page Image="123" ImageSize="741853" />
+    <Page Image="124" ImageSize="622944" />
+    <Page Image="125" ImageSize="1025740" />
+    <Page Image="126" ImageSize="812283" />
+    <Page Image="127" ImageSize="981645" />
+    <Page Image="128" ImageSize="1240673" />
+    <Page Image="129" ImageSize="5818905" />
+    <Page Image="130" ImageSize="1778163" />
+    <Page Image="131" ImageSize="1187605" />
+    <Page Image="132" ImageSize="1397156" />
+    <Page Image="133" ImageSize="1472337" />
+    <Page Image="134" ImageSize="1361366" />
+    <Page Image="135" ImageSize="846883" />
+    <Page Image="136" ImageSize="877928" />
+    <Page Image="137" ImageSize="814385" />
+    <Page Image="138" ImageSize="1015390" />
+    <Page Image="139" ImageSize="761775" />
+    <Page Image="140" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Laurence Campbell,Tim Sale</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>B.P.R.D.: The Devil You Know</Series>
+  <Summary>Before they were vanquished by the B.P.R.D., Lovecraftian monsters created a Hell on Earth. As society rebuilds, strange cults vie for influence, and the demon Varvara emerges to lead the way . . . Abe Sapien returns from his self-imposed exile to rejoin Liz Sherman just in time for the Bureau to face the final threat to mankind. Collects issues #1-#4.
+
+Note: The solicit for this collection incorrectly lists #1-4 when it collects #1-5 as well as Broken Vessels from the Hellboy Winter Special 2016.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-24 10:28:34.  [Issue ID 665867]
+
+https://comicvine.gamespot.com/bprd-the-devil-you-know-1-volume-1-messiah/4000-665867/</Summary>
+  <Tags>Varvara,Abe Sapien,Elizabeth Sherman,Bureau for Paranormal Research and Defense</Tags>
+  <Teams>Bureau for Paranormal Research and Defense</Teams>
+  <Title>Messiah</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/bprd-the-devil-you-know-1-volume-1-messiah/4000-665867/</Web>
+  <Writer>Mike Mignola,Scott Allie</Writer>
+  <Year>2018</Year>
+  <Format>Collection</Format>
+</ComicInfo>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Format>Series</Format>
+  <Genre>Superhero</Genre>
+  <Inker>Michael Keller</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-11-13T17:15:21</Notes>
+  <Number>4</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3816" ImageSize="2418443" ImageWidth="2466" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3816" ImageSize="2483283" ImageWidth="2466" />
+    <Page DoublePage="False" Image="2" ImageHeight="3816" ImageSize="1533252" ImageWidth="2466" />
+    <Page DoublePage="False" Image="3" ImageHeight="3816" ImageSize="1362797" ImageWidth="2466" />
+    <Page DoublePage="False" Image="4" ImageHeight="3816" ImageSize="1498221" ImageWidth="2466" />
+    <Page DoublePage="False" Image="5" ImageHeight="3816" ImageSize="1415094" ImageWidth="2466" />
+    <Page DoublePage="False" Image="6" ImageHeight="3816" ImageSize="1498826" ImageWidth="2466" />
+    <Page DoublePage="False" Image="7" ImageHeight="3816" ImageSize="1366090" ImageWidth="2466" />
+    <Page DoublePage="False" Image="8" ImageHeight="3816" ImageSize="1747356" ImageWidth="2466" />
+    <Page DoublePage="False" Image="9" ImageHeight="3816" ImageSize="1797961" ImageWidth="2466" />
+    <Page DoublePage="False" Image="10" ImageHeight="3816" ImageSize="1300510" ImageWidth="2466" />
+    <Page DoublePage="False" Image="11" ImageHeight="3816" ImageSize="1408763" ImageWidth="2466" />
+    <Page DoublePage="False" Image="12" ImageHeight="3816" ImageSize="1459932" ImageWidth="2466" />
+    <Page DoublePage="False" Image="13" ImageHeight="3816" ImageSize="1369733" ImageWidth="2466" />
+    <Page DoublePage="False" Image="14" ImageHeight="3816" ImageSize="1830389" ImageWidth="2466" />
+    <Page DoublePage="False" Image="15" ImageHeight="3816" ImageSize="1690608" ImageWidth="2466" />
+    <Page DoublePage="False" Image="16" ImageHeight="3816" ImageSize="1461167" ImageWidth="2466" />
+    <Page DoublePage="False" Image="17" ImageHeight="3816" ImageSize="2160378" ImageWidth="2466" />
+    <Page DoublePage="False" Image="18" ImageHeight="3816" ImageSize="1756920" ImageWidth="2466" />
+    <Page DoublePage="False" Image="19" ImageHeight="3816" ImageSize="1330226" ImageWidth="2466" />
+    <Page DoublePage="False" Image="20" ImageHeight="3816" ImageSize="1205193" ImageWidth="2466" />
+    <Page DoublePage="False" Image="21" ImageHeight="3816" ImageSize="1589013" ImageWidth="2466" />
+    <Page DoublePage="False" Image="22" ImageHeight="3816" ImageSize="1692968" ImageWidth="2466" />
+  </Pages>
+  <Penciller>Vhon Remot</Penciller>
+  <Publisher>4th Wall Productions</Publisher>
+  <Series>Aceblade</Series>
+  <Volume>2014</Volume>
+  <Writer>Christoph Hollars</Writer>
+  <Summary>The showdown between Aceblade and Gutshot is upon us. Will Terrell get his revenge or will Gutshot continue his corruption in Vegas City?</Summary>
+  <Month>5</Month>
+  <Year>2018</Year>
+</ComicInfo>

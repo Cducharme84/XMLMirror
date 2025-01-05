@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>John Henry</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-366202</GTIN>
+	<Inker>Dwayne Harris</Inker>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:51:52 [Issue ID 4000-366202] urn:comicvine:4000-366202</Notes>
+	<Number>2</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="445434" Type="FrontCover"/>
+		<Page Image="1" ImageSize="284680"/>
+		<Page Image="2" ImageSize="397846"/>
+		<Page Image="3" ImageSize="446230"/>
+		<Page Image="4" ImageSize="470311"/>
+		<Page Image="5" ImageSize="411177"/>
+		<Page Image="6" ImageSize="406495"/>
+		<Page Image="7" ImageSize="554473"/>
+		<Page Image="8" ImageSize="492260"/>
+		<Page Image="9" ImageSize="452948"/>
+		<Page Image="10" ImageSize="472504"/>
+		<Page Image="11" ImageSize="510048"/>
+		<Page Image="12" ImageSize="448263"/>
+		<Page Image="13" ImageSize="426300"/>
+		<Page Image="14" ImageSize="390688"/>
+		<Page Image="15" ImageSize="388134"/>
+		<Page Image="16" ImageSize="516473"/>
+		<Page Image="17" ImageSize="386299"/>
+		<Page Image="18" ImageSize="431257"/>
+		<Page Image="19" ImageSize="363680"/>
+		<Page Image="20" ImageSize="374154"/>
+		<Page Image="21" ImageSize="465650"/>
+		<Page Image="22" ImageSize="463119"/>
+		<Page Image="23" ImageSize="401922"/>
+		<Page Image="24" ImageSize="431360"/>
+		<Page Image="25" ImageSize="432693"/>
+	</Pages>
+	<Penciller>Dwayne Harris</Penciller>
+	<Publisher>Arcana Studio</Publisher>
+	<Series>John Henry</Series>
+	<Summary>https://comicvine.gamespot.com/john-henry-2/4000-366202/</Summary>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/john-henry-2/4000-366202/</Web>
+	<Writer>Dwayne Harris</Writer>
+	<Year>2012</Year>
+</ComicInfo>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Black Pete,Donald Duck,Goofy,Mickey Mouse,Pluto</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-202601</GTIN>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:45:03 [Issue ID 4000-202601] urn:comicvine:4000-202601</Notes>
+	<Number>3</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="624218" Type="FrontCover"/>
+		<Page Image="1" ImageSize="707269"/>
+		<Page Image="2" ImageSize="664133"/>
+		<Page Image="3" ImageSize="998627"/>
+		<Page Image="4" ImageSize="778794"/>
+		<Page Image="5" ImageSize="869064"/>
+		<Page Image="6" ImageSize="856818"/>
+		<Page Image="7" ImageSize="945156"/>
+		<Page Image="8" ImageSize="848948"/>
+		<Page Image="9" ImageSize="863844"/>
+		<Page Image="10" ImageSize="800776"/>
+		<Page Image="11" ImageSize="848698"/>
+		<Page Image="12" ImageSize="1011444"/>
+		<Page Image="13" ImageSize="854087"/>
+		<Page Image="14" ImageSize="792650"/>
+		<Page Image="15" ImageSize="874487"/>
+		<Page Image="16" ImageSize="865322"/>
+		<Page Image="17" ImageSize="893828"/>
+		<Page Image="18" ImageSize="816411"/>
+		<Page Image="19" ImageSize="758818"/>
+		<Page Image="20" ImageSize="797673"/>
+		<Page Image="21" ImageSize="814407"/>
+		<Page Image="22" ImageSize="845064"/>
+		<Page Image="23" ImageSize="793930"/>
+		<Page Image="24" ImageSize="804605"/>
+		<Page Image="25" ImageSize="776439"/>
+		<Page Image="26" ImageSize="147819"/>
+		<Page Image="27" ImageSize="404582"/>
+	</Pages>
+	<Publisher>Boom! Studios</Publisher>
+	<Series>Wizards of Mickey</Series>
+	<Summary>When one of their eggs goes missing, the dragons of the realm declare war on the "scaleless." The situation looks dire, but leave it to the brave wizard Mickey Mouse and his sorcerer companions to seek out the eggs before mayhem can break loose. The odds are stacked against our heroes, but Goofy may have something up his sleeve to turn the tide!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-06 16:42:02.  [CVDB202601]
+
+https://comicvine.gamespot.com/wizards-of-mickey-3-part-7/4000-202601/</Summary>
+	<Tags>Beagle Boys,Black Pete,Donald Duck,Goofy,Mickey Mouse,Pluto</Tags>
+	<Teams>Beagle Boys</Teams>
+	<Title>Part 7</Title>
+	<Volume>2010</Volume>
+	<Web>https://comicvine.gamespot.com/wizards-of-mickey-3-part-7/4000-202601/</Web>
+	<Year>2010</Year>
+</ComicInfo>

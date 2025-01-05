@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Wile E. Coyote,James Gordon,Grumpy,Pikachu,Sandy Cheeks,Stewie Griffin,Pinocchio,Wanda,Huey Freeman,Hot Dog Princess,Bob Oblong,Scooby-Doo,Michelle Obama,Kim Kardashian,Dino,Batman,The Cat in the Hat,Arthur Read,Phineas,Captain Nice,Spider-Man,Gumby,George Jetson,Bo Obama,Mandy Patinkin,Jake,Simon,Lois Griffin,Elroy Jetson,Greased-Up Deaf Guy,Lumpy Space Princess,Happy,Peppermint Butler,Gunter,Michael Jackson,Patrick Star,Seth Green,Belle,Sneezy,BMO,Vladimir Putin,Gingerbread Man,Lighter Side Doctor,Bazooka Joe,Marie Antoinette,Rosie The Robot,Stan Smith,Lady Rainicorn,Alvin,Judy Jetson,Sid,Road Runner,Cosmo,Dean Winchester,Mickey Mouse,Larry the Cable Guy,Donkey,Dexter,Mr. Magoo,Adele,Dan Quayle,Hank Hill,Annoying Orange,Malia Obama,Shrek,Richard Nixon,Finn,Sleepy,Minnie Mouse,Rémy,Sam Winchester,Master Shake,Astro,White Spy,The Grinch,Meatwad,Beavis,Ice King,Old Yeller,Rodrick Heffley,Dexter's Mom,Theodore,Gary Busey,Jake Tucker,Dopey,Keith Richards,Alfred E. Neuman,Walter White,Ferb,Mick Jagger,Meg Griffin,Frylock,Peter Griffin,Timmy Turner,Boo Boo Bear,Fred Flintstone,Greg Heffley,Fiona,Doc,Bart Simpson,Bashful,Doc McStuffins,Not Me,Daphne Blake,Donald Trump,Alana Thompson,Homer Simpson,Sasha Obama,Riley Freeman,Barack Obama,Black Spy,Gromit,Shaggy,Herbert,Tree Trunks,SpongeBob SquarePants,Wallace,Ivanka Trump,Fred Jones,Dora the Explorer,Snail,Butt-Head,Tow Mater,Puss-in-Boots,Jane Jetson,Slime Princess,Dexter's Dad,Velma Dinkley,Tyrion Lannister,Taylor Swift</Characters>
+  <Colorist>Tom Luth,Carl Peterson,Tom Luth,Peter Kuper,Sarah Dyer</Colorist>
+  <Editor>Charlie Kadau,Dave Croatto,Jacob Lambert,Joe Raiola,John Ficarra</Editor>
+  <GTIN>urn:comicvine:4000-387585</GTIN>
+  <Inker>Al Jaffee,Christopher Baldwin,David DeGrand,Evan Dorkin,Hermann Mejia,Jason Yungbluth,John Caldwell,Kevin Pope,Leonardo Rodriguez,P. C. Vey,Paul Coker,Peter Bagge,Peter Kuper,Phil McAndrew,Rick Tulka,Sarah Dyer,Sergio Aragonés,Tom Bunk,Tom Cheney,Tom Hart,Tom Richmond,Ward Sutton,Tom Cheney,Rick Tulka,Brian Gordon,David DeGrand,Kenny Keil,Tom Hart,Noah Van Sciver,Nate Fakes,Christopher Baldwin,Scott Nickel,Lance Hansen,Ward Sutton,Sergio Aragonés,John Caldwell,Peter Kuper,Tom Richmond,Peter Bagge,Anton Emdin,Hermann Mejia,Charles Akins,Jason Yungbluth,Paul Coker,Ty Templeton,Evan Dorkin,P. C. Vey,Kevin Pope,Tim Haggerty,Leonardo Rodriguez,Phil McAndrew</Inker>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:19:49 [Issue ID 4000-387585] urn:comicvine:4000-387585
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 23:47:46. [Issue ID 1133597]</Notes>
+  <Number>520</Number>
+  <PageCount>48</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2168" ImageSize="989790" ImageWidth="1680" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2161" ImageSize="873088" ImageWidth="1680" />
+    <Page Image="2" ImageHeight="2155" ImageSize="1131585" ImageWidth="1680" />
+    <Page Image="3" ImageHeight="2196" ImageSize="888368" ImageWidth="1680" />
+    <Page Image="4" ImageHeight="2180" ImageSize="1186719" ImageWidth="1680" />
+    <Page Image="5" ImageHeight="2161" ImageSize="1226042" ImageWidth="1680" />
+    <Page Image="6" ImageHeight="2165" ImageSize="1044381" ImageWidth="1680" />
+    <Page Image="7" ImageHeight="2169" ImageSize="1183301" ImageWidth="1680" />
+    <Page Image="8" ImageHeight="2183" ImageSize="1051895" ImageWidth="1680" />
+    <Page Image="9" ImageHeight="2151" ImageSize="2465673" ImageWidth="3360" />
+    <Page Image="10" ImageHeight="2149" ImageSize="2215786" ImageWidth="3360" />
+    <Page Image="11" ImageHeight="2156" ImageSize="1109513" ImageWidth="1680" />
+    <Page Image="12" ImageHeight="2189" ImageSize="1092829" ImageWidth="1680" />
+    <Page Image="13" ImageHeight="2161" ImageSize="1071880" ImageWidth="1680" />
+    <Page Image="14" ImageHeight="2172" ImageSize="1137996" ImageWidth="1680" />
+    <Page Image="15" ImageHeight="2154" ImageSize="1156908" ImageWidth="1680" />
+    <Page Image="16" ImageHeight="2155" ImageSize="1159799" ImageWidth="1680" />
+    <Page Image="17" ImageHeight="2165" ImageSize="1202487" ImageWidth="1680" />
+    <Page Image="18" ImageHeight="2168" ImageSize="1118349" ImageWidth="1680" />
+    <Page Image="19" ImageHeight="2178" ImageSize="1101697" ImageWidth="1680" />
+    <Page Image="20" ImageHeight="2176" ImageSize="1106718" ImageWidth="1680" />
+    <Page Image="21" ImageHeight="2166" ImageSize="2054149" ImageWidth="3360" />
+    <Page Image="22" ImageHeight="3360" ImageSize="2101754" ImageWidth="2162" />
+    <Page Image="23" ImageHeight="2164" ImageSize="2393463" ImageWidth="3360" />
+    <Page Image="24" ImageHeight="2168" ImageSize="3760938" ImageWidth="3360" />
+    <Page Image="25" ImageHeight="2165" ImageSize="2233679" ImageWidth="3360" />
+    <Page Image="26" ImageHeight="2170" ImageSize="2120939" ImageWidth="3360" />
+    <Page Image="27" ImageHeight="2173" ImageSize="2717674" ImageWidth="3360" />
+    <Page Image="28" ImageHeight="2173" ImageSize="2723461" ImageWidth="3360" />
+    <Page Image="29" ImageHeight="2173" ImageSize="2512060" ImageWidth="3360" />
+    <Page Image="30" ImageHeight="3360" ImageSize="2431895" ImageWidth="2195" />
+    <Page Image="31" ImageHeight="2183" ImageSize="1054015" ImageWidth="1680" />
+    <Page Image="32" ImageHeight="2174" ImageSize="1156518" ImageWidth="1680" />
+    <Page Image="33" ImageHeight="2166" ImageSize="1073209" ImageWidth="1680" />
+    <Page Image="34" ImageHeight="2185" ImageSize="1172558" ImageWidth="1680" />
+    <Page Image="35" ImageHeight="2193" ImageSize="1145069" ImageWidth="1680" />
+    <Page Image="36" ImageHeight="2168" ImageSize="1018002" ImageWidth="1680" />
+    <Page Image="37" ImageHeight="2172" ImageSize="1054931" ImageWidth="1680" />
+    <Page Image="38" ImageHeight="2170" ImageSize="1042473" ImageWidth="1680" />
+    <Page Image="39" ImageHeight="2197" ImageSize="1141643" ImageWidth="1680" />
+    <Page Image="40" ImageHeight="2171" ImageSize="1183070" ImageWidth="1680" />
+    <Page Image="41" ImageHeight="2156" ImageSize="2417980" ImageWidth="3360" />
+    <Page Image="42" ImageHeight="2182" ImageSize="2013201" ImageWidth="3360" />
+    <Page Image="43" ImageHeight="2155" ImageSize="1085738" ImageWidth="1680" />
+    <Page Image="44" ImageHeight="2157" ImageSize="1189038" ImageWidth="1680" />
+    <Page Image="45" ImageHeight="2157" ImageSize="586796" ImageWidth="1680" />
+    <Page Image="46" ImageHeight="2147" ImageSize="1885914" ImageWidth="1680" />
+    <Page Image="47" ImageSize="181286" />
+  </Pages>
+  <Penciller>Al Jaffee,Christopher Baldwin,David DeGrand,Evan Dorkin,Hermann Mejia,Jason Yungbluth,John Caldwell,Kevin Pope,Leonardo Rodriguez,P. C. Vey,Paul Coker,Peter Bagge,Peter Kuper,Phil McAndrew,Rick Tulka,Sarah Dyer,Sergio Aragonés,Tom Bunk,Tom Cheney,Tom Hart,Tom Richmond,Ward Sutton,Tom Cheney,Rick Tulka,Brian Gordon,David DeGrand,Kenny Keil,Tom Hart,Noah Van Sciver,Nate Fakes,Christopher Baldwin,Scott Nickel,Lance Hansen,Ward Sutton,Sergio Aragonés,John Caldwell,Peter Kuper,Tom Richmond,Peter Bagge,Anton Emdin,Hermann Mejia,Charles Akins,Jason Yungbluth,Paul Coker,Ty Templeton,Evan Dorkin,P. C. Vey,Kevin Pope,Tim Haggerty,Leonardo Rodriguez,Phil McAndrew</Penciller>
+  <Publisher>EC</Publisher>
+  <ScanInformation>[EC]  (Scalliwags)</ScanInformation>
+  <Series>Mad</Series>
+  <Summary>The Black Spy's paint brings whatever he creates to life.</Summary>
+  <Tags>Wile E. Coyote,James Gordon,Grumpy,Pikachu,Sandy Cheeks,Stewie Griffin,Pinocchio,Wanda,Huey Freeman,Hot Dog Princess,Bob Oblong,Scooby-Doo,Michelle Obama,Kim Kardashian,Dino,Batman,The Cat in the Hat,Arthur Read,Phineas,Captain Nice,Spider-Man,Mystery,Griffin Family,Gumby,George Jetson,Bo Obama,Mandy Patinkin,Jake,Simon,The Rolling Stones,Lois Griffin,Elroy Jetson,Greased-Up Deaf Guy,Lumpy Space Princess,Happy,Peppermint Butler,Gunter,Michael Jackson,Patrick Star,Seth Green,Belle,Sneezy,BMO,Vladimir Putin,Zombies,Gingerbread Man,Lighter Side Doctor,Bazooka Joe,Marie Antoinette,Rosie The Robot,Stan Smith,Lady Rainicorn,Alvin,Judy Jetson,Sid,Road Runner,Cosmo,Dean Winchester,Mickey Mouse,Larry the Cable Guy,Donkey,Dexter,Mr. Magoo,Adele,Dan Quayle,Hank Hill,Annoying Orange,Malia Obama,Shrek,Richard Nixon,Finn,Sleepy,Minnie Mouse,Rémy,Sam Winchester,Master Shake,Astro,White Spy,The Grinch,Meatwad,Beavis,Ice King,Old Yeller,Rodrick Heffley,Dexter's Mom,Theodore,Gary Busey,Jake Tucker,Dopey,Keith Richards,Alfred E. Neuman,Walter White,Ferb,Mick Jagger,Meg Griffin,Frylock,Peter Griffin,Timmy Turner,Boo Boo Bear,Fred Flintstone,Greg Heffley,Fiona,Doc,Bart Simpson,Bashful,Doc McStuffins,Not Me,Daphne Blake,Seven Dwarfs,Donald Trump,Alana Thompson,Homer Simpson,Sasha Obama,Riley Freeman,Barack Obama,Black Spy,Gromit,Shaggy,Herbert,Tree Trunks,SpongeBob SquarePants,Inc.,Wallace,Ivanka Trump,Fred Jones,Dora the Explorer,Snail,Butt-Head,Tow Mater,Puss-in-Boots,Jane Jetson,Slime Princess,Dexter's Dad,Velma Dinkley,Tyrion Lannister,Taylor Swift,Aqua Teen Hunger Force</Tags>
+  <Teams>Mystery,Zombies,Griffin Family,Seven Dwarfs,Inc.,Aqua Teen Hunger Force,The Rolling Stones</Teams>
+  <Title>Frequently Overlooked Benefits of Being a Zombie; Spin Doctors for the Rest of Us; The Strip Club; Phrases That Left the English Language in 2012; A Mad Look at Washington; You've Hired the Wrong Life Coach If...; Spy vs. Spy; Honey Boo-Boo's Family Circus; The 50 Worst Things about Cartoons</Title>
+  <Volume>1952</Volume>
+  <Web>https://comicvine.gamespot.com/mad-520-the-50-worst-things-about-cartoons/4000-387585/</Web>
+  <Writer>Al Jaffee,Christopher Baldwin,Desmond Devlin,Dick Debartolo,Frank Santopadre,Jason Yungbluth,Jeff Kruse,John Caldwell,P. C. Vey,Peter Kuper,Scott Maiko,Sergio Aragonés,Tim Carvell,Tom Bunk,Tom Cheney,Tom Cheney,Desmond Devlin,Brian Gordon,Matt Lassen,Kenny Keil,Noah Van Sciver,Nate Fakes,Christopher Baldwin,Kit Lively,Lance Hansen,Sergio Aragonés,John Caldwell,Peter Kuper,Frank Santopadre,Jeff Kruse,Scott Maiko,Jason Yungbluth,P. C. Vey,Dick DeBartolo,Tim Haggerty</Writer>
+  <Year>2013</Year>
+  <Count>550</Count>
+  <Genre>Humor,Satire-parody</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Brian Gordon,David DeGrand,Kenny Keil,Tom Hart,Noah Van Sciver,Nate Fakes,Christopher Baldwin,Scott Nickel,Lance Hansen,Sergio Aragonés,John Caldwell,Tom Richmond</Letterer>
+</ComicInfo>

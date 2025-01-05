@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Mirror Morgan,Stiletto,Don Barbieri,Mike Fallon [Accident Man],Eric Raval</Characters>
+  <Editor>Steve White</Editor>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-444068</GTIN>
+  <Inker>Duke Mighten,John Erasmus,Martin Emond,Duke Mighten,John Erasmus,Martin Emond</Inker>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:30:16 [Issue ID 4000-444068] urn:comicvine:4000-444068
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 07:27:53. [Issue ID 1969354]</Notes>
+  <Number>1</Number>
+  <PageCount>235</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2116449" Type="FrontCover" />
+    <Page Image="1" ImageSize="4014995" />
+    <Page Image="2" ImageSize="309551" />
+    <Page Image="3" ImageSize="1208871" />
+    <Page Image="4" ImageSize="689714" />
+    <Page Image="5" ImageSize="1456849" />
+    <Page Image="6" ImageSize="1163937" />
+    <Page Image="7" ImageSize="195260" />
+    <Page Image="8" ImageSize="2351134" />
+    <Page Image="9" ImageSize="2205556" />
+    <Page Image="10" ImageSize="2710253" />
+    <Page Image="11" ImageSize="2860948" />
+    <Page Image="12" ImageSize="2922459" />
+    <Page Image="13" ImageSize="2946126" />
+    <Page Image="14" ImageSize="2738787" />
+    <Page Image="15" ImageSize="2475850" />
+    <Page Image="16" ImageSize="2648840" />
+    <Page Image="17" ImageSize="2539794" />
+    <Page Image="18" ImageSize="2550308" />
+    <Page Image="19" ImageSize="2557002" />
+    <Page Image="20" ImageSize="2330335" />
+    <Page Image="21" ImageSize="2552397" />
+    <Page Image="22" ImageSize="2844425" />
+    <Page Image="23" ImageSize="2678819" />
+    <Page Image="24" ImageSize="2942924" />
+    <Page Image="25" ImageSize="2685294" />
+    <Page Image="26" ImageSize="2461083" />
+    <Page Image="27" ImageSize="2437622" />
+    <Page Image="28" ImageSize="2634667" />
+    <Page Image="29" ImageSize="2711749" />
+    <Page Image="30" ImageSize="2554879" />
+    <Page Image="31" ImageSize="2565413" />
+    <Page Image="32" ImageSize="3300551" />
+    <Page Image="33" ImageSize="3341957" />
+    <Page Image="34" ImageSize="3203709" />
+    <Page Image="35" ImageSize="3042402" />
+    <Page Image="36" ImageSize="3569484" />
+    <Page Image="37" ImageSize="3584294" />
+    <Page Image="38" ImageSize="3540946" />
+    <Page Image="39" ImageSize="3237257" />
+    <Page Image="40" ImageSize="2789282" />
+    <Page Image="41" ImageSize="3289981" />
+    <Page Image="42" ImageSize="3369088" />
+    <Page Image="43" ImageSize="3152323" />
+    <Page Image="44" ImageSize="3458200" />
+    <Page Image="45" ImageSize="2978340" />
+    <Page Image="46" ImageSize="3042641" />
+    <Page Image="47" ImageSize="3336195" />
+    <Page Image="48" ImageSize="3110537" />
+    <Page Image="49" ImageSize="3790994" />
+    <Page Image="50" ImageSize="3208476" />
+    <Page Image="51" ImageSize="3888371" />
+    <Page Image="52" ImageSize="3058419" />
+    <Page Image="53" ImageSize="3221796" />
+    <Page Image="54" ImageSize="3245094" />
+    <Page Image="55" ImageSize="3099326" />
+    <Page Image="56" ImageSize="2552170" />
+    <Page Image="57" ImageSize="2776602" />
+    <Page Image="58" ImageSize="2596036" />
+    <Page Image="59" ImageSize="2778656" />
+    <Page Image="60" ImageSize="2592745" />
+    <Page Image="61" ImageSize="2834586" />
+    <Page Image="62" ImageSize="2522329" />
+    <Page Image="63" ImageSize="2397918" />
+    <Page Image="64" ImageSize="2503548" />
+    <Page Image="65" ImageSize="2240842" />
+    <Page Image="66" ImageSize="2159806" />
+    <Page Image="67" ImageSize="2301906" />
+    <Page Image="68" ImageSize="2334932" />
+    <Page Image="69" ImageSize="2685522" />
+    <Page Image="70" ImageSize="2470504" />
+    <Page Image="71" ImageSize="2560226" />
+    <Page Image="72" ImageSize="2760637" />
+    <Page Image="73" ImageSize="2568829" />
+    <Page Image="74" ImageSize="2501314" />
+    <Page Image="75" ImageSize="2469996" />
+    <Page Image="76" ImageSize="2100122" />
+    <Page Image="77" ImageSize="2699307" />
+    <Page Image="78" ImageSize="2679480" />
+    <Page Image="79" ImageSize="2733321" />
+    <Page Image="80" ImageSize="2587821" />
+    <Page Image="81" ImageSize="2679584" />
+    <Page Image="82" ImageSize="2706016" />
+    <Page Image="83" ImageSize="2456099" />
+    <Page Image="84" ImageSize="2905413" />
+    <Page Image="85" ImageSize="2560618" />
+    <Page Image="86" ImageSize="2504697" />
+    <Page Image="87" ImageSize="2360322" />
+    <Page Image="88" ImageSize="2568252" />
+    <Page Image="89" ImageSize="2360876" />
+    <Page Image="90" ImageSize="2233488" />
+    <Page Image="91" ImageSize="2295528" />
+    <Page Image="92" ImageSize="2522618" />
+    <Page Image="93" ImageSize="2546016" />
+    <Page Image="94" ImageSize="2364941" />
+    <Page Image="95" ImageSize="2601749" />
+    <Page Image="96" ImageSize="2567249" />
+    <Page Image="97" ImageSize="2475005" />
+    <Page Image="98" ImageSize="2373105" />
+    <Page Image="99" ImageSize="2486918" />
+    <Page Image="100" ImageSize="2285594" />
+    <Page Image="101" ImageSize="2319187" />
+    <Page Image="102" ImageSize="1994039" />
+    <Page Image="103" ImageSize="2540799" />
+    <Page Image="104" ImageSize="2561800" />
+    <Page Image="105" ImageSize="2632652" />
+    <Page Image="106" ImageSize="2222225" />
+    <Page Image="107" ImageSize="2440770" />
+    <Page Image="108" ImageSize="2528969" />
+    <Page Image="109" ImageSize="2306071" />
+    <Page Image="110" ImageSize="2787682" />
+    <Page Image="111" ImageSize="2487555" />
+    <Page Image="112" ImageSize="2360112" />
+    <Page Image="113" ImageSize="2513395" />
+    <Page Image="114" ImageSize="2240972" />
+    <Page Image="115" ImageSize="2251712" />
+    <Page Image="116" ImageSize="2458885" />
+    <Page Image="117" ImageSize="2379350" />
+    <Page Image="118" ImageSize="2552940" />
+    <Page Image="119" ImageSize="2697970" />
+    <Page Image="120" ImageSize="2720403" />
+    <Page Image="121" ImageSize="2551601" />
+    <Page Image="122" ImageSize="2501403" />
+    <Page Image="123" ImageSize="2192172" />
+    <Page Image="124" ImageSize="2428842" />
+    <Page Image="125" ImageSize="2347376" />
+    <Page Image="126" ImageSize="2345975" />
+    <Page Image="127" ImageSize="2222276" />
+    <Page Image="128" ImageSize="2140928" />
+    <Page Image="129" ImageSize="2341211" />
+    <Page Image="130" ImageSize="2585685" />
+    <Page Image="131" ImageSize="2580840" />
+    <Page Image="132" ImageSize="2414842" />
+    <Page Image="133" ImageSize="2496869" />
+    <Page Image="134" ImageSize="2507699" />
+    <Page Image="135" ImageSize="2330158" />
+    <Page Image="136" ImageSize="2242422" />
+    <Page Image="137" ImageSize="2172945" />
+    <Page Image="138" ImageSize="2209345" />
+    <Page Image="139" ImageSize="2191314" />
+    <Page Image="140" ImageSize="2057949" />
+    <Page Image="141" ImageSize="1801047" />
+    <Page Image="142" ImageSize="2190017" />
+    <Page Image="143" ImageSize="2205232" />
+    <Page Image="144" ImageSize="2029942" />
+    <Page Image="145" ImageSize="2376406" />
+    <Page Image="146" ImageSize="2755479" />
+    <Page Image="147" ImageSize="2735709" />
+    <Page Image="148" ImageSize="2549715" />
+    <Page Image="149" ImageSize="2497371" />
+    <Page Image="150" ImageSize="2431971" />
+    <Page Image="151" ImageSize="2378468" />
+    <Page Image="152" ImageSize="1306358" />
+    <Page Image="153" ImageSize="1504450" />
+    <Page Image="154" ImageSize="1373271" />
+    <Page Image="155" ImageSize="1464701" />
+    <Page Image="156" ImageSize="1191300" />
+    <Page Image="157" ImageSize="1127000" />
+    <Page Image="158" ImageSize="1165148" />
+    <Page Image="159" ImageSize="1178872" />
+    <Page Image="160" ImageSize="1449673" />
+    <Page Image="161" ImageSize="1622818" />
+    <Page Image="162" ImageSize="1692463" />
+    <Page Image="163" ImageSize="1612751" />
+    <Page Image="164" ImageSize="1465989" />
+    <Page Image="165" ImageSize="1381174" />
+    <Page Image="166" ImageSize="1184094" />
+    <Page Image="167" ImageSize="1072783" />
+    <Page Image="168" ImageSize="1255219" />
+    <Page Image="169" ImageSize="1190099" />
+    <Page Image="170" ImageSize="1108794" />
+    <Page Image="171" ImageSize="1177152" />
+    <Page Image="172" ImageSize="1271890" />
+    <Page Image="173" ImageSize="1311755" />
+    <Page Image="174" ImageSize="1639740" />
+    <Page Image="175" ImageSize="1254559" />
+    <Page Image="176" ImageSize="1377118" />
+    <Page Image="177" ImageSize="1196367" />
+    <Page Image="178" ImageSize="1321532" />
+    <Page Image="179" ImageSize="1418088" />
+    <Page Image="180" ImageSize="1416843" />
+    <Page Image="181" ImageSize="1551689" />
+    <Page Image="182" ImageSize="1496786" />
+    <Page Image="183" ImageSize="1415306" />
+    <Page Image="184" ImageSize="1654239" />
+    <Page Image="185" ImageSize="1375267" />
+    <Page Image="186" ImageSize="1514912" />
+    <Page Image="187" ImageSize="1555499" />
+    <Page Image="188" ImageSize="1400079" />
+    <Page Image="189" ImageSize="1461634" />
+    <Page Image="190" ImageSize="1415928" />
+    <Page Image="191" ImageSize="1592184" />
+    <Page Image="192" ImageSize="1353629" />
+    <Page Image="193" ImageSize="1473939" />
+    <Page Image="194" ImageSize="1196884" />
+    <Page Image="195" ImageSize="1244254" />
+    <Page Image="196" ImageSize="1422737" />
+    <Page Image="197" ImageSize="1538921" />
+    <Page Image="198" ImageSize="1424907" />
+    <Page Image="199" ImageSize="1485812" />
+    <Page Image="200" ImageSize="1529092" />
+    <Page Image="201" ImageSize="1585020" />
+    <Page Image="202" ImageSize="1475749" />
+    <Page Image="203" ImageSize="1289933" />
+    <Page Image="204" ImageSize="1263773" />
+    <Page Image="205" ImageSize="1333191" />
+    <Page Image="206" ImageSize="1123051" />
+    <Page Image="207" ImageSize="1453913" />
+    <Page Image="208" ImageSize="1389604" />
+    <Page Image="209" ImageSize="1538122" />
+    <Page Image="210" ImageSize="1710054" />
+    <Page Image="211" ImageSize="1536029" />
+    <Page Image="212" ImageSize="1422484" />
+    <Page Image="213" ImageSize="1466408" />
+    <Page Image="214" ImageSize="1181845" />
+    <Page Image="215" ImageSize="1311515" />
+    <Page Image="216" ImageSize="1540231" />
+    <Page Image="217" ImageSize="1317699" />
+    <Page Image="218" ImageSize="1438268" />
+    <Page Image="219" ImageSize="1296514" />
+    <Page Image="220" ImageSize="1453939" />
+    <Page Image="221" ImageSize="1330698" />
+    <Page Image="222" ImageSize="1380449" />
+    <Page Image="223" ImageSize="1107156" />
+    <Page Image="224" ImageSize="1262907" />
+    <Page Image="225" ImageSize="982764" />
+    <Page Image="226" ImageSize="1412440" />
+    <Page Image="227" ImageSize="4807246" />
+    <Page Image="228" ImageSize="6243024" />
+    <Page Image="229" ImageSize="997307" />
+    <Page Image="230" ImageSize="1096780" />
+    <Page Image="231" ImageSize="1129274" />
+    <Page Image="232" ImageSize="3880231" />
+    <Page Image="233" ImageSize="1220506" />
+    <Page Image="234" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Duke Mighten,John Erasmus,Martin Emond,Duke Mighten,John Erasmus,Martin Emond</Penciller>
+  <Publisher>Titan</Publisher>
+  <ScanInformation>(digital) (DR &amp; Quinch-Empire)</ScanInformation>
+  <Series>The Complete Accident Man</Series>
+  <Summary>Fallon completes his American mission.
+
+Fallon infiltrates the mafia by passing their tests.
+
+Fallon accepts a contract to arrange an accident at a dance performance.
+
+A training session doesn't go to plan.
+
+Accident Man is targetted himself.
+
+Fallon settles things with the person who ordered his ex-wife killed.
+
+Fallon recounts his time studying another Accident Man.
+
+Fallon takes on the guy who hands out the hits.
+
+Accident Man goes after the guys who murdered his ex-wife.
+
+A client tries to welch out of paying Accident Man for the job.
+
+Introduction of an assassin whose speciality is making his hits look like accidents.</Summary>
+  <Title>The Messiah Sting Final Part; The Messiah Sting Part Seven; The Messiah Sting Part Six; The Messiah Sting Part Five; The Messiah Sting Part Four; The Messiah Sting Part Three; Getting Nearer the Sting; Accident Man Meets the Deadlier of the Species; Big Brother Is Watching...; Crocodile Smiles from Accident Man; Party on down with Accident Man; And the Winner Is... Accident Man; The Final Conflict; Confessions of a Teenage Sociopath; Meet Clive, the "Reverse Midas"...; Murder, Martial Arts and Heavy Metal Mania; Last Exit to Oblivion; Stylophile and Professional Assassin</Title>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/the-complete-accident-man-1-hc/4000-444068/</Web>
+  <Writer>Pat Mills,Tony Skinner,Pat Mills,Tony Skinner</Writer>
+  <Year>2014</Year>
+  <Count>1</Count>
+  <Genre>Adventure,Crime</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Colorist>John Erasmus,Duke Mighten,Martin Emond</Colorist>
+  <Letterer>Ellie de Ville,Péricles</Letterer>
+</ComicInfo>

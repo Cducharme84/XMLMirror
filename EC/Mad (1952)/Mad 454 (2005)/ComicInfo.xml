@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Nearly Headless Nick,Han Solo,Qui-Gon Jinn,Rob Reiner,Obi-Wan Kenobi,Egon Spengler,Slimer,Alfred E. Neuman,Monroe,Steven Spielberg,Yoda,Peter Venkman,Jack Bauer,George Lucas,C-3PO,Black Spy,Grey Spy,Batman,Aayla Secura,Bitterman,Rachel Dawes,Senator Bail Organa,Emperor Palpatine,Mace Windu,Francis Ford Coppola,Martha Stewart,Casper,Tion Medon,Chewbacca,Patrick Star,Peter Jackson,Ben Affleck,Greedo,Johnny Carson,Ki-Adi-Mundi,Padmé Amidala,Saddam Hussein,White Spy,John Kerry,Beetlejuice,Darth Vader,SpongeBob SquarePants,Ray Stantz</Characters>
+  <Colorist>Al Jaffee,Drew Friedman,Hermann Mejia,Mark Fredrickson,Peter Kuper,Sarah Dyer,Tom Richmond</Colorist>
+  <Day>10</Day>
+  <Editor>John Ficarra</Editor>
+  <GTIN>urn:comicvine:4000-129288</GTIN>
+  <Inker>Al Jaffee,Bill Wray,Drew Friedman,Evan Dorkin,Hermann Mejia,John Caldwell,Mark Fredrickson,Paul Coker,Peter Kuper,Sam Sisco,Sergio Aragonés,Ted Rall,Tom Richmond</Inker>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:19:44 [Issue ID 4000-129288] urn:comicvine:4000-129288
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 04:12:44. [Issue ID 246120]</Notes>
+  <Number>454</Number>
+  <PageCount>52</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1500" ImageSize="559116" ImageWidth="1165" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1500" ImageSize="308326" ImageWidth="1150" />
+    <Page Image="2" ImageHeight="1500" ImageSize="553865" ImageWidth="1145" />
+    <Page Image="3" ImageHeight="1500" ImageSize="627233" ImageWidth="1148" />
+    <Page Image="4" ImageHeight="1500" ImageSize="597804" ImageWidth="1162" />
+    <Page Image="5" ImageHeight="1500" ImageSize="695284" ImageWidth="1154" />
+    <Page Image="6" ImageHeight="1500" ImageSize="506117" ImageWidth="1142" />
+    <Page Image="7" ImageHeight="1500" ImageSize="685535" ImageWidth="1158" />
+    <Page Image="8" ImageHeight="1500" ImageSize="534083" ImageWidth="1134" />
+    <Page Image="9" ImageHeight="1500" ImageSize="508062" ImageWidth="1153" />
+    <Page Image="10" ImageHeight="1500" ImageSize="612559" ImageWidth="1154" />
+    <Page Image="11" ImageHeight="1500" ImageSize="627044" ImageWidth="1158" />
+    <Page Image="12" ImageHeight="1500" ImageSize="405654" ImageWidth="1145" />
+    <Page Image="13" ImageHeight="1488" ImageSize="1340977" ImageWidth="2295" />
+    <Page Image="14" ImageHeight="1485" ImageSize="1236791" ImageWidth="2286" />
+    <Page Image="15" ImageHeight="1485" ImageSize="1312640" ImageWidth="2262" />
+    <Page Image="16" ImageHeight="1500" ImageSize="526581" ImageWidth="1157" />
+    <Page Image="17" ImageHeight="1500" ImageSize="532927" ImageWidth="1128" />
+    <Page Image="18" ImageHeight="1500" ImageSize="583606" ImageWidth="1154" />
+    <Page Image="19" ImageHeight="1500" ImageSize="570098" ImageWidth="1145" />
+    <Page Image="20" ImageHeight="1500" ImageSize="696562" ImageWidth="1150" />
+    <Page Image="21" ImageHeight="1500" ImageSize="670138" ImageWidth="1146" />
+    <Page Image="22" ImageHeight="1500" ImageSize="587701" ImageWidth="1153" />
+    <Page Image="23" ImageHeight="1500" ImageSize="585884" ImageWidth="1154" />
+    <Page Image="24" ImageHeight="1500" ImageSize="532971" ImageWidth="1150" />
+    <Page Image="25" ImageHeight="1500" ImageSize="521574" ImageWidth="1151" />
+    <Page Image="26" ImageHeight="1500" ImageSize="1026992" ImageWidth="2311" />
+    <Page Image="27" ImageHeight="1500" ImageSize="596757" ImageWidth="1119" />
+    <Page Image="28" ImageHeight="1500" ImageSize="696937" ImageWidth="1143" />
+    <Page Image="29" ImageHeight="1500" ImageSize="1443077" ImageWidth="2297" />
+    <Page Image="30" ImageHeight="1500" ImageSize="653337" ImageWidth="1143" />
+    <Page Image="31" ImageHeight="1500" ImageSize="562380" ImageWidth="1153" />
+    <Page Image="32" ImageHeight="1504" ImageSize="1437222" ImageWidth="2300" />
+    <Page Image="33" ImageHeight="1500" ImageSize="710348" ImageWidth="1150" />
+    <Page Image="34" ImageHeight="1500" ImageSize="709004" ImageWidth="1146" />
+    <Page Image="35" ImageHeight="1502" ImageSize="1091078" ImageWidth="2304" />
+    <Page Image="36" ImageHeight="1500" ImageSize="571181" ImageWidth="1150" />
+    <Page Image="37" ImageHeight="1500" ImageSize="653529" ImageWidth="1163" />
+    <Page Image="38" ImageHeight="1500" ImageSize="721673" ImageWidth="1151" />
+    <Page Image="39" ImageHeight="1500" ImageSize="673855" ImageWidth="1145" />
+    <Page Image="40" ImageHeight="1500" ImageSize="706472" ImageWidth="1139" />
+    <Page Image="41" ImageHeight="1500" ImageSize="593899" ImageWidth="1153" />
+    <Page Image="42" ImageHeight="1505" ImageSize="1328072" ImageWidth="2295" />
+    <Page Image="43" ImageHeight="1515" ImageSize="1284745" ImageWidth="2277" />
+    <Page Image="44" ImageHeight="1500" ImageSize="697502" ImageWidth="1155" />
+    <Page Image="45" ImageHeight="1500" ImageSize="323693" ImageWidth="1153" />
+    <Page Image="46" ImageHeight="1516" ImageSize="980937" ImageWidth="2293" />
+    <Page Image="47" ImageHeight="1500" ImageSize="728557" ImageWidth="1145" />
+    <Page Image="48" ImageHeight="1500" ImageSize="684600" ImageWidth="1160" />
+    <Page Image="49" ImageHeight="1500" ImageSize="309140" ImageWidth="564" />
+    <Page Image="50" ImageHeight="1500" ImageSize="459407" ImageWidth="1154" />
+    <Page Image="51" ImageSize="63534" />
+  </Pages>
+  <Penciller>Al Jaffee,Bill Wray,Drew Friedman,Evan Dorkin,Hermann Mejia,John Caldwell,Mark Fredrickson,Paul Coker,Peter Kuper,Sam Sisco,Sergio Aragonés,Ted Rall,Tom Richmond</Penciller>
+  <Publisher>EC</Publisher>
+  <Series>Mad</Series>
+  <Summary>MAD is full of Sith in its special section on Star Wars: Revenge of the Sith, while its skewering of Batman Begins, er, begins! MAD also tosses high heat at the new D.C. baseball team, threatens the cast of FOX's 24 with time-sensitive questions, and predicts the lousy future of NBC's Medium!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-11 23:06:59.  [Issue ID 129288]
+
+https://comicvine.gamespot.com/mad-454-revenge-of-the-sith/4000-129288/</Summary>
+  <Tags>Nearly Headless Nick,Han Solo,Qui-Gon Jinn,Rob Reiner,Obi-Wan Kenobi,Egon Spengler,Slimer,Alfred E. Neuman,Monroe,Ghostbusters,Steven Spielberg,Yoda,Peter Venkman,Jack Bauer,George Lucas,C-3PO,Black Spy,Grey Spy,Batman,Aayla Secura,Bitterman,Rachel Dawes,Senator Bail Organa,Emperor Palpatine,Mace Windu,Francis Ford Coppola,Martha Stewart,Casper,Tion Medon,Chewbacca,Patrick Star,Peter Jackson,Ben Affleck,Greedo,Johnny Carson,Ki-Adi-Mundi,Padmé Amidala,Saddam Hussein,White Spy,John Kerry,Beetlejuice,Darth Vader,SpongeBob SquarePants,Ray Stantz</Tags>
+  <Teams>Ghostbusters</Teams>
+  <Title>Revenge of the Sith</Title>
+  <Volume>1952</Volume>
+  <Web>https://comicvine.gamespot.com/mad-454-revenge-of-the-sith/4000-129288/</Web>
+  <Writer>Al Jaffee,Anthony Barbieri,Butch D'Ambrosio,Desmond Devlin,Dick Debartolo,John Caldwell,Kent Parker,Peter Kuper,Scott Maiko,Sergio Aragonés,Ted Rall</Writer>
+  <Year>2005</Year>
+  <Count>550</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

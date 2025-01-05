@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>John Cain,Pat Amersham</Characters>
+	<Count>6</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-409452</GTIN>
+	<Genre>Crime</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:21:35 [Issue ID 4000-409452] urn:comicvine:4000-409452 urn:grandcomicsdatabase:issue/409452</Notes>
+	<Number>4</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="366049" Type="FrontCover"/>
+		<Page Image="1" ImageSize="263677"/>
+		<Page Image="2" ImageSize="279912"/>
+		<Page Image="3" ImageSize="334682"/>
+		<Page Image="4" ImageSize="272541"/>
+		<Page Image="5" ImageSize="277957"/>
+		<Page Image="6" ImageSize="269350"/>
+		<Page Image="7" ImageSize="242480"/>
+		<Page Image="8" ImageSize="230869"/>
+		<Page Image="9" ImageSize="276027"/>
+		<Page Image="10" ImageSize="238782"/>
+		<Page Image="11" ImageSize="235525"/>
+		<Page Image="12" ImageSize="222990"/>
+		<Page Image="13" ImageSize="272322"/>
+		<Page Image="14" ImageSize="260398"/>
+		<Page Image="15" ImageSize="254688"/>
+		<Page Image="16" ImageSize="262195"/>
+		<Page Image="17" ImageSize="248084"/>
+		<Page Image="18" ImageSize="278174"/>
+		<Page Image="19" ImageSize="263044"/>
+		<Page Image="20" ImageSize="290564"/>
+		<Page Image="21" ImageSize="249308"/>
+		<Page Image="22" ImageSize="272970"/>
+		<Page Image="23" ImageSize="240906"/>
+		<Page Image="24" ImageSize="273601"/>
+		<Page Image="25" ImageSize="298244"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Scars</Series>
+	<Summary>John Cain becomes convinced he has a solid lead on the madman, but his peers think he is reaching at straws. But John is a man on a quest; a quest for a monster.</Summary>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-409452/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2003</Year>
+</ComicInfo>

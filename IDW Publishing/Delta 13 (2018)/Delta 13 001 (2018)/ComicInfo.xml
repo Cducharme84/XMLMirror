@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Editor>David Mariotte</Editor>
+	<GTIN>urn:comicvine:4000-670578</GTIN>
+	<Inker>Nat Jones</Inker>
+	<Letterer>Tom B. Long</Letterer>
+	<Locations>Space</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:58:45 [Issue ID 4000-670578] urn:comicvine:4000-670578</Notes>
+	<Number>1</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1281573" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1309537"/>
+		<Page Image="2" ImageSize="1535252"/>
+		<Page Image="3" ImageSize="1319801"/>
+		<Page Image="4" ImageSize="1201758"/>
+		<Page Image="5" ImageSize="1094366"/>
+		<Page Image="6" ImageSize="1510525"/>
+		<Page Image="7" ImageSize="1209262"/>
+		<Page Image="8" ImageSize="1171979"/>
+		<Page Image="9" ImageSize="1042713"/>
+		<Page Image="10" ImageSize="1087704"/>
+		<Page Image="11" ImageSize="1483698"/>
+		<Page Image="12" ImageSize="1378972"/>
+		<Page Image="13" ImageSize="1295173"/>
+		<Page Image="14" ImageSize="1308520"/>
+		<Page Image="15" ImageSize="535475"/>
+		<Page Image="16" ImageSize="1101359"/>
+		<Page Image="17" ImageSize="974758"/>
+		<Page Image="18" ImageSize="1135402"/>
+		<Page Image="19" ImageSize="931175"/>
+		<Page Image="20" ImageSize="1099157"/>
+		<Page Image="21" ImageSize="1209142"/>
+		<Page Image="22" ImageSize="1434117"/>
+		<Page Image="23" ImageSize="1766369"/>
+		<Page Image="24" ImageSize="1863675"/>
+		<Page Image="25" ImageSize="1619145"/>
+		<Page Image="26" ImageSize="1349337"/>
+		<Page Image="27" ImageSize="1636940"/>
+		<Page Image="28" ImageSize="1594830"/>
+		<Page Image="29" ImageSize="1378858"/>
+		<Page Image="30" ImageSize="936414"/>
+	</Pages>
+	<Penciller>Nat Jones</Penciller>
+	<Publisher>IDW Publishing</Publisher>
+	<Series>Delta 13</Series>
+	<Summary>Who knows what mysteries lie deep in the asteroid belt? When a mysterious, huge, and previously undiscovered asteroid looms over their ship, a small crew of blue-collar workers discovers a terrifying threat unlike anything they’ve ever seen. Now, the crew must escape the asteroid, but even if they do, will they be able to escape each other and anything they bring back with them? 
+
+*List of covers and their creators:*
+ Cover | Name                          | Creator(s) | Sidebar Location |
+--------------------------------------------------------------------
+ Reg   | Regular Cover                 | Nat Jones  | 1                |
+ RI    | 1:10 Retailer Incentive Cover | Nat Jones  | 2                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-14 18:25:49.  [CVDB670578]
+
+https://comicvine.gamespot.com/delta-13-1/4000-670578/</Summary>
+	<Tags>Space</Tags>
+	<Volume>2018</Volume>
+	<Web>https://comicvine.gamespot.com/delta-13-1/4000-670578/</Web>
+	<Writer>Steve Niles</Writer>
+	<Year>2018</Year>
+</ComicInfo>

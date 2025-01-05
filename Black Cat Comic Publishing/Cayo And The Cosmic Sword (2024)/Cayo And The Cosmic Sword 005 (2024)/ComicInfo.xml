@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Format>Series</Format>
+	<GTIN>urn:asin:B0D96JX7QC</GTIN>
+	<Genre>Adventure</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-15T17:47:22 urn:asin:B0D96JX7QC</Notes>
+	<Number>5</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1342234" Type="FrontCover"/>
+		<Page Image="1" ImageSize="997440"/>
+		<Page Image="2" ImageSize="609208"/>
+		<Page Image="3" ImageSize="459899"/>
+		<Page Image="4" ImageSize="597476"/>
+		<Page Image="5" ImageSize="623334"/>
+		<Page Image="6" ImageSize="570964"/>
+		<Page Image="7" ImageSize="505487"/>
+		<Page Image="8" ImageSize="553545"/>
+		<Page Image="9" ImageSize="522099"/>
+		<Page Image="10" ImageSize="600031"/>
+		<Page Image="11" ImageSize="383436"/>
+		<Page Image="12" ImageSize="612154"/>
+		<Page Image="13" ImageSize="558195"/>
+		<Page Image="14" ImageSize="602807"/>
+		<Page Image="15" ImageSize="540913"/>
+		<Page Image="16" ImageSize="787696"/>
+		<Page Image="17" ImageSize="649625"/>
+		<Page Image="18" ImageSize="756331"/>
+		<Page Image="19" ImageSize="933655"/>
+		<Page Image="20" ImageSize="911452"/>
+		<Page Image="21" ImageSize="770889"/>
+		<Page Image="22" ImageSize="222430"/>
+		<Page Image="23" ImageSize="675923"/>
+		<Page Image="24" ImageSize="2150678"/>
+	</Pages>
+	<Publisher>Black Cat Comic Publishing</Publisher>
+	<ScanInformation>The Sloppy Bear-QuantumDeep</ScanInformation>
+	<Series>Cayo And The Cosmic Sword</Series>
+	<Volume>2024</Volume>
+	<Web>https://www.amazon.com/dp/B0D96JX7QC/</Web>
+	<Year>2024</Year>
+</ComicInfo>

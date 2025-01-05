@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>For Mature Readers</AgeRating>
+  <Characters>Jason Voorhees</Characters>
+  <Colorist>Andrew Dalhouse</Colorist>
+  <Count>3</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <Editor>William Christensen</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-130362</GTIN>
+  <Inker>Mike Wolfer</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:24:50 [Issue ID 4000-130362] urn:comicvine:4000-130362 urn:grandcomicsdatabase:issue/807207
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 16:52:14. [Issue ID 807207]</Notes>
+  <Number>3</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="459870" Type="FrontCover" />
+    <Page Image="1" ImageSize="445534" />
+    <Page Image="2" ImageSize="393484" />
+    <Page Image="3" ImageSize="514212" />
+    <Page Image="4" ImageSize="365939" />
+    <Page Image="5" ImageSize="391379" />
+    <Page Image="6" ImageSize="371259" />
+    <Page Image="7" ImageSize="407495" />
+    <Page Image="8" ImageSize="692500" />
+    <Page Image="9" ImageSize="349499" />
+    <Page Image="10" ImageSize="413335" />
+    <Page Image="11" ImageSize="433480" />
+    <Page Image="12" ImageSize="399354" />
+    <Page Image="13" ImageSize="411178" />
+    <Page Image="14" ImageSize="414547" />
+    <Page Image="15" ImageSize="893641" />
+    <Page Image="16" ImageSize="371129" />
+    <Page Image="17" ImageSize="410431" />
+    <Page Image="18" ImageSize="441567" />
+    <Page Image="19" ImageSize="489199" />
+    <Page Image="20" ImageSize="863679" />
+    <Page Image="21" ImageSize="443108" />
+    <Page Image="22" ImageSize="426295" />
+    <Page Image="23" ImageSize="489737" />
+    <Page Image="24" ImageSize="365039" />
+  </Pages>
+  <Penciller>Mike Wolfer</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Friday the 13th: Bloodbath</Series>
+  <Volume>2005</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-130362/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2005</Year>
+</ComicInfo>

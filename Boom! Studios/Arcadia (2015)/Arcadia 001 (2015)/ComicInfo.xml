@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>8</Count>
+  <Country>US</Country>
+  <Day>6</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-1353194</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:48:14 [Issue ID 4000-1353194] urn:comicvine:4000-1353194 urn:grandcomicsdatabase:issue/1353194
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 05:59:31. [Issue ID 1353194]</Notes>
+  <Number>1</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1798783" Type="FrontCover" />
+    <Page Image="1" ImageSize="2700329" />
+    <Page Image="2" ImageSize="821204" />
+    <Page Image="3" ImageSize="1371746" />
+    <Page Image="4" ImageSize="1986859" />
+    <Page Image="5" ImageSize="1664600" />
+    <Page Image="6" ImageSize="3814224" />
+    <Page Image="7" ImageSize="1316558" />
+    <Page Image="8" ImageSize="1419940" />
+    <Page Image="9" ImageSize="1573596" />
+    <Page Image="10" ImageSize="2057523" />
+    <Page Image="11" ImageSize="1872810" />
+    <Page Image="12" ImageSize="1989250" />
+    <Page Image="13" ImageSize="1422278" />
+    <Page Image="14" ImageSize="1651960" />
+    <Page Image="15" ImageSize="1373687" />
+    <Page Image="16" ImageSize="1479599" />
+    <Page Image="17" ImageSize="1331615" />
+    <Page Image="18" ImageSize="1833345" />
+    <Page Image="19" ImageSize="1369023" />
+    <Page Image="20" ImageSize="1265996" />
+    <Page Image="21" ImageSize="1609559" />
+    <Page Image="22" ImageSize="1940201" />
+    <Page Image="23" ImageSize="2129053" />
+    <Page Image="24" ImageSize="172272" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Arcadia</Series>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1353194/</Web>
+  <Year>2015</Year>
+</ComicInfo>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Blue Leopard,Tiger-Man</Characters>
+	<Day>1</Day>
+	<Editor>Larry Lieber</Editor>
+	<GTIN>urn:comicvine:4000-15306</GTIN>
+	<Inker>Frank Giacoia,Frank Thorne</Inker>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:56 [Issue ID 4000-15306] urn:comicvine:4000-15306</Notes>
+	<Number>2</Number>
+	<PageCount>20</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="605932" Type="FrontCover"/>
+		<Page Image="1" ImageSize="422135"/>
+		<Page Image="2" ImageSize="295661"/>
+		<Page Image="3" ImageSize="314368"/>
+		<Page Image="4" ImageSize="305877"/>
+		<Page Image="5" ImageSize="323766"/>
+		<Page Image="6" ImageSize="299555"/>
+		<Page Image="7" ImageSize="322260"/>
+		<Page Image="8" ImageSize="291034"/>
+		<Page Image="9" ImageSize="286672"/>
+		<Page Image="10" ImageSize="285248"/>
+		<Page Image="11" ImageSize="338273"/>
+		<Page Image="12" ImageSize="272167"/>
+		<Page Image="13" ImageSize="283991"/>
+		<Page Image="14" ImageSize="301322"/>
+		<Page Image="15" ImageSize="282647"/>
+		<Page Image="16" ImageSize="305604"/>
+		<Page Image="17" ImageSize="298883"/>
+		<Page Image="18" ImageSize="322984"/>
+		<Page Image="19" ImageSize="253686"/>
+	</Pages>
+	<Penciller>Frank Thorne,Steve Ditko</Penciller>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>Tiger-Man</Series>
+	<Summary>https://comicvine.gamespot.com/tiger-man-2-stalker-in-a-concrete-jungle/4000-15306/</Summary>
+	<Tags>Blue Leopard,Tiger-Man</Tags>
+	<Title>Stalker In A Concrete Jungle</Title>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/tiger-man-2-stalker-in-a-concrete-jungle/4000-15306/</Web>
+	<Writer>Gerry Conway</Writer>
+	<Year>1975</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Everyone</AgeRating>
+  <Count>8</Count>
+  <Format>Limited Series</Format>
+  <Genre>Science Fiction</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-24T13:53:39</Notes>
+  <Number>6</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3907" ImageSize="776895" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3907" ImageSize="1136260" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3841" ImageSize="1050997" ImageWidth="2560" />
+    <Page DoublePage="True" Image="3" ImageHeight="3840" ImageSize="1360226" ImageWidth="5120" />
+    <Page DoublePage="False" Image="4" ImageHeight="3841" ImageSize="1042714" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3841" ImageSize="692917" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3841" ImageSize="850079" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3841" ImageSize="1314984" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3841" ImageSize="1243314" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3841" ImageSize="1263824" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3841" ImageSize="1215459" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3841" ImageSize="1547736" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3841" ImageSize="1390373" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3841" ImageSize="1453411" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3841" ImageSize="1166752" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3841" ImageSize="1305233" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3841" ImageSize="1039720" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3841" ImageSize="1293754" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3841" ImageSize="1034942" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3841" ImageSize="849593" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3841" ImageSize="1224645" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3841" ImageSize="1064278" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3841" ImageSize="745698" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3841" ImageSize="688286" ImageWidth="2560" />
+    <Page DoublePage="True" Image="24" ImageHeight="3840" ImageSize="1456182" ImageWidth="5120" />
+    <Page DoublePage="False" Image="25" ImageHeight="3841" ImageSize="1286561" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3841" ImageSize="975794" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3841" ImageSize="981064" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3621" ImageSize="805892" ImageWidth="2560" />
+    <Page DoublePage="False" Image="29" ImageHeight="3508" ImageSize="744959" ImageWidth="2480" />
+  </Pages>
+  <Publisher>Kappa Kafe Studio</Publisher>
+  <Series>The Adventures of Captain Orange</Series>
+  <Volume>2021</Volume>
+  <Title>Captain Orange, Drawn to the Lier Puslar</Title>
+  <Summary>The crew of the Güd Ship find themselves set off course and trapped aboard a derelict shipwrecked colony transport ship. Can the Captain keep things together while the tension rises?</Summary>
+  <Year>2023</Year>
+</ComicInfo>

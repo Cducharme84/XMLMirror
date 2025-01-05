@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Scarecrow</Characters>
+	<Colorist>Kate Finnegan</Colorist>
+	<Count>2</Count>
+	<Day>1</Day>
+	<Editor>Kari Castor</Editor>
+	<GTIN>urn:comicvine:4000-409064</GTIN>
+	<Letterer>HDE</Letterer>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:31:46 [Issue ID 4000-409064] urn:comicvine:4000-409064</Notes>
+	<Number>2</Number>
+	<PageCount>30</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="4130067" Type="FrontCover"/>
+		<Page Image="1" ImageSize="4551859"/>
+		<Page Image="2" ImageSize="2553506"/>
+		<Page Image="3" ImageSize="1890777"/>
+		<Page Image="4" ImageSize="1989231"/>
+		<Page Image="5" ImageSize="2206630"/>
+		<Page Image="6" ImageSize="2269175"/>
+		<Page Image="7" ImageSize="2140043"/>
+		<Page Image="8" ImageSize="2298347"/>
+		<Page Image="9" ImageSize="1851022"/>
+		<Page Image="10" ImageSize="1667875"/>
+		<Page Image="11" ImageSize="1987980"/>
+		<Page Image="12" ImageSize="1891173"/>
+		<Page Image="13" ImageSize="2119107"/>
+		<Page Image="14" ImageSize="2014072"/>
+		<Page Image="15" ImageSize="2049222"/>
+		<Page Image="16" ImageSize="2173150"/>
+		<Page Image="17" ImageSize="1980134"/>
+		<Page Image="18" ImageSize="1810243"/>
+		<Page Image="19" ImageSize="2017181"/>
+		<Page Image="20" ImageSize="1986895"/>
+		<Page Image="21" ImageSize="1860531"/>
+		<Page Image="22" ImageSize="1814346"/>
+		<Page Image="23" ImageSize="1998948"/>
+		<Page Image="24" ImageSize="1977236"/>
+		<Page Image="25" ImageSize="2091839"/>
+		<Page Image="26" ImageSize="1531506"/>
+		<Page Image="27" ImageSize="2429511"/>
+		<Page Image="28" ImageSize="1801262"/>
+		<Page Image="29" ImageSize="1405667"/>
+	</Pages>
+	<Publisher>Big Dog Ink</Publisher>
+	<Series>Legends of Oz: The Scarecrow</Series>
+	<Summary>The Scarecrow must not only face off against the evil Serulion, but also the Denslow townsfolk who have no reason to trust another scarecrow with their lives.
+
+*List of covers and their creators:*
+| Cover | Name    | Creator(s)  | Sidebar Location |
+|-------|---------|-------------|------------------|
+| A     | Cover A | Carlos Reno | 1                |
+| B     | Cover B | Nei Ruffino | Missing          |</Summary>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/legends-of-oz-the-scarecrow-2/4000-409064/</Web>
+	<Writer>Patrick Shand</Writer>
+	<Year>2013</Year>
+</ComicInfo>

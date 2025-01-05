@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Abraham Lincoln,John Wilkes Booth</Characters>
+  <Editor>Murray Boltinoff,Whitney Ellsworth</Editor>
+  <GTIN>urn:comicvine:4000-12031</GTIN>
+  <Inker>Ernie Chan,George Tuska,Jerry Grandenetti,John Calnan,Nick Cardy,Ray Burnley,George Tuska,Jerry Grandenetti,Ray Burnley,Ernie Chua,Ramona Fradon,John Calnan</Inker>
+  <Locations>Tanzania,Spain</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:52:47 [Issue ID 4000-12031] urn:comicvine:4000-12031
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 02:01:44. [Issue ID 24923]</Notes>
+  <Number>4</Number>
+  <PageCount>52</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1144" ImageSize="471951" ImageWidth="770" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1142" ImageSize="274104" ImageWidth="736" />
+    <Page Image="2" ImageHeight="1140" ImageSize="368986" ImageWidth="723" />
+    <Page Image="3" ImageHeight="1142" ImageSize="389555" ImageWidth="726" />
+    <Page Image="4" ImageHeight="1135" ImageSize="368462" ImageWidth="716" />
+    <Page Image="5" ImageHeight="1144" ImageSize="407221" ImageWidth="726" />
+    <Page Image="6" ImageHeight="1140" ImageSize="393821" ImageWidth="714" />
+    <Page Image="7" ImageHeight="1140" ImageSize="395776" ImageWidth="726" />
+    <Page Image="8" ImageHeight="1135" ImageSize="288071" ImageWidth="706" />
+    <Page Image="9" ImageHeight="1144" ImageSize="370268" ImageWidth="728" />
+    <Page Image="10" ImageHeight="1135" ImageSize="386369" ImageWidth="714" />
+    <Page Image="11" ImageHeight="1147" ImageSize="403555" ImageWidth="726" />
+    <Page Image="12" ImageHeight="1135" ImageSize="412601" ImageWidth="721" />
+    <Page Image="13" ImageHeight="1137" ImageSize="391893" ImageWidth="728" />
+    <Page Image="14" ImageHeight="1137" ImageSize="382536" ImageWidth="741" />
+    <Page Image="15" ImageHeight="1144" ImageSize="376097" ImageWidth="741" />
+    <Page Image="16" ImageHeight="1140" ImageSize="380228" ImageWidth="745" />
+    <Page Image="17" ImageHeight="1144" ImageSize="384699" ImageWidth="750" />
+    <Page Image="18" ImageHeight="1140" ImageSize="390395" ImageWidth="750" />
+    <Page Image="19" ImageHeight="1144" ImageSize="374662" ImageWidth="753" />
+    <Page Image="20" ImageHeight="1140" ImageSize="379137" ImageWidth="741" />
+    <Page Image="21" ImageHeight="1145" ImageSize="400220" ImageWidth="753" />
+    <Page Image="22" ImageHeight="1137" ImageSize="396188" ImageWidth="748" />
+    <Page Image="23" ImageHeight="1140" ImageSize="400410" ImageWidth="758" />
+    <Page Image="24" ImageHeight="1140" ImageSize="348398" ImageWidth="745" />
+    <Page Image="25" ImageHeight="731" ImageSize="179755" ImageWidth="485" />
+    <Page Image="26" ImageHeight="1135" ImageSize="341868" ImageWidth="741" />
+    <Page Image="27" ImageHeight="1140" ImageSize="394359" ImageWidth="755" />
+    <Page Image="28" ImageHeight="1137" ImageSize="384330" ImageWidth="738" />
+    <Page Image="29" ImageHeight="1137" ImageSize="430826" ImageWidth="753" />
+    <Page Image="30" ImageHeight="1137" ImageSize="395205" ImageWidth="750" />
+    <Page Image="31" ImageHeight="1144" ImageSize="389692" ImageWidth="753" />
+    <Page Image="32" ImageHeight="1135" ImageSize="278666" ImageWidth="750" />
+    <Page Image="33" ImageHeight="1142" ImageSize="374271" ImageWidth="753" />
+    <Page Image="34" ImageHeight="1135" ImageSize="424712" ImageWidth="745" />
+    <Page Image="35" ImageHeight="1140" ImageSize="419541" ImageWidth="748" />
+    <Page Image="36" ImageHeight="1135" ImageSize="382537" ImageWidth="748" />
+    <Page Image="37" ImageHeight="1140" ImageSize="280011" ImageWidth="760" />
+    <Page Image="38" ImageHeight="1135" ImageSize="287906" ImageWidth="743" />
+    <Page Image="39" ImageHeight="1140" ImageSize="342646" ImageWidth="755" />
+    <Page Image="40" ImageHeight="1127" ImageSize="383743" ImageWidth="748" />
+    <Page Image="41" ImageHeight="1137" ImageSize="406524" ImageWidth="753" />
+    <Page Image="42" ImageHeight="1135" ImageSize="373552" ImageWidth="745" />
+    <Page Image="43" ImageHeight="1137" ImageSize="389696" ImageWidth="760" />
+    <Page Image="44" ImageHeight="1135" ImageSize="379133" ImageWidth="745" />
+    <Page Image="45" ImageHeight="1137" ImageSize="399248" ImageWidth="758" />
+    <Page Image="46" ImageHeight="1137" ImageSize="404089" ImageWidth="745" />
+    <Page Image="47" ImageHeight="1137" ImageSize="430670" ImageWidth="755" />
+    <Page Image="48" ImageHeight="1135" ImageSize="380752" ImageWidth="748" />
+    <Page Image="49" ImageHeight="1140" ImageSize="393428" ImageWidth="763" />
+    <Page Image="50" ImageHeight="1137" ImageSize="287052" ImageWidth="736" />
+    <Page Image="51" ImageSize="375661" />
+  </Pages>
+  <Penciller>Curt Swan,Ernie Chan,George Tuska,Jerry Grandenetti,John Calnan,Nick Cardy,Ramona Fradon,George Tuska,Jerry Grandenetti,Curt Swan,Ernie Chua,Ramona Fradon,John Calnan</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Ghosts</Series>
+  <Summary>He was born to a fearsome fate, and he could only escape it if he learned the secret of the mysterious omen that haunted him!
+
+Dark Africa holds many secrets - and the most dangerous are the powers of M'Timbu, the witch doctor of Kinshoro!</Summary>
+  <Tags>Spain,Abraham Lincoln,Tanzania,John Wilkes Booth,Pirates</Tags>
+  <Teams>Pirates</Teams>
+  <Volume>1971</Volume>
+  <Web>https://comicvine.gamespot.com/ghosts-4/4000-12031/</Web>
+  <Writer>Leo Dorfman,Leo Dorfman</Writer>
+  <Year>1972</Year>
+  <Count>112</Count>
+  <Title>The Crimson Claw!; The Ghostly Cities of Gold!; The Man Who Killed His Shadow; The Fanged Spectres of Kinshoro; The Legend of the Black Swan; The Threshold of Nightmare House</Title>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+  <Letterer>John Costanza,Ben Oda,Jean Izzo</Letterer>
+</ComicInfo>

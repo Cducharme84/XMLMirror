@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Ashoke,Delores,Don,Jackson,Maria,Rab,Seline,Shaky,Sister Teresa</Characters>
+	<Colorist>Juan Carlos Rodriguez,Juanmar</Colorist>
+	<Day>22</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-423002</GTIN>
+	<Inker>Fernando Melek,Jacen Burrows,Keith Williams,Lee Townsend</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>Orkney Islands,Scotland</Locations>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:31:59 [Issue ID 4000-423002] urn:comicvine:4000-423002</Notes>
+	<Number>12</Number>
+	<PageCount>3</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="153285" Type="FrontCover"/>
+		<Page Image="1" ImageSize="329167"/>
+		<Page Image="2" ImageSize="230814"/>
+	</Pages>
+	<Penciller>Fernando Melek,Jacen Burrows,Keith Williams</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital) (jk-empire)</ScanInformation>
+	<Series>Crossed: Wish You Were Here</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-13 07:07:10.  [Issue ID 423002]
+
+https://comicvine.gamespot.com/crossed-wish-you-were-here-12-episode-12/4000-423002/</Summary>
+	<Tags>Ashoke,Delores,Don,Jackson,Maria,Orkney Islands,Rab,Scotland,Seline,Shaky,Sister Teresa,The Crossed</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Episode 12</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-12-episode-12/4000-423002/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

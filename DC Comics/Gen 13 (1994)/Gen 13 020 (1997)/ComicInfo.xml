@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Burnout,Caitlin Fairchild,Freefall,Grunge,John Lynch,Kobeh,Rainmaker,Sublime</Characters>
+	<Colorist>Joe Chiodo,Martin Jimenez</Colorist>
+	<Count>80</Count>
+	<Day>1</Day>
+	<Editor>Mike Rockwitz</Editor>
+	<GTIN>urn:comicvine:4000-157073</GTIN>
+	<Inker>Sandra Hope</Inker>
+	<Letterer>Bill O'Neil</Letterer>
+	<Locations>New York City,Space</Locations>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:37:00 [Issue ID 4000-157073] urn:comicvine:4000-157073</Notes>
+	<Number>20</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="587622" Type="FrontCover"/>
+		<Page Image="1" ImageSize="715020"/>
+		<Page Image="2" ImageSize="575369"/>
+		<Page Image="3" ImageSize="524478"/>
+		<Page Image="4" ImageSize="615575"/>
+		<Page Image="5" ImageSize="536119"/>
+		<Page Image="6" ImageSize="626250"/>
+		<Page Image="7" ImageSize="566104"/>
+		<Page Image="8" ImageSize="505775"/>
+		<Page Image="9" ImageSize="650861"/>
+		<Page Image="10" ImageSize="533159"/>
+		<Page Image="11" ImageSize="738967"/>
+		<Page Image="12" ImageSize="554378"/>
+		<Page Image="13" ImageSize="786757"/>
+		<Page Image="14" ImageSize="715291"/>
+		<Page Image="15" ImageSize="758446"/>
+		<Page Image="16" ImageSize="749093"/>
+		<Page Image="17" ImageSize="605473"/>
+		<Page Image="18" ImageSize="668845"/>
+		<Page Image="19" ImageSize="723085"/>
+		<Page Image="20" ImageSize="499578"/>
+		<Page Image="21" ImageSize="585320"/>
+		<Page Image="22" ImageSize="469670"/>
+	</Pages>
+	<Publisher>DC Comics</Publisher>
+	<Series>Gen 13</Series>
+	<Teams>Gen 13</Teams>
+	<Title>...Where No Gen Has Gone Before!</Title>
+	<Volume>1994</Volume>
+	<Web>https://comicvine.gamespot.com/gen-13-20-where-no-gen-has-gone-before/4000-157073/</Web>
+	<Writer>Brandon Choi</Writer>
+	<Year>1997</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>8</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-927358</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:23:38 [Issue ID 4000-927358] urn:comicvine:4000-927358 urn:grandcomicsdatabase:issue/927358
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 05:47:39. [Issue ID 927358]</Notes>
+  <Number>4</Number>
+  <PageCount>29</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1065766" Type="FrontCover" />
+    <Page Image="1" ImageSize="780447" />
+    <Page Image="2" ImageSize="1253179" />
+    <Page Image="3" ImageSize="872107" />
+    <Page Image="4" ImageSize="899373" />
+    <Page Image="5" ImageSize="626909" />
+    <Page Image="6" ImageSize="1153112" />
+    <Page Image="7" ImageSize="1158601" />
+    <Page Image="8" ImageSize="1240855" />
+    <Page Image="9" ImageSize="1250070" />
+    <Page Image="10" ImageSize="826979" />
+    <Page Image="11" ImageSize="1006234" />
+    <Page Image="12" ImageSize="1252269" />
+    <Page Image="13" ImageSize="1101488" />
+    <Page Image="14" ImageSize="1170985" />
+    <Page Image="15" ImageSize="1204310" />
+    <Page Image="16" ImageSize="1199175" />
+    <Page Image="17" ImageSize="1242319" />
+    <Page Image="18" ImageSize="1121318" />
+    <Page Image="19" ImageSize="915406" />
+    <Page Image="20" ImageSize="1360256" />
+    <Page Image="21" ImageSize="1447733" />
+    <Page Image="22" ImageSize="1356280" />
+    <Page Image="23" ImageSize="1483768" />
+    <Page Image="24" ImageSize="1126425" />
+    <Page Image="25" ImageSize="1187058" />
+    <Page Image="26" ImageSize="1119965" />
+    <Page Image="27" ImageSize="1268285" />
+    <Page Image="28" ImageSize="157780" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Valen the Outcast</Series>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-927358/</Web>
+  <Year>2012</Year>
+</ComicInfo>

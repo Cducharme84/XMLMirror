@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-143182</GTIN>
+	<Inker>Mark Kidwell</Inker>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:32:21 [Issue ID 4000-143182] urn:comicvine:4000-143182</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="643319" Type="FrontCover"/>
+		<Page Image="1" ImageSize="419301"/>
+		<Page Image="2" ImageSize="726798"/>
+		<Page Image="3" ImageSize="615944"/>
+		<Page Image="4" ImageSize="634000"/>
+		<Page Image="5" ImageSize="574065"/>
+		<Page Image="6" ImageSize="567355"/>
+		<Page Image="7" ImageSize="664487"/>
+		<Page Image="8" ImageSize="662180"/>
+		<Page Image="9" ImageSize="774925"/>
+		<Page Image="10" ImageSize="732855"/>
+		<Page Image="11" ImageSize="788424"/>
+		<Page Image="12" ImageSize="794665"/>
+		<Page Image="13" ImageSize="796599"/>
+		<Page Image="14" ImageSize="684385"/>
+		<Page Image="15" ImageSize="583202"/>
+		<Page Image="16" ImageSize="545363"/>
+		<Page Image="17" ImageSize="603805"/>
+		<Page Image="18" ImageSize="544925"/>
+		<Page Image="19" ImageSize="575399"/>
+		<Page Image="20" ImageSize="701755"/>
+		<Page Image="21" ImageSize="759542"/>
+		<Page Image="22" ImageSize="582137"/>
+		<Page Image="23" ImageSize="545188"/>
+	</Pages>
+	<Penciller>Mark Kidwell</Penciller>
+	<Publisher>Dead Dog</Publisher>
+	<Series>Curse Of The Blood Clan</Series>
+	<Summary>Jax Bale returns home to make a shocking discovery that monsters are for real. He begins his hunt for the Blood Clan.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-14 10:09:21.  [CVDB143182]
+
+https://comicvine.gamespot.com/curse-of-the-blood-clan-1/4000-143182/</Summary>
+	<Tags>Werewolves</Tags>
+	<Teams>Werewolves</Teams>
+	<Volume>2005</Volume>
+	<Web>https://comicvine.gamespot.com/curse-of-the-blood-clan-1/4000-143182/</Web>
+	<Writer>Mark Kidwell</Writer>
+	<Year>2005</Year>
+</ComicInfo>

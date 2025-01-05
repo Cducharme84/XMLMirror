@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Joanna Tan</Characters>
+	<Count>5</Count>
+	<Country>US</Country>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-741147</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Tim Tyler,Tim Vigil</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:19:16 [Issue ID 4000-741147] urn:comicvine:4000-741147 urn:grandcomicsdatabase:issue/741147</Notes>
+	<Number>3</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="984" ImageHeight="1526" ImageSize="425947" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="985" ImageHeight="1525" ImageSize="324271"/>
+		<Page Image="2" ImageWidth="978" ImageHeight="1527" ImageSize="260531"/>
+		<Page Image="3" ImageWidth="979" ImageHeight="1524" ImageSize="306914"/>
+		<Page Image="4" ImageWidth="978" ImageHeight="1527" ImageSize="334072"/>
+		<Page Image="5" ImageWidth="982" ImageHeight="1526" ImageSize="360953"/>
+		<Page Image="6" ImageWidth="977" ImageHeight="1526" ImageSize="293335"/>
+		<Page Image="7" ImageWidth="980" ImageHeight="1527" ImageSize="259914"/>
+		<Page Image="8" ImageWidth="978" ImageHeight="1528" ImageSize="289365"/>
+		<Page Image="9" ImageWidth="978" ImageHeight="1524" ImageSize="301044"/>
+		<Page Image="10" ImageWidth="975" ImageHeight="1526" ImageSize="230068"/>
+		<Page Image="11" ImageWidth="973" ImageHeight="1526" ImageSize="280826"/>
+		<Page Image="12" ImageWidth="972" ImageHeight="1523" ImageSize="300739"/>
+		<Page Image="13" ImageWidth="973" ImageHeight="1526" ImageSize="324541"/>
+		<Page Image="14" ImageWidth="976" ImageHeight="1523" ImageSize="315857"/>
+		<Page Image="15" ImageWidth="977" ImageHeight="1525" ImageSize="368098"/>
+		<Page Image="16" ImageWidth="976" ImageHeight="1526" ImageSize="322366"/>
+		<Page Image="17" ImageWidth="979" ImageHeight="1528" ImageSize="293353"/>
+		<Page Image="18" ImageWidth="977" ImageHeight="1527" ImageSize="337118"/>
+		<Page Image="19" ImageWidth="976" ImageHeight="1525" ImageSize="306848"/>
+		<Page Image="20" ImageWidth="974" ImageHeight="1525" ImageSize="328396"/>
+		<Page Image="21" ImageWidth="972" ImageHeight="1525" ImageSize="291869"/>
+		<Page Image="22" ImageSize="307334"/>
+	</Pages>
+	<Penciller>Tim Vigil</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Faust: Singha's Talons</Series>
+	<Summary>Only the #1/2 issue is in color. Issues #1-4 are black and white.</Summary>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-741147/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>2000</Year>
+</ComicInfo>

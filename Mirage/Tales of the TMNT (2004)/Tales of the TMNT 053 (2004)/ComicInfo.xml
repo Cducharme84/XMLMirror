@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Raphael,Casey Jones,Donatello,April O'Neil,Michelangelo,Shadow,Leonardo</Characters>
+  <Day>1</Day>
+  <Editor>Jim Lawson</Editor>
+  <GTIN>urn:comicvine:4000-157834</GTIN>
+  <Inker>Jim Lawson</Inker>
+  <Letterer>Eric Talbot</Letterer>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:54:32 [Issue ID 4000-157834] urn:comicvine:4000-157834
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 14:09:31. [Issue ID 565941]</Notes>
+  <Number>53</Number>
+  <PageCount>61</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1920" ImageSize="825215" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1920" ImageSize="124630" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1920" ImageSize="379137" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1920" ImageSize="50272" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1920" ImageSize="354684" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1920" ImageSize="352596" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1920" ImageSize="325840" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1920" ImageSize="275798" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1920" ImageSize="337707" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1920" ImageSize="304453" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1920" ImageSize="353696" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1920" ImageSize="351706" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1920" ImageSize="318578" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1920" ImageSize="269393" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1920" ImageSize="299850" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1920" ImageSize="408030" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1920" ImageSize="456058" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1920" ImageSize="389178" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1920" ImageSize="343247" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1920" ImageSize="336591" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1920" ImageSize="362390" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1920" ImageSize="387269" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1920" ImageSize="400262" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1920" ImageSize="373695" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1920" ImageSize="382568" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1920" ImageSize="340089" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1920" ImageSize="377628" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1920" ImageSize="347435" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1920" ImageSize="323964" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1920" ImageSize="351369" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1920" ImageSize="182967" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1920" ImageSize="387169" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1920" ImageSize="306793" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1920" ImageSize="211249" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1920" ImageSize="245762" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1920" ImageSize="274280" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="1920" ImageSize="266361" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1920" ImageSize="312355" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1920" ImageSize="310135" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1920" ImageSize="354890" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1920" ImageSize="327156" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1920" ImageSize="211047" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1920" ImageSize="359300" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1920" ImageSize="314347" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1920" ImageSize="335160" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1920" ImageSize="235958" ImageWidth="1280" />
+    <Page Image="46" ImageHeight="1920" ImageSize="239080" ImageWidth="1280" />
+    <Page Image="47" ImageHeight="1920" ImageSize="301491" ImageWidth="1280" />
+    <Page Image="48" ImageHeight="1920" ImageSize="146225" ImageWidth="1280" />
+    <Page Image="49" ImageHeight="1920" ImageSize="3381" ImageWidth="1280" />
+    <Page Image="50" ImageHeight="1920" ImageSize="235035" ImageWidth="1280" />
+    <Page Image="51" ImageHeight="1920" ImageSize="272250" ImageWidth="1280" />
+    <Page Image="52" ImageHeight="1920" ImageSize="269207" ImageWidth="1280" />
+    <Page Image="53" ImageHeight="1920" ImageSize="293925" ImageWidth="1280" />
+    <Page Image="54" ImageHeight="1920" ImageSize="250610" ImageWidth="1280" />
+    <Page Image="55" ImageHeight="1920" ImageSize="273188" ImageWidth="1280" />
+    <Page Image="56" ImageHeight="1920" ImageSize="153180" ImageWidth="1280" />
+    <Page Image="57" ImageHeight="1920" ImageSize="281932" ImageWidth="1280" />
+    <Page Image="58" ImageHeight="1920" ImageSize="289619" ImageWidth="1280" />
+    <Page Image="59" ImageHeight="1920" ImageSize="74941" ImageWidth="1280" />
+    <Page Image="60" ImageSize="50371" />
+  </Pages>
+  <Penciller>Jim Lawson</Penciller>
+  <Publisher>Mirage</Publisher>
+  <ScanInformation>(Hartigan-DCP)</ScanInformation>
+  <Series>Tales of the TMNT</Series>
+  <Summary>Casey has some plumbing work doen on his farmhouse in Northampton, which leads to trouble when the assistant to the plumber decides to steal one of Shadow's rare toys.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-30 13:05:38.  [Issue ID 157834]
+
+https://comicvine.gamespot.com/tales-of-the-tmnt-53-alien-invaders/4000-157834/</Summary>
+  <Tags>Raphael,Teenage Mutant Ninja Turtles,Casey Jones,Donatello,April O'Neil,Michelangelo,Shadow,Leonardo</Tags>
+  <Teams>Teenage Mutant Ninja Turtles</Teams>
+  <Title>Alien Invaders</Title>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/tales-of-the-tmnt-53-alien-invaders/4000-157834/</Web>
+  <Year>2004</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

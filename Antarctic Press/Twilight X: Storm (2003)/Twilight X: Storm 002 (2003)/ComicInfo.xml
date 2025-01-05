@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>8</Count>
+	<CoverArtist>Joseph Wight</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-381740</GTIN>
+	<Genre>Action</Genre>
+	<Inker>Joseph Wight</Inker>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-12T01:01:43 [Issue ID 4000-381740] urn:comicvine:4000-381740</Notes>
+	<Number>2</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3982" ImageSize="1233545" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3982" ImageSize="1040401"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3982" ImageSize="595110"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3982" ImageSize="2082087"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3982" ImageSize="2019585"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3982" ImageSize="867410"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3982" ImageSize="870735"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3982" ImageSize="1224697"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3982" ImageSize="1570171"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3982" ImageSize="1179431"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3982" ImageSize="1300144"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3982" ImageSize="1169636"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3982" ImageSize="948140"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3982" ImageSize="1345305"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3982" ImageSize="939998"/>
+		<Page DoublePage="True" Image="15" ImageWidth="5120" ImageHeight="3982" ImageSize="888501"/>
+		<Page DoublePage="True" Image="16" ImageWidth="5120" ImageHeight="3982" ImageSize="1215600"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3982" ImageSize="916621"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3982" ImageSize="736980"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3982" ImageSize="744135"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3982" ImageSize="798156"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3982" ImageSize="1080199"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3982" ImageSize="856608"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3982" ImageSize="1280516"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3982" ImageSize="897506"/>
+		<Page DoublePage="True" Image="25" ImageWidth="5120" ImageHeight="3982" ImageSize="1825297"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3982" ImageSize="765883"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3982" ImageSize="899395"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3982" ImageSize="813515"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3982" ImageSize="631043"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3982" ImageSize="869029"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3982" ImageSize="672053"/>
+		<Page Image="32" ImageSize="1448315"/>
+	</Pages>
+	<Penciller>Joseph Wight</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Twilight X: Storm</Series>
+	<Summary>Marines and U.S. Navy jets wage war against the remaining Nationalist forces occupying a tiny Caribbean island. Rogue Nationalist fighters threaten Marine ground support planes and armor. What price is too high for victory?</Summary>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/twilight-x-storm-2/4000-381740/</Web>
+	<Writer>Joseph Wight</Writer>
+	<Year>2003</Year>
+</ComicInfo>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:asin:B09T6V3WY5</GTIN>
+  <Genre>Fiction</Genre>
+  <Inker>Luke Healy</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Luke Healy</Letterer>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:07:25 [Issue ID 4000-678396] urn:asin:B09T6V3WY5 urn:comicvine:4000-678396
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-13 08:08:08. [Issue ID 1835462]</Notes>
+  <Number>1</Number>
+  <PageCount>134</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3108" ImageSize="1493775" ImageWidth="2560" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3108" ImageSize="31281" ImageWidth="2560" />
+    <Page Image="2" ImageHeight="3108" ImageSize="86559" ImageWidth="2560" />
+    <Page Image="3" ImageHeight="3108" ImageSize="845833" ImageWidth="2560" />
+    <Page Image="4" ImageHeight="3108" ImageSize="923385" ImageWidth="2560" />
+    <Page Image="5" ImageHeight="3108" ImageSize="1171165" ImageWidth="2560" />
+    <Page Image="6" ImageHeight="3108" ImageSize="826841" ImageWidth="2560" />
+    <Page Image="7" ImageHeight="3108" ImageSize="696467" ImageWidth="2560" />
+    <Page Image="8" ImageHeight="3108" ImageSize="770595" ImageWidth="2560" />
+    <Page Image="9" ImageHeight="3108" ImageSize="975785" ImageWidth="2560" />
+    <Page Image="10" ImageHeight="3108" ImageSize="822182" ImageWidth="2560" />
+    <Page Image="11" ImageHeight="3108" ImageSize="1158783" ImageWidth="2560" />
+    <Page Image="12" ImageHeight="3108" ImageSize="605957" ImageWidth="2560" />
+    <Page Image="13" ImageHeight="3108" ImageSize="1753399" ImageWidth="2560" />
+    <Page Image="14" ImageHeight="3108" ImageSize="295975" ImageWidth="2560" />
+    <Page Image="15" ImageHeight="3108" ImageSize="1976922" ImageWidth="2560" />
+    <Page Image="16" ImageHeight="3108" ImageSize="1244990" ImageWidth="2560" />
+    <Page Image="17" ImageHeight="3108" ImageSize="1418565" ImageWidth="2560" />
+    <Page Image="18" ImageHeight="3108" ImageSize="1720880" ImageWidth="2560" />
+    <Page Image="19" ImageHeight="3108" ImageSize="1584443" ImageWidth="2560" />
+    <Page Image="20" ImageHeight="3108" ImageSize="978268" ImageWidth="2560" />
+    <Page Image="21" ImageHeight="3108" ImageSize="1079263" ImageWidth="2560" />
+    <Page Image="22" ImageHeight="3108" ImageSize="1810818" ImageWidth="2560" />
+    <Page Image="23" ImageHeight="3108" ImageSize="1190169" ImageWidth="2560" />
+    <Page Image="24" ImageHeight="3108" ImageSize="1233006" ImageWidth="2560" />
+    <Page Image="25" ImageHeight="3108" ImageSize="533724" ImageWidth="2560" />
+    <Page Image="26" ImageHeight="3108" ImageSize="449185" ImageWidth="2560" />
+    <Page Image="27" ImageHeight="3108" ImageSize="1440674" ImageWidth="2560" />
+    <Page Image="28" ImageHeight="3108" ImageSize="974470" ImageWidth="2560" />
+    <Page Image="29" ImageHeight="3108" ImageSize="377736" ImageWidth="2560" />
+    <Page Image="30" ImageHeight="3108" ImageSize="206925" ImageWidth="2560" />
+    <Page Image="31" ImageHeight="3108" ImageSize="1501896" ImageWidth="2560" />
+    <Page Image="32" ImageHeight="3108" ImageSize="1897754" ImageWidth="2560" />
+    <Page Image="33" ImageHeight="3108" ImageSize="1539792" ImageWidth="2560" />
+    <Page Image="34" ImageHeight="3108" ImageSize="1214821" ImageWidth="2560" />
+    <Page Image="35" ImageHeight="3108" ImageSize="506133" ImageWidth="2560" />
+    <Page Image="36" ImageHeight="3108" ImageSize="977291" ImageWidth="2560" />
+    <Page Image="37" ImageHeight="3108" ImageSize="1492932" ImageWidth="2560" />
+    <Page Image="38" ImageHeight="3108" ImageSize="1084126" ImageWidth="2560" />
+    <Page Image="39" ImageHeight="3108" ImageSize="1044395" ImageWidth="2560" />
+    <Page Image="40" ImageHeight="3108" ImageSize="1011028" ImageWidth="2560" />
+    <Page Image="41" ImageHeight="3108" ImageSize="835874" ImageWidth="2560" />
+    <Page Image="42" ImageHeight="3108" ImageSize="827519" ImageWidth="2560" />
+    <Page Image="43" ImageHeight="3108" ImageSize="934008" ImageWidth="2560" />
+    <Page Image="44" ImageHeight="3108" ImageSize="1323610" ImageWidth="2560" />
+    <Page Image="45" ImageHeight="3108" ImageSize="1281569" ImageWidth="2560" />
+    <Page Image="46" ImageHeight="3108" ImageSize="934302" ImageWidth="2560" />
+    <Page Image="47" ImageHeight="3108" ImageSize="1132805" ImageWidth="2560" />
+    <Page Image="48" ImageHeight="3108" ImageSize="1179486" ImageWidth="2560" />
+    <Page Image="49" ImageHeight="3108" ImageSize="739052" ImageWidth="2560" />
+    <Page Image="50" ImageHeight="3108" ImageSize="818304" ImageWidth="2560" />
+    <Page Image="51" ImageHeight="3108" ImageSize="666392" ImageWidth="2560" />
+    <Page Image="52" ImageHeight="3108" ImageSize="1259485" ImageWidth="2560" />
+    <Page Image="53" ImageHeight="3108" ImageSize="1193407" ImageWidth="2560" />
+    <Page Image="54" ImageHeight="3108" ImageSize="1183528" ImageWidth="2560" />
+    <Page Image="55" ImageHeight="3108" ImageSize="1179284" ImageWidth="2560" />
+    <Page Image="56" ImageHeight="3108" ImageSize="161199" ImageWidth="2560" />
+    <Page Image="57" ImageHeight="3108" ImageSize="1224729" ImageWidth="2560" />
+    <Page Image="58" ImageHeight="3108" ImageSize="910366" ImageWidth="2560" />
+    <Page Image="59" ImageHeight="3108" ImageSize="1018434" ImageWidth="2560" />
+    <Page Image="60" ImageHeight="3108" ImageSize="1014499" ImageWidth="2560" />
+    <Page Image="61" ImageHeight="3108" ImageSize="1423941" ImageWidth="2560" />
+    <Page Image="62" ImageHeight="3108" ImageSize="1128691" ImageWidth="2560" />
+    <Page Image="63" ImageHeight="3108" ImageSize="1000540" ImageWidth="2560" />
+    <Page Image="64" ImageHeight="3108" ImageSize="957949" ImageWidth="2560" />
+    <Page Image="65" ImageHeight="3108" ImageSize="991148" ImageWidth="2560" />
+    <Page Image="66" ImageHeight="3108" ImageSize="1070387" ImageWidth="2560" />
+    <Page Image="67" ImageHeight="3108" ImageSize="840758" ImageWidth="2560" />
+    <Page Image="68" ImageHeight="3108" ImageSize="41829" ImageWidth="2560" />
+    <Page Image="69" ImageHeight="3108" ImageSize="960123" ImageWidth="2560" />
+    <Page Image="70" ImageHeight="3108" ImageSize="1002569" ImageWidth="2560" />
+    <Page Image="71" ImageHeight="3108" ImageSize="664016" ImageWidth="2560" />
+    <Page Image="72" ImageHeight="3108" ImageSize="457421" ImageWidth="2560" />
+    <Page Image="73" ImageHeight="3108" ImageSize="879466" ImageWidth="2560" />
+    <Page Image="74" ImageHeight="3108" ImageSize="810782" ImageWidth="2560" />
+    <Page Image="75" ImageHeight="3108" ImageSize="781191" ImageWidth="2560" />
+    <Page Image="76" ImageHeight="3108" ImageSize="1233166" ImageWidth="2560" />
+    <Page Image="77" ImageHeight="3108" ImageSize="724152" ImageWidth="2560" />
+    <Page Image="78" ImageHeight="3108" ImageSize="562813" ImageWidth="2560" />
+    <Page Image="79" ImageHeight="3108" ImageSize="891252" ImageWidth="2560" />
+    <Page Image="80" ImageHeight="3108" ImageSize="1042461" ImageWidth="2560" />
+    <Page Image="81" ImageHeight="3108" ImageSize="903545" ImageWidth="2560" />
+    <Page Image="82" ImageHeight="3108" ImageSize="925651" ImageWidth="2560" />
+    <Page Image="83" ImageHeight="3108" ImageSize="967752" ImageWidth="2560" />
+    <Page Image="84" ImageHeight="3108" ImageSize="926325" ImageWidth="2560" />
+    <Page Image="85" ImageHeight="3108" ImageSize="761992" ImageWidth="2560" />
+    <Page Image="86" ImageHeight="3108" ImageSize="984129" ImageWidth="2560" />
+    <Page Image="87" ImageHeight="3108" ImageSize="1322086" ImageWidth="2560" />
+    <Page Image="88" ImageHeight="3108" ImageSize="55910" ImageWidth="2560" />
+    <Page Image="89" ImageHeight="3108" ImageSize="484742" ImageWidth="2560" />
+    <Page Image="90" ImageHeight="3108" ImageSize="612987" ImageWidth="2560" />
+    <Page Image="91" ImageHeight="3108" ImageSize="1095398" ImageWidth="2560" />
+    <Page Image="92" ImageHeight="3108" ImageSize="925945" ImageWidth="2560" />
+    <Page Image="93" ImageHeight="3108" ImageSize="819034" ImageWidth="2560" />
+    <Page Image="94" ImageHeight="3108" ImageSize="915559" ImageWidth="2560" />
+    <Page Image="95" ImageHeight="3108" ImageSize="826148" ImageWidth="2560" />
+    <Page Image="96" ImageHeight="3108" ImageSize="1036692" ImageWidth="2560" />
+    <Page Image="97" ImageHeight="3108" ImageSize="679659" ImageWidth="2560" />
+    <Page Image="98" ImageHeight="3108" ImageSize="1195852" ImageWidth="2560" />
+    <Page Image="99" ImageHeight="3108" ImageSize="586508" ImageWidth="2560" />
+    <Page Image="100" ImageHeight="3108" ImageSize="735392" ImageWidth="2560" />
+    <Page Image="101" ImageHeight="3108" ImageSize="971434" ImageWidth="2560" />
+    <Page Image="102" ImageHeight="3108" ImageSize="1003093" ImageWidth="2560" />
+    <Page Image="103" ImageHeight="3108" ImageSize="1090712" ImageWidth="2560" />
+    <Page Image="104" ImageHeight="3108" ImageSize="983460" ImageWidth="2560" />
+    <Page Image="105" ImageHeight="3108" ImageSize="55459" ImageWidth="2560" />
+    <Page Image="106" ImageHeight="3108" ImageSize="429495" ImageWidth="2560" />
+    <Page Image="107" ImageHeight="3108" ImageSize="1093733" ImageWidth="2560" />
+    <Page Image="108" ImageHeight="3108" ImageSize="436503" ImageWidth="2560" />
+    <Page Image="109" ImageHeight="3108" ImageSize="1080176" ImageWidth="2560" />
+    <Page Image="110" ImageHeight="3108" ImageSize="942149" ImageWidth="2560" />
+    <Page Image="111" ImageHeight="3108" ImageSize="713103" ImageWidth="2560" />
+    <Page Image="112" ImageHeight="3108" ImageSize="646944" ImageWidth="2560" />
+    <Page Image="113" ImageHeight="3108" ImageSize="1122997" ImageWidth="2560" />
+    <Page Image="114" ImageHeight="3108" ImageSize="729035" ImageWidth="2560" />
+    <Page Image="115" ImageHeight="3108" ImageSize="949253" ImageWidth="2560" />
+    <Page Image="116" ImageHeight="3108" ImageSize="542695" ImageWidth="2560" />
+    <Page Image="117" ImageHeight="3108" ImageSize="741610" ImageWidth="2560" />
+    <Page Image="118" ImageHeight="3108" ImageSize="586520" ImageWidth="2560" />
+    <Page Image="119" ImageHeight="3108" ImageSize="806222" ImageWidth="2560" />
+    <Page Image="120" ImageHeight="3108" ImageSize="531338" ImageWidth="2560" />
+    <Page Image="121" ImageHeight="3108" ImageSize="1007010" ImageWidth="2560" />
+    <Page Image="122" ImageHeight="3108" ImageSize="1192515" ImageWidth="2560" />
+    <Page Image="123" ImageHeight="3108" ImageSize="1299647" ImageWidth="2560" />
+    <Page Image="124" ImageHeight="3108" ImageSize="954920" ImageWidth="2560" />
+    <Page Image="125" ImageHeight="3108" ImageSize="1004226" ImageWidth="2560" />
+    <Page Image="126" ImageHeight="3108" ImageSize="1381421" ImageWidth="2560" />
+    <Page Image="127" ImageHeight="3108" ImageSize="502138" ImageWidth="2560" />
+    <Page Image="128" ImageHeight="3108" ImageSize="594498" ImageWidth="2560" />
+    <Page Image="129" ImageHeight="3108" ImageSize="528991" ImageWidth="2560" />
+    <Page Image="130" ImageHeight="3108" ImageSize="477362" ImageWidth="2560" />
+    <Page Image="131" ImageHeight="3108" ImageSize="299772" ImageWidth="2560" />
+    <Page Image="132" ImageHeight="3056" ImageSize="1369828" ImageWidth="1988" />
+    <Page Image="133" ImageSize="1709088" />
+  </Pages>
+  <Penciller>Luke Healy</Penciller>
+  <Publisher>Avery Hill</Publisher>
+  <ScanInformation>DrVink. Library loans through OverDrive and Kindle, ripped with Calibre DeDRM. Library loans through Hoopla, webrip. Denoised and upscaled with waifu2x-caffe.</ScanInformation>
+  <Series>Permanent Press</Series>
+  <Summary>Luke is depressed, afflicted by a severe case of metaphoritis and deadlines that don't really exist.
+
+Afraid of being forgotten by the comics community and unable to find motivation in anything besides jealousy, he sets out to create an award-winning comic that will remedy all of his problems.
+
+Exploring themes of art and existence through worlds of worlds and numbers, Luke Healy's new graphic novel includes the Ignatz and Slate Cartoonist Studio Prize nominated story, 'The Unofficial Cuckoo's Nest Study Companion.'
+
+https://comicvine.gamespot.com/permanent-press-1-gn/4000-678396/</Summary>
+  <Title>GN</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/permanent-press-1-gn/4000-678396/</Web>
+  <Writer>Luke Healy</Writer>
+  <Year>2018</Year>
+  <Count>1</Count>
+</ComicInfo>

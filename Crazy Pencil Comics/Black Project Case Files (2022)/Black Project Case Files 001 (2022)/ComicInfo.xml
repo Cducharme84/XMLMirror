@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>1</Count>
+	<Format>Limited Series</Format>
+	<Genre>Action,Science Fiction</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-03T15:13:56</Notes>
+	<Number>1</Number>
+	<PageCount>18</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1988" ImageHeight="3072" ImageSize="1181343" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1988" ImageHeight="3072" ImageSize="1183008"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1988" ImageHeight="3072" ImageSize="748073"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1988" ImageHeight="3072" ImageSize="475331"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1988" ImageHeight="3072" ImageSize="667577"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1988" ImageHeight="3072" ImageSize="670129"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1988" ImageHeight="3072" ImageSize="764792"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1988" ImageHeight="3072" ImageSize="606904"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1988" ImageHeight="3072" ImageSize="812623"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1988" ImageHeight="3072" ImageSize="826286"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1988" ImageHeight="3072" ImageSize="1157740"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1988" ImageHeight="3072" ImageSize="1045007"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1988" ImageHeight="3072" ImageSize="829772"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1988" ImageHeight="3072" ImageSize="1419275"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1988" ImageHeight="3072" ImageSize="906594"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="1183283"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3956" ImageSize="511924"/>
+		<Page Image="17" ImageSize="969113"/>
+	</Pages>
+	<Publisher>Crazy Pencil Comics</Publisher>
+	<Series>Black Project Case Files</Series>
+	<Summary>Amon, Director of The NEXUS, is suddenly woken up by a strange vision, and immediately leaves to investigate the source. He has an idea, but what he finds, leaves more questions than answers. "Black Project Case Files" are short stories created to fill in the gap and expand the universe that is BLACK PROJECT! "It Awakens" takes place between chapters 3 and 4.</Summary>
+	<Volume>2022</Volume>
+	<Year>2022</Year>
+</ComicInfo>

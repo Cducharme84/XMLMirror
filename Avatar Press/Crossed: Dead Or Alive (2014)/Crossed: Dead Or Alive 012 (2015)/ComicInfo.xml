@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>28</Day>
+	<GTIN>urn:comicvine:4000-480086</GTIN>
+	<Inker>Daniel Gete</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:28:22 [Issue ID 4000-480086] urn:comicvine:4000-480086</Notes>
+	<Number>12</Number>
+	<PageCount>9</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="279421" Type="FrontCover"/>
+		<Page Image="1" ImageSize="257589"/>
+		<Page Image="2" ImageSize="220229"/>
+		<Page Image="3" ImageSize="295049"/>
+		<Page Image="4" ImageSize="283003"/>
+		<Page Image="5" ImageSize="320304"/>
+		<Page Image="6" ImageSize="214368"/>
+		<Page Image="7" ImageSize="193036"/>
+		<Page Image="8" ImageSize="203466"/>
+	</Pages>
+	<Penciller>Daniel Gete</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(crossedcomic.com)</ScanInformation>
+	<Series>Crossed: Dead Or Alive</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-13 07:10:28.  [Issue ID 480086]
+
+https://comicvine.gamespot.com/crossed-dead-or-alive-12-part-12/4000-480086/</Summary>
+	<Title>Part 12</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-dead-or-alive-12-part-12/4000-480086/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2015</Year>
+</ComicInfo>

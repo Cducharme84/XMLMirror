@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>4</Count>
+  <Format>Limited Series</Format>
+  <Genre>Noir,Public Domain</Genre>
+  <Inker>Marc Oliver</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-12T14:33:48</Notes>
+  <Number>3</Number>
+  <PageCount>39</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3885" ImageSize="2428690" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3885" ImageSize="2158676" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3885" ImageSize="1437810" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3885" ImageSize="1148445" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3885" ImageSize="1213187" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3885" ImageSize="1099375" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3885" ImageSize="1020981" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3885" ImageSize="1108678" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3885" ImageSize="1105760" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3885" ImageSize="984836" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3885" ImageSize="961240" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3885" ImageSize="1179406" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3885" ImageSize="1290574" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3885" ImageSize="1131559" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3885" ImageSize="1243014" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3885" ImageSize="1205839" ImageWidth="2560" />
+    <Page DoublePage="True" Image="16" ImageHeight="3888" ImageSize="1991435" ImageWidth="5028" />
+    <Page DoublePage="False" Image="17" ImageHeight="3885" ImageSize="1315707" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3885" ImageSize="1093724" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3885" ImageSize="1222052" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3885" ImageSize="1352471" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3885" ImageSize="973275" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3885" ImageSize="1104657" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3885" ImageSize="1099574" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3885" ImageSize="736354" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3885" ImageSize="1026751" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3885" ImageSize="1008474" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3885" ImageSize="1147167" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3885" ImageSize="924744" ImageWidth="2560" />
+    <Page DoublePage="False" Image="29" ImageHeight="3885" ImageSize="990117" ImageWidth="2560" />
+    <Page DoublePage="False" Image="30" ImageHeight="3885" ImageSize="730264" ImageWidth="2560" />
+    <Page DoublePage="False" Image="31" ImageHeight="3885" ImageSize="1006978" ImageWidth="2560" />
+    <Page DoublePage="False" Image="32" ImageHeight="3885" ImageSize="1250936" ImageWidth="2560" />
+    <Page DoublePage="False" Image="33" ImageHeight="3885" ImageSize="1258348" ImageWidth="2560" />
+    <Page DoublePage="False" Image="34" ImageHeight="3885" ImageSize="2024639" ImageWidth="2560" />
+    <Page DoublePage="False" Image="35" ImageHeight="3886" ImageSize="1877641" ImageWidth="2560" />
+    <Page DoublePage="False" Image="36" ImageHeight="3886" ImageSize="1463108" ImageWidth="2560" />
+    <Page DoublePage="False" Image="37" ImageHeight="3886" ImageSize="1090266" ImageWidth="2560" />
+    <Page DoublePage="False" Image="38" ImageHeight="3886" ImageSize="1207470" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Marc Oliver</Penciller>
+  <Publisher>Green Archer Comics</Publisher>
+  <Series>Yours Truly, Johnny Dollar</Series>
+  <Volume>2023</Volume>
+  <Writer>Allan Lisko</Writer>
+  <Year>2024</Year>
+  <Summary>Johnny travels to Billings Montana to deal with a ransomware attack against the school system. When the hacker threatens to release the students' sensitive data to the world Johnny must find a way to stop him and prevent the attacker from destroying the kids future.</Summary>
+</ComicInfo>

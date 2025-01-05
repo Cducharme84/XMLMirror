@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Colorist>Zidiyat Chaouqui</Colorist>
+	<Count>4</Count>
+	<CoverArtist>Carlos Tostes</CoverArtist>
+	<Format>Series</Format>
+	<Genre>Fantasy,Science Fiction</Genre>
+	<Inker>Carlos Tostes</Inker>
+	<Letterer>Bolivar Beato</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-17T19:05:34</Notes>
+	<Number>4</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="4797968" Type="FrontCover"/>
+		<Page Image="1" ImageSize="4786492"/>
+		<Page Image="2" ImageSize="3991074"/>
+		<Page Image="3" ImageSize="4126031"/>
+		<Page Image="4" ImageSize="3845631"/>
+		<Page Image="5" ImageSize="4874385"/>
+		<Page Image="6" ImageSize="4210438"/>
+		<Page Image="7" ImageSize="5104643"/>
+		<Page Image="8" ImageSize="5655251"/>
+		<Page Image="9" ImageSize="6417792"/>
+		<Page Image="10" ImageSize="6441590"/>
+		<Page Image="11" ImageSize="4673685"/>
+		<Page Image="12" ImageSize="4994175"/>
+		<Page Image="13" ImageSize="5299858"/>
+		<Page Image="14" ImageSize="5317143"/>
+		<Page Image="15" ImageSize="5407520"/>
+		<Page Image="16" ImageSize="3533448"/>
+		<Page Image="17" ImageSize="3792265"/>
+		<Page Image="18" ImageSize="5872558"/>
+	</Pages>
+	<Penciller>Carlos Tostes</Penciller>
+	<Publisher>BB Ink LLC</Publisher>
+	<Series>Pangaea: Myth of Ages: Age of Immortals, Sinners and Saints</Series>
+	<Summary>Freefall Part 4</Summary>
+	<Title>Freefall Part 4</Title>
+	<Volume>2020</Volume>
+	<Writer>Bolivar Beato</Writer>
+	<Year>2021</Year>
+</ComicInfo>

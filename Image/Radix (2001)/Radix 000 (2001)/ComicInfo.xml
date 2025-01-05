@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>4</Count>
+  <Day>15</Day>
+  <GTIN>urn:comicvine:4000-402774</GTIN>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T17:33:20 [Issue ID 4000-402774] urn:comicvine:4000-402774
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-18 14:53:30. [Issue ID 402774]</Notes>
+  <Number>0</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+    <Page Image="8" />
+    <Page Image="9" />
+    <Page Image="10" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Radix</Series>
+  <Title>Preview</Title>
+  <Volume>2001</Volume>
+  <Web>https://comicvine.gamespot.com/radix-0-preview/4000-402774/</Web>
+  <Year>2001</Year>
+</ComicInfo>

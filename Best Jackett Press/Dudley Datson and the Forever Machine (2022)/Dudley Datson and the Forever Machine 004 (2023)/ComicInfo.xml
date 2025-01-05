@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-1038942</GTIN>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:49:34 [Issue ID 4000-1038942] urn:comicvine:4000-1038942</Notes>
+	<Number>4</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="508904" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1624013"/>
+		<Page Image="2" ImageSize="1661087"/>
+		<Page Image="3" ImageSize="1667086"/>
+		<Page Image="4" ImageSize="1962900"/>
+		<Page Image="5" ImageSize="1916998"/>
+		<Page Image="6" ImageSize="1874009"/>
+		<Page Image="7" ImageSize="2232436"/>
+		<Page Image="8" ImageSize="2173550"/>
+		<Page Image="9" ImageSize="2061435"/>
+		<Page Image="10" ImageSize="2093924"/>
+		<Page Image="11" ImageSize="2256318"/>
+		<Page Image="12" ImageSize="2724456"/>
+		<Page Image="13" ImageSize="1623428"/>
+		<Page Image="14" ImageSize="1943115"/>
+		<Page Image="15" ImageSize="2169624"/>
+		<Page Image="16" ImageSize="2313697"/>
+		<Page Image="17" ImageSize="3733216"/>
+		<Page Image="18" ImageSize="1928355"/>
+	</Pages>
+	<Publisher>Best Jackett Press</Publisher>
+	<ScanInformation>(digital) (Son of Ultron-Empire)</ScanInformation>
+	<Series>Dudley Datson and the Forever Machine</Series>
+	<Summary>https://comicvine.gamespot.com/dudley-datson-and-the-forever-machine-4-chapter-fo/4000-1038942/</Summary>
+	<Title>Chapter Four</Title>
+	<Volume>2022</Volume>
+	<Web>https://comicvine.gamespot.com/dudley-datson-and-the-forever-machine-4-chapter-fo/4000-1038942/</Web>
+	<Year>2023</Year>
+</ComicInfo>

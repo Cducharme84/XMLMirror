@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Count>5</Count>
+  <Format>Limited Series</Format>
+  <Genre>Science Fiction</Genre>
+  <Inker>Tristan Kelly</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-10-20T15:18:42</Notes>
+  <Number>3</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3961" ImageSize="1544723" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3961" ImageSize="466332" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3961" ImageSize="2214369" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3961" ImageSize="2527651" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3961" ImageSize="1988810" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3961" ImageSize="1990381" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3961" ImageSize="2070538" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3961" ImageSize="1797492" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3961" ImageSize="2293389" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3961" ImageSize="1985306" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3961" ImageSize="1683630" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3961" ImageSize="1930392" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3961" ImageSize="2147135" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3961" ImageSize="2143947" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3961" ImageSize="1505163" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3961" ImageSize="1792003" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3961" ImageSize="1786154" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3961" ImageSize="1644498" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3961" ImageSize="1885742" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3961" ImageSize="2135012" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3961" ImageSize="2224152" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3961" ImageSize="1883918" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Tristan Kelly</Penciller>
+  <Publisher>Broken Icon Comics</Publisher>
+  <Series>The Incredibly Odd and Eerie Tales of Two Gun Thomas Coe</Series>
+  <Volume>2017</Volume>
+  <Writer>Eric Watkins</Writer>
+  <Year>2017</Year>
+  <Summary>Thomas and BOOM struggle with each other as Thomas finds the perfect configuration while BOOM uncovers the mystery of how they became trapped in the loop.</Summary>
+</ComicInfo>

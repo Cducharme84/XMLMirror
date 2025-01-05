@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Hellboy,Koschei the Deathless,Igor Bromhead</Characters>
+  <Colorist>Dave Stewart</Colorist>
+  <Count>4</Count>
+  <Day>1</Day>
+  <Editor>Katii O'Brien</Editor>
+  <GTIN>urn:comicvine:4000-974115</GTIN>
+  <Letterer>Clem Robins</Letterer>
+  <Locations>Hell</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:10:58 [Issue ID 4000-974115] urn:comicvine:4000-974115
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 07:28:58. [Issue ID 2499545]</Notes>
+  <Number>3</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="801727" Type="FrontCover" />
+    <Page Image="1" ImageSize="812812" />
+    <Page Image="2" ImageSize="1005928" />
+    <Page Image="3" ImageSize="933634" />
+    <Page Image="4" ImageSize="1129371" />
+    <Page Image="5" ImageSize="1239916" />
+    <Page Image="6" ImageSize="1074930" />
+    <Page Image="7" ImageSize="1266766" />
+    <Page Image="8" ImageSize="1266172" />
+    <Page Image="9" ImageSize="1333868" />
+    <Page Image="10" ImageSize="1077468" />
+    <Page Image="11" ImageSize="1080122" />
+    <Page Image="12" ImageSize="1500279" />
+    <Page Image="13" ImageSize="1555469" />
+    <Page Image="14" ImageSize="1573634" />
+    <Page Image="15" ImageSize="1605307" />
+    <Page Image="16" ImageSize="1082384" />
+    <Page Image="17" ImageSize="1235760" />
+    <Page Image="18" ImageSize="1383022" />
+    <Page Image="19" ImageSize="1009529" />
+    <Page Image="20" ImageSize="930373" />
+    <Page Image="21" ImageSize="1041077" />
+    <Page Image="22" ImageSize="995317" />
+    <Page Image="23" ImageSize="561739" />
+    <Page Image="24" ImageSize="1204289" />
+  </Pages>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Koshchei in Hell</Series>
+  <Summary>Koshchei uncovers a plan to release a long-hiding evil that seeks power over Hell. An unlikely companion, possibly the last demon in Hell, could be either a friend or a foe.</Summary>
+  <Tags>Hellboy,Koschei the Deathless,Igor Bromhead</Tags>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/koshchei-in-hell-3/4000-974115/</Web>
+  <Writer>Mike Mignola</Writer>
+  <Year>2023</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

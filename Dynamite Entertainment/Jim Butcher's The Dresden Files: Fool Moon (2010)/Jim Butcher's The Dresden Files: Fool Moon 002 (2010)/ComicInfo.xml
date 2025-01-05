@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Bob,Harry Dresden,Karrin Murphy,Susan Rodriguez</Characters>
+	<Colorist>Kim Mohan</Colorist>
+	<Day>1</Day>
+	<Editor>Joseph Rybandt</Editor>
+	<GTIN>urn:comicvine:4000-278008</GTIN>
+	<Inker>Chase Conley</Inker>
+	<Letterer>Bill Tortolini</Letterer>
+	<Locations>Chicago</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:12:53 [Issue ID 4000-278008] urn:comicvine:4000-278008</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1598058" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1178789"/>
+		<Page Image="2" ImageSize="1497206"/>
+		<Page Image="3" ImageSize="1561617"/>
+		<Page Image="4" ImageSize="1705050"/>
+		<Page Image="5" ImageSize="1629749"/>
+		<Page Image="6" ImageSize="1878075"/>
+		<Page Image="7" ImageSize="1786212"/>
+		<Page Image="8" ImageSize="1622623"/>
+		<Page Image="9" ImageSize="1886449"/>
+		<Page Image="10" ImageSize="1707624"/>
+		<Page Image="11" ImageSize="1536541"/>
+		<Page Image="12" ImageSize="1816513"/>
+		<Page Image="13" ImageSize="1531397"/>
+		<Page Image="14" ImageSize="1590230"/>
+		<Page Image="15" ImageSize="1304494"/>
+		<Page Image="16" ImageSize="1648096"/>
+		<Page Image="17" ImageSize="1498628"/>
+		<Page Image="18" ImageSize="1492425"/>
+		<Page Image="19" ImageSize="1757996"/>
+		<Page Image="20" ImageSize="1746092"/>
+		<Page Image="21" ImageSize="1716336"/>
+		<Page Image="22" ImageSize="1690904"/>
+		<Page Image="23" ImageSize="562872"/>
+	</Pages>
+	<Penciller>Chase Conley</Penciller>
+	<Publisher>Dynamite Entertainment</Publisher>
+	<Series>Jim Butcher's The Dresden Files: Fool Moon</Series>
+	<Summary>Harry's been on the outs with his close friend and most important client, Lt. Karrin Murphy, for months. Now, she's finally brought him back into the fold -- to help her solve a series of brutal, bloody murders that appear to have been committed by a werewolf. But even as he begins his investigation, Harry's problems are already piling up: there's no shortage of suspects, and apparently, no shortage of werewolves in Chicago; the Chicago PD still looks at him with suspicion; and the FBI doesn't trust him or Murphy. And his old ''friend,'' mob boss Gentleman Johnny Marcone, is waiting for the right moment to enter the fray...
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-11 08:56:48.  [CVDB278008]
+
+https://comicvine.gamespot.com/jim-butchers-dresden-files-fool-moon-2/4000-278008/</Summary>
+	<Tags>Bob,Chicago,Harry Dresden,Karrin Murphy,Susan Rodriguez,Werewolves</Tags>
+	<Teams>Werewolves</Teams>
+	<Volume>2010</Volume>
+	<Web>https://comicvine.gamespot.com/jim-butchers-dresden-files-fool-moon-2/4000-278008/</Web>
+	<Writer>Jim Butcher,Mark Powers</Writer>
+	<Year>2010</Year>
+</ComicInfo>

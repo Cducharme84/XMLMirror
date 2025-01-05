@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Shaky</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>15</Day>
+	<GTIN>urn:comicvine:4000-453219</GTIN>
+	<Inker>Fernando Melek</Inker>
+	<Locations>London,Orkney Islands</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:17 [Issue ID 4000-453219] urn:comicvine:4000-453219</Notes>
+	<Number>28</Number>
+	<PageCount>3</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="334115" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="799" ImageSize="269895"/>
+		<Page Image="2" ImageSize="272863"/>
+	</Pages>
+	<Penciller>Fernando Melek</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital-Empire)</ScanInformation>
+	<Series>Crossed: Wish You Were Here Interlude</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-28-episode-28/4000-453219/</Summary>
+	<Tags>London,Orkney Islands,Shaky</Tags>
+	<Title>Episode 28</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-28-episode-28/4000-453219/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2014</Year>
+</ComicInfo>

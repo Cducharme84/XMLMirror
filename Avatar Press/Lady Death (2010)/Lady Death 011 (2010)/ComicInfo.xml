@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Behemoth,Valora,Stigmata,Wargoth,Satasha,Dinah,Magdalyn,Lady Death,Death Queen,Tormina</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-301142</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Castle Death,Hell</Locations>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:55 [Issue ID 4000-301142] urn:comicvine:4000-301142 urn:grandcomicsdatabase:issue/892397
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:44:37. [Issue ID 892397]</Notes>
+  <Number>11</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1955770" Type="FrontCover" />
+    <Page Image="1" ImageSize="610348" />
+    <Page Image="2" ImageSize="2215717" />
+    <Page Image="3" ImageSize="2196755" />
+    <Page Image="4" ImageSize="2186517" />
+    <Page Image="5" ImageSize="2243903" />
+    <Page Image="6" ImageSize="1991802" />
+    <Page Image="7" ImageSize="2209944" />
+    <Page Image="8" ImageSize="2298243" />
+    <Page Image="9" ImageSize="1995612" />
+    <Page Image="10" ImageSize="2189850" />
+    <Page Image="11" ImageSize="1672364" />
+    <Page Image="12" ImageSize="2218825" />
+    <Page Image="13" ImageSize="1764581" />
+    <Page Image="14" ImageSize="1744692" />
+    <Page Image="15" ImageSize="1827345" />
+    <Page Image="16" ImageSize="1846272" />
+    <Page Image="17" ImageSize="1961478" />
+    <Page Image="18" ImageSize="2075076" />
+    <Page Image="19" ImageSize="1842540" />
+    <Page Image="20" ImageSize="1961458" />
+    <Page Image="21" ImageSize="1938616" />
+    <Page Image="22" ImageSize="2141003" />
+    <Page Image="23" ImageSize="1939310" />
+    <Page Image="24" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-301142/</Web>
+  <Year>2010</Year>
+</ComicInfo>

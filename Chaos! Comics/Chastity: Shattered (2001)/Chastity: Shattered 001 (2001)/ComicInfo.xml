@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Chastity,Kendra,McGranger,Midknight,Miyu,Savagri</Characters>
+	<Colorist>Hi-Fi</Colorist>
+	<Count>3</Count>
+	<Editor>Brian Pulido</Editor>
+	<GTIN>urn:comicvine:4000-125266</GTIN>
+	<Inker>Adriano Batista</Inker>
+	<Letterer>Comicraft,Oscar Gongora</Letterer>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:39:39 [Issue ID 4000-125266] urn:comicvine:4000-125266 urn:grandcomicsdatabase:issue/538900</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="800" ImageHeight="1219" ImageSize="160301" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="800" ImageHeight="1227" ImageSize="122281"/>
+		<Page Image="2" ImageWidth="800" ImageHeight="1244" ImageSize="190145"/>
+		<Page Image="3" ImageWidth="800" ImageHeight="1244" ImageSize="144686"/>
+		<Page Image="4" ImageWidth="800" ImageHeight="1248" ImageSize="153482"/>
+		<Page Image="5" ImageWidth="800" ImageHeight="1227" ImageSize="193437"/>
+		<Page Image="6" ImageWidth="800" ImageHeight="1239" ImageSize="201629"/>
+		<Page Image="7" ImageWidth="800" ImageHeight="1238" ImageSize="182659"/>
+		<Page Image="8" ImageWidth="800" ImageHeight="1242" ImageSize="182968"/>
+		<Page Image="9" ImageWidth="800" ImageHeight="1240" ImageSize="189627"/>
+		<Page Image="10" ImageWidth="800" ImageHeight="1220" ImageSize="179463"/>
+		<Page Image="11" ImageWidth="800" ImageHeight="1233" ImageSize="150167"/>
+		<Page Image="12" ImageWidth="800" ImageHeight="1244" ImageSize="158302"/>
+		<Page Image="13" ImageWidth="800" ImageHeight="1233" ImageSize="179333"/>
+		<Page Image="14" ImageWidth="800" ImageHeight="1230" ImageSize="173194"/>
+		<Page Image="15" ImageWidth="800" ImageHeight="1233" ImageSize="160250"/>
+		<Page Image="16" ImageWidth="800" ImageHeight="1240" ImageSize="154590"/>
+		<Page Image="17" ImageWidth="800" ImageHeight="1233" ImageSize="172919"/>
+		<Page Image="18" ImageWidth="800" ImageHeight="1235" ImageSize="189484"/>
+		<Page Image="19" ImageWidth="800" ImageHeight="1233" ImageSize="163348"/>
+		<Page Image="20" ImageWidth="800" ImageHeight="1244" ImageSize="176425"/>
+		<Page Image="21" ImageWidth="800" ImageHeight="1220" ImageSize="159238"/>
+		<Page Image="22" ImageWidth="800" ImageHeight="1233" ImageSize="112967"/>
+		<Page Image="23" ImageSize="33018"/>
+	</Pages>
+	<Penciller>Adriano Batista</Penciller>
+	<Publisher>Chaos! Comics</Publisher>
+	<Series>Chastity: Shattered</Series>
+	<Summary>https://comicvine.gamespot.com/chastity-shattered-1/4000-125266/</Summary>
+	<Title>Files</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-125266/</Web>
+	<Writer>Brian Pulido,Len Kaminski</Writer>
+	<Year>2001</Year>
+</ComicInfo>

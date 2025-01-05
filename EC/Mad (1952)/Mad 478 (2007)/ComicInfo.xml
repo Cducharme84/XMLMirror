@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Melvin,Spider-Man,Venom,Black Spy,Alfred E. Neuman,Leonidas,Magnum,Monroe,Simon Cowell,Rosie O'Donnell,Ice-T,Jenkins,Howie Mandel,White Spy,Dog Chapman,Al Gore,RoboCop,Ozzy Osbourne,Dick Tracy,Sandman,Aunt May,Jay Leno,Eddie Brock,Bob Saget,Hillary Clinton</Characters>
+  <Colorist>Al Jaffee,Peter Kuper</Colorist>
+  <Editor>Dave Croatto,Greg Leitman,John Ficarra</Editor>
+  <GTIN>urn:comicvine:4000-129319</GTIN>
+  <Inker>Al Jaffee,Brian Durniak,Drew Friedman,Hermann Mejia,John Caldwell,Mark Fredrickson,Mort Drucker,Paul Coker,Peter Bagge,Peter Kuper,Sergio Aragonés,Tom Fowler,Tom Richmond,Drew Friedman</Inker>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:21:23 [Issue ID 4000-129319] urn:comicvine:4000-129319
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 23:57:22. [Issue ID 352951]</Notes>
+  <Number>478</Number>
+  <PageCount>46</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1876" ImageSize="870733" ImageWidth="1447" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1857" ImageSize="1047613" ImageWidth="1437" />
+    <Page Image="2" ImageHeight="1867" ImageSize="958157" ImageWidth="1432" />
+    <Page Image="3" ImageHeight="1862" ImageSize="964962" ImageWidth="1432" />
+    <Page Image="4" ImageHeight="1872" ImageSize="934002" ImageWidth="1428" />
+    <Page Image="5" ImageHeight="1867" ImageSize="1206576" ImageWidth="1425" />
+    <Page Image="6" ImageHeight="1872" ImageSize="994801" ImageWidth="1423" />
+    <Page Image="7" ImageHeight="1867" ImageSize="1069258" ImageWidth="1428" />
+    <Page Image="8" ImageHeight="1867" ImageSize="765726" ImageWidth="1423" />
+    <Page Image="9" ImageHeight="1872" ImageSize="1054233" ImageWidth="1428" />
+    <Page Image="10" ImageHeight="1872" ImageSize="1062199" ImageWidth="1420" />
+    <Page Image="11" ImageHeight="1867" ImageSize="948747" ImageWidth="1420" />
+    <Page Image="12" ImageHeight="1872" ImageSize="883955" ImageWidth="1425" />
+    <Page Image="13" ImageHeight="1872" ImageSize="1056432" ImageWidth="1423" />
+    <Page Image="14" ImageHeight="1867" ImageSize="975798" ImageWidth="1425" />
+    <Page Image="15" ImageHeight="1872" ImageSize="1094265" ImageWidth="1428" />
+    <Page Image="16" ImageHeight="1872" ImageSize="1105613" ImageWidth="1423" />
+    <Page Image="17" ImageHeight="1872" ImageSize="1159586" ImageWidth="1428" />
+    <Page Image="18" ImageHeight="1872" ImageSize="823826" ImageWidth="1423" />
+    <Page Image="19" ImageHeight="1868" ImageSize="2332475" ImageWidth="2853" />
+    <Page Image="20" ImageHeight="1876" ImageSize="2005749" ImageWidth="2857" />
+    <Page Image="21" ImageHeight="1872" ImageSize="1088398" ImageWidth="1428" />
+    <Page Image="22" ImageHeight="1872" ImageSize="1222023" ImageWidth="1425" />
+    <Page Image="23" ImageHeight="1861" ImageSize="2738395" ImageWidth="2868" />
+    <Page Image="24" ImageHeight="1876" ImageSize="1405731" ImageWidth="1423" />
+    <Page Image="25" ImageHeight="1872" ImageSize="969895" ImageWidth="1420" />
+    <Page Image="26" ImageHeight="1867" ImageSize="2282898" ImageWidth="2849" />
+    <Page Image="27" ImageHeight="1872" ImageSize="2382818" ImageWidth="2848" />
+    <Page Image="28" ImageHeight="1867" ImageSize="1178410" ImageWidth="1423" />
+    <Page Image="29" ImageHeight="1872" ImageSize="1112242" ImageWidth="1428" />
+    <Page Image="30" ImageHeight="2860" ImageSize="2137588" ImageWidth="1881" />
+    <Page Image="31" ImageHeight="1876" ImageSize="2091655" ImageWidth="2868" />
+    <Page Image="32" ImageHeight="1880" ImageSize="2506484" ImageWidth="2865" />
+    <Page Image="33" ImageHeight="1880" ImageSize="2159253" ImageWidth="2854" />
+    <Page Image="34" ImageHeight="1867" ImageSize="1086394" ImageWidth="1418" />
+    <Page Image="35" ImageHeight="1867" ImageSize="1274146" ImageWidth="1428" />
+    <Page Image="36" ImageHeight="1872" ImageSize="1248406" ImageWidth="1423" />
+    <Page Image="37" ImageHeight="1876" ImageSize="1205769" ImageWidth="1428" />
+    <Page Image="38" ImageHeight="1867" ImageSize="1254428" ImageWidth="1423" />
+    <Page Image="39" ImageHeight="1872" ImageSize="1019179" ImageWidth="1428" />
+    <Page Image="40" ImageHeight="1876" ImageSize="1032548" ImageWidth="1413" />
+    <Page Image="41" ImageHeight="1872" ImageSize="947418" ImageWidth="1437" />
+    <Page Image="42" ImageHeight="1872" ImageSize="309023" ImageWidth="664" />
+    <Page Image="43" ImageHeight="1872" ImageSize="763202" ImageWidth="1418" />
+    <Page Image="44" ImageHeight="1673" ImageSize="566923" ImageWidth="1285" />
+    <Page Image="45" ImageSize="66789" />
+  </Pages>
+  <Penciller>Al Jaffee,Brian Durniak,Drew Friedman,Hermann Mejia,John Caldwell,Mark Fredrickson,Mort Drucker,Paul Coker,Peter Bagge,Peter Kuper,Sergio Aragonés,Tom Fowler,Tom Richmond,Drew Friedman</Penciller>
+  <Publisher>EC</Publisher>
+  <Series>Mad</Series>
+  <Summary>MAD takes a bite out of Spider-Man 3, and spoofs Dog the Bounty Hunter and Law and Order: SVU! MAD also pokes fun at 1 vs 100, spelling bees, 5th graders and mallrats. Plus, Spy vs. Spy, Monroe, Planet Tad, the Fold-In and much more!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-11 23:09:15.  [Issue ID 129319]
+
+https://comicvine.gamespot.com/mad-478-we-crack-on-spider-man-3/4000-129319/</Summary>
+  <Tags>Melvin,Spider-Man,Venom,Black Spy,Alfred E. Neuman,Leonidas,Magnum,Monroe,Simon Cowell,Rosie O'Donnell,Ice-T,Jenkins,Howie Mandel,White Spy,Dog Chapman,Al Gore,RoboCop,Ozzy Osbourne,Dick Tracy,Sandman,Aunt May,Jay Leno,Eddie Brock,Spartans,Bob Saget,Hillary Clinton</Tags>
+  <Teams>Spartans</Teams>
+  <Title>Photos Peter Parker Couldn't Sell to the Daily Bugle</Title>
+  <Volume>1952</Volume>
+  <Web>https://comicvine.gamespot.com/mad-478-we-crack-on-spider-man-3/4000-129319/</Web>
+  <Writer>Al Jaffee,Anthony Barbieri,Arnie Kogen,Dennis Snee,Jacob Lambert,Jeff Kruse,John Caldwell,Peter Kuper,Sergio Aragonés,Tim Carvell,Jacob Lambert</Writer>
+  <Year>2007</Year>
+  <Count>550</Count>
+  <Genre>Satire-parody</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

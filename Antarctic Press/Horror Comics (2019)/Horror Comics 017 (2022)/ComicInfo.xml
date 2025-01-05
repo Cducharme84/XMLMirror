@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>34</Count>
+	<Day>2</Day>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-1049995</GTIN>
+	<Genre>Anthology,Horror</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-11T00:28:24 [Issue ID 4000-1049995] urn:comicvine:4000-1049995 urn:grandcomicsdatabase:issue/2447359</Notes>
+	<Number>17</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3961" ImageSize="2586775" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3961" ImageSize="850585"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3961" ImageSize="1098547"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3961" ImageSize="1017790"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3961" ImageSize="1188434"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3961" ImageSize="1213795"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3961" ImageSize="1250866"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3961" ImageSize="1218684"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3961" ImageSize="1391888"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3961" ImageSize="1408242"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3961" ImageSize="1243768"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3961" ImageSize="1188164"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3961" ImageSize="1181463"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3961" ImageSize="804656"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3961" ImageSize="1309722"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3961" ImageSize="1242326"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3961" ImageSize="1454032"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3961" ImageSize="1524359"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3961" ImageSize="1144293"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3961" ImageSize="1389901"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3961" ImageSize="1413003"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3961" ImageSize="1306357"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3961" ImageSize="1550684"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3961" ImageSize="1521446"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3961" ImageSize="1702869"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3961" ImageSize="1299633"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3961" ImageSize="1402899"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3961" ImageSize="1758701"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3961" ImageSize="1812432"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3961" ImageSize="1727636"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3961" ImageSize="1920341"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3961" ImageSize="1885578"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3961" ImageSize="1743754"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3961" ImageSize="2129694"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3961" ImageSize="1288511"/>
+		<Page Image="35" ImageSize="3033304"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Horror Comics</Series>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/horror-comics-17/4000-1049995/</Web>
+	<Year>2022</Year>
+</ComicInfo>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>8</Count>
+	<Day>2</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comixology:766734</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Bryan Baugh</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-27T23:50:16 urn:comixology:766734</Notes>
+	<Number>7</Number>
+	<PageCount>47</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3072" ImageSize="560334" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="2982" ImageSize="156482"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3072" ImageSize="1231796"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3072" ImageSize="734568"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3072" ImageSize="719394"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3072" ImageSize="742112"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3072" ImageSize="825090"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3072" ImageSize="662476"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3072" ImageSize="509332"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3072" ImageSize="540020"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3072" ImageSize="786048"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3072" ImageSize="752414"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3072" ImageSize="682116"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3072" ImageSize="720916"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3072" ImageSize="655102"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3072" ImageSize="813852"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3072" ImageSize="837996"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3072" ImageSize="781048"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3072" ImageSize="868930"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3072" ImageSize="936442"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3072" ImageSize="797266"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3072" ImageSize="788084"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3072" ImageSize="906714"/>
+		<Page Image="23" ImageWidth="1988" ImageHeight="3072" ImageSize="877734"/>
+		<Page Image="24" ImageWidth="1988" ImageHeight="3072" ImageSize="842362"/>
+		<Page Image="25" ImageWidth="1988" ImageHeight="3072" ImageSize="776614"/>
+		<Page Image="26" ImageWidth="1988" ImageHeight="3072" ImageSize="702798"/>
+		<Page Image="27" ImageWidth="1988" ImageHeight="3072" ImageSize="835856"/>
+		<Page Image="28" ImageWidth="1988" ImageHeight="3072" ImageSize="818734"/>
+		<Page Image="29" ImageWidth="1988" ImageHeight="3072" ImageSize="523928"/>
+		<Page Image="30" ImageWidth="1988" ImageHeight="3072" ImageSize="709166"/>
+		<Page Image="31" ImageWidth="1988" ImageHeight="3072" ImageSize="691764"/>
+		<Page Image="32" ImageWidth="1988" ImageHeight="3072" ImageSize="700112"/>
+		<Page Image="33" ImageWidth="1988" ImageHeight="3072" ImageSize="694832"/>
+		<Page Image="34" ImageWidth="1988" ImageHeight="3072" ImageSize="794988"/>
+		<Page Image="35" ImageWidth="1988" ImageHeight="3072" ImageSize="678022"/>
+		<Page Image="36" ImageWidth="1988" ImageHeight="3072" ImageSize="680156"/>
+		<Page Image="37" ImageWidth="1988" ImageHeight="3072" ImageSize="707764"/>
+		<Page Image="38" ImageWidth="1988" ImageHeight="3072" ImageSize="898176"/>
+		<Page Image="39" ImageWidth="1988" ImageHeight="3072" ImageSize="769466"/>
+		<Page Image="40" ImageWidth="1988" ImageHeight="3072" ImageSize="785632"/>
+		<Page Image="41" ImageWidth="1988" ImageHeight="3072" ImageSize="833512"/>
+		<Page Image="42" ImageWidth="1988" ImageHeight="3072" ImageSize="632530"/>
+		<Page Image="43" ImageWidth="1988" ImageHeight="3072" ImageSize="711032"/>
+		<Page Image="44" ImageWidth="1988" ImageHeight="3072" ImageSize="667282"/>
+		<Page Image="45" ImageWidth="1988" ImageHeight="3072" ImageSize="552058"/>
+		<Page Image="46" ImageSize="499208"/>
+	</Pages>
+	<Penciller>Bryan Baugh</Penciller>
+	<Publisher>Crypt Logic Comics</Publisher>
+	<ScanInformation>Bean-Empire</ScanInformation>
+	<Series>Wulf and Batsy: Magnum Orgus</Series>
+	<Summary>"Magnum Orgus" Chapter 7 of 8.
+All of our characters, good and evil, experience the aftershocks of Cevin "Wulf" Orlock's deadly scheme from Chapter 6, and tensions build toward a final conflict.</Summary>
+	<Volume>2019</Volume>
+	<Web>https://www.comixology.com/Wulf-and-Batsy-Magnum-Orgus-7/digital-comic/766734</Web>
+	<Writer>Bryan Baugh</Writer>
+	<Year>2019</Year>
+</ComicInfo>

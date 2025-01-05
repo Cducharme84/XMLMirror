@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Acid Angel,Cassie Hack,Lunch Lady,Vlad</Characters>
+	<Colorist>Katie DeSousa</Colorist>
+	<Count>2</Count>
+	<Day>1</Day>
+	<Editor>Mike O'Sullivan</Editor>
+	<GTIN>urn:comicvine:4000-133425</GTIN>
+	<Inker>Sean K. Dove,Stefano Caselli</Inker>
+	<Letterer>Brian J. Crowley</Letterer>
+	<Locations>Minnesota</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:02:40 [Issue ID 4000-133425] urn:comicvine:4000-133425</Notes>
+	<Number>0</Number>
+	<PageCount>15</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="550192" Type="FrontCover"/>
+		<Page Image="1" ImageSize="688905"/>
+		<Page Image="2" ImageSize="940601"/>
+		<Page Image="3" ImageSize="1121411"/>
+		<Page Image="4" ImageSize="758524"/>
+		<Page Image="5" ImageSize="343394"/>
+		<Page Image="6" ImageSize="394959"/>
+		<Page Image="7" ImageSize="429327"/>
+		<Page Image="8" ImageSize="378616"/>
+		<Page Image="9" ImageSize="515137"/>
+		<Page Image="10" ImageSize="1204820"/>
+		<Page Image="11" ImageSize="692076"/>
+		<Page Image="12" ImageSize="714127"/>
+		<Page Image="13" ImageSize="717832"/>
+		<Page Image="14" ImageSize="245272"/>
+	</Pages>
+	<Penciller>Sean K. Dove,Stefano Caselli</Penciller>
+	<Publisher>Devil's Due</Publisher>
+	<Series>Hack/Slash: Slice Hard</Series>
+	<Summary>A prelude to Slice Hard, where we find out who kidnapped Cassie and Vlad and met Acid Angel for the first time.</Summary>
+	<Title>Slice Hard Pre-Sliced 25-Cent Special</Title>
+	<Volume>2006</Volume>
+	<Web>https://comicvine.gamespot.com/hackslash-slice-hard-0-slice-hard-pre-sliced-25-ce/4000-133425/</Web>
+	<Year>2006</Year>
+</ComicInfo>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Milk,Booga,Hugo Tate,Cheese</Characters>
+  <Editor>Si Spencer</Editor>
+  <GTIN>urn:comicvine:4000-277021</GTIN>
+  <Inker>D'Israeli,Evan Dorkin,Glyn Dillon,Jamie Hewlett,Nick Abadzis,Philip Bond,Shaky Kane</Inker>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:04 [Issue ID 4000-277021] urn:comicvine:4000-277021
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:36:48. [Issue ID 648212]</Notes>
+  <Number>31</Number>
+  <PageCount>63</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2080" ImageSize="1216753" ImageWidth="1600" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2094" ImageSize="413612" ImageWidth="1600" />
+    <Page Image="2" ImageHeight="2079" ImageSize="783326" ImageWidth="1600" />
+    <Page Image="3" ImageHeight="2137" ImageSize="602321" ImageWidth="1600" />
+    <Page Image="4" ImageHeight="2077" ImageSize="1322350" ImageWidth="1600" />
+    <Page Image="5" ImageHeight="2083" ImageSize="1828416" ImageWidth="3200" />
+    <Page Image="6" ImageHeight="2067" ImageSize="1553346" ImageWidth="1600" />
+    <Page Image="7" ImageHeight="2098" ImageSize="1071538" ImageWidth="1600" />
+    <Page Image="8" ImageHeight="2095" ImageSize="923449" ImageWidth="1600" />
+    <Page Image="9" ImageHeight="2071" ImageSize="1023115" ImageWidth="1600" />
+    <Page Image="10" ImageHeight="2081" ImageSize="985651" ImageWidth="1600" />
+    <Page Image="11" ImageHeight="2074" ImageSize="1271318" ImageWidth="1600" />
+    <Page Image="12" ImageHeight="2067" ImageSize="2054251" ImageWidth="3200" />
+    <Page Image="13" ImageHeight="2067" ImageSize="1300496" ImageWidth="1600" />
+    <Page Image="14" ImageHeight="2079" ImageSize="882947" ImageWidth="1600" />
+    <Page Image="15" ImageHeight="2081" ImageSize="499964" ImageWidth="1600" />
+    <Page Image="16" ImageHeight="2092" ImageSize="776523" ImageWidth="1600" />
+    <Page Image="17" ImageHeight="2103" ImageSize="898117" ImageWidth="1600" />
+    <Page Image="18" ImageHeight="2103" ImageSize="860017" ImageWidth="1600" />
+    <Page Image="19" ImageHeight="2078" ImageSize="988676" ImageWidth="1600" />
+    <Page Image="20" ImageHeight="2093" ImageSize="771662" ImageWidth="1600" />
+    <Page Image="21" ImageHeight="2090" ImageSize="914109" ImageWidth="1600" />
+    <Page Image="22" ImageHeight="2091" ImageSize="879331" ImageWidth="1600" />
+    <Page Image="23" ImageHeight="2093" ImageSize="2145214" ImageWidth="3200" />
+    <Page Image="24" ImageHeight="2094" ImageSize="989066" ImageWidth="1600" />
+    <Page Image="25" ImageHeight="2098" ImageSize="931416" ImageWidth="1600" />
+    <Page Image="26" ImageHeight="2097" ImageSize="1030129" ImageWidth="1600" />
+    <Page Image="27" ImageHeight="2098" ImageSize="1069536" ImageWidth="1600" />
+    <Page Image="28" ImageHeight="2103" ImageSize="1204712" ImageWidth="3200" />
+    <Page Image="29" ImageHeight="2112" ImageSize="822700" ImageWidth="1600" />
+    <Page Image="30" ImageHeight="2075" ImageSize="627058" ImageWidth="1600" />
+    <Page Image="31" ImageHeight="2103" ImageSize="962984" ImageWidth="1600" />
+    <Page Image="32" ImageHeight="2077" ImageSize="1015115" ImageWidth="1600" />
+    <Page Image="33" ImageHeight="2110" ImageSize="707152" ImageWidth="1600" />
+    <Page Image="34" ImageHeight="2116" ImageSize="481277" ImageWidth="1600" />
+    <Page Image="35" ImageHeight="2107" ImageSize="619857" ImageWidth="1600" />
+    <Page Image="36" ImageHeight="2111" ImageSize="700262" ImageWidth="1600" />
+    <Page Image="37" ImageHeight="2100" ImageSize="628793" ImageWidth="1600" />
+    <Page Image="38" ImageHeight="2126" ImageSize="997647" ImageWidth="1600" />
+    <Page Image="39" ImageHeight="2129" ImageSize="966066" ImageWidth="1600" />
+    <Page Image="40" ImageHeight="2107" ImageSize="995787" ImageWidth="1600" />
+    <Page Image="41" ImageHeight="2099" ImageSize="886474" ImageWidth="1600" />
+    <Page Image="42" ImageHeight="2094" ImageSize="1074749" ImageWidth="1600" />
+    <Page Image="43" ImageHeight="2099" ImageSize="1667804" ImageWidth="3200" />
+    <Page Image="44" ImageHeight="2091" ImageSize="804429" ImageWidth="1600" />
+    <Page Image="45" ImageHeight="2078" ImageSize="828549" ImageWidth="1600" />
+    <Page Image="46" ImageHeight="2076" ImageSize="872950" ImageWidth="1600" />
+    <Page Image="47" ImageHeight="2095" ImageSize="956650" ImageWidth="1600" />
+    <Page Image="48" ImageHeight="2114" ImageSize="1218414" ImageWidth="1600" />
+    <Page Image="49" ImageHeight="2110" ImageSize="1000021" ImageWidth="1600" />
+    <Page Image="50" ImageHeight="2104" ImageSize="533541" ImageWidth="1600" />
+    <Page Image="51" ImageHeight="2126" ImageSize="913460" ImageWidth="1600" />
+    <Page Image="52" ImageHeight="2096" ImageSize="1022116" ImageWidth="1600" />
+    <Page Image="53" ImageHeight="2114" ImageSize="952313" ImageWidth="1600" />
+    <Page Image="54" ImageHeight="2070" ImageSize="874184" ImageWidth="1600" />
+    <Page Image="55" ImageHeight="2098" ImageSize="1097641" ImageWidth="1600" />
+    <Page Image="56" ImageHeight="2094" ImageSize="1004531" ImageWidth="1600" />
+    <Page Image="57" ImageHeight="2070" ImageSize="1030706" ImageWidth="1600" />
+    <Page Image="58" ImageHeight="2093" ImageSize="1078077" ImageWidth="1600" />
+    <Page Image="59" ImageHeight="2078" ImageSize="931746" ImageWidth="1600" />
+    <Page Image="60" ImageHeight="2106" ImageSize="834780" ImageWidth="1600" />
+    <Page Image="61" ImageHeight="2083" ImageSize="1117020" ImageWidth="1600" />
+    <Page Image="62" ImageSize="529723" />
+  </Pages>
+  <Penciller>D'Israeli,Evan Dorkin,Glyn Dillon,Jamie Hewlett,Nick Abadzis,Philip Bond,Shaky Kane</Penciller>
+  <Publisher>Deadline Publications</Publisher>
+  <ScanInformation>(S23Scan)</ScanInformation>
+  <Series>Deadline</Series>
+  <Summary>https://comicvine.gamespot.com/deadline-31/4000-277021/</Summary>
+  <Teams>Milk And Cheese</Teams>
+  <Volume>1988</Volume>
+  <Web>https://comicvine.gamespot.com/deadline-31/4000-277021/</Web>
+  <Writer>Evan Dorkin,Jamie Hewlett,Nick Abadzis,Shaky Kane,Shane Oakley</Writer>
+  <Year>1991</Year>
+  <Count>71</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

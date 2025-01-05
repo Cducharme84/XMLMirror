@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>46</Count>
+  <Day>31</Day>
+  <GTIN>urn:comicvine:4000-222213</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:32:12 [Issue ID 4000-222213] urn:comicvine:4000-222213
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 00:02:23. [Issue ID 260189]</Notes>
+  <Number>21</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="227726" Type="FrontCover" />
+    <Page Image="1" ImageSize="445061" />
+    <Page Image="2" ImageSize="512532" />
+    <Page Image="3" ImageSize="522610" />
+    <Page Image="4" ImageSize="457895" />
+    <Page Image="5" ImageSize="550386" />
+    <Page Image="6" ImageSize="549067" />
+    <Page Image="7" ImageSize="527929" />
+    <Page Image="8" ImageSize="493452" />
+    <Page Image="9" ImageSize="641990" />
+    <Page Image="10" ImageSize="600152" />
+    <Page Image="11" ImageSize="538362" />
+    <Page Image="12" ImageSize="446951" />
+    <Page Image="13" ImageSize="439937" />
+    <Page Image="14" ImageSize="455515" />
+    <Page Image="15" ImageSize="542156" />
+    <Page Image="16" ImageSize="424760" />
+    <Page Image="17" ImageSize="455012" />
+    <Page Image="18" ImageSize="476293" />
+    <Page Image="19" ImageSize="504021" />
+    <Page Image="20" ImageSize="517810" />
+    <Page Image="21" ImageSize="473763" />
+    <Page Image="22" ImageSize="467029" />
+    <Page Image="23" ImageSize="466853" />
+    <Page Image="24" ImageSize="353950" />
+    <Page Image="25" ImageSize="102774" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>PvP</Series>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/pvp-21/4000-222213/</Web>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

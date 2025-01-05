@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Milo Mummy</Characters>
+  <Day>18</Day>
+  <GTIN>urn:comicvine:4000-689104</GTIN>
+  <Inker>Aaron S. Pittman,Mason Dickerson,Scott McMahon,Shan Murphy,Yehudi Mercado</Inker>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:50:19 [Issue ID 4000-689104] urn:comicvine:4000-689104
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 03:37:54. [Issue ID 1936487]</Notes>
+  <Number>2</Number>
+  <PageCount>140</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1639594" Type="FrontCover" />
+    <Page Image="1" ImageSize="679138" />
+    <Page Image="2" ImageSize="3329636" />
+    <Page Image="3" ImageSize="1474165" />
+    <Page Image="4" ImageSize="1525728" />
+    <Page Image="5" ImageSize="1640757" />
+    <Page Image="6" ImageSize="1420770" />
+    <Page Image="7" ImageSize="1504406" />
+    <Page Image="8" ImageSize="1222655" />
+    <Page Image="9" ImageSize="1551613" />
+    <Page Image="10" ImageSize="1388225" />
+    <Page Image="11" ImageSize="1451838" />
+    <Page Image="12" ImageSize="1367386" />
+    <Page Image="13" ImageSize="1485383" />
+    <Page Image="14" ImageSize="1389062" />
+    <Page Image="15" ImageSize="1458480" />
+    <Page Image="16" ImageSize="1918683" />
+    <Page Image="17" ImageSize="1621088" />
+    <Page Image="18" ImageSize="1462488" />
+    <Page Image="19" ImageSize="1428767" />
+    <Page Image="20" ImageSize="1385906" />
+    <Page Image="21" ImageSize="1543633" />
+    <Page Image="22" ImageSize="1543366" />
+    <Page Image="23" ImageSize="1659806" />
+    <Page Image="24" ImageSize="1506851" />
+    <Page Image="25" ImageSize="1402508" />
+    <Page Image="26" ImageSize="1456990" />
+    <Page Image="27" ImageSize="1417865" />
+    <Page Image="28" ImageSize="367100" />
+    <Page Image="29" ImageSize="1002656" />
+    <Page Image="30" ImageSize="1874494" />
+    <Page Image="31" ImageSize="1661730" />
+    <Page Image="32" ImageSize="1367985" />
+    <Page Image="33" ImageSize="1312974" />
+    <Page Image="34" ImageSize="1298432" />
+    <Page Image="35" ImageSize="1584302" />
+    <Page Image="36" ImageSize="1514520" />
+    <Page Image="37" ImageSize="1424469" />
+    <Page Image="38" ImageSize="1366701" />
+    <Page Image="39" ImageSize="1439467" />
+    <Page Image="40" ImageSize="1330041" />
+    <Page Image="41" ImageSize="1538202" />
+    <Page Image="42" ImageSize="1347065" />
+    <Page Image="43" ImageSize="1388366" />
+    <Page Image="44" ImageSize="1518975" />
+    <Page Image="45" ImageSize="1581898" />
+    <Page Image="46" ImageSize="1710482" />
+    <Page Image="47" ImageSize="1651079" />
+    <Page Image="48" ImageSize="1184195" />
+    <Page Image="49" ImageSize="1040344" />
+    <Page Image="50" ImageSize="1207409" />
+    <Page Image="51" ImageSize="820796" />
+    <Page Image="52" ImageSize="1019037" />
+    <Page Image="53" ImageSize="1139075" />
+    <Page Image="54" ImageSize="367100" />
+    <Page Image="55" ImageSize="1122739" />
+    <Page Image="56" ImageSize="1593113" />
+    <Page Image="57" ImageSize="1242171" />
+    <Page Image="58" ImageSize="1488903" />
+    <Page Image="59" ImageSize="1349293" />
+    <Page Image="60" ImageSize="1497763" />
+    <Page Image="61" ImageSize="1625426" />
+    <Page Image="62" ImageSize="1398614" />
+    <Page Image="63" ImageSize="1244888" />
+    <Page Image="64" ImageSize="1518064" />
+    <Page Image="65" ImageSize="1472367" />
+    <Page Image="66" ImageSize="1397195" />
+    <Page Image="67" ImageSize="1451824" />
+    <Page Image="68" ImageSize="1508788" />
+    <Page Image="69" ImageSize="1368163" />
+    <Page Image="70" ImageSize="1505584" />
+    <Page Image="71" ImageSize="1674992" />
+    <Page Image="72" ImageSize="1554792" />
+    <Page Image="73" ImageSize="1413006" />
+    <Page Image="74" ImageSize="1700239" />
+    <Page Image="75" ImageSize="1690246" />
+    <Page Image="76" ImageSize="1809535" />
+    <Page Image="77" ImageSize="1884581" />
+    <Page Image="78" ImageSize="1766033" />
+    <Page Image="79" ImageSize="1808311" />
+    <Page Image="80" ImageSize="367100" />
+    <Page Image="81" ImageSize="1022681" />
+    <Page Image="82" ImageSize="1372349" />
+    <Page Image="83" ImageSize="1213853" />
+    <Page Image="84" ImageSize="1012853" />
+    <Page Image="85" ImageSize="1304063" />
+    <Page Image="86" ImageSize="1429246" />
+    <Page Image="87" ImageSize="1478683" />
+    <Page Image="88" ImageSize="1317188" />
+    <Page Image="89" ImageSize="1397234" />
+    <Page Image="90" ImageSize="1256572" />
+    <Page Image="91" ImageSize="1486177" />
+    <Page Image="92" ImageSize="1542155" />
+    <Page Image="93" ImageSize="1336230" />
+    <Page Image="94" ImageSize="1405148" />
+    <Page Image="95" ImageSize="1486949" />
+    <Page Image="96" ImageSize="1491027" />
+    <Page Image="97" ImageSize="1440541" />
+    <Page Image="98" ImageSize="1616819" />
+    <Page Image="99" ImageSize="1550968" />
+    <Page Image="100" ImageSize="1847302" />
+    <Page Image="101" ImageSize="1755806" />
+    <Page Image="102" ImageSize="1371875" />
+    <Page Image="103" ImageSize="1696290" />
+    <Page Image="104" ImageSize="1491296" />
+    <Page Image="105" ImageSize="1781178" />
+    <Page Image="106" ImageSize="367100" />
+    <Page Image="107" ImageSize="1146045" />
+    <Page Image="108" ImageSize="1519431" />
+    <Page Image="109" ImageSize="1686292" />
+    <Page Image="110" ImageSize="1655177" />
+    <Page Image="111" ImageSize="1575504" />
+    <Page Image="112" ImageSize="1462873" />
+    <Page Image="113" ImageSize="1581576" />
+    <Page Image="114" ImageSize="1508083" />
+    <Page Image="115" ImageSize="1538411" />
+    <Page Image="116" ImageSize="1678593" />
+    <Page Image="117" ImageSize="1495352" />
+    <Page Image="118" ImageSize="1513471" />
+    <Page Image="119" ImageSize="1320024" />
+    <Page Image="120" ImageSize="1360485" />
+    <Page Image="121" ImageSize="1420113" />
+    <Page Image="122" ImageSize="1627717" />
+    <Page Image="123" ImageSize="1731261" />
+    <Page Image="124" ImageSize="1624925" />
+    <Page Image="125" ImageSize="1485585" />
+    <Page Image="126" ImageSize="1360169" />
+    <Page Image="127" ImageSize="1202623" />
+    <Page Image="128" ImageSize="1453908" />
+    <Page Image="129" ImageSize="1257697" />
+    <Page Image="130" ImageSize="1144161" />
+    <Page Image="131" ImageSize="1226913" />
+    <Page Image="132" ImageSize="367100" />
+    <Page Image="133" ImageSize="434303" />
+    <Page Image="134" ImageSize="960233" />
+    <Page Image="135" ImageSize="3013469" />
+    <Page Image="136" ImageSize="2633564" />
+    <Page Image="137" ImageSize="4193622" />
+    <Page Image="138" ImageSize="2690121" />
+    <Page Image="139" ImageSize="525008" />
+  </Pages>
+  <Penciller>Aaron S. Pittman,Mason Dickerson,Scott McMahon,Shan Murphy,Yehudi Mercado</Penciller>
+  <Publisher>Lion Forge</Publisher>
+  <Series>Wrapped Up</Series>
+  <Summary>Your favorite mummy boy, Milo, just can't catch a break! No matter how much he tries to stay out of trouble, trouble finds him! Snacks go missing during a camping trip, his dad gets pulled into a dangerous martial tournament, and his best friend somehow ends up in Wizard Prison! Under any circumstances, however, Milo will always come through to save the day! Usually. This volume includes backstories drawn by Yehudi Mercado, Mason Dickerson, Sean Mac, Aaron Pittman, and Shan Murphy.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-29 01:55:51.  [Issue ID 689104]
+
+https://comicvine.gamespot.com/wrapped-up-2-volume-2/4000-689104/</Summary>
+  <Tags>Milo Mummy</Tags>
+  <Title>Volume 2</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/wrapped-up-2-volume-2/4000-689104/</Web>
+  <Writer>Dave Scheidt</Writer>
+  <Year>2018</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

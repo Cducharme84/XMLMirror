@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Everyone</AgeRating>
+  <Format>Limited Series</Format>
+  <Genre>Superhero</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-23T22:50:12</Notes>
+  <Number>2</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3831" ImageSize="2279205" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3832" ImageSize="769122" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3831" ImageSize="1104439" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3831" ImageSize="1401637" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3831" ImageSize="931698" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3831" ImageSize="1136183" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3831" ImageSize="1362344" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3831" ImageSize="1101759" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3831" ImageSize="1278942" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3831" ImageSize="1351191" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3831" ImageSize="1124858" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3831" ImageSize="1522096" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3832" ImageSize="1636370" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3831" ImageSize="1453064" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3831" ImageSize="699871" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3832" ImageSize="1121712" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3831" ImageSize="1363343" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3831" ImageSize="1331696" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3831" ImageSize="1075782" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3831" ImageSize="1095128" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3831" ImageSize="1293620" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3831" ImageSize="1235148" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3831" ImageSize="1655710" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3831" ImageSize="1276370" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Bounce House Comics</Publisher>
+  <Series>The Bouncy Ball Man</Series>
+  <Volume>2022</Volume>
+  <Writer>Caleb York</Writer>
+  <Summary>The semi-epic saga of Bouncy Ball Man continues in his second issue. Old enemies resurface, domestic issues reach a boiling point, and there's even murderous kangaroos too! You don't want to miss this one!</Summary>
+  <Year>2023</Year>
+</ComicInfo>

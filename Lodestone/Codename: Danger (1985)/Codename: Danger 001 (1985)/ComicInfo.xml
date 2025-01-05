@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Colorist>Paty Cockrum</Colorist>
+  <Editor>Brian Marshall,David M. Singer,Mike Marshall</Editor>
+  <GTIN>urn:comicvine:4000-111059</GTIN>
+  <Inker>Bob McLeod,Mike Harris</Inker>
+  <Letterer>John Workman</Letterer>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:05:20 [Issue ID 4000-111059] urn:comicvine:4000-111059
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 02:45:47. [Issue ID 289796]</Notes>
+  <Number>1</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="803493" Type="FrontCover" />
+    <Page Image="1" ImageSize="590748" />
+    <Page Image="2" ImageSize="596944" />
+    <Page Image="3" ImageSize="517251" />
+    <Page Image="4" ImageSize="1112011" />
+    <Page Image="5" ImageSize="628028" />
+    <Page Image="6" ImageSize="543546" />
+    <Page Image="7" ImageSize="542929" />
+    <Page Image="8" ImageSize="487622" />
+    <Page Image="9" ImageSize="574977" />
+    <Page Image="10" ImageSize="672696" />
+    <Page Image="11" ImageSize="663741" />
+    <Page Image="12" ImageSize="620971" />
+    <Page Image="13" ImageSize="640448" />
+    <Page Image="14" ImageSize="609356" />
+    <Page Image="15" ImageSize="647954" />
+    <Page Image="16" ImageSize="557771" />
+    <Page Image="17" ImageSize="470969" />
+    <Page Image="18" ImageSize="537377" />
+    <Page Image="19" ImageSize="556711" />
+    <Page Image="20" ImageSize="501523" />
+    <Page Image="21" ImageSize="667840" />
+    <Page Image="22" ImageSize="666149" />
+    <Page Image="23" ImageSize="496445" />
+    <Page Image="24" ImageSize="750487" />
+    <Page Image="25" ImageSize="28143" />
+  </Pages>
+  <Penciller>Mike Harris,Rich Buckler</Penciller>
+  <Publisher>Lodestone</Publisher>
+  <Series>Codename: Danger</Series>
+  <Summary>https://comicvine.gamespot.com/codename-danger-1-double-or-nothing/4000-111059/</Summary>
+  <Title>Double or Nothing</Title>
+  <Volume>1985</Volume>
+  <Web>https://comicvine.gamespot.com/codename-danger-1-double-or-nothing/4000-111059/</Web>
+  <Writer>Keith Giffen,Mike Harris,Robert Loren Fleming</Writer>
+  <Year>1985</Year>
+  <Count>4</Count>
+  <Genre>Spy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Characters>Paul Makor</Characters>
+</ComicInfo>

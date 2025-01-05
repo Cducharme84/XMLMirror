@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>4</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-117002</GTIN>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:26:26 [Issue ID 4000-117002] urn:comicvine:4000-117002
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 14:49:59. [Issue ID 117002]</Notes>
+  <Number>2</Number>
+  <PageCount>19</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="361460" Type="FrontCover" />
+    <Page Image="1" ImageSize="401220" />
+    <Page Image="2" ImageSize="517868" />
+    <Page Image="3" ImageSize="386356" />
+    <Page Image="4" ImageSize="473203" />
+    <Page Image="5" ImageSize="372691" />
+    <Page Image="6" ImageSize="492766" />
+    <Page Image="7" ImageSize="439676" />
+    <Page Image="8" ImageSize="368885" />
+    <Page Image="9" ImageSize="408531" />
+    <Page Image="10" ImageSize="385805" />
+    <Page Image="11" ImageSize="377778" />
+    <Page Image="12" ImageSize="371209" />
+    <Page Image="13" ImageSize="336829" />
+    <Page Image="14" ImageSize="382503" />
+    <Page Image="15" ImageSize="373626" />
+    <Page Image="16" ImageSize="402775" />
+    <Page Image="17" ImageSize="347187" />
+    <Page Image="18" ImageSize="504464" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Steve Niles' Strange Cases</Series>
+  <Summary>This is our all-out werewolf action issue! Astan asks Ivy to look into the disappearance of local college students, which leads her to some very ferocious trouble at the slaughterhouse.</Summary>
+  <Teams>Werewolves</Teams>
+  <Title>The Abattor</Title>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/steve-niles-strange-cases-2-the-abattor/4000-117002/</Web>
+  <Year>2007</Year>
+  <Penciller>David Hartman</Penciller>
+  <Inker>David Hartman</Inker>
+  <Colorist>David Hartman</Colorist>
+</ComicInfo>

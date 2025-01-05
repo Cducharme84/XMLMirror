@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Marie Severin</Colorist>
+	<Day>1</Day>
+	<Editor>Al Feldstein</Editor>
+	<GTIN>urn:comicvine:4000-1581</GTIN>
+	<Inker>Jack Kamen,Joe Orlando,Marie Severin,Reed Crandall</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:42:41 [Issue ID 4000-1581] urn:comicvine:4000-1581</Notes>
+	<Number>26</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="417" ImageHeight="612" ImageSize="76455" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1371" ImageHeight="2050" ImageSize="455689"/>
+		<Page Image="2" ImageWidth="1371" ImageHeight="2050" ImageSize="501939"/>
+		<Page Image="3" ImageWidth="1371" ImageHeight="2050" ImageSize="507198"/>
+		<Page Image="4" ImageWidth="1371" ImageHeight="2050" ImageSize="499243"/>
+		<Page Image="5" ImageWidth="1371" ImageHeight="2050" ImageSize="489195"/>
+		<Page Image="6" ImageWidth="1371" ImageHeight="2050" ImageSize="504528"/>
+		<Page Image="7" ImageWidth="1371" ImageHeight="2050" ImageSize="448438"/>
+		<Page Image="8" ImageWidth="1371" ImageHeight="2050" ImageSize="509382"/>
+		<Page Image="9" ImageWidth="1371" ImageHeight="2050" ImageSize="456994"/>
+		<Page Image="10" ImageWidth="1371" ImageHeight="2050" ImageSize="497571"/>
+		<Page Image="11" ImageWidth="1371" ImageHeight="2050" ImageSize="522308"/>
+		<Page Image="12" ImageWidth="1371" ImageHeight="2050" ImageSize="494819"/>
+		<Page Image="13" ImageWidth="1371" ImageHeight="2050" ImageSize="485978"/>
+		<Page Image="14" ImageWidth="1371" ImageHeight="2050" ImageSize="505615"/>
+		<Page Image="15" ImageWidth="1371" ImageHeight="2050" ImageSize="383525"/>
+		<Page Image="16" ImageWidth="1371" ImageHeight="2050" ImageSize="429020"/>
+		<Page Image="17" ImageWidth="1371" ImageHeight="2050" ImageSize="429278"/>
+		<Page Image="18" ImageWidth="1371" ImageHeight="2050" ImageSize="423707"/>
+		<Page Image="19" ImageWidth="1371" ImageHeight="2050" ImageSize="513998"/>
+		<Page Image="20" ImageWidth="1371" ImageHeight="2050" ImageSize="510904"/>
+		<Page Image="21" ImageWidth="1371" ImageHeight="2050" ImageSize="589443"/>
+		<Page Image="22" ImageWidth="1371" ImageHeight="2050" ImageSize="547840"/>
+		<Page Image="23" ImageWidth="1371" ImageHeight="2050" ImageSize="520292"/>
+		<Page Image="24" ImageWidth="1371" ImageHeight="2050" ImageSize="389279"/>
+		<Page Image="25" ImageWidth="1371" ImageHeight="2050" ImageSize="452832"/>
+		<Page Image="26" ImageWidth="1371" ImageHeight="2050" ImageSize="479760"/>
+		<Page Image="27" ImageWidth="1371" ImageHeight="2050" ImageSize="490298"/>
+		<Page Image="28" ImageWidth="1371" ImageHeight="2050" ImageSize="495384"/>
+		<Page Image="29" ImageWidth="1371" ImageHeight="2050" ImageSize="488637"/>
+		<Page Image="30" ImageWidth="1371" ImageHeight="2050" ImageSize="517622"/>
+		<Page Image="31" ImageSize="509112"/>
+	</Pages>
+	<Penciller>Jack Kamen,Joe Orlando,Marie Severin,Reed Crandall</Penciller>
+	<Publisher>EC</Publisher>
+	<Series>Crime SuspenStories</Series>
+	<Summary>https://comicvine.gamespot.com/crime-suspenstories-26/4000-1581/</Summary>
+	<Volume>1950</Volume>
+	<Web>https://comicvine.gamespot.com/crime-suspenstories-26/4000-1581/</Web>
+	<Writer>Al Feldstein,Carl Wessler</Writer>
+	<Year>1955</Year>
+</ComicInfo>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cuda</Characters>
+  <Count>5</Count>
+  <Country>US</Country>
+  <Editor>Barry Gregory</Editor>
+  <Format>Miniseries</Format>
+  <GTIN>urn:comicvine:4000-133358</GTIN>
+  <Inker>Adam McDaniel,Tim Vigil</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:16 [Issue ID 4000-133358] urn:comicvine:4000-133358 urn:grandcomicsdatabase:issue/805616
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:46:12. [Issue ID 805616]</Notes>
+  <Number>0</Number>
+  <PageCount>77</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1572" ImageSize="438139" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1571" ImageSize="386676" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1563" ImageSize="458192" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1577" ImageSize="242030" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1525" ImageSize="555241" ImageWidth="955" />
+    <Page Image="5" ImageHeight="1520" ImageSize="283692" ImageWidth="966" />
+    <Page Image="6" ImageHeight="1522" ImageSize="281715" ImageWidth="969" />
+    <Page Image="7" ImageHeight="1522" ImageSize="251879" ImageWidth="966" />
+    <Page Image="8" ImageHeight="1523" ImageSize="242056" ImageWidth="977" />
+    <Page Image="9" ImageHeight="1524" ImageSize="238965" ImageWidth="977" />
+    <Page Image="10" ImageHeight="1523" ImageSize="233719" ImageWidth="976" />
+    <Page Image="11" ImageHeight="1521" ImageSize="246134" ImageWidth="979" />
+    <Page Image="12" ImageHeight="1517" ImageSize="263522" ImageWidth="975" />
+    <Page Image="13" ImageHeight="1520" ImageSize="334753" ImageWidth="974" />
+    <Page Image="14" ImageHeight="1518" ImageSize="298823" ImageWidth="978" />
+    <Page Image="15" ImageHeight="1522" ImageSize="287718" ImageWidth="972" />
+    <Page Image="16" ImageHeight="1521" ImageSize="297655" ImageWidth="979" />
+    <Page Image="17" ImageHeight="1525" ImageSize="341441" ImageWidth="974" />
+    <Page Image="18" ImageHeight="1520" ImageSize="311722" ImageWidth="978" />
+    <Page Image="19" ImageHeight="1523" ImageSize="333108" ImageWidth="980" />
+    <Page Image="20" ImageHeight="1524" ImageSize="310736" ImageWidth="981" />
+    <Page Image="21" ImageHeight="1521" ImageSize="264904" ImageWidth="975" />
+    <Page Image="22" ImageHeight="1523" ImageSize="301259" ImageWidth="984" />
+    <Page Image="23" ImageHeight="1522" ImageSize="287767" ImageWidth="975" />
+    <Page Image="24" ImageHeight="1521" ImageSize="314239" ImageWidth="976" />
+    <Page Image="25" ImageHeight="1520" ImageSize="296040" ImageWidth="975" />
+    <Page Image="26" ImageHeight="1523" ImageSize="275656" ImageWidth="975" />
+    <Page Image="27" ImageHeight="1520" ImageSize="345886" ImageWidth="976" />
+    <Page Image="28" ImageHeight="1520" ImageSize="322791" ImageWidth="981" />
+    <Page Image="29" ImageHeight="1522" ImageSize="349843" ImageWidth="979" />
+    <Page Image="30" ImageHeight="1524" ImageSize="266220" ImageWidth="976" />
+    <Page Image="31" ImageHeight="1523" ImageSize="333387" ImageWidth="975" />
+    <Page Image="32" ImageHeight="1521" ImageSize="330914" ImageWidth="977" />
+    <Page Image="33" ImageHeight="1523" ImageSize="257383" ImageWidth="993" />
+    <Page Image="34" ImageHeight="1522" ImageSize="248194" ImageWidth="979" />
+    <Page Image="35" ImageHeight="1518" ImageSize="273402" ImageWidth="982" />
+    <Page Image="36" ImageHeight="1524" ImageSize="252887" ImageWidth="991" />
+    <Page Image="37" ImageHeight="1521" ImageSize="272882" ImageWidth="988" />
+    <Page Image="38" ImageHeight="1524" ImageSize="273359" ImageWidth="986" />
+    <Page Image="39" ImageHeight="1521" ImageSize="273219" ImageWidth="982" />
+    <Page Image="40" ImageHeight="1521" ImageSize="281816" ImageWidth="991" />
+    <Page Image="41" ImageHeight="1521" ImageSize="280223" ImageWidth="988" />
+    <Page Image="42" ImageHeight="1525" ImageSize="310124" ImageWidth="988" />
+    <Page Image="43" ImageHeight="1523" ImageSize="227855" ImageWidth="979" />
+    <Page Image="44" ImageHeight="1524" ImageSize="328331" ImageWidth="982" />
+    <Page Image="45" ImageHeight="1522" ImageSize="299823" ImageWidth="978" />
+    <Page Image="46" ImageHeight="1526" ImageSize="292431" ImageWidth="989" />
+    <Page Image="47" ImageHeight="1523" ImageSize="305042" ImageWidth="984" />
+    <Page Image="48" ImageHeight="1526" ImageSize="315165" ImageWidth="977" />
+    <Page Image="49" ImageHeight="1518" ImageSize="319128" ImageWidth="978" />
+    <Page Image="50" ImageHeight="1527" ImageSize="349544" ImageWidth="984" />
+    <Page Image="51" ImageHeight="1521" ImageSize="397314" ImageWidth="989" />
+    <Page Image="52" ImageHeight="1525" ImageSize="351089" ImageWidth="976" />
+    <Page Image="53" ImageHeight="1524" ImageSize="402610" ImageWidth="976" />
+    <Page Image="54" ImageHeight="1524" ImageSize="366405" ImageWidth="981" />
+    <Page Image="55" ImageHeight="1525" ImageSize="307747" ImageWidth="989" />
+    <Page Image="56" ImageHeight="1525" ImageSize="301591" ImageWidth="982" />
+    <Page Image="57" ImageHeight="1523" ImageSize="331067" ImageWidth="979" />
+    <Page Image="58" ImageHeight="1526" ImageSize="337140" ImageWidth="984" />
+    <Page Image="59" ImageHeight="1524" ImageSize="534377" ImageWidth="972" />
+    <Page Image="60" ImageHeight="1525" ImageSize="305665" ImageWidth="985" />
+    <Page Image="61" ImageHeight="1524" ImageSize="131621" ImageWidth="969" />
+    <Page Image="62" ImageHeight="1591" ImageSize="423450" ImageWidth="1024" />
+    <Page Image="63" ImageHeight="1526" ImageSize="700303" ImageWidth="968" />
+    <Page Image="64" ImageHeight="1524" ImageSize="594825" ImageWidth="968" />
+    <Page Image="65" ImageHeight="1595" ImageSize="483312" ImageWidth="1024" />
+    <Page Image="66" ImageHeight="1525" ImageSize="665852" ImageWidth="972" />
+    <Page Image="67" ImageHeight="1525" ImageSize="657465" ImageWidth="966" />
+    <Page Image="68" ImageHeight="1522" ImageSize="642612" ImageWidth="966" />
+    <Page Image="69" ImageHeight="1525" ImageSize="685348" ImageWidth="974" />
+    <Page Image="70" ImageHeight="1524" ImageSize="666092" ImageWidth="973" />
+    <Page Image="71" ImageHeight="1524" ImageSize="656010" ImageWidth="973" />
+    <Page Image="72" ImageHeight="1525" ImageSize="645325" ImageWidth="968" />
+    <Page Image="73" ImageHeight="1597" ImageSize="465835" ImageWidth="1024" />
+    <Page Image="74" ImageHeight="1525" ImageSize="603947" ImageWidth="973" />
+    <Page Image="75" ImageHeight="1524" ImageSize="356577" ImageWidth="990" />
+    <Page Image="76" ImageSize="372608" />
+  </Pages>
+  <Penciller>Tim Vigil</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Cuda</Series>
+  <Summary>Variant covers exist for the following issues: #1 (A and B), #2 (A, B, C).</Summary>
+  <Volume>1998</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-133358/</Web>
+  <Writer>Mark Seifert,Tim Vigil,William Christensen</Writer>
+  <Year>1999</Year>
+</ComicInfo>

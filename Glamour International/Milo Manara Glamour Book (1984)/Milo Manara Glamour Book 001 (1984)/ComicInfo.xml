@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>2</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-945913</GTIN>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:40:27 [Issue ID 4000-945913] urn:comicvine:4000-945913
+Tagged with ComicTagger 1.6.0a13.dev78 using info from Comic Vine on 2024-04-08 00:59:56. [Issue ID 945913]</Notes>
+  <Number>1</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+  </Pages>
+  <Publisher>Glamour International</Publisher>
+  <Series>Milo Manara Glamour Book</Series>
+  <Title>Milo Manara Glamour Book</Title>
+  <Volume>1984</Volume>
+  <Web>https://comicvine.gamespot.com/milo-manara-glamour-book-1-milo-manara-glamour-boo/4000-945913/</Web>
+  <Year>1984</Year>
+  <Penciller>Milo Manara</Penciller>
+  <Inker>Milo Manara</Inker>
+</ComicInfo>

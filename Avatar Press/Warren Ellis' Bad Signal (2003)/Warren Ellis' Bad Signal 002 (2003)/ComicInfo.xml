@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Nimbus Studios</Colorist>
+	<Count>2</Count>
+	<Day>1</Day>
+	<Editor>William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-247074</GTIN>
+	<Inker>Jacen Burrows</Inker>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:46 [Issue ID 4000-247074] urn:comicvine:4000-247074</Notes>
+	<Number>2</Number>
+	<PageCount>68</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="972" ImageHeight="1518" ImageSize="308016" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="940" ImageHeight="1519" ImageSize="397341"/>
+		<Page Image="2" ImageWidth="945" ImageHeight="1518" ImageSize="293975"/>
+		<Page Image="3" ImageWidth="956" ImageHeight="1520" ImageSize="331376"/>
+		<Page Image="4" ImageWidth="953" ImageHeight="1519" ImageSize="343762"/>
+		<Page Image="5" ImageWidth="956" ImageHeight="1521" ImageSize="359412"/>
+		<Page Image="6" ImageWidth="961" ImageHeight="1517" ImageSize="395318"/>
+		<Page Image="7" ImageWidth="960" ImageHeight="1520" ImageSize="344969"/>
+		<Page Image="8" ImageWidth="962" ImageHeight="1518" ImageSize="442841"/>
+		<Page Image="9" ImageWidth="959" ImageHeight="1522" ImageSize="368866"/>
+		<Page Image="10" ImageWidth="960" ImageHeight="1521" ImageSize="402705"/>
+		<Page Image="11" ImageWidth="967" ImageHeight="1514" ImageSize="375816"/>
+		<Page Image="12" ImageWidth="960" ImageHeight="1521" ImageSize="369347"/>
+		<Page Image="13" ImageWidth="967" ImageHeight="1515" ImageSize="320933"/>
+		<Page Image="14" ImageWidth="961" ImageHeight="1520" ImageSize="371273"/>
+		<Page Image="15" ImageWidth="962" ImageHeight="1514" ImageSize="422780"/>
+		<Page Image="16" ImageWidth="964" ImageHeight="1521" ImageSize="405147"/>
+		<Page Image="17" ImageWidth="964" ImageHeight="1514" ImageSize="401414"/>
+		<Page Image="18" ImageWidth="967" ImageHeight="1521" ImageSize="349331"/>
+		<Page Image="19" ImageWidth="970" ImageHeight="1518" ImageSize="420832"/>
+		<Page Image="20" ImageWidth="968" ImageHeight="1520" ImageSize="423828"/>
+		<Page Image="21" ImageWidth="967" ImageHeight="1520" ImageSize="416421"/>
+		<Page Image="22" ImageWidth="968" ImageHeight="1518" ImageSize="388000"/>
+		<Page Image="23" ImageWidth="964" ImageHeight="1521" ImageSize="387007"/>
+		<Page Image="24" ImageWidth="969" ImageHeight="1518" ImageSize="341345"/>
+		<Page Image="25" ImageWidth="962" ImageHeight="1520" ImageSize="360635"/>
+		<Page Image="26" ImageWidth="963" ImageHeight="1522" ImageSize="388497"/>
+		<Page Image="27" ImageWidth="965" ImageHeight="1516" ImageSize="361454"/>
+		<Page Image="28" ImageWidth="964" ImageHeight="1521" ImageSize="387220"/>
+		<Page Image="29" ImageWidth="962" ImageHeight="1517" ImageSize="256411"/>
+		<Page Image="30" ImageWidth="963" ImageHeight="1522" ImageSize="420968"/>
+		<Page Image="31" ImageWidth="964" ImageHeight="1516" ImageSize="395576"/>
+		<Page Image="32" ImageWidth="964" ImageHeight="1522" ImageSize="366578"/>
+		<Page Image="33" ImageWidth="964" ImageHeight="1518" ImageSize="369939"/>
+		<Page Image="34" ImageWidth="963" ImageHeight="1522" ImageSize="364866"/>
+		<Page Image="35" ImageWidth="967" ImageHeight="1517" ImageSize="337333"/>
+		<Page Image="36" ImageWidth="965" ImageHeight="1518" ImageSize="389852"/>
+		<Page Image="37" ImageWidth="966" ImageHeight="1519" ImageSize="372656"/>
+		<Page Image="38" ImageWidth="966" ImageHeight="1520" ImageSize="417024"/>
+		<Page Image="39" ImageWidth="964" ImageHeight="1521" ImageSize="398398"/>
+		<Page Image="40" ImageWidth="966" ImageHeight="1515" ImageSize="368203"/>
+		<Page Image="41" ImageWidth="964" ImageHeight="1521" ImageSize="417087"/>
+		<Page Image="42" ImageWidth="961" ImageHeight="1521" ImageSize="385471"/>
+		<Page Image="43" ImageWidth="966" ImageHeight="1516" ImageSize="395717"/>
+		<Page Image="44" ImageWidth="964" ImageHeight="1521" ImageSize="420973"/>
+		<Page Image="45" ImageWidth="966" ImageHeight="1517" ImageSize="347718"/>
+		<Page Image="46" ImageWidth="961" ImageHeight="1521" ImageSize="380842"/>
+		<Page Image="47" ImageWidth="963" ImageHeight="1518" ImageSize="409068"/>
+		<Page Image="48" ImageWidth="962" ImageHeight="1521" ImageSize="335928"/>
+		<Page Image="49" ImageWidth="967" ImageHeight="1518" ImageSize="402940"/>
+		<Page Image="50" ImageWidth="963" ImageHeight="1522" ImageSize="421990"/>
+		<Page Image="51" ImageWidth="962" ImageHeight="1518" ImageSize="386845"/>
+		<Page Image="52" ImageWidth="962" ImageHeight="1520" ImageSize="405493"/>
+		<Page Image="53" ImageWidth="963" ImageHeight="1520" ImageSize="370334"/>
+		<Page Image="54" ImageWidth="966" ImageHeight="1520" ImageSize="378561"/>
+		<Page Image="55" ImageWidth="963" ImageHeight="1522" ImageSize="407457"/>
+		<Page Image="56" ImageWidth="964" ImageHeight="1521" ImageSize="419456"/>
+		<Page Image="57" ImageWidth="965" ImageHeight="1521" ImageSize="399739"/>
+		<Page Image="58" ImageWidth="961" ImageHeight="1522" ImageSize="373176"/>
+		<Page Image="59" ImageWidth="965" ImageHeight="1518" ImageSize="427396"/>
+		<Page Image="60" ImageWidth="962" ImageHeight="1520" ImageSize="419955"/>
+		<Page Image="61" ImageWidth="961" ImageHeight="1517" ImageSize="391136"/>
+		<Page Image="62" ImageWidth="956" ImageHeight="1522" ImageSize="348937"/>
+		<Page Image="63" ImageWidth="959" ImageHeight="1514" ImageSize="421928"/>
+		<Page Image="64" ImageWidth="960" ImageHeight="1523" ImageSize="382537"/>
+		<Page Image="65" ImageWidth="954" ImageHeight="1517" ImageSize="423389"/>
+		<Page Image="66" ImageWidth="954" ImageHeight="1522" ImageSize="367730"/>
+		<Page Image="67" ImageSize="412870"/>
+	</Pages>
+	<Penciller>Jacen Burrows</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Warren Ellis' Bad Signal</Series>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/warren-ellis-bad-signal-2/4000-247074/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2003</Year>
+</ComicInfo>

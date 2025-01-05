@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Nyota Uhura,James T. Kirk,Montgomery Scott,Hikaru Sulu,Apollo,Spock,Leonard McCoy,Pavel Chekov</Characters>
+  <Day>6</Day>
+  <Editor>Chris Ryall</Editor>
+  <Format>Digital</Format>
+  <GTIN>urn:comicvine:4000-528388</GTIN>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:53:52 [Issue ID 4000-528388] urn:comicvine:4000-528388
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 15:23:47. [Issue ID 1566597]</Notes>
+  <Number>11</Number>
+  <PageCount>58</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="907324" ImageWidth="1987" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="523016" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1161396" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1213184" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1102058" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="907354" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1108420" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="958262" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1084616" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="901920" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="928336" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="907743" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="969777" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="955936" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1012493" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="870567" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="944315" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="962141" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="945691" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="1063289" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="958139" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="935469" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="914700" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1217959" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="990886" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1089186" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1094208" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="993078" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="925942" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="758698" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="965388" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="994426" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="917229" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="837829" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1199357" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="1132489" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="1109228" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="990757" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1031315" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="1068720" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1126610" ImageWidth="1988" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1312554" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1152231" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="287049" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1633655" ImageWidth="1988" />
+    <Page Image="45" ImageHeight="3056" ImageSize="962455" ImageWidth="1988" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1333291" ImageWidth="1988" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1013938" ImageWidth="1988" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1057591" ImageWidth="1988" />
+    <Page Image="49" ImageHeight="3056" ImageSize="452989" ImageWidth="1981" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1860265" ImageWidth="2012" />
+    <Page Image="51" ImageHeight="3056" ImageSize="2375699" ImageWidth="1988" />
+    <Page Image="52" ImageHeight="3056" ImageSize="1501594" ImageWidth="1988" />
+    <Page Image="53" ImageHeight="3056" ImageSize="1901079" ImageWidth="1988" />
+    <Page Image="54" ImageHeight="3056" ImageSize="1086352" ImageWidth="1988" />
+    <Page Image="55" ImageHeight="3056" ImageSize="1517319" ImageWidth="1988" />
+    <Page Image="56" ImageHeight="3056" ImageSize="1839337" ImageWidth="1988" />
+    <Page Image="57" ImageSize="44226" />
+  </Pages>
+  <Publisher>IDW</Publisher>
+  <ScanInformation>(digital) (TLK-EMPIRE-HD)</ScanInformation>
+  <Series>Star Trek: New Visions</Series>
+  <Summary>A god cannot die, and a story never truly ends. Dr. McCoy confronts Captain Kirk with a staggering discovery -- Lt. Carolyn Palamas is pregnant with the child of Apollo. Or is she? Find out in "Of Woman Born," courtesy of photomanipulator extraordinaire, John Byrne.
+
+https://comicvine.gamespot.com/star-trek-new-visions-11-of-woman-born/4000-528388/</Summary>
+  <Tags>Nyota Uhura,James T. Kirk,Hikaru Sulu,Montgomery Scott,Enterprise Crew,Apollo,Spock,Leonard McCoy,Pavel Chekov</Tags>
+  <Teams>Enterprise Crew</Teams>
+  <Title>Swarm; I Sing of Arms and Heroes; Of Woman Born</Title>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/star-trek-new-visions-11-of-woman-born/4000-528388/</Web>
+  <Year>2016</Year>
+  <Count>22</Count>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Writer>John Byrne</Writer>
+  <Penciller>John Byrne</Penciller>
+  <Inker>John Byrne</Inker>
+  <Colorist>John Byrne</Colorist>
+  <Letterer>John Byrne</Letterer>
+</ComicInfo>

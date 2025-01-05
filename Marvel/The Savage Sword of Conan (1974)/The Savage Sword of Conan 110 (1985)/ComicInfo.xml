@@ -1,0 +1,98 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Conan</Characters>
+  <Editor>Jim Shooter,Larry Hama,Pat Redding</Editor>
+  <GTIN>urn:comicvine:4000-122368</GTIN>
+  <Inker>Earl Norem,Ernie Chan,Gary Kwapisz,Tim Burgard,Gary Kwapisz,Tim Burgard</Inker>
+  <Letterer>Joe Rosen</Letterer>
+  <Locations>Hyboria</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T13:43:06 [Issue ID 4000-122368] urn:comicvine:4000-122368
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 11:24:08. [Issue ID 174717]</Notes>
+  <Number>110</Number>
+  <PageCount>65</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1421" ImageSize="918384" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1437" ImageSize="491877" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1405" ImageSize="191110" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1438" ImageSize="248143" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1459" ImageSize="268356" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1380" ImageSize="175007" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1427" ImageSize="277042" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1444" ImageSize="274544" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1448" ImageSize="288190" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1458" ImageSize="270289" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1436" ImageSize="274653" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1458" ImageSize="286874" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1450" ImageSize="266593" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1445" ImageSize="199786" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1450" ImageSize="171135" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1431" ImageSize="300525" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1444" ImageSize="205908" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1442" ImageSize="228204" ImageWidth="1027" />
+    <Page Image="18" ImageHeight="1456" ImageSize="372134" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1504" ImageSize="1029508" ImageWidth="2048" />
+    <Page Image="20" ImageHeight="1438" ImageSize="292734" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1452" ImageSize="357073" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1473" ImageSize="1060689" ImageWidth="2048" />
+    <Page Image="23" ImageHeight="1438" ImageSize="267109" ImageWidth="1024" />
+    <Page Image="24" ImageHeight="1439" ImageSize="302927" ImageWidth="1024" />
+    <Page Image="25" ImageHeight="1451" ImageSize="308097" ImageWidth="1024" />
+    <Page Image="26" ImageHeight="1453" ImageSize="311534" ImageWidth="1024" />
+    <Page Image="27" ImageHeight="1430" ImageSize="300653" ImageWidth="1024" />
+    <Page Image="28" ImageHeight="1457" ImageSize="400556" ImageWidth="1024" />
+    <Page Image="29" ImageHeight="1441" ImageSize="211221" ImageWidth="1024" />
+    <Page Image="30" ImageHeight="1425" ImageSize="546057" ImageWidth="1024" />
+    <Page Image="31" ImageHeight="1461" ImageSize="337529" ImageWidth="1024" />
+    <Page Image="32" ImageHeight="1454" ImageSize="300069" ImageWidth="1024" />
+    <Page Image="33" ImageHeight="1441" ImageSize="286129" ImageWidth="1024" />
+    <Page Image="34" ImageHeight="1441" ImageSize="345577" ImageWidth="1024" />
+    <Page Image="35" ImageHeight="1448" ImageSize="282863" ImageWidth="1024" />
+    <Page Image="36" ImageHeight="1439" ImageSize="233848" ImageWidth="1024" />
+    <Page Image="37" ImageHeight="1450" ImageSize="290998" ImageWidth="1024" />
+    <Page Image="38" ImageHeight="1425" ImageSize="295434" ImageWidth="1024" />
+    <Page Image="39" ImageHeight="1466" ImageSize="1067363" ImageWidth="2048" />
+    <Page Image="40" ImageHeight="1447" ImageSize="240833" ImageWidth="1024" />
+    <Page Image="41" ImageHeight="1442" ImageSize="255667" ImageWidth="1024" />
+    <Page Image="42" ImageHeight="1438" ImageSize="261870" ImageWidth="1024" />
+    <Page Image="43" ImageHeight="1460" ImageSize="278487" ImageWidth="1024" />
+    <Page Image="44" ImageHeight="1444" ImageSize="222344" ImageWidth="1024" />
+    <Page Image="45" ImageHeight="1455" ImageSize="296731" ImageWidth="1024" />
+    <Page Image="46" ImageHeight="1455" ImageSize="328051" ImageWidth="1024" />
+    <Page Image="47" ImageHeight="1442" ImageSize="255343" ImageWidth="1024" />
+    <Page Image="48" ImageHeight="1424" ImageSize="252281" ImageWidth="1024" />
+    <Page Image="49" ImageHeight="1432" ImageSize="299632" ImageWidth="1024" />
+    <Page Image="50" ImageHeight="1437" ImageSize="315574" ImageWidth="1024" />
+    <Page Image="51" ImageHeight="1437" ImageSize="306835" ImageWidth="1024" />
+    <Page Image="52" ImageHeight="1450" ImageSize="352857" ImageWidth="1024" />
+    <Page Image="53" ImageHeight="1432" ImageSize="350107" ImageWidth="1024" />
+    <Page Image="54" ImageHeight="1453" ImageSize="386113" ImageWidth="1024" />
+    <Page Image="55" ImageHeight="1450" ImageSize="375823" ImageWidth="1024" />
+    <Page Image="56" ImageHeight="1434" ImageSize="330995" ImageWidth="1024" />
+    <Page Image="57" ImageHeight="1445" ImageSize="329881" ImageWidth="1024" />
+    <Page Image="58" ImageHeight="1445" ImageSize="339826" ImageWidth="1024" />
+    <Page Image="59" ImageHeight="1425" ImageSize="363155" ImageWidth="1024" />
+    <Page Image="60" ImageHeight="1447" ImageSize="326535" ImageWidth="1024" />
+    <Page Image="61" ImageHeight="1454" ImageSize="371209" ImageWidth="1024" />
+    <Page Image="62" ImageHeight="1471" ImageSize="153492" ImageWidth="1024" />
+    <Page Image="63" ImageHeight="1437" ImageSize="581649" ImageWidth="1024" />
+    <Page Image="64" ImageSize="521465" />
+  </Pages>
+  <Penciller>Earl Norem,Ernie Chan,Gary Kwapisz,Tim Burgard,Gary Kwapisz,Tim Burgard</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>The Savage Sword of Conan</Series>
+  <Summary>The Army of the Dead!: Conan fights for life in a frozen city besieged by the dead.
+
+The Dinner Guest: Conan is an uninvited dinner guest at a farm house where he defends an elderly couple (and himself) from bandits.
+
+</Summary>
+  <Tags>Conan,Hyboria</Tags>
+  <Title>The Army of the Dead!; The Dinner Guest</Title>
+  <Volume>1974</Volume>
+  <Web>https://comicvine.gamespot.com/the-savage-sword-of-conan-110-the-army-of-the-dead/4000-122368/</Web>
+  <Writer>Bill Mantlo,Alan Rowlands,Bill Mantlo,Alan Rowlands</Writer>
+  <Year>1985</Year>
+  <Count>235</Count>
+  <CoverArtist>Earl Norem</CoverArtist>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

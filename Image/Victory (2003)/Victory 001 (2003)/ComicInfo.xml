@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Victory</Characters>
+  <Count>4</Count>
+  <Day>1</Day>
+  <Editor>Rômulo Soares</Editor>
+  <GTIN>urn:comicvine:4000-141483</GTIN>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:26:04 [Issue ID 4000-141483] urn:comicvine:4000-141483
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 14:38:51. [Issue ID 141483]</Notes>
+  <Number>1</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="319724" Type="FrontCover" />
+    <Page Image="1" ImageSize="361255" />
+    <Page Image="2" ImageSize="317141" />
+    <Page Image="3" ImageSize="339488" />
+    <Page Image="4" ImageSize="300664" />
+    <Page Image="5" ImageSize="291903" />
+    <Page Image="6" ImageSize="311556" />
+    <Page Image="7" ImageSize="330279" />
+    <Page Image="8" ImageSize="343622" />
+    <Page Image="9" ImageSize="324957" />
+    <Page Image="10" ImageSize="327288" />
+    <Page Image="11" ImageSize="359442" />
+    <Page Image="12" ImageSize="329661" />
+    <Page Image="13" ImageSize="301183" />
+    <Page Image="14" ImageSize="269797" />
+    <Page Image="15" ImageSize="331969" />
+    <Page Image="16" ImageSize="301785" />
+    <Page Image="17" ImageSize="254519" />
+    <Page Image="18" ImageSize="241302" />
+    <Page Image="19" ImageSize="324075" />
+    <Page Image="20" ImageSize="327953" />
+    <Page Image="21" ImageSize="365935" />
+    <Page Image="22" ImageSize="317097" />
+    <Page Image="23" ImageSize="363451" />
+    <Page Image="24" ImageSize="327662" />
+    <Page Image="25" ImageSize="311759" />
+    <Page Image="26" ImageSize="275850" />
+  </Pages>
+  <Penciller>Eduardo Francisco,Eduardo Francisco</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Victory</Series>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/victory-1/4000-141483/</Web>
+  <Writer>Marcelo Cassaro</Writer>
+  <Year>2003</Year>
+  <CoverArtist>Roger Cruz</CoverArtist>
+</ComicInfo>

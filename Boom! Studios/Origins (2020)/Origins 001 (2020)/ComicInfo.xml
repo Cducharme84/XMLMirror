@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>David Adams</Characters>
+	<Colorist>Patricio Delpeche</Colorist>
+	<Day>5</Day>
+	<Editor>Amanda LaFranco,Dafna Pleban,Gavin Gronenthal</Editor>
+	<GTIN>urn:comicvine:4000-816008</GTIN>
+	<Genre>Post Apocalyptic,Science Fiction</Genre>
+	<Inker>Jakub Rebelka</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Jim Campbell</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:57:34 [Issue ID 4000-816008] urn:comicvine:4000-816008</Notes>
+	<Number>1</Number>
+	<PageCount>143</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1990" ImageHeight="3056" ImageSize="881163" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="3971" ImageHeight="3056" ImageSize="1104778"/>
+		<Page Image="2" ImageWidth="3976" ImageHeight="3056" ImageSize="1173977"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="405032"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="903296"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="1025969"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="1015591"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="1018584"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="947289"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="732096"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="852947"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="740518"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="898573"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="674419"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="855988"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="737695"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="846724"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1056035"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="880489"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="1043796"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="919381"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="796122"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="812823"/>
+		<Page Image="23" ImageWidth="1988" ImageHeight="3056" ImageSize="657439"/>
+		<Page Image="24" ImageWidth="1988" ImageHeight="3056" ImageSize="672290"/>
+		<Page Image="25" ImageWidth="1988" ImageHeight="3056" ImageSize="705165"/>
+		<Page Image="26" ImageWidth="1988" ImageHeight="3056" ImageSize="661144"/>
+		<Page Image="27" ImageWidth="1988" ImageHeight="3056" ImageSize="667501"/>
+		<Page Image="28" ImageWidth="1988" ImageHeight="3056" ImageSize="650252"/>
+		<Page Image="29" ImageWidth="3976" ImageHeight="3056" ImageSize="1675470"/>
+		<Page Image="30" ImageWidth="1988" ImageHeight="3056" ImageSize="640812"/>
+		<Page Image="31" ImageWidth="1988" ImageHeight="3056" ImageSize="859792"/>
+		<Page Image="32" ImageWidth="1988" ImageHeight="3056" ImageSize="962867"/>
+		<Page Image="33" ImageWidth="1988" ImageHeight="3056" ImageSize="640704"/>
+		<Page Image="34" ImageWidth="1988" ImageHeight="3056" ImageSize="855322"/>
+		<Page Image="35" ImageWidth="1988" ImageHeight="3056" ImageSize="920949"/>
+		<Page Image="36" ImageWidth="1988" ImageHeight="3056" ImageSize="861566"/>
+		<Page Image="37" ImageWidth="1988" ImageHeight="3056" ImageSize="999098"/>
+		<Page Image="38" ImageWidth="1988" ImageHeight="3056" ImageSize="898505"/>
+		<Page Image="39" ImageWidth="1988" ImageHeight="3056" ImageSize="817366"/>
+		<Page Image="40" ImageWidth="1988" ImageHeight="3056" ImageSize="1048979"/>
+		<Page Image="41" ImageWidth="1988" ImageHeight="3056" ImageSize="839794"/>
+		<Page Image="42" ImageWidth="1988" ImageHeight="3056" ImageSize="794563"/>
+		<Page Image="43" ImageWidth="1988" ImageHeight="3056" ImageSize="652043"/>
+		<Page Image="44" ImageWidth="1988" ImageHeight="3056" ImageSize="588799"/>
+		<Page Image="45" ImageWidth="1988" ImageHeight="3056" ImageSize="744647"/>
+		<Page Image="46" ImageWidth="1988" ImageHeight="3056" ImageSize="756832"/>
+		<Page Image="47" ImageWidth="1988" ImageHeight="3056" ImageSize="915314"/>
+		<Page Image="48" ImageWidth="1988" ImageHeight="3056" ImageSize="1167055"/>
+		<Page Image="49" ImageWidth="1988" ImageHeight="3056" ImageSize="970619"/>
+		<Page Image="50" ImageWidth="1988" ImageHeight="3056" ImageSize="764396"/>
+		<Page Image="51" ImageWidth="1988" ImageHeight="3056" ImageSize="950875"/>
+		<Page Image="52" ImageWidth="1988" ImageHeight="3056" ImageSize="953914"/>
+		<Page Image="53" ImageWidth="1988" ImageHeight="3056" ImageSize="917831"/>
+		<Page Image="54" ImageWidth="1988" ImageHeight="3056" ImageSize="1121425"/>
+		<Page Image="55" ImageWidth="1988" ImageHeight="3056" ImageSize="1099350"/>
+		<Page Image="56" ImageWidth="1988" ImageHeight="3056" ImageSize="939459"/>
+		<Page Image="57" ImageWidth="1988" ImageHeight="3056" ImageSize="1017129"/>
+		<Page Image="58" ImageWidth="1988" ImageHeight="3056" ImageSize="873260"/>
+		<Page Image="59" ImageWidth="1988" ImageHeight="3056" ImageSize="884548"/>
+		<Page Image="60" ImageWidth="1988" ImageHeight="3056" ImageSize="1032638"/>
+		<Page Image="61" ImageWidth="1988" ImageHeight="3056" ImageSize="1078812"/>
+		<Page Image="62" ImageWidth="1988" ImageHeight="3056" ImageSize="757835"/>
+		<Page Image="63" ImageWidth="1988" ImageHeight="3056" ImageSize="719776"/>
+		<Page Image="64" ImageWidth="1988" ImageHeight="3056" ImageSize="1117197"/>
+		<Page Image="65" ImageWidth="1988" ImageHeight="3056" ImageSize="1176397"/>
+		<Page Image="66" ImageWidth="1988" ImageHeight="3056" ImageSize="990077"/>
+		<Page Image="67" ImageWidth="1988" ImageHeight="3056" ImageSize="846092"/>
+		<Page Image="68" ImageWidth="1988" ImageHeight="3056" ImageSize="699177"/>
+		<Page Image="69" ImageWidth="1988" ImageHeight="3056" ImageSize="914495"/>
+		<Page Image="70" ImageWidth="1988" ImageHeight="3056" ImageSize="844147"/>
+		<Page Image="71" ImageWidth="1988" ImageHeight="3056" ImageSize="760677"/>
+		<Page Image="72" ImageWidth="1988" ImageHeight="3056" ImageSize="780323"/>
+		<Page Image="73" ImageWidth="1988" ImageHeight="3056" ImageSize="902055"/>
+		<Page Image="74" ImageWidth="1988" ImageHeight="3056" ImageSize="882917"/>
+		<Page Image="75" ImageWidth="1988" ImageHeight="3056" ImageSize="1103601"/>
+		<Page Image="76" ImageWidth="1988" ImageHeight="3056" ImageSize="924524"/>
+		<Page Image="77" ImageWidth="1988" ImageHeight="3056" ImageSize="906673"/>
+		<Page Image="78" ImageWidth="1988" ImageHeight="3056" ImageSize="1002764"/>
+		<Page Image="79" ImageWidth="1988" ImageHeight="3056" ImageSize="822592"/>
+		<Page Image="80" ImageWidth="1988" ImageHeight="3056" ImageSize="745051"/>
+		<Page Image="81" ImageWidth="1988" ImageHeight="3056" ImageSize="873478"/>
+		<Page Image="82" ImageWidth="3976" ImageHeight="3056" ImageSize="1768893"/>
+		<Page Image="83" ImageWidth="1988" ImageHeight="3056" ImageSize="794712"/>
+		<Page Image="84" ImageWidth="1988" ImageHeight="3056" ImageSize="958415"/>
+		<Page Image="85" ImageWidth="1988" ImageHeight="3056" ImageSize="865683"/>
+		<Page Image="86" ImageWidth="1988" ImageHeight="3056" ImageSize="834961"/>
+		<Page Image="87" ImageWidth="1988" ImageHeight="3056" ImageSize="695181"/>
+		<Page Image="88" ImageWidth="1988" ImageHeight="3056" ImageSize="908626"/>
+		<Page Image="89" ImageWidth="1988" ImageHeight="3056" ImageSize="768376"/>
+		<Page Image="90" ImageWidth="1988" ImageHeight="3056" ImageSize="1047183"/>
+		<Page Image="91" ImageWidth="1988" ImageHeight="3056" ImageSize="858890"/>
+		<Page Image="92" ImageWidth="1988" ImageHeight="3056" ImageSize="1004755"/>
+		<Page Image="93" ImageWidth="1988" ImageHeight="3056" ImageSize="848374"/>
+		<Page Image="94" ImageWidth="1988" ImageHeight="3056" ImageSize="703354"/>
+		<Page Image="95" ImageWidth="1988" ImageHeight="3056" ImageSize="1046342"/>
+		<Page Image="96" ImageWidth="1988" ImageHeight="3056" ImageSize="940880"/>
+		<Page Image="97" ImageWidth="1988" ImageHeight="3056" ImageSize="773848"/>
+		<Page Image="98" ImageWidth="1988" ImageHeight="3056" ImageSize="1309911"/>
+		<Page Image="99" ImageWidth="1988" ImageHeight="3056" ImageSize="889968"/>
+		<Page Image="100" ImageWidth="1988" ImageHeight="3056" ImageSize="1150507"/>
+		<Page Image="101" ImageWidth="1988" ImageHeight="3056" ImageSize="1098705"/>
+		<Page Image="102" ImageWidth="1988" ImageHeight="3056" ImageSize="1005979"/>
+		<Page Image="103" ImageWidth="1988" ImageHeight="3056" ImageSize="1037042"/>
+		<Page Image="104" ImageWidth="1988" ImageHeight="3056" ImageSize="1010536"/>
+		<Page Image="105" ImageWidth="3976" ImageHeight="3056" ImageSize="2385476"/>
+		<Page Image="106" ImageWidth="1988" ImageHeight="3056" ImageSize="869127"/>
+		<Page Image="107" ImageWidth="1988" ImageHeight="3056" ImageSize="1080793"/>
+		<Page Image="108" ImageWidth="1988" ImageHeight="3056" ImageSize="1314660"/>
+		<Page Image="109" ImageWidth="1988" ImageHeight="3056" ImageSize="992233"/>
+		<Page Image="110" ImageWidth="1988" ImageHeight="3056" ImageSize="1238224"/>
+		<Page Image="111" ImageWidth="1988" ImageHeight="3056" ImageSize="1018339"/>
+		<Page Image="112" ImageWidth="1988" ImageHeight="3056" ImageSize="1424874"/>
+		<Page Image="113" ImageWidth="1988" ImageHeight="3056" ImageSize="1098374"/>
+		<Page Image="114" ImageWidth="1988" ImageHeight="3056" ImageSize="939773"/>
+		<Page Image="115" ImageWidth="1988" ImageHeight="3056" ImageSize="1236241"/>
+		<Page Image="116" ImageWidth="1988" ImageHeight="3056" ImageSize="777291"/>
+		<Page Image="117" ImageWidth="1988" ImageHeight="3056" ImageSize="968201"/>
+		<Page Image="118" ImageWidth="1988" ImageHeight="3056" ImageSize="1014077"/>
+		<Page Image="119" ImageWidth="1988" ImageHeight="3056" ImageSize="971422"/>
+		<Page Image="120" ImageWidth="1988" ImageHeight="3056" ImageSize="527142"/>
+		<Page Image="121" ImageWidth="1988" ImageHeight="3056" ImageSize="1007033"/>
+		<Page Image="122" ImageWidth="1988" ImageHeight="3056" ImageSize="1058688"/>
+		<Page Image="123" ImageWidth="1988" ImageHeight="3056" ImageSize="1231498"/>
+		<Page Image="124" ImageWidth="3976" ImageHeight="3056" ImageSize="2109606"/>
+		<Page Image="125" ImageWidth="1988" ImageHeight="3056" ImageSize="951104"/>
+		<Page Image="126" ImageWidth="1988" ImageHeight="3056" ImageSize="631912"/>
+		<Page Image="127" ImageWidth="1988" ImageHeight="3056" ImageSize="906161"/>
+		<Page Image="128" ImageWidth="1988" ImageHeight="3056" ImageSize="773318"/>
+		<Page Image="129" ImageWidth="1988" ImageHeight="3056" ImageSize="825923"/>
+		<Page Image="130" ImageWidth="1988" ImageHeight="3056" ImageSize="763992"/>
+		<Page Image="131" ImageWidth="1988" ImageHeight="3056" ImageSize="1039107"/>
+		<Page Image="132" ImageWidth="1988" ImageHeight="3056" ImageSize="329932"/>
+		<Page Image="133" ImageWidth="1988" ImageHeight="3056" ImageSize="969591"/>
+		<Page Image="134" ImageWidth="1988" ImageHeight="3056" ImageSize="887588"/>
+		<Page Image="135" ImageWidth="1988" ImageHeight="3056" ImageSize="647930"/>
+		<Page Image="136" ImageWidth="1988" ImageHeight="3056" ImageSize="673861"/>
+		<Page Image="137" ImageWidth="1988" ImageHeight="3056" ImageSize="566086"/>
+		<Page Image="138" ImageWidth="1988" ImageHeight="3056" ImageSize="543628"/>
+		<Page Image="139" ImageWidth="1988" ImageHeight="3056" ImageSize="851868"/>
+		<Page Image="140" ImageWidth="1984" ImageHeight="3056" ImageSize="479357"/>
+		<Page Image="141" ImageWidth="1990" ImageHeight="3056" ImageSize="752931"/>
+		<Page Image="142" ImageSize="872395"/>
+	</Pages>
+	<Penciller>Jakub Rebelka</Penciller>
+	<Publisher>Boom! Studios</Publisher>
+	<ScanInformation>Library loans through OverDrive and Kindle, ripped with Calibre DeDRM. Library loans through Hoopla, webrip. Denoised and upscaled with waifu2x-caffe.</ScanInformation>
+	<Series>Origins</Series>
+	<Summary>A thousand years after humans are killed off by artificial intelligence, one man is brought back to life - David Adams, who created the technology that destroyed his people.
+
+Now with the help of the android Chloe who revived him, David will try to restore humanity - and stop the AI overlords he created.
+
+David embarks on the greatest battle of his life, seeking redemption while also discovering if humanity can - or should - have any kind of future.
+
+A new sci-fi epic for fans of Little Bird and Descender from acclaimed writer Clay McLeod Chapman (Absolute Carnage: Separation Anxiety) and illustrator Jakub Rebelka (Judas), based on a concept by Arash Amel (A Private War), Joseph Oxford (Me + Her), and Lee Toland Krieger (The Age of Adaline).
+
+*List of covers and their creators:*
+ Cover | Name                                          | Creator(s)                           | Sidebar Location |
+--------------------------------------------------------------------------------------------------------------
+ Reg   | Regular Cover                                 | Jakub Rebelka                        | 1                |
+ Var   | Variant Cover                                 | Jakub Rebelka                        | 2                |
+ RE    | Wicked Gator Comics Exclusive Variant Cover   | Aaron Bartling                       | Missing          |
+ RE    | Glass Cabinet Hobbies Exclusive Variant Cover | Zoe Thorogood                        | Missing          |
+ RE    | Hive Comics Exclusive Variant Cover           | Stan Yak (a) &amp; Patricio Delpeche (c) | Missing          |
+ RE    | Cover Alpha Comics Exclusive Variant Cover    | Qistina Khalidah                     | Missing          |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-25 12:33:28.  [Issue ID 816008]
+
+https://comicvine.gamespot.com/origins-1/4000-816008/</Summary>
+	<Tags>David Adams</Tags>
+	<Title>TPB</Title>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/origins-1/4000-816008/</Web>
+	<Writer>Clay Chapman,Clay McLeod Chapman</Writer>
+	<Year>2020</Year>
+</ComicInfo>

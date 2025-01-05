@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cherry Poptart</Characters>
+	<Count>23</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-123763</GTIN>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:44:52 [Issue ID 4000-123763] urn:comicvine:4000-123763</Notes>
+	<Number>22</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="128170" Type="FrontCover"/>
+		<Page Image="1" ImageSize="368316"/>
+		<Page Image="2" ImageSize="326164"/>
+		<Page Image="3" ImageSize="382731"/>
+		<Page Image="4" ImageSize="351656"/>
+		<Page Image="5" ImageSize="375831"/>
+		<Page Image="6" ImageSize="368813"/>
+		<Page Image="7" ImageSize="356108"/>
+		<Page Image="8" ImageSize="334761"/>
+		<Page Image="9" ImageSize="348335"/>
+		<Page Image="10" ImageSize="359897"/>
+		<Page Image="11" ImageSize="234013"/>
+		<Page Image="12" ImageSize="323685"/>
+		<Page Image="13" ImageSize="359639"/>
+		<Page Image="14" ImageSize="361711"/>
+		<Page Image="15" ImageSize="351526"/>
+		<Page Image="16" ImageSize="365510"/>
+		<Page Image="17" ImageSize="351579"/>
+		<Page Image="18" ImageSize="310446"/>
+		<Page Image="19" ImageSize="323971"/>
+		<Page Image="20" ImageSize="374125"/>
+		<Page Image="21" ImageSize="384152"/>
+		<Page Image="22" ImageSize="348042"/>
+		<Page Image="23" ImageSize="381686"/>
+		<Page Image="24" ImageSize="322480"/>
+		<Page Image="25" ImageSize="350731"/>
+		<Page Image="26" ImageSize="338653"/>
+		<Page Image="27" ImageSize="358455"/>
+		<Page Image="28" ImageSize="357416"/>
+		<Page Image="29" ImageSize="394628"/>
+		<Page Image="30" ImageSize="369863"/>
+		<Page Image="31" ImageSize="373636"/>
+		<Page Image="32" ImageSize="394550"/>
+		<Page Image="33" ImageSize="399880"/>
+		<Page Image="34" ImageSize="253861"/>
+		<Page Image="35" ImageSize="273435"/>
+		<Page Image="36" ImageSize="439340"/>
+	</Pages>
+	<Publisher>Cherry Comics</Publisher>
+	<Series>Cherry Poptart</Series>
+	<Volume>1982</Volume>
+	<Web>https://comicvine.gamespot.com/cherry-poptart-22/4000-123763/</Web>
+	<Writer>Larry Welz</Writer>
+	<Year>2000</Year>
+</ComicInfo>

@@ -1,0 +1,98 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Conan,Balthus</Characters>
+  <Editor>Archie Goodwin,Roger Slifer,Roy Thomas</Editor>
+  <GTIN>urn:comicvine:4000-18179</GTIN>
+  <Inker>David Wenzel,Jim Starlin,John Buscema,Marilitz,Tony DeZuniga,Alfredo Alcala,Tony DeZuniga,Marilitz,Alfredo Alcala</Inker>
+  <Locations>Conajohara,Pictlands,Aquilonia,Hyboria,Black River,Castle Dracula,Transylvania</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T13:46:01 [Issue ID 4000-18179] urn:comicvine:4000-18179
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 11:41:11. [Issue ID 31883]</Notes>
+  <Number>26</Number>
+  <PageCount>68</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1610" ImageSize="497297" ImageWidth="1194" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1610" ImageSize="603074" ImageWidth="1165" />
+    <Page Image="2" ImageHeight="1607" ImageSize="612962" ImageWidth="1176" />
+    <Page Image="3" ImageHeight="1600" ImageSize="543300" ImageWidth="1144" />
+    <Page Image="4" ImageHeight="1584" ImageSize="608531" ImageWidth="1092" />
+    <Page Image="5" ImageHeight="1560" ImageSize="701454" ImageWidth="1105" />
+    <Page Image="6" ImageHeight="1588" ImageSize="631723" ImageWidth="1148" />
+    <Page Image="7" ImageHeight="1580" ImageSize="677269" ImageWidth="1123" />
+    <Page Image="8" ImageHeight="1564" ImageSize="726047" ImageWidth="1098" />
+    <Page Image="9" ImageHeight="1566" ImageSize="663850" ImageWidth="1092" />
+    <Page Image="10" ImageHeight="1562" ImageSize="621107" ImageWidth="1120" />
+    <Page Image="11" ImageHeight="1550" ImageSize="695019" ImageWidth="1100" />
+    <Page Image="12" ImageHeight="1558" ImageSize="659876" ImageWidth="1105" />
+    <Page Image="13" ImageHeight="1564" ImageSize="671169" ImageWidth="1100" />
+    <Page Image="14" ImageHeight="1566" ImageSize="621865" ImageWidth="1149" />
+    <Page Image="15" ImageHeight="1565" ImageSize="681569" ImageWidth="1105" />
+    <Page Image="16" ImageHeight="1572" ImageSize="670638" ImageWidth="1108" />
+    <Page Image="17" ImageHeight="1560" ImageSize="623207" ImageWidth="1118" />
+    <Page Image="18" ImageHeight="1546" ImageSize="606719" ImageWidth="1092" />
+    <Page Image="19" ImageHeight="1563" ImageSize="662236" ImageWidth="1105" />
+    <Page Image="20" ImageHeight="1570" ImageSize="685756" ImageWidth="1103" />
+    <Page Image="21" ImageHeight="1555" ImageSize="710108" ImageWidth="1100" />
+    <Page Image="22" ImageHeight="1560" ImageSize="695080" ImageWidth="1100" />
+    <Page Image="23" ImageHeight="1569" ImageSize="626481" ImageWidth="1116" />
+    <Page Image="24" ImageHeight="1566" ImageSize="657058" ImageWidth="1094" />
+    <Page Image="25" ImageHeight="1562" ImageSize="660683" ImageWidth="1098" />
+    <Page Image="26" ImageHeight="1553" ImageSize="595093" ImageWidth="1098" />
+    <Page Image="27" ImageHeight="1570" ImageSize="613072" ImageWidth="1115" />
+    <Page Image="28" ImageHeight="1568" ImageSize="661422" ImageWidth="1112" />
+    <Page Image="29" ImageHeight="1556" ImageSize="676023" ImageWidth="1102" />
+    <Page Image="30" ImageHeight="1556" ImageSize="660253" ImageWidth="1090" />
+    <Page Image="31" ImageHeight="1568" ImageSize="587051" ImageWidth="1130" />
+    <Page Image="32" ImageHeight="1584" ImageSize="592287" ImageWidth="1120" />
+    <Page Image="33" ImageHeight="1570" ImageSize="500443" ImageWidth="1095" />
+    <Page Image="34" ImageHeight="1558" ImageSize="673095" ImageWidth="1113" />
+    <Page Image="35" ImageHeight="1580" ImageSize="562108" ImageWidth="1110" />
+    <Page Image="36" ImageHeight="1573" ImageSize="650240" ImageWidth="1105" />
+    <Page Image="37" ImageHeight="1554" ImageSize="646218" ImageWidth="1096" />
+    <Page Image="38" ImageHeight="1568" ImageSize="687573" ImageWidth="1108" />
+    <Page Image="39" ImageHeight="1558" ImageSize="655575" ImageWidth="1108" />
+    <Page Image="40" ImageHeight="1587" ImageSize="487465" ImageWidth="1143" />
+    <Page Image="41" ImageHeight="1616" ImageSize="578853" ImageWidth="1175" />
+    <Page Image="42" ImageHeight="1576" ImageSize="604135" ImageWidth="1136" />
+    <Page Image="43" ImageHeight="1581" ImageSize="618093" ImageWidth="1200" />
+    <Page Image="44" ImageHeight="1603" ImageSize="567397" ImageWidth="1124" />
+    <Page Image="45" ImageHeight="1566" ImageSize="616874" ImageWidth="1125" />
+    <Page Image="46" ImageHeight="1613" ImageSize="668994" ImageWidth="1203" />
+    <Page Image="47" ImageHeight="1570" ImageSize="692119" ImageWidth="1103" />
+    <Page Image="48" ImageHeight="1583" ImageSize="735592" ImageWidth="1110" />
+    <Page Image="49" ImageHeight="1560" ImageSize="714249" ImageWidth="1107" />
+    <Page Image="50" ImageHeight="1560" ImageSize="726553" ImageWidth="1102" />
+    <Page Image="51" ImageHeight="1569" ImageSize="704523" ImageWidth="1119" />
+    <Page Image="52" ImageHeight="1550" ImageSize="703133" ImageWidth="1103" />
+    <Page Image="53" ImageHeight="1558" ImageSize="661313" ImageWidth="1105" />
+    <Page Image="54" ImageHeight="1548" ImageSize="716664" ImageWidth="1110" />
+    <Page Image="55" ImageHeight="1553" ImageSize="674014" ImageWidth="1113" />
+    <Page Image="56" ImageHeight="1566" ImageSize="659766" ImageWidth="1110" />
+    <Page Image="57" ImageHeight="1568" ImageSize="703060" ImageWidth="1115" />
+    <Page Image="58" ImageHeight="1588" ImageSize="682894" ImageWidth="1144" />
+    <Page Image="59" ImageHeight="1584" ImageSize="611615" ImageWidth="1224" />
+    <Page Image="60" ImageHeight="1580" ImageSize="503282" ImageWidth="1128" />
+    <Page Image="61" ImageHeight="1570" ImageSize="619252" ImageWidth="1090" />
+    <Page Image="62" ImageHeight="1564" ImageSize="664035" ImageWidth="1124" />
+    <Page Image="63" ImageHeight="1584" ImageSize="643355" ImageWidth="1132" />
+    <Page Image="64" ImageHeight="1610" ImageSize="663474" ImageWidth="1172" />
+    <Page Image="65" ImageHeight="1568" ImageSize="618894" ImageWidth="1211" />
+    <Page Image="66" ImageHeight="1588" ImageSize="677051" ImageWidth="1084" />
+    <Page Image="67" ImageSize="421858" />
+  </Pages>
+  <Penciller>David Wenzel,Jim Starlin,John Buscema,Tony DeZuniga,John Buscema,David Wenzel</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>The Savage Sword of Conan</Series>
+  <Summary>Kane returns to defeat Dracula in his castle.</Summary>
+  <Tags>Conajohara,Pictlands,Zogar Sag,Balthus,Aquilonia,Conan,Valannus,Hyboria,Black River,Solomon Kane,Vampires,Castle Dracula,Dracula,Transylvania</Tags>
+  <Teams>Vampires</Teams>
+  <Title>Beyond the Black River [Chapter 1, Part I]; Retribution in Blood; [Beyond the Black River, Chapter 1] Part IV: The Beasts of Zogar Sag; [Beyond the Black River, Chapter 1] Part III: The Crawlers in the Dark; [Beyond the Black River, Chapter 1] Part II: The Wizard of Gwawela</Title>
+  <Volume>1974</Volume>
+  <Web>https://comicvine.gamespot.com/the-savage-sword-of-conan-26-beyond-the-black-rive/4000-18179/</Web>
+  <Writer>Don Glut,Robert E. Howard,Roy Thomas,Roy Thomas,Don Glut</Writer>
+  <Year>1978</Year>
+  <Count>235</Count>
+  <CoverArtist>Jim Starlin</CoverArtist>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Jim Novak,Jim Novak</Letterer>
+</ComicInfo>

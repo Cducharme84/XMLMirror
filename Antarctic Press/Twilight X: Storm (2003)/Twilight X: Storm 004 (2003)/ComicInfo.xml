@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>8</Count>
+	<CoverArtist>Joseph Wight</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-381742</GTIN>
+	<Genre>Action</Genre>
+	<Inker>Joseph Wight</Inker>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-12T01:01:43 [Issue ID 4000-381742] urn:comicvine:4000-381742</Notes>
+	<Number>4</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3982" ImageSize="905170" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3982" ImageSize="1084097"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3982" ImageSize="650191"/>
+		<Page DoublePage="True" Image="3" ImageWidth="5120" ImageHeight="3982" ImageSize="551744"/>
+		<Page DoublePage="True" Image="4" ImageWidth="5120" ImageHeight="3982" ImageSize="562728"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3982" ImageSize="638264"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3982" ImageSize="773759"/>
+		<Page DoublePage="True" Image="7" ImageWidth="5120" ImageHeight="3982" ImageSize="1332836"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3982" ImageSize="837196"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3982" ImageSize="946037"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3982" ImageSize="917003"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3982" ImageSize="798328"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3982" ImageSize="765900"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3982" ImageSize="852214"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3982" ImageSize="840478"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3982" ImageSize="668474"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3982" ImageSize="917034"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3982" ImageSize="760455"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3982" ImageSize="805726"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3982" ImageSize="542530"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3982" ImageSize="518585"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3982" ImageSize="1699041"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3982" ImageSize="1273912"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3982" ImageSize="1106777"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3982" ImageSize="1448467"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3982" ImageSize="935828"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3982" ImageSize="875527"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3982" ImageSize="961308"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3982" ImageSize="1020158"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3982" ImageSize="996010"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3982" ImageSize="1010117"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3982" ImageSize="823906"/>
+		<Page Image="32" ImageSize="1657836"/>
+	</Pages>
+	<Penciller>Joseph Wight</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Twilight X: Storm</Series>
+	<Summary>Richard and Melissa have discovered a terrible island of death, controlled by the forces of the Neo-Nazis. They must launch an assault to try to free the island people and topple the warlord in charge. They alone must face impossible odds, yet they cannot afford to fail.</Summary>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/twilight-x-storm-4/4000-381742/</Web>
+	<Writer>Joseph Wight</Writer>
+	<Year>2003</Year>
+</ComicInfo>

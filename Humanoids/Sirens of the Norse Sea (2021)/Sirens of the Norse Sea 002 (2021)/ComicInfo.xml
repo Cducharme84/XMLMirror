@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>15</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-842747</GTIN>
+	<Inker>José Homs,Marco Dominici,Philippe Briones</Inker>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:00:40 [Issue ID 4000-842747] urn:comicvine:4000-842747</Notes>
+	<Number>2</Number>
+	<PageCount>61</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1800" ImageHeight="2448" ImageSize="1948790" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1800" ImageHeight="2448" ImageSize="257649"/>
+		<Page Image="2" ImageWidth="1800" ImageHeight="2448" ImageSize="149472"/>
+		<Page Image="3" ImageWidth="1800" ImageHeight="2448" ImageSize="1265535"/>
+		<Page Image="4" ImageWidth="1800" ImageHeight="2448" ImageSize="1384065"/>
+		<Page Image="5" ImageWidth="1800" ImageHeight="2448" ImageSize="1545455"/>
+		<Page Image="6" ImageWidth="1800" ImageHeight="2448" ImageSize="1469575"/>
+		<Page Image="7" ImageWidth="1800" ImageHeight="2448" ImageSize="1606432"/>
+		<Page Image="8" ImageWidth="1800" ImageHeight="2448" ImageSize="1460588"/>
+		<Page Image="9" ImageWidth="1800" ImageHeight="2448" ImageSize="1500192"/>
+		<Page Image="10" ImageWidth="1800" ImageHeight="2448" ImageSize="1234858"/>
+		<Page Image="11" ImageWidth="1800" ImageHeight="2448" ImageSize="1103006"/>
+		<Page Image="12" ImageWidth="1800" ImageHeight="2448" ImageSize="1547013"/>
+		<Page Image="13" ImageWidth="1800" ImageHeight="2448" ImageSize="1700960"/>
+		<Page Image="14" ImageWidth="1800" ImageHeight="2448" ImageSize="1573947"/>
+		<Page Image="15" ImageWidth="1800" ImageHeight="2448" ImageSize="1755888"/>
+		<Page Image="16" ImageWidth="1800" ImageHeight="2448" ImageSize="1748799"/>
+		<Page Image="17" ImageWidth="1800" ImageHeight="2448" ImageSize="1578102"/>
+		<Page Image="18" ImageWidth="1800" ImageHeight="2448" ImageSize="1305710"/>
+		<Page Image="19" ImageWidth="1800" ImageHeight="2448" ImageSize="1442131"/>
+		<Page Image="20" ImageWidth="1800" ImageHeight="2448" ImageSize="1341146"/>
+		<Page Image="21" ImageWidth="1800" ImageHeight="2448" ImageSize="1591990"/>
+		<Page Image="22" ImageWidth="1800" ImageHeight="2448" ImageSize="1532301"/>
+		<Page Image="23" ImageWidth="1800" ImageHeight="2448" ImageSize="1476975"/>
+		<Page Image="24" ImageWidth="1800" ImageHeight="2448" ImageSize="1087644"/>
+		<Page Image="25" ImageWidth="1800" ImageHeight="2448" ImageSize="1528925"/>
+		<Page Image="26" ImageWidth="1800" ImageHeight="2448" ImageSize="1578255"/>
+		<Page Image="27" ImageWidth="1800" ImageHeight="2448" ImageSize="1409307"/>
+		<Page Image="28" ImageWidth="1800" ImageHeight="2448" ImageSize="1410604"/>
+		<Page Image="29" ImageWidth="1800" ImageHeight="2448" ImageSize="1512379"/>
+		<Page Image="30" ImageWidth="1800" ImageHeight="2448" ImageSize="1426082"/>
+		<Page Image="31" ImageWidth="1800" ImageHeight="2448" ImageSize="1625434"/>
+		<Page Image="32" ImageWidth="1800" ImageHeight="2448" ImageSize="1274105"/>
+		<Page Image="33" ImageWidth="1800" ImageHeight="2448" ImageSize="1486124"/>
+		<Page Image="34" ImageWidth="1800" ImageHeight="2448" ImageSize="1277643"/>
+		<Page Image="35" ImageWidth="1800" ImageHeight="2448" ImageSize="1253755"/>
+		<Page Image="36" ImageWidth="1800" ImageHeight="2448" ImageSize="1490132"/>
+		<Page Image="37" ImageWidth="1800" ImageHeight="2448" ImageSize="1603220"/>
+		<Page Image="38" ImageWidth="1800" ImageHeight="2448" ImageSize="1638252"/>
+		<Page Image="39" ImageWidth="1800" ImageHeight="2448" ImageSize="1340978"/>
+		<Page Image="40" ImageWidth="1800" ImageHeight="2448" ImageSize="1381484"/>
+		<Page Image="41" ImageWidth="1800" ImageHeight="2448" ImageSize="1326768"/>
+		<Page Image="42" ImageWidth="1800" ImageHeight="2448" ImageSize="1438822"/>
+		<Page Image="43" ImageWidth="1800" ImageHeight="2448" ImageSize="1473090"/>
+		<Page Image="44" ImageWidth="1800" ImageHeight="2448" ImageSize="1394996"/>
+		<Page Image="45" ImageWidth="1800" ImageHeight="2448" ImageSize="1301090"/>
+		<Page Image="46" ImageWidth="1800" ImageHeight="2448" ImageSize="1566801"/>
+		<Page Image="47" ImageWidth="1800" ImageHeight="2448" ImageSize="1478435"/>
+		<Page Image="48" ImageWidth="1800" ImageHeight="2448" ImageSize="1581862"/>
+		<Page Image="49" ImageWidth="1800" ImageHeight="2448" ImageSize="1423764"/>
+		<Page Image="50" ImageWidth="1800" ImageHeight="2448" ImageSize="1544432"/>
+		<Page Image="51" ImageWidth="1800" ImageHeight="2448" ImageSize="1709843"/>
+		<Page Image="52" ImageWidth="1800" ImageHeight="2448" ImageSize="1851070"/>
+		<Page Image="53" ImageWidth="1800" ImageHeight="2448" ImageSize="1552739"/>
+		<Page Image="54" ImageWidth="1800" ImageHeight="2448" ImageSize="1318720"/>
+		<Page Image="55" ImageWidth="1800" ImageHeight="2448" ImageSize="1413093"/>
+		<Page Image="56" ImageWidth="3600" ImageHeight="2448" ImageSize="2947416"/>
+		<Page Image="57" ImageWidth="3600" ImageHeight="2448" ImageSize="3122364"/>
+		<Page Image="58" ImageWidth="1800" ImageHeight="2448" ImageSize="1235708"/>
+		<Page Image="59" ImageWidth="1800" ImageHeight="2448" ImageSize="1068774"/>
+		<Page Image="60" ImageSize="1154746"/>
+	</Pages>
+	<Penciller>José Homs,Marco Dominici,Philippe Briones</Penciller>
+	<Publisher>Humanoids</Publisher>
+	<ScanInformation>(digital) (Mr Norrell-Empire)</ScanInformation>
+	<Series>Sirens of the Norse Sea</Series>
+	<Summary>Fierce Vikings and mystical Sirens face each other in a neverending battle over their greatest source of life: the sea. 2 VOLUMES RELEASED - ONGOING SERIES. Vikings, the world's fiercest warriors and greatest sailors rule the land. But the sea has never been so easy to claim, for another creature dwells within it: the Siren. For generations, Viking clans have had to face Siren tribes: a constant battle between cunning and brute strength, and charm and sorcery, with the vast ocean in between. In each book in the series, their paths intersect, for better or for worse.
+
+https://comicvine.gamespot.com/sirens-of-the-norse-sea-2-the-two-worlds-of-freydi/4000-842747/</Summary>
+	<Teams>Vikings</Teams>
+	<Title>The Two Worlds of Freydis</Title>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/sirens-of-the-norse-sea-2-the-two-worlds-of-freydi/4000-842747/</Web>
+	<Writer>Françoise Ruscak,Gihef</Writer>
+	<Year>2021</Year>
+</ComicInfo>

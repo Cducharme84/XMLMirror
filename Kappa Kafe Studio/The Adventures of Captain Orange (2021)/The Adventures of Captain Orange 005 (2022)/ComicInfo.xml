@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Everyone</AgeRating>
+  <Count>8</Count>
+  <Format>Limited Series</Format>
+  <Genre>Science Fiction</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-24T13:53:39</Notes>
+  <Number>5</Number>
+  <PageCount>31</PageCount>
+  <Pages>
+    <Page DoublePage="True" Image="0" ImageHeight="3150" ImageSize="1200636" ImageWidth="4200" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3150" ImageSize="993343" ImageWidth="2100" />
+    <Page DoublePage="False" Image="2" ImageHeight="3150" ImageSize="597411" ImageWidth="2100" />
+    <Page DoublePage="False" Image="3" ImageHeight="3150" ImageSize="924515" ImageWidth="2100" />
+    <Page DoublePage="False" Image="4" ImageHeight="3150" ImageSize="785410" ImageWidth="2100" />
+    <Page DoublePage="False" Image="5" ImageHeight="3150" ImageSize="788056" ImageWidth="2100" />
+    <Page DoublePage="False" Image="6" ImageHeight="3150" ImageSize="683196" ImageWidth="2100" />
+    <Page DoublePage="False" Image="7" ImageHeight="3150" ImageSize="839757" ImageWidth="2100" />
+    <Page DoublePage="False" Image="8" ImageHeight="3150" ImageSize="2578675" ImageWidth="2100" />
+    <Page DoublePage="False" Image="9" ImageHeight="3150" ImageSize="2603498" ImageWidth="2100" />
+    <Page DoublePage="False" Image="10" ImageHeight="3150" ImageSize="2798244" ImageWidth="2100" />
+    <Page DoublePage="False" Image="11" ImageHeight="3150" ImageSize="2230386" ImageWidth="2100" />
+    <Page DoublePage="False" Image="12" ImageHeight="3150" ImageSize="2629009" ImageWidth="2100" />
+    <Page DoublePage="False" Image="13" ImageHeight="3150" ImageSize="2476988" ImageWidth="2100" />
+    <Page DoublePage="False" Image="14" ImageHeight="3150" ImageSize="2352752" ImageWidth="2100" />
+    <Page DoublePage="False" Image="15" ImageHeight="3150" ImageSize="1990780" ImageWidth="2100" />
+    <Page DoublePage="False" Image="16" ImageHeight="3150" ImageSize="2473387" ImageWidth="2100" />
+    <Page DoublePage="False" Image="17" ImageHeight="3150" ImageSize="2833703" ImageWidth="2100" />
+    <Page DoublePage="False" Image="18" ImageHeight="3150" ImageSize="2942659" ImageWidth="2100" />
+    <Page DoublePage="False" Image="19" ImageHeight="3150" ImageSize="2754646" ImageWidth="2100" />
+    <Page DoublePage="False" Image="20" ImageHeight="3150" ImageSize="3568131" ImageWidth="2100" />
+    <Page DoublePage="False" Image="21" ImageHeight="3150" ImageSize="1075499" ImageWidth="2100" />
+    <Page DoublePage="False" Image="22" ImageHeight="3150" ImageSize="1120794" ImageWidth="2100" />
+    <Page DoublePage="False" Image="23" ImageHeight="3150" ImageSize="862308" ImageWidth="2100" />
+    <Page DoublePage="False" Image="24" ImageHeight="3150" ImageSize="918711" ImageWidth="2100" />
+    <Page DoublePage="False" Image="25" ImageHeight="3150" ImageSize="420945" ImageWidth="2100" />
+    <Page DoublePage="False" Image="26" ImageHeight="3150" ImageSize="857642" ImageWidth="2100" />
+    <Page DoublePage="False" Image="27" ImageHeight="3150" ImageSize="905432" ImageWidth="2100" />
+    <Page DoublePage="False" Image="28" ImageHeight="3150" ImageSize="1068402" ImageWidth="2100" />
+    <Page DoublePage="False" Image="29" ImageHeight="3150" ImageSize="585404" ImageWidth="2100" />
+    <Page DoublePage="False" Image="30" ImageHeight="3150" ImageSize="697942" ImageWidth="2100" />
+  </Pages>
+  <Publisher>Kappa Kafe Studio</Publisher>
+  <Series>The Adventures of Captain Orange</Series>
+  <Volume>2021</Volume>
+  <Title>Captain Orange and the Brilliant Star</Title>
+  <Summary>Last we met our astro hero, he was setting fire to a Science lab of horrors, forcing Dr. Jupiter Jones to abandon his expermients on the unknowing colonists. After the series of adventures, the crew of the Güd ship take a break from their ordeals.</Summary>
+  <Year>2022</Year>
+</ComicInfo>

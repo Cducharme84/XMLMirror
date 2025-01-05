@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>45</Count>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-1049759</GTIN>
+	<Genre>Anthology,Superhero</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-18T22:00:30 [Issue ID 4000-1049759] urn:comicvine:4000-1049759</Notes>
+	<Number>36</Number>
+	<PageCount>44</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3961" ImageSize="2346466" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3961" ImageSize="2210580"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3961" ImageSize="2186972"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3961" ImageSize="2098226"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3961" ImageSize="2687757"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3961" ImageSize="2855099"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3961" ImageSize="3188629"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3961" ImageSize="2715401"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3961" ImageSize="2462448"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3961" ImageSize="2425097"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3961" ImageSize="2419736"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3961" ImageSize="2242893"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3961" ImageSize="2388039"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3961" ImageSize="2741357"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3961" ImageSize="2608938"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3961" ImageSize="2475762"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3961" ImageSize="2587421"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3961" ImageSize="2372645"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3961" ImageSize="2711413"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3961" ImageSize="2388101"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3961" ImageSize="2456476"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3961" ImageSize="1802811"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3961" ImageSize="1929478"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3961" ImageSize="2037803"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3961" ImageSize="2285753"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3961" ImageSize="2218035"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3961" ImageSize="1932993"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3961" ImageSize="2339246"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3961" ImageSize="2244095"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3961" ImageSize="2150347"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3961" ImageSize="2184388"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3961" ImageSize="1942279"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3961" ImageSize="2155675"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3961" ImageSize="2305661"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3961" ImageSize="1703289"/>
+		<Page DoublePage="False" Image="35" ImageWidth="2560" ImageHeight="3961" ImageSize="1983479"/>
+		<Page DoublePage="False" Image="36" ImageWidth="2560" ImageHeight="3961" ImageSize="2920766"/>
+		<Page DoublePage="False" Image="37" ImageWidth="2560" ImageHeight="3961" ImageSize="3132651"/>
+		<Page DoublePage="False" Image="38" ImageWidth="2560" ImageHeight="3961" ImageSize="3095805"/>
+		<Page DoublePage="False" Image="39" ImageWidth="2560" ImageHeight="3961" ImageSize="4621252"/>
+		<Page DoublePage="False" Image="40" ImageWidth="2560" ImageHeight="3961" ImageSize="2520881"/>
+		<Page DoublePage="False" Image="41" ImageWidth="2560" ImageHeight="3961" ImageSize="2774856"/>
+		<Page DoublePage="False" Image="42" ImageWidth="2560" ImageHeight="3961" ImageSize="1910269"/>
+		<Page Image="43" ImageSize="1490243"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Exciting Comics</Series>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/exciting-comics-36/4000-1049759/</Web>
+	<Year>2023</Year>
+</ComicInfo>

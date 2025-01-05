@@ -1,0 +1,160 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Silk,Carol Danvers,Miles Morales,Kamala Khan,Thor,Black Panther,Amadeus Cho</Characters>
+  <Colorist>Frank D'Armata</Colorist>
+  <Count>1</Count>
+  <Day>26</Day>
+  <Editor>Tom Brevoort</Editor>
+  <GTIN>urn:comicvine:4000-686382</GTIN>
+  <Inker>Juan Vlasco,Walden Wong</Inker>
+  <Letterer>Cory Petit</Letterer>
+  <Locations>New York City</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T15:31:30 [Issue ID 4000-686382] urn:comicvine:4000-686382
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 10:45:14. [Issue ID 1851611]</Notes>
+  <Number>1</Number>
+  <PageCount>129</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1778072" Type="FrontCover" />
+    <Page Image="1" ImageSize="957433" />
+    <Page Image="2" ImageSize="1674679" />
+    <Page Image="3" ImageSize="2257511" />
+    <Page Image="4" ImageSize="1260320" />
+    <Page Image="5" ImageSize="1514583" />
+    <Page Image="6" ImageSize="1526550" />
+    <Page Image="7" ImageSize="1413460" />
+    <Page Image="8" ImageSize="1426579" />
+    <Page Image="9" ImageSize="1442615" />
+    <Page Image="10" ImageSize="1553011" />
+    <Page Image="11" ImageSize="1699676" />
+    <Page Image="12" ImageSize="1730263" />
+    <Page Image="13" ImageSize="1563327" />
+    <Page Image="14" ImageSize="1478867" />
+    <Page Image="15" ImageSize="1660413" />
+    <Page Image="16" ImageSize="1164297" />
+    <Page Image="17" ImageSize="1510820" />
+    <Page Image="18" ImageSize="1155935" />
+    <Page Image="19" ImageSize="2594180" />
+    <Page Image="20" ImageSize="2453471" />
+    <Page Image="21" ImageSize="1080120" />
+    <Page Image="22" ImageSize="1829874" />
+    <Page Image="23" ImageSize="1029723" />
+    <Page Image="24" ImageSize="1351630" />
+    <Page Image="25" ImageSize="1081567" />
+    <Page Image="26" ImageSize="1525450" />
+    <Page Image="27" ImageSize="1293142" />
+    <Page Image="28" ImageSize="1378811" />
+    <Page Image="29" ImageSize="1284367" />
+    <Page Image="30" ImageSize="1195638" />
+    <Page Image="31" ImageSize="1426905" />
+    <Page Image="32" ImageSize="1347666" />
+    <Page Image="33" ImageSize="1110894" />
+    <Page Image="34" ImageSize="1412998" />
+    <Page Image="35" ImageSize="1380190" />
+    <Page Image="36" ImageSize="1300462" />
+    <Page Image="37" ImageSize="1165007" />
+    <Page Image="38" ImageSize="1444747" />
+    <Page Image="39" ImageSize="1349811" />
+    <Page Image="40" ImageSize="1348935" />
+    <Page Image="41" ImageSize="1154374" />
+    <Page Image="42" ImageSize="1194275" />
+    <Page Image="43" ImageSize="1490638" />
+    <Page Image="44" ImageSize="1549335" />
+    <Page Image="45" ImageSize="1543366" />
+    <Page Image="46" ImageSize="1595391" />
+    <Page Image="47" ImageSize="1649677" />
+    <Page Image="48" ImageSize="1566011" />
+    <Page Image="49" ImageSize="1711593" />
+    <Page Image="50" ImageSize="1495116" />
+    <Page Image="51" ImageSize="1353999" />
+    <Page Image="52" ImageSize="1395421" />
+    <Page Image="53" ImageSize="1472908" />
+    <Page Image="54" ImageSize="1842587" />
+    <Page Image="55" ImageSize="1796145" />
+    <Page Image="56" ImageSize="1830582" />
+    <Page Image="57" ImageSize="1966063" />
+    <Page Image="58" ImageSize="1605764" />
+    <Page Image="59" ImageSize="4204951" />
+    <Page Image="60" ImageSize="1613730" />
+    <Page Image="61" ImageSize="2015901" />
+    <Page Image="62" ImageSize="2356681" />
+    <Page Image="63" ImageSize="1047832" />
+    <Page Image="64" ImageSize="1554516" />
+    <Page Image="65" ImageSize="1571273" />
+    <Page Image="66" ImageSize="1299741" />
+    <Page Image="67" ImageSize="1336624" />
+    <Page Image="68" ImageSize="1473796" />
+    <Page Image="69" ImageSize="3088908" />
+    <Page Image="70" ImageSize="1361198" />
+    <Page Image="71" ImageSize="1437307" />
+    <Page Image="72" ImageSize="1382653" />
+    <Page Image="73" ImageSize="1449207" />
+    <Page Image="74" ImageSize="1276886" />
+    <Page Image="75" ImageSize="1568594" />
+    <Page Image="76" ImageSize="1457050" />
+    <Page Image="77" ImageSize="1221283" />
+    <Page Image="78" ImageSize="1220790" />
+    <Page Image="79" ImageSize="1286763" />
+    <Page Image="80" ImageSize="1137499" />
+    <Page Image="81" ImageSize="1227808" />
+    <Page Image="82" ImageSize="1187707" />
+    <Page Image="83" ImageSize="1812753" />
+    <Page Image="84" ImageSize="1797777" />
+    <Page Image="85" ImageSize="2215687" />
+    <Page Image="86" ImageSize="4528380" />
+    <Page Image="87" ImageSize="1883543" />
+    <Page Image="88" ImageSize="1849673" />
+    <Page Image="89" ImageSize="1852792" />
+    <Page Image="90" ImageSize="2073452" />
+    <Page Image="91" ImageSize="1861193" />
+    <Page Image="92" ImageSize="2045827" />
+    <Page Image="93" ImageSize="3299097" />
+    <Page Image="94" ImageSize="1955064" />
+    <Page Image="95" ImageSize="1825265" />
+    <Page Image="96" ImageSize="1818105" />
+    <Page Image="97" ImageSize="1568495" />
+    <Page Image="98" ImageSize="2105060" />
+    <Page Image="99" ImageSize="2565501" />
+    <Page Image="100" ImageSize="2012832" />
+    <Page Image="101" ImageSize="1589640" />
+    <Page Image="102" ImageSize="2225209" />
+    <Page Image="103" ImageSize="1947669" />
+    <Page Image="104" ImageSize="1831951" />
+    <Page Image="105" ImageSize="2128920" />
+    <Page Image="106" ImageSize="1869117" />
+    <Page Image="107" ImageSize="1557851" />
+    <Page Image="108" ImageSize="4560357" />
+    <Page Image="109" ImageSize="1736715" />
+    <Page Image="110" ImageSize="1833377" />
+    <Page Image="111" ImageSize="1593547" />
+    <Page Image="112" ImageSize="1948215" />
+    <Page Image="113" ImageSize="1821336" />
+    <Page Image="114" ImageSize="1391836" />
+    <Page Image="115" ImageSize="1635516" />
+    <Page Image="116" ImageSize="2275911" />
+    <Page Image="117" ImageSize="1900750" />
+    <Page Image="118" ImageSize="1301135" />
+    <Page Image="119" ImageSize="3070727" />
+    <Page Image="120" ImageSize="1554863" />
+    <Page Image="121" ImageSize="1761819" />
+    <Page Image="122" ImageSize="1185542" />
+    <Page Image="123" ImageSize="1792218" />
+    <Page Image="124" ImageSize="1414959" />
+    <Page Image="125" ImageSize="1683256" />
+    <Page Image="126" ImageSize="1063079" />
+    <Page Image="127" ImageSize="1672064" />
+    <Page Image="128" ImageSize="750766" />
+  </Pages>
+  <Penciller>Carlo Barberi,Marco Lorenzana</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Hulk: World War Hulk II</Series>
+  <Summary>After "Planet Hulk II" comes..."World War Hulk II"! Following his apocalyptic adventure on Sakaar, Amadeus Cho returns to Earth - but the raging monster inside of him is out of the trunk. And that means dire consequences for anybody who crosses his path! With his inner beast off the chain, the dark aspects of Amadeus' personality are unleashed as the Hulk displays his incredible power before the Champions, Alpha Flight, the Black Panther...and the world! Can anything bring Amadeus to heel before disaster strikes?! Or will New York - and the entire planet - finally learn exactly what the curse of the Hulk is all about? Collecting INCREDIBLE HULK (2017) #714-717 and World War Hulk #1.</Summary>
+  <Teams>Champions,Alpha Flight</Teams>
+  <Title>TPB</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/hulk-world-war-hulk-ii-1-tpb/4000-686382/</Web>
+  <Writer>Greg Pak</Writer>
+  <Year>2018</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+  <AgeRating>T</AgeRating>
+<Genre>Superhero</Genre></ComicInfo>

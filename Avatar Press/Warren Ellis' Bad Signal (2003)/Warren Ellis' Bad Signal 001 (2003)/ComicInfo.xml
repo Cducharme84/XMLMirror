@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Nimbus Studios</Colorist>
+	<Count>2</Count>
+	<Day>17</Day>
+	<Editor>William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-239984</GTIN>
+	<Inker>Jacen Burrows</Inker>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:45 [Issue ID 4000-239984] urn:comicvine:4000-239984</Notes>
+	<Number>1</Number>
+	<PageCount>67</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="982" ImageHeight="1530" ImageSize="425624" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="970" ImageHeight="1522" ImageSize="416309"/>
+		<Page Image="2" ImageWidth="967" ImageHeight="1527" ImageSize="363501"/>
+		<Page Image="3" ImageWidth="968" ImageHeight="1519" ImageSize="328745"/>
+		<Page Image="4" ImageWidth="968" ImageHeight="1528" ImageSize="334546"/>
+		<Page Image="5" ImageWidth="974" ImageHeight="1522" ImageSize="382973"/>
+		<Page Image="6" ImageWidth="977" ImageHeight="1527" ImageSize="330958"/>
+		<Page Image="7" ImageWidth="978" ImageHeight="1525" ImageSize="362401"/>
+		<Page Image="8" ImageWidth="977" ImageHeight="1527" ImageSize="332595"/>
+		<Page Image="9" ImageWidth="979" ImageHeight="1525" ImageSize="353370"/>
+		<Page Image="10" ImageWidth="975" ImageHeight="1527" ImageSize="367122"/>
+		<Page Image="11" ImageWidth="977" ImageHeight="1523" ImageSize="357352"/>
+		<Page Image="12" ImageWidth="975" ImageHeight="1528" ImageSize="311438"/>
+		<Page Image="13" ImageWidth="977" ImageHeight="1523" ImageSize="288367"/>
+		<Page Image="14" ImageWidth="978" ImageHeight="1529" ImageSize="304974"/>
+		<Page Image="15" ImageWidth="976" ImageHeight="1524" ImageSize="379423"/>
+		<Page Image="16" ImageWidth="976" ImageHeight="1528" ImageSize="333145"/>
+		<Page Image="17" ImageWidth="976" ImageHeight="1525" ImageSize="304792"/>
+		<Page Image="18" ImageWidth="976" ImageHeight="1528" ImageSize="313064"/>
+		<Page Image="19" ImageWidth="978" ImageHeight="1525" ImageSize="324274"/>
+		<Page Image="20" ImageWidth="977" ImageHeight="1528" ImageSize="351768"/>
+		<Page Image="21" ImageWidth="979" ImageHeight="1525" ImageSize="351424"/>
+		<Page Image="22" ImageWidth="979" ImageHeight="1526" ImageSize="365707"/>
+		<Page Image="23" ImageWidth="976" ImageHeight="1527" ImageSize="369501"/>
+		<Page Image="24" ImageWidth="975" ImageHeight="1528" ImageSize="355602"/>
+		<Page Image="25" ImageWidth="979" ImageHeight="1524" ImageSize="321955"/>
+		<Page Image="26" ImageWidth="977" ImageHeight="1526" ImageSize="382206"/>
+		<Page Image="27" ImageWidth="980" ImageHeight="1524" ImageSize="333765"/>
+		<Page Image="28" ImageWidth="976" ImageHeight="1528" ImageSize="398395"/>
+		<Page Image="29" ImageWidth="978" ImageHeight="1523" ImageSize="377942"/>
+		<Page Image="30" ImageWidth="978" ImageHeight="1526" ImageSize="392026"/>
+		<Page Image="31" ImageWidth="977" ImageHeight="1522" ImageSize="318942"/>
+		<Page Image="32" ImageWidth="978" ImageHeight="1528" ImageSize="386658"/>
+		<Page Image="33" ImageWidth="979" ImageHeight="1524" ImageSize="385525"/>
+		<Page Image="34" ImageWidth="980" ImageHeight="1528" ImageSize="374318"/>
+		<Page Image="35" ImageWidth="977" ImageHeight="1524" ImageSize="389263"/>
+		<Page Image="36" ImageWidth="980" ImageHeight="1527" ImageSize="334540"/>
+		<Page Image="37" ImageWidth="979" ImageHeight="1525" ImageSize="389590"/>
+		<Page Image="38" ImageWidth="975" ImageHeight="1524" ImageSize="371002"/>
+		<Page Image="39" ImageWidth="977" ImageHeight="1528" ImageSize="364471"/>
+		<Page Image="40" ImageWidth="976" ImageHeight="1526" ImageSize="391601"/>
+		<Page Image="41" ImageWidth="975" ImageHeight="1525" ImageSize="344350"/>
+		<Page Image="42" ImageWidth="980" ImageHeight="1524" ImageSize="374780"/>
+		<Page Image="43" ImageWidth="979" ImageHeight="1526" ImageSize="340846"/>
+		<Page Image="44" ImageWidth="978" ImageHeight="1528" ImageSize="318584"/>
+		<Page Image="45" ImageWidth="977" ImageHeight="1524" ImageSize="342935"/>
+		<Page Image="46" ImageWidth="976" ImageHeight="1527" ImageSize="332599"/>
+		<Page Image="47" ImageWidth="979" ImageHeight="1523" ImageSize="316583"/>
+		<Page Image="48" ImageWidth="978" ImageHeight="1529" ImageSize="373600"/>
+		<Page Image="49" ImageWidth="977" ImageHeight="1523" ImageSize="370461"/>
+		<Page Image="50" ImageWidth="970" ImageHeight="1528" ImageSize="287472"/>
+		<Page Image="51" ImageWidth="976" ImageHeight="1525" ImageSize="334692"/>
+		<Page Image="52" ImageWidth="980" ImageHeight="1527" ImageSize="327141"/>
+		<Page Image="53" ImageWidth="976" ImageHeight="1525" ImageSize="292148"/>
+		<Page Image="54" ImageWidth="979" ImageHeight="1526" ImageSize="369241"/>
+		<Page Image="55" ImageWidth="977" ImageHeight="1526" ImageSize="347611"/>
+		<Page Image="56" ImageWidth="979" ImageHeight="1525" ImageSize="360322"/>
+		<Page Image="57" ImageWidth="975" ImageHeight="1525" ImageSize="335338"/>
+		<Page Image="58" ImageWidth="980" ImageHeight="1527" ImageSize="339801"/>
+		<Page Image="59" ImageWidth="977" ImageHeight="1525" ImageSize="333346"/>
+		<Page Image="60" ImageWidth="978" ImageHeight="1526" ImageSize="326174"/>
+		<Page Image="61" ImageWidth="979" ImageHeight="1526" ImageSize="369905"/>
+		<Page Image="62" ImageWidth="978" ImageHeight="1528" ImageSize="356440"/>
+		<Page Image="63" ImageWidth="977" ImageHeight="1526" ImageSize="299651"/>
+		<Page Image="64" ImageWidth="974" ImageHeight="1528" ImageSize="403939"/>
+		<Page Image="65" ImageWidth="976" ImageHeight="1526" ImageSize="400855"/>
+		<Page Image="66" ImageSize="337091"/>
+	</Pages>
+	<Penciller>Jacen Burrows</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Warren Ellis' Bad Signal</Series>
+	<Summary>Warren Ellis' Bad Signal Volume 1 collects over 50 short essays/columns written by   Warren Ellis from January 2001 to July 2002. The essays range in topic from "Pop Comics - The Working Definition By Popular Request So Shut Up If You've Heard it Before" to "The Satanic Rites of Housekeeping." Each page features illustrations by    Jacen Burrows.</Summary>
+	<Title>Volume 1</Title>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/warren-ellis-bad-signal-1-volume-1/4000-239984/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2003</Year>
+</ComicInfo>

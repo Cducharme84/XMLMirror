@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>12</Count>
+	<CoverArtist>Dylan Moore</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-712810</GTIN>
+	<Genre>Action,Comedy,Fantasy</Genre>
+	<Inker>Dylan Moore</Inker>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T23:52:28 [Issue ID 4000-712810] urn:comicvine:4000-712810</Notes>
+	<Number>3</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3843" ImageSize="996040" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3843" ImageSize="1598435"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3843" ImageSize="1533355"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3843" ImageSize="1834076"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3843" ImageSize="2357874"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3843" ImageSize="2041468"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3843" ImageSize="1674554"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3843" ImageSize="2336845"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3843" ImageSize="2328083"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3843" ImageSize="1501986"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3843" ImageSize="1773028"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3843" ImageSize="1547953"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3843" ImageSize="1707444"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3843" ImageSize="1804513"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3843" ImageSize="2026287"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3843" ImageSize="1950916"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3843" ImageSize="1821260"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3843" ImageSize="2078525"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3843" ImageSize="1843713"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3843" ImageSize="1801128"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3843" ImageSize="1305622"/>
+		<Page Image="21" ImageSize="502832"/>
+	</Pages>
+	<Penciller>Dylan Moore</Penciller>
+	<Publisher>Outhouse Cartoons</Publisher>
+	<Series>Combat Fairies</Series>
+	<Summary>A View To A Skill
+
+The fairies track their new target to a famous Maryland retreat, but when it comes time to finish their job they find themselves questioning why they were sent there and who they can trust.</Summary>
+	<Teams>Fairies</Teams>
+	<Title>A View To A Skill</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/combat-fairies-3-a-view-to-a-skill/4000-712810/</Web>
+	<Writer>Dylan Moore</Writer>
+	<Year>2019</Year>
+</ComicInfo>

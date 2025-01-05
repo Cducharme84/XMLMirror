@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cerebus,Rick Nash</Characters>
+	<Colorist>Gerhard</Colorist>
+	<Day>1</Day>
+	<Editor>Dave Sim</Editor>
+	<GTIN>urn:comicvine:4000-124340</GTIN>
+	<Inker>Dave Sim,Gerhard</Inker>
+	<Letterer>Dave Sim</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:06:17 [Issue ID 4000-124340] urn:comicvine:4000-124340</Notes>
+	<Number>12</Number>
+	<PageCount>236</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2202983" Type="FrontCover"/>
+		<Page Image="1" ImageSize="993028"/>
+		<Page Image="2" ImageSize="2264752"/>
+		<Page Image="3" ImageSize="2120687"/>
+		<Page Image="4" ImageSize="48710"/>
+		<Page Image="5" ImageSize="555640"/>
+		<Page Image="6" ImageSize="708433"/>
+		<Page Image="7" ImageSize="824325"/>
+		<Page Image="8" ImageSize="830195"/>
+		<Page Image="9" ImageSize="848181"/>
+		<Page Image="10" ImageSize="760276"/>
+		<Page Image="11" ImageSize="796810"/>
+		<Page Image="12" ImageSize="821840"/>
+		<Page Image="13" ImageSize="793116"/>
+		<Page Image="14" ImageSize="917641"/>
+		<Page Image="15" ImageSize="772459"/>
+		<Page Image="16" ImageSize="732097"/>
+		<Page Image="17" ImageSize="941039"/>
+		<Page Image="18" ImageSize="743423"/>
+		<Page Image="19" ImageSize="980332"/>
+		<Page Image="20" ImageSize="957259"/>
+		<Page Image="21" ImageSize="636016"/>
+		<Page Image="22" ImageSize="723730"/>
+		<Page Image="23" ImageSize="628559"/>
+		<Page Image="24" ImageSize="787648"/>
+		<Page Image="25" ImageSize="774114"/>
+		<Page Image="26" ImageSize="890427"/>
+		<Page Image="27" ImageSize="637190"/>
+		<Page Image="28" ImageSize="549442"/>
+		<Page Image="29" ImageSize="858601"/>
+		<Page Image="30" ImageSize="921485"/>
+		<Page Image="31" ImageSize="788525"/>
+		<Page Image="32" ImageSize="862414"/>
+		<Page Image="33" ImageSize="846531"/>
+		<Page Image="34" ImageSize="932444"/>
+		<Page Image="35" ImageSize="945882"/>
+		<Page Image="36" ImageSize="904974"/>
+		<Page Image="37" ImageSize="930435"/>
+		<Page Image="38" ImageSize="1032502"/>
+		<Page Image="39" ImageSize="934189"/>
+		<Page Image="40" ImageSize="828307"/>
+		<Page Image="41" ImageSize="1208524"/>
+		<Page Image="42" ImageSize="246525"/>
+		<Page Image="43" ImageSize="392776"/>
+		<Page Image="44" ImageSize="598492"/>
+		<Page Image="45" ImageSize="1023701"/>
+		<Page Image="46" ImageSize="834700"/>
+		<Page Image="47" ImageSize="1038949"/>
+		<Page Image="48" ImageSize="867448"/>
+		<Page Image="49" ImageSize="811618"/>
+		<Page Image="50" ImageSize="881326"/>
+		<Page Image="51" ImageSize="729642"/>
+		<Page Image="52" ImageSize="652726"/>
+		<Page Image="53" ImageSize="807855"/>
+		<Page Image="54" ImageSize="924171"/>
+		<Page Image="55" ImageSize="760678"/>
+		<Page Image="56" ImageSize="824506"/>
+		<Page Image="57" ImageSize="688111"/>
+		<Page Image="58" ImageSize="406435"/>
+		<Page Image="59" ImageSize="646982"/>
+		<Page Image="60" ImageSize="512251"/>
+		<Page Image="61" ImageSize="719482"/>
+		<Page Image="62" ImageSize="708836"/>
+		<Page Image="63" ImageSize="828242"/>
+		<Page Image="64" ImageSize="936688"/>
+		<Page Image="65" ImageSize="581072"/>
+		<Page Image="66" ImageSize="930191"/>
+		<Page Image="67" ImageSize="713404"/>
+		<Page Image="68" ImageSize="940500"/>
+		<Page Image="69" ImageSize="906636"/>
+		<Page Image="70" ImageSize="702001"/>
+		<Page Image="71" ImageSize="754171"/>
+		<Page Image="72" ImageSize="818742"/>
+		<Page Image="73" ImageSize="865183"/>
+		<Page Image="74" ImageSize="944391"/>
+		<Page Image="75" ImageSize="918960"/>
+		<Page Image="76" ImageSize="1141991"/>
+		<Page Image="77" ImageSize="646238"/>
+		<Page Image="78" ImageSize="1223112"/>
+		<Page Image="79" ImageSize="923855"/>
+		<Page Image="80" ImageSize="934457"/>
+		<Page Image="81" ImageSize="984082"/>
+		<Page Image="82" ImageSize="940604"/>
+		<Page Image="83" ImageSize="914991"/>
+		<Page Image="84" ImageSize="1069553"/>
+		<Page Image="85" ImageSize="856787"/>
+		<Page Image="86" ImageSize="977849"/>
+		<Page Image="87" ImageSize="807887"/>
+		<Page Image="88" ImageSize="821310"/>
+		<Page Image="89" ImageSize="674102"/>
+		<Page Image="90" ImageSize="874850"/>
+		<Page Image="91" ImageSize="796239"/>
+		<Page Image="92" ImageSize="725656"/>
+		<Page Image="93" ImageSize="542274"/>
+		<Page Image="94" ImageSize="1049545"/>
+		<Page Image="95" ImageSize="549140"/>
+		<Page Image="96" ImageSize="849658"/>
+		<Page Image="97" ImageSize="742594"/>
+		<Page Image="98" ImageSize="692486"/>
+		<Page Image="99" ImageSize="747237"/>
+		<Page Image="100" ImageSize="677711"/>
+		<Page Image="101" ImageSize="794765"/>
+		<Page Image="102" ImageSize="764697"/>
+		<Page Image="103" ImageSize="719714"/>
+		<Page Image="104" ImageSize="846944"/>
+		<Page Image="105" ImageSize="645241"/>
+		<Page Image="106" ImageSize="795491"/>
+		<Page Image="107" ImageSize="990428"/>
+		<Page Image="108" ImageSize="983338"/>
+		<Page Image="109" ImageSize="852084"/>
+		<Page Image="110" ImageSize="845760"/>
+		<Page Image="111" ImageSize="857939"/>
+		<Page Image="112" ImageSize="601749"/>
+		<Page Image="113" ImageSize="612171"/>
+		<Page Image="114" ImageSize="756685"/>
+		<Page Image="115" ImageSize="660724"/>
+		<Page Image="116" ImageSize="757790"/>
+		<Page Image="117" ImageSize="580174"/>
+		<Page Image="118" ImageSize="553867"/>
+		<Page Image="119" ImageSize="925260"/>
+		<Page Image="120" ImageSize="961794"/>
+		<Page Image="121" ImageSize="895542"/>
+		<Page Image="122" ImageSize="955509"/>
+		<Page Image="123" ImageSize="1014367"/>
+		<Page Image="124" ImageSize="910922"/>
+		<Page Image="125" ImageSize="678892"/>
+		<Page Image="126" ImageSize="956299"/>
+		<Page Image="127" ImageSize="700498"/>
+		<Page Image="128" ImageSize="934616"/>
+		<Page Image="129" ImageSize="1953915"/>
+		<Page Image="130" ImageSize="545562"/>
+		<Page Image="131" ImageSize="1028478"/>
+		<Page Image="132" ImageSize="750867"/>
+		<Page Image="133" ImageSize="1037270"/>
+		<Page Image="134" ImageSize="800433"/>
+		<Page Image="135" ImageSize="908867"/>
+		<Page Image="136" ImageSize="818466"/>
+		<Page Image="137" ImageSize="569364"/>
+		<Page Image="138" ImageSize="522349"/>
+		<Page Image="139" ImageSize="910406"/>
+		<Page Image="140" ImageSize="703554"/>
+		<Page Image="141" ImageSize="736227"/>
+		<Page Image="142" ImageSize="996190"/>
+		<Page Image="143" ImageSize="793486"/>
+		<Page Image="144" ImageSize="788179"/>
+		<Page Image="145" ImageSize="823939"/>
+		<Page Image="146" ImageSize="960291"/>
+		<Page Image="147" ImageSize="947572"/>
+		<Page Image="148" ImageSize="940903"/>
+		<Page Image="149" ImageSize="912007"/>
+		<Page Image="150" ImageSize="630926"/>
+		<Page Image="151" ImageSize="832422"/>
+		<Page Image="152" ImageSize="983835"/>
+		<Page Image="153" ImageSize="847203"/>
+		<Page Image="154" ImageSize="1138853"/>
+		<Page Image="155" ImageSize="883542"/>
+		<Page Image="156" ImageSize="812960"/>
+		<Page Image="157" ImageSize="1209844"/>
+		<Page Image="158" ImageSize="602016"/>
+		<Page Image="159" ImageSize="516638"/>
+		<Page Image="160" ImageSize="771932"/>
+		<Page Image="161" ImageSize="713872"/>
+		<Page Image="162" ImageSize="888346"/>
+		<Page Image="163" ImageSize="735894"/>
+		<Page Image="164" ImageSize="477502"/>
+		<Page Image="165" ImageSize="582143"/>
+		<Page Image="166" ImageSize="553644"/>
+		<Page Image="167" ImageSize="622506"/>
+		<Page Image="168" ImageSize="594793"/>
+		<Page Image="169" ImageSize="715925"/>
+		<Page Image="170" ImageSize="634435"/>
+		<Page Image="171" ImageSize="924808"/>
+		<Page Image="172" ImageSize="720586"/>
+		<Page Image="173" ImageSize="935105"/>
+		<Page Image="174" ImageSize="982244"/>
+		<Page Image="175" ImageSize="757291"/>
+		<Page Image="176" ImageSize="918681"/>
+		<Page Image="177" ImageSize="919706"/>
+		<Page Image="178" ImageSize="827767"/>
+		<Page Image="179" ImageSize="852159"/>
+		<Page Image="180" ImageSize="939090"/>
+		<Page Image="181" ImageSize="753257"/>
+		<Page Image="182" ImageSize="803170"/>
+		<Page Image="183" ImageSize="809220"/>
+		<Page Image="184" ImageSize="1046719"/>
+		<Page Image="185" ImageSize="898290"/>
+		<Page Image="186" ImageSize="676842"/>
+		<Page Image="187" ImageSize="696158"/>
+		<Page Image="188" ImageSize="933023"/>
+		<Page Image="189" ImageSize="763001"/>
+		<Page Image="190" ImageSize="613827"/>
+		<Page Image="191" ImageSize="598170"/>
+		<Page Image="192" ImageSize="725130"/>
+		<Page Image="193" ImageSize="855514"/>
+		<Page Image="194" ImageSize="909843"/>
+		<Page Image="195" ImageSize="700175"/>
+		<Page Image="196" ImageSize="606997"/>
+		<Page Image="197" ImageSize="762723"/>
+		<Page Image="198" ImageSize="742683"/>
+		<Page Image="199" ImageSize="708002"/>
+		<Page Image="200" ImageSize="817957"/>
+		<Page Image="201" ImageSize="819114"/>
+		<Page Image="202" ImageSize="689356"/>
+		<Page Image="203" ImageSize="822354"/>
+		<Page Image="204" ImageSize="819531"/>
+		<Page Image="205" ImageSize="830136"/>
+		<Page Image="206" ImageSize="937535"/>
+		<Page Image="207" ImageSize="730391"/>
+		<Page Image="208" ImageSize="604581"/>
+		<Page Image="209" ImageSize="915902"/>
+		<Page Image="210" ImageSize="645712"/>
+		<Page Image="211" ImageSize="801956"/>
+		<Page Image="212" ImageSize="741172"/>
+		<Page Image="213" ImageSize="705163"/>
+		<Page Image="214" ImageSize="577287"/>
+		<Page Image="215" ImageSize="639459"/>
+		<Page Image="216" ImageSize="45233"/>
+		<Page Image="217" ImageSize="644305"/>
+		<Page Image="218" ImageSize="730051"/>
+		<Page Image="219" ImageSize="721249"/>
+		<Page Image="220" ImageSize="666183"/>
+		<Page Image="221" ImageSize="778733"/>
+		<Page Image="222" ImageSize="836523"/>
+		<Page Image="223" ImageSize="877052"/>
+		<Page Image="224" ImageSize="732639"/>
+		<Page Image="225" ImageSize="880267"/>
+		<Page Image="226" ImageSize="766405"/>
+		<Page Image="227" ImageSize="817899"/>
+		<Page Image="228" ImageSize="862154"/>
+		<Page Image="229" ImageSize="688592"/>
+		<Page Image="230" ImageSize="717408"/>
+		<Page Image="231" ImageSize="476476"/>
+		<Page Image="232" ImageSize="661578"/>
+		<Page Image="233" ImageSize="750668"/>
+		<Page Image="234" ImageSize="759206"/>
+		<Page Image="235" ImageSize="2264752"/>
+	</Pages>
+	<Penciller>Dave Sim,Gerhard</Penciller>
+	<Publisher>Aardvark</Publisher>
+	<ScanInformation>(1)</ScanInformation>
+	<Series>Cerebus Trade Paperbacks</Series>
+	<Summary>Reprinting Cerebus #220-231. Picking up where 'Guys' left off, it seems as if Cerebus is never going to get out of that stupid tavern when along comes Rick Nash, Jaka's former husband, now a would-be writer. Rick's memoirs take a very strange turn as he takes up residence. Then along comes Cerebus' former squeeze, Joanne, and that's when the fun really begins.
+
+https://comicvine.gamespot.com/cerebus-trade-paperbacks-12-ricks-story/4000-124340/</Summary>
+	<Title>Rick's Story</Title>
+	<Volume>1986</Volume>
+	<Web>https://comicvine.gamespot.com/cerebus-trade-paperbacks-12-ricks-story/4000-124340/</Web>
+	<Writer>Dave Sim</Writer>
+	<Year>2008</Year>
+</ComicInfo>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Anya,Buffy,Tara,Spike,Thessaly</Characters>
+  <Colorist>Joana Lafuente,Joana Lafuente</Colorist>
+  <Day>1</Day>
+  <Editor>Elizabeth Brei,Maya Bollinger,Elizabeth Brei </Editor>
+  <GTIN>urn:comicvine:4000-974492</GTIN>
+  <Genre>Horror-suspense,Fantasy</Genre>
+  <Inker>Jose Jaro,Lea Caballero,Maria Keane,Joe Jaro,Joe Jaro,Maria Keane,Lea Caballero</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Ed Dukeshire,Ed Dukeshire</Letterer>
+  <Locations>England</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:55:42 [Issue ID 4000-974492] urn:comicvine:4000-974492
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 06:26:19. [Issue ID 2499012]</Notes>
+  <Number>1</Number>
+  <PageCount>46</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="891744" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="1076014" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1436004" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1196237" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1386224" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1285370" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1325957" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1203476" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1494738" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="927091" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1492005" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1367521" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1240382" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1230389" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1175007" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1377753" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1259642" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1265922" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1180742" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="1362794" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="1399683" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1208810" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1337567" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1518236" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1279044" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1260359" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1169366" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1156326" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1223183" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="1666228" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1355414" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1421405" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="1345674" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1262671" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1067706" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="1509321" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="1459014" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1279295" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1606854" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="1291988" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1199712" ImageWidth="1988" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1414431" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1600398" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="1277269" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="2101189" ImageWidth="1988" />
+    <Page Image="45" ImageSize="1540816" />
+  </Pages>
+  <Penciller>Joe Jaro,Jose Jaro,Lea Caballero,Maria Keane,Joe Jaro,Maria Keane,Lea Caballero</Penciller>
+  <Publisher>Boom! Studios</Publisher>
+  <ScanInformation>Kileko-Empire</ScanInformation>
+  <Series>Buffy the Last Vampire Slayer Special</Series>
+  <Summary>It's been 4 years, and Buffy, Spike, and Thess have been living in relative peace as a dysfunctionally cozy family. But nothing can last forever...
+
+Tara might not be dead, but they're losing hope for her staying among the living, and strange new vampires have been sighted.
+
+To get to the bottom of these unfolding horrors, our gang will have to head underground... and face the horrifying true cause of the decline in vampire activity!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-07 12:18:22.  [CVDB974492]
+
+https://comicvine.gamespot.com/buffy-the-last-vampire-slayer-special-1/4000-974492/</Summary>
+  <Tags>Anya,Buffy,Watchers,Tara,Spike,England,Thessaly,Watchers Council,Slayers,Vampires</Tags>
+  <Teams>Vampires,Watchers Council,Slayers,Watchers</Teams>
+  <Volume>2023</Volume>
+  <Web>https://comicvine.gamespot.com/buffy-the-last-vampire-slayer-special-1/4000-974492/</Web>
+  <Writer>Casey Gilly,Casey Gilly</Writer>
+  <Year>2023</Year>
+  <Count>1</Count>
+  <Format>One-Shot</Format>
+</ComicInfo>

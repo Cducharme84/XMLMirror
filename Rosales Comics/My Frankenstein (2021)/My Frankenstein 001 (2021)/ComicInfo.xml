@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>5</Count>
+	<Format>Limited Series</Format>
+	<Genre>Horror</Genre>
+	<Inker>Daniel Rosales</Inker>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-25T22:19:02</Notes>
+	<Number>01</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1250620" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1555610"/>
+		<Page Image="2" ImageSize="1821727"/>
+		<Page Image="3" ImageSize="1558988"/>
+		<Page Image="4" ImageSize="1553318"/>
+		<Page Image="5" ImageSize="1621457"/>
+		<Page Image="6" ImageSize="1854779"/>
+		<Page Image="7" ImageSize="1845796"/>
+		<Page Image="8" ImageSize="1381840"/>
+		<Page Image="9" ImageSize="1992900"/>
+		<Page Image="10" ImageSize="2012464"/>
+		<Page Image="11" ImageSize="1452712"/>
+		<Page Image="12" ImageSize="1499007"/>
+		<Page Image="13" ImageSize="1460231"/>
+		<Page Image="14" ImageSize="1247486"/>
+		<Page Image="15" ImageSize="1405344"/>
+		<Page Image="16" ImageSize="1607435"/>
+		<Page Image="17" ImageSize="1654049"/>
+		<Page Image="18" ImageSize="2800317"/>
+		<Page Image="19" ImageSize="1355904"/>
+		<Page Image="20" ImageSize="1289478"/>
+		<Page Image="21" ImageSize="1168911"/>
+	</Pages>
+	<Penciller>Daniel Rosales</Penciller>
+	<Publisher>Rosales Comics</Publisher>
+	<Series>My Frankenstein</Series>
+	<Volume>2021</Volume>
+	<Writer>Daniel Rosales</Writer>
+	<Year>2021</Year>
+</ComicInfo>

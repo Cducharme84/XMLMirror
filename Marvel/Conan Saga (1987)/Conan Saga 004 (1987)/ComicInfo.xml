@@ -1,0 +1,92 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Conan</Characters>
+  <Colorist>Barry Windsor-Smith,Tim Conrad</Colorist>
+  <Editor>Larry Hama</Editor>
+  <GTIN>urn:comicvine:4000-132576</GTIN>
+  <Inker>Barry Windsor-Smith,Sal Buscema,Tim Conrad,Sal Buscema</Inker>
+  <Letterer>Sam Rosen,Sam Rosen</Letterer>
+  <Locations>Hyboria</Locations>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T15:21:40 [Issue ID 4000-132576] urn:comicvine:4000-132576
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 18:25:55. [Issue ID 129900]</Notes>
+  <Number>4</Number>
+  <PageCount>61</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="992" ImageSize="195792" ImageWidth="715" Type="FrontCover" />
+    <Page Image="1" ImageHeight="992" ImageSize="131930" ImageWidth="715" />
+    <Page Image="2" ImageHeight="992" ImageSize="262012" ImageWidth="715" />
+    <Page Image="3" ImageHeight="992" ImageSize="240082" ImageWidth="715" />
+    <Page Image="4" ImageHeight="992" ImageSize="278312" ImageWidth="715" />
+    <Page Image="5" ImageHeight="992" ImageSize="274992" ImageWidth="715" />
+    <Page Image="6" ImageHeight="992" ImageSize="266575" ImageWidth="715" />
+    <Page Image="7" ImageHeight="992" ImageSize="271357" ImageWidth="715" />
+    <Page Image="8" ImageHeight="992" ImageSize="262406" ImageWidth="715" />
+    <Page Image="9" ImageHeight="992" ImageSize="251143" ImageWidth="715" />
+    <Page Image="10" ImageHeight="992" ImageSize="280043" ImageWidth="715" />
+    <Page Image="11" ImageHeight="992" ImageSize="252750" ImageWidth="715" />
+    <Page Image="12" ImageHeight="992" ImageSize="256548" ImageWidth="715" />
+    <Page Image="13" ImageHeight="992" ImageSize="247877" ImageWidth="715" />
+    <Page Image="14" ImageHeight="992" ImageSize="270788" ImageWidth="715" />
+    <Page Image="15" ImageHeight="992" ImageSize="267686" ImageWidth="715" />
+    <Page Image="16" ImageHeight="992" ImageSize="267745" ImageWidth="715" />
+    <Page Image="17" ImageHeight="992" ImageSize="249531" ImageWidth="715" />
+    <Page Image="18" ImageHeight="992" ImageSize="250669" ImageWidth="715" />
+    <Page Image="19" ImageHeight="992" ImageSize="247988" ImageWidth="715" />
+    <Page Image="20" ImageHeight="992" ImageSize="249572" ImageWidth="715" />
+    <Page Image="21" ImageHeight="992" ImageSize="234134" ImageWidth="715" />
+    <Page Image="22" ImageHeight="992" ImageSize="230992" ImageWidth="715" />
+    <Page Image="23" ImageHeight="992" ImageSize="227349" ImageWidth="715" />
+    <Page Image="24" ImageHeight="992" ImageSize="207336" ImageWidth="715" />
+    <Page Image="25" ImageHeight="992" ImageSize="226560" ImageWidth="715" />
+    <Page Image="26" ImageHeight="992" ImageSize="220047" ImageWidth="715" />
+    <Page Image="27" ImageHeight="992" ImageSize="218976" ImageWidth="715" />
+    <Page Image="28" ImageHeight="992" ImageSize="250672" ImageWidth="715" />
+    <Page Image="29" ImageHeight="992" ImageSize="284204" ImageWidth="715" />
+    <Page Image="30" ImageHeight="992" ImageSize="275092" ImageWidth="715" />
+    <Page Image="31" ImageHeight="992" ImageSize="240411" ImageWidth="715" />
+    <Page Image="32" ImageHeight="992" ImageSize="252697" ImageWidth="715" />
+    <Page Image="33" ImageHeight="992" ImageSize="262955" ImageWidth="715" />
+    <Page Image="34" ImageHeight="992" ImageSize="254328" ImageWidth="715" />
+    <Page Image="35" ImageHeight="992" ImageSize="244685" ImageWidth="715" />
+    <Page Image="36" ImageHeight="992" ImageSize="243596" ImageWidth="715" />
+    <Page Image="37" ImageHeight="992" ImageSize="235403" ImageWidth="715" />
+    <Page Image="38" ImageHeight="992" ImageSize="259512" ImageWidth="715" />
+    <Page Image="39" ImageHeight="992" ImageSize="237913" ImageWidth="715" />
+    <Page Image="40" ImageHeight="992" ImageSize="253954" ImageWidth="715" />
+    <Page Image="41" ImageHeight="992" ImageSize="234596" ImageWidth="715" />
+    <Page Image="42" ImageHeight="992" ImageSize="253993" ImageWidth="715" />
+    <Page Image="43" ImageHeight="992" ImageSize="236508" ImageWidth="715" />
+    <Page Image="44" ImageHeight="992" ImageSize="242281" ImageWidth="715" />
+    <Page Image="45" ImageHeight="992" ImageSize="232167" ImageWidth="715" />
+    <Page Image="46" ImageHeight="992" ImageSize="247367" ImageWidth="715" />
+    <Page Image="47" ImageHeight="992" ImageSize="235558" ImageWidth="715" />
+    <Page Image="48" ImageHeight="992" ImageSize="244002" ImageWidth="715" />
+    <Page Image="49" ImageHeight="992" ImageSize="257134" ImageWidth="715" />
+    <Page Image="50" ImageHeight="992" ImageSize="259721" ImageWidth="715" />
+    <Page Image="51" ImageHeight="992" ImageSize="267964" ImageWidth="715" />
+    <Page Image="52" ImageHeight="992" ImageSize="244394" ImageWidth="715" />
+    <Page Image="53" ImageHeight="992" ImageSize="270079" ImageWidth="715" />
+    <Page Image="54" ImageHeight="992" ImageSize="230332" ImageWidth="715" />
+    <Page Image="55" ImageHeight="992" ImageSize="250481" ImageWidth="715" />
+    <Page Image="56" ImageHeight="992" ImageSize="251802" ImageWidth="715" />
+    <Page Image="57" ImageHeight="992" ImageSize="243567" ImageWidth="715" />
+    <Page Image="58" ImageHeight="992" ImageSize="248194" ImageWidth="715" />
+    <Page Image="59" ImageHeight="992" ImageSize="247598" ImageWidth="715" />
+    <Page Image="60" ImageSize="263835" />
+  </Pages>
+  <Penciller>Barry Windsor-Smith,Tim Conrad,Barry Smith,Barry Smith,Barry Windsor-Smith</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Conan Saga</Series>
+  <Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-30 20:44:04.  [Issue ID 132576]
+
+https://comicvine.gamespot.com/conan-saga-4-beware-the-wrath-of-anu-rogues-in-the/4000-132576/</Summary>
+  <Tags>Hyboria,Conan</Tags>
+  <Title>Beware the Wrath of Anu!; Rogues in the House; Cimmeria</Title>
+  <Volume>1987</Volume>
+  <Web>https://comicvine.gamespot.com/conan-saga-4-beware-the-wrath-of-anu-rogues-in-the/4000-132576/</Web>
+  <Writer>Robert E. Howard,Roy Thomas,Roy Thomas,Robert E. Howard</Writer>
+  <Year>1987</Year>
+  <Count>97</Count>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

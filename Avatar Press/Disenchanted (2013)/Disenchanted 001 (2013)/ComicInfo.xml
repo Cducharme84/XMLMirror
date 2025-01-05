@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Agger,Breekle,Fig Leveret,Lith,Noro,Sal Leveret,Stote Leveret,Tael Leveret,Tibitha Leveret</Characters>
+	<Count>46</Count>
+	<Day>28</Day>
+	<GTIN>urn:comicvine:4000-431374</GTIN>
+	<Inker>German Erramouspe</Inker>
+	<Locations>London,Vermintown</Locations>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:54 [Issue ID 4000-431374] urn:comicvine:4000-431374</Notes>
+	<Number>1</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="1546" ImageSize="519617" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="777" ImageSize="249669"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="776" ImageSize="212047"/>
+		<Page Image="3" ImageWidth="1000" ImageHeight="773" ImageSize="347136"/>
+		<Page Image="4" ImageWidth="1000" ImageHeight="776" ImageSize="352973"/>
+		<Page Image="5" ImageWidth="1000" ImageHeight="774" ImageSize="309524"/>
+		<Page Image="6" ImageWidth="1000" ImageHeight="769" ImageSize="260204"/>
+		<Page Image="7" ImageWidth="1000" ImageHeight="769" ImageSize="214965"/>
+		<Page Image="8" ImageWidth="1000" ImageHeight="774" ImageSize="282095"/>
+		<Page Image="9" ImageWidth="1000" ImageHeight="768" ImageSize="346162"/>
+		<Page Image="10" ImageWidth="1000" ImageHeight="766" ImageSize="289503"/>
+		<Page Image="11" ImageWidth="1000" ImageHeight="768" ImageSize="264346"/>
+		<Page Image="12" ImageWidth="1000" ImageHeight="774" ImageSize="227328"/>
+		<Page Image="13" ImageWidth="1000" ImageHeight="774" ImageSize="278493"/>
+		<Page Image="14" ImageWidth="1000" ImageHeight="761" ImageSize="284246"/>
+		<Page Image="15" ImageWidth="1000" ImageHeight="768" ImageSize="281147"/>
+		<Page Image="16" ImageWidth="1000" ImageHeight="774" ImageSize="262405"/>
+		<Page Image="17" ImageWidth="1000" ImageHeight="764" ImageSize="282418"/>
+		<Page Image="18" ImageWidth="1000" ImageHeight="768" ImageSize="239340"/>
+		<Page Image="19" ImageWidth="1000" ImageHeight="772" ImageSize="300772"/>
+		<Page Image="20" ImageWidth="1000" ImageHeight="764" ImageSize="225157"/>
+		<Page Image="21" ImageWidth="1000" ImageHeight="767" ImageSize="283929"/>
+		<Page Image="22" ImageWidth="1000" ImageHeight="772" ImageSize="237829"/>
+		<Page Image="23" ImageWidth="1000" ImageHeight="795" ImageSize="268726"/>
+		<Page Image="24" ImageSize="237265"/>
+	</Pages>
+	<Penciller>German Erramouspe</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(disenchantedcomic.com)</ScanInformation>
+	<Series>Disenchanted</Series>
+	<Teams>Fairies</Teams>
+	<Title>Episode 1</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/disenchanted-1-episode-1/4000-431374/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

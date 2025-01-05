@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Day>23</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-2152722</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:09:35 [Issue ID 4000-2152722] urn:comicvine:4000-2152722 urn:grandcomicsdatabase:issue/2152722
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 15:03:11. [Issue ID 2152722]</Notes>
+  <Number>4</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="642472" Type="FrontCover" />
+    <Page Image="1" ImageSize="732684" />
+    <Page Image="2" ImageSize="812892" />
+    <Page Image="3" ImageSize="740784" />
+    <Page Image="4" ImageSize="788960" />
+    <Page Image="5" ImageSize="778768" />
+    <Page Image="6" ImageSize="659728" />
+    <Page Image="7" ImageSize="631296" />
+    <Page Image="8" ImageSize="717768" />
+    <Page Image="9" ImageSize="632264" />
+    <Page Image="10" ImageSize="732928" />
+    <Page Image="11" ImageSize="655896" />
+    <Page Image="12" ImageSize="614004" />
+    <Page Image="13" ImageSize="671428" />
+    <Page Image="14" ImageSize="617764" />
+    <Page Image="15" ImageSize="771036" />
+    <Page Image="16" ImageSize="721960" />
+    <Page Image="17" ImageSize="808572" />
+    <Page Image="18" ImageSize="442072" />
+    <Page Image="19" ImageSize="558500" />
+    <Page Image="20" ImageSize="698704" />
+    <Page Image="21" ImageSize="639308" />
+    <Page Image="22" ImageSize="575356" />
+    <Page Image="23" ImageSize="600792" />
+    <Page Image="24" ImageSize="523116" />
+    <Page Image="25" ImageSize="460212" />
+  </Pages>
+  <Publisher>Oni Press</Publisher>
+  <Series>Rick and Morty Go to Hell</Series>
+  <Volume>2020</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-2152722/</Web>
+  <Year>2020</Year>
+</ComicInfo>

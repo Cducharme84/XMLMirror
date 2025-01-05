@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:comicvine:4000-294611</GTIN>
+  <Inker>Matt Baker,Ray Osrin,Ray Osrin</Inker>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:09:16 [Issue ID 4000-294611] urn:comicvine:4000-294611
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 21:38:24. [Issue ID 317082]</Notes>
+  <Number>1</Number>
+  <PageCount>135</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1792" ImageSize="430726" ImageWidth="1289" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1791" ImageSize="94661" ImageWidth="1287" />
+    <Page Image="2" ImageHeight="2154" ImageSize="478082" ImageWidth="1584" />
+    <Page Image="3" ImageHeight="2154" ImageSize="294733" ImageWidth="1584" />
+    <Page Image="4" ImageHeight="2154" ImageSize="664555" ImageWidth="1584" />
+    <Page Image="5" ImageHeight="2154" ImageSize="932248" ImageWidth="1584" />
+    <Page Image="6" ImageHeight="2154" ImageSize="931431" ImageWidth="1584" />
+    <Page Image="7" ImageHeight="2154" ImageSize="1008772" ImageWidth="1584" />
+    <Page Image="8" ImageHeight="2154" ImageSize="1053629" ImageWidth="1584" />
+    <Page Image="9" ImageHeight="2154" ImageSize="937823" ImageWidth="1584" />
+    <Page Image="10" ImageHeight="2154" ImageSize="994493" ImageWidth="1584" />
+    <Page Image="11" ImageHeight="2154" ImageSize="892582" ImageWidth="1584" />
+    <Page Image="12" ImageHeight="2154" ImageSize="849291" ImageWidth="1584" />
+    <Page Image="13" ImageHeight="2154" ImageSize="1017070" ImageWidth="1584" />
+    <Page Image="14" ImageHeight="2154" ImageSize="1011945" ImageWidth="1584" />
+    <Page Image="15" ImageHeight="2154" ImageSize="998800" ImageWidth="1584" />
+    <Page Image="16" ImageHeight="2154" ImageSize="997677" ImageWidth="1584" />
+    <Page Image="17" ImageHeight="2154" ImageSize="1071539" ImageWidth="1584" />
+    <Page Image="18" ImageHeight="2154" ImageSize="1059543" ImageWidth="1584" />
+    <Page Image="19" ImageHeight="2154" ImageSize="1062732" ImageWidth="1584" />
+    <Page Image="20" ImageHeight="2154" ImageSize="1073378" ImageWidth="1584" />
+    <Page Image="21" ImageHeight="2154" ImageSize="985739" ImageWidth="1584" />
+    <Page Image="22" ImageHeight="2154" ImageSize="950872" ImageWidth="1584" />
+    <Page Image="23" ImageHeight="2154" ImageSize="1024287" ImageWidth="1584" />
+    <Page Image="24" ImageHeight="2154" ImageSize="982432" ImageWidth="1584" />
+    <Page Image="25" ImageHeight="2154" ImageSize="655907" ImageWidth="1584" />
+    <Page Image="26" ImageHeight="2154" ImageSize="867273" ImageWidth="1584" />
+    <Page Image="27" ImageHeight="2154" ImageSize="1044508" ImageWidth="1584" />
+    <Page Image="28" ImageHeight="2154" ImageSize="897854" ImageWidth="1584" />
+    <Page Image="29" ImageHeight="2154" ImageSize="1049806" ImageWidth="1584" />
+    <Page Image="30" ImageHeight="2154" ImageSize="957350" ImageWidth="1584" />
+    <Page Image="31" ImageHeight="2154" ImageSize="1025062" ImageWidth="1584" />
+    <Page Image="32" ImageHeight="2154" ImageSize="876240" ImageWidth="1584" />
+    <Page Image="33" ImageHeight="2154" ImageSize="1079259" ImageWidth="1584" />
+    <Page Image="34" ImageHeight="2154" ImageSize="1037668" ImageWidth="1584" />
+    <Page Image="35" ImageHeight="2154" ImageSize="984728" ImageWidth="1584" />
+    <Page Image="36" ImageHeight="2154" ImageSize="979561" ImageWidth="1584" />
+    <Page Image="37" ImageHeight="2154" ImageSize="1024839" ImageWidth="1584" />
+    <Page Image="38" ImageHeight="2154" ImageSize="1016870" ImageWidth="1584" />
+    <Page Image="39" ImageHeight="2154" ImageSize="1060578" ImageWidth="1584" />
+    <Page Image="40" ImageHeight="2154" ImageSize="1095270" ImageWidth="1584" />
+    <Page Image="41" ImageHeight="2154" ImageSize="982367" ImageWidth="1584" />
+    <Page Image="42" ImageHeight="2154" ImageSize="1118955" ImageWidth="1584" />
+    <Page Image="43" ImageHeight="2154" ImageSize="1096492" ImageWidth="1584" />
+    <Page Image="44" ImageHeight="2154" ImageSize="1167519" ImageWidth="1584" />
+    <Page Image="45" ImageHeight="2154" ImageSize="845359" ImageWidth="1584" />
+    <Page Image="46" ImageHeight="2154" ImageSize="952066" ImageWidth="1584" />
+    <Page Image="47" ImageHeight="2154" ImageSize="995717" ImageWidth="1584" />
+    <Page Image="48" ImageHeight="2154" ImageSize="955063" ImageWidth="1584" />
+    <Page Image="49" ImageHeight="2154" ImageSize="1225025" ImageWidth="1584" />
+    <Page Image="50" ImageHeight="2154" ImageSize="1184263" ImageWidth="1584" />
+    <Page Image="51" ImageHeight="2154" ImageSize="1127823" ImageWidth="1584" />
+    <Page Image="52" ImageHeight="2154" ImageSize="1065031" ImageWidth="1584" />
+    <Page Image="53" ImageHeight="2154" ImageSize="942301" ImageWidth="1584" />
+    <Page Image="54" ImageHeight="2154" ImageSize="1075305" ImageWidth="1584" />
+    <Page Image="55" ImageHeight="2154" ImageSize="985140" ImageWidth="1584" />
+    <Page Image="56" ImageHeight="2154" ImageSize="969049" ImageWidth="1584" />
+    <Page Image="57" ImageHeight="2154" ImageSize="1034060" ImageWidth="1584" />
+    <Page Image="58" ImageHeight="2154" ImageSize="931144" ImageWidth="1584" />
+    <Page Image="59" ImageHeight="2154" ImageSize="1017057" ImageWidth="1584" />
+    <Page Image="60" ImageHeight="2154" ImageSize="1235440" ImageWidth="1584" />
+    <Page Image="61" ImageHeight="2154" ImageSize="1076471" ImageWidth="1584" />
+    <Page Image="62" ImageHeight="2154" ImageSize="1083019" ImageWidth="1584" />
+    <Page Image="63" ImageHeight="2154" ImageSize="891019" ImageWidth="1584" />
+    <Page Image="64" ImageHeight="2154" ImageSize="1096457" ImageWidth="1584" />
+    <Page Image="65" ImageHeight="2154" ImageSize="1056105" ImageWidth="1584" />
+    <Page Image="66" ImageHeight="2154" ImageSize="912266" ImageWidth="1584" />
+    <Page Image="67" ImageHeight="2154" ImageSize="928633" ImageWidth="1584" />
+    <Page Image="68" ImageHeight="2154" ImageSize="985862" ImageWidth="1584" />
+    <Page Image="69" ImageHeight="2154" ImageSize="887290" ImageWidth="1584" />
+    <Page Image="70" ImageHeight="2154" ImageSize="964790" ImageWidth="1584" />
+    <Page Image="71" ImageHeight="2154" ImageSize="1020232" ImageWidth="1584" />
+    <Page Image="72" ImageHeight="2154" ImageSize="1171019" ImageWidth="1584" />
+    <Page Image="73" ImageHeight="2154" ImageSize="985076" ImageWidth="1584" />
+    <Page Image="74" ImageHeight="2154" ImageSize="1047859" ImageWidth="1584" />
+    <Page Image="75" ImageHeight="2154" ImageSize="948175" ImageWidth="1584" />
+    <Page Image="76" ImageHeight="2154" ImageSize="953019" ImageWidth="1584" />
+    <Page Image="77" ImageHeight="2154" ImageSize="949248" ImageWidth="1584" />
+    <Page Image="78" ImageHeight="2154" ImageSize="1069525" ImageWidth="1584" />
+    <Page Image="79" ImageHeight="2154" ImageSize="936229" ImageWidth="1584" />
+    <Page Image="80" ImageHeight="2154" ImageSize="1040027" ImageWidth="1584" />
+    <Page Image="81" ImageHeight="2154" ImageSize="1174230" ImageWidth="1584" />
+    <Page Image="82" ImageHeight="2154" ImageSize="1180639" ImageWidth="1584" />
+    <Page Image="83" ImageHeight="2154" ImageSize="1118680" ImageWidth="1584" />
+    <Page Image="84" ImageHeight="2154" ImageSize="1034023" ImageWidth="1584" />
+    <Page Image="85" ImageHeight="2154" ImageSize="991648" ImageWidth="1584" />
+    <Page Image="86" ImageHeight="2154" ImageSize="978041" ImageWidth="1584" />
+    <Page Image="87" ImageHeight="2154" ImageSize="993415" ImageWidth="1584" />
+    <Page Image="88" ImageHeight="2154" ImageSize="1036168" ImageWidth="1584" />
+    <Page Image="89" ImageHeight="2154" ImageSize="803777" ImageWidth="1584" />
+    <Page Image="90" ImageHeight="2154" ImageSize="1055859" ImageWidth="1584" />
+    <Page Image="91" ImageHeight="2154" ImageSize="1113494" ImageWidth="1584" />
+    <Page Image="92" ImageHeight="2154" ImageSize="1025834" ImageWidth="1584" />
+    <Page Image="93" ImageHeight="2154" ImageSize="994555" ImageWidth="1584" />
+    <Page Image="94" ImageHeight="2154" ImageSize="988102" ImageWidth="1584" />
+    <Page Image="95" ImageHeight="2154" ImageSize="1020676" ImageWidth="1584" />
+    <Page Image="96" ImageHeight="2154" ImageSize="1074447" ImageWidth="1584" />
+    <Page Image="97" ImageHeight="2154" ImageSize="985736" ImageWidth="1584" />
+    <Page Image="98" ImageHeight="2154" ImageSize="1035755" ImageWidth="1584" />
+    <Page Image="99" ImageHeight="2154" ImageSize="1036352" ImageWidth="1584" />
+    <Page Image="100" ImageHeight="2154" ImageSize="1007604" ImageWidth="1584" />
+    <Page Image="101" ImageHeight="2154" ImageSize="1024572" ImageWidth="1584" />
+    <Page Image="102" ImageHeight="2154" ImageSize="967384" ImageWidth="1584" />
+    <Page Image="103" ImageHeight="2154" ImageSize="981721" ImageWidth="1584" />
+    <Page Image="104" ImageHeight="2154" ImageSize="1110072" ImageWidth="1584" />
+    <Page Image="105" ImageHeight="2154" ImageSize="884888" ImageWidth="1584" />
+    <Page Image="106" ImageHeight="2154" ImageSize="861348" ImageWidth="1584" />
+    <Page Image="107" ImageHeight="2154" ImageSize="1002530" ImageWidth="1584" />
+    <Page Image="108" ImageHeight="2154" ImageSize="985821" ImageWidth="1584" />
+    <Page Image="109" ImageHeight="2154" ImageSize="865617" ImageWidth="1584" />
+    <Page Image="110" ImageHeight="2154" ImageSize="978685" ImageWidth="1584" />
+    <Page Image="111" ImageHeight="2154" ImageSize="850901" ImageWidth="1584" />
+    <Page Image="112" ImageHeight="2154" ImageSize="862587" ImageWidth="1584" />
+    <Page Image="113" ImageHeight="2154" ImageSize="907185" ImageWidth="1584" />
+    <Page Image="114" ImageHeight="2154" ImageSize="931249" ImageWidth="1584" />
+    <Page Image="115" ImageHeight="2154" ImageSize="956799" ImageWidth="1584" />
+    <Page Image="116" ImageHeight="2154" ImageSize="930672" ImageWidth="1584" />
+    <Page Image="117" ImageHeight="2154" ImageSize="930613" ImageWidth="1584" />
+    <Page Image="118" ImageHeight="2154" ImageSize="856732" ImageWidth="1584" />
+    <Page Image="119" ImageHeight="2154" ImageSize="898996" ImageWidth="1584" />
+    <Page Image="120" ImageHeight="2154" ImageSize="1060276" ImageWidth="1584" />
+    <Page Image="121" ImageHeight="2154" ImageSize="929461" ImageWidth="1584" />
+    <Page Image="122" ImageHeight="2154" ImageSize="964590" ImageWidth="1584" />
+    <Page Image="123" ImageHeight="2154" ImageSize="1074158" ImageWidth="1584" />
+    <Page Image="124" ImageHeight="2154" ImageSize="1061599" ImageWidth="1584" />
+    <Page Image="125" ImageHeight="2154" ImageSize="819867" ImageWidth="1584" />
+    <Page Image="126" ImageHeight="2154" ImageSize="923599" ImageWidth="1584" />
+    <Page Image="127" ImageHeight="2154" ImageSize="1115063" ImageWidth="1584" />
+    <Page Image="128" ImageHeight="2154" ImageSize="1044583" ImageWidth="1584" />
+    <Page Image="129" ImageHeight="2154" ImageSize="368983" ImageWidth="1584" />
+    <Page Image="130" ImageHeight="1791" ImageSize="94661" ImageWidth="1287" />
+    <Page Image="131" ImageHeight="1791" ImageSize="392892" ImageWidth="1287" />
+    <Page Image="132" ImageHeight="1" ImageSize="16105" ImageWidth="1" />
+    <Page Image="133" ImageHeight="3197" ImageSize="969460" ImageWidth="2430" />
+    <Page Image="134" ImageSize="1450594" />
+  </Pages>
+  <Penciller>Matt Baker,Matt Baker</Penciller>
+  <Publisher>St. John</Publisher>
+  <ScanInformation>(St. John) (Symm)</ScanInformation>
+  <Series>It Rhymes with Lust</Series>
+  <Summary>It Rhymes with Lust: Hal Weber, one-time crusading journalist, is summoned to Copper City by his old flame Rust after the death of her husband, mining magnate and political heavyweight Arthur "Buck" Masson. As editor of The Express, a newspaper with an anti-Masson stance secretly owned by Rust, Hal is drawn back to her even as he falls for her stepdaughter Audrey. The situation in Copper City soon literally becomes explosive, with Hal having to choose between Rust and Audrey, the bottle and his conscience, safety and the truth.
+
+</Summary>
+  <Volume>1950</Volume>
+  <Web>https://comicvine.gamespot.com/it-rhymes-with-lust-1/4000-294611/</Web>
+  <Writer>Arnold Drake,Arnold Drake,Leslie Waller</Writer>
+  <Year>1950</Year>
+  <Count>1</Count>
+  <Title>It Rhymes with Lust</Title>
+  <Genre>Crime</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+  <Characters>Clancy,Mary,Mike,Marcus Jeffers,Lefty,Audrey Masson,Hal Weber,Arthur "Buck" Masson (picture),Joe,Tommy,Grace Sloan,Mr. Morelli,Monk Shirl,Mr. Sloan,McPhee,Novak,Tiny Shirl,Rust Masson,Bill,Studsy,Jimmy Sloan,Fatso,Paul,J. J. Cheever,Pat O'Rourke,Phil,Wally,Sam Reynolds,Martha,Sam Klein,Jake</Characters>
+</ComicInfo>

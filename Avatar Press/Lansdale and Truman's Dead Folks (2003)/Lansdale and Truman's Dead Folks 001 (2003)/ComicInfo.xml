@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>3</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Miniseries</Format>
+	<GTIN>urn:comicvine:4000-336071</GTIN>
+	<Genre>Adventure,Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:48:10 [Issue ID 4000-336071] urn:comicvine:4000-336071 urn:grandcomicsdatabase:issue/336071</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="898490" Type="FrontCover"/>
+		<Page Image="1" ImageSize="385415"/>
+		<Page Image="2" ImageSize="201780"/>
+		<Page Image="3" ImageSize="242647"/>
+		<Page Image="4" ImageSize="236937"/>
+		<Page Image="5" ImageSize="246448"/>
+		<Page Image="6" ImageSize="228932"/>
+		<Page Image="7" ImageSize="229290"/>
+		<Page Image="8" ImageSize="249127"/>
+		<Page Image="9" ImageSize="254640"/>
+		<Page Image="10" ImageSize="206447"/>
+		<Page Image="11" ImageSize="182353"/>
+		<Page Image="12" ImageSize="190579"/>
+		<Page Image="13" ImageSize="193352"/>
+		<Page Image="14" ImageSize="221594"/>
+		<Page Image="15" ImageSize="260439"/>
+		<Page Image="16" ImageSize="256374"/>
+		<Page Image="17" ImageSize="209494"/>
+		<Page Image="18" ImageSize="222292"/>
+		<Page Image="19" ImageSize="238365"/>
+		<Page Image="20" ImageSize="232889"/>
+		<Page Image="21" ImageSize="276878"/>
+		<Page Image="22" ImageSize="254104"/>
+		<Page Image="23" ImageSize="245669"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Lansdale and Truman's Dead Folks</Series>
+	<Summary>Based on 'On the Far Side of the Cadillac Desert with Dead Folks' by Joe R. Lansdale.</Summary>
+	<Title>On the Far Side with Dead Folks - Part One</Title>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-336071/</Web>
+	<Writer>Joe R. Lansdale</Writer>
+	<Year>2003</Year>
+</ComicInfo>

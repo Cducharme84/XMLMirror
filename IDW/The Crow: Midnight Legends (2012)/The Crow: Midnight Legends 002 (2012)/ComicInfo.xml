@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>6</Count>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-363089</GTIN>
+  <Inker>Alex Maleev</Inker>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:49:17 [Issue ID 4000-363089] urn:comicvine:4000-363089
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 10:40:34. [Issue ID 1156949]</Notes>
+  <Number>2</Number>
+  <PageCount>106</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1124506" Type="FrontCover" />
+    <Page Image="1" ImageSize="306040" />
+    <Page Image="2" ImageSize="2154728" />
+    <Page Image="3" ImageSize="265955" />
+    <Page Image="4" ImageSize="71606" />
+    <Page Image="5" ImageSize="3431957" />
+    <Page Image="6" ImageSize="3127597" />
+    <Page Image="7" ImageSize="2679830" />
+    <Page Image="8" ImageSize="2604618" />
+    <Page Image="9" ImageSize="2660356" />
+    <Page Image="10" ImageSize="5944288" />
+    <Page Image="11" ImageSize="2501333" />
+    <Page Image="12" ImageSize="3072979" />
+    <Page Image="13" ImageSize="2624716" />
+    <Page Image="14" ImageSize="3902885" />
+    <Page Image="15" ImageSize="3315653" />
+    <Page Image="16" ImageSize="2881926" />
+    <Page Image="17" ImageSize="2876036" />
+    <Page Image="18" ImageSize="3017580" />
+    <Page Image="19" ImageSize="2738637" />
+    <Page Image="20" ImageSize="2874086" />
+    <Page Image="21" ImageSize="2980144" />
+    <Page Image="22" ImageSize="2301992" />
+    <Page Image="23" ImageSize="2903688" />
+    <Page Image="24" ImageSize="3293251" />
+    <Page Image="25" ImageSize="3047499" />
+    <Page Image="26" ImageSize="3033506" />
+    <Page Image="27" ImageSize="3091606" />
+    <Page Image="28" ImageSize="2540520" />
+    <Page Image="29" ImageSize="2500380" />
+    <Page Image="30" ImageSize="2755428" />
+    <Page Image="31" ImageSize="2300890" />
+    <Page Image="32" ImageSize="71606" />
+    <Page Image="33" ImageSize="71606" />
+    <Page Image="34" ImageSize="3232996" />
+    <Page Image="35" ImageSize="2949776" />
+    <Page Image="36" ImageSize="3411066" />
+    <Page Image="37" ImageSize="3350157" />
+    <Page Image="38" ImageSize="2870091" />
+    <Page Image="39" ImageSize="2942334" />
+    <Page Image="40" ImageSize="2881463" />
+    <Page Image="41" ImageSize="2803830" />
+    <Page Image="42" ImageSize="2133009" />
+    <Page Image="43" ImageSize="2465063" />
+    <Page Image="44" ImageSize="2715006" />
+    <Page Image="45" ImageSize="2524447" />
+    <Page Image="46" ImageSize="3947099" />
+    <Page Image="47" ImageSize="3114600" />
+    <Page Image="48" ImageSize="2899176" />
+    <Page Image="49" ImageSize="2996464" />
+    <Page Image="50" ImageSize="2737179" />
+    <Page Image="51" ImageSize="2795070" />
+    <Page Image="52" ImageSize="2890062" />
+    <Page Image="53" ImageSize="3263504" />
+    <Page Image="54" ImageSize="3099905" />
+    <Page Image="55" ImageSize="2521213" />
+    <Page Image="56" ImageSize="2766660" />
+    <Page Image="57" ImageSize="2764094" />
+    <Page Image="58" ImageSize="3247763" />
+    <Page Image="59" ImageSize="2499947" />
+    <Page Image="60" ImageSize="3034091" />
+    <Page Image="61" ImageSize="2624036" />
+    <Page Image="62" ImageSize="71606" />
+    <Page Image="63" ImageSize="71606" />
+    <Page Image="64" ImageSize="2939879" />
+    <Page Image="65" ImageSize="2617005" />
+    <Page Image="66" ImageSize="2492122" />
+    <Page Image="67" ImageSize="2262952" />
+    <Page Image="68" ImageSize="2596236" />
+    <Page Image="69" ImageSize="2374121" />
+    <Page Image="70" ImageSize="2732239" />
+    <Page Image="71" ImageSize="2543736" />
+    <Page Image="72" ImageSize="2858602" />
+    <Page Image="73" ImageSize="2408453" />
+    <Page Image="74" ImageSize="2506348" />
+    <Page Image="75" ImageSize="2845586" />
+    <Page Image="76" ImageSize="2610268" />
+    <Page Image="77" ImageSize="2285518" />
+    <Page Image="78" ImageSize="2487741" />
+    <Page Image="79" ImageSize="2695883" />
+    <Page Image="80" ImageSize="2723891" />
+    <Page Image="81" ImageSize="2480661" />
+    <Page Image="82" ImageSize="2416283" />
+    <Page Image="83" ImageSize="2927159" />
+    <Page Image="84" ImageSize="2493666" />
+    <Page Image="85" ImageSize="2569092" />
+    <Page Image="86" ImageSize="2298725" />
+    <Page Image="87" ImageSize="2159022" />
+    <Page Image="88" ImageSize="2563851" />
+    <Page Image="89" ImageSize="2662725" />
+    <Page Image="90" ImageSize="2515163" />
+    <Page Image="91" ImageSize="2472150" />
+    <Page Image="92" ImageSize="1782059" />
+    <Page Image="93" ImageSize="4096134" />
+    <Page Image="94" ImageSize="4582975" />
+    <Page Image="95" ImageSize="811775" />
+    <Page Image="96" ImageSize="157268" />
+    <Page Image="97" ImageSize="788891" />
+    <Page Image="98" ImageSize="1009139" />
+    <Page Image="99" ImageSize="214133" />
+    <Page Image="100" ImageSize="1472028" />
+    <Page Image="101" ImageSize="982423" />
+    <Page Image="102" ImageSize="821743" />
+    <Page Image="103" ImageSize="305550" />
+    <Page Image="104" ImageSize="857625" />
+    <Page Image="105" ImageSize="564788" />
+  </Pages>
+  <Penciller>Alex Maleev</Penciller>
+  <Publisher>IDW</Publisher>
+  <ScanInformation>- Flesh &amp; Blood (Digital) (Minutemen-The Undead)</ScanInformation>
+  <Series>The Crow: Midnight Legends</Series>
+  <Summary>In the midst of a rural land-rights struggle, Iris Shaw is a federal conservation officer who is murdered in a bombing by a rag-tag band of right-wing activists. Little do her killers know that Iris wasn't their only victim, and now, with the help of the Crow, Iris must exact vengeance for her own death, and that of her unborn baby. Raised from her grave and armed with cold-blooded hatred and a few deadly weapons, Iris hunts down her killers one by one. But if exacting ultimate pain is the goal, when does vengeance cross the line to brutality? And what is the price of the soul?
+
+Collects the three issue Crow: Flesh &amp; Blood mini-series.</Summary>
+  <Title>Flesh &amp; Blood</Title>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/the-crow-midnight-legends-2-flesh-blood/4000-363089/</Web>
+  <Writer>James Vance</Writer>
+  <Year>2012</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

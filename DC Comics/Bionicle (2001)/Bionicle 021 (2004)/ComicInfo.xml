@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Matau,Nokama,Nuju,Onewa,Teridax,Vakama,Whenua</Characters>
+	<Colorist>Peter Pantazis</Colorist>
+	<Day>1</Day>
+	<Editor>Jaye Gardner</Editor>
+	<GTIN>urn:comicvine:4000-213888</GTIN>
+	<Inker>Randy Elliott</Inker>
+	<Letterer>Ken Lopez</Letterer>
+	<Locations>The Island of Metru-Nui</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:56:04 [Issue ID 4000-213888] urn:comicvine:4000-213888</Notes>
+	<Number>21</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="650801" Type="FrontCover"/>
+		<Page Image="1" ImageSize="375265"/>
+		<Page Image="2" ImageSize="742461"/>
+		<Page Image="3" ImageSize="621572"/>
+		<Page Image="4" ImageSize="612002"/>
+		<Page Image="5" ImageSize="612246"/>
+		<Page Image="6" ImageSize="724159"/>
+		<Page Image="7" ImageSize="641223"/>
+		<Page Image="8" ImageSize="621567"/>
+		<Page Image="9" ImageSize="879345"/>
+		<Page Image="10" ImageSize="662316"/>
+		<Page Image="11" ImageSize="642314"/>
+		<Page Image="12" ImageSize="657996"/>
+		<Page Image="13" ImageSize="643357"/>
+		<Page Image="14" ImageSize="636416"/>
+		<Page Image="15" ImageSize="470518"/>
+		<Page Image="16" ImageSize="228383"/>
+		<Page Image="17" ImageSize="378424"/>
+		<Page Image="18" ImageSize="524347"/>
+	</Pages>
+	<Penciller>Randy Elliott</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>Bionicle</Series>
+	<Summary>https://comicvine.gamespot.com/bionicle-21-dreams-of-darkness/4000-213888/</Summary>
+	<Tags>Matau,Nokama,Nuju,Onewa,Rahi,Teridax,The Island of Metru-Nui,Toa Metru,Turaga,Vakama,Whenua</Tags>
+	<Teams>Rahi,Toa Metru,Turaga</Teams>
+	<Title>Dreams of Darkness</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/bionicle-21-dreams-of-darkness/4000-213888/</Web>
+	<Writer>Greg Farshtey</Writer>
+	<Year>2004</Year>
+</ComicInfo>

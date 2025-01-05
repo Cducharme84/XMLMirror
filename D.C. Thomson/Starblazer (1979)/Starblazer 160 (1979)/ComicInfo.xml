@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550774</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:23 [Issue ID 4000-550774] urn:comicvine:4000-550774 urn:grandcomicsdatabase:issue/550774
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:50:45. [Issue ID 550774]</Notes>
+  <Number>160</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="692265" Type="FrontCover" />
+    <Page Image="1" ImageSize="477205" />
+    <Page Image="2" ImageSize="585016" />
+    <Page Image="3" ImageSize="729823" />
+    <Page Image="4" ImageSize="750221" />
+    <Page Image="5" ImageSize="795356" />
+    <Page Image="6" ImageSize="752468" />
+    <Page Image="7" ImageSize="775696" />
+    <Page Image="8" ImageSize="712311" />
+    <Page Image="9" ImageSize="748501" />
+    <Page Image="10" ImageSize="778933" />
+    <Page Image="11" ImageSize="737785" />
+    <Page Image="12" ImageSize="761853" />
+    <Page Image="13" ImageSize="782757" />
+    <Page Image="14" ImageSize="775970" />
+    <Page Image="15" ImageSize="725513" />
+    <Page Image="16" ImageSize="689622" />
+    <Page Image="17" ImageSize="712589" />
+    <Page Image="18" ImageSize="696847" />
+    <Page Image="19" ImageSize="737910" />
+    <Page Image="20" ImageSize="765761" />
+    <Page Image="21" ImageSize="704850" />
+    <Page Image="22" ImageSize="715544" />
+    <Page Image="23" ImageSize="741951" />
+    <Page Image="24" ImageSize="694819" />
+    <Page Image="25" ImageSize="773288" />
+    <Page Image="26" ImageSize="735534" />
+    <Page Image="27" ImageSize="716814" />
+    <Page Image="28" ImageSize="706688" />
+    <Page Image="29" ImageSize="751212" />
+    <Page Image="30" ImageSize="768488" />
+    <Page Image="31" ImageSize="705425" />
+    <Page Image="32" ImageSize="730086" />
+    <Page Image="33" ImageSize="753507" />
+    <Page Image="34" ImageSize="649590" />
+    <Page Image="35" ImageSize="479425" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Last Days of Earth</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550774/</Web>
+  <Year>1979</Year>
+</ComicInfo>

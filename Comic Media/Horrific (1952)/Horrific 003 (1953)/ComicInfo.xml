@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:comicvine:4000-190817</GTIN>
+  <Inker>Don Heck</Inker>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:09:39 [Issue ID 4000-190817] urn:comicvine:4000-190817
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-14 06:49:31. [Issue ID 10201]</Notes>
+  <Number>3</Number>
+  <PageCount>7</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="800" ImageSize="455673" ImageWidth="546" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1385" ImageSize="540460" ImageWidth="961" />
+    <Page Image="2" ImageHeight="1364" ImageSize="524901" ImageWidth="954" />
+    <Page Image="3" ImageHeight="1406" ImageSize="502323" ImageWidth="946" />
+    <Page Image="4" ImageHeight="1380" ImageSize="530360" ImageWidth="956" />
+    <Page Image="5" ImageHeight="1393" ImageSize="551471" ImageWidth="949" />
+    <Page Image="6" ImageSize="570070" />
+  </Pages>
+  <Penciller>Don Heck</Penciller>
+  <Publisher>Comic Media</Publisher>
+  <ScanInformation>Comic Media thehorrorsofitall</ScanInformation>
+  <Series>Horrific</Series>
+  <Summary>https://comicvine.gamespot.com/horrific-3-weird-tales-of-terror/4000-190817/</Summary>
+  <Title>Devil Claws; The Silent Clock; Death's Cargo; Forbidden World</Title>
+  <Volume>1952</Volume>
+  <Web>https://comicvine.gamespot.com/horrific-3-weird-tales-of-terror/4000-190817/</Web>
+  <Year>1953</Year>
+  <Count>13</Count>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

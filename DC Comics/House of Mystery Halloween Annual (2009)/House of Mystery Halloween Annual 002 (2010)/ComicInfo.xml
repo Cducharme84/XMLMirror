@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Spera,Long John Tuchman,Bobby,Gaudium,Twinkie,Donald the Kid,Lucifer</Characters>
+  <Colorist>Daniel Vozzo,Laura Allred,Lee Loughridge,Trish Mulvihill,Daniel Vozzo,Laura Allred,Trish Mulvihill,Brandon Graham,Lee Loughridge</Colorist>
+  <Editor>Angela Rufino,Shelly Bond,Shelly Bond,Angela Rufino</Editor>
+  <Format>Annual</Format>
+  <GTIN>urn:comicvine:4000-238090</GTIN>
+  <Inker>Brandon Graham,José Marzán Jr.,José Marzán,Jr.,Mike Allred,Peter Gross,Stefano Landini,Peter Gross,Michael Allred,Stefano Landini,Brandon Graham,José Marzán Jr.</Inker>
+  <Letterer>Jared K. Fletcher,Sal Cipriano,Todd Klein,Jared K. Fletcher,Todd Klein,Sal Cipriano</Letterer>
+  <Locations>Europe,England,Eugene,North America,Ohio,London,The House of Mystery,Cleveland,Silver City,Oregon,New York City</Locations>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:37:19 [Issue ID 4000-238090] urn:comicvine:4000-238090
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:04:57. [Issue ID 782000]</Notes>
+  <Number>2</Number>
+  <PageCount>53</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1930" ImageSize="536191" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1954" ImageSize="562545" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1941" ImageSize="700619" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1931" ImageSize="803662" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1935" ImageSize="845469" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1939" ImageSize="779827" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1949" ImageSize="515456" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1929" ImageSize="951998" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1953" ImageSize="662361" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1933" ImageSize="708486" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1940" ImageSize="695727" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1921" ImageSize="708518" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1939" ImageSize="308189" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1919" ImageSize="693883" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1945" ImageSize="711185" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1942" ImageSize="724464" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1943" ImageSize="671766" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1990" ImageSize="401330" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1945" ImageSize="683776" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1953" ImageSize="640270" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1946" ImageSize="535663" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1934" ImageSize="575448" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1948" ImageSize="608705" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1962" ImageSize="792924" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1963" ImageSize="686666" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1957" ImageSize="672673" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1948" ImageSize="778232" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="2013" ImageSize="645304" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1967" ImageSize="688014" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1995" ImageSize="693868" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1936" ImageSize="647904" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1961" ImageSize="592385" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1960" ImageSize="655933" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1934" ImageSize="754604" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1938" ImageSize="774870" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1931" ImageSize="694944" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="1955" ImageSize="660037" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1944" ImageSize="605774" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1943" ImageSize="719565" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1957" ImageSize="673822" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1934" ImageSize="663586" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1945" ImageSize="406072" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1934" ImageSize="638566" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1930" ImageSize="723389" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1936" ImageSize="675212" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1931" ImageSize="652947" ImageWidth="1280" />
+    <Page Image="46" ImageHeight="1921" ImageSize="764972" ImageWidth="1280" />
+    <Page Image="47" ImageHeight="1927" ImageSize="483219" ImageWidth="1280" />
+    <Page Image="48" ImageHeight="1930" ImageSize="448659" ImageWidth="1280" />
+    <Page Image="49" ImageHeight="1936" ImageSize="453562" ImageWidth="1280" />
+    <Page Image="50" ImageHeight="1930" ImageSize="426027" ImageWidth="1280" />
+    <Page Image="51" ImageHeight="1957" ImageSize="409162" ImageWidth="1280" />
+    <Page Image="52" ImageSize="356543" />
+  </Pages>
+  <Penciller>Brandon Graham,Giuseppe Camuncoli,Luca Rossi,Mike Allred,Peter Gross,Peter Gross,Michael Allred,Giuseppe Camuncoli,Stefano Landini,Brandon Graham,Luca Rossi</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery Halloween Annual</Series>
+  <Summary>The haunting began last Halloween, but this year, Matt Sturges, Peter Milligan, Mike Carey, Jill Thompson and a hoary host of guest creators deliver even more spine-tingling thrills in the HOUSE OF MYSTERY HALLOWEEN ANNUAL #2! The annual House of Mystery Halloween Party is in full swing when the doorbell rings, which is unusual because a) it's never happened before and b) there isn't a doorbell at the House of Mystery! What does Fig find when she opens the door? A warped trio of kids cursed to trick or treat until the end of time who will spin a tale spanning the years involving many Vertigo favorites such as Hellblazer, Lucifer, Madame Xanadu, iZombie and loads of others!
+
+*Story Titles*
+Untitled House of Mystery Story
+Untitled Madame Xanadu Story
+John Constantine in Bonfire Night
+Devil's Lake an I, Zombie Story
+Infernal Bargains Just Say No!
+
+https://comicvine.gamespot.com/house-of-mystery-halloween-annual-2-bonfire-night-/4000-238090/</Summary>
+  <Tags>Pirates,Tursig,Long John Tuchman,Europe,North America,Gaudium,Lucifer Morningstar,Fig Keele,Native Americans,Cleveland,Silver City,Elaine Belloc,Goblins,Bobby,England,Abel,Jordan Mayer,Madame Xanadu,John Constantine,Werewolves,Unicorns,Cress,Gwen Dylan,Oregon,Darius,Dragons,Spera,Ohio,Eugene,London,Zombies,The House of Mystery,Ann Preston,Fenris Wolf,Succubi,Goldie,Mazikeen,New York City,Tricia Nakagawa,Cain,Gloria,Madame Scarpignato,Twinkie,Donald the Kid</Tags>
+  <Teams>Dragons,Pirates,Native Americans,Zombies,Werewolves,Succubi,Unicorns,Goblins</Teams>
+  <Title>Infernal Bargains Just Say No!; Devil's Lake; Bonfire Night</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-halloween-annual-2-bonfire-night-/4000-238090/</Web>
+  <Writer>Chris Roberson,Lilah Sturges,Matt Wagner,Mike Carey,Peter Milligan,Mike Carey,Chris Roberson,Peter Milligan,Matt Wagner,Matt Sturges</Writer>
+  <Year>2010</Year>
+  <Count>2</Count>
+  <Genre>Fantasy,Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+</ComicInfo>

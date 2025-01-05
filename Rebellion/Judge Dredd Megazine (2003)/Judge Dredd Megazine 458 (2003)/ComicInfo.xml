@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Judge Anderson,Judge Fire,Judge Dredd,Judge Mortis,Metta Lawless,Judge Death,Spector,Judge Fear,Johnny Red</Characters>
+  <Colorist>Dylan Teague,Jason Wordie,Sally Hurst</Colorist>
+  <Day>20</Day>
+  <GTIN>urn:comicvine:4000-1002512</GTIN>
+  <Inker>Cam Kennedy,Carl Critchlow,Carlos Ezquerra,Dan Cornwell,John Higgins,Keith Burns,Nick Percival,Phil Winslade,Stewart Moore</Inker>
+  <Letterer>Annie Parkhouse,Jim Campbell,John Aldrich,Rob Steen,Shawn Lee,Simon Bowland,Tom Frame</Letterer>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:26:44 [Issue ID 4000-1002512] urn:comicvine:4000-1002512
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:09:13. [Issue ID 2563990]</Notes>
+  <Number>458</Number>
+  <PageCount>129</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1461888" Type="FrontCover" />
+    <Page Image="1" ImageSize="1806326" />
+    <Page Image="2" ImageSize="2134041" />
+    <Page Image="3" ImageSize="2496074" />
+    <Page Image="4" ImageSize="1940192" />
+    <Page Image="5" ImageSize="2339018" />
+    <Page Image="6" ImageSize="2244647" />
+    <Page Image="7" ImageSize="4457486" />
+    <Page Image="8" ImageSize="1877474" />
+    <Page Image="9" ImageSize="2959556" />
+    <Page Image="10" ImageSize="2412008" />
+    <Page Image="11" ImageSize="2965925" />
+    <Page Image="12" ImageSize="2413808" />
+    <Page Image="13" ImageSize="2550845" />
+    <Page Image="14" ImageSize="708172" />
+    <Page Image="15" ImageSize="3042491" />
+    <Page Image="16" ImageSize="2669626" />
+    <Page Image="17" ImageSize="2066542" />
+    <Page Image="18" ImageSize="2340755" />
+    <Page Image="19" ImageSize="2556800" />
+    <Page Image="20" ImageSize="2669382" />
+    <Page Image="21" ImageSize="2128040" />
+    <Page Image="22" ImageSize="2378404" />
+    <Page Image="23" ImageSize="2707544" />
+    <Page Image="24" ImageSize="2476956" />
+    <Page Image="25" ImageSize="3096417" />
+    <Page Image="26" ImageSize="2026775" />
+    <Page Image="27" ImageSize="2123494" />
+    <Page Image="28" ImageSize="1891694" />
+    <Page Image="29" ImageSize="2451206" />
+    <Page Image="30" ImageSize="2713294" />
+    <Page Image="31" ImageSize="2802663" />
+    <Page Image="32" ImageSize="3990698" />
+    <Page Image="33" ImageSize="2273675" />
+    <Page Image="34" ImageSize="2412548" />
+    <Page Image="35" ImageSize="2348632" />
+    <Page Image="36" ImageSize="2102449" />
+    <Page Image="37" ImageSize="2201545" />
+    <Page Image="38" ImageSize="2295595" />
+    <Page Image="39" ImageSize="2349275" />
+    <Page Image="40" ImageSize="2183925" />
+    <Page Image="41" ImageSize="2017133" />
+    <Page Image="42" ImageSize="2104326" />
+    <Page Image="43" ImageSize="2239758" />
+    <Page Image="44" ImageSize="2321697" />
+    <Page Image="45" ImageSize="1770227" />
+    <Page Image="46" ImageSize="1722658" />
+    <Page Image="47" ImageSize="1625045" />
+    <Page Image="48" ImageSize="1654638" />
+    <Page Image="49" ImageSize="1713929" />
+    <Page Image="50" ImageSize="1729423" />
+    <Page Image="51" ImageSize="1575092" />
+    <Page Image="52" ImageSize="1529719" />
+    <Page Image="53" ImageSize="1472242" />
+    <Page Image="54" ImageSize="1374832" />
+    <Page Image="55" ImageSize="1604510" />
+    <Page Image="56" ImageSize="4885410" />
+    <Page Image="57" ImageSize="4438978" />
+    <Page Image="58" ImageSize="4276751" />
+    <Page Image="59" ImageSize="4961573" />
+    <Page Image="60" ImageSize="2883423" />
+    <Page Image="61" ImageSize="1631505" />
+    <Page Image="62" ImageSize="820780" />
+    <Page Image="63" ImageSize="1719028" />
+    <Page Image="64" ImageSize="1848320" />
+    <Page Image="65" ImageSize="1815856" />
+    <Page Image="66" ImageSize="1429376" />
+    <Page Image="67" ImageSize="1688245" />
+    <Page Image="68" ImageSize="1469829" />
+    <Page Image="69" ImageSize="1579287" />
+    <Page Image="70" ImageSize="1420159" />
+    <Page Image="71" ImageSize="1330433" />
+    <Page Image="72" ImageSize="1410876" />
+    <Page Image="73" ImageSize="1399163" />
+    <Page Image="74" ImageSize="1417424" />
+    <Page Image="75" ImageSize="1286880" />
+    <Page Image="76" ImageSize="1305051" />
+    <Page Image="77" ImageSize="1283924" />
+    <Page Image="78" ImageSize="1378782" />
+    <Page Image="79" ImageSize="2000396" />
+    <Page Image="80" ImageSize="1263708" />
+    <Page Image="81" ImageSize="2250479" />
+    <Page Image="82" ImageSize="1344865" />
+    <Page Image="83" ImageSize="1942161" />
+    <Page Image="84" ImageSize="2127651" />
+    <Page Image="85" ImageSize="2608925" />
+    <Page Image="86" ImageSize="2121751" />
+    <Page Image="87" ImageSize="1932109" />
+    <Page Image="88" ImageSize="1994320" />
+    <Page Image="89" ImageSize="2142849" />
+    <Page Image="90" ImageSize="2466097" />
+    <Page Image="91" ImageSize="2302741" />
+    <Page Image="92" ImageSize="2928969" />
+    <Page Image="93" ImageSize="2446290" />
+    <Page Image="94" ImageSize="2537797" />
+    <Page Image="95" ImageSize="2162087" />
+    <Page Image="96" ImageSize="4782181" />
+    <Page Image="97" ImageSize="4512292" />
+    <Page Image="98" ImageSize="4054660" />
+    <Page Image="99" ImageSize="2767678" />
+    <Page Image="100" ImageSize="2185188" />
+    <Page Image="101" ImageSize="1991436" />
+    <Page Image="102" ImageSize="2093765" />
+    <Page Image="103" ImageSize="2034398" />
+    <Page Image="104" ImageSize="1940264" />
+    <Page Image="105" ImageSize="2315771" />
+    <Page Image="106" ImageSize="3925469" />
+    <Page Image="107" ImageSize="3897891" />
+    <Page Image="108" ImageSize="3975171" />
+    <Page Image="109" ImageSize="3291129" />
+    <Page Image="110" ImageSize="3407891" />
+    <Page Image="111" ImageSize="3233800" />
+    <Page Image="112" ImageSize="2653100" />
+    <Page Image="113" ImageSize="3159552" />
+    <Page Image="114" ImageSize="3249969" />
+    <Page Image="115" ImageSize="3371212" />
+    <Page Image="116" ImageSize="2389140" />
+    <Page Image="117" ImageSize="2072684" />
+    <Page Image="118" ImageSize="1727997" />
+    <Page Image="119" ImageSize="2561689" />
+    <Page Image="120" ImageSize="1922809" />
+    <Page Image="121" ImageSize="1981484" />
+    <Page Image="122" ImageSize="1814047" />
+    <Page Image="123" ImageSize="1748316" />
+    <Page Image="124" ImageSize="2573223" />
+    <Page Image="125" ImageSize="2837886" />
+    <Page Image="126" ImageSize="2712353" />
+    <Page Image="127" ImageSize="1728288" />
+    <Page Image="128" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Cam Kennedy,Carl Critchlow,Carlos Ezquerra,Dan Cornwell,John Higgins,Keith Burns,Nick Percival,Phil Winslade,Stewart Moore</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>A brand-new complete Judge Dredd thriller kicks off this issue in the shape of ‘Ratings War’ by Ian Edginton and Stewart K. Moore, plus we reach the finale of the Dark Judges saga ‘Death Metal Planet’.
+
+Elsewhere, we have the latest instalments of Spector, Lawless and Dreadnoughts, and take a peek into new title Mega-City Max, which is on sale right now and puts a YA spin on several Dreddverse characters, including Devlin Waugh, DeMarco, P.I. and Walter the Wobot, written and drawn for the most part by creators from outside the regular 2000 AD talent pool. If it proves successful, it could be developed into an ongoing monthly, bridging the audience between the all-ages Regened stories and the prog and Meg itself. Watch this space as to whether another anthology could be joining the GGC family!
+
+In addition, there’s chats with artist Aly Fell about his latest book and the team behind new mini First Men on Mars (both crowd-funded projects, as with last month’s Bogie Man GN – increasingly the most viable route indie creators are taking), and an interview with Conor Boyle – look out for a new ‘Mega-City 2099’ episode next issue!
+
+Cover: Nick Percival
+
+Judge Dredd - Ratings War (Ian Edginton - Stewart K. Moore)Mega-City One, 2145 AD. This vast urban hell on the east coast of post-apocalyptic North America is home to over 200 million citizens, with the irradiated Cursed Earth to the west and the toxic Black Atlantic to the east. Crime is rampant, and stemming the tide of chaos are the Judges. Toughest of them all is Judge Dredd – he is the Law!
+
+Spector - Incorruptible (Part 4) (John Wagner - Carlos Ezquerra)In a near-future US city, corruption within the branches of government has reached unsustainable levels. City Hall is rotten to the core, and the police force is equally on the take. To that end, Spector is created, a robot detective – beyond bribery and untainted by potential malfeasance – charged with rooting out criminal elements. But the android inspector is making many enemies…
+
+Dark Judges - Death Metal Planet (Part 10) (David Hine - Nick Percival)After the events on the Mayflower, in which the Dark Judges were ejected into space, they ended up on the colony world of Dominion, which they proceeded to decimate. When Mega- City marines were sent in, assisted by survivor Rosco, the planet was destroyed. Worshipped like gods on Thanatopia by a death-cult, they’re now part of a death-metal festival…
+
+Lawless - Most Wanted (Part 3) (Ales Kot - Richardson)Colonial Marshal Metta Lawson was appointed to the frontier township of Badrock on the planet 43 Rega, intent on stamping her authority on the colony. But in doing so, Lawson made many enemies, including Munce, Inc., the mega-corporation that funded Badrock. Now, having been thrown off the force, and becoming a vigilante, she’s turned to organised crime…
+
+Anderson, Psi Division - The King of the Six Sectors (Part 4) (Matt Smith. - Carl Critchlow)In an adventure from Cassandra Anderson’s early days in the Mega-City One Psi-Division, writer Matt Smith and artist Carl Critchlow present “King of the Six Sectors.” It all starts with Anderson awaking from an unusually strong vision of an attack on the Megapolitan Museum showcasing Cursed Earth artifacts…
+
+Johnny Red - Part 3 (Garth Ennis - Keith Burns)Legendary British fighter ace, Johnny ‘Red’ Redburn, returns once more as the commander of the Falcons – a Russian fighter squadron battling the Nazis in the skies over Stalingrad. But dogfighting Messerschmitts is about to become the least of his troubles when the NVKD – the notorious Soviet secret police – come calling!
+
+Clash of the Guards (Alan Hebden - Cam Kennedy)Italy, 1943. The United States Army have sent Captain Brad Clash to join a British platoon in order to learn from their experiences of fighting in WWII. A former Hollywood stuntman and speedway driver, Clash is a man of action who likes to tackle the enemy head on. All guts and glory, he uses his superior driving skills and American-made weapons, like the Winchester trench Gun, to keep the German Army at bay.
+
+Dreadnoughts -  The March of Progress (Part 4) (Mike Carroll - John Higgins)USA, 2035 AD. The new Justice Department is still in its early years, with Judges working alongside the police. It’s proving an explosive transition, with many citizens – and more than a few cops – unhappy with these helmeted officers taking to the streets. Judge Veranda Glover is a recent transfer to Boulder, Colorado, and is making her presence felt…
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-18 22:52:01.  [Issue ID 1002512]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-458-meg-458/4000-1002512/</Summary>
+  <Tags>Judge Anderson,Judge Fire,Judge Dredd,Judge Mortis,Metta Lawless,Judge Death,Spector,Judge Fear,Johnny Red</Tags>
+  <Title>Meg 458</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-458-meg-458/4000-1002512/</Web>
+  <Writer>Alan Hebden,Dan Abnett,David Hine,Garth Ennis,Ian Edginton,John Wagner,Matt Smith,Michael Carroll</Writer>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

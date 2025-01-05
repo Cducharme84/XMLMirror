@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gali,Matau,Nokama,Nuju,Onewa,Pohatu,Tahu,Vakama,Whenua</Characters>
+	<Colorist>Peter Pantazis</Colorist>
+	<Day>1</Day>
+	<Editor>Jaye Gardner</Editor>
+	<GTIN>urn:comicvine:4000-213883</GTIN>
+	<Inker>Randy Elliott,Ray Kryssing</Inker>
+	<Letterer>Ken Lopez</Letterer>
+	<Locations>The Island of Mata-Nui,The Island of Metru-Nui</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:56:01 [Issue ID 4000-213883] urn:comicvine:4000-213883</Notes>
+	<Number>16</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="466330" Type="FrontCover"/>
+		<Page Image="1" ImageSize="424071"/>
+		<Page Image="2" ImageSize="557009"/>
+		<Page Image="3" ImageSize="624862"/>
+		<Page Image="4" ImageSize="591941"/>
+		<Page Image="5" ImageSize="591271"/>
+		<Page Image="6" ImageSize="455196"/>
+		<Page Image="7" ImageSize="576898"/>
+		<Page Image="8" ImageSize="647021"/>
+		<Page Image="9" ImageSize="834579"/>
+		<Page Image="10" ImageSize="515156"/>
+		<Page Image="11" ImageSize="650119"/>
+		<Page Image="12" ImageSize="692566"/>
+		<Page Image="13" ImageSize="607811"/>
+		<Page Image="14" ImageSize="655403"/>
+		<Page Image="15" ImageSize="524625"/>
+		<Page Image="16" ImageSize="504523"/>
+		<Page Image="17" ImageSize="466220"/>
+		<Page Image="18" ImageSize="485347"/>
+	</Pages>
+	<Publisher>DC Comics</Publisher>
+	<Series>Bionicle</Series>
+	<Summary>https://comicvine.gamespot.com/bionicle-16-toa-metru/4000-213883/</Summary>
+	<Tags>Gali,Matau,Matoran,Nokama,Nuju,Onewa,Pohatu,Rahkshi,Tahu,The Island of Mata-Nui,The Island of Metru-Nui,Toa Metru,Toa Nuva,Turaga,Vakama,Whenua</Tags>
+	<Teams>Matoran,Rahkshi,Toa Metru,Toa Nuva,Turaga</Teams>
+	<Title>Toa Metru!</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/bionicle-16-toa-metru/4000-213883/</Web>
+	<Writer>Greg Farshtey</Writer>
+	<Year>2004</Year>
+</ComicInfo>

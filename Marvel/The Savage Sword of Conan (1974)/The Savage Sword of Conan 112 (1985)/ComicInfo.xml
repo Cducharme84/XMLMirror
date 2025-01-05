@@ -1,0 +1,101 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Zarmi,Conan</Characters>
+  <Editor>Jim Shooter,Larry Hama,Pat Redding</Editor>
+  <GTIN>urn:comicvine:4000-135178</GTIN>
+  <Inker>Dave Simons,Joe Jusko,Rudy Nebres,Rey Garcia,Dave Simons,Rey Garcia</Inker>
+  <Letterer>Joe Rosen,Jim Novak,Joe Rosen,Jim Novak</Letterer>
+  <Locations>Hyboria,Turan,Vilayet Sea,Aghrapur,Pictlands</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T13:45:04 [Issue ID 4000-135178] urn:comicvine:4000-135178
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 11:38:16. [Issue ID 174719]</Notes>
+  <Number>112</Number>
+  <PageCount>68</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1622" ImageSize="730920" ImageWidth="1194" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1622" ImageSize="687673" ImageWidth="1189" />
+    <Page Image="2" ImageHeight="1615" ImageSize="544961" ImageWidth="1162" />
+    <Page Image="3" ImageHeight="1583" ImageSize="805794" ImageWidth="1137" />
+    <Page Image="4" ImageHeight="1600" ImageSize="840084" ImageWidth="1178" />
+    <Page Image="5" ImageHeight="1620" ImageSize="631588" ImageWidth="1168" />
+    <Page Image="6" ImageHeight="1574" ImageSize="756807" ImageWidth="1112" />
+    <Page Image="7" ImageHeight="1568" ImageSize="815997" ImageWidth="1105" />
+    <Page Image="8" ImageHeight="1580" ImageSize="827673" ImageWidth="1106" />
+    <Page Image="9" ImageHeight="1580" ImageSize="655856" ImageWidth="1103" />
+    <Page Image="10" ImageHeight="1565" ImageSize="776646" ImageWidth="1126" />
+    <Page Image="11" ImageHeight="1568" ImageSize="647495" ImageWidth="1115" />
+    <Page Image="12" ImageHeight="1580" ImageSize="783347" ImageWidth="1123" />
+    <Page Image="13" ImageHeight="1574" ImageSize="637747" ImageWidth="1132" />
+    <Page Image="14" ImageHeight="1589" ImageSize="805235" ImageWidth="1114" />
+    <Page Image="15" ImageHeight="1580" ImageSize="791410" ImageWidth="1120" />
+    <Page Image="16" ImageHeight="1569" ImageSize="741381" ImageWidth="1117" />
+    <Page Image="17" ImageHeight="1571" ImageSize="734341" ImageWidth="1123" />
+    <Page Image="18" ImageHeight="1586" ImageSize="824062" ImageWidth="1109" />
+    <Page Image="19" ImageHeight="1577" ImageSize="748256" ImageWidth="1117" />
+    <Page Image="20" ImageHeight="1577" ImageSize="704864" ImageWidth="1106" />
+    <Page Image="21" ImageHeight="1568" ImageSize="604380" ImageWidth="1094" />
+    <Page Image="22" ImageHeight="1556" ImageSize="550190" ImageWidth="1138" />
+    <Page Image="23" ImageHeight="1577" ImageSize="691419" ImageWidth="1115" />
+    <Page Image="24" ImageHeight="1586" ImageSize="718545" ImageWidth="1100" />
+    <Page Image="25" ImageHeight="1565" ImageSize="695595" ImageWidth="1118" />
+    <Page Image="26" ImageHeight="1586" ImageSize="785529" ImageWidth="1100" />
+    <Page Image="27" ImageHeight="1574" ImageSize="673116" ImageWidth="1115" />
+    <Page Image="28" ImageHeight="1578" ImageSize="665138" ImageWidth="1114" />
+    <Page Image="29" ImageHeight="1562" ImageSize="703215" ImageWidth="1106" />
+    <Page Image="30" ImageHeight="1569" ImageSize="722577" ImageWidth="1106" />
+    <Page Image="31" ImageHeight="1550" ImageSize="521776" ImageWidth="1088" />
+    <Page Image="32" ImageHeight="1577" ImageSize="633639" ImageWidth="1100" />
+    <Page Image="33" ImageHeight="1568" ImageSize="629922" ImageWidth="1094" />
+    <Page Image="34" ImageHeight="1589" ImageSize="714864" ImageWidth="1097" />
+    <Page Image="35" ImageHeight="1541" ImageSize="638566" ImageWidth="1086" />
+    <Page Image="36" ImageHeight="1574" ImageSize="779399" ImageWidth="1108" />
+    <Page Image="37" ImageHeight="1565" ImageSize="693897" ImageWidth="1103" />
+    <Page Image="38" ImageHeight="1569" ImageSize="751105" ImageWidth="1092" />
+    <Page Image="39" ImageHeight="1568" ImageSize="639200" ImageWidth="1100" />
+    <Page Image="40" ImageHeight="1580" ImageSize="774333" ImageWidth="1091" />
+    <Page Image="41" ImageHeight="1583" ImageSize="673449" ImageWidth="1088" />
+    <Page Image="42" ImageHeight="1568" ImageSize="712472" ImageWidth="1100" />
+    <Page Image="43" ImageHeight="1562" ImageSize="691807" ImageWidth="1103" />
+    <Page Image="44" ImageHeight="1585" ImageSize="656664" ImageWidth="1118" />
+    <Page Image="45" ImageHeight="1556" ImageSize="649597" ImageWidth="1094" />
+    <Page Image="46" ImageHeight="1583" ImageSize="781712" ImageWidth="1105" />
+    <Page Image="47" ImageHeight="1547" ImageSize="558335" ImageWidth="1079" />
+    <Page Image="48" ImageHeight="1559" ImageSize="648902" ImageWidth="1127" />
+    <Page Image="49" ImageHeight="1550" ImageSize="637763" ImageWidth="1097" />
+    <Page Image="50" ImageHeight="1583" ImageSize="680065" ImageWidth="1100" />
+    <Page Image="51" ImageHeight="1574" ImageSize="571373" ImageWidth="1091" />
+    <Page Image="52" ImageHeight="1574" ImageSize="629186" ImageWidth="1085" />
+    <Page Image="53" ImageHeight="1574" ImageSize="673197" ImageWidth="1100" />
+    <Page Image="54" ImageHeight="1583" ImageSize="707271" ImageWidth="1086" />
+    <Page Image="55" ImageHeight="1583" ImageSize="705396" ImageWidth="1103" />
+    <Page Image="56" ImageHeight="1580" ImageSize="555370" ImageWidth="1086" />
+    <Page Image="57" ImageHeight="1566" ImageSize="839590" ImageWidth="1103" />
+    <Page Image="58" ImageHeight="1568" ImageSize="715522" ImageWidth="1088" />
+    <Page Image="59" ImageHeight="1577" ImageSize="777483" ImageWidth="1097" />
+    <Page Image="60" ImageHeight="1577" ImageSize="794160" ImageWidth="1097" />
+    <Page Image="61" ImageHeight="1557" ImageSize="786813" ImageWidth="1103" />
+    <Page Image="62" ImageHeight="1586" ImageSize="748697" ImageWidth="1103" />
+    <Page Image="63" ImageHeight="1577" ImageSize="798175" ImageWidth="1120" />
+    <Page Image="64" ImageHeight="1580" ImageSize="815535" ImageWidth="1098" />
+    <Page Image="65" ImageHeight="1594" ImageSize="630269" ImageWidth="1123" />
+    <Page Image="66" ImageHeight="1571" ImageSize="698898" ImageWidth="1109" />
+    <Page Image="67" ImageSize="682801" />
+  </Pages>
+  <Penciller>Dave Simons,Joe Jusko,Rudy Nebres,William Johnson,Dave Simons,William Johnson</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>The Savage Sword of Conan</Series>
+  <Summary>A Dream of Empire: Conan gets drafted into the Turanian army as the Yetshi, the Afghulis and the Irakzai peoples unite to rise against them.
+
+Mitra Defend Us: Conan trailblazes in the Pictish wilderness while Shooz Dinj gets religion.
+
+</Summary>
+  <Tags>Hyboria,Yezdigerd,Turan,Vilayet Sea,Aghrapur,Pictlands,Conan</Tags>
+  <Title>A Dream of Empire; Mitra Defend Us</Title>
+  <Volume>1974</Volume>
+  <Web>https://comicvine.gamespot.com/the-savage-sword-of-conan-112-a-dream-of-empire/4000-135178/</Web>
+  <Writer>Michael Fleisher,Don Kraar,Michael Fleisher,Don Kraar</Writer>
+  <Year>1985</Year>
+  <Count>235</Count>
+  <CoverArtist>Joe Jusko</CoverArtist>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

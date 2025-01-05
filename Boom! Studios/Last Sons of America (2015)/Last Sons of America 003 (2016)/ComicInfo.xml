@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>4</Count>
+  <Day>10</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-1532589</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:51:25 [Issue ID 4000-1532589] urn:comicvine:4000-1532589 urn:grandcomicsdatabase:issue/1532589
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 06:46:47. [Issue ID 1532589]</Notes>
+  <Number>3</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1013796" Type="FrontCover" />
+    <Page Image="1" ImageSize="841402" />
+    <Page Image="2" ImageSize="1738988" />
+    <Page Image="3" ImageSize="1692427" />
+    <Page Image="4" ImageSize="1574714" />
+    <Page Image="5" ImageSize="1137366" />
+    <Page Image="6" ImageSize="1119599" />
+    <Page Image="7" ImageSize="1347682" />
+    <Page Image="8" ImageSize="1203208" />
+    <Page Image="9" ImageSize="1066420" />
+    <Page Image="10" ImageSize="936519" />
+    <Page Image="11" ImageSize="1731102" />
+    <Page Image="12" ImageSize="1641781" />
+    <Page Image="13" ImageSize="1098759" />
+    <Page Image="14" ImageSize="1420954" />
+    <Page Image="15" ImageSize="1392544" />
+    <Page Image="16" ImageSize="1387245" />
+    <Page Image="17" ImageSize="1375617" />
+    <Page Image="18" ImageSize="1359635" />
+    <Page Image="19" ImageSize="702991" />
+    <Page Image="20" ImageSize="1106784" />
+    <Page Image="21" ImageSize="1325496" />
+    <Page Image="22" ImageSize="1282980" />
+    <Page Image="23" ImageSize="1099531" />
+    <Page Image="24" ImageSize="1204289" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Last Sons of America</Series>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1532589/</Web>
+  <Year>2016</Year>
+</ComicInfo>

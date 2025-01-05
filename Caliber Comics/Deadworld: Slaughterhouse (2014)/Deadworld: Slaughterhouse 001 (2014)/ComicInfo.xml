@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>1</Count>
+  <Day>31</Day>
+  <Editor>Joe Pruett</Editor>
+  <GTIN>urn:comicvine:4000-141174</GTIN>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T17:42:32 [Issue ID 4000-141174] urn:comicvine:4000-141174
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Comic Vine on 2024-07-13 11:39:47. [Issue ID 462034]</Notes>
+  <Number>1</Number>
+  <Pages>
+    <Page Image="0" ImageSize="1498177" Type="FrontCover" />
+    <Page Image="1" ImageSize="382937" />
+    <Page Image="2" ImageSize="1840859" />
+    <Page Image="3" ImageSize="931954" />
+    <Page Image="4" ImageSize="1088297" />
+    <Page Image="5" ImageSize="662625" />
+    <Page Image="6" ImageSize="1264008" />
+    <Page Image="7" ImageSize="1032294" />
+    <Page Image="8" ImageSize="1498057" />
+    <Page Image="9" ImageSize="1803990" />
+    <Page Image="10" ImageSize="1773787" />
+    <Page Image="11" ImageSize="1491925" />
+    <Page Image="12" ImageSize="1446679" />
+    <Page Image="13" ImageSize="1535435" />
+    <Page Image="14" ImageSize="1262447" />
+    <Page Image="15" ImageSize="1360512" />
+    <Page Image="16" ImageSize="871602" />
+    <Page Image="17" ImageSize="1527967" />
+    <Page Image="18" ImageSize="1379417" />
+    <Page Image="19" ImageSize="1312429" />
+    <Page Image="20" ImageSize="1205307" />
+    <Page Image="21" ImageSize="1310971" />
+    <Page Image="22" ImageSize="1132043" />
+    <Page Image="23" ImageSize="1463630" />
+    <Page Image="24" ImageSize="1309390" />
+    <Page Image="25" ImageSize="1353858" />
+    <Page Image="26" ImageSize="1326189" />
+    <Page Image="27" ImageSize="1574045" />
+    <Page Image="28" ImageSize="1805606" />
+    <Page Image="29" ImageSize="1830312" />
+    <Page Image="30" ImageSize="1699321" />
+    <Page Image="31" ImageSize="1675738" />
+    <Page Image="32" ImageSize="1089904" />
+    <Page Image="33" ImageSize="1397177" />
+    <Page Image="34" ImageSize="1344803" />
+    <Page Image="35" ImageSize="1508082" />
+    <Page Image="36" ImageSize="1332916" />
+    <Page Image="37" ImageSize="1189659" />
+    <Page Image="38" ImageSize="1165563" />
+    <Page Image="39" ImageSize="934920" />
+    <Page Image="40" ImageSize="1279758" />
+    <Page Image="41" ImageSize="551251" />
+    <Page Image="42" ImageSize="1298277" />
+    <Page Image="43" ImageSize="1291120" />
+    <Page Image="44" ImageSize="1150878" />
+    <Page Image="45" ImageSize="1310025" />
+    <Page Image="46" ImageSize="1173053" />
+    <Page Image="47" ImageSize="1074348" />
+    <Page Image="48" ImageSize="945922" />
+    <Page Image="49" ImageSize="977551" />
+    <Page Image="50" ImageSize="1197293" />
+    <Page Image="51" ImageSize="1187478" />
+    <Page Image="52" ImageSize="917665" />
+    <Page Image="53" ImageSize="1185708" />
+    <Page Image="54" ImageSize="1019664" />
+    <Page Image="55" ImageSize="1140404" />
+    <Page Image="56" ImageSize="1213820" />
+    <Page Image="57" ImageSize="1265979" />
+    <Page Image="58" ImageSize="1286398" />
+    <Page Image="59" ImageSize="1314868" />
+    <Page Image="60" ImageSize="1089700" />
+    <Page Image="61" ImageSize="1241667" />
+    <Page Image="62" ImageSize="1262685" />
+    <Page Image="63" ImageSize="1536838" />
+    <Page Image="64" ImageSize="1476269" />
+    <Page Image="65" ImageSize="1287204" />
+    <Page Image="66" ImageSize="1149920" />
+    <Page Image="67" ImageSize="1581736" />
+    <Page Image="68" ImageSize="1416726" />
+    <Page Image="69" ImageSize="1438225" />
+    <Page Image="70" ImageSize="1358758" />
+    <Page Image="71" ImageSize="1340147" />
+    <Page Image="72" ImageSize="1257483" />
+    <Page Image="73" ImageSize="1418933" />
+    <Page Image="74" ImageSize="1421495" />
+    <Page Image="75" ImageSize="1305574" />
+    <Page Image="76" ImageSize="1176032" />
+    <Page Image="77" ImageSize="1474111" />
+    <Page Image="78" ImageSize="1387867" />
+    <Page Image="79" ImageSize="1238184" />
+    <Page Image="80" ImageSize="1202323" />
+    <Page Image="81" ImageSize="1280864" />
+    <Page Image="82" ImageSize="1382834" />
+    <Page Image="83" ImageSize="1104449" />
+    <Page Image="84" ImageSize="1089614" />
+    <Page Image="85" ImageSize="1488242" />
+    <Page Image="86" ImageSize="1461229" />
+    <Page Image="87" ImageSize="1620330" />
+    <Page Image="88" ImageSize="1725461" />
+    <Page Image="89" ImageSize="1534050" />
+    <Page Image="90" ImageSize="1440702" />
+    <Page Image="91" ImageSize="1204053" />
+    <Page Image="92" ImageSize="1572359" />
+    <Page Image="93" ImageSize="1491369" />
+    <Page Image="94" ImageSize="1342474" />
+    <Page Image="95" ImageSize="1429541" />
+    <Page Image="96" ImageSize="1638405" />
+    <Page Image="97" ImageSize="1715316" />
+    <Page Image="98" ImageSize="1589020" />
+    <Page Image="99" ImageSize="1456896" />
+    <Page Image="100" ImageSize="1259769" />
+    <Page Image="101" ImageSize="1596723" />
+    <Page Image="102" ImageSize="1086581" />
+    <Page Image="103" ImageSize="1337617" />
+    <Page Image="104" ImageSize="1277509" />
+    <Page Image="105" ImageSize="1490096" />
+    <Page Image="106" ImageSize="1367831" />
+    <Page Image="107" ImageSize="1292140" />
+    <Page Image="108" ImageSize="1086130" />
+    <Page Image="109" ImageSize="288608" />
+    <Page Image="110" ImageSize="533895" />
+  </Pages>
+  <Publisher>Caliber Comics</Publisher>
+  <Series>Deadworld: Slaughterhouse</Series>
+  <Summary>Follow-up to the Deadworld: Requiem for the World graphic novel. Mankind find itself trapped in a world of the walking dead and the living who will do anything to survive. The promise of "Safe Haven" reveals a much darker and sinister purpose, when victims find themselves in a medical facility, a "Slaughterhouse," which will stop at nothing to combat the zombie plague, including using humans as guinea pigs. Survivors find that the greatest horror may not be the zombies - but their own kind! Collects issues 1-4.</Summary>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/deadworld-slaughterhouse-1-tpb/4000-462034/</Web>
+  <Writer>Gary Reed</Writer>
+  <Year>2014</Year>
+  <LanguageISO>en</LanguageISO>
+  <Genre>Dystopia,Horror,Zombies</Genre>
+  <Title>TPB</Title>
+  <Penciller>Sami Makkonen</Penciller>
+  <Inker>Sami Makkonen</Inker>
+  <CoverArtist>Sami Makkonen</CoverArtist>
+</ComicInfo>

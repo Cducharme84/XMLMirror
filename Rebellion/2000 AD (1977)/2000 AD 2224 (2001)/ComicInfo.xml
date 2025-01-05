@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<GTIN>urn:comicvine:4000-2218080</GTIN>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.1.9 on 2024-07-27T21:38:04 [Issue ID 4000-2218080] urn:comicvine:4000-2218080</Notes>
+	<Number>2224</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1310524" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1308092"/>
+		<Page Image="2" ImageSize="1448273"/>
+		<Page Image="3" ImageSize="1109982"/>
+		<Page Image="4" ImageSize="1251331"/>
+		<Page Image="5" ImageSize="1145693"/>
+		<Page Image="6" ImageSize="1047643"/>
+		<Page Image="7" ImageSize="1272719"/>
+		<Page Image="8" ImageSize="722284"/>
+		<Page Image="9" ImageSize="1479652"/>
+		<Page Image="10" ImageSize="1244734"/>
+		<Page Image="11" ImageSize="1302790"/>
+		<Page Image="12" ImageSize="1136675"/>
+		<Page Image="13" ImageSize="1280155"/>
+		<Page Image="14" ImageSize="1402505"/>
+		<Page Image="15" ImageSize="1307188"/>
+		<Page Image="16" ImageSize="1278135"/>
+		<Page Image="17" ImageSize="1428942"/>
+		<Page Image="18" ImageSize="1212750"/>
+		<Page Image="19" ImageSize="1287124"/>
+		<Page Image="20" ImageSize="1259816"/>
+		<Page Image="21" ImageSize="1230164"/>
+		<Page Image="22" ImageSize="1082444"/>
+		<Page Image="23" ImageSize="1243199"/>
+		<Page Image="24" ImageSize="1169529"/>
+		<Page Image="25" ImageSize="1082904"/>
+		<Page Image="26" ImageSize="1249338"/>
+		<Page Image="27" ImageSize="1146735"/>
+		<Page Image="28" ImageSize="1057787"/>
+		<Page Image="29" ImageSize="1270732"/>
+		<Page Image="30" ImageSize="836818"/>
+		<Page Image="31" ImageSize="916820"/>
+	</Pages>
+	<Publisher>Rebellion</Publisher>
+	<ScanInformation>(march 2021)</ScanInformation>
+	<Series>2000 AD</Series>
+	<Title>ad</Title>
+	<Volume>1977</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-2218080/</Web>
+	<Year>2001</Year>
+</ComicInfo>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Boggart,Fig Leveret,Krome,Sal Leveret,Scattle,Stote Leveret,Tael Leveret,Zethka</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Day>16</Day>
+	<GTIN>urn:comicvine:4000-438441</GTIN>
+	<Inker>German Erramouspe</Inker>
+	<Letterer>Kurt Hathaway</Letterer>
+	<Locations>Vermintown</Locations>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:58 [Issue ID 4000-438441] urn:comicvine:4000-438441</Notes>
+	<Number>8</Number>
+	<PageCount>13</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="775" ImageSize="254326" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="769" ImageSize="244556"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="769" ImageSize="178537"/>
+		<Page Image="3" ImageWidth="1000" ImageHeight="765" ImageSize="247875"/>
+		<Page Image="4" ImageWidth="1000" ImageHeight="767" ImageSize="240068"/>
+		<Page Image="5" ImageWidth="1000" ImageHeight="767" ImageSize="244271"/>
+		<Page Image="6" ImageWidth="1000" ImageHeight="767" ImageSize="244363"/>
+		<Page Image="7" ImageWidth="1000" ImageHeight="777" ImageSize="237455"/>
+		<Page Image="8" ImageWidth="1000" ImageHeight="771" ImageSize="236770"/>
+		<Page Image="9" ImageWidth="1000" ImageHeight="769" ImageSize="231294"/>
+		<Page Image="10" ImageWidth="1000" ImageHeight="769" ImageSize="236748"/>
+		<Page Image="11" ImageWidth="1000" ImageHeight="774" ImageSize="232455"/>
+		<Page Image="12" ImageSize="224437"/>
+	</Pages>
+	<Penciller>German Erramouspe</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(disenchantedcomic.com)</ScanInformation>
+	<Series>Disenchanted</Series>
+	<Summary>https://comicvine.gamespot.com/disenchanted-8-episode-8/4000-438441/</Summary>
+	<Tags>Boggart,Fairies,Fig Leveret,Goblins,Krome,Sal Leveret,Scattle,Stote Leveret,Tael Leveret,Vermintown,Zethka</Tags>
+	<Teams>Fairies,Goblins</Teams>
+	<Title>Episode 8</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/disenchanted-8-episode-8/4000-438441/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

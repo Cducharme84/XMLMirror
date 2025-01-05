@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+  <Colorist>Patricia Mulvihill,Trish Mulvihill,Patricia Mulvihill</Colorist>
+  <Count>16</Count>
+  <Editor>Will Dennis</Editor>
+  <GTIN>urn:comicvine:4000-776281</GTIN>
+  <Inker>Davide Gianfelice,Davide Gianfelice</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Clem Robins,Clem Robins</Letterer>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:05:18 [Issue ID 4000-776281] urn:comicvine:4000-776281 urn:grandcomicsdatabase:issue/776281
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 03:48:31. [Issue ID 776281]</Notes>
+  <Number>15</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="868230" Type="FrontCover" />
+    <Page Image="1" ImageSize="741287" />
+    <Page Image="2" ImageSize="581777" />
+    <Page Image="3" ImageSize="756456" />
+    <Page Image="4" ImageSize="716936" />
+    <Page Image="5" ImageSize="631467" />
+    <Page Image="6" ImageSize="804434" />
+    <Page Image="7" ImageSize="798216" />
+    <Page Image="8" ImageSize="680856" />
+    <Page Image="9" ImageSize="821072" />
+    <Page Image="10" ImageSize="731261" />
+    <Page Image="11" ImageSize="939343" />
+    <Page Image="12" ImageSize="621090" />
+    <Page Image="13" ImageSize="545415" />
+    <Page Image="14" ImageSize="832790" />
+    <Page Image="15" ImageSize="741449" />
+    <Page Image="16" ImageSize="747454" />
+    <Page Image="17" ImageSize="583490" />
+    <Page Image="18" ImageSize="731053" />
+    <Page Image="19" ImageSize="661659" />
+    <Page Image="20" ImageSize="827876" />
+    <Page Image="21" ImageSize="909685" />
+    <Page Image="22" ImageSize="646721" />
+    <Page Image="23" ImageSize="642071" />
+    <Page Image="24" ImageSize="247318" />
+  </Pages>
+  <Penciller>Davide Gianfelice,Davide Gianfelice</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Greek Street</Series>
+  <Summary>On the covers, the title is stylized as GRΣΣK STRΣΣT.</Summary>
+  <Title>Medea's Luck, Part One: Oh, Dionysius!</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-776281/</Web>
+  <Writer>Peter Milligan,Peter Milligan</Writer>
+  <Year>2010</Year>
+</ComicInfo>

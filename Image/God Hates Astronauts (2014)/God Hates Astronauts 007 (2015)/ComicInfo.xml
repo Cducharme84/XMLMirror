@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>10</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-1336148</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:56:32 [Issue ID 4000-1336148] urn:comicvine:4000-1336148 urn:grandcomicsdatabase:issue/1336148
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 23:07:25. [Issue ID 1336148]</Notes>
+  <Number>7</Number>
+  <PageCount>32</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1881287" Type="FrontCover" />
+    <Page Image="1" ImageSize="1147639" />
+    <Page Image="2" ImageSize="1704557" />
+    <Page Image="3" ImageSize="2286389" />
+    <Page Image="4" ImageSize="2014632" />
+    <Page Image="5" ImageSize="2078825" />
+    <Page Image="6" ImageSize="1316231" />
+    <Page Image="7" ImageSize="2121761" />
+    <Page Image="8" ImageSize="2083246" />
+    <Page Image="9" ImageSize="2120932" />
+    <Page Image="10" ImageSize="2046047" />
+    <Page Image="11" ImageSize="1836898" />
+    <Page Image="12" ImageSize="1634724" />
+    <Page Image="13" ImageSize="2126762" />
+    <Page Image="14" ImageSize="2189794" />
+    <Page Image="15" ImageSize="2058320" />
+    <Page Image="16" ImageSize="1953685" />
+    <Page Image="17" ImageSize="2020612" />
+    <Page Image="18" ImageSize="2265350" />
+    <Page Image="19" ImageSize="1914930" />
+    <Page Image="20" ImageSize="2040818" />
+    <Page Image="21" ImageSize="1866480" />
+    <Page Image="22" ImageSize="2081564" />
+    <Page Image="23" ImageSize="2177607" />
+    <Page Image="24" ImageSize="1809243" />
+    <Page Image="25" ImageSize="2321196" />
+    <Page Image="26" ImageSize="2531412" />
+    <Page Image="27" ImageSize="2224487" />
+    <Page Image="28" ImageSize="2203366" />
+    <Page Image="29" ImageSize="686812" />
+    <Page Image="30" ImageSize="6731072" />
+    <Page Image="31" ImageSize="1048964" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>God Hates Astronauts</Series>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/god-hates-astronauts-7/4000-484939/</Web>
+  <Year>2015</Year>
+  <Summary>What’re we gonna do without Star Grass? It’s about “time” someone did something to fix that problem.
+
+*List of covers and their creators:*
+| Cover | Name    | Creator(s)   | Sidebar Location |
+|-------|---------|--------------|------------------|
+| A     | Cover A | Ryan Browne  | 1                |
+| B     | Cover B | Aaron Conley | 2                |</Summary>
+  <Writer>Charles Soule,Ryan Browne</Writer>
+  <Penciller>Aaron Conley</Penciller>
+  <Inker>Aaron Conley</Inker>
+  <CoverArtist>Aaron Conley,Ryan Browne</CoverArtist>
+</ComicInfo>

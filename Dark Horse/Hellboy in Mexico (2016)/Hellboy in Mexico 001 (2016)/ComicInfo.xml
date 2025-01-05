@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Hellboy</Characters>
+  <Count>1</Count>
+  <Day>13</Day>
+  <Editor>Scott Allie</Editor>
+  <GTIN>urn:comicvine:4000-524985</GTIN>
+  <Inker>Fábio Moon,Gabriel Bá,Mick McMahon,Richard Corben</Inker>
+  <Letterer>Clem Robins</Letterer>
+  <Locations>North America,Mexico</Locations>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:13:11 [Issue ID 4000-524985] urn:comicvine:4000-524985
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 21:06:03. [Issue ID 1555576]</Notes>
+  <Number>1</Number>
+  <PageCount>151</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1227524" Type="FrontCover" />
+    <Page Image="1" ImageSize="71604" />
+    <Page Image="2" ImageSize="306003" />
+    <Page Image="3" ImageSize="1379208" />
+    <Page Image="4" ImageSize="472875" />
+    <Page Image="5" ImageSize="840019" />
+    <Page Image="6" ImageSize="321096" />
+    <Page Image="7" ImageSize="746824" />
+    <Page Image="8" ImageSize="2258932" />
+    <Page Image="9" ImageSize="2797232" />
+    <Page Image="10" ImageSize="2582645" />
+    <Page Image="11" ImageSize="1915515" />
+    <Page Image="12" ImageSize="2398176" />
+    <Page Image="13" ImageSize="3116841" />
+    <Page Image="14" ImageSize="2637681" />
+    <Page Image="15" ImageSize="2261670" />
+    <Page Image="16" ImageSize="2813150" />
+    <Page Image="17" ImageSize="3452344" />
+    <Page Image="18" ImageSize="3231847" />
+    <Page Image="19" ImageSize="2647223" />
+    <Page Image="20" ImageSize="2080843" />
+    <Page Image="21" ImageSize="2661290" />
+    <Page Image="22" ImageSize="2438641" />
+    <Page Image="23" ImageSize="2832401" />
+    <Page Image="24" ImageSize="2475987" />
+    <Page Image="25" ImageSize="2366743" />
+    <Page Image="26" ImageSize="3149192" />
+    <Page Image="27" ImageSize="3155056" />
+    <Page Image="28" ImageSize="3396425" />
+    <Page Image="29" ImageSize="3149743" />
+    <Page Image="30" ImageSize="2798129" />
+    <Page Image="31" ImageSize="2663537" />
+    <Page Image="32" ImageSize="2060813" />
+    <Page Image="33" ImageSize="2686315" />
+    <Page Image="34" ImageSize="2420710" />
+    <Page Image="35" ImageSize="2023059" />
+    <Page Image="36" ImageSize="327659" />
+    <Page Image="37" ImageSize="566389" />
+    <Page Image="38" ImageSize="1701463" />
+    <Page Image="39" ImageSize="1655370" />
+    <Page Image="40" ImageSize="1919258" />
+    <Page Image="41" ImageSize="1900648" />
+    <Page Image="42" ImageSize="2325911" />
+    <Page Image="43" ImageSize="1748770" />
+    <Page Image="44" ImageSize="1269766" />
+    <Page Image="45" ImageSize="1851066" />
+    <Page Image="46" ImageSize="316918" />
+    <Page Image="47" ImageSize="566704" />
+    <Page Image="48" ImageSize="1945242" />
+    <Page Image="49" ImageSize="1971620" />
+    <Page Image="50" ImageSize="1984463" />
+    <Page Image="51" ImageSize="1511247" />
+    <Page Image="52" ImageSize="1782338" />
+    <Page Image="53" ImageSize="1598916" />
+    <Page Image="54" ImageSize="1431080" />
+    <Page Image="55" ImageSize="2258869" />
+    <Page Image="56" ImageSize="1544783" />
+    <Page Image="57" ImageSize="1619471" />
+    <Page Image="58" ImageSize="1797592" />
+    <Page Image="59" ImageSize="1823783" />
+    <Page Image="60" ImageSize="1912346" />
+    <Page Image="61" ImageSize="1739699" />
+    <Page Image="62" ImageSize="1715659" />
+    <Page Image="63" ImageSize="1469571" />
+    <Page Image="64" ImageSize="400896" />
+    <Page Image="65" ImageSize="621793" />
+    <Page Image="66" ImageSize="2726315" />
+    <Page Image="67" ImageSize="3110226" />
+    <Page Image="68" ImageSize="2787809" />
+    <Page Image="69" ImageSize="2941004" />
+    <Page Image="70" ImageSize="2648659" />
+    <Page Image="71" ImageSize="3215920" />
+    <Page Image="72" ImageSize="3601917" />
+    <Page Image="73" ImageSize="2013047" />
+    <Page Image="74" ImageSize="1722484" />
+    <Page Image="75" ImageSize="1983327" />
+    <Page Image="76" ImageSize="2070228" />
+    <Page Image="77" ImageSize="2159296" />
+    <Page Image="78" ImageSize="1994223" />
+    <Page Image="79" ImageSize="1980710" />
+    <Page Image="80" ImageSize="1388773" />
+    <Page Image="81" ImageSize="1525482" />
+    <Page Image="82" ImageSize="312886" />
+    <Page Image="83" ImageSize="1006821" />
+    <Page Image="84" ImageSize="2627720" />
+    <Page Image="85" ImageSize="2596935" />
+    <Page Image="86" ImageSize="3271164" />
+    <Page Image="87" ImageSize="2728682" />
+    <Page Image="88" ImageSize="2654678" />
+    <Page Image="89" ImageSize="3373580" />
+    <Page Image="90" ImageSize="2612341" />
+    <Page Image="91" ImageSize="2096317" />
+    <Page Image="92" ImageSize="2253649" />
+    <Page Image="93" ImageSize="2023265" />
+    <Page Image="94" ImageSize="2523345" />
+    <Page Image="95" ImageSize="1970488" />
+    <Page Image="96" ImageSize="2545778" />
+    <Page Image="97" ImageSize="2648789" />
+    <Page Image="98" ImageSize="2537209" />
+    <Page Image="99" ImageSize="2875426" />
+    <Page Image="100" ImageSize="3003759" />
+    <Page Image="101" ImageSize="2758250" />
+    <Page Image="102" ImageSize="2851710" />
+    <Page Image="103" ImageSize="2574388" />
+    <Page Image="104" ImageSize="3117187" />
+    <Page Image="105" ImageSize="2656680" />
+    <Page Image="106" ImageSize="2915614" />
+    <Page Image="107" ImageSize="3098400" />
+    <Page Image="108" ImageSize="2489327" />
+    <Page Image="109" ImageSize="2125079" />
+    <Page Image="110" ImageSize="3749188" />
+    <Page Image="111" ImageSize="2787500" />
+    <Page Image="112" ImageSize="1768464" />
+    <Page Image="113" ImageSize="2139714" />
+    <Page Image="114" ImageSize="1543719" />
+    <Page Image="115" ImageSize="2473612" />
+    <Page Image="116" ImageSize="2777157" />
+    <Page Image="117" ImageSize="2418274" />
+    <Page Image="118" ImageSize="1854667" />
+    <Page Image="119" ImageSize="2354999" />
+    <Page Image="120" ImageSize="2618896" />
+    <Page Image="121" ImageSize="2843826" />
+    <Page Image="122" ImageSize="2741552" />
+    <Page Image="123" ImageSize="2950191" />
+    <Page Image="124" ImageSize="3814155" />
+    <Page Image="125" ImageSize="3368905" />
+    <Page Image="126" ImageSize="2202663" />
+    <Page Image="127" ImageSize="2110581" />
+    <Page Image="128" ImageSize="1794762" />
+    <Page Image="129" ImageSize="2089140" />
+    <Page Image="130" ImageSize="1603264" />
+    <Page Image="131" ImageSize="1576474" />
+    <Page Image="132" ImageSize="1988720" />
+    <Page Image="133" ImageSize="1358759" />
+    <Page Image="134" ImageSize="1104676" />
+    <Page Image="135" ImageSize="1280238" />
+    <Page Image="136" ImageSize="1523361" />
+    <Page Image="137" ImageSize="1470228" />
+    <Page Image="138" ImageSize="1787474" />
+    <Page Image="139" ImageSize="1558587" />
+    <Page Image="140" ImageSize="2482404" />
+    <Page Image="141" ImageSize="1375400" />
+    <Page Image="142" ImageSize="1592664" />
+    <Page Image="143" ImageSize="2959374" />
+    <Page Image="144" ImageSize="1968546" />
+    <Page Image="145" ImageSize="1062010" />
+    <Page Image="146" ImageSize="784798" />
+    <Page Image="147" ImageSize="1413863" />
+    <Page Image="148" ImageSize="1143615" />
+    <Page Image="149" ImageSize="1061186" />
+    <Page Image="150" ImageSize="1706748" />
+  </Pages>
+  <Penciller>Fábio Moon,Gabriel Bá,Mick McMahon,Richard Corben</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Hellboy in Mexico</Series>
+  <Summary>In Mexico in 1956 Hellboy fights supernatural menaces.
+
+Hellboy confronts a grave robber.
+
+A 1956 case involving Hellboy in Mexico is reconstructed from a couple of accounts.
+
+As they wait for extraction from a small town in Mexico in 1992, Hellboy tells Abe Sapien of his adventures there in 1956 with three luchadores turned monster-hunters.</Summary>
+  <Tags>Astaroth,Hellboy,Hellboy's Wife,Professor O'Donnell,Mummies,Abe Sapien,Adolfo Flores,Aztec Gods,Bureau for Paranormal Research and Defense,Esteban,Zombies,Vampires,Frankenstein's Monster,Quetzalcoatl,Werewolves,The Coffin Man</Tags>
+  <Teams>Mummies,Bureau for Paranormal Research and Defense,Aztec Gods,Zombies,Vampires,Werewolves</Teams>
+  <Title>House of the Living Dead; The Coffin Man 2 - The Rematch; The Coffin Man; Hellboy Gets Married; Hellboy vs the Aztec Mummy; Hellboy in Mexico or, A Drunken Blur</Title>
+  <Volume>2016</Volume>
+  <Web>https://comicvine.gamespot.com/hellboy-in-mexico-1-tpb/4000-524985/</Web>
+  <Year>2016</Year>
+  <Genre>Superhero,Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

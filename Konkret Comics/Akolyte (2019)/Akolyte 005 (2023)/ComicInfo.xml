@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Akolyte</Characters>
+	<Colorist>Matheus Huve</Colorist>
+	<Count>6</Count>
+	<Editor>Daniel Calvo</Editor>
+	<Format>Series</Format>
+	<Genre>Action,Superhero</Genre>
+	<Inker>Bruno Lima</Inker>
+	<Letterer>Mason Solimine</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-22T12:29:53</Notes>
+	<Number>5</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="3016024" Type="FrontCover"/>
+		<Page Image="1" ImageSize="2336940"/>
+		<Page Image="2" ImageSize="2197495"/>
+		<Page Image="3" ImageSize="2010229"/>
+		<Page Image="4" ImageSize="2070861"/>
+		<Page Image="5" ImageSize="2034699"/>
+		<Page Image="6" ImageSize="2268667"/>
+		<Page Image="7" ImageSize="1949779"/>
+		<Page Image="8" ImageSize="1603119"/>
+		<Page Image="9" ImageSize="2090366"/>
+		<Page Image="10" ImageSize="1919065"/>
+		<Page Image="11" ImageSize="2110011"/>
+		<Page Image="12" ImageSize="2517083"/>
+		<Page Image="13" ImageSize="2317727"/>
+		<Page Image="14" ImageSize="2108733"/>
+		<Page Image="15" ImageSize="2402291"/>
+		<Page Image="16" ImageSize="2882294"/>
+		<Page Image="17" ImageSize="2352600"/>
+		<Page Image="18" ImageSize="2634977"/>
+		<Page Image="19" ImageSize="2284067"/>
+		<Page Image="20" ImageSize="2511476"/>
+		<Page Image="21" ImageSize="2447216"/>
+		<Page Image="22" ImageSize="1894721"/>
+		<Page Image="23" ImageSize="2045365"/>
+		<Page Image="24" ImageSize="348705"/>
+		<Page Image="25" ImageSize="2282754"/>
+		<Page Image="26" ImageSize="2162425"/>
+		<Page Image="27" ImageSize="2505780"/>
+		<Page Image="28" ImageSize="581768"/>
+	</Pages>
+	<Penciller>Bruno Lima</Penciller>
+	<Publisher>Konkret Comics</Publisher>
+	<Series>Akolyte</Series>
+	<Summary>After defending Earth from the diabolical Children of Chaos,  Akolyte turns to the stars for answers.  Light years away from his home world, Akolyte finds himself trapped in the middle of a galactic cat and mouse game. Who are these strangers and what do they want with the Moon walker?</Summary>
+	<Title>Protocol</Title>
+	<Volume>2019</Volume>
+	<Writer>Lonzo Starr</Writer>
+	<Year>2023</Year>
+</ComicInfo>

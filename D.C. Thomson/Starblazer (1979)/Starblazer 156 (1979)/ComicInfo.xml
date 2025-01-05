@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550770</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:49:09 [Issue ID 4000-550770] urn:comicvine:4000-550770 urn:grandcomicsdatabase:issue/550770
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 19:00:06. [Issue ID 550770]</Notes>
+  <Number>156</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="524773" Type="FrontCover" />
+    <Page Image="1" ImageSize="360970" />
+    <Page Image="2" ImageSize="555146" />
+    <Page Image="3" ImageSize="724516" />
+    <Page Image="4" ImageSize="687904" />
+    <Page Image="5" ImageSize="731453" />
+    <Page Image="6" ImageSize="715332" />
+    <Page Image="7" ImageSize="705705" />
+    <Page Image="8" ImageSize="663125" />
+    <Page Image="9" ImageSize="687337" />
+    <Page Image="10" ImageSize="717910" />
+    <Page Image="11" ImageSize="641056" />
+    <Page Image="12" ImageSize="744432" />
+    <Page Image="13" ImageSize="729582" />
+    <Page Image="14" ImageSize="704734" />
+    <Page Image="15" ImageSize="751626" />
+    <Page Image="16" ImageSize="684486" />
+    <Page Image="17" ImageSize="614915" />
+    <Page Image="18" ImageSize="714456" />
+    <Page Image="19" ImageSize="700050" />
+    <Page Image="20" ImageSize="692836" />
+    <Page Image="21" ImageSize="748478" />
+    <Page Image="22" ImageSize="722456" />
+    <Page Image="23" ImageSize="722474" />
+    <Page Image="24" ImageSize="714858" />
+    <Page Image="25" ImageSize="702744" />
+    <Page Image="26" ImageSize="693697" />
+    <Page Image="27" ImageSize="631511" />
+    <Page Image="28" ImageSize="688850" />
+    <Page Image="29" ImageSize="705461" />
+    <Page Image="30" ImageSize="686505" />
+    <Page Image="31" ImageSize="682909" />
+    <Page Image="32" ImageSize="697647" />
+    <Page Image="33" ImageSize="677709" />
+    <Page Image="34" ImageSize="585171" />
+    <Page Image="35" ImageSize="357053" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Sygma Warrior</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550770/</Web>
+  <Year>1979</Year>
+</ComicInfo>

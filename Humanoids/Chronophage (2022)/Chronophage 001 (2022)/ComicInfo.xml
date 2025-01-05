@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:comicvine:4000-907906</GTIN>
+  <Inker>Ilias Kyriazis</Inker>
+  <Letterer>Crank!</Letterer>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:00:28 [Issue ID 4000-907906] urn:comicvine:4000-907906
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 01:04:46. [Issue ID 2361344]</Notes>
+  <Number>1</Number>
+  <PageCount>132</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2421764" Type="FrontCover" />
+    <Page Image="1" ImageSize="1765251" />
+    <Page Image="2" ImageSize="2872626" />
+    <Page Image="3" ImageSize="456271" />
+    <Page Image="4" ImageSize="1741525" />
+    <Page Image="5" ImageSize="2502019" />
+    <Page Image="6" ImageSize="2032842" />
+    <Page Image="7" ImageSize="2175448" />
+    <Page Image="8" ImageSize="1839678" />
+    <Page Image="9" ImageSize="2197191" />
+    <Page Image="10" ImageSize="2168322" />
+    <Page Image="11" ImageSize="2087863" />
+    <Page Image="12" ImageSize="1932204" />
+    <Page Image="13" ImageSize="1733597" />
+    <Page Image="14" ImageSize="1770343" />
+    <Page Image="15" ImageSize="1797969" />
+    <Page Image="16" ImageSize="1660938" />
+    <Page Image="17" ImageSize="1965378" />
+    <Page Image="18" ImageSize="1894540" />
+    <Page Image="19" ImageSize="1765341" />
+    <Page Image="20" ImageSize="1774051" />
+    <Page Image="21" ImageSize="1893716" />
+    <Page Image="22" ImageSize="2045280" />
+    <Page Image="23" ImageSize="2499762" />
+    <Page Image="24" ImageSize="1363099" />
+    <Page Image="25" ImageSize="1468927" />
+    <Page Image="26" ImageSize="2060920" />
+    <Page Image="27" ImageSize="1425879" />
+    <Page Image="28" ImageSize="2103056" />
+    <Page Image="29" ImageSize="1877199" />
+    <Page Image="30" ImageSize="2087395" />
+    <Page Image="31" ImageSize="1807897" />
+    <Page Image="32" ImageSize="1771015" />
+    <Page Image="33" ImageSize="1413274" />
+    <Page Image="34" ImageSize="1882023" />
+    <Page Image="35" ImageSize="1788837" />
+    <Page Image="36" ImageSize="1997036" />
+    <Page Image="37" ImageSize="3068225" />
+    <Page Image="38" ImageSize="1928023" />
+    <Page Image="39" ImageSize="2094581" />
+    <Page Image="40" ImageSize="1692576" />
+    <Page Image="41" ImageSize="1441022" />
+    <Page Image="42" ImageSize="1664784" />
+    <Page Image="43" ImageSize="1476169" />
+    <Page Image="44" ImageSize="1725917" />
+    <Page Image="45" ImageSize="1507945" />
+    <Page Image="46" ImageSize="1778681" />
+    <Page Image="47" ImageSize="1654570" />
+    <Page Image="48" ImageSize="1742919" />
+    <Page Image="49" ImageSize="1468358" />
+    <Page Image="50" ImageSize="1793683" />
+    <Page Image="51" ImageSize="1617104" />
+    <Page Image="52" ImageSize="1686478" />
+    <Page Image="53" ImageSize="3476750" />
+    <Page Image="54" ImageSize="1497526" />
+    <Page Image="55" ImageSize="1809567" />
+    <Page Image="56" ImageSize="1670662" />
+    <Page Image="57" ImageSize="1554143" />
+    <Page Image="58" ImageSize="1506235" />
+    <Page Image="59" ImageSize="1665012" />
+    <Page Image="60" ImageSize="1688397" />
+    <Page Image="61" ImageSize="2063149" />
+    <Page Image="62" ImageSize="1691947" />
+    <Page Image="63" ImageSize="2340159" />
+    <Page Image="64" ImageSize="1763907" />
+    <Page Image="65" ImageSize="1701868" />
+    <Page Image="66" ImageSize="1743778" />
+    <Page Image="67" ImageSize="1725073" />
+    <Page Image="68" ImageSize="1445981" />
+    <Page Image="69" ImageSize="1817568" />
+    <Page Image="70" ImageSize="1225499" />
+    <Page Image="71" ImageSize="1427357" />
+    <Page Image="72" ImageSize="1332136" />
+    <Page Image="73" ImageSize="1497885" />
+    <Page Image="74" ImageSize="1695592" />
+    <Page Image="75" ImageSize="1929852" />
+    <Page Image="76" ImageSize="5419170" />
+    <Page Image="77" ImageSize="1984137" />
+    <Page Image="78" ImageSize="2123447" />
+    <Page Image="79" ImageSize="1926613" />
+    <Page Image="80" ImageSize="1457013" />
+    <Page Image="81" ImageSize="1956321" />
+    <Page Image="82" ImageSize="1269733" />
+    <Page Image="83" ImageSize="1985394" />
+    <Page Image="84" ImageSize="2250887" />
+    <Page Image="85" ImageSize="1101728" />
+    <Page Image="86" ImageSize="1400730" />
+    <Page Image="87" ImageSize="1585043" />
+    <Page Image="88" ImageSize="1547691" />
+    <Page Image="89" ImageSize="4445191" />
+    <Page Image="90" ImageSize="1781644" />
+    <Page Image="91" ImageSize="1497584" />
+    <Page Image="92" ImageSize="1990678" />
+    <Page Image="93" ImageSize="1345593" />
+    <Page Image="94" ImageSize="4068265" />
+    <Page Image="95" ImageSize="1488746" />
+    <Page Image="96" ImageSize="2072974" />
+    <Page Image="97" ImageSize="2268400" />
+    <Page Image="98" ImageSize="2375021" />
+    <Page Image="99" ImageSize="2327773" />
+    <Page Image="100" ImageSize="1724602" />
+    <Page Image="101" ImageSize="1820872" />
+    <Page Image="102" ImageSize="1312639" />
+    <Page Image="103" ImageSize="1983975" />
+    <Page Image="104" ImageSize="1436850" />
+    <Page Image="105" ImageSize="1785987" />
+    <Page Image="106" ImageSize="1740964" />
+    <Page Image="107" ImageSize="1674344" />
+    <Page Image="108" ImageSize="1655580" />
+    <Page Image="109" ImageSize="1786543" />
+    <Page Image="110" ImageSize="1475984" />
+    <Page Image="111" ImageSize="1738334" />
+    <Page Image="112" ImageSize="1455817" />
+    <Page Image="113" ImageSize="1419754" />
+    <Page Image="114" ImageSize="1915626" />
+    <Page Image="115" ImageSize="1286470" />
+    <Page Image="116" ImageSize="2234519" />
+    <Page Image="117" ImageSize="2012192" />
+    <Page Image="118" ImageSize="2170790" />
+    <Page Image="119" ImageSize="1800533" />
+    <Page Image="120" ImageSize="337112" />
+    <Page Image="121" ImageSize="1978423" />
+    <Page Image="122" ImageSize="1746568" />
+    <Page Image="123" ImageSize="1934470" />
+    <Page Image="124" ImageSize="809892" />
+    <Page Image="125" ImageSize="1550191" />
+    <Page Image="126" ImageSize="1525174" />
+    <Page Image="127" ImageSize="1477952" />
+    <Page Image="128" ImageSize="1944482" />
+    <Page Image="129" ImageSize="1037400" />
+    <Page Image="130" ImageSize="828206" />
+    <Page Image="131" ImageSize="1010898" />
+  </Pages>
+  <Penciller>Ilias Kyriazis</Penciller>
+  <Publisher>Humanoids</Publisher>
+  <Series>Chronophage</Series>
+  <Summary>A single mother becomes involved with a mysterious man who literally consumes past moments of her life, changing her history and forcing her to decide what should—or shouldn't—be undone.
+
+When Chloe begins a passionate relationship with a traveling businessman, her life suddenly changes for the better, and not just because she's getting laid. Lost friends return, and new opportunities suddenly appear. Soon, though, she begins experiencing horrific encounters with ghostly beings, eventually revealed to be the echoes of moments she has now no longer lived. Her new lover, Heath, stands revealed as a chronophage, a terrifying alien being who subsists on days literally stolen from Chloe's personal history. Can Chloe recapture her lost moments, or is the life she once knew—including the daughter she had at sixteen years old—gone forever?
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-13 08:33:57.  [CVDB907906]
+
+https://comicvine.gamespot.com/chronophage-1-gn/4000-907906/</Summary>
+  <Title>GN</Title>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/chronophage-1-gn/4000-907906/</Web>
+  <Writer>Tim Seeley</Writer>
+  <Year>2022</Year>
+  <Count>1</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

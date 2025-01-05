@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>45</Count>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-1049757</GTIN>
+	<Genre>Anthology,Superhero</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-18T22:00:30 [Issue ID 4000-1049757] urn:comicvine:4000-1049757</Notes>
+	<Number>34</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3960" ImageSize="2151488" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3960" ImageSize="1975324"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3960" ImageSize="3000097"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3960" ImageSize="2828125"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3960" ImageSize="2757302"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3960" ImageSize="2616184"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3960" ImageSize="2752781"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3960" ImageSize="2506779"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3960" ImageSize="2398071"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3960" ImageSize="2136710"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3960" ImageSize="2229465"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3960" ImageSize="2376030"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3960" ImageSize="2377204"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3960" ImageSize="1993079"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3960" ImageSize="2136241"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3960" ImageSize="2323152"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3960" ImageSize="2103126"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3960" ImageSize="2496163"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3960" ImageSize="2193973"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3960" ImageSize="2606308"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3960" ImageSize="2357289"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3960" ImageSize="1929820"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3960" ImageSize="2249412"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3960" ImageSize="2303245"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3960" ImageSize="2563266"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3960" ImageSize="2053835"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3960" ImageSize="1471156"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3960" ImageSize="1944339"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3960" ImageSize="2280366"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3960" ImageSize="1140466"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3960" ImageSize="1310631"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3960" ImageSize="1639139"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3960" ImageSize="1446768"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3960" ImageSize="1824185"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3960" ImageSize="1810041"/>
+		<Page Image="35" ImageSize="1913028"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Exciting Comics</Series>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/exciting-comics-34/4000-1049757/</Web>
+	<Year>2023</Year>
+</ComicInfo>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Matau,Nokama,Nuju,Onewa,Vakama,Whenua</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-213894</GTIN>
+	<Inker>Randy Elliott</Inker>
+	<Locations>The Island of Metru-Nui</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:55:57 [Issue ID 4000-213894] urn:comicvine:4000-213894</Notes>
+	<Number>27</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="807195" Type="FrontCover"/>
+		<Page Image="1" ImageSize="814919"/>
+		<Page Image="2" ImageSize="821110"/>
+		<Page Image="3" ImageSize="778727"/>
+		<Page Image="4" ImageSize="707206"/>
+		<Page Image="5" ImageSize="767969"/>
+		<Page Image="6" ImageSize="811257"/>
+		<Page Image="7" ImageSize="776398"/>
+		<Page Image="8" ImageSize="801009"/>
+		<Page Image="9" ImageSize="774178"/>
+		<Page Image="10" ImageSize="745855"/>
+		<Page Image="11" ImageSize="705444"/>
+		<Page Image="12" ImageSize="738159"/>
+		<Page Image="13" ImageSize="476677"/>
+		<Page Image="14" ImageSize="590099"/>
+		<Page Image="15" ImageSize="526293"/>
+		<Page Image="16" ImageSize="782827"/>
+		<Page Image="17" ImageSize="686788"/>
+		<Page Image="18" ImageSize="929206"/>
+	</Pages>
+	<Penciller>Randy Elliott</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>Bionicle</Series>
+	<Summary>https://comicvine.gamespot.com/bionicle-27-fractures/4000-213894/</Summary>
+	<Tags>Matau,Nokama,Nuju,Onewa,Rahi,The Island of Metru-Nui,Toa Hordika,Vakama,Whenua</Tags>
+	<Teams>Rahi,Toa Hordika</Teams>
+	<Title>Fractures</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/bionicle-27-fractures/4000-213894/</Web>
+	<Writer>Greg Farshtey</Writer>
+	<Year>2005</Year>
+</ComicInfo>

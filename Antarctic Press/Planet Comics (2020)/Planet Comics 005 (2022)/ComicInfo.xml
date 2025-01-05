@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>29</Count>
+	<Day>1</Day>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-931021</GTIN>
+	<Genre>Anthology,Science Fiction</Genre>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-13T18:30:39 [Issue ID 4000-931021] urn:comicvine:4000-931021</Notes>
+	<Number>5</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1987" ImageHeight="3075" ImageSize="374622" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1987" ImageHeight="3075" ImageSize="538050"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1987" ImageHeight="3075" ImageSize="249632"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1987" ImageHeight="3075" ImageSize="555086"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1987" ImageHeight="3075" ImageSize="613306"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1987" ImageHeight="3075" ImageSize="467664"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1987" ImageHeight="3075" ImageSize="640030"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1987" ImageHeight="3075" ImageSize="529742"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1987" ImageHeight="3075" ImageSize="609684"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1987" ImageHeight="3075" ImageSize="626908"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1987" ImageHeight="3075" ImageSize="879424"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1987" ImageHeight="3075" ImageSize="725312"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1987" ImageHeight="3075" ImageSize="741302"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1987" ImageHeight="3075" ImageSize="515156"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1987" ImageHeight="3075" ImageSize="310816"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1987" ImageHeight="3075" ImageSize="388708"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1987" ImageHeight="3075" ImageSize="231558"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1987" ImageHeight="3075" ImageSize="371476"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1987" ImageHeight="3075" ImageSize="440296"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1987" ImageHeight="3075" ImageSize="407494"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1987" ImageHeight="3075" ImageSize="487892"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1987" ImageHeight="3075" ImageSize="443840"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1987" ImageHeight="3075" ImageSize="402670"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1987" ImageHeight="3075" ImageSize="528912"/>
+		<Page DoublePage="False" Image="24" ImageWidth="1987" ImageHeight="3075" ImageSize="456338"/>
+		<Page DoublePage="False" Image="25" ImageWidth="1987" ImageHeight="3075" ImageSize="487340"/>
+		<Page DoublePage="False" Image="26" ImageWidth="1987" ImageHeight="3075" ImageSize="661676"/>
+		<Page DoublePage="False" Image="27" ImageWidth="1987" ImageHeight="3075" ImageSize="602798"/>
+		<Page DoublePage="False" Image="28" ImageWidth="1987" ImageHeight="3075" ImageSize="608794"/>
+		<Page DoublePage="False" Image="29" ImageWidth="1987" ImageHeight="3075" ImageSize="596586"/>
+		<Page DoublePage="False" Image="30" ImageWidth="1987" ImageHeight="3075" ImageSize="521960"/>
+		<Page DoublePage="False" Image="31" ImageWidth="1987" ImageHeight="3075" ImageSize="483772"/>
+		<Page DoublePage="False" Image="32" ImageWidth="1987" ImageHeight="3075" ImageSize="545976"/>
+		<Page Image="33" ImageSize="554764"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>Planet Comics</Series>
+	<Summary>We've got a trinary system of stories to dazzle you this issue!
+
+"Bark at the Moons" (Hannu Kesola, Emiliano Urich): Two intergalactic swindlers end up in a planetary prison where things only get worse for them.
+
+"The Awakening" (Newton Burcham): When alien lizards invade an ice planet, the inhabitants rise up in rebellion.
+
+"On the Wings of Love" (Dan Smeddy, Kevin S. Halter): A group of explorers discover a sinister secret on an outlying planet.</Summary>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/planet-comics-5/4000-931021/</Web>
+	<Writer>Hannu Kesola</Writer>
+	<Year>2022</Year>
+</ComicInfo>

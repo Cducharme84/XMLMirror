@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>8</Count>
+	<CoverArtist>Joseph Wight</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-381741</GTIN>
+	<Genre>Action</Genre>
+	<Inker>Joseph Wight</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-12T01:01:43 [Issue ID 4000-381741] urn:comicvine:4000-381741</Notes>
+	<Number>3</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3982" ImageSize="727532" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3982" ImageSize="1074582"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3982" ImageSize="636996"/>
+		<Page DoublePage="True" Image="3" ImageWidth="5120" ImageHeight="3982" ImageSize="1612163"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3982" ImageSize="908736"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3982" ImageSize="972116"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3982" ImageSize="817968"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3982" ImageSize="1030858"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3982" ImageSize="723482"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3982" ImageSize="774600"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3982" ImageSize="618417"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3982" ImageSize="736320"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3982" ImageSize="825046"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3982" ImageSize="853026"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3982" ImageSize="875199"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3982" ImageSize="799400"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3982" ImageSize="757925"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3982" ImageSize="849561"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3982" ImageSize="815988"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3982" ImageSize="1622078"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3982" ImageSize="1159145"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3982" ImageSize="1678238"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3982" ImageSize="1126126"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3982" ImageSize="1054094"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2512" ImageHeight="3935" ImageSize="1842764"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3982" ImageSize="1036784"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3982" ImageSize="1019666"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3982" ImageSize="1192276"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3982" ImageSize="930744"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3982" ImageSize="923399"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3982" ImageSize="659009"/>
+		<Page DoublePage="True" Image="31" ImageWidth="5120" ImageHeight="3982" ImageSize="3199626"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3982" ImageSize="787884"/>
+		<Page Image="33" ImageSize="200174"/>
+	</Pages>
+	<Penciller>Joseph Wight</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Twilight X: Storm</Series>
+	<Summary>Somewhere in the Caribbean, Richard and Melissa discover an island that has become a vast slave labor camp. They must find a way to stop this dictator and free the island. Fortunately, they have help in the form of Neptune, the deadliest, most advanced nuclear submarine on the planet.</Summary>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/twilight-x-storm-3/4000-381741/</Web>
+	<Writer>Joseph Wight</Writer>
+	<Year>2003</Year>
+</ComicInfo>

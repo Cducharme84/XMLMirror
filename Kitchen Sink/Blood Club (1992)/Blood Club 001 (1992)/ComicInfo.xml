@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Charles Burns</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-389793</GTIN>
+	<Inker>Charles Burns</Inker>
+	<Letterer>Charles Burns</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:26:06 [Issue ID 4000-389793] urn:comicvine:4000-389793</Notes>
+	<Number>1</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="986" ImageHeight="1555" ImageSize="924024" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1113" ImageHeight="1557" ImageSize="1010115"/>
+		<Page Image="2" ImageWidth="1136" ImageHeight="1553" ImageSize="1199315"/>
+		<Page Image="3" ImageWidth="989" ImageHeight="1543" ImageSize="521056"/>
+		<Page Image="4" ImageWidth="908" ImageHeight="1243" ImageSize="717750"/>
+		<Page Image="5" ImageWidth="908" ImageHeight="1222" ImageSize="748921"/>
+		<Page Image="6" ImageWidth="908" ImageHeight="1318" ImageSize="792281"/>
+		<Page Image="7" ImageWidth="911" ImageHeight="1220" ImageSize="784157"/>
+		<Page Image="8" ImageWidth="916" ImageHeight="1222" ImageSize="760468"/>
+		<Page Image="9" ImageWidth="904" ImageHeight="1226" ImageSize="769598"/>
+		<Page Image="10" ImageWidth="895" ImageHeight="1328" ImageSize="640550"/>
+		<Page Image="11" ImageWidth="912" ImageHeight="1234" ImageSize="610227"/>
+		<Page Image="12" ImageWidth="915" ImageHeight="1228" ImageSize="592410"/>
+		<Page Image="13" ImageWidth="907" ImageHeight="1228" ImageSize="653641"/>
+		<Page Image="14" ImageWidth="908" ImageHeight="1226" ImageSize="737642"/>
+		<Page Image="15" ImageWidth="916" ImageHeight="1330" ImageSize="801035"/>
+		<Page Image="16" ImageWidth="904" ImageHeight="1218" ImageSize="720543"/>
+		<Page Image="17" ImageWidth="904" ImageHeight="1226" ImageSize="725533"/>
+		<Page Image="18" ImageWidth="902" ImageHeight="1227" ImageSize="702736"/>
+		<Page Image="19" ImageWidth="908" ImageHeight="1230" ImageSize="690977"/>
+		<Page Image="20" ImageWidth="904" ImageHeight="1218" ImageSize="761083"/>
+		<Page Image="21" ImageWidth="908" ImageHeight="1222" ImageSize="717619"/>
+		<Page Image="22" ImageWidth="912" ImageHeight="1230" ImageSize="692315"/>
+		<Page Image="23" ImageWidth="907" ImageHeight="1220" ImageSize="648627"/>
+		<Page Image="24" ImageWidth="903" ImageHeight="1216" ImageSize="650745"/>
+		<Page Image="25" ImageWidth="896" ImageHeight="1222" ImageSize="790261"/>
+		<Page Image="26" ImageWidth="912" ImageHeight="1222" ImageSize="758205"/>
+		<Page Image="27" ImageWidth="908" ImageHeight="1330" ImageSize="726417"/>
+		<Page Image="28" ImageWidth="936" ImageHeight="1250" ImageSize="680208"/>
+		<Page Image="29" ImageWidth="915" ImageHeight="1340" ImageSize="798872"/>
+		<Page Image="30" ImageWidth="912" ImageHeight="1226" ImageSize="739609"/>
+		<Page Image="31" ImageWidth="916" ImageHeight="1226" ImageSize="661222"/>
+		<Page Image="32" ImageWidth="908" ImageHeight="1222" ImageSize="750826"/>
+		<Page Image="33" ImageWidth="904" ImageHeight="1226" ImageSize="659878"/>
+		<Page Image="34" ImageWidth="972" ImageHeight="1514" ImageSize="183309"/>
+		<Page Image="35" ImageSize="781594"/>
+	</Pages>
+	<Penciller>Charles Burns</Penciller>
+	<Publisher>Kitchen Sink</Publisher>
+	<Series>Blood Club</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-12 22:38:38.  [CVDB389793]
+
+https://comicvine.gamespot.com/blood-club-1/4000-389793/</Summary>
+	<Volume>1992</Volume>
+	<Web>https://comicvine.gamespot.com/blood-club-1/4000-389793/</Web>
+	<Writer>Charles Burns</Writer>
+	<Year>1992</Year>
+</ComicInfo>

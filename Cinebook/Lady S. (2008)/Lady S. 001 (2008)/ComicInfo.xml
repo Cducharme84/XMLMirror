@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Lady S.</Characters>
+  <GTIN>urn:comicvine:4000-169561</GTIN>
+  <Inker>Philippe Aymond</Inker>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:51:36 [Issue ID 4000-169561] urn:comicvine:4000-169561
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 02:45:48. [Issue ID 818595]</Notes>
+  <Number>1</Number>
+  <PageCount>90</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1680" ImageSize="490228" ImageWidth="1200" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1677" ImageSize="238186" ImageWidth="1200" />
+    <Page Image="2" ImageHeight="1675" ImageSize="776677" ImageWidth="1200" />
+    <Page Image="3" ImageHeight="1675" ImageSize="716430" ImageWidth="1200" />
+    <Page Image="4" ImageHeight="1675" ImageSize="751375" ImageWidth="1200" />
+    <Page Image="5" ImageHeight="1675" ImageSize="788520" ImageWidth="1200" />
+    <Page Image="6" ImageHeight="1675" ImageSize="742135" ImageWidth="1200" />
+    <Page Image="7" ImageHeight="1675" ImageSize="680417" ImageWidth="1200" />
+    <Page Image="8" ImageHeight="1675" ImageSize="768024" ImageWidth="1200" />
+    <Page Image="9" ImageHeight="1675" ImageSize="779229" ImageWidth="1200" />
+    <Page Image="10" ImageHeight="1675" ImageSize="838090" ImageWidth="1200" />
+    <Page Image="11" ImageHeight="1675" ImageSize="810005" ImageWidth="1200" />
+    <Page Image="12" ImageHeight="1675" ImageSize="741462" ImageWidth="1200" />
+    <Page Image="13" ImageHeight="1675" ImageSize="771370" ImageWidth="1200" />
+    <Page Image="14" ImageHeight="1675" ImageSize="739571" ImageWidth="1200" />
+    <Page Image="15" ImageHeight="1675" ImageSize="723263" ImageWidth="1200" />
+    <Page Image="16" ImageHeight="1675" ImageSize="736512" ImageWidth="1200" />
+    <Page Image="17" ImageHeight="1675" ImageSize="700920" ImageWidth="1200" />
+    <Page Image="18" ImageHeight="1675" ImageSize="749093" ImageWidth="1200" />
+    <Page Image="19" ImageHeight="1675" ImageSize="683151" ImageWidth="1200" />
+    <Page Image="20" ImageHeight="1675" ImageSize="670148" ImageWidth="1200" />
+    <Page Image="21" ImageHeight="1675" ImageSize="698397" ImageWidth="1200" />
+    <Page Image="22" ImageHeight="1675" ImageSize="655994" ImageWidth="1200" />
+    <Page Image="23" ImageHeight="1675" ImageSize="638194" ImageWidth="1200" />
+    <Page Image="24" ImageHeight="1675" ImageSize="677153" ImageWidth="1200" />
+    <Page Image="25" ImageHeight="1675" ImageSize="716145" ImageWidth="1200" />
+    <Page Image="26" ImageHeight="1675" ImageSize="639278" ImageWidth="1200" />
+    <Page Image="27" ImageHeight="1675" ImageSize="660377" ImageWidth="1200" />
+    <Page Image="28" ImageHeight="1675" ImageSize="721060" ImageWidth="1200" />
+    <Page Image="29" ImageHeight="1675" ImageSize="739143" ImageWidth="1200" />
+    <Page Image="30" ImageHeight="1675" ImageSize="768474" ImageWidth="1200" />
+    <Page Image="31" ImageHeight="1675" ImageSize="697837" ImageWidth="1200" />
+    <Page Image="32" ImageHeight="1675" ImageSize="638003" ImageWidth="1200" />
+    <Page Image="33" ImageHeight="1675" ImageSize="664136" ImageWidth="1200" />
+    <Page Image="34" ImageHeight="1675" ImageSize="679419" ImageWidth="1200" />
+    <Page Image="35" ImageHeight="1675" ImageSize="739421" ImageWidth="1200" />
+    <Page Image="36" ImageHeight="1675" ImageSize="715505" ImageWidth="1200" />
+    <Page Image="37" ImageHeight="1675" ImageSize="690343" ImageWidth="1200" />
+    <Page Image="38" ImageHeight="1675" ImageSize="673311" ImageWidth="1200" />
+    <Page Image="39" ImageHeight="1675" ImageSize="695552" ImageWidth="1200" />
+    <Page Image="40" ImageHeight="1675" ImageSize="770355" ImageWidth="1200" />
+    <Page Image="41" ImageHeight="1675" ImageSize="704910" ImageWidth="1200" />
+    <Page Image="42" ImageHeight="1675" ImageSize="729832" ImageWidth="1200" />
+    <Page Image="43" ImageHeight="1675" ImageSize="742966" ImageWidth="1200" />
+    <Page Image="44" ImageHeight="1675" ImageSize="677588" ImageWidth="1200" />
+    <Page Image="45" ImageHeight="1675" ImageSize="638091" ImageWidth="1200" />
+    <Page Image="46" ImageHeight="1675" ImageSize="716156" ImageWidth="1200" />
+    <Page Image="47" ImageHeight="1675" ImageSize="763410" ImageWidth="1200" />
+    <Page Image="48" ImageHeight="1675" ImageSize="729519" ImageWidth="1200" />
+    <Page Image="49" ImageHeight="1675" ImageSize="732386" ImageWidth="1200" />
+    <Page Image="50" ImageHeight="1675" ImageSize="792647" ImageWidth="1200" />
+    <Page Image="51" ImageHeight="1675" ImageSize="731295" ImageWidth="1200" />
+    <Page Image="52" ImageHeight="1675" ImageSize="766675" ImageWidth="1200" />
+    <Page Image="53" ImageHeight="1675" ImageSize="702722" ImageWidth="1200" />
+    <Page Image="54" ImageHeight="1675" ImageSize="690546" ImageWidth="1200" />
+    <Page Image="55" ImageHeight="1675" ImageSize="760337" ImageWidth="1200" />
+    <Page Image="56" ImageHeight="1675" ImageSize="710458" ImageWidth="1200" />
+    <Page Image="57" ImageHeight="1675" ImageSize="684124" ImageWidth="1200" />
+    <Page Image="58" ImageHeight="1675" ImageSize="768004" ImageWidth="1200" />
+    <Page Image="59" ImageHeight="1675" ImageSize="739867" ImageWidth="1200" />
+    <Page Image="60" ImageHeight="1675" ImageSize="683488" ImageWidth="1200" />
+    <Page Image="61" ImageHeight="1675" ImageSize="662281" ImageWidth="1200" />
+    <Page Image="62" ImageHeight="1675" ImageSize="625753" ImageWidth="1200" />
+    <Page Image="63" ImageHeight="1675" ImageSize="521521" ImageWidth="1200" />
+    <Page Image="64" ImageHeight="1675" ImageSize="619949" ImageWidth="1200" />
+    <Page Image="65" ImageHeight="1675" ImageSize="630986" ImageWidth="1200" />
+    <Page Image="66" ImageHeight="1675" ImageSize="631120" ImageWidth="1200" />
+    <Page Image="67" ImageHeight="1675" ImageSize="691342" ImageWidth="1200" />
+    <Page Image="68" ImageHeight="1675" ImageSize="680888" ImageWidth="1200" />
+    <Page Image="69" ImageHeight="1675" ImageSize="639193" ImageWidth="1200" />
+    <Page Image="70" ImageHeight="1675" ImageSize="729220" ImageWidth="1200" />
+    <Page Image="71" ImageHeight="1675" ImageSize="664051" ImageWidth="1200" />
+    <Page Image="72" ImageHeight="1675" ImageSize="702263" ImageWidth="1200" />
+    <Page Image="73" ImageHeight="1675" ImageSize="674954" ImageWidth="1200" />
+    <Page Image="74" ImageHeight="1675" ImageSize="710138" ImageWidth="1200" />
+    <Page Image="75" ImageHeight="1675" ImageSize="739535" ImageWidth="1200" />
+    <Page Image="76" ImageHeight="1675" ImageSize="693202" ImageWidth="1200" />
+    <Page Image="77" ImageHeight="1675" ImageSize="771113" ImageWidth="1200" />
+    <Page Image="78" ImageHeight="1675" ImageSize="672043" ImageWidth="1200" />
+    <Page Image="79" ImageHeight="1675" ImageSize="599277" ImageWidth="1200" />
+    <Page Image="80" ImageHeight="1675" ImageSize="658041" ImageWidth="1200" />
+    <Page Image="81" ImageHeight="1675" ImageSize="687941" ImageWidth="1200" />
+    <Page Image="82" ImageHeight="1675" ImageSize="671214" ImageWidth="1200" />
+    <Page Image="83" ImageHeight="1675" ImageSize="625929" ImageWidth="1200" />
+    <Page Image="84" ImageHeight="1675" ImageSize="704278" ImageWidth="1200" />
+    <Page Image="85" ImageHeight="1675" ImageSize="698422" ImageWidth="1200" />
+    <Page Image="86" ImageHeight="1675" ImageSize="732537" ImageWidth="1200" />
+    <Page Image="87" ImageHeight="1675" ImageSize="580953" ImageWidth="1200" />
+    <Page Image="88" ImageHeight="1677" ImageSize="392244" ImageWidth="1200" />
+    <Page Image="89" ImageSize="639292" />
+  </Pages>
+  <Penciller>Philippe Aymond</Penciller>
+  <Publisher>Cinebook</Publisher>
+  <ScanInformation>.</ScanInformation>
+  <Series>Lady S.</Series>
+  <Summary>Adopted daughter and principal collaborator of James Fitzroy, roving ambassador and special correspondent for the American Secretary of State in Europe, Susan is a clever, multilingual young woman, in full bloom and perfectly happy in the eyes of an attentive father. But this too-perfect happiness hides many faults, sorrows, and mysteries. Trapped by her past, Susan will have to play her most dangerous role in a life already rich with adventure as 'Lady S.,' high-class spy in a diplomatic environment where the stakes are higher than she could dare imagine!
+
+https://comicvine.gamespot.com/lady-s-1-heres-to-suzie/4000-169561/</Summary>
+  <Title>Here's to Suzie!</Title>
+  <Volume>2008</Volume>
+  <Web>https://comicvine.gamespot.com/lady-s-1-heres-to-suzie/4000-169561/</Web>
+  <Writer>Jean Van Hamme</Writer>
+  <Year>2008</Year>
+  <Genre>Crime,Adventure,Spy</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

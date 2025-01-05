@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cuda</Characters>
+	<Count>5</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-133361</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:18 [Issue ID 4000-133361] urn:comicvine:4000-133361</Notes>
+	<Number>3</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="332887" Type="FrontCover"/>
+		<Page Image="1" ImageSize="411992"/>
+		<Page Image="2" ImageSize="386976"/>
+		<Page Image="3" ImageSize="322761"/>
+		<Page Image="4" ImageSize="409758"/>
+		<Page Image="5" ImageSize="360187"/>
+		<Page Image="6" ImageSize="366794"/>
+		<Page Image="7" ImageSize="450258"/>
+		<Page Image="8" ImageSize="404903"/>
+		<Page Image="9" ImageSize="433241"/>
+		<Page Image="10" ImageSize="445742"/>
+		<Page Image="11" ImageSize="456063"/>
+		<Page Image="12" ImageSize="458819"/>
+		<Page Image="13" ImageSize="429972"/>
+		<Page Image="14" ImageSize="420474"/>
+		<Page Image="15" ImageSize="458927"/>
+		<Page Image="16" ImageSize="477678"/>
+		<Page Image="17" ImageSize="825218"/>
+		<Page Image="18" ImageSize="415122"/>
+		<Page Image="19" ImageSize="455488"/>
+		<Page Image="20" ImageSize="459119"/>
+		<Page Image="21" ImageSize="427064"/>
+		<Page Image="22" ImageSize="417033"/>
+		<Page Image="23" ImageSize="406689"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Cuda</Series>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/cuda-3/4000-133361/</Web>
+	<Year>2000</Year>
+</ComicInfo>

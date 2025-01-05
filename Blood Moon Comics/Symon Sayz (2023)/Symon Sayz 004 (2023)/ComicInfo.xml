@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>7</Count>
+	<Format>Limited Series</Format>
+	<Genre>Horror</Genre>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-18T02:48:08</Notes>
+	<Number>4</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3936" ImageSize="1392184" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3936" ImageSize="1339061"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3936" ImageSize="1064376"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3936" ImageSize="874866"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3936" ImageSize="1578990"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3936" ImageSize="1425791"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3936" ImageSize="1762969"/>
+		<Page DoublePage="True" Image="7" ImageWidth="5120" ImageHeight="3936" ImageSize="2663522"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3936" ImageSize="1374494"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3936" ImageSize="1531118"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3936" ImageSize="1417993"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3936" ImageSize="1239408"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3936" ImageSize="1252337"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3936" ImageSize="1276413"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3936" ImageSize="1095733"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3936" ImageSize="1253932"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3936" ImageSize="1321667"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3936" ImageSize="1175414"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3936" ImageSize="1299917"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3936" ImageSize="1276049"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3936" ImageSize="1577228"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3936" ImageSize="1102964"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3936" ImageSize="1066966"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3936" ImageSize="1180235"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3936" ImageSize="1462950"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3936" ImageSize="1220378"/>
+		<Page Image="26" ImageSize="1094972"/>
+	</Pages>
+	<Publisher>Blood Moon Comics</Publisher>
+	<Series>Symon Sayz</Series>
+	<Summary>When Kain finds out the demon Kali is alive and his servant has failed him, he sends an archangel to enact vengeance toward Symon and the Cardinal. At last we’re told what Kain is really doing.</Summary>
+	<Volume>2023</Volume>
+	<Writer>Jeff Meuth</Writer>
+	<Year>2023</Year>
+</ComicInfo>

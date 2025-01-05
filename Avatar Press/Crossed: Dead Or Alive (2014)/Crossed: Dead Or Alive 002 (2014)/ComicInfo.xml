@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Carl,Joe,Justin,Lauren,Luke,Richie,Tabitha</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Count>12</Count>
+	<Day>20</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-471064</GTIN>
+	<Inker>Daniel Gete</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>California</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:28:11 [Issue ID 4000-471064] urn:comicvine:4000-471064</Notes>
+	<Number>2</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="3975" ImageHeight="6113" ImageSize="8474259" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="3975" ImageHeight="6113" ImageSize="9285463"/>
+		<Page Image="2" ImageWidth="3975" ImageHeight="6113" ImageSize="8467751"/>
+		<Page Image="3" ImageWidth="3975" ImageHeight="6113" ImageSize="11055298"/>
+		<Page Image="4" ImageWidth="3975" ImageHeight="6113" ImageSize="9155808"/>
+		<Page Image="5" ImageWidth="3975" ImageHeight="6113" ImageSize="7467141"/>
+		<Page Image="6" ImageWidth="3975" ImageHeight="6113" ImageSize="7562954"/>
+		<Page Image="7" ImageWidth="3975" ImageHeight="6113" ImageSize="8143300"/>
+		<Page Image="8" ImageWidth="3975" ImageHeight="6113" ImageSize="10815200"/>
+		<Page Image="9" ImageWidth="3975" ImageHeight="6113" ImageSize="9617187"/>
+		<Page Image="10" ImageWidth="3975" ImageHeight="6113" ImageSize="9699514"/>
+		<Page Image="11" ImageWidth="3975" ImageHeight="6113" ImageSize="7370811"/>
+		<Page Image="12" ImageWidth="3975" ImageHeight="6113" ImageSize="8132633"/>
+		<Page Image="13" ImageWidth="3975" ImageHeight="6113" ImageSize="8758920"/>
+		<Page Image="14" ImageWidth="3975" ImageHeight="6113" ImageSize="7085057"/>
+		<Page Image="15" ImageWidth="3975" ImageHeight="6113" ImageSize="7446120"/>
+		<Page Image="16" ImageWidth="3975" ImageHeight="6113" ImageSize="7416657"/>
+		<Page Image="17" ImageWidth="3975" ImageHeight="6113" ImageSize="8963853"/>
+		<Page Image="18" ImageWidth="3975" ImageHeight="6113" ImageSize="8885664"/>
+		<Page Image="19" ImageWidth="3975" ImageHeight="6113" ImageSize="9090463"/>
+		<Page Image="20" ImageWidth="3975" ImageHeight="6113" ImageSize="8468903"/>
+		<Page Image="21" ImageWidth="3975" ImageHeight="6113" ImageSize="7903614"/>
+		<Page Image="22" ImageWidth="3975" ImageHeight="6113" ImageSize="8122085"/>
+		<Page Image="23" ImageWidth="3975" ImageHeight="6113" ImageSize="10201001"/>
+		<Page Image="24" ImageWidth="3975" ImageHeight="6113" ImageSize="9599439"/>
+		<Page Image="25" ImageSize="6707577"/>
+	</Pages>
+	<Penciller>Daniel Gete</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital)</ScanInformation>
+	<Series>Crossed: Dead Or Alive</Series>
+	<Teams>The Crossed</Teams>
+	<Title>Part 2</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-dead-or-alive-2-part-2/4000-471064/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2014</Year>
+</ComicInfo>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>3</Count>
+	<CoverArtist>Alex Cormack</CoverArtist>
+	<Day>19</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-677417</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Alex Cormack</Inker>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-24T01:45:52 [Issue ID 4000-677417] urn:comicvine:4000-677417</Notes>
+	<Number>2</Number>
+	<PageCount>48</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3912" ImageSize="1767009" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3912" ImageSize="725307"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3912" ImageSize="658913"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3912" ImageSize="656100"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3912" ImageSize="984364"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3912" ImageSize="810314"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3912" ImageSize="870794"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3912" ImageSize="1000130"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3912" ImageSize="1161759"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3912" ImageSize="1207657"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3912" ImageSize="826927"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3912" ImageSize="1054047"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3912" ImageSize="992880"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3912" ImageSize="1308339"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3912" ImageSize="930313"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3912" ImageSize="1190321"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3912" ImageSize="1069664"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3912" ImageSize="989377"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3912" ImageSize="1251489"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3912" ImageSize="1499004"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3912" ImageSize="1809090"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3912" ImageSize="1131258"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3912" ImageSize="1485204"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3912" ImageSize="1946852"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3912" ImageSize="1248193"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3912" ImageSize="1532792"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3912" ImageSize="1214826"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3912" ImageSize="1511291"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3912" ImageSize="1336430"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3912" ImageSize="1155660"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3912" ImageSize="1525711"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3912" ImageSize="1853320"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3912" ImageSize="1543258"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3912" ImageSize="1596353"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3912" ImageSize="1341997"/>
+		<Page DoublePage="False" Image="35" ImageWidth="2560" ImageHeight="3912" ImageSize="1756470"/>
+		<Page DoublePage="False" Image="36" ImageWidth="2560" ImageHeight="3912" ImageSize="1644493"/>
+		<Page DoublePage="False" Image="37" ImageWidth="2560" ImageHeight="3912" ImageSize="1695107"/>
+		<Page DoublePage="False" Image="38" ImageWidth="2560" ImageHeight="3912" ImageSize="1503459"/>
+		<Page DoublePage="False" Image="39" ImageWidth="2560" ImageHeight="3912" ImageSize="1431785"/>
+		<Page DoublePage="False" Image="40" ImageWidth="2560" ImageHeight="3912" ImageSize="964275"/>
+		<Page DoublePage="False" Image="41" ImageWidth="2560" ImageHeight="3912" ImageSize="1314823"/>
+		<Page DoublePage="False" Image="42" ImageWidth="2560" ImageHeight="3912" ImageSize="1246537"/>
+		<Page DoublePage="False" Image="43" ImageWidth="2560" ImageHeight="3912" ImageSize="1224649"/>
+		<Page DoublePage="False" Image="44" ImageWidth="2560" ImageHeight="3912" ImageSize="1164805"/>
+		<Page DoublePage="False" Image="45" ImageWidth="2560" ImageHeight="3912" ImageSize="1453076"/>
+		<Page DoublePage="False" Image="46" ImageWidth="2560" ImageHeight="3912" ImageSize="664946"/>
+		<Page Image="47" ImageSize="1685934"/>
+	</Pages>
+	<Penciller>Alex Cormack</Penciller>
+	<Publisher>Bliss on Tap Publishing</Publisher>
+	<Series>Train 8: The Zombie Express</Series>
+	<Summary>Train 8 speeds through the wilds of northern Idaho, barreling through its scheduled stops. Confused and panicked, a group of surviving passengers have barricaded themselves into the last Observation Car. Unable to contact the Engine cab, the Train Conductor plans to lead a volunteer group to the front of the Train. If they can stop the Train, they will survive this nightmare ...or so they think.</Summary>
+	<Teams>Zombies</Teams>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/train-8-the-zombie-express-2/4000-677417/</Web>
+	<Writer>Brian Phillipson,David Stephan</Writer>
+	<Year>2018</Year>
+</ComicInfo>

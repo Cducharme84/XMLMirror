@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>8</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-904055</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:23:33 [Issue ID 4000-904055] urn:comicvine:4000-904055 urn:grandcomicsdatabase:issue/904055
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 05:47:17. [Issue ID 904055]</Notes>
+  <Number>2</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="261749" Type="FrontCover" />
+    <Page Image="1" ImageSize="356658" />
+    <Page Image="2" ImageSize="432980" />
+    <Page Image="3" ImageSize="215297" />
+    <Page Image="4" ImageSize="413643" />
+    <Page Image="5" ImageSize="393739" />
+    <Page Image="6" ImageSize="511902" />
+    <Page Image="7" ImageSize="578831" />
+    <Page Image="8" ImageSize="595344" />
+    <Page Image="9" ImageSize="603381" />
+    <Page Image="10" ImageSize="545358" />
+    <Page Image="11" ImageSize="529220" />
+    <Page Image="12" ImageSize="566171" />
+    <Page Image="13" ImageSize="558548" />
+    <Page Image="14" ImageSize="607584" />
+    <Page Image="15" ImageSize="610702" />
+    <Page Image="16" ImageSize="514588" />
+    <Page Image="17" ImageSize="560960" />
+    <Page Image="18" ImageSize="772051" />
+    <Page Image="19" ImageSize="636788" />
+    <Page Image="20" ImageSize="624415" />
+    <Page Image="21" ImageSize="599777" />
+    <Page Image="22" ImageSize="572402" />
+    <Page Image="23" ImageSize="520102" />
+    <Page Image="24" ImageSize="525554" />
+    <Page Image="25" ImageSize="642874" />
+    <Page Image="26" ImageSize="544314" />
+    <Page Image="27" ImageSize="167209" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Valen the Outcast</Series>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-904055/</Web>
+  <Year>2012</Year>
+</ComicInfo>

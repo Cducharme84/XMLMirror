@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Donatello,Michelangelo,Casey Jones,Leonardo,April O'Neil</Characters>
+  <Count>32</Count>
+  <GTIN>urn:comicvine:4000-159142</GTIN>
+  <Inker>Eric Talbot</Inker>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:54:10 [Issue ID 4000-159142] urn:comicvine:4000-159142
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 14:04:43. [Issue ID 305312]</Notes>
+  <Number>12</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="92745" Type="FrontCover" />
+    <Page Image="1" ImageSize="417171" />
+    <Page Image="2" ImageSize="259888" />
+    <Page Image="3" ImageSize="535999" />
+    <Page Image="4" ImageSize="443628" />
+    <Page Image="5" ImageSize="281111" />
+    <Page Image="6" ImageSize="328407" />
+    <Page Image="7" ImageSize="383407" />
+    <Page Image="8" ImageSize="488078" />
+    <Page Image="9" ImageSize="465954" />
+    <Page Image="10" ImageSize="509338" />
+    <Page Image="11" ImageSize="491809" />
+    <Page Image="12" ImageSize="409333" />
+    <Page Image="13" ImageSize="533715" />
+    <Page Image="14" ImageSize="469681" />
+    <Page Image="15" ImageSize="376642" />
+    <Page Image="16" ImageSize="404879" />
+    <Page Image="17" ImageSize="420050" />
+    <Page Image="18" ImageSize="357272" />
+    <Page Image="19" ImageSize="388290" />
+    <Page Image="20" ImageSize="459241" />
+    <Page Image="21" ImageSize="438427" />
+    <Page Image="22" ImageSize="314101" />
+    <Page Image="23" ImageSize="540826" />
+    <Page Image="24" ImageSize="503842" />
+    <Page Image="25" ImageSize="442938" />
+    <Page Image="26" ImageSize="441003" />
+    <Page Image="27" ImageSize="529347" />
+    <Page Image="28" ImageSize="415825" />
+    <Page Image="29" ImageSize="472800" />
+    <Page Image="30" ImageSize="394356" />
+    <Page Image="31" ImageSize="414274" />
+    <Page Image="32" ImageSize="392076" />
+    <Page Image="33" ImageSize="406719" />
+    <Page Image="34" ImageSize="392403" />
+    <Page Image="35" ImageSize="158521" />
+  </Pages>
+  <Publisher>Mirage</Publisher>
+  <Series>TMNT: Teenage Mutant Ninja Turtles</Series>
+  <Summary>April searches through old boxes in the attic, trying to discover any clues to her true past. Donatello is invited by the Utroms to join them on an investigation of the deadly dinosaurs. Raphael gets into hot water when he encounters a group of vampires.</Summary>
+  <Teams>Utroms,Teenage Mutant Ninja Turtles</Teams>
+  <Volume>2001</Volume>
+  <Web>https://comicvine.gamespot.com/tmnt-teenage-mutant-ninja-turtles-12/4000-159142/</Web>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+  <ScanInformation>teenage mutant ninja turtles</ScanInformation>
+</ComicInfo>

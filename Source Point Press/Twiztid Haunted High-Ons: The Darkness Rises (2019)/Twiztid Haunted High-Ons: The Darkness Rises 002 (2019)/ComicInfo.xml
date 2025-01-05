@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Jamie Madrox,Monoxide</Characters>
+	<Count>5</Count>
+	<CoverArtist>Marianna Pescosta</CoverArtist>
+	<Day>29</Day>
+	<GTIN>urn:comicvine:4000-710092</GTIN>
+	<Genre>Action,Licensed</Genre>
+	<Inker>Marianna Pescosta</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-06T00:13:34 [Issue ID 4000-710092] urn:comicvine:4000-710092</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3982" ImageSize="790114" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3982" ImageSize="823005"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3982" ImageSize="1552049"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3982" ImageSize="1736090"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3982" ImageSize="1893897"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3982" ImageSize="2010712"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3982" ImageSize="2204816"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3982" ImageSize="1967565"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3982" ImageSize="2665622"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3982" ImageSize="2470143"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3982" ImageSize="2385821"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3982" ImageSize="2037867"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3982" ImageSize="2548458"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3982" ImageSize="2439499"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3982" ImageSize="2345591"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3982" ImageSize="2324037"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3982" ImageSize="1506357"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3982" ImageSize="2273946"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3982" ImageSize="2216337"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3982" ImageSize="1605735"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3982" ImageSize="2351067"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3982" ImageSize="2015037"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3982" ImageSize="1953896"/>
+		<Page Image="23" ImageSize="1373363"/>
+	</Pages>
+	<Penciller>Marianna Pescosta</Penciller>
+	<Publisher>Source Point Press</Publisher>
+	<Series>Twiztid Haunted High-Ons: The Darkness Rises</Series>
+	<Summary>Upon learning the scope and power of "The Darkness" from Dr. Fallenlegna, unlikely heroes Madrox, Monoxide and Felicia find themselves at odds with each other about how to proceed. Should they follow the Doctor's orders, or is there a greater evil manipulating them all from the shadows?</Summary>
+	<Teams>Twiztid</Teams>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/twiztid-haunted-high-ons-the-darkness-rises-2/4000-710092/</Web>
+	<Writer>Dirk Manning,Twiztid</Writer>
+	<Year>2019</Year>
+</ComicInfo>

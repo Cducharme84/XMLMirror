@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Purgatori,Lilith,Vampirella</Characters>
+  <Colorist>Salvatore Aiala</Colorist>
+  <Day>28</Day>
+  <Editor>Matt Idelson</Editor>
+  <GTIN>urn:asin:B08TFXYD45</GTIN>
+  <Genre>Action/Adventure,Horror</Genre>
+  <Inker>Alvaro Sarraseca</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Tom Napolitano</Letterer>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:46:30 [Issue ID 4000-845939] urn:asin:B08TFXYD45 urn:comicvine:4000-845939 urn:comixology:915776
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 10:03:37. [Issue ID 2219062]</Notes>
+  <Number>2</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="895688" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="1281283" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1232808" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1018656" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1213720" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1408890" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1250445" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1774665" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1493087" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="1537256" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1637683" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1563337" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1497755" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1338432" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1422811" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1967344" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1130112" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1782925" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1811709" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="1755988" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="1505951" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1851086" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1836639" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1681709" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1554072" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1248846" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1183149" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1529759" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1542094" ImageWidth="1988" />
+    <Page Image="29" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Alvaro Sarraseca</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <ScanInformation>.</ScanInformation>
+  <Series>Vampirella versus Purgatori</Series>
+  <Summary>So yeah. Vampirella and Purgatori. Vampi, the Vampiri with a conscience and Tori, the lady-shaped creature who eats conscience. Working together? Not really. Working towards a common goal, while considering tearing each other’s throats out, more like! And that common goal is to stop Lilith and her near-infinite minions from having their rough, rude way with the entire human race. The stakes are big enough… and sharp enough. Everybody’s in… it’s time to ante up.
+
+*List of covers and their creators:*
+ Cover | Name                                                                     | Creator(s)                                            | Sidebar Location |
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ A     | Cover A                                                                  | Derrick Chew                                          | 1                |
+ B     | Cover B                                                                  | Carlo Pagulayan (a), Jason Paz (i) &amp; Elmer Santos (c) | 2                |
+ C     | Cover C                                                                  | Russell Fox (a) &amp; Robert Nugent (c)                   | 3                |
+ D     | Cover D                                                                  | Szymon Kudranski                                      | 4                |
+ E     | Cover E                                                                  | Madibek Musabekov                                     | 5                |
+ F/RI  | 1:10 Retailer Incentive "Virgin Art" Edition Variant Cover               | Carlo Pagulayan (a), Jason Paz (i) &amp; Elmer Santos (c) | 6                |
+ G/RI  | 1:20 Retailer Incentive "Virgin Art" Edition Variant Cover               | Russell Fox (a) &amp; Robert Nugent (c)                   | 7                |
+ H/RI  | 1:30 Retailer Incentive "Black &amp; White Art" Edition Variant Cover        | Derrick Chew                                          | 8                |
+ I/RI  | 1:40 Retailer Incentive "Black &amp; White Virgin Art" Edition Variant Cover | Madibek Musabekov                                     | 9                |
+ J/LE  | Limited Edition "Virgin Art" Edition Variant Cover                       | Derrick Chew                                          | 10               |
+ K/LE  | Limited Edition "Virgin Art" Edition Variant Cover                       | Madibek Musabekov                                     | 11               |
+ L/FOC | Premium FOC Edition Variant Cover                                        | Alvaro Sarraseca (a) &amp; Salvatore Aiala (c)            | 12               |
+ M/FOC | Premium FOC Edition Variant Cover                                        | Daniel Maine                                          | 13               |
+ N/FOC | Bonus FOC "Virgin Art" Edition Variant Cover                             | Alvaro Sarraseca (a) &amp; Salvatore Aiala (c)            | 14               |
+ O/FOC | Bonus FOC "Virgin Art" Edition Variant Cover                             | Daniel Maine                                          | 15               |
+ P/FOC | 1:7 Bonus FOC "Virgin Art" Edition Variant Cover                         | Szymon Kudranski                                      | 16               |
+ Q/FOC | 1:11 Bonus FOC "Black &amp; White Virgin Art" Edition Variant Cover          | Russell Fox                                           | 17               |
+ R/FOC | 1:15 Bonus FOC "Black &amp; White Virgin Art" Edition Variant Cover          | Carlo Pagulayan                                       | 18               |
+ S/RE  | Unknown Comics Exclusive Variant Cover (Virgin)                          | Kael Ngu                                              | 19               |
+ T/RE  | Comic Kingdom of Canada Exclusive Variant Cover (Virgin)                 | Jay Ferguson                                          | 20               |
+ U/RE  | B&amp;S Comics Exclusive Variant Cover (Virgin)                              | William Russell (a) &amp; Robert Nugent (c)               | 21               |
+ V/RE  | The 616 Comics/Comic Connection Exclusive Variant Cover (Virgin)         | Paolo Pantalena                                       | 22               |
+
+
+https://comicvine.gamespot.com/vampirella-versus-purgatori-2-chapter-two/4000-845939/</Summary>
+  <Tags>Purgatori,Lilith,Vampirella</Tags>
+  <Title>Chapter Two</Title>
+  <Volume>2021</Volume>
+  <Web>https://comicvine.gamespot.com/vampirella-versus-purgatori-2-chapter-two/4000-845939/</Web>
+  <Writer>Ray Fawkes</Writer>
+  <Year>2021</Year>
+  <Count>5</Count>
+  <Format>Miniseries</Format>
+  <AgeRating>Teen+</AgeRating>
+</ComicInfo>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Characters>Alexander Livingston,Dr. Victor Brooks</Characters>
+	<Count>7</Count>
+	<CoverArtist>Leandro Rizzo</CoverArtist>
+	<Day>31</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-654613</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Leandro Rizzo</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Travis Lanham</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-30T19:20:31 [Issue ID 4000-654613] urn:comicvine:4000-654613</Notes>
+	<Number>5</Number>
+	<PageCount>41</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="38565" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="2921577"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="248398"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="625295"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="218058"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="1737181"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="2245506"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="1756331"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="2133142"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="2015798"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="1835291"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="1769979"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="1735648"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="2109784"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="1902660"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="2107856"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="2021435"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="2021435"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="1854081"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1854081"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="1733234"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="1616782"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="1774263"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="2070598"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="1435447"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3840" ImageSize="1892185"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3840" ImageSize="2008216"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3840" ImageSize="1755842"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3840" ImageSize="1556387"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3840" ImageSize="1674895"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3840" ImageSize="1640098"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3840" ImageSize="1630529"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3840" ImageSize="1247392"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3840" ImageSize="1424520"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3840" ImageSize="1558155"/>
+		<Page DoublePage="False" Image="35" ImageWidth="2560" ImageHeight="3840" ImageSize="1576742"/>
+		<Page DoublePage="False" Image="36" ImageWidth="2560" ImageHeight="3840" ImageSize="1814073"/>
+		<Page DoublePage="False" Image="37" ImageWidth="2560" ImageHeight="3840" ImageSize="321641"/>
+		<Page DoublePage="False" Image="38" ImageWidth="2560" ImageHeight="3840" ImageSize="1434353"/>
+		<Page DoublePage="False" Image="39" ImageWidth="2560" ImageHeight="3840" ImageSize="1394495"/>
+		<Page Image="40" ImageSize="1688059"/>
+	</Pages>
+	<Penciller>Leandro Rizzo</Penciller>
+	<Publisher>Critical Entertainment</Publisher>
+	<Series>Zombie Zero</Series>
+	<Summary>Grave Digger
+
+Alexander Livingston and Joan join forces with Dr. Victor Brooks as they approach Alex's home and return to his family.</Summary>
+	<Teams>Zombies</Teams>
+	<Title>Grave Digger</Title>
+	<Volume>2016</Volume>
+	<Web>https://comicvine.gamespot.com/zombie-zero-5-grave-digger/4000-654613/</Web>
+	<Writer>Christopher Lee Reda</Writer>
+	<Year>2018</Year>
+</ComicInfo>

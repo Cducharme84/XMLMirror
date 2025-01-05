@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Tvarus,Cai Von Bach,Obsidia,Caprice,Archbishop Vittorio,Wolfram Von Bach,Henry Heinemann,Lady Death</Characters>
+  <Count>8</Count>
+  <Day>1</Day>
+  <Editor>Barbara Randall Kesel,William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-742902</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:04 [Issue ID 4000-742902] urn:comicvine:4000-742902 urn:grandcomicsdatabase:issue/742902
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:41:14. [Issue ID 742902]</Notes>
+  <Number>3</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="356078" Type="FrontCover" />
+    <Page Image="1" ImageSize="293913" />
+    <Page Image="2" ImageSize="340426" />
+    <Page Image="3" ImageSize="374943" />
+    <Page Image="4" ImageSize="318227" />
+    <Page Image="5" ImageSize="362496" />
+    <Page Image="6" ImageSize="342604" />
+    <Page Image="7" ImageSize="370231" />
+    <Page Image="8" ImageSize="329125" />
+    <Page Image="9" ImageSize="437565" />
+    <Page Image="10" ImageSize="363555" />
+    <Page Image="11" ImageSize="382996" />
+    <Page Image="12" ImageSize="317553" />
+    <Page Image="13" ImageSize="340243" />
+    <Page Image="14" ImageSize="357101" />
+    <Page Image="15" ImageSize="648717" />
+    <Page Image="16" ImageSize="337014" />
+    <Page Image="17" ImageSize="357662" />
+    <Page Image="18" ImageSize="326117" />
+    <Page Image="19" ImageSize="356112" />
+    <Page Image="20" ImageSize="723853" />
+    <Page Image="21" ImageSize="334562" />
+    <Page Image="22" ImageSize="403956" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Brian Pulido's Medieval Lady Death</Series>
+  <Volume>2005</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-742902/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2005</Year>
+</ComicInfo>

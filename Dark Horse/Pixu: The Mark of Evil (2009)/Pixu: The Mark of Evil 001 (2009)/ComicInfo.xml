@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Day>1</Day>
+  <Editor>Sierra Hahn</Editor>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-163277</GTIN>
+  <Inker>Becky Cloonan,Fábio Moon,Gabriel Bá,Vasilis Lolos</Inker>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:48:52 [Issue ID 4000-163277] urn:comicvine:4000-163277
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 22:26:38. [Issue ID 715271]</Notes>
+  <Number>1</Number>
+  <PageCount>117</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1968" ImageSize="759189" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1920" ImageSize="257887" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1500" ImageSize="696808" ImageWidth="2000" />
+    <Page Image="3" ImageHeight="1920" ImageSize="275591" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1920" ImageSize="335280" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1920" ImageSize="259365" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1920" ImageSize="381962" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1920" ImageSize="441428" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1920" ImageSize="362125" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1920" ImageSize="419508" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1920" ImageSize="671519" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1920" ImageSize="629081" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1920" ImageSize="601479" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1920" ImageSize="651423" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1920" ImageSize="563131" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1920" ImageSize="457632" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1920" ImageSize="335720" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1920" ImageSize="344527" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1920" ImageSize="636994" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1920" ImageSize="673830" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1920" ImageSize="677691" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1920" ImageSize="739427" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1920" ImageSize="782418" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1920" ImageSize="601931" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1920" ImageSize="607756" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1920" ImageSize="712294" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1920" ImageSize="549890" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1920" ImageSize="529022" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1920" ImageSize="631898" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1920" ImageSize="668401" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1920" ImageSize="707974" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1920" ImageSize="672068" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1920" ImageSize="610915" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1920" ImageSize="717185" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1920" ImageSize="691760" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1920" ImageSize="586802" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="1920" ImageSize="681558" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1920" ImageSize="442601" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1920" ImageSize="497437" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1920" ImageSize="234712" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1920" ImageSize="481214" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1920" ImageSize="400001" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1920" ImageSize="692860" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1920" ImageSize="793426" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1920" ImageSize="524836" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1920" ImageSize="530575" ImageWidth="1280" />
+    <Page Image="46" ImageHeight="1920" ImageSize="593645" ImageWidth="1280" />
+    <Page Image="47" ImageHeight="1920" ImageSize="524259" ImageWidth="1280" />
+    <Page Image="48" ImageHeight="1920" ImageSize="486870" ImageWidth="1280" />
+    <Page Image="49" ImageHeight="1500" ImageSize="637323" ImageWidth="2000" />
+    <Page Image="50" ImageHeight="1920" ImageSize="283175" ImageWidth="1280" />
+    <Page Image="51" ImageHeight="1920" ImageSize="548796" ImageWidth="1280" />
+    <Page Image="52" ImageHeight="1920" ImageSize="403114" ImageWidth="1280" />
+    <Page Image="53" ImageHeight="1920" ImageSize="497316" ImageWidth="1280" />
+    <Page Image="54" ImageHeight="1920" ImageSize="341230" ImageWidth="1280" />
+    <Page Image="55" ImageHeight="1920" ImageSize="705626" ImageWidth="1280" />
+    <Page Image="56" ImageHeight="1920" ImageSize="567885" ImageWidth="1280" />
+    <Page Image="57" ImageHeight="1920" ImageSize="827752" ImageWidth="1280" />
+    <Page Image="58" ImageHeight="1920" ImageSize="615236" ImageWidth="1280" />
+    <Page Image="59" ImageHeight="1920" ImageSize="541502" ImageWidth="1280" />
+    <Page Image="60" ImageHeight="1920" ImageSize="961234" ImageWidth="1280" />
+    <Page Image="61" ImageHeight="1920" ImageSize="735204" ImageWidth="1280" />
+    <Page Image="62" ImageHeight="1920" ImageSize="676177" ImageWidth="1280" />
+    <Page Image="63" ImageHeight="1920" ImageSize="641042" ImageWidth="1280" />
+    <Page Image="64" ImageHeight="1920" ImageSize="673907" ImageWidth="1280" />
+    <Page Image="65" ImageHeight="1920" ImageSize="689949" ImageWidth="1280" />
+    <Page Image="66" ImageHeight="1920" ImageSize="608810" ImageWidth="1280" />
+    <Page Image="67" ImageHeight="1920" ImageSize="679122" ImageWidth="1280" />
+    <Page Image="68" ImageHeight="1920" ImageSize="547391" ImageWidth="1280" />
+    <Page Image="69" ImageHeight="1920" ImageSize="470395" ImageWidth="1280" />
+    <Page Image="70" ImageHeight="1920" ImageSize="521698" ImageWidth="1280" />
+    <Page Image="71" ImageHeight="1920" ImageSize="523342" ImageWidth="1280" />
+    <Page Image="72" ImageHeight="1920" ImageSize="315773" ImageWidth="1280" />
+    <Page Image="73" ImageHeight="1920" ImageSize="657166" ImageWidth="1280" />
+    <Page Image="74" ImageHeight="1920" ImageSize="733998" ImageWidth="1280" />
+    <Page Image="75" ImageHeight="1920" ImageSize="950774" ImageWidth="1280" />
+    <Page Image="76" ImageHeight="1920" ImageSize="776780" ImageWidth="1280" />
+    <Page Image="77" ImageHeight="1920" ImageSize="646935" ImageWidth="1280" />
+    <Page Image="78" ImageHeight="1920" ImageSize="569845" ImageWidth="1280" />
+    <Page Image="79" ImageHeight="1920" ImageSize="708497" ImageWidth="1280" />
+    <Page Image="80" ImageHeight="1920" ImageSize="694472" ImageWidth="1280" />
+    <Page Image="81" ImageHeight="1920" ImageSize="646657" ImageWidth="1280" />
+    <Page Image="82" ImageHeight="1920" ImageSize="558885" ImageWidth="1280" />
+    <Page Image="83" ImageHeight="1920" ImageSize="755897" ImageWidth="1280" />
+    <Page Image="84" ImageHeight="1920" ImageSize="754611" ImageWidth="1280" />
+    <Page Image="85" ImageHeight="1920" ImageSize="465331" ImageWidth="1280" />
+    <Page Image="86" ImageHeight="1920" ImageSize="615033" ImageWidth="1280" />
+    <Page Image="87" ImageHeight="1920" ImageSize="590168" ImageWidth="1280" />
+    <Page Image="88" ImageHeight="1920" ImageSize="521591" ImageWidth="1280" />
+    <Page Image="89" ImageHeight="1920" ImageSize="403639" ImageWidth="1280" />
+    <Page Image="90" ImageHeight="1920" ImageSize="573895" ImageWidth="1280" />
+    <Page Image="91" ImageHeight="1920" ImageSize="471906" ImageWidth="1280" />
+    <Page Image="92" ImageHeight="1920" ImageSize="659570" ImageWidth="1280" />
+    <Page Image="93" ImageHeight="1920" ImageSize="719406" ImageWidth="1280" />
+    <Page Image="94" ImageHeight="1920" ImageSize="756649" ImageWidth="1280" />
+    <Page Image="95" ImageHeight="1920" ImageSize="502598" ImageWidth="1280" />
+    <Page Image="96" ImageHeight="1920" ImageSize="429652" ImageWidth="1280" />
+    <Page Image="97" ImageHeight="1920" ImageSize="598438" ImageWidth="1280" />
+    <Page Image="98" ImageHeight="1920" ImageSize="860310" ImageWidth="1280" />
+    <Page Image="99" ImageHeight="1920" ImageSize="738343" ImageWidth="1280" />
+    <Page Image="100" ImageHeight="1920" ImageSize="622286" ImageWidth="1280" />
+    <Page Image="101" ImageHeight="1920" ImageSize="667044" ImageWidth="1280" />
+    <Page Image="102" ImageHeight="1920" ImageSize="715313" ImageWidth="1280" />
+    <Page Image="103" ImageHeight="1920" ImageSize="598251" ImageWidth="1280" />
+    <Page Image="104" ImageHeight="1920" ImageSize="460838" ImageWidth="1280" />
+    <Page Image="105" ImageHeight="1920" ImageSize="550394" ImageWidth="1280" />
+    <Page Image="106" ImageHeight="1920" ImageSize="765840" ImageWidth="1280" />
+    <Page Image="107" ImageHeight="1920" ImageSize="696612" ImageWidth="1280" />
+    <Page Image="108" ImageHeight="1920" ImageSize="522030" ImageWidth="1280" />
+    <Page Image="109" ImageHeight="1920" ImageSize="512183" ImageWidth="1280" />
+    <Page Image="110" ImageHeight="1500" ImageSize="280356" ImageWidth="2000" />
+    <Page Image="111" ImageHeight="1500" ImageSize="509082" ImageWidth="2000" />
+    <Page Image="112" ImageHeight="1920" ImageSize="521256" ImageWidth="1280" />
+    <Page Image="113" ImageHeight="1920" ImageSize="593980" ImageWidth="1280" />
+    <Page Image="114" ImageHeight="1920" ImageSize="624612" ImageWidth="1280" />
+    <Page Image="115" ImageHeight="1968" ImageSize="519086" ImageWidth="1280" />
+    <Page Image="116" ImageSize="167595" />
+  </Pages>
+  <Penciller>Becky Cloonan,Fábio Moon,Gabriel Bá,Vasilis Lolos</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <ScanInformation>(Digital) (G85-Empire)</ScanInformation>
+  <Series>Pixu: The Mark of Evil</Series>
+  <Summary>This gripping tale of urban horror follows the lives of five lonely tenants-strangers-whose lives become intertwined when they discover a dark mark scrawled on the walls of their building. The horror sprouts quite innocently from a small seed and finds life as something otherworldly, damaged, full of love, hate, fear, and power. As the walls come alive, everyone is slowly driven mad-defenseless against the evil in the building, stripped of free will, leaving only confusion, chaos, and eventual death. Originally self-published as a two-volume book, this groundbreaking work receives a deluxe presentation in a hardcover edition with a sketchbook section.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-07-23 00:28:10.  [CVDB163277]
+
+https://comicvine.gamespot.com/pixu-the-mark-of-evil-1-volume-1/4000-163277/</Summary>
+  <Title>Volume 1</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/pixu-the-mark-of-evil-1-volume-1/4000-163277/</Web>
+  <Writer>Becky Cloonan,Fábio Moon,Gabriel Bá,Vasilis Lolos</Writer>
+  <Year>2009</Year>
+  <Count>1</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

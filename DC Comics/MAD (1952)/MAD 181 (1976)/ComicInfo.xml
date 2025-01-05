@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Alfred E. Neuman,Black Spy,George Washington,Kublai Khan,Paul Revere,Roger Kaputnik,Smokey the Bear,White Spy</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-74367</GTIN>
+	<Inker>Antonio Prohias</Inker>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:18:59 [Issue ID 4000-74367] urn:comicvine:4000-74367</Notes>
+	<Number>181</Number>
+	<PageCount>53</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1235" ImageHeight="1612" ImageSize="136977" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1235" ImageHeight="1612" ImageSize="187687"/>
+		<Page Image="2" ImageWidth="1235" ImageHeight="1612" ImageSize="150717"/>
+		<Page Image="3" ImageWidth="1235" ImageHeight="1612" ImageSize="164501"/>
+		<Page Image="4" ImageWidth="1235" ImageHeight="1612" ImageSize="167093"/>
+		<Page Image="5" ImageWidth="1235" ImageHeight="1612" ImageSize="186657"/>
+		<Page Image="6" ImageWidth="1235" ImageHeight="1612" ImageSize="230677"/>
+		<Page Image="7" ImageWidth="1235" ImageHeight="1612" ImageSize="184824"/>
+		<Page Image="8" ImageWidth="1235" ImageHeight="1612" ImageSize="266419"/>
+		<Page Image="9" ImageWidth="1235" ImageHeight="1612" ImageSize="268695"/>
+		<Page Image="10" ImageWidth="1235" ImageHeight="1612" ImageSize="270960"/>
+		<Page Image="11" ImageWidth="1235" ImageHeight="1612" ImageSize="276581"/>
+		<Page Image="12" ImageWidth="1235" ImageHeight="1612" ImageSize="285370"/>
+		<Page Image="13" ImageWidth="1235" ImageHeight="1612" ImageSize="187506"/>
+		<Page Image="14" ImageWidth="1235" ImageHeight="1612" ImageSize="238052"/>
+		<Page Image="15" ImageWidth="1235" ImageHeight="1612" ImageSize="204264"/>
+		<Page Image="16" ImageWidth="1235" ImageHeight="1612" ImageSize="130250"/>
+		<Page Image="17" ImageWidth="1235" ImageHeight="1612" ImageSize="224400"/>
+		<Page Image="18" ImageWidth="1235" ImageHeight="1612" ImageSize="230391"/>
+		<Page Image="19" ImageWidth="1235" ImageHeight="1612" ImageSize="249969"/>
+		<Page Image="20" ImageWidth="1235" ImageHeight="1612" ImageSize="245348"/>
+		<Page Image="21" ImageWidth="1235" ImageHeight="1612" ImageSize="247987"/>
+		<Page Image="22" ImageWidth="1235" ImageHeight="1612" ImageSize="179442"/>
+		<Page Image="23" ImageWidth="1235" ImageHeight="1612" ImageSize="165245"/>
+		<Page Image="24" ImageWidth="1235" ImageHeight="1612" ImageSize="222125"/>
+		<Page Image="25" ImageWidth="1235" ImageHeight="1612" ImageSize="171398"/>
+		<Page Image="26" ImageWidth="1235" ImageHeight="1612" ImageSize="168077"/>
+		<Page Image="27" ImageWidth="1235" ImageHeight="1612" ImageSize="157875"/>
+		<Page Image="28" ImageWidth="1235" ImageHeight="1612" ImageSize="165187"/>
+		<Page Image="29" ImageWidth="1235" ImageHeight="1612" ImageSize="165480"/>
+		<Page Image="30" ImageWidth="1235" ImageHeight="1612" ImageSize="275983"/>
+		<Page Image="31" ImageWidth="1235" ImageHeight="1612" ImageSize="200948"/>
+		<Page Image="32" ImageWidth="1235" ImageHeight="1612" ImageSize="185101"/>
+		<Page Image="33" ImageWidth="1235" ImageHeight="1612" ImageSize="241778"/>
+		<Page Image="34" ImageWidth="1235" ImageHeight="1612" ImageSize="175112"/>
+		<Page Image="35" ImageWidth="1235" ImageHeight="1612" ImageSize="153895"/>
+		<Page Image="36" ImageWidth="1235" ImageHeight="1612" ImageSize="157485"/>
+		<Page Image="37" ImageWidth="1235" ImageHeight="1612" ImageSize="158724"/>
+		<Page Image="38" ImageWidth="1235" ImageHeight="1612" ImageSize="150761"/>
+		<Page Image="39" ImageWidth="1235" ImageHeight="1612" ImageSize="174140"/>
+		<Page Image="40" ImageWidth="1235" ImageHeight="1612" ImageSize="188121"/>
+		<Page Image="41" ImageWidth="1235" ImageHeight="1612" ImageSize="260062"/>
+		<Page Image="42" ImageWidth="1235" ImageHeight="1612" ImageSize="266428"/>
+		<Page Image="43" ImageWidth="1235" ImageHeight="1612" ImageSize="215561"/>
+		<Page Image="44" ImageWidth="1235" ImageHeight="1612" ImageSize="147938"/>
+		<Page Image="45" ImageWidth="1235" ImageHeight="1612" ImageSize="253569"/>
+		<Page Image="46" ImageWidth="1235" ImageHeight="1612" ImageSize="254464"/>
+		<Page Image="47" ImageWidth="1235" ImageHeight="1612" ImageSize="264817"/>
+		<Page Image="48" ImageWidth="1235" ImageHeight="1612" ImageSize="303508"/>
+		<Page Image="49" ImageWidth="1235" ImageHeight="1612" ImageSize="149870"/>
+		<Page Image="50" ImageWidth="1235" ImageHeight="1612" ImageSize="249262"/>
+		<Page Image="51" ImageWidth="621" ImageHeight="1615" ImageSize="113562"/>
+		<Page Image="52" ImageSize="117376"/>
+	</Pages>
+	<Penciller>Antonio Prohias</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>MAD</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-11 23:00:32.  [Issue ID 74367]
+
+https://comicvine.gamespot.com/mad-181/4000-74367/</Summary>
+	<Tags>Alfred E. Neuman,Black Spy,George Washington,Kublai Khan,Paul Revere,Roger Kaputnik,Smokey the Bear,White Spy</Tags>
+	<Volume>1952</Volume>
+	<Web>https://comicvine.gamespot.com/mad-181/4000-74367/</Web>
+	<Writer>Antonio Prohias</Writer>
+	<Year>1976</Year>
+</ComicInfo>

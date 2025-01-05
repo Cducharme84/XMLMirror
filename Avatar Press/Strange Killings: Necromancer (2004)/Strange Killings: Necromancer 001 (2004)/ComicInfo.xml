@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gravel</Characters>
+	<Count>6</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-794686</GTIN>
+	<Genre>Fantasy,Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Philippines</Locations>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:52:55 [Issue ID 4000-794686] urn:comicvine:4000-794686 urn:grandcomicsdatabase:issue/794686</Notes>
+	<Number>1</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1307662" Type="FrontCover"/>
+		<Page Image="1" ImageSize="458955"/>
+		<Page Image="2" ImageSize="192109"/>
+		<Page Image="3" ImageSize="388893"/>
+		<Page Image="4" ImageSize="349718"/>
+		<Page Image="5" ImageSize="430025"/>
+		<Page Image="6" ImageSize="406558"/>
+		<Page Image="7" ImageSize="411713"/>
+		<Page Image="8" ImageSize="428858"/>
+		<Page Image="9" ImageSize="439385"/>
+		<Page Image="10" ImageSize="403307"/>
+		<Page Image="11" ImageSize="403856"/>
+		<Page Image="12" ImageSize="382833"/>
+		<Page Image="13" ImageSize="395674"/>
+		<Page Image="14" ImageSize="372259"/>
+		<Page Image="15" ImageSize="387820"/>
+		<Page Image="16" ImageSize="328580"/>
+		<Page Image="17" ImageSize="368387"/>
+		<Page Image="18" ImageSize="453182"/>
+		<Page Image="19" ImageSize="387664"/>
+		<Page Image="20" ImageSize="412165"/>
+		<Page Image="21" ImageSize="394494"/>
+		<Page Image="22" ImageSize="406200"/>
+		<Page Image="23" ImageSize="335774"/>
+		<Page Image="24" ImageSize="388659"/>
+		<Page Image="25" ImageSize="370855"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Strange Killings: Necromancer</Series>
+	<Teams>Zombies</Teams>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-794686/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2004</Year>
+</ComicInfo>

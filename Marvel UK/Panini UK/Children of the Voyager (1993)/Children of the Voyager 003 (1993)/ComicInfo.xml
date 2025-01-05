@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Harriet Homerstone,Sam Wantling,Voyager</Characters>
+	<Day>30</Day>
+	<GTIN>urn:comixology:328061</GTIN>
+	<Genre>Fantasy,Horror</Genre>
+	<Inker>Paul Johnson</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:56:10 [Issue ID 4000-227016] urn:comicvine:4000-227016 urn:comixology:328061</Notes>
+	<Number>3</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2620002" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1672213"/>
+		<Page Image="2" ImageSize="1805368"/>
+		<Page Image="3" ImageSize="1688632"/>
+		<Page Image="4" ImageSize="1562504"/>
+		<Page Image="5" ImageSize="1954465"/>
+		<Page Image="6" ImageSize="1856233"/>
+		<Page Image="7" ImageSize="2113077"/>
+		<Page Image="8" ImageSize="2026917"/>
+		<Page Image="9" ImageSize="1778612"/>
+		<Page Image="10" ImageSize="2047423"/>
+		<Page Image="11" ImageSize="2174232"/>
+		<Page Image="12" ImageSize="2372671"/>
+		<Page Image="13" ImageSize="2393011"/>
+		<Page Image="14" ImageSize="2112328"/>
+		<Page Image="15" ImageSize="1865770"/>
+		<Page Image="16" ImageSize="2167671"/>
+		<Page Image="17" ImageSize="2084674"/>
+		<Page Image="18" ImageSize="1681473"/>
+		<Page Image="19" ImageSize="1839749"/>
+		<Page Image="20" ImageSize="1792940"/>
+		<Page Image="21" ImageSize="1714880"/>
+		<Page Image="22" ImageSize="2264439"/>
+		<Page Image="23" ImageSize="2145040"/>
+	</Pages>
+	<Penciller>Paul Johnson</Penciller>
+	<Publisher>Marvel UK/Panini UK</Publisher>
+	<Series>Children of the Voyager</Series>
+	<Summary>Sam Wantling may be a ‘rebellious child' to the Voyager, but in reality he is so much more. A young man goes head-to-head with an immortal power.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-13 08:25:42.  [CVDB227016]
+
+https://comicvine.gamespot.com/children-of-the-voyager-3/4000-227016/</Summary>
+	<Tags>Children Of The Voyager,Harriet Homerstone,Sam Wantling,Voyager</Tags>
+	<Teams>Children Of The Voyager</Teams>
+	<Volume>1993</Volume>
+	<Web>https://comicvine.gamespot.com/children-of-the-voyager-3/4000-227016/</Web>
+	<Writer>Nick Abadzis</Writer>
+	<Year>1993</Year>
+</ComicInfo>

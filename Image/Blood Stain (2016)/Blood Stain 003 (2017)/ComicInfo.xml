@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Dr. Vlad Stein,Elliot Torres</Characters>
+  <Day>4</Day>
+  <Editor>Ryan Cady</Editor>
+  <GTIN>urn:comicvine:4000-626312</GTIN>
+  <Inker>Linda Luksic Šejić</Inker>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:50:22 [Issue ID 4000-626312] urn:comicvine:4000-626312
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 22:34:12. [Issue ID 1741442]</Notes>
+  <Number>3</Number>
+  <PageCount>131</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="722002" Type="FrontCover" />
+    <Page Image="1" ImageSize="97081" />
+    <Page Image="2" ImageSize="318902" />
+    <Page Image="3" ImageSize="339777" />
+    <Page Image="4" ImageSize="476928" />
+    <Page Image="5" ImageSize="736581" />
+    <Page Image="6" ImageSize="1293022" />
+    <Page Image="7" ImageSize="888411" />
+    <Page Image="8" ImageSize="893969" />
+    <Page Image="9" ImageSize="936623" />
+    <Page Image="10" ImageSize="979152" />
+    <Page Image="11" ImageSize="747019" />
+    <Page Image="12" ImageSize="783309" />
+    <Page Image="13" ImageSize="723558" />
+    <Page Image="14" ImageSize="684848" />
+    <Page Image="15" ImageSize="751357" />
+    <Page Image="16" ImageSize="785361" />
+    <Page Image="17" ImageSize="747994" />
+    <Page Image="18" ImageSize="864497" />
+    <Page Image="19" ImageSize="805953" />
+    <Page Image="20" ImageSize="859427" />
+    <Page Image="21" ImageSize="929837" />
+    <Page Image="22" ImageSize="915333" />
+    <Page Image="23" ImageSize="1069815" />
+    <Page Image="24" ImageSize="853182" />
+    <Page Image="25" ImageSize="838236" />
+    <Page Image="26" ImageSize="817309" />
+    <Page Image="27" ImageSize="875927" />
+    <Page Image="28" ImageSize="816972" />
+    <Page Image="29" ImageSize="876219" />
+    <Page Image="30" ImageSize="911201" />
+    <Page Image="31" ImageSize="714321" />
+    <Page Image="32" ImageSize="662211" />
+    <Page Image="33" ImageSize="1517183" />
+    <Page Image="34" ImageSize="811072" />
+    <Page Image="35" ImageSize="699429" />
+    <Page Image="36" ImageSize="780687" />
+    <Page Image="37" ImageSize="942186" />
+    <Page Image="38" ImageSize="656046" />
+    <Page Image="39" ImageSize="1090330" />
+    <Page Image="40" ImageSize="754352" />
+    <Page Image="41" ImageSize="871935" />
+    <Page Image="42" ImageSize="895540" />
+    <Page Image="43" ImageSize="904269" />
+    <Page Image="44" ImageSize="951630" />
+    <Page Image="45" ImageSize="908170" />
+    <Page Image="46" ImageSize="933044" />
+    <Page Image="47" ImageSize="902865" />
+    <Page Image="48" ImageSize="1072561" />
+    <Page Image="49" ImageSize="1078585" />
+    <Page Image="50" ImageSize="952798" />
+    <Page Image="51" ImageSize="1100023" />
+    <Page Image="52" ImageSize="844071" />
+    <Page Image="53" ImageSize="968322" />
+    <Page Image="54" ImageSize="890520" />
+    <Page Image="55" ImageSize="716314" />
+    <Page Image="56" ImageSize="966432" />
+    <Page Image="57" ImageSize="946414" />
+    <Page Image="58" ImageSize="856697" />
+    <Page Image="59" ImageSize="933785" />
+    <Page Image="60" ImageSize="987981" />
+    <Page Image="61" ImageSize="886326" />
+    <Page Image="62" ImageSize="1953678" />
+    <Page Image="63" ImageSize="880046" />
+    <Page Image="64" ImageSize="629544" />
+    <Page Image="65" ImageSize="893580" />
+    <Page Image="66" ImageSize="878959" />
+    <Page Image="67" ImageSize="987309" />
+    <Page Image="68" ImageSize="1134080" />
+    <Page Image="69" ImageSize="1062606" />
+    <Page Image="70" ImageSize="942690" />
+    <Page Image="71" ImageSize="1060260" />
+    <Page Image="72" ImageSize="1019636" />
+    <Page Image="73" ImageSize="1126309" />
+    <Page Image="74" ImageSize="962692" />
+    <Page Image="75" ImageSize="1062529" />
+    <Page Image="76" ImageSize="965243" />
+    <Page Image="77" ImageSize="865523" />
+    <Page Image="78" ImageSize="895065" />
+    <Page Image="79" ImageSize="1076105" />
+    <Page Image="80" ImageSize="1037216" />
+    <Page Image="81" ImageSize="885916" />
+    <Page Image="82" ImageSize="990244" />
+    <Page Image="83" ImageSize="682512" />
+    <Page Image="84" ImageSize="796492" />
+    <Page Image="85" ImageSize="758141" />
+    <Page Image="86" ImageSize="982279" />
+    <Page Image="87" ImageSize="784367" />
+    <Page Image="88" ImageSize="1213044" />
+    <Page Image="89" ImageSize="1067488" />
+    <Page Image="90" ImageSize="870516" />
+    <Page Image="91" ImageSize="840780" />
+    <Page Image="92" ImageSize="897085" />
+    <Page Image="93" ImageSize="997273" />
+    <Page Image="94" ImageSize="966999" />
+    <Page Image="95" ImageSize="1013649" />
+    <Page Image="96" ImageSize="986463" />
+    <Page Image="97" ImageSize="820663" />
+    <Page Image="98" ImageSize="1262157" />
+    <Page Image="99" ImageSize="782903" />
+    <Page Image="100" ImageSize="926272" />
+    <Page Image="101" ImageSize="911526" />
+    <Page Image="102" ImageSize="587480" />
+    <Page Image="103" ImageSize="800218" />
+    <Page Image="104" ImageSize="964707" />
+    <Page Image="105" ImageSize="769036" />
+    <Page Image="106" ImageSize="875397" />
+    <Page Image="107" ImageSize="908181" />
+    <Page Image="108" ImageSize="991886" />
+    <Page Image="109" ImageSize="814225" />
+    <Page Image="110" ImageSize="698528" />
+    <Page Image="111" ImageSize="1010356" />
+    <Page Image="112" ImageSize="957441" />
+    <Page Image="113" ImageSize="993618" />
+    <Page Image="114" ImageSize="871863" />
+    <Page Image="115" ImageSize="676472" />
+    <Page Image="116" ImageSize="515225" />
+    <Page Image="117" ImageSize="753585" />
+    <Page Image="118" ImageSize="666586" />
+    <Page Image="119" ImageSize="661064" />
+    <Page Image="120" ImageSize="594089" />
+    <Page Image="121" ImageSize="763152" />
+    <Page Image="122" ImageSize="775107" />
+    <Page Image="123" ImageSize="681568" />
+    <Page Image="124" ImageSize="719136" />
+    <Page Image="125" ImageSize="511686" />
+    <Page Image="126" ImageSize="1291820" />
+    <Page Image="127" ImageSize="1103793" />
+    <Page Image="128" ImageSize="97081" />
+    <Page Image="129" ImageSize="737393" />
+    <Page Image="130" ImageSize="471838" />
+  </Pages>
+  <Penciller>Linda Luksic Šejić</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Blood Stain</Series>
+  <Summary>Finally secure in the knowledge that her eccentric boss (the unfortunately named Dr. Vlad Stein) isn't actually a mad scientist, scatterbrained chemist Elliot Torres seeks to prove herself as a competent lab assistant. But in the laboratory's dark depths, she's not exactly standing on solid ground...literally, in some instances.</Summary>
+  <Tags>Dr. Vlad Stein,Elliot Torres</Tags>
+  <Title>Volume 3</Title>
+  <Volume>2016</Volume>
+  <Web>https://comicvine.gamespot.com/blood-stain-3-volume-3/4000-626312/</Web>
+  <Writer>Linda Luksic Šejić</Writer>
+  <Year>2017</Year>
+  <Count>4</Count>
+  <CoverArtist>Linda Luksic Šejić</CoverArtist>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

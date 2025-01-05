@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550769</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:17 [Issue ID 4000-550769] urn:comicvine:4000-550769 urn:grandcomicsdatabase:issue/550769
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:50:28. [Issue ID 550769]</Notes>
+  <Number>155</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1246789" Type="FrontCover" />
+    <Page Image="1" ImageSize="903838" />
+    <Page Image="2" ImageSize="966596" />
+    <Page Image="3" ImageSize="1190142" />
+    <Page Image="4" ImageSize="1293055" />
+    <Page Image="5" ImageSize="1183171" />
+    <Page Image="6" ImageSize="1248514" />
+    <Page Image="7" ImageSize="1129786" />
+    <Page Image="8" ImageSize="1249072" />
+    <Page Image="9" ImageSize="1229613" />
+    <Page Image="10" ImageSize="1161598" />
+    <Page Image="11" ImageSize="1247692" />
+    <Page Image="12" ImageSize="750364" />
+    <Page Image="13" ImageSize="711119" />
+    <Page Image="14" ImageSize="706644" />
+    <Page Image="15" ImageSize="727400" />
+    <Page Image="16" ImageSize="754365" />
+    <Page Image="17" ImageSize="684462" />
+    <Page Image="18" ImageSize="782574" />
+    <Page Image="19" ImageSize="721597" />
+    <Page Image="20" ImageSize="719355" />
+    <Page Image="21" ImageSize="684091" />
+    <Page Image="22" ImageSize="623469" />
+    <Page Image="23" ImageSize="712015" />
+    <Page Image="24" ImageSize="782643" />
+    <Page Image="25" ImageSize="747196" />
+    <Page Image="26" ImageSize="766765" />
+    <Page Image="27" ImageSize="696995" />
+    <Page Image="28" ImageSize="720441" />
+    <Page Image="29" ImageSize="712900" />
+    <Page Image="30" ImageSize="721843" />
+    <Page Image="31" ImageSize="738836" />
+    <Page Image="32" ImageSize="757463" />
+    <Page Image="33" ImageSize="659207" />
+    <Page Image="34" ImageSize="801329" />
+    <Page Image="35" ImageSize="417677" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Return to Darkland</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550769/</Web>
+  <Year>1979</Year>
+</ComicInfo>

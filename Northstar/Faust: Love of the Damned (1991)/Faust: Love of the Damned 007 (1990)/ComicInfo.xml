@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Claire,Faust</Characters>
+	<Count>15</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-133374</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:01:26 [Issue ID 4000-133374] urn:comicvine:4000-133374</Notes>
+	<Number>7</Number>
+	<PageCount>38</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="2560" ImageHeight="4002" ImageSize="2306183" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="2560" ImageHeight="4002" ImageSize="1917746"/>
+		<Page Image="2" ImageWidth="2560" ImageHeight="3951" ImageSize="2321429"/>
+		<Page Image="3" ImageWidth="2560" ImageHeight="3951" ImageSize="3414144"/>
+		<Page Image="4" ImageWidth="2560" ImageHeight="3951" ImageSize="3724954"/>
+		<Page Image="5" ImageWidth="2560" ImageHeight="3951" ImageSize="3012981"/>
+		<Page Image="6" ImageWidth="2560" ImageHeight="3951" ImageSize="3336862"/>
+		<Page Image="7" ImageWidth="2560" ImageHeight="3951" ImageSize="3201194"/>
+		<Page Image="8" ImageWidth="2560" ImageHeight="3951" ImageSize="2450384"/>
+		<Page Image="9" ImageWidth="2560" ImageHeight="3951" ImageSize="3632230"/>
+		<Page Image="10" ImageWidth="2560" ImageHeight="3951" ImageSize="3282053"/>
+		<Page Image="11" ImageWidth="2560" ImageHeight="3951" ImageSize="3307095"/>
+		<Page Image="12" ImageWidth="2560" ImageHeight="3951" ImageSize="3431919"/>
+		<Page Image="13" ImageWidth="2560" ImageHeight="3951" ImageSize="3668786"/>
+		<Page Image="14" ImageWidth="2560" ImageHeight="3951" ImageSize="3420504"/>
+		<Page Image="15" ImageWidth="2560" ImageHeight="3951" ImageSize="3186227"/>
+		<Page Image="16" ImageWidth="2560" ImageHeight="3951" ImageSize="3478900"/>
+		<Page Image="17" ImageWidth="2560" ImageHeight="3951" ImageSize="3146049"/>
+		<Page Image="18" ImageWidth="2560" ImageHeight="3951" ImageSize="2993604"/>
+		<Page Image="19" ImageWidth="2560" ImageHeight="3951" ImageSize="3066912"/>
+		<Page Image="20" ImageWidth="2560" ImageHeight="3951" ImageSize="3259243"/>
+		<Page Image="21" ImageWidth="2560" ImageHeight="3951" ImageSize="3768297"/>
+		<Page Image="22" ImageWidth="2560" ImageHeight="3951" ImageSize="4008332"/>
+		<Page Image="23" ImageWidth="2560" ImageHeight="3951" ImageSize="4207827"/>
+		<Page Image="24" ImageWidth="2560" ImageHeight="3951" ImageSize="3855012"/>
+		<Page Image="25" ImageWidth="2560" ImageHeight="3951" ImageSize="2686364"/>
+		<Page Image="26" ImageWidth="2560" ImageHeight="3951" ImageSize="3029921"/>
+		<Page Image="27" ImageWidth="2560" ImageHeight="3951" ImageSize="3257176"/>
+		<Page Image="28" ImageWidth="2560" ImageHeight="3951" ImageSize="3284227"/>
+		<Page Image="29" ImageWidth="2560" ImageHeight="3951" ImageSize="3325420"/>
+		<Page Image="30" ImageWidth="2560" ImageHeight="3951" ImageSize="3691236"/>
+		<Page Image="31" ImageWidth="2560" ImageHeight="3951" ImageSize="2878632"/>
+		<Page Image="32" ImageWidth="2560" ImageHeight="3951" ImageSize="3269178"/>
+		<Page Image="33" ImageWidth="2560" ImageHeight="3951" ImageSize="625301"/>
+		<Page Image="34" ImageWidth="2560" ImageHeight="4038" ImageSize="2194169"/>
+		<Page Image="35" ImageWidth="2560" ImageHeight="3982" ImageSize="425616"/>
+		<Page Image="36" ImageWidth="2560" ImageHeight="3951" ImageSize="1600581"/>
+		<Page Image="37" ImageSize="977951"/>
+	</Pages>
+	<Publisher>Northstar</Publisher>
+	<ScanInformation>(c2c) (2560px) (Minutemen-MorningStar)</ScanInformation>
+	<Series>Faust: Love of the Damned</Series>
+	<Title>Delicate Tone</Title>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/faust-love-of-the-damned-7-delicate-tone/4000-133374/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>1990</Year>
+</ComicInfo>

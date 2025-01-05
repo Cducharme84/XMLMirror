@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Johnny</Characters>
+	<Count>3</Count>
+	<Day>28</Day>
+	<GTIN>urn:comicvine:4000-582600</GTIN>
+	<Inker>Dev Madan,Jacob Bascle</Inker>
+	<Locations>Camp Wanachompya</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:30:56 [Issue ID 4000-582600] urn:comicvine:4000-582600</Notes>
+	<Number>0</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2146297" Type="FrontCover"/>
+		<Page Image="1" ImageSize="710872"/>
+		<Page Image="2" ImageSize="703734"/>
+		<Page Image="3" ImageSize="680609"/>
+		<Page Image="4" ImageSize="719068"/>
+		<Page Image="5" ImageSize="639214"/>
+		<Page Image="6" ImageSize="782903"/>
+		<Page Image="7" ImageSize="713825"/>
+		<Page Image="8" ImageSize="707672"/>
+		<Page Image="9" ImageSize="736380"/>
+		<Page Image="10" ImageSize="700802"/>
+		<Page Image="11" ImageSize="700054"/>
+		<Page Image="12" ImageSize="701078"/>
+		<Page Image="13" ImageSize="712477"/>
+		<Page Image="14" ImageSize="769992"/>
+		<Page Image="15" ImageSize="722976"/>
+		<Page Image="16" ImageSize="718922"/>
+		<Page Image="17" ImageSize="668490"/>
+		<Page Image="18" ImageSize="657226"/>
+		<Page Image="19" ImageSize="633366"/>
+		<Page Image="20" ImageSize="874852"/>
+		<Page Image="21" ImageSize="644093"/>
+		<Page Image="22" ImageSize="181756"/>
+	</Pages>
+	<Penciller>Dev Madan,Jacob Bascle</Penciller>
+	<Publisher>Space Goat Productions</Publisher>
+	<Series>Zombie Camp</Series>
+	<Summary>Camp Wanachompya is designed to teach young zombies how to survive the human apocalypse and Johnny has just been dropped off there, for the summer. It’s there that Johnny meets Sarge, the screaming, bodiless camp director. Between deadly obstacle courses, a human intruder, and a vegan, Johnny will have to fight to survive his first week at camp.</Summary>
+	<Teams>Zombies</Teams>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/zombie-camp-0/4000-582600/</Web>
+	<Writer>Frank Hannah</Writer>
+	<Year>2017</Year>
+</ComicInfo>

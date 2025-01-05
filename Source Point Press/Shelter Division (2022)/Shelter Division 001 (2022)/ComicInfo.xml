@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Day>9</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-2332848</GTIN>
+  <Genre>Crime,Action,Thriller</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-05T23:17:38 [Issue ID 4000-2332848] urn:comicvine:4000-2332848 urn:grandcomicsdatabase:issue/2332848</Notes>
+  <Number>1</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3909" ImageSize="1777139" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3909" ImageSize="1223896" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3907" ImageSize="1100923" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3907" ImageSize="1040238" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3908" ImageSize="1290374" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3907" ImageSize="1091632" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3907" ImageSize="1100638" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3907" ImageSize="915986" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3907" ImageSize="1043976" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3907" ImageSize="1570423" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3907" ImageSize="1297995" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3907" ImageSize="1246844" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3907" ImageSize="1446009" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3907" ImageSize="1235222" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3909" ImageSize="1139284" ImageWidth="2559" />
+    <Page DoublePage="False" Image="15" ImageHeight="3907" ImageSize="1297992" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3907" ImageSize="1221385" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3907" ImageSize="1403766" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3907" ImageSize="1232715" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3907" ImageSize="1404605" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3907" ImageSize="1598272" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3907" ImageSize="1466482" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3907" ImageSize="1385234" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3907" ImageSize="1355398" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3907" ImageSize="1350109" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Source Point Press</Publisher>
+  <Series>Shelter Division</Series>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-2332848/</Web>
+  <Year>2022</Year>
+  <Summary>A mastermind is plotting to conquer our very existence... The government has recruited the most abnormal beings to fight this abnormal threat, and those who were the investigated have been given shelter and became the investigators.</Summary>
+</ComicInfo>

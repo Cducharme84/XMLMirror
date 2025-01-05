@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-384069</GTIN>
+  <Imprint>Malibu Comics</Imprint>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:13:18 [Issue ID 4000-384069] urn:comicvine:4000-384069
+Tagged with ComicTagger 1.6.0a13.dev78 using info from Comic Vine on 2024-04-09 07:12:08. [Issue ID 384069]</Notes>
+  <Number>5</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+  </Pages>
+  <Publisher>Marvel</Publisher>
+  <Series>Malibu SunSpots</Series>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/malibu-sunspots-5/4000-384069/</Web>
+  <Year>1993</Year>
+</ComicInfo>

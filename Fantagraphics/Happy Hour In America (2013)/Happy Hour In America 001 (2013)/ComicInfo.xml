@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>23</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-381697</GTIN>
+	<Inker>Tim Lane</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:16:27 [Issue ID 4000-381697] urn:comicvine:4000-381697</Notes>
+	<Number>1</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1241678" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1441627"/>
+		<Page Image="2" ImageSize="136958"/>
+		<Page Image="3" ImageSize="1535534"/>
+		<Page Image="4" ImageSize="408554"/>
+		<Page Image="5" ImageSize="882616"/>
+		<Page Image="6" ImageSize="810409"/>
+		<Page Image="7" ImageSize="169379"/>
+		<Page Image="8" ImageSize="1902268"/>
+		<Page Image="9" ImageSize="1554376"/>
+		<Page Image="10" ImageSize="1276889"/>
+		<Page Image="11" ImageSize="3983582"/>
+		<Page Image="12" ImageSize="993668"/>
+		<Page Image="13" ImageSize="1001475"/>
+		<Page Image="14" ImageSize="1163550"/>
+		<Page Image="15" ImageSize="768215"/>
+		<Page Image="16" ImageSize="1016845"/>
+		<Page Image="17" ImageSize="1503501"/>
+		<Page Image="18" ImageSize="1437178"/>
+		<Page Image="19" ImageSize="1501742"/>
+		<Page Image="20" ImageSize="1753294"/>
+		<Page Image="21" ImageSize="1626891"/>
+		<Page Image="22" ImageSize="1577496"/>
+		<Page Image="23" ImageSize="1701320"/>
+		<Page Image="24" ImageSize="1595929"/>
+		<Page Image="25" ImageSize="1442857"/>
+		<Page Image="26" ImageSize="306945"/>
+	</Pages>
+	<Penciller>Tim Lane</Penciller>
+	<Publisher>Fantagraphics</Publisher>
+	<ScanInformation>(digital) (Minutemen-InnerDemons)</ScanInformation>
+	<Series>Happy Hour In America</Series>
+	<Summary>https://comicvine.gamespot.com/happy-hour-in-america-1/4000-381697/</Summary>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/happy-hour-in-america-1/4000-381697/</Web>
+	<Writer>Tim Lane</Writer>
+	<Year>2013</Year>
+</ComicInfo>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jack Hawksmoor</Characters>
+  <Colorist>Randy Mayor,Fiona Staples</Colorist>
+  <Editor>Kristy Quinn,Scott Peterson</Editor>
+  <GTIN>urn:comicvine:4000-301242</GTIN>
+  <Inker>Cully Hamner,Fiona Staples,Fiona Staples</Inker>
+  <Letterer>Rob Leigh,Rob Leigh</Letterer>
+  <Locations>San Francisco,Iran,Japan,Indonesia,Brazil,Philippines,Mexico City,Russia,Moscow,Novgorod Oblast,California,India,Jakarta,Novgorod,Tokyo,Cairo,São Paulo,Kolkata,Kiev,Tehran,Hong Kong,Shanghai,People's Republic of China,Greece,New York State,Mexico,New York City,Manila,Washington D.C.,Egypt,Athens,Ukraine,Mumbai</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:34:41 [Issue ID 4000-301242] urn:comicvine:4000-301242
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 00:55:26. [Issue ID 590377]</Notes>
+  <Number>1</Number>
+  <PageCount>136</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1973" ImageSize="756170" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1981" ImageSize="657041" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1973" ImageSize="714565" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="2015" ImageSize="707651" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1977" ImageSize="634303" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="2002" ImageSize="580168" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1951" ImageSize="950097" ImageWidth="2560" />
+    <Page Image="7" ImageHeight="2002" ImageSize="631955" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1997" ImageSize="671477" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="2041" ImageSize="642766" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="2017" ImageSize="704692" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1998" ImageSize="620941" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="2016" ImageSize="615389" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1983" ImageSize="471177" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="2001" ImageSize="661286" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1988" ImageSize="542026" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1976" ImageSize="570730" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="2004" ImageSize="581456" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1974" ImageSize="566700" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1989" ImageSize="552200" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1993" ImageSize="568007" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1959" ImageSize="408634" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1975" ImageSize="596634" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1958" ImageSize="451308" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1988" ImageSize="384782" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1977" ImageSize="371590" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1976" ImageSize="419116" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1969" ImageSize="408915" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1979" ImageSize="420222" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1975" ImageSize="456663" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1967" ImageSize="460312" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1990" ImageSize="446829" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1972" ImageSize="446372" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1994" ImageSize="433359" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1963" ImageSize="463292" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1965" ImageSize="454003" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="2005" ImageSize="504335" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1978" ImageSize="381466" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1959" ImageSize="383424" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1964" ImageSize="360516" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1967" ImageSize="350925" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1977" ImageSize="366991" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1991" ImageSize="537542" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1984" ImageSize="541245" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1993" ImageSize="502676" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1966" ImageSize="843774" ImageWidth="1280" />
+    <Page Image="46" ImageHeight="1973" ImageSize="780191" ImageWidth="1280" />
+    <Page Image="47" ImageHeight="1975" ImageSize="648195" ImageWidth="1280" />
+    <Page Image="48" ImageHeight="1975" ImageSize="740685" ImageWidth="1280" />
+    <Page Image="49" ImageHeight="1975" ImageSize="654126" ImageWidth="1280" />
+    <Page Image="50" ImageHeight="1975" ImageSize="763512" ImageWidth="1280" />
+    <Page Image="51" ImageHeight="1975" ImageSize="733122" ImageWidth="1280" />
+    <Page Image="52" ImageHeight="1975" ImageSize="630603" ImageWidth="1280" />
+    <Page Image="53" ImageHeight="1975" ImageSize="655946" ImageWidth="1280" />
+    <Page Image="54" ImageHeight="1975" ImageSize="639675" ImageWidth="1280" />
+    <Page Image="55" ImageHeight="1977" ImageSize="507307" ImageWidth="1280" />
+    <Page Image="56" ImageHeight="1975" ImageSize="598291" ImageWidth="1280" />
+    <Page Image="57" ImageHeight="1985" ImageSize="586385" ImageWidth="1280" />
+    <Page Image="58" ImageHeight="1975" ImageSize="661222" ImageWidth="1280" />
+    <Page Image="59" ImageHeight="2008" ImageSize="630522" ImageWidth="1280" />
+    <Page Image="60" ImageHeight="1975" ImageSize="535019" ImageWidth="1280" />
+    <Page Image="61" ImageHeight="1975" ImageSize="745436" ImageWidth="1280" />
+    <Page Image="62" ImageHeight="1975" ImageSize="708524" ImageWidth="1280" />
+    <Page Image="63" ImageHeight="1970" ImageSize="629432" ImageWidth="1280" />
+    <Page Image="64" ImageHeight="1975" ImageSize="559303" ImageWidth="1280" />
+    <Page Image="65" ImageHeight="1967" ImageSize="510902" ImageWidth="1280" />
+    <Page Image="66" ImageHeight="1968" ImageSize="321821" ImageWidth="1280" />
+    <Page Image="67" ImageHeight="1990" ImageSize="582691" ImageWidth="1280" />
+    <Page Image="68" ImageHeight="1962" ImageSize="869904" ImageWidth="1280" />
+    <Page Image="69" ImageHeight="1974" ImageSize="489649" ImageWidth="1280" />
+    <Page Image="70" ImageHeight="1975" ImageSize="1243906" ImageWidth="2560" />
+    <Page Image="71" ImageHeight="1975" ImageSize="736315" ImageWidth="1280" />
+    <Page Image="72" ImageHeight="1997" ImageSize="833088" ImageWidth="1280" />
+    <Page Image="73" ImageHeight="1975" ImageSize="752571" ImageWidth="1280" />
+    <Page Image="74" ImageHeight="1975" ImageSize="700595" ImageWidth="1280" />
+    <Page Image="75" ImageHeight="1975" ImageSize="583922" ImageWidth="1280" />
+    <Page Image="76" ImageHeight="1975" ImageSize="643244" ImageWidth="1280" />
+    <Page Image="77" ImageHeight="1975" ImageSize="828746" ImageWidth="1280" />
+    <Page Image="78" ImageHeight="1975" ImageSize="855941" ImageWidth="1280" />
+    <Page Image="79" ImageHeight="1975" ImageSize="723915" ImageWidth="1280" />
+    <Page Image="80" ImageHeight="1978" ImageSize="557245" ImageWidth="1280" />
+    <Page Image="81" ImageHeight="1975" ImageSize="915800" ImageWidth="1280" />
+    <Page Image="82" ImageHeight="1975" ImageSize="862592" ImageWidth="1280" />
+    <Page Image="83" ImageHeight="1975" ImageSize="818173" ImageWidth="1280" />
+    <Page Image="84" ImageHeight="1975" ImageSize="668799" ImageWidth="1280" />
+    <Page Image="85" ImageHeight="1971" ImageSize="498059" ImageWidth="1280" />
+    <Page Image="86" ImageHeight="1975" ImageSize="898098" ImageWidth="1280" />
+    <Page Image="87" ImageHeight="1975" ImageSize="691219" ImageWidth="1280" />
+    <Page Image="88" ImageHeight="1975" ImageSize="803500" ImageWidth="1280" />
+    <Page Image="89" ImageHeight="1967" ImageSize="757303" ImageWidth="1280" />
+    <Page Image="90" ImageHeight="1963" ImageSize="1183410" ImageWidth="1280" />
+    <Page Image="91" ImageHeight="1975" ImageSize="794192" ImageWidth="1280" />
+    <Page Image="92" ImageHeight="1966" ImageSize="596485" ImageWidth="1280" />
+    <Page Image="93" ImageHeight="1975" ImageSize="688613" ImageWidth="1280" />
+    <Page Image="94" ImageHeight="1975" ImageSize="762493" ImageWidth="1280" />
+    <Page Image="95" ImageHeight="1975" ImageSize="677165" ImageWidth="1280" />
+    <Page Image="96" ImageHeight="1975" ImageSize="705683" ImageWidth="1280" />
+    <Page Image="97" ImageHeight="1975" ImageSize="796159" ImageWidth="1280" />
+    <Page Image="98" ImageHeight="1992" ImageSize="904548" ImageWidth="1280" />
+    <Page Image="99" ImageHeight="1975" ImageSize="765753" ImageWidth="1280" />
+    <Page Image="100" ImageHeight="1997" ImageSize="906173" ImageWidth="1280" />
+    <Page Image="101" ImageHeight="1975" ImageSize="898769" ImageWidth="1280" />
+    <Page Image="102" ImageHeight="1975" ImageSize="827394" ImageWidth="1280" />
+    <Page Image="103" ImageHeight="1975" ImageSize="981705" ImageWidth="1280" />
+    <Page Image="104" ImageHeight="1975" ImageSize="927435" ImageWidth="1280" />
+    <Page Image="105" ImageHeight="1975" ImageSize="721217" ImageWidth="1280" />
+    <Page Image="106" ImageHeight="1975" ImageSize="829007" ImageWidth="1280" />
+    <Page Image="107" ImageHeight="1975" ImageSize="764552" ImageWidth="1280" />
+    <Page Image="108" ImageHeight="1975" ImageSize="759827" ImageWidth="1280" />
+    <Page Image="109" ImageHeight="1975" ImageSize="746177" ImageWidth="1280" />
+    <Page Image="110" ImageHeight="1975" ImageSize="844477" ImageWidth="1280" />
+    <Page Image="111" ImageHeight="1975" ImageSize="713083" ImageWidth="1280" />
+    <Page Image="112" ImageHeight="1967" ImageSize="707824" ImageWidth="1280" />
+    <Page Image="113" ImageHeight="1969" ImageSize="673542" ImageWidth="1280" />
+    <Page Image="114" ImageHeight="1975" ImageSize="729281" ImageWidth="1280" />
+    <Page Image="115" ImageHeight="1975" ImageSize="980262" ImageWidth="1280" />
+    <Page Image="116" ImageHeight="1975" ImageSize="758692" ImageWidth="1280" />
+    <Page Image="117" ImageHeight="1975" ImageSize="738367" ImageWidth="1280" />
+    <Page Image="118" ImageHeight="1975" ImageSize="853220" ImageWidth="1280" />
+    <Page Image="119" ImageHeight="1975" ImageSize="819903" ImageWidth="1280" />
+    <Page Image="120" ImageHeight="1975" ImageSize="798950" ImageWidth="1280" />
+    <Page Image="121" ImageHeight="1974" ImageSize="766044" ImageWidth="1280" />
+    <Page Image="122" ImageHeight="1975" ImageSize="700395" ImageWidth="1280" />
+    <Page Image="123" ImageHeight="1975" ImageSize="759385" ImageWidth="1280" />
+    <Page Image="124" ImageHeight="1975" ImageSize="925915" ImageWidth="1280" />
+    <Page Image="125" ImageHeight="1975" ImageSize="638893" ImageWidth="1280" />
+    <Page Image="126" ImageHeight="1975" ImageSize="742448" ImageWidth="1280" />
+    <Page Image="127" ImageHeight="1975" ImageSize="530138" ImageWidth="1280" />
+    <Page Image="128" ImageHeight="1981" ImageSize="828420" ImageWidth="1280" />
+    <Page Image="129" ImageHeight="1975" ImageSize="853151" ImageWidth="1280" />
+    <Page Image="130" ImageHeight="1975" ImageSize="747117" ImageWidth="1280" />
+    <Page Image="131" ImageHeight="1975" ImageSize="821454" ImageWidth="1280" />
+    <Page Image="132" ImageHeight="1975" ImageSize="760947" ImageWidth="1280" />
+    <Page Image="133" ImageHeight="1975" ImageSize="751202" ImageWidth="1280" />
+    <Page Image="134" ImageHeight="1975" ImageSize="744465" ImageWidth="1280" />
+    <Page Image="135" ImageSize="540294" />
+  </Pages>
+  <Penciller>Cully Hamner,Fiona Staples,Fiona Staples</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <ScanInformation>~ (Mike Costa; Fiona Staples)</ScanInformation>
+  <Series>Secret History of the Authority: Hawksmoor</Series>
+  <Summary>Collecting the entire 6-issue miniseries, this is the story of The Authority's urban hero Jack Hawksmoor before he joined the team. While preventing a massive robot attack on the Golden Gate Bridge, Hawksmoor gets unexpected assistance from a mysterious woman, then stumbles upon a locked-room murder mystery.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-10-19 09:49:34.  [CVDB301242]
+
+https://comicvine.gamespot.com/the-secret-history-of-the-authority-hawksmoor-1-tp/4000-301242/</Summary>
+  <Tags>San Francisco,Servants of Plo'raach,Iran,Japan,Casey Blue,Apollo,Indonesia,Brazil,Habib Ben Hassan,Philippines,Mexico City,Russia,Moscow,Warblade,Spartan,Jack Hawksmoor,Susan Hawksmoor,Novgorod Oblast,California,India,Iron Belle,Jakarta,Novgorod,Sal,Harry,Ladytron,Cairo,Tokyo,WildC.A.T.s,Zealot,São Paulo,Plo'raach,Kolkata,The Authority,Kiev,Midnighter,Tehran,Perun,Katy Hawksmoor,Hong Kong,Shanghai,People's Republic of China,Grifter,Greece,New York State,Ozzie,Mexico,Maul,New York City,Manila,Jenny Quantum,Swift,Washington D.C.,Egypt,Athens,Ukraine,Engineer,Mumbai</Tags>
+  <Teams>Servants of Plo'raach,WildC.A.T.s,The Authority</Teams>
+  <Title>Town &amp; Country; Highways &amp; Byways; Parks &amp; Recreation; Bridge &amp; Tunnel; Housing &amp; Development; Uptown &amp; Downtown</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/the-secret-history-of-the-authority-hawksmoor-1-tp/4000-301242/</Web>
+  <Writer>Mike Costa,Mike Costa</Writer>
+  <Year>2009</Year>
+  <Count>1</Count>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

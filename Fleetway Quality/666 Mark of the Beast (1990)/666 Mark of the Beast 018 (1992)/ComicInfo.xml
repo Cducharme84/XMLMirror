@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-248268</GTIN>
+	<Inker>Eric Bradbury</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:23:06 [Issue ID 4000-248268] urn:comicvine:4000-248268</Notes>
+	<Number>18</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="955387" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1044388"/>
+		<Page Image="2" ImageSize="1127796"/>
+		<Page Image="3" ImageSize="1109736"/>
+		<Page Image="4" ImageSize="1047470"/>
+		<Page Image="5" ImageSize="1096085"/>
+		<Page Image="6" ImageSize="1134937"/>
+		<Page Image="7" ImageSize="1119136"/>
+		<Page Image="8" ImageSize="1024918"/>
+		<Page Image="9" ImageSize="980257"/>
+		<Page Image="10" ImageSize="1062900"/>
+		<Page Image="11" ImageSize="1132126"/>
+		<Page Image="12" ImageSize="1019305"/>
+		<Page Image="13" ImageSize="1117330"/>
+		<Page Image="14" ImageSize="1183864"/>
+		<Page Image="15" ImageSize="1018043"/>
+		<Page Image="16" ImageSize="1110513"/>
+		<Page Image="17" ImageSize="1225429"/>
+		<Page Image="18" ImageSize="1171350"/>
+		<Page Image="19" ImageSize="1218746"/>
+		<Page Image="20" ImageSize="1140817"/>
+		<Page Image="21" ImageSize="1246286"/>
+		<Page Image="22" ImageSize="1258533"/>
+		<Page Image="23" ImageSize="990527"/>
+		<Page Image="24" ImageSize="1110570"/>
+		<Page Image="25" ImageSize="1235300"/>
+		<Page Image="26" ImageSize="1377153"/>
+		<Page Image="27" ImageSize="1243221"/>
+		<Page Image="28" ImageSize="1251176"/>
+		<Page Image="29" ImageSize="1008418"/>
+		<Page Image="30" ImageSize="984710"/>
+		<Page Image="31" ImageSize="933244"/>
+		<Page Image="32" ImageSize="984351"/>
+	</Pages>
+	<Penciller>Eric Bradbury</Penciller>
+	<Publisher>Fleetway Quality</Publisher>
+	<Series>666 Mark of the Beast</Series>
+	<Summary>https://comicvine.gamespot.com/666-mark-of-the-beast-18/4000-248268/</Summary>
+	<Volume>1990</Volume>
+	<Web>https://comicvine.gamespot.com/666-mark-of-the-beast-18/4000-248268/</Web>
+	<Writer>Simon Furman</Writer>
+	<Year>1992</Year>
+</ComicInfo>

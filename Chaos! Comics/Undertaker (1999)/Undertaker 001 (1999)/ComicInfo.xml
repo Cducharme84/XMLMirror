@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Undertaker,The Embalmer,Kane</Characters>
+  <Colorist>Jason Jensen</Colorist>
+  <Count>10</Count>
+  <Editor>Brad Gould,Brian Pulido</Editor>
+  <GTIN>urn:comicvine:4000-233515</GTIN>
+  <Inker>Manny Clarke,Sandu Florea</Inker>
+  <Letterer>Comicraft</Letterer>
+  <Locations>Hell</Locations>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:37:29 [Issue ID 4000-233515] urn:comicvine:4000-233515 urn:grandcomicsdatabase:issue/233515
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:53:56. [Issue ID 233515]</Notes>
+  <Number>1</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1530" ImageSize="163697" ImageWidth="985" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1605" ImageSize="713028" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1613" ImageSize="357550" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1612" ImageSize="543156" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1599" ImageSize="972548" ImageWidth="2048" />
+    <Page Image="5" ImageHeight="1608" ImageSize="559980" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1605" ImageSize="512410" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1603" ImageSize="557320" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1608" ImageSize="560231" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1605" ImageSize="550044" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1615" ImageSize="623855" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1605" ImageSize="587636" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1615" ImageSize="399627" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1598" ImageSize="483897" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1616" ImageSize="417192" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1605" ImageSize="468561" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1615" ImageSize="521708" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1615" ImageSize="512202" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1625" ImageSize="522587" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1632" ImageSize="536517" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1608" ImageSize="529812" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1611" ImageSize="538894" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1625" ImageSize="569554" ImageWidth="1024" />
+    <Page Image="23" ImageSize="549885" />
+  </Pages>
+  <Penciller>Manny Clarke</Penciller>
+  <Publisher>Chaos! Comics</Publisher>
+  <Series>Undertaker</Series>
+  <Summary>All issues were published with a comic cover and a photo cover.</Summary>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-233515/</Web>
+  <Writer>Beau Smith</Writer>
+  <Year>1999</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

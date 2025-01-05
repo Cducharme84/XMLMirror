@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>2</Count>
+	<Format>Limited Series</Format>
+	<Genre>Wrestling</Genre>
+	<Inker>Michael Mayne</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-20T17:08:28</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3910" ImageSize="3128538" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3910" ImageSize="436860"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3910" ImageSize="800992"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3910" ImageSize="810378"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3910" ImageSize="1015418"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3910" ImageSize="779636"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3910" ImageSize="586298"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3910" ImageSize="564990"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3910" ImageSize="686794"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3910" ImageSize="755744"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3910" ImageSize="654424"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3910" ImageSize="896600"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3910" ImageSize="956332"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3910" ImageSize="809530"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3910" ImageSize="1073074"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3910" ImageSize="966178"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3910" ImageSize="900038"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3910" ImageSize="1008182"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3910" ImageSize="937572"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3910" ImageSize="868114"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3910" ImageSize="1085232"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3910" ImageSize="1052120"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3910" ImageSize="1526586"/>
+		<Page Image="23" ImageSize="318618"/>
+	</Pages>
+	<Penciller>Michael Mayne</Penciller>
+	<Publisher>Broken Icon Comics</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>The Adventures of Al Snow and Head</Series>
+	<Summary>The Adventure of Al Snow and Head featuring Chavo Guerrero Jr is a new series that dives back into Al's mind, but this time he's not going alone. Embarking on a western adventure unlike any other, Al and Chavo are famous cowboys tasked by the citizens of Judgment City to save their town. What follows is the beautiful chaos that can only happen in an Al Snow comic. Saddle up for a different kind of journey, into a different kind of mind.</Summary>
+	<Volume>2022</Volume>
+	<Writer>Eric Watkins</Writer>
+	<Year>2022</Year>
+</ComicInfo>

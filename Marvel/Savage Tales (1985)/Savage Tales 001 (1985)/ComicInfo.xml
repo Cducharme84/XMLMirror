@@ -1,0 +1,97 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Gutz</Characters>
+  <Day>10</Day>
+  <Editor>Jim Shooter,Larry Hama,Pat Redding</Editor>
+  <GTIN>urn:comicvine:4000-25990</GTIN>
+  <Inker>Dave Simons,Gray Morrow,Herb Trimpe,John Severin,Michael Golden,Vincent Waller,William Jungkuntz,Michael Golden,Herb Trimpe,John Severin,Will Jungkuntz,Gray Morrow</Inker>
+  <Letterer>Gray Morrow,William Jungkuntz,Will Jungkuntz,Gray Morrow</Letterer>
+  <Locations>Rio Grande,Vietnam</Locations>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T15:33:35 [Issue ID 4000-25990] urn:comicvine:4000-25990
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 18:47:26. [Issue ID 40552]</Notes>
+  <Number>1</Number>
+  <PageCount>69</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1749" ImageSize="526985" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1755" ImageSize="511993" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1761" ImageSize="571245" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1846" ImageSize="523478" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1845" ImageSize="537656" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1845" ImageSize="619571" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1829" ImageSize="693719" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1826" ImageSize="711143" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1829" ImageSize="813566" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1828" ImageSize="859469" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1828" ImageSize="826262" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1828" ImageSize="755576" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1782" ImageSize="623732" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1783" ImageSize="659537" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1782" ImageSize="604480" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1822" ImageSize="722985" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1822" ImageSize="694049" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1821" ImageSize="788268" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1822" ImageSize="656191" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1821" ImageSize="659787" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1821" ImageSize="760111" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1821" ImageSize="641953" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1821" ImageSize="648667" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1821" ImageSize="657642" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1821" ImageSize="636822" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1822" ImageSize="712553" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1821" ImageSize="635412" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1820" ImageSize="676051" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1822" ImageSize="838781" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1821" ImageSize="789492" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1820" ImageSize="763098" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1821" ImageSize="827163" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1820" ImageSize="832425" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1820" ImageSize="843832" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1821" ImageSize="845053" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1821" ImageSize="802715" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="1822" ImageSize="904150" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1821" ImageSize="885805" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1822" ImageSize="833087" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1815" ImageSize="890549" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1822" ImageSize="519270" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1822" ImageSize="674271" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1822" ImageSize="652797" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1822" ImageSize="624344" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1822" ImageSize="583900" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1822" ImageSize="614975" ImageWidth="1280" />
+    <Page Image="46" ImageHeight="1858" ImageSize="562247" ImageWidth="1280" />
+    <Page Image="47" ImageHeight="1857" ImageSize="645084" ImageWidth="1280" />
+    <Page Image="48" ImageHeight="1845" ImageSize="581861" ImageWidth="1280" />
+    <Page Image="49" ImageHeight="1831" ImageSize="564889" ImageWidth="1280" />
+    <Page Image="50" ImageHeight="1830" ImageSize="570836" ImageWidth="1280" />
+    <Page Image="51" ImageHeight="1830" ImageSize="789487" ImageWidth="1280" />
+    <Page Image="52" ImageHeight="1829" ImageSize="679254" ImageWidth="1280" />
+    <Page Image="53" ImageHeight="1829" ImageSize="675014" ImageWidth="1280" />
+    <Page Image="54" ImageHeight="1830" ImageSize="633862" ImageWidth="1280" />
+    <Page Image="55" ImageHeight="1880" ImageSize="763584" ImageWidth="1280" />
+    <Page Image="56" ImageHeight="1869" ImageSize="771171" ImageWidth="1280" />
+    <Page Image="57" ImageHeight="1867" ImageSize="822472" ImageWidth="1280" />
+    <Page Image="58" ImageHeight="1893" ImageSize="816909" ImageWidth="1280" />
+    <Page Image="59" ImageHeight="1929" ImageSize="824132" ImageWidth="1280" />
+    <Page Image="60" ImageHeight="1892" ImageSize="818269" ImageWidth="1280" />
+    <Page Image="61" ImageHeight="1892" ImageSize="798704" ImageWidth="1280" />
+    <Page Image="62" ImageHeight="1893" ImageSize="716786" ImageWidth="1280" />
+    <Page Image="63" ImageHeight="1856" ImageSize="631705" ImageWidth="1280" />
+    <Page Image="64" ImageHeight="1766" ImageSize="700024" ImageWidth="1280" />
+    <Page Image="65" ImageHeight="1808" ImageSize="690782" ImageWidth="1280" />
+    <Page Image="66" ImageHeight="1807" ImageSize="616126" ImageWidth="1280" />
+    <Page Image="67" ImageHeight="1782" ImageSize="708013" ImageWidth="1280" />
+    <Page Image="68" ImageSize="198513" />
+  </Pages>
+  <Penciller>Gray Morrow,Herb Trimpe,John Severin,Michael Golden,Mike Docherty,Vincent Waller,William Jungkuntz,Michael Golden,Herb Trimpe,John Severin,Will Jungkuntz,Gray Morrow</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Savage Tales</Series>
+  <Summary>https://comicvine.gamespot.com/savage-tales-1/4000-25990/</Summary>
+  <Volume>1985</Volume>
+  <Web>https://comicvine.gamespot.com/savage-tales-1/4000-25990/</Web>
+  <Writer>Archie Goodwin,Don Kraar,Doug Murray,Herb Trimpe,William Jungkuntz,Doug Murray,Herb Trimpe,Archie Goodwin,Will Jungkuntz,Don Kraar</Writer>
+  <Year>1985</Year>
+  <Count>8</Count>
+  <Title>the Nam, 1967; Marla; Avenger; A Pizza; Across the Rio Grande</Title>
+  <Genre>War</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

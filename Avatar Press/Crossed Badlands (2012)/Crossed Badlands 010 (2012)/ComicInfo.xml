@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Edmund</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Count>100</Count>
+	<Country>US</Country>
+	<Editor>James Kuhoric,William Christensen</Editor>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-347299</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Jacen Burrows,Raulo Caceres</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:19:14 [Issue ID 4000-347299] urn:comicvine:4000-347299 urn:grandcomicsdatabase:issue/974139</Notes>
+	<Number>10</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1679598" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1353096"/>
+		<Page Image="2" ImageSize="1472874"/>
+		<Page Image="3" ImageSize="1843869"/>
+		<Page Image="4" ImageSize="1359941"/>
+		<Page Image="5" ImageSize="1372432"/>
+		<Page Image="6" ImageSize="1657660"/>
+		<Page Image="7" ImageSize="2222836"/>
+		<Page Image="8" ImageSize="1405955"/>
+		<Page Image="9" ImageSize="1922678"/>
+		<Page Image="10" ImageSize="1713677"/>
+		<Page Image="11" ImageSize="1855561"/>
+		<Page Image="12" ImageSize="1568833"/>
+		<Page Image="13" ImageSize="1453272"/>
+		<Page Image="14" ImageSize="1464780"/>
+		<Page Image="15" ImageSize="1338932"/>
+		<Page Image="16" ImageSize="1509716"/>
+		<Page Image="17" ImageSize="1490470"/>
+		<Page Image="18" ImageSize="1226033"/>
+		<Page Image="19" ImageSize="1172966"/>
+		<Page Image="20" ImageSize="900662"/>
+		<Page Image="21" ImageSize="1618583"/>
+		<Page Image="22" ImageSize="1220613"/>
+		<Page Image="23" ImageSize="1042564"/>
+	</Pages>
+	<Penciller>Jacen Burrows,Raulo Caceres</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital) (JK-Empire)</ScanInformation>
+	<Series>Crossed Badlands</Series>
+	<Teams>The Crossed</Teams>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-347299/</Web>
+	<Writer>David Lapham</Writer>
+	<Year>2012</Year>
+</ComicInfo>

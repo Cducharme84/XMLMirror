@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Alex Fairchild,Anna,Burnout,Caitlin Fairchild,Freefall,Grunge,John Lynch,Rainmaker</Characters>
+	<Colorist>Joe Chiodo</Colorist>
+	<Count>80</Count>
+	<Day>1</Day>
+	<Editor>Sarah Becker</Editor>
+	<GTIN>urn:comicvine:4000-157070</GTIN>
+	<Inker>Sandra Hope</Inker>
+	<Letterer>Bill O'Neil</Letterer>
+	<Locations>California,Gamorra</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:36:49 [Issue ID 4000-157070] urn:comicvine:4000-157070</Notes>
+	<Number>14</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="347914" Type="FrontCover"/>
+		<Page Image="1" ImageSize="555983"/>
+		<Page Image="2" ImageSize="465324"/>
+		<Page Image="3" ImageSize="525609"/>
+		<Page Image="4" ImageSize="501586"/>
+		<Page Image="5" ImageSize="514387"/>
+		<Page Image="6" ImageSize="484539"/>
+		<Page Image="7" ImageSize="484924"/>
+		<Page Image="8" ImageSize="504102"/>
+		<Page Image="9" ImageSize="554832"/>
+		<Page Image="10" ImageSize="469514"/>
+		<Page Image="11" ImageSize="506926"/>
+		<Page Image="12" ImageSize="478934"/>
+		<Page Image="13" ImageSize="435428"/>
+		<Page Image="14" ImageSize="459131"/>
+		<Page Image="15" ImageSize="402428"/>
+		<Page Image="16" ImageSize="514689"/>
+		<Page Image="17" ImageSize="469542"/>
+		<Page Image="18" ImageSize="479902"/>
+		<Page Image="19" ImageSize="439314"/>
+		<Page Image="20" ImageSize="461848"/>
+		<Page Image="21" ImageSize="435909"/>
+		<Page Image="22" ImageSize="415165"/>
+	</Pages>
+	<Penciller>Luke Ross</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>Gen 13</Series>
+	<Summary>The Gen13 team attends school.</Summary>
+	<Teams>Gen 13</Teams>
+	<Title>Higher Learning</Title>
+	<Volume>1994</Volume>
+	<Web>https://comicvine.gamespot.com/gen-13-14-higher-learning/4000-157070/</Web>
+	<Writer>Brandon Choi,Jim Lee</Writer>
+	<Year>1996</Year>
+</ComicInfo>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>For Mature Readers</AgeRating>
+  <Characters>Freddy Krueger</Characters>
+  <Colorist>Andrew Dalhouse</Colorist>
+  <Count>3</Count>
+  <Day>1</Day>
+  <Editor>William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-128245</GTIN>
+  <Inker>Juan Jose Ryp</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:01 [Issue ID 4000-128245] urn:comicvine:4000-128245 urn:grandcomicsdatabase:issue/301023
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:44:59. [Issue ID 301023]</Notes>
+  <Number>2</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="587543" Type="FrontCover" />
+    <Page Image="1" ImageSize="561436" />
+    <Page Image="2" ImageSize="504801" />
+    <Page Image="3" ImageSize="1119313" />
+    <Page Image="4" ImageSize="260822" />
+    <Page Image="5" ImageSize="806879" />
+    <Page Image="6" ImageSize="405672" />
+    <Page Image="7" ImageSize="348648" />
+    <Page Image="8" ImageSize="401889" />
+    <Page Image="9" ImageSize="382338" />
+    <Page Image="10" ImageSize="351478" />
+    <Page Image="11" ImageSize="345098" />
+    <Page Image="12" ImageSize="399045" />
+    <Page Image="13" ImageSize="398789" />
+    <Page Image="14" ImageSize="436495" />
+    <Page Image="15" ImageSize="364468" />
+    <Page Image="16" ImageSize="407616" />
+    <Page Image="17" ImageSize="397983" />
+    <Page Image="18" ImageSize="406319" />
+    <Page Image="19" ImageSize="376930" />
+    <Page Image="20" ImageSize="427102" />
+    <Page Image="21" ImageSize="449834" />
+    <Page Image="22" ImageSize="379701" />
+    <Page Image="23" ImageSize="367245" />
+    <Page Image="24" ImageSize="380785" />
+    <Page Image="25" ImageSize="450955" />
+    <Page Image="26" ImageSize="318298" />
+    <Page Image="27" ImageSize="377087" />
+    <Page Image="28" ImageSize="410956" />
+    <Page Image="29" ImageSize="365039" />
+  </Pages>
+  <Penciller>Juan Jose Ryp</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>A Nightmare on Elm Street: Paranoid</Series>
+  <Volume>2006</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-128245/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2006</Year>
+</ComicInfo>

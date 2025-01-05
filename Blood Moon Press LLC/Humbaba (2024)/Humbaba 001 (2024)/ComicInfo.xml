@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Colorist>Ricky Sikes</Colorist>
+	<Count>4</Count>
+	<Format>Limited Series</Format>
+	<Genre>Comedy,Horror</Genre>
+	<Inker>Ricky Sikes</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-10T19:02:37</Notes>
+	<Number>1</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3936" ImageSize="2319677" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3936" ImageSize="1548006"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3936" ImageSize="2099963"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3936" ImageSize="2033694"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3936" ImageSize="1972656"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3936" ImageSize="1789612"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3936" ImageSize="1832670"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3936" ImageSize="2266860"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3936" ImageSize="2040911"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3936" ImageSize="1700522"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3936" ImageSize="1784103"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3936" ImageSize="1542212"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3936" ImageSize="1957422"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3936" ImageSize="1952951"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3936" ImageSize="1742341"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3936" ImageSize="2129272"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3936" ImageSize="1733803"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3936" ImageSize="1451752"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3936" ImageSize="1882817"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3936" ImageSize="1768059"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3936" ImageSize="1892491"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3936" ImageSize="2038744"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3936" ImageSize="1667161"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3936" ImageSize="2105975"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3936" ImageSize="2027723"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3936" ImageSize="1659858"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3936" ImageSize="854189"/>
+		<Page Image="27" ImageSize="1506942"/>
+	</Pages>
+	<Penciller>Ricky Sikes</Penciller>
+	<Publisher>Blood Moon Press LLC</Publisher>
+	<Series>Humbaba</Series>
+	<Summary>Deep in the bayou of Louisiana our hero Fil, after being manipulated by sinister forces, must redeem himself after inadvertently unleashing an unspeakable and dangerous mutant creature in an enchanted wildlife refuge. It's mayhem in the bayou with mutants, spirits, and cyborgs, and it all mixes to create a gumbo of horror, comedy, and science fiction.</Summary>
+	<Volume>2024</Volume>
+	<Writer>Ricky Sikes</Writer>
+	<Year>2024</Year>
+</ComicInfo>

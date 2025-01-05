@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Raven,Jack of Fables,Nick Slick,Old Scratch,The Prince of Darkness,Gary [Pathetic Fallacy],Lucy-Fur,Pan,Vrumpus Dipluntus,Wicked John,Pricilla Page,Snow Queen [Lumi],Headless Horseman</Characters>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-587313</GTIN>
+  <Inker>Brian Bolland,Russell Braun,Tony Akins,Andrew Robinson,Andrew Pepoy,Bill Reinhold,Steve Leialoha,Andrew Robinson,Andrew Pepoy,Bill Reinhold,Steve Leialoha</Inker>
+  <Locations>Pacific Ocean,Hollywood,Homelands,New York City,Empire State Building,Cascade Mountains,Gingerbread House,Black Forest,Germany,Arizona,Heaven,Americana,Grand Canyon,Idaho,Washington State,The Woodland,Wyoming,New York State,Fabletown,Louisiana,Las Vegas,California,Nevada,New Mexico,Sleepy Hollow,Manhattan,Golden Boughs Retirement Community,Cloud Kingdom,Los Angeles,North America,The Hesse,Hell</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:50:54 [Issue ID 4000-587313] urn:comicvine:4000-587313
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 21:12:29. [Issue ID 1680376]</Notes>
+  <Number>1</Number>
+  <PageCount>410</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="2220859" ImageWidth="1983" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="903955" ImageWidth="1985" />
+    <Page Image="2" ImageHeight="3056" ImageSize="4202752" ImageWidth="3968" />
+    <Page Image="3" ImageHeight="3056" ImageSize="2070698" ImageWidth="1985" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1658122" ImageWidth="1985" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1598279" ImageWidth="1985" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1705492" ImageWidth="1985" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1590476" ImageWidth="1985" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1405867" ImageWidth="1985" />
+    <Page Image="9" ImageHeight="3056" ImageSize="1490393" ImageWidth="1985" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1584983" ImageWidth="1985" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1238405" ImageWidth="1985" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1218401" ImageWidth="1985" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1270107" ImageWidth="1985" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1448707" ImageWidth="1985" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1338179" ImageWidth="1985" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1047191" ImageWidth="1985" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1341339" ImageWidth="1985" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1062058" ImageWidth="1985" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2933333" ImageWidth="3969" />
+    <Page Image="20" ImageHeight="3056" ImageSize="1027642" ImageWidth="1985" />
+    <Page Image="21" ImageHeight="3056" ImageSize="825732" ImageWidth="1985" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1070373" ImageWidth="1985" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1041451" ImageWidth="1985" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1243678" ImageWidth="1985" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1404290" ImageWidth="1985" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1315781" ImageWidth="1985" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1382575" ImageWidth="1985" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1314134" ImageWidth="1985" />
+    <Page Image="29" ImageHeight="3056" ImageSize="1356167" ImageWidth="1985" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1316692" ImageWidth="1985" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1033720" ImageWidth="1985" />
+    <Page Image="32" ImageHeight="3056" ImageSize="1468095" ImageWidth="1985" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1326306" ImageWidth="1985" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1391477" ImageWidth="1985" />
+    <Page Image="35" ImageHeight="3056" ImageSize="1301877" ImageWidth="1985" />
+    <Page Image="36" ImageHeight="3056" ImageSize="1459765" ImageWidth="1985" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1563254" ImageWidth="1985" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1537237" ImageWidth="1985" />
+    <Page Image="39" ImageHeight="3056" ImageSize="1176872" ImageWidth="1985" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1436141" ImageWidth="1985" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1528692" ImageWidth="1985" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1358957" ImageWidth="1985" />
+    <Page Image="43" ImageHeight="3056" ImageSize="1473033" ImageWidth="1985" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1366419" ImageWidth="1985" />
+    <Page Image="45" ImageHeight="3056" ImageSize="1193613" ImageWidth="1985" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1463000" ImageWidth="1985" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1494025" ImageWidth="1985" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1206331" ImageWidth="1985" />
+    <Page Image="49" ImageHeight="3056" ImageSize="940271" ImageWidth="1985" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1188243" ImageWidth="1985" />
+    <Page Image="51" ImageHeight="3056" ImageSize="1364882" ImageWidth="1985" />
+    <Page Image="52" ImageHeight="3056" ImageSize="1333534" ImageWidth="1985" />
+    <Page Image="53" ImageHeight="3056" ImageSize="1107081" ImageWidth="1985" />
+    <Page Image="54" ImageHeight="3056" ImageSize="1290914" ImageWidth="1985" />
+    <Page Image="55" ImageHeight="3056" ImageSize="1533322" ImageWidth="1985" />
+    <Page Image="56" ImageHeight="3056" ImageSize="1742122" ImageWidth="1985" />
+    <Page Image="57" ImageHeight="3056" ImageSize="1192705" ImageWidth="1985" />
+    <Page Image="58" ImageHeight="3056" ImageSize="2353499" ImageWidth="3969" />
+    <Page Image="59" ImageHeight="3056" ImageSize="1454941" ImageWidth="1985" />
+    <Page Image="60" ImageHeight="3056" ImageSize="1206066" ImageWidth="1985" />
+    <Page Image="61" ImageHeight="3056" ImageSize="1100720" ImageWidth="1985" />
+    <Page Image="62" ImageHeight="3056" ImageSize="1326712" ImageWidth="1985" />
+    <Page Image="63" ImageHeight="3056" ImageSize="1277240" ImageWidth="1985" />
+    <Page Image="64" ImageHeight="3056" ImageSize="1120519" ImageWidth="1985" />
+    <Page Image="65" ImageHeight="3056" ImageSize="935222" ImageWidth="1985" />
+    <Page Image="66" ImageHeight="3056" ImageSize="983221" ImageWidth="1985" />
+    <Page Image="67" ImageHeight="3056" ImageSize="1367306" ImageWidth="1985" />
+    <Page Image="68" ImageHeight="3056" ImageSize="1381585" ImageWidth="1985" />
+    <Page Image="69" ImageHeight="3056" ImageSize="1130377" ImageWidth="1985" />
+    <Page Image="70" ImageHeight="3056" ImageSize="1278791" ImageWidth="1985" />
+    <Page Image="71" ImageHeight="3056" ImageSize="1560920" ImageWidth="1985" />
+    <Page Image="72" ImageHeight="3056" ImageSize="1244091" ImageWidth="1985" />
+    <Page Image="73" ImageHeight="3056" ImageSize="1908080" ImageWidth="1985" />
+    <Page Image="74" ImageHeight="3056" ImageSize="1469929" ImageWidth="1985" />
+    <Page Image="75" ImageHeight="3056" ImageSize="1198455" ImageWidth="1985" />
+    <Page Image="76" ImageHeight="3056" ImageSize="1192977" ImageWidth="1985" />
+    <Page Image="77" ImageHeight="3056" ImageSize="1353249" ImageWidth="1985" />
+    <Page Image="78" ImageHeight="3056" ImageSize="1934103" ImageWidth="1985" />
+    <Page Image="79" ImageHeight="3056" ImageSize="1467461" ImageWidth="1985" />
+    <Page Image="80" ImageHeight="3056" ImageSize="1117739" ImageWidth="1985" />
+    <Page Image="81" ImageHeight="3056" ImageSize="1357650" ImageWidth="1985" />
+    <Page Image="82" ImageHeight="3056" ImageSize="934756" ImageWidth="1985" />
+    <Page Image="83" ImageHeight="3056" ImageSize="1139447" ImageWidth="1985" />
+    <Page Image="84" ImageHeight="3056" ImageSize="1380600" ImageWidth="1985" />
+    <Page Image="85" ImageHeight="3056" ImageSize="1120972" ImageWidth="1985" />
+    <Page Image="86" ImageHeight="3056" ImageSize="1195862" ImageWidth="1985" />
+    <Page Image="87" ImageHeight="3056" ImageSize="1248586" ImageWidth="1985" />
+    <Page Image="88" ImageHeight="3056" ImageSize="1060161" ImageWidth="1985" />
+    <Page Image="89" ImageHeight="3056" ImageSize="1187361" ImageWidth="1985" />
+    <Page Image="90" ImageHeight="3056" ImageSize="1150714" ImageWidth="1985" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1089939" ImageWidth="1985" />
+    <Page Image="92" ImageHeight="3056" ImageSize="1234316" ImageWidth="1985" />
+    <Page Image="93" ImageHeight="3056" ImageSize="1374255" ImageWidth="1985" />
+    <Page Image="94" ImageHeight="3056" ImageSize="1107813" ImageWidth="1985" />
+    <Page Image="95" ImageHeight="3056" ImageSize="1465222" ImageWidth="1985" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1140977" ImageWidth="1985" />
+    <Page Image="97" ImageHeight="3056" ImageSize="1051736" ImageWidth="1985" />
+    <Page Image="98" ImageHeight="3056" ImageSize="941071" ImageWidth="1985" />
+    <Page Image="99" ImageHeight="3056" ImageSize="1088747" ImageWidth="1985" />
+    <Page Image="100" ImageHeight="3056" ImageSize="1166638" ImageWidth="1985" />
+    <Page Image="101" ImageHeight="3056" ImageSize="1055196" ImageWidth="1985" />
+    <Page Image="102" ImageHeight="3056" ImageSize="2085217" ImageWidth="1985" />
+    <Page Image="103" ImageHeight="3056" ImageSize="1472739" ImageWidth="1985" />
+    <Page Image="104" ImageHeight="3056" ImageSize="1175484" ImageWidth="1985" />
+    <Page Image="105" ImageHeight="3056" ImageSize="1109026" ImageWidth="1985" />
+    <Page Image="106" ImageHeight="3056" ImageSize="961269" ImageWidth="1985" />
+    <Page Image="107" ImageHeight="3056" ImageSize="999196" ImageWidth="1985" />
+    <Page Image="108" ImageHeight="3056" ImageSize="953317" ImageWidth="1985" />
+    <Page Image="109" ImageHeight="3056" ImageSize="1005114" ImageWidth="1985" />
+    <Page Image="110" ImageHeight="3056" ImageSize="1251927" ImageWidth="1985" />
+    <Page Image="111" ImageHeight="3056" ImageSize="1221278" ImageWidth="1985" />
+    <Page Image="112" ImageHeight="3056" ImageSize="1593983" ImageWidth="1985" />
+    <Page Image="113" ImageHeight="3056" ImageSize="1152993" ImageWidth="1985" />
+    <Page Image="114" ImageHeight="3056" ImageSize="1228836" ImageWidth="1985" />
+    <Page Image="115" ImageHeight="3056" ImageSize="1046145" ImageWidth="1985" />
+    <Page Image="116" ImageHeight="3056" ImageSize="1113320" ImageWidth="1985" />
+    <Page Image="117" ImageHeight="3056" ImageSize="1083970" ImageWidth="1985" />
+    <Page Image="118" ImageHeight="3056" ImageSize="1212020" ImageWidth="1985" />
+    <Page Image="119" ImageHeight="3056" ImageSize="1020166" ImageWidth="1985" />
+    <Page Image="120" ImageHeight="3056" ImageSize="1228707" ImageWidth="1985" />
+    <Page Image="121" ImageHeight="3056" ImageSize="1156640" ImageWidth="1985" />
+    <Page Image="122" ImageHeight="3056" ImageSize="1348642" ImageWidth="1985" />
+    <Page Image="123" ImageHeight="3056" ImageSize="992375" ImageWidth="1985" />
+    <Page Image="124" ImageHeight="3056" ImageSize="1498229" ImageWidth="1985" />
+    <Page Image="125" ImageHeight="3056" ImageSize="1068559" ImageWidth="1985" />
+    <Page Image="126" ImageHeight="3056" ImageSize="1378672" ImageWidth="1985" />
+    <Page Image="127" ImageHeight="3056" ImageSize="1744349" ImageWidth="1985" />
+    <Page Image="128" ImageHeight="3056" ImageSize="1084562" ImageWidth="1985" />
+    <Page Image="129" ImageHeight="3056" ImageSize="1653666" ImageWidth="1985" />
+    <Page Image="130" ImageHeight="3056" ImageSize="1462529" ImageWidth="1985" />
+    <Page Image="131" ImageHeight="3056" ImageSize="1077999" ImageWidth="1985" />
+    <Page Image="132" ImageHeight="3056" ImageSize="1483758" ImageWidth="1985" />
+    <Page Image="133" ImageHeight="3056" ImageSize="1686839" ImageWidth="1985" />
+    <Page Image="134" ImageHeight="3056" ImageSize="1641185" ImageWidth="1985" />
+    <Page Image="135" ImageHeight="3056" ImageSize="1655933" ImageWidth="1985" />
+    <Page Image="136" ImageHeight="3056" ImageSize="1666079" ImageWidth="1985" />
+    <Page Image="137" ImageHeight="3056" ImageSize="1595399" ImageWidth="1985" />
+    <Page Image="138" ImageHeight="3056" ImageSize="1322641" ImageWidth="1985" />
+    <Page Image="139" ImageHeight="3056" ImageSize="1607904" ImageWidth="1985" />
+    <Page Image="140" ImageHeight="3056" ImageSize="1533046" ImageWidth="1985" />
+    <Page Image="141" ImageHeight="3056" ImageSize="996182" ImageWidth="1985" />
+    <Page Image="142" ImageHeight="3056" ImageSize="976900" ImageWidth="1985" />
+    <Page Image="143" ImageHeight="3056" ImageSize="1377675" ImageWidth="1985" />
+    <Page Image="144" ImageHeight="3056" ImageSize="1376263" ImageWidth="1985" />
+    <Page Image="145" ImageHeight="3056" ImageSize="958902" ImageWidth="1985" />
+    <Page Image="146" ImageHeight="3056" ImageSize="1448646" ImageWidth="1985" />
+    <Page Image="147" ImageHeight="3056" ImageSize="1323036" ImageWidth="1985" />
+    <Page Image="148" ImageHeight="3056" ImageSize="1058333" ImageWidth="1985" />
+    <Page Image="149" ImageHeight="3056" ImageSize="1442507" ImageWidth="1985" />
+    <Page Image="150" ImageHeight="3056" ImageSize="1355561" ImageWidth="1985" />
+    <Page Image="151" ImageHeight="3056" ImageSize="1474629" ImageWidth="1985" />
+    <Page Image="152" ImageHeight="3056" ImageSize="1335302" ImageWidth="1985" />
+    <Page Image="153" ImageHeight="3056" ImageSize="1402150" ImageWidth="1985" />
+    <Page Image="154" ImageHeight="3056" ImageSize="1562864" ImageWidth="1985" />
+    <Page Image="155" ImageHeight="3056" ImageSize="1403144" ImageWidth="1985" />
+    <Page Image="156" ImageHeight="3056" ImageSize="1278244" ImageWidth="1985" />
+    <Page Image="157" ImageHeight="3056" ImageSize="1367900" ImageWidth="1985" />
+    <Page Image="158" ImageHeight="3056" ImageSize="1623592" ImageWidth="1985" />
+    <Page Image="159" ImageHeight="3056" ImageSize="1568360" ImageWidth="1985" />
+    <Page Image="160" ImageHeight="3056" ImageSize="1016717" ImageWidth="1985" />
+    <Page Image="161" ImageHeight="3056" ImageSize="1452989" ImageWidth="1985" />
+    <Page Image="162" ImageHeight="3056" ImageSize="1534729" ImageWidth="1985" />
+    <Page Image="163" ImageHeight="3056" ImageSize="1567875" ImageWidth="1985" />
+    <Page Image="164" ImageHeight="3056" ImageSize="1268591" ImageWidth="1985" />
+    <Page Image="165" ImageHeight="3056" ImageSize="1507627" ImageWidth="1985" />
+    <Page Image="166" ImageHeight="3056" ImageSize="1337468" ImageWidth="1985" />
+    <Page Image="167" ImageHeight="3056" ImageSize="1515252" ImageWidth="1985" />
+    <Page Image="168" ImageHeight="3056" ImageSize="1368235" ImageWidth="1985" />
+    <Page Image="169" ImageHeight="3056" ImageSize="1557442" ImageWidth="1985" />
+    <Page Image="170" ImageHeight="3056" ImageSize="1206772" ImageWidth="1985" />
+    <Page Image="171" ImageHeight="3056" ImageSize="1462666" ImageWidth="1985" />
+    <Page Image="172" ImageHeight="3056" ImageSize="1668618" ImageWidth="1985" />
+    <Page Image="173" ImageHeight="3056" ImageSize="1537791" ImageWidth="1985" />
+    <Page Image="174" ImageHeight="3056" ImageSize="1248518" ImageWidth="1985" />
+    <Page Image="175" ImageHeight="3056" ImageSize="1470635" ImageWidth="1985" />
+    <Page Image="176" ImageHeight="3056" ImageSize="1353810" ImageWidth="1985" />
+    <Page Image="177" ImageHeight="3056" ImageSize="1251570" ImageWidth="1985" />
+    <Page Image="178" ImageHeight="3056" ImageSize="1265473" ImageWidth="1985" />
+    <Page Image="179" ImageHeight="3056" ImageSize="1372678" ImageWidth="1985" />
+    <Page Image="180" ImageHeight="3056" ImageSize="1274148" ImageWidth="1985" />
+    <Page Image="181" ImageHeight="3056" ImageSize="1171985" ImageWidth="1985" />
+    <Page Image="182" ImageHeight="3056" ImageSize="1308046" ImageWidth="1985" />
+    <Page Image="183" ImageHeight="3056" ImageSize="1192383" ImageWidth="1985" />
+    <Page Image="184" ImageHeight="3056" ImageSize="1133483" ImageWidth="1985" />
+    <Page Image="185" ImageHeight="3056" ImageSize="1368904" ImageWidth="1985" />
+    <Page Image="186" ImageHeight="3056" ImageSize="924575" ImageWidth="1985" />
+    <Page Image="187" ImageHeight="3056" ImageSize="1175309" ImageWidth="1985" />
+    <Page Image="188" ImageHeight="3056" ImageSize="1412006" ImageWidth="1985" />
+    <Page Image="189" ImageHeight="3056" ImageSize="1262683" ImageWidth="1985" />
+    <Page Image="190" ImageHeight="3056" ImageSize="1111446" ImageWidth="1985" />
+    <Page Image="191" ImageHeight="3056" ImageSize="1441818" ImageWidth="1985" />
+    <Page Image="192" ImageHeight="3056" ImageSize="1369053" ImageWidth="1985" />
+    <Page Image="193" ImageHeight="3056" ImageSize="1364701" ImageWidth="1985" />
+    <Page Image="194" ImageHeight="3056" ImageSize="1616143" ImageWidth="1985" />
+    <Page Image="195" ImageHeight="3056" ImageSize="1457232" ImageWidth="1985" />
+    <Page Image="196" ImageHeight="3056" ImageSize="1240414" ImageWidth="1985" />
+    <Page Image="197" ImageHeight="3056" ImageSize="1290367" ImageWidth="1985" />
+    <Page Image="198" ImageHeight="3056" ImageSize="1322593" ImageWidth="1985" />
+    <Page Image="199" ImageHeight="3056" ImageSize="1689028" ImageWidth="1985" />
+    <Page Image="200" ImageHeight="3056" ImageSize="1160250" ImageWidth="1985" />
+    <Page Image="201" ImageHeight="3056" ImageSize="1809579" ImageWidth="1985" />
+    <Page Image="202" ImageHeight="3056" ImageSize="1540086" ImageWidth="1985" />
+    <Page Image="203" ImageHeight="3056" ImageSize="1383437" ImageWidth="1985" />
+    <Page Image="204" ImageHeight="3056" ImageSize="1232024" ImageWidth="1985" />
+    <Page Image="205" ImageHeight="3056" ImageSize="1249323" ImageWidth="1985" />
+    <Page Image="206" ImageHeight="3056" ImageSize="1292384" ImageWidth="1985" />
+    <Page Image="207" ImageHeight="3056" ImageSize="1604075" ImageWidth="1985" />
+    <Page Image="208" ImageHeight="3056" ImageSize="1247210" ImageWidth="1985" />
+    <Page Image="209" ImageHeight="3056" ImageSize="1335645" ImageWidth="1985" />
+    <Page Image="210" ImageHeight="3056" ImageSize="1309436" ImageWidth="1985" />
+    <Page Image="211" ImageHeight="3056" ImageSize="1359201" ImageWidth="1985" />
+    <Page Image="212" ImageHeight="3056" ImageSize="1393206" ImageWidth="1985" />
+    <Page Image="213" ImageHeight="3056" ImageSize="1290487" ImageWidth="1985" />
+    <Page Image="214" ImageHeight="3056" ImageSize="1280707" ImageWidth="1985" />
+    <Page Image="215" ImageHeight="3056" ImageSize="1373872" ImageWidth="1985" />
+    <Page Image="216" ImageHeight="3056" ImageSize="1453484" ImageWidth="1985" />
+    <Page Image="217" ImageHeight="3056" ImageSize="2399714" ImageWidth="3969" />
+    <Page Image="218" ImageHeight="3056" ImageSize="1206588" ImageWidth="1985" />
+    <Page Image="219" ImageHeight="3056" ImageSize="1110356" ImageWidth="1985" />
+    <Page Image="220" ImageHeight="3056" ImageSize="1357945" ImageWidth="1985" />
+    <Page Image="221" ImageHeight="3056" ImageSize="1156204" ImageWidth="1985" />
+    <Page Image="222" ImageHeight="3056" ImageSize="1702046" ImageWidth="1985" />
+    <Page Image="223" ImageHeight="3056" ImageSize="972399" ImageWidth="1985" />
+    <Page Image="224" ImageHeight="3056" ImageSize="1743971" ImageWidth="1985" />
+    <Page Image="225" ImageHeight="3056" ImageSize="1528287" ImageWidth="1985" />
+    <Page Image="226" ImageHeight="3056" ImageSize="1477428" ImageWidth="1985" />
+    <Page Image="227" ImageHeight="3056" ImageSize="1262905" ImageWidth="1985" />
+    <Page Image="228" ImageHeight="3056" ImageSize="1372108" ImageWidth="1985" />
+    <Page Image="229" ImageHeight="3056" ImageSize="1326081" ImageWidth="1985" />
+    <Page Image="230" ImageHeight="3056" ImageSize="1379583" ImageWidth="1985" />
+    <Page Image="231" ImageHeight="3056" ImageSize="1621374" ImageWidth="1985" />
+    <Page Image="232" ImageHeight="3056" ImageSize="1538509" ImageWidth="1985" />
+    <Page Image="233" ImageHeight="3056" ImageSize="1478496" ImageWidth="1985" />
+    <Page Image="234" ImageHeight="3056" ImageSize="1416035" ImageWidth="1985" />
+    <Page Image="235" ImageHeight="3056" ImageSize="1250544" ImageWidth="1985" />
+    <Page Image="236" ImageHeight="3056" ImageSize="1561701" ImageWidth="1985" />
+    <Page Image="237" ImageHeight="3056" ImageSize="1619056" ImageWidth="1985" />
+    <Page Image="238" ImageHeight="3056" ImageSize="1659575" ImageWidth="1985" />
+    <Page Image="239" ImageHeight="3056" ImageSize="1760004" ImageWidth="1985" />
+    <Page Image="240" ImageHeight="3056" ImageSize="1645028" ImageWidth="1985" />
+    <Page Image="241" ImageHeight="3056" ImageSize="967490" ImageWidth="1985" />
+    <Page Image="242" ImageHeight="3056" ImageSize="1181959" ImageWidth="1985" />
+    <Page Image="243" ImageHeight="3056" ImageSize="1137878" ImageWidth="1985" />
+    <Page Image="244" ImageHeight="3056" ImageSize="1164978" ImageWidth="1985" />
+    <Page Image="245" ImageHeight="3056" ImageSize="1435826" ImageWidth="1985" />
+    <Page Image="246" ImageHeight="3056" ImageSize="1273824" ImageWidth="1985" />
+    <Page Image="247" ImageHeight="3056" ImageSize="954532" ImageWidth="1985" />
+    <Page Image="248" ImageHeight="3056" ImageSize="1463049" ImageWidth="1985" />
+    <Page Image="249" ImageHeight="3056" ImageSize="1528883" ImageWidth="1985" />
+    <Page Image="250" ImageHeight="3056" ImageSize="1771735" ImageWidth="1985" />
+    <Page Image="251" ImageHeight="3056" ImageSize="1511221" ImageWidth="1985" />
+    <Page Image="252" ImageHeight="3056" ImageSize="1505943" ImageWidth="1985" />
+    <Page Image="253" ImageHeight="3056" ImageSize="1421019" ImageWidth="1985" />
+    <Page Image="254" ImageHeight="3056" ImageSize="1310885" ImageWidth="1985" />
+    <Page Image="255" ImageHeight="3056" ImageSize="1530277" ImageWidth="1985" />
+    <Page Image="256" ImageHeight="3056" ImageSize="1174171" ImageWidth="1985" />
+    <Page Image="257" ImageHeight="3056" ImageSize="1420814" ImageWidth="1985" />
+    <Page Image="258" ImageHeight="3056" ImageSize="1486272" ImageWidth="1985" />
+    <Page Image="259" ImageHeight="3056" ImageSize="1431041" ImageWidth="1985" />
+    <Page Image="260" ImageHeight="3056" ImageSize="1217184" ImageWidth="1985" />
+    <Page Image="261" ImageHeight="3056" ImageSize="1451368" ImageWidth="1985" />
+    <Page Image="262" ImageHeight="3056" ImageSize="1144366" ImageWidth="1985" />
+    <Page Image="263" ImageHeight="3056" ImageSize="1313605" ImageWidth="1985" />
+    <Page Image="264" ImageHeight="3056" ImageSize="1500998" ImageWidth="1985" />
+    <Page Image="265" ImageHeight="3056" ImageSize="1477364" ImageWidth="1985" />
+    <Page Image="266" ImageHeight="3056" ImageSize="1787206" ImageWidth="1985" />
+    <Page Image="267" ImageHeight="3056" ImageSize="1566642" ImageWidth="1985" />
+    <Page Image="268" ImageHeight="3056" ImageSize="1295081" ImageWidth="1985" />
+    <Page Image="269" ImageHeight="3056" ImageSize="1637311" ImageWidth="1985" />
+    <Page Image="270" ImageHeight="3056" ImageSize="1530768" ImageWidth="1985" />
+    <Page Image="271" ImageHeight="3056" ImageSize="2176339" ImageWidth="1985" />
+    <Page Image="272" ImageHeight="3056" ImageSize="1469650" ImageWidth="1985" />
+    <Page Image="273" ImageHeight="3056" ImageSize="1346480" ImageWidth="1985" />
+    <Page Image="274" ImageHeight="3056" ImageSize="1296096" ImageWidth="1985" />
+    <Page Image="275" ImageHeight="3056" ImageSize="1386674" ImageWidth="1985" />
+    <Page Image="276" ImageHeight="3056" ImageSize="1386165" ImageWidth="1985" />
+    <Page Image="277" ImageHeight="3056" ImageSize="1422969" ImageWidth="1985" />
+    <Page Image="278" ImageHeight="3056" ImageSize="1219735" ImageWidth="1985" />
+    <Page Image="279" ImageHeight="3056" ImageSize="1361462" ImageWidth="1985" />
+    <Page Image="280" ImageHeight="3056" ImageSize="1380481" ImageWidth="1985" />
+    <Page Image="281" ImageHeight="3056" ImageSize="930895" ImageWidth="1985" />
+    <Page Image="282" ImageHeight="3056" ImageSize="793629" ImageWidth="1985" />
+    <Page Image="283" ImageHeight="3056" ImageSize="952818" ImageWidth="1985" />
+    <Page Image="284" ImageHeight="3056" ImageSize="1022445" ImageWidth="1985" />
+    <Page Image="285" ImageHeight="3056" ImageSize="1376298" ImageWidth="1985" />
+    <Page Image="286" ImageHeight="3056" ImageSize="1419149" ImageWidth="1985" />
+    <Page Image="287" ImageHeight="3056" ImageSize="1322740" ImageWidth="1985" />
+    <Page Image="288" ImageHeight="3056" ImageSize="1020017" ImageWidth="1985" />
+    <Page Image="289" ImageHeight="3056" ImageSize="975103" ImageWidth="1985" />
+    <Page Image="290" ImageHeight="3056" ImageSize="1059355" ImageWidth="1985" />
+    <Page Image="291" ImageHeight="3056" ImageSize="1120645" ImageWidth="1985" />
+    <Page Image="292" ImageHeight="3056" ImageSize="1209072" ImageWidth="1985" />
+    <Page Image="293" ImageHeight="3056" ImageSize="1224275" ImageWidth="1985" />
+    <Page Image="294" ImageHeight="3056" ImageSize="1638020" ImageWidth="1985" />
+    <Page Image="295" ImageHeight="3056" ImageSize="1978982" ImageWidth="1985" />
+    <Page Image="296" ImageHeight="3056" ImageSize="1736520" ImageWidth="1985" />
+    <Page Image="297" ImageHeight="3056" ImageSize="1286334" ImageWidth="1985" />
+    <Page Image="298" ImageHeight="3056" ImageSize="1447904" ImageWidth="1985" />
+    <Page Image="299" ImageHeight="3056" ImageSize="1220010" ImageWidth="1985" />
+    <Page Image="300" ImageHeight="3056" ImageSize="1392812" ImageWidth="1985" />
+    <Page Image="301" ImageHeight="3056" ImageSize="1285362" ImageWidth="1985" />
+    <Page Image="302" ImageHeight="3056" ImageSize="1311375" ImageWidth="1985" />
+    <Page Image="303" ImageHeight="3056" ImageSize="1287974" ImageWidth="1985" />
+    <Page Image="304" ImageHeight="3056" ImageSize="1337745" ImageWidth="1985" />
+    <Page Image="305" ImageHeight="3056" ImageSize="1124945" ImageWidth="1985" />
+    <Page Image="306" ImageHeight="3056" ImageSize="1361305" ImageWidth="1985" />
+    <Page Image="307" ImageHeight="3056" ImageSize="1531662" ImageWidth="1985" />
+    <Page Image="308" ImageHeight="3056" ImageSize="1313187" ImageWidth="1985" />
+    <Page Image="309" ImageHeight="3056" ImageSize="1287330" ImageWidth="1985" />
+    <Page Image="310" ImageHeight="3056" ImageSize="1494204" ImageWidth="1985" />
+    <Page Image="311" ImageHeight="3056" ImageSize="1474721" ImageWidth="1985" />
+    <Page Image="312" ImageHeight="3056" ImageSize="1365678" ImageWidth="1985" />
+    <Page Image="313" ImageHeight="3056" ImageSize="1167110" ImageWidth="1985" />
+    <Page Image="314" ImageHeight="3056" ImageSize="897262" ImageWidth="1985" />
+    <Page Image="315" ImageHeight="3056" ImageSize="1578256" ImageWidth="1985" />
+    <Page Image="316" ImageHeight="3056" ImageSize="1489467" ImageWidth="1985" />
+    <Page Image="317" ImageHeight="3056" ImageSize="1486185" ImageWidth="1985" />
+    <Page Image="318" ImageHeight="3056" ImageSize="1438598" ImageWidth="1985" />
+    <Page Image="319" ImageHeight="3056" ImageSize="2010587" ImageWidth="1985" />
+    <Page Image="320" ImageHeight="3056" ImageSize="1477037" ImageWidth="1985" />
+    <Page Image="321" ImageHeight="3056" ImageSize="1242045" ImageWidth="1985" />
+    <Page Image="322" ImageHeight="3056" ImageSize="1348788" ImageWidth="1985" />
+    <Page Image="323" ImageHeight="3056" ImageSize="1504108" ImageWidth="1985" />
+    <Page Image="324" ImageHeight="3056" ImageSize="1074221" ImageWidth="1985" />
+    <Page Image="325" ImageHeight="3056" ImageSize="1056400" ImageWidth="1985" />
+    <Page Image="326" ImageHeight="3056" ImageSize="1332246" ImageWidth="1985" />
+    <Page Image="327" ImageHeight="3056" ImageSize="1226323" ImageWidth="1985" />
+    <Page Image="328" ImageHeight="3056" ImageSize="1347069" ImageWidth="1985" />
+    <Page Image="329" ImageHeight="3056" ImageSize="1430251" ImageWidth="1985" />
+    <Page Image="330" ImageHeight="3056" ImageSize="1404952" ImageWidth="1985" />
+    <Page Image="331" ImageHeight="3056" ImageSize="949982" ImageWidth="1985" />
+    <Page Image="332" ImageHeight="3056" ImageSize="1452742" ImageWidth="1985" />
+    <Page Image="333" ImageHeight="3056" ImageSize="1487988" ImageWidth="1985" />
+    <Page Image="334" ImageHeight="3056" ImageSize="1378927" ImageWidth="1985" />
+    <Page Image="335" ImageHeight="3056" ImageSize="1299521" ImageWidth="1985" />
+    <Page Image="336" ImageHeight="3056" ImageSize="1283980" ImageWidth="1985" />
+    <Page Image="337" ImageHeight="3056" ImageSize="1441549" ImageWidth="1985" />
+    <Page Image="338" ImageHeight="3056" ImageSize="1521157" ImageWidth="1985" />
+    <Page Image="339" ImageHeight="3056" ImageSize="1505323" ImageWidth="1985" />
+    <Page Image="340" ImageHeight="3056" ImageSize="1535299" ImageWidth="1985" />
+    <Page Image="341" ImageHeight="3056" ImageSize="1647272" ImageWidth="1985" />
+    <Page Image="342" ImageHeight="3056" ImageSize="1229440" ImageWidth="1985" />
+    <Page Image="343" ImageHeight="3056" ImageSize="1395221" ImageWidth="1985" />
+    <Page Image="344" ImageHeight="3056" ImageSize="1467080" ImageWidth="1985" />
+    <Page Image="345" ImageHeight="3056" ImageSize="1344653" ImageWidth="1985" />
+    <Page Image="346" ImageHeight="3056" ImageSize="2382512" ImageWidth="3969" />
+    <Page Image="347" ImageHeight="3056" ImageSize="1263821" ImageWidth="1985" />
+    <Page Image="348" ImageHeight="3056" ImageSize="1416043" ImageWidth="1985" />
+    <Page Image="349" ImageHeight="3056" ImageSize="1226421" ImageWidth="1985" />
+    <Page Image="350" ImageHeight="3056" ImageSize="1022046" ImageWidth="1985" />
+    <Page Image="351" ImageHeight="3056" ImageSize="1183404" ImageWidth="1985" />
+    <Page Image="352" ImageHeight="3056" ImageSize="1438535" ImageWidth="1985" />
+    <Page Image="353" ImageHeight="3056" ImageSize="1317452" ImageWidth="1985" />
+    <Page Image="354" ImageHeight="3056" ImageSize="1429453" ImageWidth="1985" />
+    <Page Image="355" ImageHeight="3056" ImageSize="1047244" ImageWidth="1985" />
+    <Page Image="356" ImageHeight="3056" ImageSize="1223765" ImageWidth="1985" />
+    <Page Image="357" ImageHeight="3056" ImageSize="1313109" ImageWidth="1985" />
+    <Page Image="358" ImageHeight="3056" ImageSize="1200603" ImageWidth="1985" />
+    <Page Image="359" ImageHeight="3056" ImageSize="1199323" ImageWidth="1985" />
+    <Page Image="360" ImageHeight="3056" ImageSize="1360189" ImageWidth="1985" />
+    <Page Image="361" ImageHeight="3056" ImageSize="1419247" ImageWidth="1985" />
+    <Page Image="362" ImageHeight="3056" ImageSize="1288426" ImageWidth="1985" />
+    <Page Image="363" ImageHeight="3056" ImageSize="1154647" ImageWidth="1985" />
+    <Page Image="364" ImageHeight="3056" ImageSize="1275562" ImageWidth="1985" />
+    <Page Image="365" ImageHeight="3056" ImageSize="1271359" ImageWidth="1985" />
+    <Page Image="366" ImageHeight="3056" ImageSize="1489073" ImageWidth="1985" />
+    <Page Image="367" ImageHeight="3056" ImageSize="1749800" ImageWidth="1985" />
+    <Page Image="368" ImageHeight="3056" ImageSize="1141726" ImageWidth="1985" />
+    <Page Image="369" ImageHeight="3056" ImageSize="1646347" ImageWidth="1985" />
+    <Page Image="370" ImageHeight="3056" ImageSize="1181969" ImageWidth="1985" />
+    <Page Image="371" ImageHeight="3056" ImageSize="1078803" ImageWidth="1985" />
+    <Page Image="372" ImageHeight="3056" ImageSize="1349344" ImageWidth="1985" />
+    <Page Image="373" ImageHeight="3056" ImageSize="1521789" ImageWidth="1985" />
+    <Page Image="374" ImageHeight="3056" ImageSize="1303503" ImageWidth="1985" />
+    <Page Image="375" ImageHeight="3056" ImageSize="1346594" ImageWidth="1985" />
+    <Page Image="376" ImageHeight="3056" ImageSize="1110847" ImageWidth="1985" />
+    <Page Image="377" ImageHeight="3056" ImageSize="1056930" ImageWidth="1985" />
+    <Page Image="378" ImageHeight="3056" ImageSize="1338803" ImageWidth="1985" />
+    <Page Image="379" ImageHeight="3056" ImageSize="1152724" ImageWidth="1985" />
+    <Page Image="380" ImageHeight="3056" ImageSize="1005314" ImageWidth="1985" />
+    <Page Image="381" ImageHeight="3056" ImageSize="903061" ImageWidth="1985" />
+    <Page Image="382" ImageHeight="3056" ImageSize="1043391" ImageWidth="1985" />
+    <Page Image="383" ImageHeight="3056" ImageSize="1368065" ImageWidth="1985" />
+    <Page Image="384" ImageHeight="3056" ImageSize="1054280" ImageWidth="1985" />
+    <Page Image="385" ImageHeight="3056" ImageSize="845846" ImageWidth="1985" />
+    <Page Image="386" ImageHeight="3056" ImageSize="1009477" ImageWidth="1985" />
+    <Page Image="387" ImageHeight="3056" ImageSize="989765" ImageWidth="1985" />
+    <Page Image="388" ImageHeight="3056" ImageSize="926846" ImageWidth="1985" />
+    <Page Image="389" ImageHeight="3056" ImageSize="661718" ImageWidth="1985" />
+    <Page Image="390" ImageHeight="3056" ImageSize="1241560" ImageWidth="1985" />
+    <Page Image="391" ImageHeight="3056" ImageSize="1739915" ImageWidth="3968" />
+    <Page Image="392" ImageHeight="3056" ImageSize="916079" ImageWidth="1985" />
+    <Page Image="393" ImageHeight="3056" ImageSize="957840" ImageWidth="1985" />
+    <Page Image="394" ImageHeight="3056" ImageSize="845312" ImageWidth="1985" />
+    <Page Image="395" ImageHeight="3056" ImageSize="1219879" ImageWidth="1985" />
+    <Page Image="396" ImageHeight="3056" ImageSize="749806" ImageWidth="1985" />
+    <Page Image="397" ImageHeight="3056" ImageSize="916799" ImageWidth="1985" />
+    <Page Image="398" ImageHeight="3056" ImageSize="1295491" ImageWidth="3968" />
+    <Page Image="399" ImageHeight="3056" ImageSize="1436654" ImageWidth="1985" />
+    <Page Image="400" ImageHeight="3056" ImageSize="1544945" ImageWidth="1985" />
+    <Page Image="401" ImageHeight="3056" ImageSize="3671792" ImageWidth="3968" />
+    <Page Image="402" ImageHeight="3056" ImageSize="1444936" ImageWidth="1985" />
+    <Page Image="403" ImageHeight="3056" ImageSize="1462037" ImageWidth="1985" />
+    <Page Image="404" ImageHeight="3056" ImageSize="1400905" ImageWidth="1985" />
+    <Page Image="405" ImageHeight="3056" ImageSize="1367855" ImageWidth="1985" />
+    <Page Image="406" ImageHeight="3056" ImageSize="1595132" ImageWidth="1985" />
+    <Page Image="407" ImageHeight="3056" ImageSize="2158231" ImageWidth="1985" />
+    <Page Image="408" ImageHeight="3056" ImageSize="2069012" ImageWidth="1985" />
+    <Page Image="409" ImageSize="1599166" />
+  </Pages>
+  <Penciller>Brian Bolland,Russell Braun,Tony Akins,Andrew Robinson,Russ Braun,Steve Leialoha,Andrew Pepoy,Andrew Robinson,Tony Akins,Russ Braun,Steve Leialoha,Andrew Pepoy</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <ScanInformation>(digital) (The Magicians-Empire)</ScanInformation>
+  <Series>Jack of Fables: The Deluxe Edition</Series>
+  <Summary>Jack O'Lantern: While traveling across country in a stolen van, Jack tells Gary of the many times he's sold his soul to various devils over the years.  It is also revealed that someday soon the bill was going to come due.
+
+(Enchanted) Blade Runner - Part Four of The Bad Prince: The final part of the tale of Jack and Wicked John's origins.  The connection between Mr. Thorn, Mr. Revise and Gary is revealed.
+
+The Legend of Wicked John - Part Three of The Bad Prince: Gary tries to explain to Jack that he is a copy of Wicked John, not the other way around.
+
+I Forget - Part Two of The Bad Prince: Jack learns why Excalibur has been stuck in his body and can't be removed.  Back in New York, Kevin Thorn begins to remember his past.  The link between Wicked John and Jack is revealed.
+
+Hit the Road, Jack - Part One of The Bad Prince: Jack and Gary are captured by Priscilla Page but escape by crashing the van into the Grand Canyon.
+
+Jack Frost, Part Two of Two: Jack learns that having the Snow Queen's powers makes it hard to be with the ladies and returns the powers to the Snow Queen.  The Snow Queen has her revenge.  It is also revealed that Jack fathered a child with the Snow Queen.
+
+Jack of Hearts, Part Four: Tumbling Dice: Jack finishes his adventure in Las Vegas and Lady Luck is captured by Hillary Page.
+
+Jack of Hearts, Part Three: Luck Be a Lady: Jack confronts Lady Luck and gets his plans messed up for his trouble.
+
+Jack of Hearts, Part Two: Heaven or Las Vegas: Jack wakes up after a night of partying in Vegas to find himself married to the very rich Holly.  Holly and Jack are attacked by the Belgian Mob.
+
+Jack of Hearts, Part One: Viva Las Vegas: Jack and Gary travel to Vegas and use Gary's powers to "talk" to inanimate objects to become rich at the Grand-Duche casino.
+
+Jack Frost, Part One of Two: While hiding out from the Golden Bough's security forces looking for escaped prisoners, Jack tells some other fables of how he became Jack Frost.
+
+Jack, Off: The escape from Golden Boughs is complete and Jack also figures out who the traitor in the group is.
+
+Jackrabbit: Jack begins his mass escape plan, liberating most of the Fables trapped in Golden Bough's Retirement Village.
+
+You Don't Know Jack: Jack gathers a few other fables and plans the big breakout.  Jack also finds allies in a group of pixies that he unknowingly saved in the past.
+
+Jack in the Box: Jack learns how Goldilocks survived the axe to the head from Snow White, and what Mr. Revise's plan is.
+
+The Long Hard Fall of Hollywood Jack: Jack loses his money, is captured and taken to Golden Boughs Retirement Community.
+
+</Summary>
+  <Teams>Golden Boughs Retirement Village Inmates,Confederate Army,Munchkins,Fairies,Angels,Werewolves,Gods of Olympus,Librarians,Goblins,Wooden Soldiers,Lilliputians,Literals,Curious Oysters,Dragons,Giants,Bag Men,The Devils,Barleycorn Brides,Gnomes,Fabletown Fables,Fauns</Teams>
+  <Title>Jack O'Lantern; (Enchanted) Blade Runner - Part Four of The Bad Prince; The Legend of Wicked John - Part Three of The Bad Prince; I Forget - Part Two of The Bad Prince; Hit the Road, Jack - Part One of The Bad Prince; Jack Frost, Part Two of Two; Jack of Hearts, Part Four: Tumbling Dice; Jack of Hearts, Part Three: Luck Be a Lady; Jack of Hearts, Part Two: Heaven or Las Vegas; Jack of Hearts, Part One: Viva Las Vegas; Jack Frost, Part One of Two; Jack, Off; Jackrabbit; You Don't Know Jack; Jack in the Box; The Long Hard Fall of Hollywood Jack</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/jack-of-fables-the-deluxe-edition-1-book-one/4000-587313/</Web>
+  <Writer>Bill Willingham,Lilah Sturges,Matthew Sturges,Matthew Sturges,Bill Willingham</Writer>
+  <Year>2017</Year>
+  <Count>3</Count>
+  <Genre>Fantasy,Adventure</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+  <Colorist>Lee Loughridge,Daniel Vozzo,Danny Vozzo,Lee Loughridge,Daniel Vozzo,Danny Vozzo</Colorist>
+  <Letterer>Todd Klein,Todd Klein</Letterer>
+</ComicInfo>

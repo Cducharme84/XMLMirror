@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Phyla,Corbin's Mother,Scarab,Corbin,Hemlocke</Characters>
+  <Colorist>Chris Garcia,David Baron,Wendy Broome (Fouts)</Colorist>
+  <Count>8</Count>
+  <Editor>John Layman,Scott Dunbier</Editor>
+  <GTIN>urn:comicvine:4000-143547</GTIN>
+  <Inker>Randy Elliott</Inker>
+  <Letterer>Amie Grenier,Denice Park</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:41:44 [Issue ID 4000-143547] urn:comicvine:4000-143547
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 11:11:11. [Issue ID 259672]</Notes>
+  <Number>7</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="320362" Type="FrontCover" />
+    <Page Image="1" ImageSize="376541" />
+    <Page Image="2" ImageSize="403781" />
+    <Page Image="3" ImageSize="347596" />
+    <Page Image="4" ImageSize="284955" />
+    <Page Image="5" ImageSize="426831" />
+    <Page Image="6" ImageSize="352273" />
+    <Page Image="7" ImageSize="349935" />
+    <Page Image="8" ImageSize="303221" />
+    <Page Image="9" ImageSize="431201" />
+    <Page Image="10" ImageSize="369054" />
+    <Page Image="11" ImageSize="344850" />
+    <Page Image="12" ImageSize="441870" />
+    <Page Image="13" ImageSize="377530" />
+    <Page Image="14" ImageSize="356205" />
+    <Page Image="15" ImageSize="392533" />
+    <Page Image="16" ImageSize="392037" />
+    <Page Image="17" ImageSize="466546" />
+    <Page Image="18" ImageSize="380779" />
+    <Page Image="19" ImageSize="388681" />
+    <Page Image="20" ImageSize="553342" />
+    <Page Image="21" ImageSize="562073" />
+    <Page Image="22" ImageSize="596241" />
+    <Page Image="23" ImageSize="453211" />
+    <Page Image="24" ImageSize="481468" />
+    <Page Image="25" ImageSize="526823" />
+    <Page Image="26" ImageSize="423217" />
+    <Page Image="27" ImageSize="70453" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>C-23</Series>
+  <Summary>Book #7 of a series of 8.</Summary>
+  <Volume>1998</Volume>
+  <Web>https://comicvine.gamespot.com/c-23-7/4000-143547/</Web>
+  <Writer>Jeff Mariotte</Writer>
+  <Year>1998</Year>
+  <CoverArtist>Richard Corben</CoverArtist>
+  <Genre>Superhero,Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

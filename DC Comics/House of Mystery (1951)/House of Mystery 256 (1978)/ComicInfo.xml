@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cain (host)</Characters>
+  <Colorist>Jerry Serpe,Liz Berube,Liz Berube,Jerry Serpe</Colorist>
+  <Editor>Paul Levitz</Editor>
+  <GTIN>urn:comicvine:4000-117450</GTIN>
+  <Inker>Alex Niño,Alfredo Alcala,Arthur Suydam,Bob Smith,Dave Manak,Ruben Yandoc,Vince Colletta,Wayne Howard,Bob Smith,Vince Colletta,Arthur Suydam,Wayne Howard,Rubeny,Alex Niño,Alfredo Alcala,Dave Manak</Inker>
+  <Letterer>Ben Oda,Ben Oda,Dave Manak</Letterer>
+  <Locations>London,The House of Mystery,Georgia,The House of Secrets,Paris</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:41:19 [Issue ID 4000-117450] urn:comicvine:4000-117450
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:23:06. [Issue ID 31836]</Notes>
+  <Number>256</Number>
+  <PageCount>83</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3100" ImageSize="1011145" ImageWidth="2040" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3060" ImageSize="848477" ImageWidth="2022" />
+    <Page Image="2" ImageHeight="3010" ImageSize="722022" ImageWidth="2016" />
+    <Page Image="3" ImageHeight="2988" ImageSize="741889" ImageWidth="1932" />
+    <Page Image="4" ImageHeight="3045" ImageSize="768101" ImageWidth="1953" />
+    <Page Image="5" ImageHeight="2989" ImageSize="1457242" ImageWidth="4200" />
+    <Page Image="6" ImageHeight="3045" ImageSize="728697" ImageWidth="1981" />
+    <Page Image="7" ImageHeight="3045" ImageSize="635304" ImageWidth="1911" />
+    <Page Image="8" ImageHeight="3017" ImageSize="712301" ImageWidth="1960" />
+    <Page Image="9" ImageHeight="3031" ImageSize="763065" ImageWidth="1960" />
+    <Page Image="10" ImageHeight="3010" ImageSize="655012" ImageWidth="1981" />
+    <Page Image="11" ImageHeight="3052" ImageSize="736698" ImageWidth="1960" />
+    <Page Image="12" ImageHeight="3052" ImageSize="743393" ImageWidth="1967" />
+    <Page Image="13" ImageHeight="3059" ImageSize="714158" ImageWidth="1967" />
+    <Page Image="14" ImageHeight="3045" ImageSize="665969" ImageWidth="1946" />
+    <Page Image="15" ImageHeight="3066" ImageSize="643734" ImageWidth="1967" />
+    <Page Image="16" ImageHeight="3031" ImageSize="625750" ImageWidth="1967" />
+    <Page Image="17" ImageHeight="3018" ImageSize="656628" ImageWidth="1944" />
+    <Page Image="18" ImageHeight="3003" ImageSize="696078" ImageWidth="1960" />
+    <Page Image="19" ImageHeight="3038" ImageSize="599418" ImageWidth="1918" />
+    <Page Image="20" ImageHeight="3038" ImageSize="700059" ImageWidth="1939" />
+    <Page Image="21" ImageHeight="3006" ImageSize="647499" ImageWidth="1938" />
+    <Page Image="22" ImageHeight="3045" ImageSize="755030" ImageWidth="1932" />
+    <Page Image="23" ImageHeight="3018" ImageSize="694580" ImageWidth="1932" />
+    <Page Image="24" ImageHeight="3038" ImageSize="673092" ImageWidth="1939" />
+    <Page Image="25" ImageHeight="3038" ImageSize="640939" ImageWidth="1946" />
+    <Page Image="26" ImageHeight="3031" ImageSize="634029" ImageWidth="1932" />
+    <Page Image="27" ImageHeight="3024" ImageSize="753446" ImageWidth="1953" />
+    <Page Image="28" ImageHeight="3024" ImageSize="685874" ImageWidth="1939" />
+    <Page Image="29" ImageHeight="3010" ImageSize="622441" ImageWidth="1960" />
+    <Page Image="30" ImageHeight="3059" ImageSize="665783" ImageWidth="1911" />
+    <Page Image="31" ImageHeight="3066" ImageSize="702362" ImageWidth="1918" />
+    <Page Image="32" ImageHeight="3010" ImageSize="610691" ImageWidth="1904" />
+    <Page Image="33" ImageHeight="3031" ImageSize="733872" ImageWidth="1918" />
+    <Page Image="34" ImageHeight="3038" ImageSize="580193" ImageWidth="1918" />
+    <Page Image="35" ImageHeight="3024" ImageSize="646790" ImageWidth="1896" />
+    <Page Image="36" ImageHeight="3031" ImageSize="564764" ImageWidth="1911" />
+    <Page Image="37" ImageHeight="3066" ImageSize="749675" ImageWidth="1932" />
+    <Page Image="38" ImageHeight="2989" ImageSize="644143" ImageWidth="1946" />
+    <Page Image="39" ImageHeight="3045" ImageSize="722812" ImageWidth="1939" />
+    <Page Image="40" ImageHeight="3045" ImageSize="748644" ImageWidth="1946" />
+    <Page Image="41" ImageHeight="3052" ImageSize="687323" ImageWidth="1974" />
+    <Page Image="42" ImageHeight="3038" ImageSize="693171" ImageWidth="1953" />
+    <Page Image="43" ImageHeight="3042" ImageSize="600628" ImageWidth="1902" />
+    <Page Image="44" ImageHeight="3024" ImageSize="673615" ImageWidth="1904" />
+    <Page Image="45" ImageHeight="2961" ImageSize="706548" ImageWidth="1869" />
+    <Page Image="46" ImageHeight="3017" ImageSize="595990" ImageWidth="1890" />
+    <Page Image="47" ImageHeight="3038" ImageSize="626546" ImageWidth="1918" />
+    <Page Image="48" ImageHeight="2996" ImageSize="628465" ImageWidth="1883" />
+    <Page Image="49" ImageHeight="3010" ImageSize="733703" ImageWidth="1974" />
+    <Page Image="50" ImageHeight="3024" ImageSize="643994" ImageWidth="1918" />
+    <Page Image="51" ImageHeight="3045" ImageSize="539161" ImageWidth="1974" />
+    <Page Image="52" ImageHeight="2996" ImageSize="555700" ImageWidth="1911" />
+    <Page Image="53" ImageHeight="3031" ImageSize="701278" ImageWidth="1953" />
+    <Page Image="54" ImageHeight="3038" ImageSize="637814" ImageWidth="1904" />
+    <Page Image="55" ImageHeight="3031" ImageSize="707192" ImageWidth="1939" />
+    <Page Image="56" ImageHeight="2996" ImageSize="638422" ImageWidth="1932" />
+    <Page Image="57" ImageHeight="3003" ImageSize="831728" ImageWidth="1911" />
+    <Page Image="58" ImageHeight="3024" ImageSize="656098" ImageWidth="1897" />
+    <Page Image="59" ImageHeight="3010" ImageSize="762556" ImageWidth="1932" />
+    <Page Image="60" ImageHeight="2961" ImageSize="671972" ImageWidth="1911" />
+    <Page Image="61" ImageHeight="3024" ImageSize="760646" ImageWidth="1988" />
+    <Page Image="62" ImageHeight="3038" ImageSize="672971" ImageWidth="1918" />
+    <Page Image="63" ImageHeight="3031" ImageSize="728471" ImageWidth="1974" />
+    <Page Image="64" ImageHeight="2988" ImageSize="725383" ImageWidth="1920" />
+    <Page Image="65" ImageHeight="2996" ImageSize="657471" ImageWidth="1974" />
+    <Page Image="66" ImageHeight="3031" ImageSize="658824" ImageWidth="1897" />
+    <Page Image="67" ImageHeight="2996" ImageSize="683812" ImageWidth="1967" />
+    <Page Image="68" ImageHeight="3010" ImageSize="726443" ImageWidth="1911" />
+    <Page Image="69" ImageHeight="3032" ImageSize="753388" ImageWidth="1976" />
+    <Page Image="70" ImageHeight="3003" ImageSize="709684" ImageWidth="1932" />
+    <Page Image="71" ImageHeight="3045" ImageSize="750426" ImageWidth="1960" />
+    <Page Image="72" ImageHeight="3024" ImageSize="786617" ImageWidth="1960" />
+    <Page Image="73" ImageHeight="3010" ImageSize="728797" ImageWidth="1932" />
+    <Page Image="74" ImageHeight="3038" ImageSize="787327" ImageWidth="1967" />
+    <Page Image="75" ImageHeight="3038" ImageSize="732912" ImageWidth="1988" />
+    <Page Image="76" ImageHeight="3030" ImageSize="767959" ImageWidth="1986" />
+    <Page Image="77" ImageHeight="3055" ImageSize="728623" ImageWidth="1925" />
+    <Page Image="78" ImageHeight="2976" ImageSize="598989" ImageWidth="1940" />
+    <Page Image="79" ImageHeight="3022" ImageSize="742497" ImageWidth="1980" />
+    <Page Image="80" ImageHeight="3038" ImageSize="752550" ImageWidth="1876" />
+    <Page Image="81" ImageHeight="3072" ImageSize="1019078" ImageWidth="1962" />
+    <Page Image="82" ImageSize="832380" />
+  </Pages>
+  <Penciller>Alex Niño,Alfredo Alcala,Arthur Suydam,Dave Manak,Dick Ayers,Ernie Chan,Romeo Tanghal,Ruben Yandoc,Romeo Tanghal,Ernie Chua,Arthur Suydam,Rubeny,Alex Niño,Alfredo Alcala,Dave Manak</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery</Series>
+  <Summary>Contains:
+
+Blood of the Vampire!
+
+Perfect Poison
+
+Satan's Child
+
+Treats or Tricks
+
+Raise the Devil
+
+Museum of Murder!
+
+The Worm Turns!
+
+ 
+
+Hosting a Halloween party, Cain shares several stories with his guests.
+
+https://comicvine.gamespot.com/house-of-mystery-256-blood-of-the-vampire/4000-117450/</Summary>
+  <Tags>London,The House of Mystery,Mildred,The Three Witches,Georgia,Cain,Mordred,Paris,Eve,The House of Secrets,Vampires,Cynthia,Abel</Tags>
+  <Teams>The Three Witches,Vampires</Teams>
+  <Title>Blood of the Vampire!; Perfect Poison; Satan's Child; Treats or Tricks; Raise the Devil; Museum of Murder!; The Worm Turns!</Title>
+  <Volume>1951</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-256-blood-of-the-vampire/4000-117450/</Web>
+  <Writer>Dave Manak,David V. Reed,Duck Edwing,Jack C. Harris,Jack Oleck,Michael Fleisher,Mike Pellowski,Paul Kupperberg,Robert Kanigher,Steve Skeates,Michael Fleisher,Steve Skeates,Michael Pellowski,Jack Oleck,Jack C. Harris,Coram Nobis,Robert Kanigher,Russell Carley,Don Edwing,Dave Manak</Writer>
+  <Year>1978</Year>
+  <Count>321</Count>
+  <Genre>Humor,Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+</ComicInfo>

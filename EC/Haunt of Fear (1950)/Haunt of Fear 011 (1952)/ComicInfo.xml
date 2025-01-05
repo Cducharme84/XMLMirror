@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>The Crypt-Keeper,The Old Witch,The Vault-Keeper</Characters>
+	<Colorist>Marie Severin</Colorist>
+	<Count>28</Count>
+	<Day>1</Day>
+	<Editor>Al Feldstein</Editor>
+	<GTIN>urn:comicvine:4000-110844</GTIN>
+	<Inker>George Roussos,Graham Ingels,Jack Davis,Jack Kamen</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:43:16 [Issue ID 4000-110844] urn:comicvine:4000-110844</Notes>
+	<Number>11</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="64247" Type="FrontCover"/>
+		<Page Image="1" ImageSize="561398"/>
+		<Page Image="2" ImageSize="684188"/>
+		<Page Image="3" ImageSize="683527"/>
+		<Page Image="4" ImageSize="676214"/>
+		<Page Image="5" ImageSize="679438"/>
+		<Page Image="6" ImageSize="694342"/>
+		<Page Image="7" ImageSize="685559"/>
+		<Page Image="8" ImageSize="686477"/>
+		<Page Image="9" ImageSize="673971"/>
+		<Page Image="10" ImageSize="640480"/>
+		<Page Image="11" ImageSize="657219"/>
+		<Page Image="12" ImageSize="678034"/>
+		<Page Image="13" ImageSize="646945"/>
+		<Page Image="14" ImageSize="667490"/>
+		<Page Image="15" ImageSize="643098"/>
+		<Page Image="16" ImageSize="697961"/>
+		<Page Image="17" ImageSize="568336"/>
+		<Page Image="18" ImageSize="576132"/>
+		<Page Image="19" ImageSize="585640"/>
+		<Page Image="20" ImageSize="644448"/>
+		<Page Image="21" ImageSize="630416"/>
+		<Page Image="22" ImageSize="633754"/>
+		<Page Image="23" ImageSize="649308"/>
+		<Page Image="24" ImageSize="669291"/>
+		<Page Image="25" ImageSize="662808"/>
+		<Page Image="26" ImageSize="681612"/>
+		<Page Image="27" ImageSize="652573"/>
+		<Page Image="28" ImageSize="634494"/>
+		<Page Image="29" ImageSize="685509"/>
+		<Page Image="30" ImageSize="676218"/>
+		<Page Image="31" ImageSize="668796"/>
+		<Page Image="32" ImageSize="699411"/>
+		<Page Image="33" ImageSize="500569"/>
+	</Pages>
+	<Penciller>George Roussos,Graham Ingels,Jack Davis,Jack Kamen</Penciller>
+	<Publisher>EC</Publisher>
+	<Series>Haunt of Fear</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-17 16:22:04.  [Issue ID 110844]
+
+https://comicvine.gamespot.com/haunt-of-fear-11/4000-110844/</Summary>
+	<Tags>The Crypt-Keeper,The Old Witch,The Vault-Keeper</Tags>
+	<Volume>1950</Volume>
+	<Web>https://comicvine.gamespot.com/haunt-of-fear-11/4000-110844/</Web>
+	<Writer>Al Feldstein</Writer>
+	<Year>1952</Year>
+</ComicInfo>

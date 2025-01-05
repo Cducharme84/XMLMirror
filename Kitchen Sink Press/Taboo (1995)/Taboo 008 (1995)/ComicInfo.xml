@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>2</Count>
+  <Day>10</Day>
+  <Editor>Phil Amara</Editor>
+  <GTIN>urn:comicvine:4000-118011</GTIN>
+  <Inker>P. Craig Russell</Inker>
+  <Letterer>Ellie De Ville</Letterer>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:18:12 [Issue ID 4000-118011] urn:comicvine:4000-118011
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 03:56:17. [Issue ID 364590]</Notes>
+  <Number>8</Number>
+  <PageCount>128</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1488" ImageSize="402008" ImageWidth="1118" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1472" ImageSize="525554" ImageWidth="1054" />
+    <Page Image="2" ImageHeight="1464" ImageSize="789908" ImageWidth="1056" />
+    <Page Image="3" ImageHeight="1448" ImageSize="763060" ImageWidth="1026" />
+    <Page Image="4" ImageHeight="1420" ImageSize="733475" ImageWidth="1016" />
+    <Page Image="5" ImageHeight="1414" ImageSize="708810" ImageWidth="1016" />
+    <Page Image="6" ImageHeight="1418" ImageSize="780999" ImageWidth="1028" />
+    <Page Image="7" ImageHeight="1532" ImageSize="1024921" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1545" ImageSize="954341" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1530" ImageSize="960079" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1542" ImageSize="926690" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1543" ImageSize="1008919" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1543" ImageSize="1003833" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1546" ImageSize="956484" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1547" ImageSize="1022744" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1545" ImageSize="1025733" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1539" ImageSize="1037803" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1455" ImageSize="449379" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1534" ImageSize="775486" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1541" ImageSize="812010" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1532" ImageSize="783663" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1563" ImageSize="956226" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1536" ImageSize="970082" ImageWidth="1024" />
+    <Page Image="23" ImageHeight="1495" ImageSize="824429" ImageWidth="1024" />
+    <Page Image="24" ImageHeight="1523" ImageSize="798687" ImageWidth="1024" />
+    <Page Image="25" ImageHeight="1528" ImageSize="927295" ImageWidth="1024" />
+    <Page Image="26" ImageHeight="1527" ImageSize="843884" ImageWidth="1024" />
+    <Page Image="27" ImageHeight="1552" ImageSize="848628" ImageWidth="1024" />
+    <Page Image="28" ImageHeight="1510" ImageSize="743122" ImageWidth="1024" />
+    <Page Image="29" ImageHeight="1517" ImageSize="803108" ImageWidth="1024" />
+    <Page Image="30" ImageHeight="1520" ImageSize="851961" ImageWidth="1024" />
+    <Page Image="31" ImageHeight="1520" ImageSize="904554" ImageWidth="1024" />
+    <Page Image="32" ImageHeight="1408" ImageSize="740490" ImageWidth="1024" />
+    <Page Image="33" ImageHeight="1445" ImageSize="754676" ImageWidth="1024" />
+    <Page Image="34" ImageHeight="1515" ImageSize="779943" ImageWidth="1024" />
+    <Page Image="35" ImageHeight="1513" ImageSize="888934" ImageWidth="1024" />
+    <Page Image="36" ImageHeight="1514" ImageSize="893222" ImageWidth="1024" />
+    <Page Image="37" ImageHeight="1519" ImageSize="901410" ImageWidth="1024" />
+    <Page Image="38" ImageHeight="1515" ImageSize="866805" ImageWidth="1024" />
+    <Page Image="39" ImageHeight="1478" ImageSize="882118" ImageWidth="1024" />
+    <Page Image="40" ImageHeight="1440" ImageSize="328227" ImageWidth="1024" />
+    <Page Image="41" ImageHeight="1554" ImageSize="1046151" ImageWidth="1024" />
+    <Page Image="42" ImageHeight="1524" ImageSize="954729" ImageWidth="1024" />
+    <Page Image="43" ImageHeight="1518" ImageSize="998675" ImageWidth="1024" />
+    <Page Image="44" ImageHeight="1515" ImageSize="962639" ImageWidth="1024" />
+    <Page Image="45" ImageHeight="1512" ImageSize="909697" ImageWidth="1024" />
+    <Page Image="46" ImageHeight="1520" ImageSize="994595" ImageWidth="1024" />
+    <Page Image="47" ImageHeight="1516" ImageSize="880348" ImageWidth="1024" />
+    <Page Image="48" ImageHeight="1516" ImageSize="986288" ImageWidth="1024" />
+    <Page Image="49" ImageHeight="1508" ImageSize="959559" ImageWidth="1024" />
+    <Page Image="50" ImageHeight="1511" ImageSize="954681" ImageWidth="1024" />
+    <Page Image="51" ImageHeight="1518" ImageSize="994365" ImageWidth="1024" />
+    <Page Image="52" ImageHeight="1519" ImageSize="978575" ImageWidth="1024" />
+    <Page Image="53" ImageHeight="1426" ImageSize="723921" ImageWidth="1024" />
+    <Page Image="54" ImageHeight="1526" ImageSize="981686" ImageWidth="1024" />
+    <Page Image="55" ImageHeight="1537" ImageSize="999845" ImageWidth="1024" />
+    <Page Image="56" ImageHeight="1528" ImageSize="956403" ImageWidth="1024" />
+    <Page Image="57" ImageHeight="1524" ImageSize="823056" ImageWidth="1024" />
+    <Page Image="58" ImageHeight="1516" ImageSize="1024831" ImageWidth="1024" />
+    <Page Image="59" ImageHeight="1527" ImageSize="1017802" ImageWidth="1024" />
+    <Page Image="60" ImageHeight="1538" ImageSize="944614" ImageWidth="1024" />
+    <Page Image="61" ImageHeight="1513" ImageSize="949955" ImageWidth="1024" />
+    <Page Image="62" ImageHeight="1534" ImageSize="844566" ImageWidth="1024" />
+    <Page Image="63" ImageHeight="1520" ImageSize="831001" ImageWidth="1024" />
+    <Page Image="64" ImageHeight="1536" ImageSize="886305" ImageWidth="1024" />
+    <Page Image="65" ImageHeight="1522" ImageSize="992925" ImageWidth="1024" />
+    <Page Image="66" ImageHeight="1517" ImageSize="787803" ImageWidth="1024" />
+    <Page Image="67" ImageHeight="1530" ImageSize="854864" ImageWidth="1024" />
+    <Page Image="68" ImageHeight="1524" ImageSize="947473" ImageWidth="1024" />
+    <Page Image="69" ImageHeight="1516" ImageSize="1058472" ImageWidth="1024" />
+    <Page Image="70" ImageHeight="1523" ImageSize="1064748" ImageWidth="1024" />
+    <Page Image="71" ImageHeight="1528" ImageSize="1015141" ImageWidth="1024" />
+    <Page Image="72" ImageHeight="1521" ImageSize="922334" ImageWidth="1024" />
+    <Page Image="73" ImageHeight="1522" ImageSize="992820" ImageWidth="1024" />
+    <Page Image="74" ImageHeight="1529" ImageSize="997972" ImageWidth="1024" />
+    <Page Image="75" ImageHeight="1537" ImageSize="911665" ImageWidth="1024" />
+    <Page Image="76" ImageHeight="1522" ImageSize="964073" ImageWidth="1024" />
+    <Page Image="77" ImageHeight="1531" ImageSize="836550" ImageWidth="1024" />
+    <Page Image="78" ImageHeight="1527" ImageSize="957299" ImageWidth="1024" />
+    <Page Image="79" ImageHeight="1519" ImageSize="804117" ImageWidth="1024" />
+    <Page Image="80" ImageHeight="1529" ImageSize="785280" ImageWidth="1024" />
+    <Page Image="81" ImageHeight="1532" ImageSize="921866" ImageWidth="1024" />
+    <Page Image="82" ImageHeight="1518" ImageSize="873596" ImageWidth="1024" />
+    <Page Image="83" ImageHeight="1531" ImageSize="1048983" ImageWidth="1024" />
+    <Page Image="84" ImageHeight="1441" ImageSize="826945" ImageWidth="1024" />
+    <Page Image="85" ImageHeight="1467" ImageSize="904116" ImageWidth="1024" />
+    <Page Image="86" ImageHeight="1472" ImageSize="846009" ImageWidth="1024" />
+    <Page Image="87" ImageHeight="1502" ImageSize="928998" ImageWidth="1024" />
+    <Page Image="88" ImageHeight="1487" ImageSize="971881" ImageWidth="1024" />
+    <Page Image="89" ImageHeight="1449" ImageSize="386406" ImageWidth="1024" />
+    <Page Image="90" ImageHeight="1605" ImageSize="933477" ImageWidth="1024" />
+    <Page Image="91" ImageHeight="1609" ImageSize="891012" ImageWidth="1024" />
+    <Page Image="92" ImageHeight="1614" ImageSize="959768" ImageWidth="1024" />
+    <Page Image="93" ImageHeight="1610" ImageSize="961286" ImageWidth="1024" />
+    <Page Image="94" ImageHeight="1618" ImageSize="979574" ImageWidth="1024" />
+    <Page Image="95" ImageHeight="1614" ImageSize="966853" ImageWidth="1024" />
+    <Page Image="96" ImageHeight="1596" ImageSize="950963" ImageWidth="1024" />
+    <Page Image="97" ImageHeight="1613" ImageSize="994230" ImageWidth="1024" />
+    <Page Image="98" ImageHeight="1616" ImageSize="952258" ImageWidth="1024" />
+    <Page Image="99" ImageHeight="1616" ImageSize="937081" ImageWidth="1024" />
+    <Page Image="100" ImageHeight="1620" ImageSize="908821" ImageWidth="1024" />
+    <Page Image="101" ImageHeight="1611" ImageSize="958343" ImageWidth="1024" />
+    <Page Image="102" ImageHeight="1610" ImageSize="956245" ImageWidth="1024" />
+    <Page Image="103" ImageHeight="1619" ImageSize="951645" ImageWidth="1024" />
+    <Page Image="104" ImageHeight="1620" ImageSize="1021736" ImageWidth="1024" />
+    <Page Image="105" ImageHeight="1605" ImageSize="977488" ImageWidth="1024" />
+    <Page Image="106" ImageHeight="1618" ImageSize="964462" ImageWidth="1024" />
+    <Page Image="107" ImageHeight="1610" ImageSize="965115" ImageWidth="1024" />
+    <Page Image="108" ImageHeight="1617" ImageSize="961699" ImageWidth="1024" />
+    <Page Image="109" ImageHeight="1607" ImageSize="991205" ImageWidth="1024" />
+    <Page Image="110" ImageHeight="1620" ImageSize="986609" ImageWidth="1024" />
+    <Page Image="111" ImageHeight="1618" ImageSize="961686" ImageWidth="1024" />
+    <Page Image="112" ImageHeight="1620" ImageSize="930880" ImageWidth="1024" />
+    <Page Image="113" ImageHeight="1617" ImageSize="988437" ImageWidth="1024" />
+    <Page Image="114" ImageHeight="1625" ImageSize="997279" ImageWidth="1024" />
+    <Page Image="115" ImageHeight="1618" ImageSize="938995" ImageWidth="1024" />
+    <Page Image="116" ImageHeight="1607" ImageSize="922108" ImageWidth="1024" />
+    <Page Image="117" ImageHeight="1606" ImageSize="1035111" ImageWidth="1024" />
+    <Page Image="118" ImageHeight="1598" ImageSize="962720" ImageWidth="1024" />
+    <Page Image="119" ImageHeight="1433" ImageSize="350707" ImageWidth="1024" />
+    <Page Image="120" ImageHeight="1517" ImageSize="939181" ImageWidth="1024" />
+    <Page Image="121" ImageHeight="1531" ImageSize="842879" ImageWidth="1024" />
+    <Page Image="122" ImageHeight="1539" ImageSize="889391" ImageWidth="1024" />
+    <Page Image="123" ImageHeight="1511" ImageSize="858134" ImageWidth="1024" />
+    <Page Image="124" ImageHeight="1531" ImageSize="766143" ImageWidth="1024" />
+    <Page Image="125" ImageHeight="1536" ImageSize="950377" ImageWidth="1024" />
+    <Page Image="126" ImageHeight="1518" ImageSize="733072" ImageWidth="1024" />
+    <Page Image="127" ImageSize="487342" />
+  </Pages>
+  <Publisher>Kitchen Sink Press</Publisher>
+  <ScanInformation>[spiderbaby, kitchen sink]</ScanInformation>
+  <Series>Taboo</Series>
+  <Summary>Contents:
+
+"All She Does Is Eat" by Jack Butterworth and Greg Capullo
+"Satan and the Saviour" by David Sexton and P. Craig Russell
+"Devil Boy" by Rick Grimes
+"President 'Doosh' Quimby" by Rick Grimes
+"The Disaster Area" by Tim Lucas and David Lloyd
+"Revenge" by Matt Howarth
+"johnny 23" by Al Columbia
+"Cat Lover" by Jeff Nicholson
+"Twilight" by Wladyslaw Reymont and Alec Stevens</Summary>
+  <Volume>1995</Volume>
+  <Web>https://comicvine.gamespot.com/taboo-8/4000-118011/</Web>
+  <Year>1995</Year>
+  <Title>All She Does Is Eat; Satan and the Saviour; President 'Doosh' Quimby; The Disaster Area; Revenge; johnny 23; Cat Lover; Twilight; Bid Return</Title>
+  <Genre>Horror-suspense,Religious</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

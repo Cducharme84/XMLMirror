@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Aleyen,Arrteck,Kero Padjyr,Leeyal</Characters>
+	<Count>3</Count>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-348031</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Daniel J. Logan</Inker>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-24T17:48:12 [Issue ID 4000-348031] urn:comicvine:4000-348031</Notes>
+	<Number>2</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3756" ImageSize="1431305" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3756" ImageSize="1034996"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3756" ImageSize="1429081"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3756" ImageSize="1507747"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3756" ImageSize="1095882"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3756" ImageSize="1190485"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3756" ImageSize="1061807"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3756" ImageSize="1496470"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3756" ImageSize="1400362"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3756" ImageSize="1307119"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3756" ImageSize="1385631"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3756" ImageSize="1596673"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3756" ImageSize="1745938"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3756" ImageSize="1493804"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3756" ImageSize="1524456"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3756" ImageSize="1359109"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3756" ImageSize="1520876"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2559" ImageHeight="3755" ImageSize="1608231"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2559" ImageHeight="3755" ImageSize="1348026"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2559" ImageHeight="3755" ImageSize="1390604"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3756" ImageSize="1404837"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3756" ImageSize="1717959"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3756" ImageSize="1422314"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3756" ImageSize="1449312"/>
+		<Page Image="24" ImageSize="1388389"/>
+	</Pages>
+	<Penciller>Daniel J. Logan</Penciller>
+	<Publisher>Dark Ocean Studios</Publisher>
+	<Series>Earth Sons</Series>
+	<Summary>The Katawa Lord Kero Padjyr makes his case to Aleyen. Can the thief trust him, or is even certain betrayal worth the risk for the secret of Blue? Meanwhile, Setrar returns to the home of the Earth Sons to receive some disturbing news…</Summary>
+	<Title>N/A</Title>
+	<Volume>2008</Volume>
+	<Web>https://comicvine.gamespot.com/earth-sons-2-na/4000-348031/</Web>
+	<Writer>Jody Parker</Writer>
+	<Year>2008</Year>
+</ComicInfo>

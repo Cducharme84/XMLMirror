@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Cerberus</Characters>
+	<Count>5</Count>
+	<CoverArtist>Shawn McCauley</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-427920</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Brooke Clayton,Julia Senecal,Maja Cronvall,Shawn McCauley</Inker>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-25T22:59:21 [Issue ID 4000-427920] urn:comicvine:4000-427920</Notes>
+	<Number>0</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="2666006" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="796884"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="3305411"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="3453534"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="2323259"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="2886460"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="2640257"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="3043910"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="3254887"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="2830080"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="2676845"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="3103672"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="251935"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="851634"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="765366"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="991050"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="2820762"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="1446670"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="3808148"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1093465"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="4219265"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="1889063"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="1596849"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="1625916"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="1565370"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3840" ImageSize="812883"/>
+		<Page Image="26" ImageSize="1994772"/>
+	</Pages>
+	<Penciller>Brooke Clayton,Julia Senecal,Maja Cronvall,Shawn McCauley</Penciller>
+	<Publisher>self published</Publisher>
+	<Series>Shadows of Oblivion</Series>
+	<Summary>After being dealt a near fatal blow, the surviving members of Clan Wolf meet in a hidden underground stronghold to determine their next move. But how can only seven hold up the entire world when it's crumbling down around them?</Summary>
+	<Title>Resist</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/shadows-of-oblivion-1-resist/4000-427920/</Web>
+	<Writer>Shawn McCauley</Writer>
+	<Year>2013</Year>
+</ComicInfo>

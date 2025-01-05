@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>7</Count>
+  <Day>10</Day>
+  <GTIN>urn:comicvine:4000-236038</GTIN>
+  <Inker>Bernie Mireault,Eddie Campbell,Glenn Dakin,Mike Hoffman,Mœbius,Phil Elliott,Rick Grimes,Steve Bissette</Inker>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:18:09 [Issue ID 4000-236038] urn:comicvine:4000-236038
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 03:56:12. [Issue ID 364584]</Notes>
+  <Number>3</Number>
+  <PageCount>132</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="370734" Type="FrontCover" />
+    <Page Image="1" ImageSize="308708" />
+    <Page Image="2" ImageSize="243368" />
+    <Page Image="3" ImageSize="369936" />
+    <Page Image="4" ImageSize="446836" />
+    <Page Image="5" ImageSize="335514" />
+    <Page Image="6" ImageSize="306233" />
+    <Page Image="7" ImageSize="348022" />
+    <Page Image="8" ImageSize="348770" />
+    <Page Image="9" ImageSize="384005" />
+    <Page Image="10" ImageSize="316346" />
+    <Page Image="11" ImageSize="343676" />
+    <Page Image="12" ImageSize="326206" />
+    <Page Image="13" ImageSize="564854" />
+    <Page Image="14" ImageSize="381128" />
+    <Page Image="15" ImageSize="408263" />
+    <Page Image="16" ImageSize="367120" />
+    <Page Image="17" ImageSize="582444" />
+    <Page Image="18" ImageSize="331645" />
+    <Page Image="19" ImageSize="368540" />
+    <Page Image="20" ImageSize="355634" />
+    <Page Image="21" ImageSize="386455" />
+    <Page Image="22" ImageSize="427082" />
+    <Page Image="23" ImageSize="400842" />
+    <Page Image="24" ImageSize="363310" />
+    <Page Image="25" ImageSize="335369" />
+    <Page Image="26" ImageSize="394489" />
+    <Page Image="27" ImageSize="346718" />
+    <Page Image="28" ImageSize="374770" />
+    <Page Image="29" ImageSize="396563" />
+    <Page Image="30" ImageSize="379105" />
+    <Page Image="31" ImageSize="353338" />
+    <Page Image="32" ImageSize="342649" />
+    <Page Image="33" ImageSize="380131" />
+    <Page Image="34" ImageSize="348182" />
+    <Page Image="35" ImageSize="354086" />
+    <Page Image="36" ImageSize="336958" />
+    <Page Image="37" ImageSize="357734" />
+    <Page Image="38" ImageSize="374614" />
+    <Page Image="39" ImageSize="519287" />
+    <Page Image="40" ImageSize="269880" />
+    <Page Image="41" ImageSize="269702" />
+    <Page Image="42" ImageSize="363938" />
+    <Page Image="43" ImageSize="354220" />
+    <Page Image="44" ImageSize="366504" />
+    <Page Image="45" ImageSize="305189" />
+    <Page Image="46" ImageSize="275592" />
+    <Page Image="47" ImageSize="315778" />
+    <Page Image="48" ImageSize="284209" />
+    <Page Image="49" ImageSize="316809" />
+    <Page Image="50" ImageSize="294487" />
+    <Page Image="51" ImageSize="271809" />
+    <Page Image="52" ImageSize="321641" />
+    <Page Image="53" ImageSize="376190" />
+    <Page Image="54" ImageSize="358202" />
+    <Page Image="55" ImageSize="244852" />
+    <Page Image="56" ImageSize="297977" />
+    <Page Image="57" ImageSize="365566" />
+    <Page Image="58" ImageSize="456908" />
+    <Page Image="59" ImageSize="377202" />
+    <Page Image="60" ImageSize="319211" />
+    <Page Image="61" ImageSize="303682" />
+    <Page Image="62" ImageSize="372677" />
+    <Page Image="63" ImageSize="366556" />
+    <Page Image="64" ImageSize="433691" />
+    <Page Image="65" ImageSize="415419" />
+    <Page Image="66" ImageSize="355205" />
+    <Page Image="67" ImageSize="286891" />
+    <Page Image="68" ImageSize="353178" />
+    <Page Image="69" ImageSize="305999" />
+    <Page Image="70" ImageSize="319336" />
+    <Page Image="71" ImageSize="342179" />
+    <Page Image="72" ImageSize="348322" />
+    <Page Image="73" ImageSize="318753" />
+    <Page Image="74" ImageSize="396374" />
+    <Page Image="75" ImageSize="366636" />
+    <Page Image="76" ImageSize="360599" />
+    <Page Image="77" ImageSize="333696" />
+    <Page Image="78" ImageSize="308947" />
+    <Page Image="79" ImageSize="310176" />
+    <Page Image="80" ImageSize="396578" />
+    <Page Image="81" ImageSize="382641" />
+    <Page Image="82" ImageSize="316459" />
+    <Page Image="83" ImageSize="347897" />
+    <Page Image="84" ImageSize="384664" />
+    <Page Image="85" ImageSize="298317" />
+    <Page Image="86" ImageSize="300330" />
+    <Page Image="87" ImageSize="356491" />
+    <Page Image="88" ImageSize="394799" />
+    <Page Image="89" ImageSize="340028" />
+    <Page Image="90" ImageSize="343527" />
+    <Page Image="91" ImageSize="233239" />
+    <Page Image="92" ImageSize="345575" />
+    <Page Image="93" ImageSize="302301" />
+    <Page Image="94" ImageSize="379203" />
+    <Page Image="95" ImageSize="279969" />
+    <Page Image="96" ImageSize="430016" />
+    <Page Image="97" ImageSize="318090" />
+    <Page Image="98" ImageSize="242306" />
+    <Page Image="99" ImageSize="235088" />
+    <Page Image="100" ImageSize="258293" />
+    <Page Image="101" ImageSize="407187" />
+    <Page Image="102" ImageSize="393344" />
+    <Page Image="103" ImageSize="420469" />
+    <Page Image="104" ImageSize="369337" />
+    <Page Image="105" ImageSize="355750" />
+    <Page Image="106" ImageSize="321564" />
+    <Page Image="107" ImageSize="401783" />
+    <Page Image="108" ImageSize="456612" />
+    <Page Image="109" ImageSize="285659" />
+    <Page Image="110" ImageSize="345945" />
+    <Page Image="111" ImageSize="258070" />
+    <Page Image="112" ImageSize="338901" />
+    <Page Image="113" ImageSize="306377" />
+    <Page Image="114" ImageSize="277247" />
+    <Page Image="115" ImageSize="259965" />
+    <Page Image="116" ImageSize="341172" />
+    <Page Image="117" ImageSize="435968" />
+    <Page Image="118" ImageSize="414957" />
+    <Page Image="119" ImageSize="395194" />
+    <Page Image="120" ImageSize="356475" />
+    <Page Image="121" ImageSize="334873" />
+    <Page Image="122" ImageSize="437103" />
+    <Page Image="123" ImageSize="322938" />
+    <Page Image="124" ImageSize="432280" />
+    <Page Image="125" ImageSize="348588" />
+    <Page Image="126" ImageSize="400090" />
+    <Page Image="127" ImageSize="358352" />
+    <Page Image="128" ImageSize="437445" />
+    <Page Image="129" ImageSize="318465" />
+    <Page Image="130" ImageSize="256637" />
+    <Page Image="131" ImageSize="110501" />
+  </Pages>
+  <Penciller>Bernie Mireault,Eddie Campbell,Glenn Dakin,Mike Hoffman,Mœbius,Phil Elliott,Rick Grimes,Steve Bissette</Penciller>
+  <Publisher>Spiderbaby Grafix &amp; Publications</Publisher>
+  <Series>Taboo</Series>
+  <Summary>Contents:
+
+Maternity Ward by Jack Venooker &amp; S. R. Bissette
+Santa Sangre by Jean 'Moebius' Giraud
+Poker Face by Bernie Mireault
+A Touch of Vinyl by Rick Veitch &amp; Jack Weiner
+Vulnerable by Glen Dakin &amp; Phil Elliott
+One Good Trick by Jim Wheelock
+Throat Sprockets: Transylvania Mon Amour by Tim Lucas &amp; Mike Hoffman
+Cactus Water by Rick Grimes
+Love in the Afternoon by Rolf Stark &amp; Marlene Stevens
+From Hell, Chapter 2: A State of Darkness by Alan Moore &amp; Eddie Campbell</Summary>
+  <Volume>1988</Volume>
+  <Web>https://comicvine.gamespot.com/taboo-3/4000-236038/</Web>
+  <Writer>Alan Moore,Marlene Stevens,Rick Veitch,Tim Lucas</Writer>
+  <Year>1989</Year>
+  <Title>The Maternity Ward; Poker Face; A Touch of Vinyl; Vulnerable; One Good Trick; Throat Sprockets: Transylvania Mon Amour; Cactus Water; Love In The Afternoon; Chapter Two: A State Of Darkness</Title>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

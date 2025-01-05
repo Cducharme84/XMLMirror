@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Ambient,Bedlam,Chastity,Lady Death,Lord Chaos,Morgan Gallows,Purgatori</Characters>
+	<Colorist>Jason Jensen,John Merrifield</Colorist>
+	<Count>1</Count>
+	<Editor>Brian Pulido,Mike Francis</Editor>
+	<GTIN>urn:comicvine:4000-123318</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Fabio Laguna,Luke Ross</Inker>
+	<Letterer>Comicraft,Oscar Gongora</Letterer>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:40:49 [Issue ID 4000-123318] urn:comicvine:4000-123318 urn:grandcomicsdatabase:issue/744731</Notes>
+	<Number>1</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="645069" Type="FrontCover"/>
+		<Page Image="1" ImageSize="316929"/>
+		<Page Image="2" ImageSize="552958"/>
+		<Page Image="3" ImageSize="1008611"/>
+		<Page Image="4" ImageSize="959744"/>
+		<Page Image="5" ImageSize="1131794"/>
+		<Page Image="6" ImageSize="1304496"/>
+		<Page Image="7" ImageSize="622006"/>
+		<Page Image="8" ImageSize="612023"/>
+		<Page Image="9" ImageSize="690418"/>
+		<Page Image="10" ImageSize="612537"/>
+		<Page Image="11" ImageSize="1133241"/>
+		<Page Image="12" ImageSize="590128"/>
+		<Page Image="13" ImageSize="566691"/>
+		<Page Image="14" ImageSize="1167642"/>
+		<Page Image="15" ImageSize="1105081"/>
+		<Page Image="16" ImageSize="639359"/>
+		<Page Image="17" ImageSize="649554"/>
+		<Page Image="18" ImageSize="485774"/>
+		<Page Image="19" ImageSize="1209661"/>
+		<Page Image="20" ImageSize="480127"/>
+		<Page Image="21" ImageSize="536238"/>
+		<Page Image="22" ImageSize="1231320"/>
+		<Page Image="23" ImageSize="651675"/>
+		<Page Image="24" ImageSize="99197"/>
+	</Pages>
+	<Penciller>Luke Ross</Penciller>
+	<Publisher>Chaos! Comics</Publisher>
+	<Series>Aftermath</Series>
+	<Summary>Aftermath: Bedlam travels to five of the eight new worlds that make up the Chaos Universe after the events of Armageddon.</Summary>
+	<Title>Aftermath</Title>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-123318/</Web>
+	<Writer>Brian Pulido,Len Kaminski</Writer>
+	<Year>2000</Year>
+</ComicInfo>

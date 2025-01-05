@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>John Cain,Pat Amersham</Characters>
+	<Count>6</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-409454</GTIN>
+	<Genre>Crime</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:21:38 [Issue ID 4000-409454] urn:comicvine:4000-409454 urn:grandcomicsdatabase:issue/409454</Notes>
+	<Number>6</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1791" ImageHeight="1516" ImageSize="543558" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="980" ImageHeight="1517" ImageSize="356091"/>
+		<Page Image="2" ImageWidth="968" ImageHeight="1520" ImageSize="349482"/>
+		<Page Image="3" ImageWidth="981" ImageHeight="1520" ImageSize="341815"/>
+		<Page Image="4" ImageWidth="969" ImageHeight="1520" ImageSize="360150"/>
+		<Page Image="5" ImageWidth="981" ImageHeight="1520" ImageSize="347996"/>
+		<Page Image="6" ImageWidth="970" ImageHeight="1520" ImageSize="367595"/>
+		<Page Image="7" ImageWidth="971" ImageHeight="1520" ImageSize="385826"/>
+		<Page Image="8" ImageWidth="963" ImageHeight="1520" ImageSize="382465"/>
+		<Page Image="9" ImageWidth="976" ImageHeight="1520" ImageSize="366866"/>
+		<Page Image="10" ImageWidth="967" ImageHeight="1520" ImageSize="331430"/>
+		<Page Image="11" ImageWidth="972" ImageHeight="1520" ImageSize="376178"/>
+		<Page Image="12" ImageWidth="964" ImageHeight="1520" ImageSize="398284"/>
+		<Page Image="13" ImageWidth="976" ImageHeight="1518" ImageSize="396448"/>
+		<Page Image="14" ImageWidth="967" ImageHeight="1520" ImageSize="384473"/>
+		<Page Image="15" ImageWidth="969" ImageHeight="1520" ImageSize="398860"/>
+		<Page Image="16" ImageWidth="968" ImageHeight="1520" ImageSize="501033"/>
+		<Page Image="17" ImageWidth="981" ImageHeight="1520" ImageSize="497607"/>
+		<Page Image="18" ImageWidth="967" ImageHeight="1520" ImageSize="477961"/>
+		<Page Image="19" ImageWidth="977" ImageHeight="1520" ImageSize="527915"/>
+		<Page Image="20" ImageWidth="968" ImageHeight="1520" ImageSize="517322"/>
+		<Page Image="21" ImageWidth="970" ImageHeight="1520" ImageSize="472746"/>
+		<Page Image="22" ImageWidth="981" ImageHeight="1520" ImageSize="468489"/>
+		<Page Image="23" ImageWidth="981" ImageHeight="1520" ImageSize="333871"/>
+		<Page Image="24" ImageWidth="972" ImageHeight="1520" ImageSize="478811"/>
+		<Page Image="25" ImageSize="490196"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Scars</Series>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-409454/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2003</Year>
+</ComicInfo>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Mary Shelley,Lord Byron,Muhammad Ali,Percy Shelley</Characters>
+  <Editor>Murray Boltinoff</Editor>
+  <GTIN>urn:comicvine:4000-15336</GTIN>
+  <Inker>Buddy Gernale,George Tuska,Jerry Grandenetti,John Calnan,Luis Dominguez,Rudy Florese,Tony DeZuniga,Wally Wood,John Calnan,George Tuska,Tony DeZuniga,Buddy Gernale,Rudy Florese,Jerry Grandenetti,Wally Wood</Inker>
+  <Locations>Italy,London,Rocky Mountains,France,Carpathian Mountains,Scotland,Kansas</Locations>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:53:00 [Issue ID 4000-15336] urn:comicvine:4000-15336
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 02:00:46. [Issue ID 28737]</Notes>
+  <Number>40</Number>
+  <PageCount>68</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1529" ImageSize="379202" ImageWidth="1001" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1526" ImageSize="330612" ImageWidth="968" />
+    <Page Image="2" ImageHeight="1529" ImageSize="326003" ImageWidth="936" />
+    <Page Image="3" ImageHeight="1536" ImageSize="295604" ImageWidth="936" />
+    <Page Image="4" ImageHeight="1529" ImageSize="327434" ImageWidth="932" />
+    <Page Image="5" ImageHeight="1526" ImageSize="291437" ImageWidth="936" />
+    <Page Image="6" ImageHeight="1529" ImageSize="288918" ImageWidth="919" />
+    <Page Image="7" ImageHeight="1526" ImageSize="332593" ImageWidth="939" />
+    <Page Image="8" ImageHeight="1529" ImageSize="302730" ImageWidth="913" />
+    <Page Image="9" ImageHeight="1523" ImageSize="344296" ImageWidth="935" />
+    <Page Image="10" ImageHeight="1529" ImageSize="332283" ImageWidth="913" />
+    <Page Image="11" ImageHeight="1529" ImageSize="294800" ImageWidth="922" />
+    <Page Image="12" ImageHeight="1526" ImageSize="326744" ImageWidth="909" />
+    <Page Image="13" ImageHeight="1529" ImageSize="268694" ImageWidth="929" />
+    <Page Image="14" ImageHeight="1529" ImageSize="270205" ImageWidth="922" />
+    <Page Image="15" ImageHeight="1526" ImageSize="333018" ImageWidth="926" />
+    <Page Image="16" ImageHeight="1526" ImageSize="296740" ImageWidth="919" />
+    <Page Image="17" ImageHeight="1529" ImageSize="318047" ImageWidth="906" />
+    <Page Image="18" ImageHeight="1526" ImageSize="311542" ImageWidth="909" />
+    <Page Image="19" ImageHeight="1526" ImageSize="305862" ImageWidth="932" />
+    <Page Image="20" ImageHeight="1523" ImageSize="311012" ImageWidth="906" />
+    <Page Image="21" ImageHeight="1526" ImageSize="290452" ImageWidth="896" />
+    <Page Image="22" ImageHeight="1526" ImageSize="275793" ImageWidth="903" />
+    <Page Image="23" ImageHeight="1526" ImageSize="324119" ImageWidth="929" />
+    <Page Image="24" ImageHeight="1526" ImageSize="293931" ImageWidth="903" />
+    <Page Image="25" ImageHeight="1529" ImageSize="349711" ImageWidth="932" />
+    <Page Image="26" ImageHeight="1529" ImageSize="316495" ImageWidth="903" />
+    <Page Image="27" ImageHeight="1529" ImageSize="294484" ImageWidth="919" />
+    <Page Image="28" ImageHeight="1526" ImageSize="317744" ImageWidth="900" />
+    <Page Image="29" ImageHeight="1533" ImageSize="301816" ImageWidth="916" />
+    <Page Image="30" ImageHeight="1530" ImageSize="313604" ImageWidth="900" />
+    <Page Image="31" ImageHeight="1526" ImageSize="318303" ImageWidth="922" />
+    <Page Image="32" ImageHeight="1539" ImageSize="286898" ImageWidth="913" />
+    <Page Image="33" ImageHeight="1533" ImageSize="305677" ImageWidth="929" />
+    <Page Image="34" ImageHeight="1526" ImageSize="291221" ImageWidth="913" />
+    <Page Image="35" ImageHeight="1526" ImageSize="302969" ImageWidth="906" />
+    <Page Image="36" ImageHeight="1533" ImageSize="324528" ImageWidth="906" />
+    <Page Image="37" ImageHeight="1529" ImageSize="291472" ImageWidth="906" />
+    <Page Image="38" ImageHeight="1529" ImageSize="295570" ImageWidth="913" />
+    <Page Image="39" ImageHeight="1529" ImageSize="327007" ImageWidth="900" />
+    <Page Image="40" ImageHeight="1530" ImageSize="313528" ImageWidth="913" />
+    <Page Image="41" ImageHeight="1529" ImageSize="356673" ImageWidth="916" />
+    <Page Image="42" ImageHeight="1526" ImageSize="315971" ImageWidth="906" />
+    <Page Image="43" ImageHeight="1523" ImageSize="290572" ImageWidth="909" />
+    <Page Image="44" ImageHeight="1530" ImageSize="323420" ImageWidth="909" />
+    <Page Image="45" ImageHeight="1529" ImageSize="282218" ImageWidth="913" />
+    <Page Image="46" ImageHeight="1533" ImageSize="299477" ImageWidth="922" />
+    <Page Image="47" ImageHeight="1523" ImageSize="322635" ImageWidth="906" />
+    <Page Image="48" ImageHeight="1533" ImageSize="295893" ImageWidth="929" />
+    <Page Image="49" ImageHeight="1523" ImageSize="323455" ImageWidth="919" />
+    <Page Image="50" ImageHeight="1536" ImageSize="319630" ImageWidth="929" />
+    <Page Image="51" ImageHeight="1533" ImageSize="289864" ImageWidth="926" />
+    <Page Image="52" ImageHeight="1529" ImageSize="321596" ImageWidth="929" />
+    <Page Image="53" ImageHeight="1526" ImageSize="283607" ImageWidth="926" />
+    <Page Image="54" ImageHeight="1510" ImageSize="288657" ImageWidth="929" />
+    <Page Image="55" ImageHeight="1523" ImageSize="310006" ImageWidth="932" />
+    <Page Image="56" ImageHeight="1520" ImageSize="273369" ImageWidth="939" />
+    <Page Image="57" ImageHeight="1529" ImageSize="329690" ImageWidth="935" />
+    <Page Image="58" ImageHeight="1529" ImageSize="311896" ImageWidth="942" />
+    <Page Image="59" ImageHeight="1529" ImageSize="301985" ImageWidth="945" />
+    <Page Image="60" ImageHeight="1526" ImageSize="341215" ImageWidth="935" />
+    <Page Image="61" ImageHeight="1526" ImageSize="274837" ImageWidth="929" />
+    <Page Image="62" ImageHeight="1523" ImageSize="287172" ImageWidth="929" />
+    <Page Image="63" ImageHeight="1526" ImageSize="325688" ImageWidth="936" />
+    <Page Image="64" ImageHeight="1529" ImageSize="277377" ImageWidth="932" />
+    <Page Image="65" ImageHeight="1529" ImageSize="326119" ImageWidth="962" />
+    <Page Image="66" ImageHeight="1526" ImageSize="311762" ImageWidth="948" />
+    <Page Image="67" ImageSize="223700" />
+  </Pages>
+  <Penciller>Bob Brown,Buddy Gernale,Jerry Grandenetti,John Calnan,Luis Dominguez,Rudy Florese,Tony DeZuniga,John Calnan,Tony DeZuniga,Buddy Gernale,Rudy Florese,Jerry Grandenetti,Bob Brown</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Ghosts</Series>
+  <Summary>Istvan is haunted by the ghost of Zenna Prohl who he accused of being a witch so he could get her land.
+
+Two treasure hunters try to find a sunken galley but run into a ghostly galleon instead.
+
+When Vincent Perrault disturbs an ancient burial ground for stones for his new house he awakens the curse of the screaming skulls.
+
+Leftenant Jordan's ghost still flies the foggy skies over England looking for his landing strip.</Summary>
+  <Tags>Percy Shelley,Italy,Mary Shelley,London,Lord Byron,Rocky Mountains,France,Carpathian Mountains,Muhammad Ali,Scotland,Kansas</Tags>
+  <Volume>1971</Volume>
+  <Web>https://comicvine.gamespot.com/ghosts-40/4000-15336/</Web>
+  <Writer>Leo Dorfman,Leo Dorfman</Writer>
+  <Year>1975</Year>
+  <Count>112</Count>
+  <Title>The Nightmare That Haunted the World; No Grave Can Hold Me!; Galleon of Death; The Ghost Who Died Twice; The Roaring Coffin; Eyes from Another World; The Screaming Skulls; Mission Supernatural!; The Hands from the Grave!</Title>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+  <Letterer>Ben Oda,Joe Letterese,John Costanza</Letterer>
+</ComicInfo>

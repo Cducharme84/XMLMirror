@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cedric B. DeMiles,Horatio,John Shaw,Cain,Max Allen,Bob</Characters>
+  <GTIN>urn:comicvine:4000-117413</GTIN>
+  <Inker>Alex Niño,Alfredo Alcala,Bill Draut,Frank Robbins,Jack Abel,Romeo Tanghal,Rudy Florese,Sergio Aragonés,Tex Blaisdell,Romeo Tanghal,Alfredo Alcala,Bill Draut,Tex Blaisdell,Frank Robbins,Rudy Florese,Jack Abel,Alex Niño,Sergio Aragonés</Inker>
+  <Locations>Argentina,The House of Secrets,Kentucky,The House of Mystery</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:42:09 [Issue ID 4000-117413] urn:comicvine:4000-117413
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:25:58. [Issue ID 31006]</Notes>
+  <Number>252</Number>
+  <PageCount>84</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1515" ImageSize="300337" ImageWidth="975" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1549" ImageSize="336471" ImageWidth="989" />
+    <Page Image="2" ImageHeight="1552" ImageSize="357117" ImageWidth="968" />
+    <Page Image="3" ImageHeight="1559" ImageSize="302243" ImageWidth="972" />
+    <Page Image="4" ImageHeight="1535" ImageSize="300394" ImageWidth="937" />
+    <Page Image="5" ImageHeight="1545" ImageSize="293113" ImageWidth="957" />
+    <Page Image="6" ImageHeight="1545" ImageSize="303930" ImageWidth="944" />
+    <Page Image="7" ImageHeight="1549" ImageSize="300712" ImageWidth="954" />
+    <Page Image="8" ImageHeight="1545" ImageSize="295015" ImageWidth="947" />
+    <Page Image="9" ImageHeight="1545" ImageSize="294162" ImageWidth="947" />
+    <Page Image="10" ImageHeight="1552" ImageSize="303666" ImageWidth="964" />
+    <Page Image="11" ImageHeight="1549" ImageSize="299899" ImageWidth="964" />
+    <Page Image="12" ImageHeight="1559" ImageSize="290177" ImageWidth="947" />
+    <Page Image="13" ImageHeight="1552" ImageSize="301596" ImageWidth="951" />
+    <Page Image="14" ImageHeight="1559" ImageSize="285865" ImageWidth="947" />
+    <Page Image="15" ImageHeight="1549" ImageSize="289783" ImageWidth="940" />
+    <Page Image="16" ImageHeight="1559" ImageSize="301346" ImageWidth="961" />
+    <Page Image="17" ImageHeight="1552" ImageSize="289397" ImageWidth="954" />
+    <Page Image="18" ImageHeight="1545" ImageSize="312804" ImageWidth="961" />
+    <Page Image="19" ImageHeight="1559" ImageSize="294552" ImageWidth="954" />
+    <Page Image="20" ImageHeight="1556" ImageSize="280829" ImageWidth="954" />
+    <Page Image="21" ImageHeight="1549" ImageSize="253875" ImageWidth="954" />
+    <Page Image="22" ImageHeight="1556" ImageSize="291603" ImageWidth="954" />
+    <Page Image="23" ImageHeight="1552" ImageSize="300335" ImageWidth="951" />
+    <Page Image="24" ImageHeight="1549" ImageSize="296562" ImageWidth="958" />
+    <Page Image="25" ImageHeight="1556" ImageSize="286406" ImageWidth="951" />
+    <Page Image="26" ImageHeight="1549" ImageSize="287538" ImageWidth="933" />
+    <Page Image="27" ImageHeight="1549" ImageSize="302251" ImageWidth="940" />
+    <Page Image="28" ImageHeight="1542" ImageSize="275612" ImageWidth="937" />
+    <Page Image="29" ImageHeight="1549" ImageSize="281018" ImageWidth="940" />
+    <Page Image="30" ImageHeight="1545" ImageSize="284136" ImageWidth="933" />
+    <Page Image="31" ImageHeight="1549" ImageSize="290535" ImageWidth="933" />
+    <Page Image="32" ImageHeight="1556" ImageSize="311938" ImageWidth="958" />
+    <Page Image="33" ImageHeight="1549" ImageSize="298797" ImageWidth="943" />
+    <Page Image="34" ImageHeight="1545" ImageSize="287881" ImageWidth="937" />
+    <Page Image="35" ImageHeight="1559" ImageSize="290911" ImageWidth="947" />
+    <Page Image="36" ImageHeight="1556" ImageSize="301059" ImageWidth="951" />
+    <Page Image="37" ImageHeight="1552" ImageSize="289707" ImageWidth="947" />
+    <Page Image="38" ImageHeight="1559" ImageSize="303742" ImageWidth="954" />
+    <Page Image="39" ImageHeight="1549" ImageSize="298716" ImageWidth="933" />
+    <Page Image="40" ImageHeight="1549" ImageSize="293627" ImageWidth="947" />
+    <Page Image="41" ImageHeight="1549" ImageSize="251637" ImageWidth="933" />
+    <Page Image="42" ImageHeight="1345" ImageSize="844005" ImageWidth="1870" />
+    <Page Image="43" ImageHeight="1552" ImageSize="241930" ImageWidth="961" />
+    <Page Image="44" ImageHeight="1542" ImageSize="284032" ImageWidth="943" />
+    <Page Image="45" ImageHeight="1552" ImageSize="300558" ImageWidth="961" />
+    <Page Image="46" ImageHeight="1559" ImageSize="309861" ImageWidth="951" />
+    <Page Image="47" ImageHeight="1549" ImageSize="293679" ImageWidth="957" />
+    <Page Image="48" ImageHeight="1556" ImageSize="273609" ImageWidth="954" />
+    <Page Image="49" ImageHeight="1552" ImageSize="286241" ImageWidth="954" />
+    <Page Image="50" ImageHeight="1556" ImageSize="291582" ImageWidth="954" />
+    <Page Image="51" ImageHeight="1556" ImageSize="298491" ImageWidth="961" />
+    <Page Image="52" ImageHeight="1556" ImageSize="334555" ImageWidth="958" />
+    <Page Image="53" ImageHeight="1552" ImageSize="270558" ImageWidth="954" />
+    <Page Image="54" ImageHeight="1559" ImageSize="330065" ImageWidth="940" />
+    <Page Image="55" ImageHeight="1556" ImageSize="321086" ImageWidth="968" />
+    <Page Image="56" ImageHeight="1556" ImageSize="305516" ImageWidth="957" />
+    <Page Image="57" ImageHeight="1559" ImageSize="321891" ImageWidth="961" />
+    <Page Image="58" ImageHeight="1552" ImageSize="306884" ImageWidth="940" />
+    <Page Image="59" ImageHeight="1549" ImageSize="260526" ImageWidth="951" />
+    <Page Image="60" ImageHeight="1559" ImageSize="281905" ImageWidth="940" />
+    <Page Image="61" ImageHeight="1549" ImageSize="296350" ImageWidth="957" />
+    <Page Image="62" ImageHeight="1549" ImageSize="287046" ImageWidth="944" />
+    <Page Image="63" ImageHeight="1549" ImageSize="287500" ImageWidth="975" />
+    <Page Image="64" ImageHeight="1552" ImageSize="294759" ImageWidth="940" />
+    <Page Image="65" ImageHeight="1549" ImageSize="315227" ImageWidth="954" />
+    <Page Image="66" ImageHeight="1552" ImageSize="275430" ImageWidth="947" />
+    <Page Image="67" ImageHeight="1556" ImageSize="281870" ImageWidth="964" />
+    <Page Image="68" ImageHeight="1559" ImageSize="294213" ImageWidth="954" />
+    <Page Image="69" ImageHeight="1549" ImageSize="317872" ImageWidth="951" />
+    <Page Image="70" ImageHeight="1552" ImageSize="306619" ImageWidth="951" />
+    <Page Image="71" ImageHeight="1545" ImageSize="308678" ImageWidth="961" />
+    <Page Image="72" ImageHeight="1549" ImageSize="282932" ImageWidth="944" />
+    <Page Image="73" ImageHeight="1545" ImageSize="299453" ImageWidth="968" />
+    <Page Image="74" ImageHeight="1549" ImageSize="278211" ImageWidth="951" />
+    <Page Image="75" ImageHeight="1545" ImageSize="280321" ImageWidth="968" />
+    <Page Image="76" ImageHeight="1552" ImageSize="280321" ImageWidth="951" />
+    <Page Image="77" ImageHeight="1549" ImageSize="298627" ImageWidth="961" />
+    <Page Image="78" ImageHeight="1549" ImageSize="303993" ImageWidth="937" />
+    <Page Image="79" ImageHeight="1545" ImageSize="313287" ImageWidth="957" />
+    <Page Image="80" ImageHeight="1538" ImageSize="288889" ImageWidth="951" />
+    <Page Image="81" ImageHeight="1556" ImageSize="309618" ImageWidth="968" />
+    <Page Image="82" ImageHeight="1549" ImageSize="290986" ImageWidth="968" />
+    <Page Image="83" ImageSize="317175" />
+  </Pages>
+  <Penciller>Alex Niño,Alfredo Alcala,Bill Draut,Don Perlin,Frank Redondo,Frank Robbins,John Calnan,Rudy Florese,Sergio Aragonés,Don Perlin,Alfredo Alcala,Bill Draut,Frank Redondo,Frank Robbins,Rudy Florese,John Calnan,Alex Niño,Sergio Aragonés</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery</Series>
+  <Summary>The House of Mystery is scouted as a location for an amusement park, then for a movie, but Cain and his fellow weird inhabitants scare everyone away.
+
+Owen Sherwood is haunted by terrible nightmares, but when he consults a psychiatrist he learns that the nightmares are real.
+
+An evil baron steals the secret of foretelling the future from an alchemist, but it leads to his death.
+
+Stanley Markham steals sculptures done by an old lady and passes them off as his own.  Eventually he murders her so she can't reveal the truth, but her ghost returns for revenge.
+
+After a plane crash in the mountains, Dolph Culhane is forced to eat the race horse he just bought in order to stay alive, but after he is rescued he learns that the horse was diseased, just as he starts to feel the symptoms himself.
+
+A gang of conquering barbarians are captured and killed by a band of Amazons.
+
+Two people arrive at Abel's door to see if his house can be used to relocate Cain when the House of Mystery is torn down.
+
+Maude West finally joins her dead fiancee, fifty years after the accident that killed him.
+
+Single gag cartoon of a beautiful witch changing into an ugly witch so her friends don't find out.</Summary>
+  <Tags>Kentucky,Destiny of the Endless,Jenette Kahn,The House of Mystery,Argentina,Amazons,Cain,Abel,The House of Secrets,Eve</Tags>
+  <Teams>Amazons</Teams>
+  <Title>The Devil Strikes at My Old Kentucky Home!; The House Called Blefestry; The Man Who Saw Tomorrow!; Markham's Masterpiece; Grim Choice!; Man Killers; The House of Secrets Speaks... Out; From Beyond the Grave!</Title>
+  <Volume>1951</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-252-the-devil-strikes-at-my-old-k/4000-117413/</Web>
+  <Writer>Arnold Drake,Bill Kunkel,David Michelinie,Jack C. Harris,Jack Oleck,Paul Kupperberg,Sergio Aragonés,Paul Kupperberg,Bill Kunkel,Jack Oleck,David Michelinie,Arnold Drake,Jack C. Harris,Marjorie Darland,Sergio Aragonés</Writer>
+  <Year>1977</Year>
+  <Count>321</Count>
+  <Genre>Horror-suspense,Humor</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+  <Letterer>Ben Oda,Alfredo Alcala,Milt Snapinn</Letterer>
+</ComicInfo>

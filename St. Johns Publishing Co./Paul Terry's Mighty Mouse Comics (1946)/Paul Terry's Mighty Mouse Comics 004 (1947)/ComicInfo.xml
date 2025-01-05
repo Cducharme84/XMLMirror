@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gandy Goose,Mighty Mouse,Oscar Pig,Sourpuss</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-95203</GTIN>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:08:32 [Issue ID 4000-95203] urn:comicvine:4000-95203</Notes>
+	<Number>4</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="439871" Type="FrontCover"/>
+		<Page Image="1" ImageSize="644283"/>
+		<Page Image="2" ImageSize="512610"/>
+		<Page Image="3" ImageSize="430670"/>
+		<Page Image="4" ImageSize="524241"/>
+		<Page Image="5" ImageSize="586430"/>
+		<Page Image="6" ImageSize="492267"/>
+		<Page Image="7" ImageSize="461415"/>
+		<Page Image="8" ImageSize="531945"/>
+		<Page Image="9" ImageSize="569318"/>
+		<Page Image="10" ImageSize="555712"/>
+		<Page Image="11" ImageSize="519718"/>
+		<Page Image="12" ImageSize="561168"/>
+		<Page Image="13" ImageSize="598365"/>
+		<Page Image="14" ImageSize="571341"/>
+		<Page Image="15" ImageSize="497075"/>
+		<Page Image="16" ImageSize="466916"/>
+		<Page Image="17" ImageSize="510369"/>
+		<Page Image="18" ImageSize="523908"/>
+		<Page Image="19" ImageSize="512693"/>
+		<Page Image="20" ImageSize="497142"/>
+		<Page Image="21" ImageSize="532953"/>
+		<Page Image="22" ImageSize="511424"/>
+		<Page Image="23" ImageSize="513412"/>
+		<Page Image="24" ImageSize="481040"/>
+		<Page Image="25" ImageSize="575285"/>
+		<Page Image="26" ImageSize="555789"/>
+		<Page Image="27" ImageSize="512203"/>
+		<Page Image="28" ImageSize="497880"/>
+		<Page Image="29" ImageSize="544178"/>
+		<Page Image="30" ImageSize="550934"/>
+		<Page Image="31" ImageSize="536977"/>
+		<Page Image="32" ImageSize="430139"/>
+		<Page Image="33" ImageSize="574618"/>
+		<Page Image="34" ImageSize="494298"/>
+		<Page Image="35" ImageSize="396269"/>
+	</Pages>
+	<Publisher>St. Johns Publishing Co.</Publisher>
+	<Series>Paul Terry's Mighty Mouse Comics</Series>
+	<Summary>https://comicvine.gamespot.com/mighty-mouse-4/4000-95203/</Summary>
+	<Tags>Gandy Goose,Mighty Mouse,Oscar Pig,Sourpuss</Tags>
+	<Volume>1946</Volume>
+	<Web>https://comicvine.gamespot.com/mighty-mouse-4/4000-95203/</Web>
+	<Year>1947</Year>
+</ComicInfo>

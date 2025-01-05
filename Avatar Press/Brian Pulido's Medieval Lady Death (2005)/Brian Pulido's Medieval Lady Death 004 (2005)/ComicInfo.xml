@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Wolfram Von Bach,Lady Death,Cai Von Bach,Obsidia,Archbishop Vittorio,Henry Heinemann</Characters>
+  <Count>8</Count>
+  <Day>1</Day>
+  <Editor>Barbara Randall Kesel,William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-742903</GTIN>
+  <Inker>Alex Lei</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:06 [Issue ID 4000-742903] urn:comicvine:4000-742903 urn:grandcomicsdatabase:issue/742903
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:41:34. [Issue ID 742903]</Notes>
+  <Number>4</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="453315" Type="FrontCover" />
+    <Page Image="1" ImageSize="368393" />
+    <Page Image="2" ImageSize="382973" />
+    <Page Image="3" ImageSize="423566" />
+    <Page Image="4" ImageSize="464215" />
+    <Page Image="5" ImageSize="459388" />
+    <Page Image="6" ImageSize="476743" />
+    <Page Image="7" ImageSize="403871" />
+    <Page Image="8" ImageSize="447692" />
+    <Page Image="9" ImageSize="435756" />
+    <Page Image="10" ImageSize="420156" />
+    <Page Image="11" ImageSize="417819" />
+    <Page Image="12" ImageSize="406368" />
+    <Page Image="13" ImageSize="898985" />
+    <Page Image="14" ImageSize="475036" />
+    <Page Image="15" ImageSize="436601" />
+    <Page Image="16" ImageSize="402879" />
+    <Page Image="17" ImageSize="651062" />
+    <Page Image="18" ImageSize="462641" />
+    <Page Image="19" ImageSize="430062" />
+    <Page Image="20" ImageSize="716031" />
+    <Page Image="21" ImageSize="500494" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Brian Pulido's Medieval Lady Death</Series>
+  <Volume>2005</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-742903/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2005</Year>
+</ComicInfo>

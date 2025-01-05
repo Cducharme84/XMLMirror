@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <Day>10</Day>
+  <GTIN>urn:comicvine:4000-143583</GTIN>
+  <Inker>Mark Morales</Inker>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T17:01:15 [Issue ID 4000-143583] urn:comicvine:4000-143583
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 03:24:50. [Issue ID 265339]</Notes>
+  <Number>1</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="315538" Type="FrontCover" />
+    <Page Image="1" ImageSize="218680" />
+    <Page Image="2" ImageSize="195648" />
+    <Page Image="3" ImageSize="264354" />
+    <Page Image="4" ImageSize="192136" />
+    <Page Image="5" ImageSize="152247" />
+    <Page Image="6" ImageSize="211265" />
+    <Page Image="7" ImageSize="172352" />
+    <Page Image="8" ImageSize="304536" />
+    <Page Image="9" ImageSize="210784" />
+    <Page Image="10" ImageSize="312773" />
+    <Page Image="11" ImageSize="262842" />
+    <Page Image="12" ImageSize="255543" />
+    <Page Image="13" ImageSize="189976" />
+    <Page Image="14" ImageSize="190597" />
+    <Page Image="15" ImageSize="139050" />
+    <Page Image="16" ImageSize="133754" />
+    <Page Image="17" ImageSize="134598" />
+    <Page Image="18" ImageSize="207021" />
+    <Page Image="19" ImageSize="234884" />
+    <Page Image="20" ImageSize="189906" />
+    <Page Image="21" ImageSize="190812" />
+    <Page Image="22" ImageSize="141470" />
+    <Page Image="23" ImageSize="206554" />
+  </Pages>
+  <Penciller>Adam Pollina</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Hellhole</Series>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/hellhole-1/4000-143583/</Web>
+  <Writer>Scott Lobdell</Writer>
+  <Year>1999</Year>
+  <Colorist>Matt Nelson,Nathan Cabrera,Tyson Wengler</Colorist>
+  <Letterer>Dennis Heisler</Letterer>
+  <CoverArtist>Adam Pollina,Mark Morales,Peter Steigerwald</CoverArtist>
+  <Editor>David Wohl,Renae Geerlings,Sonia Im</Editor>
+  <Genre>Crime</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

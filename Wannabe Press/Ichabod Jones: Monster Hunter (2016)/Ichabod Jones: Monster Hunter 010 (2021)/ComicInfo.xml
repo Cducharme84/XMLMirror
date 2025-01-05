@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Ichabod Jones</Characters>
+	<Count>12</Count>
+	<CoverArtist>Renzo Podesta</CoverArtist>
+	<Day>31</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-882703</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Renzo Podesta</Inker>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-25T01:48:56 [Issue ID 4000-882703] urn:comicvine:4000-882703</Notes>
+	<Number>10</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="2439441" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="627973"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="2542003"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="2568828"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="2433509"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="1937897"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="1929300"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="1852818"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="1818507"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="1516793"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="2129717"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="1817457"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="2264183"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="1998755"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="2001584"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="2061463"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="2024211"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="2082036"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="1868239"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1682256"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="2238493"/>
+		<Page Image="21" ImageSize="2248342"/>
+	</Pages>
+	<Penciller>Renzo Podesta</Penciller>
+	<Publisher>Wannabe Press</Publisher>
+	<Series>Ichabod Jones: Monster Hunter</Series>
+	<Summary>Ichabod faces the demon lord Azazel and must save his friends from their evil clutches.</Summary>
+	<Volume>2016</Volume>
+	<Web>https://comicvine.gamespot.com/ichabod-jones-monster-hunter-10/4000-882703/</Web>
+	<Writer>Russell Nohelty</Writer>
+	<Year>2021</Year>
+</ComicInfo>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>6</Count>
+	<CoverArtist>John Myers</CoverArtist>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-467850</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>John Myers</Inker>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-05T20:37:17 [Issue ID 4000-467850] urn:comicvine:4000-467850</Notes>
+	<Number>2</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3886" ImageSize="2391323" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3886" ImageSize="1638861"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3886" ImageSize="2347093"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3886" ImageSize="2354704"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3886" ImageSize="1833355"/>
+		<Page DoublePage="True" Image="5" ImageWidth="5027" ImageHeight="3886" ImageSize="4463761"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3886" ImageSize="2706427"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3886" ImageSize="2678700"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3886" ImageSize="2128669"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3886" ImageSize="2867764"/>
+		<Page DoublePage="True" Image="10" ImageWidth="5027" ImageHeight="3886" ImageSize="4600485"/>
+		<Page DoublePage="True" Image="11" ImageWidth="5027" ImageHeight="3886" ImageSize="4493973"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3886" ImageSize="2746819"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3886" ImageSize="2550661"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3886" ImageSize="2395322"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3886" ImageSize="2694514"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3886" ImageSize="2556590"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3886" ImageSize="2606143"/>
+		<Page Image="18" ImageSize="5037926"/>
+	</Pages>
+	<Penciller>John Myers</Penciller>
+	<Publisher>Source Point Press</Publisher>
+	<Series>The Era of Great Wonders</Series>
+	<Summary>The men and women who risked their lives during the disastrous attempt to evacuate the West Pangaea Bridge tell their story, including the city's first contact with one of the so-called "Wonders" - the utterly terrifying Great Scyphozoan.</Summary>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/era-of-great-wonders-2/4000-467850/</Web>
+	<Writer>John Myers</Writer>
+	<Year>2014</Year>
+</ComicInfo>

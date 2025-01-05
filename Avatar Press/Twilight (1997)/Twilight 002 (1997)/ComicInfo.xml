@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cabalist,Pandora,Strife,Trance,Twilight,Zeus</Characters>
+	<Count>2</Count>
+	<Country>US</Country>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-1754236</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>David Mowry</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Mark Craig,Mark Seifert</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:22:10 [Issue ID 4000-1754236] urn:comicvine:4000-1754236 urn:grandcomicsdatabase:issue/1754236</Notes>
+	<Number>2</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="5881431" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1277653"/>
+		<Page Image="2" ImageSize="1517597"/>
+		<Page Image="3" ImageSize="1504068"/>
+		<Page Image="4" ImageSize="1326943"/>
+		<Page Image="5" ImageSize="1613340"/>
+		<Page Image="6" ImageSize="1516648"/>
+		<Page Image="7" ImageSize="1633282"/>
+		<Page Image="8" ImageSize="1513785"/>
+		<Page Image="9" ImageSize="1279516"/>
+		<Page Image="10" ImageSize="1217771"/>
+		<Page Image="11" ImageSize="1610716"/>
+		<Page Image="12" ImageSize="1775847"/>
+		<Page Image="13" ImageSize="1308801"/>
+		<Page Image="14" ImageSize="2440301"/>
+		<Page Image="15" ImageSize="2064721"/>
+		<Page Image="16" ImageSize="1902743"/>
+		<Page Image="17" ImageSize="1294494"/>
+		<Page Image="18" ImageSize="1509438"/>
+		<Page Image="19" ImageSize="1391341"/>
+		<Page Image="20" ImageSize="1430294"/>
+		<Page Image="21" ImageSize="969497"/>
+		<Page Image="22" ImageSize="1047395"/>
+		<Page Image="23" ImageSize="1367196"/>
+		<Page Image="24" ImageSize="1243221"/>
+		<Page Image="25" ImageSize="1365436"/>
+		<Page Image="26" ImageSize="1360485"/>
+		<Page Image="27" ImageSize="1074004"/>
+		<Page Image="28" ImageSize="865884"/>
+	</Pages>
+	<Penciller>Richard Pollard</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Twilight</Series>
+	<Tags>Cabalist,Pandora,Twilight,Zeus</Tags>
+	<Volume>1997</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1754236/</Web>
+	<Writer>Mark Seifert,William A. Christensen</Writer>
+	<Year>1997</Year>
+</ComicInfo>

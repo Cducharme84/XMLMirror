@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>185</Count>
+  <GTIN>urn:comicvine:4000-1011379</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:49:09 [Issue ID 4000-1011379] urn:comicvine:4000-1011379 urn:grandcomicsdatabase:issue/1011379
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 00:36:19. [Issue ID 1011379]</Notes>
+  <Number>160</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1366937" Type="FrontCover" />
+    <Page Image="1" ImageSize="2621894" />
+    <Page Image="2" ImageSize="2471365" />
+    <Page Image="3" ImageSize="2146265" />
+    <Page Image="4" ImageSize="2007673" />
+    <Page Image="5" ImageSize="2037760" />
+    <Page Image="6" ImageSize="1864674" />
+    <Page Image="7" ImageSize="4884678" />
+    <Page Image="8" ImageSize="2022421" />
+    <Page Image="9" ImageSize="2415873" />
+    <Page Image="10" ImageSize="3110179" />
+    <Page Image="11" ImageSize="2005604" />
+    <Page Image="12" ImageSize="1892845" />
+    <Page Image="13" ImageSize="1950574" />
+    <Page Image="14" ImageSize="2113633" />
+    <Page Image="15" ImageSize="1960724" />
+    <Page Image="16" ImageSize="1810595" />
+    <Page Image="17" ImageSize="1996708" />
+    <Page Image="18" ImageSize="2025652" />
+    <Page Image="19" ImageSize="925245" />
+    <Page Image="20" ImageSize="1758813" />
+    <Page Image="21" ImageSize="1708116" />
+    <Page Image="22" ImageSize="2233825" />
+    <Page Image="23" ImageSize="1527507" />
+    <Page Image="24" ImageSize="1348151" />
+    <Page Image="25" ImageSize="1046269" />
+    <Page Image="26" ImageSize="1162315" />
+    <Page Image="27" ImageSize="1184000" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Witchblade</Series>
+  <Volume>1995</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1011379/</Web>
+  <Year>1995</Year>
+</ComicInfo>

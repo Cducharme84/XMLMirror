@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-135941</GTIN>
+	<Inker>John Richardson</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:23:06 [Issue ID 4000-135941] urn:comicvine:4000-135941</Notes>
+	<Number>14</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="623596" Type="FrontCover"/>
+		<Page Image="1" ImageSize="950089"/>
+		<Page Image="2" ImageSize="1194000"/>
+		<Page Image="3" ImageSize="1063388"/>
+		<Page Image="4" ImageSize="1191343"/>
+		<Page Image="5" ImageSize="1125209"/>
+		<Page Image="6" ImageSize="1159651"/>
+		<Page Image="7" ImageSize="1101416"/>
+		<Page Image="8" ImageSize="942192"/>
+		<Page Image="9" ImageSize="993195"/>
+		<Page Image="10" ImageSize="1184209"/>
+		<Page Image="11" ImageSize="1107697"/>
+		<Page Image="12" ImageSize="1147412"/>
+		<Page Image="13" ImageSize="1003709"/>
+		<Page Image="14" ImageSize="1166352"/>
+		<Page Image="15" ImageSize="1279718"/>
+		<Page Image="16" ImageSize="1116272"/>
+		<Page Image="17" ImageSize="1076449"/>
+		<Page Image="18" ImageSize="1152103"/>
+		<Page Image="19" ImageSize="1116713"/>
+		<Page Image="20" ImageSize="1160359"/>
+		<Page Image="21" ImageSize="1175665"/>
+		<Page Image="22" ImageSize="1050946"/>
+		<Page Image="23" ImageSize="1211855"/>
+		<Page Image="24" ImageSize="1126236"/>
+		<Page Image="25" ImageSize="1237494"/>
+		<Page Image="26" ImageSize="1249402"/>
+		<Page Image="27" ImageSize="1301247"/>
+		<Page Image="28" ImageSize="1102662"/>
+		<Page Image="29" ImageSize="1034358"/>
+		<Page Image="30" ImageSize="1024764"/>
+		<Page Image="31" ImageSize="1074817"/>
+		<Page Image="32" ImageSize="1198689"/>
+	</Pages>
+	<Penciller>John Richardson</Penciller>
+	<Publisher>Fleetway Quality</Publisher>
+	<Series>666 Mark of the Beast</Series>
+	<Summary>https://comicvine.gamespot.com/666-mark-of-the-beast-14/4000-135941/</Summary>
+	<Volume>1990</Volume>
+	<Web>https://comicvine.gamespot.com/666-mark-of-the-beast-14/4000-135941/</Web>
+	<Writer>Simon Furman,Tom Tully</Writer>
+	<Year>1993</Year>
+</ComicInfo>

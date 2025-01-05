@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Colorist>Ceci de la Cruz</Colorist>
+  <Count>18</Count>
+  <Day>26</Day>
+  <Editor>Kari Castor</Editor>
+  <GTIN>urn:comicvine:4000-446564</GTIN>
+  <Letterer>HDE</Letterer>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:32:09 [Issue ID 4000-446564] urn:comicvine:4000-446564
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 23:17:28. [Issue ID 1182937]</Notes>
+  <Number>15</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="806840" Type="FrontCover" />
+    <Page Image="1" ImageSize="1595751" />
+    <Page Image="2" ImageSize="1365836" />
+    <Page Image="3" ImageSize="1031033" />
+    <Page Image="4" ImageSize="1003755" />
+    <Page Image="5" ImageSize="1621406" />
+    <Page Image="6" ImageSize="962828" />
+    <Page Image="7" ImageSize="929813" />
+    <Page Image="8" ImageSize="2842266" />
+    <Page Image="9" ImageSize="1032018" />
+    <Page Image="10" ImageSize="1057978" />
+    <Page Image="11" ImageSize="1796383" />
+    <Page Image="12" ImageSize="1013537" />
+    <Page Image="13" ImageSize="984669" />
+    <Page Image="14" ImageSize="1069506" />
+    <Page Image="15" ImageSize="949450" />
+    <Page Image="16" ImageSize="1731460" />
+    <Page Image="17" ImageSize="896857" />
+    <Page Image="18" ImageSize="968183" />
+    <Page Image="19" ImageSize="920660" />
+    <Page Image="20" ImageSize="1180777" />
+    <Page Image="21" ImageSize="941370" />
+    <Page Image="22" ImageSize="982263" />
+    <Page Image="23" ImageSize="945386" />
+    <Page Image="24" ImageSize="124040" />
+  </Pages>
+  <Publisher>Big Dog Ink</Publisher>
+  <Series>Legend of Oz: The Wicked West</Series>
+  <Summary>The final chapter in the epic origin story of the Flying Monkeys of Oz. Don't count on a happy ending.
+
+*List of covers and their creators:*
+| Cover | Name    | Creator(s)     | Sidebar Location |
+|-------|---------|----------------|------------------|
+| A     | Cover A | Alisson Borges | 1                |
+| B     | Cover B | Nei Ruffino    | Missing          |
+| C     | Cover C | Nei Ruffino    | Missing          |</Summary>
+  <Teams>Winged Monkeys</Teams>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/legend-of-oz-the-wicked-west-15/4000-446564/</Web>
+  <Writer>Dirk Manning</Writer>
+  <Year>2014</Year>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

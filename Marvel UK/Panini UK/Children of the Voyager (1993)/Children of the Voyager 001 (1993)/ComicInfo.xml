@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Sam Wantling,Voyager</Characters>
+	<Day>30</Day>
+	<GTIN>urn:comixology:328051</GTIN>
+	<Genre>Fantasy,Horror</Genre>
+	<Inker>Paul Johnson</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:56:11 [Issue ID 4000-206566] urn:comicvine:4000-206566 urn:comixology:328051</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2463845" Type="FrontCover"/>
+		<Page Image="1" ImageSize="3814245"/>
+		<Page Image="2" ImageSize="912488"/>
+		<Page Image="3" ImageSize="3440804"/>
+		<Page Image="4" ImageSize="2036372"/>
+		<Page Image="5" ImageSize="1783021"/>
+		<Page Image="6" ImageSize="1562455"/>
+		<Page Image="7" ImageSize="1780291"/>
+		<Page Image="8" ImageSize="1707308"/>
+		<Page Image="9" ImageSize="1886610"/>
+		<Page Image="10" ImageSize="1588843"/>
+		<Page Image="11" ImageSize="1736011"/>
+		<Page Image="12" ImageSize="2178924"/>
+		<Page Image="13" ImageSize="2004335"/>
+		<Page Image="14" ImageSize="1750575"/>
+		<Page Image="15" ImageSize="1998396"/>
+		<Page Image="16" ImageSize="1095344"/>
+		<Page Image="17" ImageSize="1735341"/>
+		<Page Image="18" ImageSize="2208671"/>
+		<Page Image="19" ImageSize="1663312"/>
+		<Page Image="20" ImageSize="2142983"/>
+		<Page Image="21" ImageSize="2037888"/>
+		<Page Image="22" ImageSize="1911047"/>
+		<Page Image="23" ImageSize="2118570"/>
+	</Pages>
+	<Penciller>Paul Johnson</Penciller>
+	<Publisher>Marvel UK/Panini UK</Publisher>
+	<Series>Children of the Voyager</Series>
+	<Summary>Children of the Voyager was the first book in Marvel UK's Frontier imprint, introducing the Voyager, an immortal wayfarer who leaves incarnations of himself through time. When one of his children resists returning to him, the Voyager uses any means necessary to change his mind.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-13 08:26:22.  [CVDB206566]
+
+https://comicvine.gamespot.com/children-of-the-voyager-1-shadows-and-fog/4000-206566/</Summary>
+	<Tags>Children Of The Voyager,Sam Wantling,Voyager</Tags>
+	<Teams>Children Of The Voyager</Teams>
+	<Title>Shadows And Fog</Title>
+	<Volume>1993</Volume>
+	<Web>https://comicvine.gamespot.com/children-of-the-voyager-1-shadows-and-fog/4000-206566/</Web>
+	<Writer>Nick Abadzis</Writer>
+	<Year>1993</Year>
+</ComicInfo>

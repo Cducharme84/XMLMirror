@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Adam Van Helsing,Conrad Van Helsing,Pendragon,Vampirella</Characters>
+	<Count>113</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-14699</GTIN>
+	<Inker>Esteban Maroto,Felix Mas,Isidro Mones,Jose (Pepe) Gonzalez,Josep Maria Bea,Luis Garcia,Rafael Auraleón,Ramon Torrents</Inker>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:05:20 [Issue ID 4000-14699] urn:comicvine:4000-14699</Notes>
+	<Number>37</Number>
+	<PageCount>12</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1246310" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1048534"/>
+		<Page Image="2" ImageSize="1183951"/>
+		<Page Image="3" ImageSize="1483266"/>
+		<Page Image="4" ImageSize="1841342"/>
+		<Page Image="5" ImageSize="1864870"/>
+		<Page Image="6" ImageSize="1821656"/>
+		<Page Image="7" ImageSize="1938392"/>
+		<Page Image="8" ImageSize="1901241"/>
+		<Page Image="9" ImageSize="1927513"/>
+		<Page Image="10" ImageSize="1833572"/>
+		<Page Image="11" ImageSize="44226"/>
+	</Pages>
+	<Penciller>Esteban Maroto,Felix Mas,Isidro Mones,Jose (Pepe) Gonzalez,Josep Maria Bea,Luis Garcia,Rafael Auraleón,Ramon Torrents</Penciller>
+	<Publisher>Warren</Publisher>
+	<Series>Vampirella</Series>
+	<Tags>Adam Van Helsing,Conrad Van Helsing,Pendragon,Vampirella</Tags>
+	<Volume>1969</Volume>
+	<Web>https://comicvine.gamespot.com/vampirella-37/4000-14699/</Web>
+	<Writer>Archie Goodwin,Don Glut,Don McGregor,James Crawford,John Jacobson,Kevin Pagan,Lynn Marron</Writer>
+	<Year>1974</Year>
+</ComicInfo>

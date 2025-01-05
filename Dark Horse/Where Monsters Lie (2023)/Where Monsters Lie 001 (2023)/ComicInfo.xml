@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>4</Count>
+  <Day>1</Day>
+  <Editor>Daniel Chabon</Editor>
+  <GTIN>urn:comicvine:4000-968400</GTIN>
+  <Letterer>Joshua Reed</Letterer>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:42:05 [Issue ID 4000-968400] urn:comicvine:4000-968400
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 08:21:07. [Issue ID 2487380]</Notes>
+  <Number>1</Number>
+  <PageCount>104</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2108352" Type="FrontCover" />
+    <Page Image="1" ImageSize="218704" />
+    <Page Image="2" ImageSize="4772182" />
+    <Page Image="3" ImageSize="1074103" />
+    <Page Image="4" ImageSize="3407854" />
+    <Page Image="5" ImageSize="423115" />
+    <Page Image="6" ImageSize="3229200" />
+    <Page Image="7" ImageSize="3005664" />
+    <Page Image="8" ImageSize="3010414" />
+    <Page Image="9" ImageSize="3217443" />
+    <Page Image="10" ImageSize="3201509" />
+    <Page Image="11" ImageSize="3413324" />
+    <Page Image="12" ImageSize="3657738" />
+    <Page Image="13" ImageSize="3328707" />
+    <Page Image="14" ImageSize="3263943" />
+    <Page Image="15" ImageSize="3489729" />
+    <Page Image="16" ImageSize="3105966" />
+    <Page Image="17" ImageSize="3037115" />
+    <Page Image="18" ImageSize="3160108" />
+    <Page Image="19" ImageSize="2952299" />
+    <Page Image="20" ImageSize="2856905" />
+    <Page Image="21" ImageSize="3202274" />
+    <Page Image="22" ImageSize="2343810" />
+    <Page Image="23" ImageSize="2642503" />
+    <Page Image="24" ImageSize="3040259" />
+    <Page Image="25" ImageSize="2554698" />
+    <Page Image="26" ImageSize="3711271" />
+    <Page Image="27" ImageSize="423115" />
+    <Page Image="28" ImageSize="2755910" />
+    <Page Image="29" ImageSize="2868597" />
+    <Page Image="30" ImageSize="2603312" />
+    <Page Image="31" ImageSize="2767320" />
+    <Page Image="32" ImageSize="2775344" />
+    <Page Image="33" ImageSize="2938462" />
+    <Page Image="34" ImageSize="2868034" />
+    <Page Image="35" ImageSize="2992358" />
+    <Page Image="36" ImageSize="2812539" />
+    <Page Image="37" ImageSize="3674276" />
+    <Page Image="38" ImageSize="3085807" />
+    <Page Image="39" ImageSize="3254835" />
+    <Page Image="40" ImageSize="2780817" />
+    <Page Image="41" ImageSize="3237251" />
+    <Page Image="42" ImageSize="2624583" />
+    <Page Image="43" ImageSize="3326660" />
+    <Page Image="44" ImageSize="3131233" />
+    <Page Image="45" ImageSize="2853823" />
+    <Page Image="46" ImageSize="3250132" />
+    <Page Image="47" ImageSize="2784443" />
+    <Page Image="48" ImageSize="4213217" />
+    <Page Image="49" ImageSize="423115" />
+    <Page Image="50" ImageSize="3387339" />
+    <Page Image="51" ImageSize="3150401" />
+    <Page Image="52" ImageSize="3642708" />
+    <Page Image="53" ImageSize="3168798" />
+    <Page Image="54" ImageSize="3896412" />
+    <Page Image="55" ImageSize="3677953" />
+    <Page Image="56" ImageSize="3444645" />
+    <Page Image="57" ImageSize="3139817" />
+    <Page Image="58" ImageSize="3156450" />
+    <Page Image="59" ImageSize="3355358" />
+    <Page Image="60" ImageSize="3833155" />
+    <Page Image="61" ImageSize="3275545" />
+    <Page Image="62" ImageSize="3253081" />
+    <Page Image="63" ImageSize="4072745" />
+    <Page Image="64" ImageSize="3238163" />
+    <Page Image="65" ImageSize="2751947" />
+    <Page Image="66" ImageSize="3293656" />
+    <Page Image="67" ImageSize="2900475" />
+    <Page Image="68" ImageSize="3115482" />
+    <Page Image="69" ImageSize="2674185" />
+    <Page Image="70" ImageSize="4173739" />
+    <Page Image="71" ImageSize="423115" />
+    <Page Image="72" ImageSize="2776656" />
+    <Page Image="73" ImageSize="2882859" />
+    <Page Image="74" ImageSize="2715208" />
+    <Page Image="75" ImageSize="3482341" />
+    <Page Image="76" ImageSize="3393938" />
+    <Page Image="77" ImageSize="3076470" />
+    <Page Image="78" ImageSize="3245397" />
+    <Page Image="79" ImageSize="3488043" />
+    <Page Image="80" ImageSize="3293931" />
+    <Page Image="81" ImageSize="3882998" />
+    <Page Image="82" ImageSize="4425266" />
+    <Page Image="83" ImageSize="3241591" />
+    <Page Image="84" ImageSize="3879015" />
+    <Page Image="85" ImageSize="4195980" />
+    <Page Image="86" ImageSize="2745773" />
+    <Page Image="87" ImageSize="2776233" />
+    <Page Image="88" ImageSize="3637954" />
+    <Page Image="89" ImageSize="3222406" />
+    <Page Image="90" ImageSize="2963148" />
+    <Page Image="91" ImageSize="2839422" />
+    <Page Image="92" ImageSize="3362425" />
+    <Page Image="93" ImageSize="3061413" />
+    <Page Image="94" ImageSize="2513167" />
+    <Page Image="95" ImageSize="2824645" />
+    <Page Image="96" ImageSize="2245042" />
+    <Page Image="97" ImageSize="1962044" />
+    <Page Image="98" ImageSize="1943348" />
+    <Page Image="99" ImageSize="1923589" />
+    <Page Image="100" ImageSize="1775341" />
+    <Page Image="101" ImageSize="2067815" />
+    <Page Image="102" ImageSize="2906854" />
+    <Page Image="103" ImageSize="1898687" />
+  </Pages>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Where Monsters Lie</Series>
+  <Summary>Haven't you always wondered what slasher monsters--the masked home invasion family, the mindless unkillable monster, the serial killer trapped in a doll--what they do for those couple of years in-between their murder sprees? They're at Wilmhurst--a gated community in the middle of nowhere where they relax--or try to--until they get the call to go out and kill again.
+
+Connor Hayes survived his first slasher in summer camp. A handful of years later he barely escaped a psychopath who built torture puzzles for his victims. Since then he's been training and planning for running into these creatures again. He's a respected special agent, and now he knows where the monsters lie and he's planning for war.
+
+The latest creator-owned series from I Hate this Place's Kyle Starks!</Summary>
+  <Volume>2023</Volume>
+  <Web>https://comicvine.gamespot.com/where-monsters-lie-1/4000-968400/</Web>
+  <Writer>Kyle Starks</Writer>
+  <Year>2023</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

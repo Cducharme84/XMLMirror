@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Peter Cairn,Spawn (Simmons)</Characters>
+	<Colorist>Jay David Ramos</Colorist>
+	<Count>6</Count>
+	<CoverArtist>Björn Barends,Kevin Keane</CoverArtist>
+	<Day>1</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-115291</GTIN>
+	<Genre>Super-Hero</Genre>
+	<Inker>Zé Carlos</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T00:09:32 [Issue ID 4000-115291] urn:comicvine:4000-115291</Notes>
+	<Number>2</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2798" ImageHeight="4301" ImageSize="1148554" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="224950"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="741024"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="778928"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="598230"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="834870"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="614936"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="748714"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="1091618"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="693332"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="725762"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="736802"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="966210"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="529920"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="674060"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="647044"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="930056"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="856612"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="844226"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="742636"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="624468"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="676882"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="40884"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1988" ImageHeight="3056" ImageSize="566926"/>
+		<Page DoublePage="False" Image="24" ImageWidth="1988" ImageHeight="3056" ImageSize="410384"/>
+		<Page DoublePage="False" Image="25" ImageWidth="1988" ImageHeight="3056" ImageSize="373272"/>
+		<Page DoublePage="False" Image="26" ImageWidth="1988" ImageHeight="3056" ImageSize="338448"/>
+		<Page DoublePage="False" Image="27" ImageWidth="1988" ImageHeight="3056" ImageSize="346670"/>
+		<Page Image="28" ImageSize="464792"/>
+	</Pages>
+	<Penciller>Zé Carlos</Penciller>
+	<Publisher>Image</Publisher>
+	<ScanInformation>(Digital) (Wanpanman-Empire)</ScanInformation>
+	<Series>Rat City</Series>
+	<Summary>Peter Cairn is still struggling with his new powers. Deemed a "Deviant" by the corporation that created him, he is on the run as they attempt to reclaim the power that they believe is theirs!</Summary>
+	<Volume>2024</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-115291/</Web>
+	<Writer>Erica Schultz</Writer>
+	<Year>2024</Year>
+</ComicInfo>

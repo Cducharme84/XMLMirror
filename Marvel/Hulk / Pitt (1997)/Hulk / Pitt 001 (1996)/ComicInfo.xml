@@ -1,0 +1,83 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Hulk,Timmy,Pitt</Characters>
+  <Colorist>Steve Buccellato,Steve Buccellato</Colorist>
+  <Editor>Bobbie Chase</Editor>
+  <GTIN>urn:comicvine:4000-121006</GTIN>
+  <Inker>Dale Keown,Dan Panosian,Dan Panosian</Inker>
+  <Letterer>Chris Eliopoulos,Chris Eliopoulos</Letterer>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T13:49:36 [Issue ID 4000-121006] urn:comicvine:4000-121006
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 11:53:57. [Issue ID 783582]</Notes>
+  <Number>1</Number>
+  <PageCount>54</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1801" ImageSize="342232" ImageWidth="1200" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1866" ImageSize="415650" ImageWidth="1200" />
+    <Page Image="2" ImageHeight="1853" ImageSize="374334" ImageWidth="1200" />
+    <Page Image="3" ImageHeight="1825" ImageSize="388354" ImageWidth="1200" />
+    <Page Image="4" ImageHeight="1835" ImageSize="532415" ImageWidth="1200" />
+    <Page Image="5" ImageHeight="1863" ImageSize="355032" ImageWidth="1200" />
+    <Page Image="6" ImageHeight="1863" ImageSize="464488" ImageWidth="1200" />
+    <Page Image="7" ImageHeight="1863" ImageSize="490045" ImageWidth="1200" />
+    <Page Image="8" ImageHeight="1863" ImageSize="467280" ImageWidth="1200" />
+    <Page Image="9" ImageHeight="1845" ImageSize="412860" ImageWidth="1200" />
+    <Page Image="10" ImageHeight="1876" ImageSize="382589" ImageWidth="1200" />
+    <Page Image="11" ImageHeight="1863" ImageSize="388040" ImageWidth="1200" />
+    <Page Image="12" ImageHeight="1872" ImageSize="428125" ImageWidth="1200" />
+    <Page Image="13" ImageHeight="1863" ImageSize="384690" ImageWidth="1200" />
+    <Page Image="14" ImageHeight="1892" ImageSize="448542" ImageWidth="1200" />
+    <Page Image="15" ImageHeight="1892" ImageSize="353650" ImageWidth="1200" />
+    <Page Image="16" ImageHeight="1892" ImageSize="358271" ImageWidth="1200" />
+    <Page Image="17" ImageHeight="1892" ImageSize="363834" ImageWidth="1200" />
+    <Page Image="18" ImageHeight="1905" ImageSize="401495" ImageWidth="1200" />
+    <Page Image="19" ImageHeight="1879" ImageSize="343159" ImageWidth="1200" />
+    <Page Image="20" ImageHeight="1898" ImageSize="412001" ImageWidth="1200" />
+    <Page Image="21" ImageHeight="1898" ImageSize="360606" ImageWidth="1200" />
+    <Page Image="22" ImageHeight="1836" ImageSize="351334" ImageWidth="1200" />
+    <Page Image="23" ImageHeight="1872" ImageSize="338913" ImageWidth="1200" />
+    <Page Image="24" ImageHeight="1872" ImageSize="368871" ImageWidth="1200" />
+    <Page Image="25" ImageHeight="1872" ImageSize="356542" ImageWidth="1200" />
+    <Page Image="26" ImageHeight="1860" ImageSize="363565" ImageWidth="1200" />
+    <Page Image="27" ImageHeight="1847" ImageSize="353269" ImageWidth="1200" />
+    <Page Image="28" ImageHeight="1869" ImageSize="378023" ImageWidth="1200" />
+    <Page Image="29" ImageHeight="1869" ImageSize="534800" ImageWidth="1200" />
+    <Page Image="30" ImageHeight="1892" ImageSize="349703" ImageWidth="1200" />
+    <Page Image="31" ImageHeight="1882" ImageSize="363862" ImageWidth="1200" />
+    <Page Image="32" ImageHeight="1882" ImageSize="348641" ImageWidth="1200" />
+    <Page Image="33" ImageHeight="1882" ImageSize="396930" ImageWidth="1200" />
+    <Page Image="34" ImageHeight="1902" ImageSize="413891" ImageWidth="1200" />
+    <Page Image="35" ImageHeight="1863" ImageSize="369622" ImageWidth="1200" />
+    <Page Image="36" ImageHeight="1903" ImageSize="431062" ImageWidth="1200" />
+    <Page Image="37" ImageHeight="1876" ImageSize="373731" ImageWidth="1200" />
+    <Page Image="38" ImageHeight="1876" ImageSize="360014" ImageWidth="1200" />
+    <Page Image="39" ImageHeight="1798" ImageSize="425952" ImageWidth="1200" />
+    <Page Image="40" ImageHeight="1804" ImageSize="407736" ImageWidth="1200" />
+    <Page Image="41" ImageHeight="1847" ImageSize="318104" ImageWidth="1200" />
+    <Page Image="42" ImageHeight="1876" ImageSize="394116" ImageWidth="1200" />
+    <Page Image="43" ImageHeight="1888" ImageSize="331785" ImageWidth="1200" />
+    <Page Image="44" ImageHeight="1888" ImageSize="375112" ImageWidth="1200" />
+    <Page Image="45" ImageHeight="1879" ImageSize="374515" ImageWidth="1200" />
+    <Page Image="46" ImageHeight="1841" ImageSize="400366" ImageWidth="1200" />
+    <Page Image="47" ImageHeight="1841" ImageSize="401407" ImageWidth="1200" />
+    <Page Image="48" ImageHeight="1786" ImageSize="432554" ImageWidth="1200" />
+    <Page Image="49" ImageHeight="1804" ImageSize="408819" ImageWidth="1200" />
+    <Page Image="50" ImageHeight="1841" ImageSize="354630" ImageWidth="1200" />
+    <Page Image="51" ImageHeight="1841" ImageSize="372231" ImageWidth="1200" />
+    <Page Image="52" ImageHeight="1215" ImageSize="400061" ImageWidth="1600" />
+    <Page Image="53" ImageSize="346175" />
+  </Pages>
+  <Penciller>Dale Keown,Dale Keown</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Hulk / Pitt</Series>
+  <Title>Reality Check</Title>
+  <Volume>1997</Volume>
+  <Web>https://comicvine.gamespot.com/hulkpitt-1-reality-check/4000-121006/</Web>
+  <Writer>Peter David,Peter David</Writer>
+  <Year>1996</Year>
+  <Count>1</Count>
+  <CoverArtist>Dale Keown</CoverArtist>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+</ComicInfo>

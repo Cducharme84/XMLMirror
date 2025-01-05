@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cowardly Lion,Gale,Scarecrow,Tin Man,Toto,Wicked Witch</Characters>
+	<Colorist>Kate Finnegan</Colorist>
+	<Count>6</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-315231</GTIN>
+	<Inker>Alisson Borges</Inker>
+	<Locations>Oz</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:32:13 [Issue ID 4000-315231] urn:comicvine:4000-315231</Notes>
+	<Number>2</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="881769" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1285190"/>
+		<Page Image="2" ImageSize="1085683"/>
+		<Page Image="3" ImageSize="980022"/>
+		<Page Image="4" ImageSize="773129"/>
+		<Page Image="5" ImageSize="808203"/>
+		<Page Image="6" ImageSize="841028"/>
+		<Page Image="7" ImageSize="721710"/>
+		<Page Image="8" ImageSize="973545"/>
+		<Page Image="9" ImageSize="1019340"/>
+		<Page Image="10" ImageSize="700008"/>
+		<Page Image="11" ImageSize="643010"/>
+		<Page Image="12" ImageSize="661889"/>
+		<Page Image="13" ImageSize="790519"/>
+		<Page Image="14" ImageSize="728906"/>
+		<Page Image="15" ImageSize="761199"/>
+		<Page Image="16" ImageSize="792101"/>
+		<Page Image="17" ImageSize="672459"/>
+		<Page Image="18" ImageSize="895318"/>
+		<Page Image="19" ImageSize="793900"/>
+		<Page Image="20" ImageSize="918872"/>
+		<Page Image="21" ImageSize="728552"/>
+		<Page Image="22" ImageSize="626206"/>
+		<Page Image="23" ImageSize="899235"/>
+		<Page Image="24" ImageSize="1616083"/>
+		<Page Image="25" ImageSize="929311"/>
+		<Page Image="26" ImageSize="452475"/>
+		<Page Image="27" ImageSize="799669"/>
+		<Page Image="28" ImageSize="608901"/>
+		<Page Image="29" ImageSize="702589"/>
+		<Page Image="30" ImageSize="83831"/>
+	</Pages>
+	<Penciller>Alisson Borges</Penciller>
+	<Publisher>Big Dog Ink</Publisher>
+	<Series>The Legend of Oz: The Wicked West</Series>
+	<Summary>After a rough and tumble meeting with the Winged Monkeys, Gale and her newfound friend mount up and ride for the Emerald City. The desert gives way to forest and forest means lions and tigers and bears - and Kalidahs! The Wild West reimagining of L. Frank Baum's The Wizard of Oz continues!</Summary>
+	<Teams>Winged Monkeys</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/the-legend-of-oz-the-wicked-west-2/4000-315231/</Web>
+	<Writer>Tom Hutchison</Writer>
+	<Year>2012</Year>
+</ComicInfo>

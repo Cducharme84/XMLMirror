@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Bailey,Future Taylor,Ima'am Fajr,Mustaqba</Characters>
+	<Count>18</Count>
+	<Country>US</Country>
+	<GTIN>urn:comicvine:4000-1497219</GTIN>
+	<Genre>Horror-suspense,Science fiction</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:18 [Issue ID 4000-1497219] urn:comicvine:4000-1497219 urn:grandcomicsdatabase:issue/1497219</Notes>
+	<Number>11</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1817266" Type="FrontCover"/>
+		<Page Image="1" ImageSize="2015526"/>
+		<Page Image="2" ImageSize="1757626"/>
+		<Page Image="3" ImageSize="2380909"/>
+		<Page Image="4" ImageSize="1773065"/>
+		<Page Image="5" ImageSize="1961967"/>
+		<Page Image="6" ImageSize="1947878"/>
+		<Page Image="7" ImageSize="2679615"/>
+		<Page Image="8" ImageSize="2572662"/>
+		<Page Image="9" ImageSize="1925257"/>
+		<Page Image="10" ImageSize="2273329"/>
+		<Page Image="11" ImageSize="2115676"/>
+		<Page Image="12" ImageSize="1776855"/>
+		<Page Image="13" ImageSize="1677761"/>
+		<Page Image="14" ImageSize="1502699"/>
+		<Page Image="15" ImageSize="1668918"/>
+		<Page Image="16" ImageSize="1793258"/>
+		<Page Image="17" ImageSize="1645362"/>
+		<Page Image="18" ImageSize="1543664"/>
+		<Page Image="19" ImageSize="1659976"/>
+		<Page Image="20" ImageSize="1752348"/>
+		<Page Image="21" ImageSize="4416882"/>
+		<Page Image="22" ImageSize="1974447"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Crossed Plus One Hundred</Series>
+	<Summary>Cover title is "Crossed + One Hundred".</Summary>
+	<Teams>The Crossed</Teams>
+	<Title>The Forever War</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1497219/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2015</Year>
+</ComicInfo>

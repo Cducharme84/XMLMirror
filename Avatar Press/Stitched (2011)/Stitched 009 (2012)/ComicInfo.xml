@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Digikore Studios</Colorist>
+	<Count>19</Count>
+	<Country>US</Country>
+	<GTIN>urn:comicvine:4000-1016444</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:28 [Issue ID 4000-1016444] urn:comicvine:4000-1016444 urn:grandcomicsdatabase:issue/1016444</Notes>
+	<Number>9</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="3826308" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1553087"/>
+		<Page Image="2" ImageSize="2242358"/>
+		<Page Image="3" ImageSize="2283009"/>
+		<Page Image="4" ImageSize="2642796"/>
+		<Page Image="5" ImageSize="2246592"/>
+		<Page Image="6" ImageSize="2587855"/>
+		<Page Image="7" ImageSize="2393374"/>
+		<Page Image="8" ImageSize="2237168"/>
+		<Page Image="9" ImageSize="2127418"/>
+		<Page Image="10" ImageSize="2381602"/>
+		<Page Image="11" ImageSize="2269958"/>
+		<Page Image="12" ImageSize="2409719"/>
+		<Page Image="13" ImageSize="2274536"/>
+		<Page Image="14" ImageSize="2185085"/>
+		<Page Image="15" ImageSize="2069650"/>
+		<Page Image="16" ImageSize="2325437"/>
+		<Page Image="17" ImageSize="1880549"/>
+		<Page Image="18" ImageSize="1449124"/>
+		<Page Image="19" ImageSize="2334589"/>
+		<Page Image="20" ImageSize="2014735"/>
+		<Page Image="21" ImageSize="2368244"/>
+		<Page Image="22" ImageSize="2094997"/>
+		<Page Image="23" ImageSize="2230304"/>
+		<Page Image="24" ImageSize="131499"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Stitched</Series>
+	<Summary>Series is adapted from a short film written and directed by Garth Ennis.</Summary>
+	<Teams>Stitched</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1016444/</Web>
+	<Writer>Mike Wolfer</Writer>
+	<Year>2012</Year>
+</ComicInfo>

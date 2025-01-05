@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Scythe,Hellina,Malazaar,Forneus</Characters>
+  <Count>4</Count>
+  <Country>US</Country>
+  <Day>30</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-1772432</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:20:13 [Issue ID 4000-1772432] urn:comicvine:4000-1772432 urn:grandcomicsdatabase:issue/1772432
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 16:36:10. [Issue ID 1772432]</Notes>
+  <Number>4</Number>
+  <PageCount>40</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="4968740" Type="FrontCover" />
+    <Page Image="1" ImageSize="5527412" />
+    <Page Image="2" ImageSize="11276030" />
+    <Page Image="3" ImageSize="12417082" />
+    <Page Image="4" ImageSize="8110156" />
+    <Page Image="5" ImageSize="7706185" />
+    <Page Image="6" ImageSize="6935333" />
+    <Page Image="7" ImageSize="19266562" />
+    <Page Image="8" ImageSize="9043993" />
+    <Page Image="9" ImageSize="10027426" />
+    <Page Image="10" ImageSize="9095253" />
+    <Page Image="11" ImageSize="8921959" />
+    <Page Image="12" ImageSize="7023482" />
+    <Page Image="13" ImageSize="8207481" />
+    <Page Image="14" ImageSize="8200516" />
+    <Page Image="15" ImageSize="6363037" />
+    <Page Image="16" ImageSize="8231608" />
+    <Page Image="17" ImageSize="10793477" />
+    <Page Image="18" ImageSize="9067610" />
+    <Page Image="19" ImageSize="4943618" />
+    <Page Image="20" ImageSize="4150808" />
+    <Page Image="21" ImageSize="5037048" />
+    <Page Image="22" ImageSize="4516359" />
+    <Page Image="23" ImageSize="5176308" />
+    <Page Image="24" ImageSize="4693269" />
+    <Page Image="25" ImageSize="6076362" />
+    <Page Image="26" ImageSize="4278165" />
+    <Page Image="27" ImageSize="4475966" />
+    <Page Image="28" ImageSize="5615072" />
+    <Page Image="29" ImageSize="4861493" />
+    <Page Image="30" ImageSize="4246706" />
+    <Page Image="31" ImageSize="5103426" />
+    <Page Image="32" ImageSize="5051584" />
+    <Page Image="33" ImageSize="5312465" />
+    <Page Image="34" ImageSize="2409819" />
+    <Page Image="35" ImageSize="4445853" />
+    <Page Image="36" ImageSize="2494662" />
+    <Page Image="37" ImageSize="4133483" />
+    <Page Image="38" ImageSize="2132263" />
+    <Page Image="39" ImageSize="3281793" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Hellina Scythe</Series>
+  <Summary>Forneus, the Mad Queen, now has a weapon that can slay Satan himself and allow her to take control of Hell forever! The stakes couldn't be any higher for overwhelmed Hellina and the fallen queen Scythe, but they have been outmatched at every turn. It's time for a desperate gamble!
+
+Available with a host of sexy stunning covers with this issue including a Regular &amp; Wraparound Covers by series artist Gabriel Andrade, Bad Girl Cover by Christian Zanier, Enforcer Cover by Ron Adrian, Sacrilege Cover by Raulo Caceres, and Stunning Cover by Matt Martin. Plus an array of super limited covers for the collector including a Fetish Fashion Set (of 3 books, limited to 250 copies) and a Nude &amp; Naughty Set (of 3 books, limited to 350 copies), by Christian Zanier. And for the erotic art collectors, there is the Wraparound Nude by Andrade, Bad Girl Nude by Zanier, Enforcer Nude by Adrian, Sacrilege Nude by Caceres, and Stunning Nude by Martin. We top it off with Adult covers - Century Adult Cover (limited to 100 copies) and Stunning Adult by Martin, Bad Girl Adult and the E and F covers to the Six Sins Adult Cover Set by Zanier (this will be a set of six, the final two offered here).
+
+*List of covers and their creators:*
+| Cover | Name                                   | Creator(s)       | Sidebar Location |
+|-------|----------------------------------------|------------------|------------------|
+| Reg   | Regular Cover                          | Gabriel Andrade  | 1                |
+| Wrap  | Wraparound Cover                       | Gabriel Andrade  | 2                |
+| BGC   | Bad Girl Cover                         | Christian Zanier | 3                |
+| EC    | Enforcer Cover                         | Ron Adrian       | 4                |
+| FF-A  | Fetish Fashion Cover A, Limited 250    | Christian Zanier | 5                |
+| FF-B  | Fetish Fashion Cover B, Limited 250    | Christian Zanier | 6                |
+| FF-C  | Fetish Fashion Cover C, Limited 250    | Christian Zanier | 7                |
+| NN-A  | Nude &amp; Naughty Cover A, Limited to 350 | Christian Zanier | 8                |
+| NN-B  | Nude &amp; Naughty Cover B, Limited to 350 | Christian Zanier | 9                |
+| NN-C  | Nude &amp; Naughty Cover C, Limited to 350 | Christian Zanier | 10               |
+| CAC   | Century Adult Cover, Limited to 100    | Matt Martin      | 11               |
+| SC    | Sacrilege Cover                        | Raulo Caceres    | 12               |
+| SC    | Stunning Cover                         | Matt Martin      | 13               |
+| SNC   | Sacrilege Nude Cover                   | Raulo Caceres    | 14               |
+| SSA-E | Six Sins Adult Cover E                 | Christian Zanier | 15               |
+| SSA-F | Six Sins Adult Cover F                 | Christian Zanier | 16               |
+| SNC   | Stunning Nude Cover                    | Matt Martin      | 17               |
+| ENC   | Enforcer Nude Cover                    | Ron Adrian       | 18               |
+| BGNC  | Bad Girl Nude Cover                    | Christian Zanier | 19               |
+| SAC   | Stunning Adult Cover                   | Matt Martin      | 20               |
+| WN    | Wraparound Nude Cover                  | Gabriel Andrade  | 21               |
+| BDAC  | Bad Girl Adult Cover                   | Christian Zanier | 22               |</Summary>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1772432/</Web>
+  <Year>2017</Year>
+</ComicInfo>

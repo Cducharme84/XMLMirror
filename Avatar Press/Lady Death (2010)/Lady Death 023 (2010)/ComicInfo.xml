@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Lady Death,Death Queen,Salacia</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-364173</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Hell</Locations>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:58 [Issue ID 4000-364173] urn:comicvine:4000-364173 urn:grandcomicsdatabase:issue/1029075
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:44:42. [Issue ID 1029075]</Notes>
+  <Number>23</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1705363" Type="FrontCover" />
+    <Page Image="1" ImageSize="594570" />
+    <Page Image="2" ImageSize="1880089" />
+    <Page Image="3" ImageSize="2062845" />
+    <Page Image="4" ImageSize="1650921" />
+    <Page Image="5" ImageSize="2237460" />
+    <Page Image="6" ImageSize="2004894" />
+    <Page Image="7" ImageSize="2201697" />
+    <Page Image="8" ImageSize="2165853" />
+    <Page Image="9" ImageSize="1833938" />
+    <Page Image="10" ImageSize="1856597" />
+    <Page Image="11" ImageSize="1746117" />
+    <Page Image="12" ImageSize="1885996" />
+    <Page Image="13" ImageSize="1899501" />
+    <Page Image="14" ImageSize="1591009" />
+    <Page Image="15" ImageSize="2013639" />
+    <Page Image="16" ImageSize="1965835" />
+    <Page Image="17" ImageSize="1816186" />
+    <Page Image="18" ImageSize="1854714" />
+    <Page Image="19" ImageSize="1860823" />
+    <Page Image="20" ImageSize="1877289" />
+    <Page Image="21" ImageSize="1949879" />
+    <Page Image="22" ImageSize="1551045" />
+    <Page Image="23" ImageSize="2144980" />
+    <Page Image="24" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-364173/</Web>
+  <Year>2010</Year>
+</ComicInfo>

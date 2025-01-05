@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>3</Count>
+	<Format>Limited Series</Format>
+	<Genre>Comedy,Fantasy</Genre>
+	<Inker>Joanna Materek</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-27T13:07:53</Notes>
+	<Number>2</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3962" ImageSize="2290026" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3886" ImageSize="1120586"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3598" ImageSize="1989021"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3598" ImageSize="1444491"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3598" ImageSize="1337806"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3598" ImageSize="1405093"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3598" ImageSize="1803310"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3598" ImageSize="1731064"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3598" ImageSize="1664494"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3598" ImageSize="1913546"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3598" ImageSize="1416901"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3598" ImageSize="1956185"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3598" ImageSize="1655839"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3598" ImageSize="1635781"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3598" ImageSize="1577905"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3598" ImageSize="1529890"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3598" ImageSize="1618966"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3598" ImageSize="1562960"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3598" ImageSize="1505175"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3598" ImageSize="1577277"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3598" ImageSize="1889620"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3598" ImageSize="1817560"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3598" ImageSize="1615108"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3598" ImageSize="1960025"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3598" ImageSize="1585630"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3598" ImageSize="1944412"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3598" ImageSize="1417999"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3598" ImageSize="1798546"/>
+		<Page Image="28" ImageSize="1708740"/>
+	</Pages>
+	<Penciller>Joanna Materek</Penciller>
+	<Publisher>Duskleaf Media</Publisher>
+	<Series>Duds &amp; Dragons</Series>
+	<Summary>Fenris must set out beyond the safety of his village for the first time ever, to help solve the mystery of the monster's attack. What he discovers will change him forever.</Summary>
+	<Volume>2024</Volume>
+	<Writer>Graham Misiurak</Writer>
+	<Year>2024</Year>
+</ComicInfo>

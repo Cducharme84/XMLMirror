@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Devlin Waugh,Judge Dredd</Characters>
+  <Colorist>Chris Blythe,Eva de la Cruz,Gary Caldwell,Quinton Winter</Colorist>
+  <Day>19</Day>
+  <Editor>Matt Smith</Editor>
+  <GTIN>urn:comicvine:4000-884803</GTIN>
+  <Inker>Lee Carter,Michael Dowling,Nick Dyer,Nicolo Assirelli,Warren Pleece</Inker>
+  <Letterer>Annie Parkhouse,Jim Campbell,Simon Bowland</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:31:15 [Issue ID 4000-884803] urn:comicvine:4000-884803
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:16:26. [Issue ID 2278306]</Notes>
+  <Number>436</Number>
+  <PageCount>133</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1448590" Type="FrontCover" />
+    <Page Image="1" ImageSize="907669" />
+    <Page Image="2" ImageSize="1277984" />
+    <Page Image="3" ImageSize="1138040" />
+    <Page Image="4" ImageSize="1176901" />
+    <Page Image="5" ImageSize="1249025" />
+    <Page Image="6" ImageSize="1561468" />
+    <Page Image="7" ImageSize="1442854" />
+    <Page Image="8" ImageSize="1436146" />
+    <Page Image="9" ImageSize="1363734" />
+    <Page Image="10" ImageSize="1533803" />
+    <Page Image="11" ImageSize="1440481" />
+    <Page Image="12" ImageSize="1479774" />
+    <Page Image="13" ImageSize="1422197" />
+    <Page Image="14" ImageSize="896902" />
+    <Page Image="15" ImageSize="1172511" />
+    <Page Image="16" ImageSize="902453" />
+    <Page Image="17" ImageSize="1100754" />
+    <Page Image="18" ImageSize="915466" />
+    <Page Image="19" ImageSize="910129" />
+    <Page Image="20" ImageSize="1098288" />
+    <Page Image="21" ImageSize="1161029" />
+    <Page Image="22" ImageSize="1020953" />
+    <Page Image="23" ImageSize="1673366" />
+    <Page Image="24" ImageSize="1491266" />
+    <Page Image="25" ImageSize="1178632" />
+    <Page Image="26" ImageSize="1743116" />
+    <Page Image="27" ImageSize="1118203" />
+    <Page Image="28" ImageSize="1215863" />
+    <Page Image="29" ImageSize="1377781" />
+    <Page Image="30" ImageSize="1418972" />
+    <Page Image="31" ImageSize="1270622" />
+    <Page Image="32" ImageSize="1345672" />
+    <Page Image="33" ImageSize="1379831" />
+    <Page Image="34" ImageSize="1664199" />
+    <Page Image="35" ImageSize="1797464" />
+    <Page Image="36" ImageSize="1715233" />
+    <Page Image="37" ImageSize="1143109" />
+    <Page Image="38" ImageSize="1267959" />
+    <Page Image="39" ImageSize="1316775" />
+    <Page Image="40" ImageSize="1063305" />
+    <Page Image="41" ImageSize="1091131" />
+    <Page Image="42" ImageSize="1063038" />
+    <Page Image="43" ImageSize="1065049" />
+    <Page Image="44" ImageSize="939815" />
+    <Page Image="45" ImageSize="966521" />
+    <Page Image="46" ImageSize="969281" />
+    <Page Image="47" ImageSize="1058613" />
+    <Page Image="48" ImageSize="1616467" />
+    <Page Image="49" ImageSize="1478544" />
+    <Page Image="50" ImageSize="1057034" />
+    <Page Image="51" ImageSize="1459300" />
+    <Page Image="52" ImageSize="1053952" />
+    <Page Image="53" ImageSize="1223597" />
+    <Page Image="54" ImageSize="1034495" />
+    <Page Image="55" ImageSize="1250978" />
+    <Page Image="56" ImageSize="941981" />
+    <Page Image="57" ImageSize="1210395" />
+    <Page Image="58" ImageSize="1293486" />
+    <Page Image="59" ImageSize="1040624" />
+    <Page Image="60" ImageSize="1314934" />
+    <Page Image="61" ImageSize="1078395" />
+    <Page Image="62" ImageSize="1566582" />
+    <Page Image="63" ImageSize="826256" />
+    <Page Image="64" ImageSize="742478" />
+    <Page Image="65" ImageSize="247063" />
+    <Page Image="66" ImageSize="935903" />
+    <Page Image="67" ImageSize="848153" />
+    <Page Image="68" ImageSize="618872" />
+    <Page Image="69" ImageSize="1009468" />
+    <Page Image="70" ImageSize="928170" />
+    <Page Image="71" ImageSize="662031" />
+    <Page Image="72" ImageSize="1006358" />
+    <Page Image="73" ImageSize="976300" />
+    <Page Image="74" ImageSize="942968" />
+    <Page Image="75" ImageSize="1067345" />
+    <Page Image="76" ImageSize="916499" />
+    <Page Image="77" ImageSize="753816" />
+    <Page Image="78" ImageSize="524166" />
+    <Page Image="79" ImageSize="956739" />
+    <Page Image="80" ImageSize="746825" />
+    <Page Image="81" ImageSize="847673" />
+    <Page Image="82" ImageSize="966010" />
+    <Page Image="83" ImageSize="410725" />
+    <Page Image="84" ImageSize="727950" />
+    <Page Image="85" ImageSize="852384" />
+    <Page Image="86" ImageSize="984637" />
+    <Page Image="87" ImageSize="791179" />
+    <Page Image="88" ImageSize="564348" />
+    <Page Image="89" ImageSize="918376" />
+    <Page Image="90" ImageSize="1057569" />
+    <Page Image="91" ImageSize="1061770" />
+    <Page Image="92" ImageSize="971639" />
+    <Page Image="93" ImageSize="1035442" />
+    <Page Image="94" ImageSize="942222" />
+    <Page Image="95" ImageSize="594610" />
+    <Page Image="96" ImageSize="922084" />
+    <Page Image="97" ImageSize="1029073" />
+    <Page Image="98" ImageSize="885827" />
+    <Page Image="99" ImageSize="819232" />
+    <Page Image="100" ImageSize="473001" />
+    <Page Image="101" ImageSize="793371" />
+    <Page Image="102" ImageSize="1000930" />
+    <Page Image="103" ImageSize="868629" />
+    <Page Image="104" ImageSize="542164" />
+    <Page Image="105" ImageSize="807630" />
+    <Page Image="106" ImageSize="830908" />
+    <Page Image="107" ImageSize="673069" />
+    <Page Image="108" ImageSize="1264775" />
+    <Page Image="109" ImageSize="1144794" />
+    <Page Image="110" ImageSize="664104" />
+    <Page Image="111" ImageSize="908812" />
+    <Page Image="112" ImageSize="775055" />
+    <Page Image="113" ImageSize="1025042" />
+    <Page Image="114" ImageSize="870288" />
+    <Page Image="115" ImageSize="821617" />
+    <Page Image="116" ImageSize="1277429" />
+    <Page Image="117" ImageSize="901532" />
+    <Page Image="118" ImageSize="720400" />
+    <Page Image="119" ImageSize="670422" />
+    <Page Image="120" ImageSize="2045214" />
+    <Page Image="121" ImageSize="1074065" />
+    <Page Image="122" ImageSize="860143" />
+    <Page Image="123" ImageSize="786609" />
+    <Page Image="124" ImageSize="803683" />
+    <Page Image="125" ImageSize="1059887" />
+    <Page Image="126" ImageSize="758952" />
+    <Page Image="127" ImageSize="764183" />
+    <Page Image="128" ImageSize="954512" />
+    <Page Image="129" ImageSize="910063" />
+    <Page Image="130" ImageSize="928116" />
+    <Page Image="131" ImageSize="305919" />
+    <Page Image="132" ImageSize="1620961" />
+  </Pages>
+  <Penciller>Lee Carter,Michael Dowling,Nick Dyer,Nicolo Assirelli,Warren Pleece</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>Judge Dredd Megazine 436 is out now!Welcome to the September Megazine, and alongside the latest instalments of Devlin Waugh, Angelic and The Returners we have the final episode of Diamond Dogs II and a complete Dredd thriller from Rory McConville and Nick Dyer, How Do You Solve a Problem Like Francisco?, that acts as an epilogue to the Project Providence storyline as Ol’ Stoney-Face assesses the fitness of Dan Francisco post-kidnapping.
+
+We’ll be returning to the consequences of MC-1’s PP scandal, and its place in the global community, in McConville and Staz Johnson’s four-parter Praise Zort!, coming early next year. Elsewhere in this issue, we’ve got interviews with former editorial droid Simon Geller and designer turned prose novelist Rian Hughes, plus Rob Williams reveals the secrets of Out, his and Will Conrad’s new WWII/vampire title from US publishers AWA.
+
+The Williams script-bot returns to Dredd in 2000 AD this month, partnering with Arthur Wyatt and Jake Lynch for the Atlantis-set The Hard Way, starting in jumping-on issue Prog 2250, where you’ll also find new series of Scarlet Traces, The Diaboliks, Pandora Perfect and, er, The Out! (Hmm, could this get confusing…?)
+
+Cover: Paul Williams - Chris Blythe
+
+Judge Dredd - How Do You Solve A Problem Like Francisco? (Rory McConville - Nick Dyer)Diamond Dogs - II (Part 06) (James Peaty - Warren Pleece)The Returners - Amazonia (Part 5) (Si Spencer - Nicolo Assirelli)Angelic - Restitution (:Three:) (Gordon Rennie - Lee Carter)Devlin Waugh - The Reckoning (Part Five) (Ales Kot - Mike Dowling)Graphic Novel - 2000 AD Encyclopedia Part Nine (T) (Scott Montgomery)
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-18 22:54:55.  [Issue ID 884803]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-436-meg-436/4000-884803/</Summary>
+  <Tags>Judges of Mega-City One,Devlin Waugh,Judge Dredd</Tags>
+  <Teams>Judges of Mega-City One</Teams>
+  <Title>Meg 436</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-436-meg-436/4000-884803/</Web>
+  <Writer>Ales Kot,Gordon Rennie,James Peaty,Rory McConville,Scott Montgomery,Si Spencer</Writer>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Day>11</Day>
+  <Editor>Kristen Simon</Editor>
+  <GTIN>urn:comicvine:4000-157921</GTIN>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:41:34 [Issue ID 4000-157921] urn:comicvine:4000-157921
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 21:56:36. [Issue ID 600590]</Notes>
+  <Number>2</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="381610" Type="FrontCover" />
+    <Page Image="1" ImageSize="487494" />
+    <Page Image="2" ImageSize="510288" />
+    <Page Image="3" ImageSize="417605" />
+    <Page Image="4" ImageSize="418397" />
+    <Page Image="5" ImageSize="613444" />
+    <Page Image="6" ImageSize="437117" />
+    <Page Image="7" ImageSize="528710" />
+    <Page Image="8" ImageSize="441077" />
+    <Page Image="9" ImageSize="393716" />
+    <Page Image="10" ImageSize="357096" />
+    <Page Image="11" ImageSize="423366" />
+    <Page Image="12" ImageSize="589561" />
+    <Page Image="13" ImageSize="516268" />
+    <Page Image="14" ImageSize="526562" />
+    <Page Image="15" ImageSize="545062" />
+    <Page Image="16" ImageSize="675821" />
+    <Page Image="17" ImageSize="541815" />
+    <Page Image="18" ImageSize="497145" />
+    <Page Image="19" ImageSize="639875" />
+    <Page Image="20" ImageSize="582438" />
+    <Page Image="21" ImageSize="459955" />
+    <Page Image="22" ImageSize="335186" />
+    <Page Image="23" ImageSize="301941" />
+    <Page Image="24" ImageSize="449384" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>After the Cape</Series>
+  <Summary>'SECRET LIFE' Ethan lapses deeper into a life of crime, but when his erstwhile teammates uncover his secret, the price may be too steep to pay...even for a fallen hero.</Summary>
+  <Title>Secret Life</Title>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/after-the-cape-2-secret-life/4000-157921/</Web>
+  <Writer>Howard Wong,Jim Valentino</Writer>
+  <Year>2007</Year>
+  <Count>3</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

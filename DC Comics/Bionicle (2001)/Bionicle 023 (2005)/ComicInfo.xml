@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Matau,Nokama,Nuju,Onewa,Vakama</Characters>
+	<Colorist>Peter Pantazis</Colorist>
+	<Day>1</Day>
+	<Editor>Jaye Gardner</Editor>
+	<GTIN>urn:comicvine:4000-213890</GTIN>
+	<Inker>Randy Elliott</Inker>
+	<Letterer>Nick J. Napolitano</Letterer>
+	<Locations>The Island of Metru-Nui</Locations>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:56:00 [Issue ID 4000-213890] urn:comicvine:4000-213890</Notes>
+	<Number>23</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="641052" Type="FrontCover"/>
+		<Page Image="1" ImageSize="419401"/>
+		<Page Image="2" ImageSize="575261"/>
+		<Page Image="3" ImageSize="568083"/>
+		<Page Image="4" ImageSize="512489"/>
+		<Page Image="5" ImageSize="570357"/>
+		<Page Image="6" ImageSize="624769"/>
+		<Page Image="7" ImageSize="564539"/>
+		<Page Image="8" ImageSize="593247"/>
+		<Page Image="9" ImageSize="863505"/>
+		<Page Image="10" ImageSize="605649"/>
+		<Page Image="11" ImageSize="559972"/>
+		<Page Image="12" ImageSize="609060"/>
+		<Page Image="13" ImageSize="535514"/>
+		<Page Image="14" ImageSize="547413"/>
+		<Page Image="15" ImageSize="437965"/>
+		<Page Image="16" ImageSize="549702"/>
+		<Page Image="17" ImageSize="451098"/>
+		<Page Image="18" ImageSize="360527"/>
+	</Pages>
+	<Penciller>Randy Elliott</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>Bionicle</Series>
+	<Summary>https://comicvine.gamespot.com/bionicle-23-vengeance-of-the-visorak/4000-213890/</Summary>
+	<Tags>Matau,Nokama,Nuju,Onewa,Rahi,The Island of Metru-Nui,Toa Hordika,Vakama</Tags>
+	<Teams>Rahi,Toa Hordika</Teams>
+	<Title>Vengeance of the Visorak</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/bionicle-23-vengeance-of-the-visorak/4000-213890/</Web>
+	<Writer>Greg Farshtey</Writer>
+	<Year>2005</Year>
+</ComicInfo>

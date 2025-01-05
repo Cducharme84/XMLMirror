@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Katana,Stryker,Killawatt,Black Anvil,Sly,Lift</Characters>
+  <Colorist>Brian Buccellato</Colorist>
+  <Day>1</Day>
+  <Editor>Peter Lam,Philip W. Smith II,Rob Levin,Scott Tucker</Editor>
+  <GTIN>urn:comicvine:4000-98995</GTIN>
+  <Inker>Marlo Alquiza,Tyler Kirkham</Inker>
+  <Letterer>Dennis Heisler,Robin Spehar</Letterer>
+  <Locations>Idaho</Locations>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:11:36 [Issue ID 4000-98995] urn:comicvine:4000-98995
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 09:18:52. [Issue ID 98995]</Notes>
+  <Number>3</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="425584" Type="FrontCover" />
+    <Page Image="1" ImageSize="464978" />
+    <Page Image="2" ImageSize="555453" />
+    <Page Image="3" ImageSize="795006" />
+    <Page Image="4" ImageSize="481126" />
+    <Page Image="5" ImageSize="530784" />
+    <Page Image="6" ImageSize="473282" />
+    <Page Image="7" ImageSize="548776" />
+    <Page Image="8" ImageSize="455285" />
+    <Page Image="9" ImageSize="440802" />
+    <Page Image="10" ImageSize="420520" />
+    <Page Image="11" ImageSize="503013" />
+    <Page Image="12" ImageSize="385946" />
+    <Page Image="13" ImageSize="428543" />
+    <Page Image="14" ImageSize="463288" />
+    <Page Image="15" ImageSize="467054" />
+    <Page Image="16" ImageSize="472561" />
+    <Page Image="17" ImageSize="416647" />
+    <Page Image="18" ImageSize="333947" />
+    <Page Image="19" ImageSize="452364" />
+    <Page Image="20" ImageSize="501359" />
+    <Page Image="21" ImageSize="459664" />
+    <Page Image="22" ImageSize="444152" />
+    <Page Image="23" ImageSize="36747" />
+  </Pages>
+  <Penciller>Tyler Kirkham,Tyler Kirkham</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Strykeforce</Series>
+  <Tags>Black Anvil,Idaho,Katana,Killawatt,Stryker,Strykeforce,Federal Bureau of Investigation,Sly,Lift</Tags>
+  <Teams>Strykeforce,Federal Bureau of Investigation</Teams>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/strykeforce-3/4000-98995/</Web>
+  <Writer>Jay Faerber</Writer>
+  <Year>2005</Year>
+  <Count>5</Count>
+</ComicInfo>

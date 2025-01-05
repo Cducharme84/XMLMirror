@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Geralt of Rivia</Characters>
+	<Colorist>Hamidreza Sheykh</Colorist>
+	<Day>1</Day>
+	<Editor>Bartosz Sztybor,Judy Khuu,Megan Walker,Rafał Jaki</Editor>
+	<GTIN>urn:asin:B08CD2HKZM</GTIN>
+	<Genre>Action/Adventure,Video Games</Genre>
+	<Inker>Amad Mir</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Steve Dutro</Letterer>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:10:29 [Issue ID 4000-877935] urn:asin:B08CD2HKZM urn:comicvine:4000-877935 urn:comixology:946745</Notes>
+	<Number>1</Number>
+	<PageCount>107</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="2628088" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="1524731"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="1045849"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="1335727"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="1465461"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="1347343"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="1462009"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="1243875"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="972739"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="1132770"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="979440"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="826202"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1110473"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="1113878"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="782777"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="980226"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="1021890"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="973946"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="721839"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="897931"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1230257"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="1007203"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="887224"/>
+		<Page Image="23" ImageWidth="1988" ImageHeight="3056" ImageSize="874971"/>
+		<Page Image="24" ImageWidth="1988" ImageHeight="3056" ImageSize="872511"/>
+		<Page Image="25" ImageWidth="1988" ImageHeight="3056" ImageSize="1081330"/>
+		<Page Image="26" ImageWidth="1988" ImageHeight="3056" ImageSize="667116"/>
+		<Page Image="27" ImageWidth="1988" ImageHeight="3056" ImageSize="823461"/>
+		<Page Image="28" ImageWidth="1988" ImageHeight="3056" ImageSize="966125"/>
+		<Page Image="29" ImageWidth="1988" ImageHeight="3056" ImageSize="2622579"/>
+		<Page Image="30" ImageWidth="1988" ImageHeight="3056" ImageSize="1088361"/>
+		<Page Image="31" ImageWidth="1988" ImageHeight="3056" ImageSize="1134167"/>
+		<Page Image="32" ImageWidth="1988" ImageHeight="3056" ImageSize="681815"/>
+		<Page Image="33" ImageWidth="1988" ImageHeight="3056" ImageSize="1286116"/>
+		<Page Image="34" ImageWidth="1988" ImageHeight="3056" ImageSize="915358"/>
+		<Page Image="35" ImageWidth="1988" ImageHeight="3056" ImageSize="906584"/>
+		<Page Image="36" ImageWidth="1988" ImageHeight="3056" ImageSize="1063947"/>
+		<Page Image="37" ImageWidth="1988" ImageHeight="3056" ImageSize="993240"/>
+		<Page Image="38" ImageWidth="1988" ImageHeight="3056" ImageSize="984203"/>
+		<Page Image="39" ImageWidth="1988" ImageHeight="3056" ImageSize="922660"/>
+		<Page Image="40" ImageWidth="1988" ImageHeight="3056" ImageSize="952033"/>
+		<Page Image="41" ImageWidth="1988" ImageHeight="3056" ImageSize="1115709"/>
+		<Page Image="42" ImageWidth="1988" ImageHeight="3056" ImageSize="1252787"/>
+		<Page Image="43" ImageWidth="1988" ImageHeight="3056" ImageSize="611755"/>
+		<Page Image="44" ImageWidth="1988" ImageHeight="3056" ImageSize="933688"/>
+		<Page Image="45" ImageWidth="1988" ImageHeight="3056" ImageSize="999331"/>
+		<Page Image="46" ImageWidth="1988" ImageHeight="3056" ImageSize="1027430"/>
+		<Page Image="47" ImageWidth="1988" ImageHeight="3056" ImageSize="897332"/>
+		<Page Image="48" ImageWidth="1988" ImageHeight="3056" ImageSize="1053306"/>
+		<Page Image="49" ImageWidth="1988" ImageHeight="3056" ImageSize="836282"/>
+		<Page Image="50" ImageWidth="1988" ImageHeight="3056" ImageSize="996587"/>
+		<Page Image="51" ImageWidth="1988" ImageHeight="3056" ImageSize="1010506"/>
+		<Page Image="52" ImageWidth="1988" ImageHeight="3056" ImageSize="1020572"/>
+		<Page Image="53" ImageWidth="1988" ImageHeight="3056" ImageSize="1402514"/>
+		<Page Image="54" ImageWidth="1988" ImageHeight="3056" ImageSize="1199338"/>
+		<Page Image="55" ImageWidth="1988" ImageHeight="3056" ImageSize="640036"/>
+		<Page Image="56" ImageWidth="1988" ImageHeight="3056" ImageSize="838556"/>
+		<Page Image="57" ImageWidth="1988" ImageHeight="3056" ImageSize="871769"/>
+		<Page Image="58" ImageWidth="1988" ImageHeight="3056" ImageSize="1110494"/>
+		<Page Image="59" ImageWidth="1988" ImageHeight="3056" ImageSize="847853"/>
+		<Page Image="60" ImageWidth="1988" ImageHeight="3056" ImageSize="889098"/>
+		<Page Image="61" ImageWidth="1988" ImageHeight="3056" ImageSize="838391"/>
+		<Page Image="62" ImageWidth="1988" ImageHeight="3056" ImageSize="925236"/>
+		<Page Image="63" ImageWidth="1988" ImageHeight="3056" ImageSize="799871"/>
+		<Page Image="64" ImageWidth="1988" ImageHeight="3056" ImageSize="909331"/>
+		<Page Image="65" ImageWidth="1988" ImageHeight="3056" ImageSize="1023046"/>
+		<Page Image="66" ImageWidth="1988" ImageHeight="3056" ImageSize="879120"/>
+		<Page Image="67" ImageWidth="1988" ImageHeight="3056" ImageSize="975929"/>
+		<Page Image="68" ImageWidth="1988" ImageHeight="3056" ImageSize="972359"/>
+		<Page Image="69" ImageWidth="1988" ImageHeight="3056" ImageSize="853035"/>
+		<Page Image="70" ImageWidth="1988" ImageHeight="3056" ImageSize="994888"/>
+		<Page Image="71" ImageWidth="1988" ImageHeight="3056" ImageSize="1000127"/>
+		<Page Image="72" ImageWidth="1988" ImageHeight="3056" ImageSize="672870"/>
+		<Page Image="73" ImageWidth="1988" ImageHeight="3056" ImageSize="742849"/>
+		<Page Image="74" ImageWidth="1988" ImageHeight="3056" ImageSize="888392"/>
+		<Page Image="75" ImageWidth="1988" ImageHeight="3056" ImageSize="1050715"/>
+		<Page Image="76" ImageWidth="1988" ImageHeight="3056" ImageSize="1021719"/>
+		<Page Image="77" ImageWidth="1988" ImageHeight="3056" ImageSize="1052092"/>
+		<Page Image="78" ImageWidth="1988" ImageHeight="3056" ImageSize="1126556"/>
+		<Page Image="79" ImageWidth="1988" ImageHeight="3056" ImageSize="803052"/>
+		<Page Image="80" ImageWidth="1988" ImageHeight="3056" ImageSize="843369"/>
+		<Page Image="81" ImageWidth="1988" ImageHeight="3056" ImageSize="926939"/>
+		<Page Image="82" ImageWidth="1988" ImageHeight="3056" ImageSize="798864"/>
+		<Page Image="83" ImageWidth="1988" ImageHeight="3056" ImageSize="623824"/>
+		<Page Image="84" ImageWidth="1988" ImageHeight="3056" ImageSize="720177"/>
+		<Page Image="85" ImageWidth="1988" ImageHeight="3056" ImageSize="917450"/>
+		<Page Image="86" ImageWidth="1988" ImageHeight="3056" ImageSize="796606"/>
+		<Page Image="87" ImageWidth="1988" ImageHeight="3056" ImageSize="654889"/>
+		<Page Image="88" ImageWidth="1988" ImageHeight="3056" ImageSize="702020"/>
+		<Page Image="89" ImageWidth="1988" ImageHeight="3056" ImageSize="877329"/>
+		<Page Image="90" ImageWidth="1988" ImageHeight="3056" ImageSize="723769"/>
+		<Page Image="91" ImageWidth="1988" ImageHeight="3056" ImageSize="809719"/>
+		<Page Image="92" ImageWidth="1988" ImageHeight="3056" ImageSize="805187"/>
+		<Page Image="93" ImageWidth="1988" ImageHeight="3056" ImageSize="649012"/>
+		<Page Image="94" ImageWidth="1988" ImageHeight="3056" ImageSize="763136"/>
+		<Page Image="95" ImageWidth="1988" ImageHeight="3056" ImageSize="637560"/>
+		<Page Image="96" ImageWidth="1988" ImageHeight="3056" ImageSize="542422"/>
+		<Page Image="97" ImageWidth="1988" ImageHeight="3056" ImageSize="609775"/>
+		<Page Image="98" ImageWidth="1988" ImageHeight="3056" ImageSize="708088"/>
+		<Page Image="99" ImageWidth="1988" ImageHeight="3056" ImageSize="728324"/>
+		<Page Image="100" ImageWidth="1988" ImageHeight="3056" ImageSize="788308"/>
+		<Page Image="101" ImageWidth="1988" ImageHeight="3056" ImageSize="957346"/>
+		<Page Image="102" ImageWidth="1988" ImageHeight="3056" ImageSize="988112"/>
+		<Page Image="103" ImageWidth="1988" ImageHeight="3056" ImageSize="985595"/>
+		<Page Image="104" ImageWidth="1988" ImageHeight="3056" ImageSize="1152648"/>
+		<Page Image="105" ImageWidth="1988" ImageHeight="3056" ImageSize="1357220"/>
+		<Page Image="106" ImageSize="1204289"/>
+	</Pages>
+	<Penciller>Amad Mir</Penciller>
+	<Publisher>Dark Horse Comics</Publisher>
+	<Series>The Witcher: Fading Memories</Series>
+	<Summary>As Geralt explores new career possibilities, he receives a request from the mayoress of Towitz--a small town where children are being kidnapped by Foglets. Upon accepting the work, Geralt's thrust into the mysterious past of a mourning mother and her now abducted son. Caught between the townsfolks' recollections of the kidnapping and a slew of disturbing visions, Geralt must face the approaching danger with his own intuition. Collects issues #1-#4 of the series.
+
+https://comicvine.gamespot.com/the-witcher-fading-memories-1-volume-5/4000-877935/</Summary>
+	<Title>Volume 5</Title>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/the-witcher-fading-memories-1-volume-5/4000-877935/</Web>
+	<Writer>Bartosz Sztybor</Writer>
+	<Year>2021</Year>
+</ComicInfo>

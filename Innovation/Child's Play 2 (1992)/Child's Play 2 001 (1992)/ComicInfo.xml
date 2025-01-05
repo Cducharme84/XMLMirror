@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Andy Barclay,Chucky</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-131061</GTIN>
+	<Inker>Darick Robertson</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:41:55 [Issue ID 4000-131061] urn:comicvine:4000-131061</Notes>
+	<Number>1</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="585670" Type="FrontCover"/>
+		<Page Image="1" ImageSize="352214"/>
+		<Page Image="2" ImageSize="385132"/>
+		<Page Image="3" ImageSize="372292"/>
+		<Page Image="4" ImageSize="363892"/>
+		<Page Image="5" ImageSize="420408"/>
+		<Page Image="6" ImageSize="447167"/>
+		<Page Image="7" ImageSize="320012"/>
+		<Page Image="8" ImageSize="433081"/>
+		<Page Image="9" ImageSize="371440"/>
+		<Page Image="10" ImageSize="460250"/>
+		<Page Image="11" ImageSize="442295"/>
+		<Page Image="12" ImageSize="447265"/>
+		<Page Image="13" ImageSize="438053"/>
+		<Page Image="14" ImageSize="376562"/>
+		<Page Image="15" ImageSize="646218"/>
+		<Page Image="16" ImageSize="649069"/>
+		<Page Image="17" ImageSize="312309"/>
+		<Page Image="18" ImageSize="431450"/>
+		<Page Image="19" ImageSize="303370"/>
+		<Page Image="20" ImageSize="511821"/>
+		<Page Image="21" ImageSize="407812"/>
+		<Page Image="22" ImageSize="451106"/>
+		<Page Image="23" ImageSize="414023"/>
+		<Page Image="24" ImageSize="481480"/>
+		<Page Image="25" ImageSize="440302"/>
+		<Page Image="26" ImageSize="451092"/>
+		<Page Image="27" ImageSize="371636"/>
+		<Page Image="28" ImageSize="654007"/>
+		<Page Image="29" ImageSize="467729"/>
+		<Page Image="30" ImageSize="415739"/>
+		<Page Image="31" ImageSize="509398"/>
+		<Page Image="32" ImageSize="420333"/>
+		<Page Image="33" ImageSize="1791601"/>
+		<Page Image="34" ImageSize="375735"/>
+		<Page Image="35" ImageSize="252398"/>
+	</Pages>
+	<Penciller>Darick Robertson</Penciller>
+	<Publisher>Innovation</Publisher>
+	<ScanInformation>(Innovation) (NJZombie)</ScanInformation>
+	<Series>Child's Play 2</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-14 18:26:41.  [Issue ID 131061]
+
+https://comicvine.gamespot.com/childs-play-2-1-good-guy-bad-guy-part-1eye-chucky/4000-131061/</Summary>
+	<Tags>Andy Barclay,Chucky</Tags>
+	<Title>Good Guy Bad Guy Part 1:Eye Chucky</Title>
+	<Volume>1992</Volume>
+	<Web>https://comicvine.gamespot.com/childs-play-2-1-good-guy-bad-guy-part-1eye-chucky/4000-131061/</Web>
+	<Writer>Andy Mangels</Writer>
+	<Year>1992</Year>
+</ComicInfo>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>6</Count>
+	<CoverArtist>Jenn Myers</CoverArtist>
+	<Day>28</Day>
+	<GTIN>urn:comicvine:4000-856002</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Jenn Myers</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-05T20:37:17 [Issue ID 4000-856002] urn:comicvine:4000-856002</Notes>
+	<Number>6</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3886" ImageSize="2319367" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3886" ImageSize="2012605"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3886" ImageSize="2110663"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3886" ImageSize="2733198"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3886" ImageSize="2845364"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3886" ImageSize="2529368"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3886" ImageSize="2437743"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3886" ImageSize="2428948"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3886" ImageSize="2587792"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3886" ImageSize="2802018"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3886" ImageSize="2601888"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3886" ImageSize="2742542"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3886" ImageSize="2869562"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3886" ImageSize="3807979"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3886" ImageSize="3521598"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3886" ImageSize="3504685"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3886" ImageSize="3244747"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3886" ImageSize="3590502"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3886" ImageSize="3589405"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3886" ImageSize="3054144"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3886" ImageSize="3154906"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3886" ImageSize="3572903"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3886" ImageSize="3419518"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3886" ImageSize="3370340"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3886" ImageSize="3551246"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3886" ImageSize="3622263"/>
+		<Page Image="26" ImageSize="3779407"/>
+	</Pages>
+	<Penciller>Jenn Myers</Penciller>
+	<Publisher>Source Point Press</Publisher>
+	<Series>The Era of Great Wonders</Series>
+	<Summary>Cut off deep behind enemy lines Sgt. Geraldine Smythe discovers that there are dangers more nightmarish than giant monsters and bandits, also Dr. Wessen explains the horror of the Hypofrogs.</Summary>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/the-era-of-great-wonders-6/4000-856002/</Web>
+	<Writer>John Myers</Writer>
+	<Year>2021</Year>
+</ComicInfo>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Johnny,Arianrhod,Rhiannon,Elena,Branwen,Dona,Aidan,Monica</Characters>
+  <Count>48</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-502918</GTIN>
+  <Inker>Emiliano Urdinola</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Jotunheim,Mount Olympus</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:43:06 [Issue ID 4000-502918] urn:comicvine:4000-502918 urn:grandcomicsdatabase:issue/1477437
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:38:57. [Issue ID 1477437]</Notes>
+  <Number>43</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="355747" Type="FrontCover" />
+    <Page Image="1" ImageSize="744642" />
+    <Page Image="2" ImageSize="1899706" />
+    <Page Image="3" ImageSize="1867615" />
+    <Page Image="4" ImageSize="1906981" />
+    <Page Image="5" ImageSize="1878110" />
+    <Page Image="6" ImageSize="1775755" />
+    <Page Image="7" ImageSize="2482602" />
+    <Page Image="8" ImageSize="2185287" />
+    <Page Image="9" ImageSize="2197126" />
+    <Page Image="10" ImageSize="2312564" />
+    <Page Image="11" ImageSize="2234838" />
+    <Page Image="12" ImageSize="2392607" />
+    <Page Image="13" ImageSize="2424885" />
+    <Page Image="14" ImageSize="2318042" />
+    <Page Image="15" ImageSize="2598979" />
+    <Page Image="16" ImageSize="2707128" />
+    <Page Image="17" ImageSize="2162009" />
+    <Page Image="18" ImageSize="1993744" />
+    <Page Image="19" ImageSize="1752573" />
+    <Page Image="20" ImageSize="1613535" />
+    <Page Image="21" ImageSize="1359917" />
+    <Page Image="22" ImageSize="1683299" />
+    <Page Image="23" ImageSize="1817609" />
+  </Pages>
+  <Penciller>Emiliano Urdinola</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>God Is Dead</Series>
+  <Summary>Originally a 6 issue mini-series, changed to ongoing.</Summary>
+  <Tags>Johnny,Arianrhod,Rhiannon,Elena,Branwen,Dona,Aidan,Monica</Tags>
+  <Teams>Angels,Gods of Olympus</Teams>
+  <Title>And Death Shall Have No Dominion</Title>
+  <Volume>2013</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-502918/</Web>
+  <Writer>Mike Costa</Writer>
+  <Year>2015</Year>
+</ComicInfo>

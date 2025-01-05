@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<BlackAndWhite>Yes</BlackAndWhite>
+	<Count>4</Count>
+	<Format>Limited Series</Format>
+	<Genre>Action</Genre>
+	<Inker>Hernán Molina</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-20T23:55:43</Notes>
+	<Number>4</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3838" ImageSize="2090023" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2559" ImageHeight="3838" ImageSize="1349674"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3839" ImageSize="1280751"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3839" ImageSize="1495141"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3839" ImageSize="952047"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3839" ImageSize="1312381"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3839" ImageSize="1619006"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3839" ImageSize="1576978"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3839" ImageSize="1331609"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3839" ImageSize="1564151"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3839" ImageSize="1531365"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3839" ImageSize="1151553"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3839" ImageSize="1470773"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3839" ImageSize="1732180"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3839" ImageSize="1410733"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3839" ImageSize="1293651"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3839" ImageSize="1105362"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3839" ImageSize="1164008"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3839" ImageSize="1894165"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3839" ImageSize="1446621"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3839" ImageSize="1604835"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3839" ImageSize="1508881"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2559" ImageHeight="3838" ImageSize="1745165"/>
+		<Page Image="23" ImageSize="92981"/>
+	</Pages>
+	<Penciller>Hernán Molina</Penciller>
+	<Publisher>Junction City Comics</Publisher>
+	<Series>Mr. Disaster</Series>
+	<Summary>In a city run by a mayor who seeks to control its citizens –
+Where secrets and intrigue hide around every corner –
+And your friends are merely people who don’t want you DEAD –
+One man must overcome his dark past and step up to become the hero that puts an end to the corruption… if he doesn’t oversleep.
+John Sloan is… MR. DISASTER!</Summary>
+	<Title>Dinner's for Suckers</Title>
+	<Volume>2017</Volume>
+	<Writer>Tom McKnight</Writer>
+	<Year>2022</Year>
+</ComicInfo>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Mankind,Undertaker,The Embalmer</Characters>
+  <Colorist>Jason Jensen</Colorist>
+  <Count>10</Count>
+  <Editor>Brad Gould,Brian Pulido</Editor>
+  <GTIN>urn:comicvine:4000-172210</GTIN>
+  <Inker>Manny Clarke,Sandu Florea</Inker>
+  <Letterer>Oscar Gongora</Letterer>
+  <Locations>Hell</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:37:31 [Issue ID 4000-172210] urn:comicvine:4000-172210 urn:grandcomicsdatabase:issue/233516
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:54:06. [Issue ID 233516]</Notes>
+  <Number>2</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="157337" Type="FrontCover" />
+    <Page Image="1" ImageSize="732992" />
+    <Page Image="2" ImageSize="345321" />
+    <Page Image="3" ImageSize="546683" />
+    <Page Image="4" ImageSize="1033210" />
+    <Page Image="5" ImageSize="602442" />
+    <Page Image="6" ImageSize="567027" />
+    <Page Image="7" ImageSize="419823" />
+    <Page Image="8" ImageSize="446534" />
+    <Page Image="9" ImageSize="500533" />
+    <Page Image="10" ImageSize="453065" />
+    <Page Image="11" ImageSize="462914" />
+    <Page Image="12" ImageSize="500138" />
+    <Page Image="13" ImageSize="516164" />
+    <Page Image="14" ImageSize="410731" />
+    <Page Image="15" ImageSize="480521" />
+    <Page Image="16" ImageSize="492374" />
+    <Page Image="17" ImageSize="513910" />
+    <Page Image="18" ImageSize="431037" />
+    <Page Image="19" ImageSize="481049" />
+    <Page Image="20" ImageSize="445337" />
+    <Page Image="21" ImageSize="458629" />
+    <Page Image="22" ImageSize="474310" />
+    <Page Image="23" ImageSize="469443" />
+    <Page Image="24" ImageSize="558025" />
+  </Pages>
+  <Penciller>Manny Clarke</Penciller>
+  <Publisher>Chaos! Comics</Publisher>
+  <Series>Undertaker</Series>
+  <Summary>All issues were published with a comic cover and a photo cover.</Summary>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-172210/</Web>
+  <Writer>Beau Smith</Writer>
+  <Year>1999</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

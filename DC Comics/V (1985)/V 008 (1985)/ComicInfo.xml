@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Diana</Characters>
+	<Colorist>Michele Wolfman</Colorist>
+	<Day>30</Day>
+	<Editor>Robert Greenberger</Editor>
+	<GTIN>urn:comicvine:4000-25853</GTIN>
+	<Inker>Jerry Bingham,Tony DeZuniga</Inker>
+	<Letterer>Carrie Spiegle</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:32:34 [Issue ID 4000-25853] urn:comicvine:4000-25853</Notes>
+	<Number>8</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="499395" Type="FrontCover"/>
+		<Page Image="1" ImageSize="410873"/>
+		<Page Image="2" ImageSize="414655"/>
+		<Page Image="3" ImageSize="420311"/>
+		<Page Image="4" ImageSize="426640"/>
+		<Page Image="5" ImageSize="435625"/>
+		<Page Image="6" ImageSize="465660"/>
+		<Page Image="7" ImageSize="441369"/>
+		<Page Image="8" ImageSize="370285"/>
+		<Page Image="9" ImageSize="371830"/>
+		<Page Image="10" ImageSize="452932"/>
+		<Page Image="11" ImageSize="471745"/>
+		<Page Image="12" ImageSize="437573"/>
+		<Page Image="13" ImageSize="388266"/>
+		<Page Image="14" ImageSize="388844"/>
+		<Page Image="15" ImageSize="398010"/>
+		<Page Image="16" ImageSize="476035"/>
+		<Page Image="17" ImageSize="455917"/>
+		<Page Image="18" ImageSize="372125"/>
+		<Page Image="19" ImageSize="468555"/>
+		<Page Image="20" ImageSize="466388"/>
+		<Page Image="21" ImageSize="421631"/>
+		<Page Image="22" ImageSize="415396"/>
+		<Page Image="23" ImageSize="450099"/>
+		<Page Image="24" ImageSize="404515"/>
+		<Page Image="25" ImageSize="396191"/>
+	</Pages>
+	<Penciller>Carmine Infantino,Jerry Bingham</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<ScanInformation>(imbie-HaCsA)</ScanInformation>
+	<Series>V</Series>
+	<Summary>https://comicvine.gamespot.com/v-8-printers-devil/4000-25853/</Summary>
+	<Title>Printer's Devil</Title>
+	<Volume>1985</Volume>
+	<Web>https://comicvine.gamespot.com/v-8-printers-devil/4000-25853/</Web>
+	<Writer>Bob Rozakis</Writer>
+	<Year>1985</Year>
+</ComicInfo>

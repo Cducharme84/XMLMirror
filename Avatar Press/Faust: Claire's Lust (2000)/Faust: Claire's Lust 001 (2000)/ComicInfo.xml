@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Claire,Faust</Characters>
+	<Count>1</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>One Shot</Format>
+	<GTIN>urn:comicvine:4000-1145169</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Tim Tyler</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:52:59 [Issue ID 4000-1145169] urn:comicvine:4000-1145169 urn:grandcomicsdatabase:issue/1145169</Notes>
+	<Number>1</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="58202" Type="FrontCover"/>
+		<Page Image="1" ImageSize="344856"/>
+		<Page Image="2" ImageSize="360997"/>
+		<Page Image="3" ImageSize="317600"/>
+		<Page Image="4" ImageSize="412366"/>
+		<Page Image="5" ImageSize="281120"/>
+		<Page Image="6" ImageSize="423163"/>
+		<Page Image="7" ImageSize="443161"/>
+		<Page Image="8" ImageSize="426416"/>
+		<Page Image="9" ImageSize="485643"/>
+		<Page Image="10" ImageSize="412193"/>
+		<Page Image="11" ImageSize="385444"/>
+		<Page Image="12" ImageSize="449338"/>
+		<Page Image="13" ImageSize="438564"/>
+		<Page Image="14" ImageSize="427979"/>
+		<Page Image="15" ImageSize="423680"/>
+		<Page Image="16" ImageSize="437510"/>
+		<Page Image="17" ImageSize="373943"/>
+		<Page Image="18" ImageSize="344409"/>
+		<Page Image="19" ImageSize="327301"/>
+		<Page Image="20" ImageSize="249164"/>
+	</Pages>
+	<Penciller>Timothy B. Vigil</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Faust: Claire's Lust</Series>
+	<Title>Claire: Lust Is Not Enough</Title>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1145169/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>2000</Year>
+</ComicInfo>

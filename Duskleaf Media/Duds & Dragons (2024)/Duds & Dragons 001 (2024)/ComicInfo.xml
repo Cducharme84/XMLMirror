@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>3</Count>
+	<Format>Limited Series</Format>
+	<Genre>Comedy,Fantasy</Genre>
+	<Inker>Joanna Materek</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-27T13:07:53</Notes>
+	<Number>1</Number>
+	<PageCount>30</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1980" ImageHeight="3062" ImageSize="1405338" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3886" ImageSize="936145"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3597" ImageSize="1173519"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3597" ImageSize="1451494"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3597" ImageSize="1350565"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3597" ImageSize="1411157"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3597" ImageSize="1326604"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3597" ImageSize="1067234"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3597" ImageSize="1300976"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3597" ImageSize="1362980"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3597" ImageSize="1273982"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3597" ImageSize="1285893"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3597" ImageSize="1354075"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3597" ImageSize="1372902"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3597" ImageSize="1196818"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3597" ImageSize="1221000"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3597" ImageSize="1700258"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3597" ImageSize="1389777"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3597" ImageSize="1619100"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3597" ImageSize="1384041"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3597" ImageSize="1381186"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3597" ImageSize="1443298"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3597" ImageSize="1204311"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3597" ImageSize="1385313"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3597" ImageSize="1139051"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3597" ImageSize="1281040"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3597" ImageSize="1455124"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3597" ImageSize="1584603"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3597" ImageSize="1835931"/>
+		<Page Image="29" ImageSize="1286238"/>
+	</Pages>
+	<Penciller>Joanna Materek</Penciller>
+	<Publisher>Duskleaf Media</Publisher>
+	<Series>Duds &amp; Dragons</Series>
+	<Summary>All the Heroes of Middle-Neveroth have been taken by a mysterious Evil! Fenris, (the runt of the Lycan litter), must grab his flimsy practice sword and go on a fantastical adventure to discover the secret behind the rising evil consuming the land!</Summary>
+	<Volume>2024</Volume>
+	<Writer>Graham Misiurak</Writer>
+	<Year>2024</Year>
+</ComicInfo>

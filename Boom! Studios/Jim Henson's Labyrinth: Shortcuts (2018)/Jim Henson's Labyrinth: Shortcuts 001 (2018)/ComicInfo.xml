@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jareth the Goblin King</Characters>
+  <Colorist>Dan Jackson,Heather Breckel,Jen Hickman,Joana Lafuente</Colorist>
+  <Day>19</Day>
+  <GTIN>urn:comicvine:4000-685693</GTIN>
+  <Genre>Movies &amp; TV,Fantasy</Genre>
+  <Imprint>BOOM! - Archaia</Imprint>
+  <Inker>Brandon Dayton,Cory Godbey,Daniel Bayliss,Gustavo Duarte,Jared Cullum,Jeff Stokely,Katie Cook,Kyla Vanderklugt,Matt Smith,Pius Bak,Roger Langridge,Sas Milledge</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Deron Bennett,Jim Campbell,Nathan Pride,Simon Bowland,T. Warren Montgomery</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:22:20 [Issue ID 4000-685693] urn:comicvine:4000-685693
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 14:09:56. [Issue ID 2579686]</Notes>
+  <Number>1</Number>
+  <PageCount>114</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="990682" Type="FrontCover" />
+    <Page Image="1" ImageSize="1235221" />
+    <Page Image="2" ImageSize="2634877" />
+    <Page Image="3" ImageSize="9563225" />
+    <Page Image="4" ImageSize="9087712" />
+    <Page Image="5" ImageSize="2593719" />
+    <Page Image="6" ImageSize="1345888" />
+    <Page Image="7" ImageSize="1328467" />
+    <Page Image="8" ImageSize="1140504" />
+    <Page Image="9" ImageSize="1155203" />
+    <Page Image="10" ImageSize="1351556" />
+    <Page Image="11" ImageSize="1474480" />
+    <Page Image="12" ImageSize="1161205" />
+    <Page Image="13" ImageSize="1846836" />
+    <Page Image="14" ImageSize="1106805" />
+    <Page Image="15" ImageSize="1105400" />
+    <Page Image="16" ImageSize="1081364" />
+    <Page Image="17" ImageSize="1081124" />
+    <Page Image="18" ImageSize="1055649" />
+    <Page Image="19" ImageSize="1140801" />
+    <Page Image="20" ImageSize="1281707" />
+    <Page Image="21" ImageSize="1176993" />
+    <Page Image="22" ImageSize="1362106" />
+    <Page Image="23" ImageSize="1165784" />
+    <Page Image="24" ImageSize="1126502" />
+    <Page Image="25" ImageSize="938969" />
+    <Page Image="26" ImageSize="809079" />
+    <Page Image="27" ImageSize="996073" />
+    <Page Image="28" ImageSize="1599400" />
+    <Page Image="29" ImageSize="1629116" />
+    <Page Image="30" ImageSize="1518111" />
+    <Page Image="31" ImageSize="1664427" />
+    <Page Image="32" ImageSize="2470360" />
+    <Page Image="33" ImageSize="2328891" />
+    <Page Image="34" ImageSize="2237915" />
+    <Page Image="35" ImageSize="2282368" />
+    <Page Image="36" ImageSize="2115788" />
+    <Page Image="37" ImageSize="2236297" />
+    <Page Image="38" ImageSize="2338803" />
+    <Page Image="39" ImageSize="2318698" />
+    <Page Image="40" ImageSize="2308075" />
+    <Page Image="41" ImageSize="2276772" />
+    <Page Image="42" ImageSize="1705286" />
+    <Page Image="43" ImageSize="1696710" />
+    <Page Image="44" ImageSize="1655816" />
+    <Page Image="45" ImageSize="1866540" />
+    <Page Image="46" ImageSize="1570284" />
+    <Page Image="47" ImageSize="1640170" />
+    <Page Image="48" ImageSize="2398575" />
+    <Page Image="49" ImageSize="2272164" />
+    <Page Image="50" ImageSize="2164464" />
+    <Page Image="51" ImageSize="2175460" />
+    <Page Image="52" ImageSize="2185322" />
+    <Page Image="53" ImageSize="2165276" />
+    <Page Image="54" ImageSize="2252428" />
+    <Page Image="55" ImageSize="2178845" />
+    <Page Image="56" ImageSize="2146025" />
+    <Page Image="57" ImageSize="2199102" />
+    <Page Image="58" ImageSize="1512750" />
+    <Page Image="59" ImageSize="1426869" />
+    <Page Image="60" ImageSize="1314295" />
+    <Page Image="61" ImageSize="1361159" />
+    <Page Image="62" ImageSize="1045373" />
+    <Page Image="63" ImageSize="1243420" />
+    <Page Image="64" ImageSize="1367269" />
+    <Page Image="65" ImageSize="1428104" />
+    <Page Image="66" ImageSize="1501538" />
+    <Page Image="67" ImageSize="1194933" />
+    <Page Image="68" ImageSize="1292961" />
+    <Page Image="69" ImageSize="1216493" />
+    <Page Image="70" ImageSize="1537422" />
+    <Page Image="71" ImageSize="1104531" />
+    <Page Image="72" ImageSize="1945594" />
+    <Page Image="73" ImageSize="1655830" />
+    <Page Image="74" ImageSize="1795075" />
+    <Page Image="75" ImageSize="1866713" />
+    <Page Image="76" ImageSize="1864042" />
+    <Page Image="77" ImageSize="1908180" />
+    <Page Image="78" ImageSize="1605074" />
+    <Page Image="79" ImageSize="1792039" />
+    <Page Image="80" ImageSize="1721115" />
+    <Page Image="81" ImageSize="1674736" />
+    <Page Image="82" ImageSize="1198103" />
+    <Page Image="83" ImageSize="1948807" />
+    <Page Image="84" ImageSize="1444257" />
+    <Page Image="85" ImageSize="1557156" />
+    <Page Image="86" ImageSize="1933914" />
+    <Page Image="87" ImageSize="1635687" />
+    <Page Image="88" ImageSize="1736507" />
+    <Page Image="89" ImageSize="1791484" />
+    <Page Image="90" ImageSize="1612932" />
+    <Page Image="91" ImageSize="1697681" />
+    <Page Image="92" ImageSize="2876613" />
+    <Page Image="93" ImageSize="1338629" />
+    <Page Image="94" ImageSize="1288486" />
+    <Page Image="95" ImageSize="1625409" />
+    <Page Image="96" ImageSize="1953778" />
+    <Page Image="97" ImageSize="1390760" />
+    <Page Image="98" ImageSize="1342868" />
+    <Page Image="99" ImageSize="1389082" />
+    <Page Image="100" ImageSize="2044387" />
+    <Page Image="101" ImageSize="1163883" />
+    <Page Image="102" ImageSize="1718943" />
+    <Page Image="103" ImageSize="1279012" />
+    <Page Image="104" ImageSize="1193085" />
+    <Page Image="105" ImageSize="1211485" />
+    <Page Image="106" ImageSize="1804987" />
+    <Page Image="107" ImageSize="1189607" />
+    <Page Image="108" ImageSize="1890905" />
+    <Page Image="109" ImageSize="1954353" />
+    <Page Image="110" ImageSize="860548" />
+    <Page Image="111" ImageSize="1225035" />
+    <Page Image="112" ImageSize="2641620" />
+    <Page Image="113" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Brandon Dayton,Cory Godbey,Daniel Bayliss,Gustavo Duarte,Jared Cullum,Jeff Stokely,Katie Cook,Kyla Vanderklugt,Matt Smith,Pius Bak,Roger Langridge,Sas Milledge</Penciller>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Jim Henson's Labyrinth: Shortcuts</Series>
+  <Summary>Celebrate the beloved Jim Henson fantasy film with stories from inside the magical walls of the labyrinth!
+
+Featuring fan-favorite characters like Ludo, Hoggle, Sir Didymus, and the Goblin King himself, this compilation showcases imaginative tales from critically acclaimed writers and artists alike, including Jonathan Case ( The New Dea l), Delilah S. Dawson ( Journey to Star Wars : The Last Jedi - Captain Phasma ), Gustavo Duarte ( Bizarro ), Roger Langridge ( Snarked ), Katie Cook ( Star Wars : ABC-3PO ), Jeff Stokely ( Six-Gun Gorilla ), and many others.
+
+Collects The Labyrinth 30th Anniversary Special, The Labyrinth 2017 Special and two never-before-seen stories!
+
+ContentsThe Wrong TobyGone FishingThe Way OutCup of Tea?Rock Solid FriendshipBeauty or the BeastThe Right Steed for the Right DeedInto the BogA Friend In NeedRun, Goblin, RunHoggle and the WormHumongous Two
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-10 11:17:53.  [CVDB685693]
+
+https://comicvine.gamespot.com/jim-hensons-labyrinth-shortcuts-1-volume-one/4000-685693/</Summary>
+  <Tags>Jareth the Goblin King,Goblins</Tags>
+  <Teams>Goblins</Teams>
+  <Title>Volume One</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/jim-hensons-labyrinth-shortcuts-1-volume-one/4000-685693/</Web>
+  <Writer>Adam Smith,Adrianne Ambrose,Alessandro Ferrari,Brandon Dayton,Curry Ross,Delilah Dawson,Gustavo Duarte,Jeff Stokely,Jonathan Case,Katie Cook,Matt Smith,Roger Langridge,Ted Naifeh</Writer>
+  <Year>2018</Year>
+  <Count>1</Count>
+  <Format>Collection</Format>
+  <Editor>Cameron Chittock,Sierra Hahn</Editor>
+</ComicInfo>

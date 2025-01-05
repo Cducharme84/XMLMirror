@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Kenton of the Space Patrol</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-98041</GTIN>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:32:38 [Issue ID 4000-98041] urn:comicvine:4000-98041</Notes>
+	<Number>6</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1004816" Type="FrontCover"/>
+		<Page Image="1" ImageSize="797769"/>
+		<Page Image="2" ImageSize="768612"/>
+		<Page Image="3" ImageSize="791321"/>
+		<Page Image="4" ImageSize="793592"/>
+		<Page Image="5" ImageSize="779374"/>
+		<Page Image="6" ImageSize="783655"/>
+		<Page Image="7" ImageSize="768409"/>
+		<Page Image="8" ImageSize="775930"/>
+		<Page Image="9" ImageSize="785780"/>
+		<Page Image="10" ImageSize="768212"/>
+		<Page Image="11" ImageSize="788136"/>
+		<Page Image="12" ImageSize="783153"/>
+		<Page Image="13" ImageSize="776033"/>
+		<Page Image="14" ImageSize="776796"/>
+		<Page Image="15" ImageSize="784091"/>
+		<Page Image="16" ImageSize="804725"/>
+		<Page Image="17" ImageSize="774764"/>
+		<Page Image="18" ImageSize="786835"/>
+		<Page Image="19" ImageSize="787789"/>
+		<Page Image="20" ImageSize="787373"/>
+		<Page Image="21" ImageSize="782403"/>
+		<Page Image="22" ImageSize="776715"/>
+		<Page Image="23" ImageSize="785556"/>
+		<Page Image="24" ImageSize="788599"/>
+		<Page Image="25" ImageSize="797242"/>
+		<Page Image="26" ImageSize="757932"/>
+		<Page Image="27" ImageSize="770135"/>
+		<Page Image="28" ImageSize="781615"/>
+		<Page Image="29" ImageSize="780644"/>
+		<Page Image="30" ImageSize="776476"/>
+		<Page Image="31" ImageSize="742454"/>
+		<Page Image="32" ImageSize="772502"/>
+		<Page Image="33" ImageSize="764701"/>
+		<Page Image="34" ImageSize="766521"/>
+		<Page Image="35" ImageSize="785773"/>
+	</Pages>
+	<Publisher>Avon</Publisher>
+	<Series>Strange Worlds</Series>
+	<Summary>https://comicvine.gamespot.com/strange-worlds-6/4000-98041/</Summary>
+	<Tags>Kenton of the Space Patrol</Tags>
+	<Volume>1950</Volume>
+	<Web>https://comicvine.gamespot.com/strange-worlds-6/4000-98041/</Web>
+	<Writer>Gardner Fox</Writer>
+	<Year>1952</Year>
+</ComicInfo>

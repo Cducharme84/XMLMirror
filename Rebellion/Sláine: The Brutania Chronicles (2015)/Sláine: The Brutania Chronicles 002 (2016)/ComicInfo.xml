@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Sinead,The Lord Weird Slough Feg,Sláine</Characters>
+  <Format>Digital</Format>
+  <GTIN>urn:comicvine:4000-511014</GTIN>
+  <Inker>Simon Davis</Inker>
+  <Locations>Monadh,Ireland</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:39:19 [Issue ID 4000-511014] urn:comicvine:4000-511014
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:29:21. [Issue ID 1849467]</Notes>
+  <Number>2</Number>
+  <PageCount>92</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2220" ImageSize="2235240" ImageWidth="3511" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2173" ImageSize="1593321" ImageWidth="3306" />
+    <Page Image="2" ImageHeight="2173" ImageSize="3372080" ImageWidth="3306" />
+    <Page Image="3" ImageHeight="2173" ImageSize="3177752" ImageWidth="3306" />
+    <Page Image="4" ImageHeight="2173" ImageSize="1545742" ImageWidth="1654" />
+    <Page Image="5" ImageHeight="2173" ImageSize="2098765" ImageWidth="1654" />
+    <Page Image="6" ImageHeight="2173" ImageSize="1850203" ImageWidth="1654" />
+    <Page Image="7" ImageHeight="2173" ImageSize="1591811" ImageWidth="1654" />
+    <Page Image="8" ImageHeight="2173" ImageSize="1938085" ImageWidth="1654" />
+    <Page Image="9" ImageHeight="2173" ImageSize="1860614" ImageWidth="1654" />
+    <Page Image="10" ImageHeight="2173" ImageSize="4189462" ImageWidth="3306" />
+    <Page Image="11" ImageHeight="2173" ImageSize="1788849" ImageWidth="1654" />
+    <Page Image="12" ImageHeight="2173" ImageSize="1923211" ImageWidth="1654" />
+    <Page Image="13" ImageHeight="2173" ImageSize="2161507" ImageWidth="1654" />
+    <Page Image="14" ImageHeight="2173" ImageSize="1843025" ImageWidth="1654" />
+    <Page Image="15" ImageHeight="2173" ImageSize="3876630" ImageWidth="3306" />
+    <Page Image="16" ImageHeight="2173" ImageSize="1926580" ImageWidth="1654" />
+    <Page Image="17" ImageHeight="2173" ImageSize="1615114" ImageWidth="1654" />
+    <Page Image="18" ImageHeight="2173" ImageSize="1703090" ImageWidth="1654" />
+    <Page Image="19" ImageHeight="2173" ImageSize="1833350" ImageWidth="1654" />
+    <Page Image="20" ImageHeight="2173" ImageSize="1762443" ImageWidth="1654" />
+    <Page Image="21" ImageHeight="2173" ImageSize="1618966" ImageWidth="1654" />
+    <Page Image="22" ImageHeight="2173" ImageSize="1517824" ImageWidth="1654" />
+    <Page Image="23" ImageHeight="2173" ImageSize="1692582" ImageWidth="1654" />
+    <Page Image="24" ImageHeight="2173" ImageSize="1694140" ImageWidth="1654" />
+    <Page Image="25" ImageHeight="2173" ImageSize="1837938" ImageWidth="1654" />
+    <Page Image="26" ImageHeight="2173" ImageSize="1869912" ImageWidth="1654" />
+    <Page Image="27" ImageHeight="2173" ImageSize="2021363" ImageWidth="1654" />
+    <Page Image="28" ImageHeight="2173" ImageSize="1689325" ImageWidth="1654" />
+    <Page Image="29" ImageHeight="2173" ImageSize="1749820" ImageWidth="1654" />
+    <Page Image="30" ImageHeight="2173" ImageSize="1902256" ImageWidth="1654" />
+    <Page Image="31" ImageHeight="2173" ImageSize="1528721" ImageWidth="1654" />
+    <Page Image="32" ImageHeight="2173" ImageSize="3341834" ImageWidth="3306" />
+    <Page Image="33" ImageHeight="2173" ImageSize="2121234" ImageWidth="1654" />
+    <Page Image="34" ImageHeight="2173" ImageSize="1832491" ImageWidth="1654" />
+    <Page Image="35" ImageHeight="2173" ImageSize="1760708" ImageWidth="1654" />
+    <Page Image="36" ImageHeight="2173" ImageSize="2410293" ImageWidth="1654" />
+    <Page Image="37" ImageHeight="2173" ImageSize="1672981" ImageWidth="1654" />
+    <Page Image="38" ImageHeight="2173" ImageSize="1656633" ImageWidth="1654" />
+    <Page Image="39" ImageHeight="2173" ImageSize="1705210" ImageWidth="1654" />
+    <Page Image="40" ImageHeight="2173" ImageSize="1687000" ImageWidth="1654" />
+    <Page Image="41" ImageHeight="2173" ImageSize="1658883" ImageWidth="1654" />
+    <Page Image="42" ImageHeight="2173" ImageSize="1561835" ImageWidth="1654" />
+    <Page Image="43" ImageHeight="2173" ImageSize="3735693" ImageWidth="3306" />
+    <Page Image="44" ImageHeight="2173" ImageSize="1628523" ImageWidth="1654" />
+    <Page Image="45" ImageHeight="2173" ImageSize="1895147" ImageWidth="1654" />
+    <Page Image="46" ImageHeight="2173" ImageSize="1771618" ImageWidth="1654" />
+    <Page Image="47" ImageHeight="2173" ImageSize="1910655" ImageWidth="1654" />
+    <Page Image="48" ImageHeight="2173" ImageSize="1889878" ImageWidth="1654" />
+    <Page Image="49" ImageHeight="2173" ImageSize="1443417" ImageWidth="1654" />
+    <Page Image="50" ImageHeight="2173" ImageSize="2310955" ImageWidth="1654" />
+    <Page Image="51" ImageHeight="2173" ImageSize="1899233" ImageWidth="1654" />
+    <Page Image="52" ImageHeight="2173" ImageSize="1359853" ImageWidth="1654" />
+    <Page Image="53" ImageHeight="2173" ImageSize="1691222" ImageWidth="1654" />
+    <Page Image="54" ImageHeight="2173" ImageSize="1845981" ImageWidth="1654" />
+    <Page Image="55" ImageHeight="2173" ImageSize="1702354" ImageWidth="1654" />
+    <Page Image="56" ImageHeight="2173" ImageSize="1542576" ImageWidth="1654" />
+    <Page Image="57" ImageHeight="2173" ImageSize="2193584" ImageWidth="1654" />
+    <Page Image="58" ImageHeight="2173" ImageSize="2071732" ImageWidth="1654" />
+    <Page Image="59" ImageHeight="2173" ImageSize="2224897" ImageWidth="1654" />
+    <Page Image="60" ImageHeight="2173" ImageSize="4487261" ImageWidth="3306" />
+    <Page Image="61" ImageHeight="2173" ImageSize="1847068" ImageWidth="1654" />
+    <Page Image="62" ImageHeight="2173" ImageSize="1902942" ImageWidth="1654" />
+    <Page Image="63" ImageHeight="2173" ImageSize="1035801" ImageWidth="1654" />
+    <Page Image="64" ImageHeight="2173" ImageSize="1378101" ImageWidth="1654" />
+    <Page Image="65" ImageHeight="2173" ImageSize="3911148" ImageWidth="3306" />
+    <Page Image="66" ImageHeight="2173" ImageSize="1611830" ImageWidth="1654" />
+    <Page Image="67" ImageHeight="2173" ImageSize="2024472" ImageWidth="1654" />
+    <Page Image="68" ImageHeight="2173" ImageSize="2158736" ImageWidth="1654" />
+    <Page Image="69" ImageHeight="2173" ImageSize="2162786" ImageWidth="1654" />
+    <Page Image="70" ImageHeight="2173" ImageSize="3407829" ImageWidth="3306" />
+    <Page Image="71" ImageHeight="2173" ImageSize="1743318" ImageWidth="1654" />
+    <Page Image="72" ImageHeight="2173" ImageSize="2171474" ImageWidth="1654" />
+    <Page Image="73" ImageHeight="2173" ImageSize="1970360" ImageWidth="1654" />
+    <Page Image="74" ImageHeight="2173" ImageSize="1607058" ImageWidth="1654" />
+    <Page Image="75" ImageHeight="2173" ImageSize="1714545" ImageWidth="1654" />
+    <Page Image="76" ImageHeight="2061" ImageSize="596246" ImageWidth="1521" />
+    <Page Image="77" ImageHeight="2061" ImageSize="488475" ImageWidth="1508" />
+    <Page Image="78" ImageHeight="2061" ImageSize="773910" ImageWidth="1521" />
+    <Page Image="79" ImageHeight="2173" ImageSize="1385791" ImageWidth="1654" />
+    <Page Image="80" ImageHeight="2065" ImageSize="1248087" ImageWidth="1496" />
+    <Page Image="81" ImageHeight="2173" ImageSize="1370165" ImageWidth="1654" />
+    <Page Image="82" ImageHeight="2094" ImageSize="1182867" ImageWidth="1589" />
+    <Page Image="83" ImageHeight="2173" ImageSize="1147513" ImageWidth="1654" />
+    <Page Image="84" ImageHeight="2173" ImageSize="976977" ImageWidth="1654" />
+    <Page Image="85" ImageHeight="2094" ImageSize="1291859" ImageWidth="1575" />
+    <Page Image="86" ImageHeight="2078" ImageSize="759434" ImageWidth="1496" />
+    <Page Image="87" ImageHeight="2057" ImageSize="877144" ImageWidth="1493" />
+    <Page Image="88" ImageHeight="2094" ImageSize="813937" ImageWidth="1583" />
+    <Page Image="89" ImageHeight="2173" ImageSize="1595000" ImageWidth="1654" />
+    <Page Image="90" ImageHeight="2173" ImageSize="1668397" ImageWidth="3306" />
+    <Page Image="91" ImageSize="272046" />
+  </Pages>
+  <Penciller>Simon Davis</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <ScanInformation>(digital) (Torquemada)</ScanInformation>
+  <Series>Sláine: The Brutania Chronicles</Series>
+  <Summary>TROJAN WAR!
+
+ALBION, IN A TIME OF LEGEND. Celtic warrior Sláine united the tribes of the Earth Goddess Danu and became the ﬁrst High King of Ireland. After ruling for seven years, he travelled through time to ﬁght for the Goddess in other eras before returning to save his people from the Fomorian sea devils. Now, having journeyed to Monadh to rescue Sinead from the Drune Lords, he must face the powerful might of the Trojan army and their superhuman warrior, the Primordial, in a battle to the death!
+
+This thrilling continuation of The Brutania Chronicles was written by 2000 AD creator Pat Mills (Ro-Busters) and features the breathtaking, painted art of Simon Davis (Missionary Man, B.L.A.I.R. 1).
+
+Note: The digital edition (1/13/2016) for this volume was released before the print edition.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-01 10:05:43.  [Issue ID 511014]
+
+https://comicvine.gamespot.com/slaine-the-brutania-chronicles-2-book-two-primordi/4000-511014/</Summary>
+  <Tags>Ireland,Sinead,Monadh,Sláine,The Lord Weird Slough Feg</Tags>
+  <Title>Book Two: Primordial</Title>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/slaine-the-brutania-chronicles-2-book-two-primordi/4000-511014/</Web>
+  <Writer>Pat Mills</Writer>
+  <Year>2016</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

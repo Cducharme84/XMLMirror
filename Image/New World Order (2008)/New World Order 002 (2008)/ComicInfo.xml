@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>George Viola</Colorist>
+	<Count>3</Count>
+	<Day>1</Day>
+	<Editor>Kristen Simon</Editor>
+	<GTIN>urn:comicvine:4000-127423</GTIN>
+	<Letterer>Dave Rothe</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:27:53 [Issue ID 4000-127423] urn:comicvine:4000-127423</Notes>
+	<Number>2</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="495613" Type="FrontCover"/>
+		<Page Image="1" ImageSize="475777"/>
+		<Page Image="2" ImageSize="444848"/>
+		<Page Image="3" ImageSize="537643"/>
+		<Page Image="4" ImageSize="427564"/>
+		<Page Image="5" ImageSize="469612"/>
+		<Page Image="6" ImageSize="479671"/>
+		<Page Image="7" ImageSize="472456"/>
+		<Page Image="8" ImageSize="473839"/>
+		<Page Image="9" ImageSize="416881"/>
+		<Page Image="10" ImageSize="387091"/>
+		<Page Image="11" ImageSize="411960"/>
+		<Page Image="12" ImageSize="435180"/>
+		<Page Image="13" ImageSize="538252"/>
+		<Page Image="14" ImageSize="401498"/>
+		<Page Image="15" ImageSize="399831"/>
+		<Page Image="16" ImageSize="405423"/>
+		<Page Image="17" ImageSize="419886"/>
+		<Page Image="18" ImageSize="454504"/>
+		<Page Image="19" ImageSize="450871"/>
+		<Page Image="20" ImageSize="484186"/>
+		<Page Image="21" ImageSize="556613"/>
+		<Page Image="22" ImageSize="446392"/>
+		<Page Image="23" ImageSize="424863"/>
+		<Page Image="24" ImageSize="292366"/>
+		<Page Image="25" ImageSize="85602"/>
+	</Pages>
+	<Publisher>Image</Publisher>
+	<Series>New World Order</Series>
+	<Summary>'GLOBAL WARNING' As disasters ravage the planet, the Third Army seeks out guidance. Their journey takes them deep into the earth to investigate the sinister forces that are trying to unlock the secrets of the 'four-fingered people'...and their prophecies of doom!</Summary>
+	<Title>Global Warning</Title>
+	<Volume>2008</Volume>
+	<Web>https://comicvine.gamespot.com/new-world-order-2-global-warning/4000-127423/</Web>
+	<Writer>Gustavo Higuera</Writer>
+	<Year>2008</Year>
+</ComicInfo>

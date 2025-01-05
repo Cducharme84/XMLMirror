@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-134370</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:18:45 [Issue ID 4000-134370] urn:comicvine:4000-134370 urn:grandcomicsdatabase:issue/134370
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 01:54:34. [Issue ID 134370]</Notes>
+  <Number>16</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="438563" Type="FrontCover" />
+    <Page Image="1" ImageSize="557574" />
+    <Page Image="2" ImageSize="651547" />
+    <Page Image="3" ImageSize="1312623" />
+    <Page Image="4" ImageSize="773921" />
+    <Page Image="5" ImageSize="676060" />
+    <Page Image="6" ImageSize="1096642" />
+    <Page Image="7" ImageSize="523555" />
+    <Page Image="8" ImageSize="569804" />
+    <Page Image="9" ImageSize="625440" />
+    <Page Image="10" ImageSize="693624" />
+    <Page Image="11" ImageSize="749975" />
+    <Page Image="12" ImageSize="652776" />
+    <Page Image="13" ImageSize="1062758" />
+    <Page Image="14" ImageSize="532349" />
+    <Page Image="15" ImageSize="551833" />
+    <Page Image="16" ImageSize="651156" />
+    <Page Image="17" ImageSize="619399" />
+    <Page Image="18" ImageSize="784707" />
+    <Page Image="19" ImageSize="505128" />
+    <Page Image="20" ImageSize="627925" />
+    <Page Image="21" ImageSize="480271" />
+    <Page Image="22" ImageSize="529692" />
+    <Page Image="23" ImageSize="73007" />
+  </Pages>
+  <Publisher>Broadsword</Publisher>
+  <Series>Tarot: Witch of the Black Rose</Series>
+  <Summary>According to Holly Golightly, VP of Broadsword Comics, the series did not have an editor until Neil Morris in issue #12.
+
+Won the 2008 Project Fanboy Award for Best Title &amp; Best Indie Title.</Summary>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-134370/</Web>
+  <Year>2000</Year>
+</ComicInfo>

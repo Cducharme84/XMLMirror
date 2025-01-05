@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Format>Webcomic</Format>
+	<GTIN>urn:comicvine:4000-130682</GTIN>
+	<Inker>Phil Foglio</Inker>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:10:33 [Issue ID 4000-130682] urn:comicvine:4000-130682</Notes>
+	<Number>6</Number>
+	<PageCount>151</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="700" ImageHeight="1147" ImageSize="85546" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1392" ImageHeight="1032" ImageSize="942256"/>
+		<Page Image="2" ImageWidth="700" ImageHeight="1052" ImageSize="129690"/>
+		<Page Image="3" ImageWidth="700" ImageHeight="1043" ImageSize="171265"/>
+		<Page Image="4" ImageWidth="700" ImageHeight="1027" ImageSize="161633"/>
+		<Page Image="5" ImageWidth="700" ImageHeight="1060" ImageSize="148821"/>
+		<Page Image="6" ImageWidth="700" ImageHeight="1051" ImageSize="168771"/>
+		<Page Image="7" ImageWidth="700" ImageHeight="1057" ImageSize="159993"/>
+		<Page Image="8" ImageWidth="700" ImageHeight="1047" ImageSize="159003"/>
+		<Page Image="9" ImageWidth="700" ImageHeight="1051" ImageSize="176916"/>
+		<Page Image="10" ImageWidth="700" ImageHeight="1048" ImageSize="159448"/>
+		<Page Image="11" ImageWidth="700" ImageHeight="1045" ImageSize="155633"/>
+		<Page Image="12" ImageWidth="700" ImageHeight="1052" ImageSize="180257"/>
+		<Page Image="13" ImageWidth="700" ImageHeight="1046" ImageSize="170132"/>
+		<Page Image="14" ImageWidth="700" ImageHeight="1049" ImageSize="124106"/>
+		<Page Image="15" ImageWidth="700" ImageHeight="1050" ImageSize="139027"/>
+		<Page Image="16" ImageWidth="700" ImageHeight="1059" ImageSize="117439"/>
+		<Page Image="17" ImageWidth="700" ImageHeight="1066" ImageSize="128751"/>
+		<Page Image="18" ImageWidth="700" ImageHeight="1055" ImageSize="151557"/>
+		<Page Image="19" ImageWidth="700" ImageHeight="1051" ImageSize="146658"/>
+		<Page Image="20" ImageWidth="700" ImageHeight="1064" ImageSize="150660"/>
+		<Page Image="21" ImageWidth="700" ImageHeight="1039" ImageSize="180541"/>
+		<Page Image="22" ImageWidth="700" ImageHeight="1058" ImageSize="151760"/>
+		<Page Image="23" ImageWidth="700" ImageHeight="1052" ImageSize="154891"/>
+		<Page Image="24" ImageWidth="700" ImageHeight="1044" ImageSize="133773"/>
+		<Page Image="25" ImageWidth="700" ImageHeight="1054" ImageSize="131257"/>
+		<Page Image="26" ImageWidth="700" ImageHeight="1040" ImageSize="108053"/>
+		<Page Image="27" ImageWidth="700" ImageHeight="1049" ImageSize="166082"/>
+		<Page Image="28" ImageWidth="700" ImageHeight="1041" ImageSize="114058"/>
+		<Page Image="29" ImageWidth="700" ImageHeight="1046" ImageSize="120849"/>
+		<Page Image="30" ImageWidth="700" ImageHeight="1048" ImageSize="187669"/>
+		<Page Image="31" ImageWidth="700" ImageHeight="1039" ImageSize="174658"/>
+		<Page Image="32" ImageWidth="700" ImageHeight="1052" ImageSize="169975"/>
+		<Page Image="33" ImageWidth="700" ImageHeight="1052" ImageSize="178732"/>
+		<Page Image="34" ImageWidth="700" ImageHeight="1058" ImageSize="162848"/>
+		<Page Image="35" ImageWidth="700" ImageHeight="1056" ImageSize="143321"/>
+		<Page Image="36" ImageWidth="700" ImageHeight="1051" ImageSize="123183"/>
+		<Page Image="37" ImageWidth="700" ImageHeight="1051" ImageSize="122999"/>
+		<Page Image="38" ImageWidth="700" ImageHeight="1050" ImageSize="88342"/>
+		<Page Image="39" ImageWidth="700" ImageHeight="1046" ImageSize="113312"/>
+		<Page Image="40" ImageWidth="700" ImageHeight="1050" ImageSize="77837"/>
+		<Page Image="41" ImageWidth="700" ImageHeight="1043" ImageSize="102171"/>
+		<Page Image="42" ImageWidth="700" ImageHeight="1055" ImageSize="89214"/>
+		<Page Image="43" ImageWidth="700" ImageHeight="1039" ImageSize="82329"/>
+		<Page Image="44" ImageWidth="700" ImageHeight="1055" ImageSize="161551"/>
+		<Page Image="45" ImageWidth="700" ImageHeight="1051" ImageSize="175658"/>
+		<Page Image="46" ImageWidth="700" ImageHeight="1048" ImageSize="116182"/>
+		<Page Image="47" ImageWidth="700" ImageHeight="1040" ImageSize="140195"/>
+		<Page Image="48" ImageWidth="700" ImageHeight="1049" ImageSize="169334"/>
+		<Page Image="49" ImageWidth="700" ImageHeight="1042" ImageSize="157751"/>
+		<Page Image="50" ImageWidth="700" ImageHeight="1052" ImageSize="160999"/>
+		<Page Image="51" ImageWidth="700" ImageHeight="1053" ImageSize="149221"/>
+		<Page Image="52" ImageWidth="700" ImageHeight="1046" ImageSize="126744"/>
+		<Page Image="53" ImageWidth="700" ImageHeight="1051" ImageSize="131643"/>
+		<Page Image="54" ImageWidth="700" ImageHeight="1044" ImageSize="103733"/>
+		<Page Image="55" ImageWidth="700" ImageHeight="1046" ImageSize="124281"/>
+		<Page Image="56" ImageWidth="700" ImageHeight="1046" ImageSize="129291"/>
+		<Page Image="57" ImageWidth="700" ImageHeight="1053" ImageSize="154022"/>
+		<Page Image="58" ImageWidth="700" ImageHeight="1053" ImageSize="164097"/>
+		<Page Image="59" ImageWidth="700" ImageHeight="1048" ImageSize="173456"/>
+		<Page Image="60" ImageWidth="700" ImageHeight="1048" ImageSize="169103"/>
+		<Page Image="61" ImageWidth="700" ImageHeight="1047" ImageSize="129380"/>
+		<Page Image="62" ImageWidth="700" ImageHeight="1049" ImageSize="173409"/>
+		<Page Image="63" ImageWidth="700" ImageHeight="1057" ImageSize="131038"/>
+		<Page Image="64" ImageWidth="700" ImageHeight="1038" ImageSize="139409"/>
+		<Page Image="65" ImageWidth="700" ImageHeight="1054" ImageSize="139873"/>
+		<Page Image="66" ImageWidth="700" ImageHeight="1047" ImageSize="129209"/>
+		<Page Image="67" ImageWidth="700" ImageHeight="1050" ImageSize="158260"/>
+		<Page Image="68" ImageWidth="700" ImageHeight="1051" ImageSize="123106"/>
+		<Page Image="69" ImageWidth="700" ImageHeight="1047" ImageSize="126256"/>
+		<Page Image="70" ImageWidth="700" ImageHeight="1043" ImageSize="133442"/>
+		<Page Image="71" ImageWidth="700" ImageHeight="1056" ImageSize="133068"/>
+		<Page Image="72" ImageWidth="700" ImageHeight="1044" ImageSize="147723"/>
+		<Page Image="73" ImageWidth="700" ImageHeight="1049" ImageSize="128866"/>
+		<Page Image="74" ImageWidth="700" ImageHeight="1052" ImageSize="124758"/>
+		<Page Image="75" ImageWidth="700" ImageHeight="1047" ImageSize="125793"/>
+		<Page Image="76" ImageWidth="700" ImageHeight="1053" ImageSize="137570"/>
+		<Page Image="77" ImageWidth="700" ImageHeight="1055" ImageSize="149742"/>
+		<Page Image="78" ImageWidth="700" ImageHeight="1050" ImageSize="125324"/>
+		<Page Image="79" ImageWidth="700" ImageHeight="1048" ImageSize="119196"/>
+		<Page Image="80" ImageWidth="700" ImageHeight="1051" ImageSize="153777"/>
+		<Page Image="81" ImageWidth="700" ImageHeight="1057" ImageSize="175635"/>
+		<Page Image="82" ImageWidth="700" ImageHeight="1048" ImageSize="156118"/>
+		<Page Image="83" ImageWidth="700" ImageHeight="1091" ImageSize="121249"/>
+		<Page Image="84" ImageWidth="700" ImageHeight="1053" ImageSize="168585"/>
+		<Page Image="85" ImageWidth="700" ImageHeight="1050" ImageSize="147099"/>
+		<Page Image="86" ImageWidth="700" ImageHeight="1050" ImageSize="181018"/>
+		<Page Image="87" ImageWidth="700" ImageHeight="1050" ImageSize="175997"/>
+		<Page Image="88" ImageWidth="700" ImageHeight="1050" ImageSize="131084"/>
+		<Page Image="89" ImageWidth="700" ImageHeight="1051" ImageSize="180137"/>
+		<Page Image="90" ImageWidth="1395" ImageHeight="1029" ImageSize="1040519"/>
+		<Page Image="91" ImageWidth="700" ImageHeight="1036" ImageSize="152105"/>
+		<Page Image="92" ImageWidth="700" ImageHeight="1056" ImageSize="191265"/>
+		<Page Image="93" ImageWidth="700" ImageHeight="1046" ImageSize="141473"/>
+		<Page Image="94" ImageWidth="700" ImageHeight="1043" ImageSize="147531"/>
+		<Page Image="95" ImageWidth="700" ImageHeight="1026" ImageSize="154486"/>
+		<Page Image="96" ImageWidth="700" ImageHeight="1040" ImageSize="147894"/>
+		<Page Image="97" ImageWidth="700" ImageHeight="1045" ImageSize="163194"/>
+		<Page Image="98" ImageWidth="700" ImageHeight="1050" ImageSize="178698"/>
+		<Page Image="99" ImageWidth="700" ImageHeight="1056" ImageSize="179997"/>
+		<Page Image="100" ImageWidth="700" ImageHeight="1051" ImageSize="145271"/>
+		<Page Image="101" ImageWidth="700" ImageHeight="1046" ImageSize="163156"/>
+		<Page Image="102" ImageWidth="700" ImageHeight="1045" ImageSize="152570"/>
+		<Page Image="103" ImageWidth="700" ImageHeight="1051" ImageSize="138258"/>
+		<Page Image="104" ImageWidth="700" ImageHeight="1057" ImageSize="161832"/>
+		<Page Image="105" ImageWidth="700" ImageHeight="1049" ImageSize="173882"/>
+		<Page Image="106" ImageWidth="700" ImageHeight="1049" ImageSize="167374"/>
+		<Page Image="107" ImageWidth="700" ImageHeight="1052" ImageSize="161841"/>
+		<Page Image="108" ImageWidth="700" ImageHeight="1060" ImageSize="175995"/>
+		<Page Image="109" ImageWidth="700" ImageHeight="1045" ImageSize="172095"/>
+		<Page Image="110" ImageWidth="700" ImageHeight="1058" ImageSize="155090"/>
+		<Page Image="111" ImageWidth="700" ImageHeight="1051" ImageSize="165060"/>
+		<Page Image="112" ImageWidth="700" ImageHeight="1050" ImageSize="170187"/>
+		<Page Image="113" ImageWidth="700" ImageHeight="1048" ImageSize="106744"/>
+		<Page Image="114" ImageWidth="700" ImageHeight="1054" ImageSize="122570"/>
+		<Page Image="115" ImageWidth="700" ImageHeight="1047" ImageSize="84428"/>
+		<Page Image="116" ImageWidth="700" ImageHeight="1051" ImageSize="84827"/>
+		<Page Image="117" ImageWidth="700" ImageHeight="1056" ImageSize="100801"/>
+		<Page Image="118" ImageWidth="700" ImageHeight="1026" ImageSize="133437"/>
+		<Page Image="119" ImageWidth="700" ImageHeight="1060" ImageSize="84646"/>
+		<Page Image="120" ImageWidth="700" ImageHeight="1035" ImageSize="127671"/>
+		<Page Image="121" ImageWidth="700" ImageHeight="1054" ImageSize="171781"/>
+		<Page Image="122" ImageWidth="700" ImageHeight="1043" ImageSize="131316"/>
+		<Page Image="123" ImageWidth="1393" ImageHeight="1033" ImageSize="1148924"/>
+		<Page Image="124" ImageWidth="700" ImageHeight="1046" ImageSize="165605"/>
+		<Page Image="125" ImageWidth="700" ImageHeight="1015" ImageSize="160775"/>
+		<Page Image="126" ImageWidth="700" ImageHeight="1046" ImageSize="148909"/>
+		<Page Image="127" ImageWidth="700" ImageHeight="1047" ImageSize="151759"/>
+		<Page Image="128" ImageWidth="700" ImageHeight="1056" ImageSize="160720"/>
+		<Page Image="129" ImageWidth="700" ImageHeight="1049" ImageSize="165850"/>
+		<Page Image="130" ImageWidth="700" ImageHeight="1031" ImageSize="124588"/>
+		<Page Image="131" ImageWidth="700" ImageHeight="1044" ImageSize="146036"/>
+		<Page Image="132" ImageWidth="700" ImageHeight="1053" ImageSize="177948"/>
+		<Page Image="133" ImageWidth="700" ImageHeight="1047" ImageSize="186616"/>
+		<Page Image="134" ImageWidth="700" ImageHeight="1051" ImageSize="159034"/>
+		<Page Image="135" ImageWidth="700" ImageHeight="1052" ImageSize="181365"/>
+		<Page Image="136" ImageWidth="700" ImageHeight="1047" ImageSize="191277"/>
+		<Page Image="137" ImageWidth="700" ImageHeight="1054" ImageSize="171227"/>
+		<Page Image="138" ImageWidth="700" ImageHeight="1043" ImageSize="147047"/>
+		<Page Image="139" ImageWidth="700" ImageHeight="1042" ImageSize="189324"/>
+		<Page Image="140" ImageWidth="700" ImageHeight="1056" ImageSize="191707"/>
+		<Page Image="141" ImageWidth="700" ImageHeight="1044" ImageSize="167392"/>
+		<Page Image="142" ImageWidth="700" ImageHeight="1059" ImageSize="335642"/>
+		<Page Image="143" ImageWidth="700" ImageHeight="1056" ImageSize="147303"/>
+		<Page Image="144" ImageWidth="700" ImageHeight="1034" ImageSize="169738"/>
+		<Page Image="145" ImageWidth="700" ImageHeight="1059" ImageSize="196454"/>
+		<Page Image="146" ImageWidth="700" ImageHeight="1048" ImageSize="175581"/>
+		<Page Image="147" ImageWidth="700" ImageHeight="1052" ImageSize="121559"/>
+		<Page Image="148" ImageWidth="700" ImageHeight="1041" ImageSize="140261"/>
+		<Page Image="149" ImageWidth="700" ImageHeight="1033" ImageSize="144595"/>
+		<Page Image="150" ImageSize="73730"/>
+	</Pages>
+	<Penciller>Phil Foglio</Penciller>
+	<Publisher>Airship Entertainment</Publisher>
+	<ScanInformation>(Webcomic) (compiled by Helga Phugly)</ScanInformation>
+	<Series>Girl Genius</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-11 09:22:57.  [Issue ID 130682]
+
+https://comicvine.gamespot.com/girl-genius-6/4000-130682/</Summary>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/girl-genius-6/4000-130682/</Web>
+	<Writer>Phil Foglio</Writer>
+	<Year>2002</Year>
+</ComicInfo>

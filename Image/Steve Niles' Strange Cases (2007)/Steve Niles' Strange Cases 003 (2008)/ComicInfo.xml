@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Colorist>Bill Bronson</Colorist>
+  <Count>4</Count>
+  <Day>31</Day>
+  <GTIN>urn:comicvine:4000-171339</GTIN>
+  <Letterer>Jason William Hanley</Letterer>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:26:25 [Issue ID 4000-171339] urn:comicvine:4000-171339
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 14:49:16. [Issue ID 171339]</Notes>
+  <Number>3</Number>
+  <PageCount>21</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="500411" Type="FrontCover" />
+    <Page Image="1" ImageSize="429689" />
+    <Page Image="2" ImageSize="463741" />
+    <Page Image="3" ImageSize="460431" />
+    <Page Image="4" ImageSize="539938" />
+    <Page Image="5" ImageSize="446378" />
+    <Page Image="6" ImageSize="512987" />
+    <Page Image="7" ImageSize="404487" />
+    <Page Image="8" ImageSize="488458" />
+    <Page Image="9" ImageSize="447400" />
+    <Page Image="10" ImageSize="457331" />
+    <Page Image="11" ImageSize="464864" />
+    <Page Image="12" ImageSize="487126" />
+    <Page Image="13" ImageSize="550912" />
+    <Page Image="14" ImageSize="541480" />
+    <Page Image="15" ImageSize="505634" />
+    <Page Image="16" ImageSize="459397" />
+    <Page Image="17" ImageSize="521624" />
+    <Page Image="18" ImageSize="530677" />
+    <Page Image="19" ImageSize="621533" />
+    <Page Image="20" ImageSize="98545" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Steve Niles' Strange Cases</Series>
+  <Title>White Fur</Title>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/steve-niles-strange-cases-3-white-fur/4000-171339/</Web>
+  <Writer>Dan Wickline</Writer>
+  <Year>2008</Year>
+  <Penciller>David Hartman</Penciller>
+  <CoverArtist>David Hartman</CoverArtist>
+</ComicInfo>

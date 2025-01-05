@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Shi</Characters>
+  <Count>3</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-806766</GTIN>
+  <Inker>Matt Martin</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:32:27 [Issue ID 4000-806766] urn:comicvine:4000-806766 urn:grandcomicsdatabase:issue/806766
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:10:57. [Issue ID 806766]</Notes>
+  <Number>1</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="411159" Type="FrontCover" />
+    <Page Image="1" ImageSize="350464" />
+    <Page Image="2" ImageSize="367726" />
+    <Page Image="3" ImageSize="526241" />
+    <Page Image="4" ImageSize="497066" />
+    <Page Image="5" ImageSize="617650" />
+    <Page Image="6" ImageSize="392268" />
+    <Page Image="7" ImageSize="470905" />
+    <Page Image="8" ImageSize="516764" />
+    <Page Image="9" ImageSize="411847" />
+    <Page Image="10" ImageSize="550680" />
+    <Page Image="11" ImageSize="574932" />
+    <Page Image="12" ImageSize="370199" />
+    <Page Image="13" ImageSize="469039" />
+    <Page Image="14" ImageSize="532054" />
+    <Page Image="15" ImageSize="525711" />
+    <Page Image="16" ImageSize="444193" />
+    <Page Image="17" ImageSize="510391" />
+    <Page Image="18" ImageSize="425596" />
+    <Page Image="19" ImageSize="370946" />
+    <Page Image="20" ImageSize="417009" />
+    <Page Image="21" ImageSize="414129" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Shi: Sempo</Series>
+  <Summary>Shi is back with an all-new series that takes place during WWII! Shi must escort Japanese General Sempo Sugihara while he provides an escape for thousands of Jewish refugees. But she is going to have to protect him from rogue Japanese samurai, Russian soldiers and Nazi spies who all want him dead!</Summary>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-806766/</Web>
+  <Year>2003</Year>
+</ComicInfo>

@@ -1,0 +1,182 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Mary Parker,Richard Parker,Spider-Man,Silk,Deadpool</Characters>
+  <Colorist>Andrew Crossley,Brian Reber,Jim Campbell,Ian Herring</Colorist>
+  <Count>1</Count>
+  <Day>28</Day>
+  <Editor>Nick Lowe,Caitlin O'Connell,Jennifer Grunwald,Kateri Woody,Kathleen Wisneski,Mark D. Beazley</Editor>
+  <GTIN>urn:comixology:713053</GTIN>
+  <Genre>Superhero</Genre>
+  <Inker>Cam Smith,Craig Yeung,Flaviano Armentaro,John Livesay,Keith Champagne,Matt Horak,Sean Parsons,Flaviano Armentaro,Jim Towe,Matt Horak,Scott Hepburn</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Joe Sabino</Letterer>
+  <Locations>Savage Land</Locations>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T14:38:51 [Issue ID 4000-693474] urn:comicvine:4000-693474 urn:comixology:713053
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-21 07:18:13. [Issue ID 693474]</Notes>
+  <Number>1</Number>
+  <PageCount>150</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="1862172" ImageWidth="1987" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="515855" ImageWidth="1987" />
+    <Page Image="2" ImageHeight="3056" ImageSize="520126" ImageWidth="1987" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1114245" ImageWidth="1987" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1553259" ImageWidth="1987" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1808548" ImageWidth="1987" />
+    <Page Image="6" ImageHeight="3056" ImageSize="2082913" ImageWidth="1987" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1823469" ImageWidth="1987" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1731674" ImageWidth="1987" />
+    <Page Image="9" ImageHeight="3056" ImageSize="2101194" ImageWidth="1987" />
+    <Page Image="10" ImageHeight="3056" ImageSize="2055355" ImageWidth="1987" />
+    <Page Image="11" ImageHeight="3056" ImageSize="2311945" ImageWidth="1987" />
+    <Page Image="12" ImageHeight="3056" ImageSize="2088271" ImageWidth="1987" />
+    <Page Image="13" ImageHeight="3056" ImageSize="2101402" ImageWidth="1987" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2143408" ImageWidth="1987" />
+    <Page Image="15" ImageHeight="3056" ImageSize="2012210" ImageWidth="1987" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1712109" ImageWidth="1987" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1935841" ImageWidth="1987" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1809960" ImageWidth="1987" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2003331" ImageWidth="1987" />
+    <Page Image="20" ImageHeight="3056" ImageSize="1695931" ImageWidth="1987" />
+    <Page Image="21" ImageHeight="3056" ImageSize="2434000" ImageWidth="1987" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1848127" ImageWidth="1987" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2531590" ImageWidth="1987" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1798070" ImageWidth="1987" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1205373" ImageWidth="1987" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1027776" ImageWidth="1987" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1043064" ImageWidth="1987" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1388642" ImageWidth="1987" />
+    <Page Image="29" ImageHeight="3056" ImageSize="1485822" ImageWidth="1987" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1311153" ImageWidth="1987" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1418015" ImageWidth="1987" />
+    <Page Image="32" ImageHeight="3056" ImageSize="1224266" ImageWidth="1987" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1499865" ImageWidth="1987" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1237858" ImageWidth="1987" />
+    <Page Image="35" ImageHeight="3056" ImageSize="1361831" ImageWidth="1987" />
+    <Page Image="36" ImageHeight="3056" ImageSize="2855666" ImageWidth="3975" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1106215" ImageWidth="1987" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1573037" ImageWidth="1987" />
+    <Page Image="39" ImageHeight="3056" ImageSize="3020110" ImageWidth="3975" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1051254" ImageWidth="1987" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1200755" ImageWidth="1987" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1383172" ImageWidth="1987" />
+    <Page Image="43" ImageHeight="3056" ImageSize="1272450" ImageWidth="1987" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1042944" ImageWidth="1987" />
+    <Page Image="45" ImageHeight="3056" ImageSize="1043537" ImageWidth="1987" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1276676" ImageWidth="1987" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1665513" ImageWidth="1987" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1658119" ImageWidth="1987" />
+    <Page Image="49" ImageHeight="3056" ImageSize="1657969" ImageWidth="1987" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1706246" ImageWidth="1987" />
+    <Page Image="51" ImageHeight="3056" ImageSize="1455047" ImageWidth="1987" />
+    <Page Image="52" ImageHeight="3056" ImageSize="2879162" ImageWidth="3975" />
+    <Page Image="53" ImageHeight="3056" ImageSize="1268633" ImageWidth="1987" />
+    <Page Image="54" ImageHeight="3056" ImageSize="1929096" ImageWidth="1987" />
+    <Page Image="55" ImageHeight="3056" ImageSize="3448588" ImageWidth="3975" />
+    <Page Image="56" ImageHeight="3056" ImageSize="1502276" ImageWidth="1987" />
+    <Page Image="57" ImageHeight="3056" ImageSize="1611575" ImageWidth="1987" />
+    <Page Image="58" ImageHeight="3056" ImageSize="1133795" ImageWidth="1987" />
+    <Page Image="59" ImageHeight="3056" ImageSize="791290" ImageWidth="1987" />
+    <Page Image="60" ImageHeight="3056" ImageSize="1863020" ImageWidth="1987" />
+    <Page Image="61" ImageHeight="3056" ImageSize="1495454" ImageWidth="1987" />
+    <Page Image="62" ImageHeight="3056" ImageSize="1233276" ImageWidth="1987" />
+    <Page Image="63" ImageHeight="3056" ImageSize="1190537" ImageWidth="1987" />
+    <Page Image="64" ImageHeight="3056" ImageSize="1824845" ImageWidth="1987" />
+    <Page Image="65" ImageHeight="3056" ImageSize="1654973" ImageWidth="1987" />
+    <Page Image="66" ImageHeight="3056" ImageSize="1718211" ImageWidth="1987" />
+    <Page Image="67" ImageHeight="3056" ImageSize="1191711" ImageWidth="1987" />
+    <Page Image="68" ImageHeight="3056" ImageSize="1630104" ImageWidth="1987" />
+    <Page Image="69" ImageHeight="3056" ImageSize="1440452" ImageWidth="1987" />
+    <Page Image="70" ImageHeight="3056" ImageSize="1373553" ImageWidth="1987" />
+    <Page Image="71" ImageHeight="3056" ImageSize="1422182" ImageWidth="1987" />
+    <Page Image="72" ImageHeight="3056" ImageSize="1297712" ImageWidth="1987" />
+    <Page Image="73" ImageHeight="3056" ImageSize="1023978" ImageWidth="1987" />
+    <Page Image="74" ImageHeight="3056" ImageSize="1418651" ImageWidth="1987" />
+    <Page Image="75" ImageHeight="3056" ImageSize="1744607" ImageWidth="1987" />
+    <Page Image="76" ImageHeight="3056" ImageSize="1782527" ImageWidth="1987" />
+    <Page Image="77" ImageHeight="3056" ImageSize="1372073" ImageWidth="1987" />
+    <Page Image="78" ImageHeight="3056" ImageSize="1012551" ImageWidth="1987" />
+    <Page Image="79" ImageHeight="3056" ImageSize="1834160" ImageWidth="1987" />
+    <Page Image="80" ImageHeight="3056" ImageSize="1417984" ImageWidth="1987" />
+    <Page Image="81" ImageHeight="3056" ImageSize="1597557" ImageWidth="1987" />
+    <Page Image="82" ImageHeight="3056" ImageSize="1577882" ImageWidth="1987" />
+    <Page Image="83" ImageHeight="3056" ImageSize="1861959" ImageWidth="1987" />
+    <Page Image="84" ImageHeight="3056" ImageSize="1376663" ImageWidth="1987" />
+    <Page Image="85" ImageHeight="3056" ImageSize="1382033" ImageWidth="1987" />
+    <Page Image="86" ImageHeight="3056" ImageSize="1698161" ImageWidth="1987" />
+    <Page Image="87" ImageHeight="3056" ImageSize="1691764" ImageWidth="1987" />
+    <Page Image="88" ImageHeight="3056" ImageSize="1580859" ImageWidth="1987" />
+    <Page Image="89" ImageHeight="3056" ImageSize="1386030" ImageWidth="1987" />
+    <Page Image="90" ImageHeight="3056" ImageSize="1399252" ImageWidth="1987" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1762138" ImageWidth="1987" />
+    <Page Image="92" ImageHeight="3056" ImageSize="1902119" ImageWidth="1987" />
+    <Page Image="93" ImageHeight="3056" ImageSize="1569481" ImageWidth="1987" />
+    <Page Image="94" ImageHeight="3056" ImageSize="1567843" ImageWidth="1987" />
+    <Page Image="95" ImageHeight="3056" ImageSize="1787104" ImageWidth="1987" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1582922" ImageWidth="1987" />
+    <Page Image="97" ImageHeight="3056" ImageSize="1439299" ImageWidth="1987" />
+    <Page Image="98" ImageHeight="3056" ImageSize="1604628" ImageWidth="1987" />
+    <Page Image="99" ImageHeight="3056" ImageSize="1518859" ImageWidth="1987" />
+    <Page Image="100" ImageHeight="3056" ImageSize="1483095" ImageWidth="1987" />
+    <Page Image="101" ImageHeight="3056" ImageSize="1506096" ImageWidth="1987" />
+    <Page Image="102" ImageHeight="3056" ImageSize="2030178" ImageWidth="1987" />
+    <Page Image="103" ImageHeight="3056" ImageSize="1822109" ImageWidth="1987" />
+    <Page Image="104" ImageHeight="3056" ImageSize="1779567" ImageWidth="1987" />
+    <Page Image="105" ImageHeight="3056" ImageSize="1202585" ImageWidth="1987" />
+    <Page Image="106" ImageHeight="3056" ImageSize="1793646" ImageWidth="1987" />
+    <Page Image="107" ImageHeight="3056" ImageSize="1717047" ImageWidth="1987" />
+    <Page Image="108" ImageHeight="3056" ImageSize="1719106" ImageWidth="1987" />
+    <Page Image="109" ImageHeight="3056" ImageSize="1940128" ImageWidth="1987" />
+    <Page Image="110" ImageHeight="3056" ImageSize="1794355" ImageWidth="1987" />
+    <Page Image="111" ImageHeight="3056" ImageSize="1806973" ImageWidth="1987" />
+    <Page Image="112" ImageHeight="3056" ImageSize="1826595" ImageWidth="1987" />
+    <Page Image="113" ImageHeight="3056" ImageSize="1588875" ImageWidth="1987" />
+    <Page Image="114" ImageHeight="3056" ImageSize="1311794" ImageWidth="1987" />
+    <Page Image="115" ImageHeight="3056" ImageSize="1686263" ImageWidth="1987" />
+    <Page Image="116" ImageHeight="3056" ImageSize="2449456" ImageWidth="1987" />
+    <Page Image="117" ImageHeight="3056" ImageSize="1582360" ImageWidth="1987" />
+    <Page Image="118" ImageHeight="3056" ImageSize="1664668" ImageWidth="1987" />
+    <Page Image="119" ImageHeight="3056" ImageSize="1623828" ImageWidth="1987" />
+    <Page Image="120" ImageHeight="3056" ImageSize="1471028" ImageWidth="1987" />
+    <Page Image="121" ImageHeight="3056" ImageSize="1872657" ImageWidth="1987" />
+    <Page Image="122" ImageHeight="3056" ImageSize="1666612" ImageWidth="1987" />
+    <Page Image="123" ImageHeight="3056" ImageSize="1603300" ImageWidth="1987" />
+    <Page Image="124" ImageHeight="3056" ImageSize="1643165" ImageWidth="1987" />
+    <Page Image="125" ImageHeight="3056" ImageSize="1719283" ImageWidth="1987" />
+    <Page Image="126" ImageHeight="3056" ImageSize="957658" ImageWidth="1987" />
+    <Page Image="127" ImageHeight="3056" ImageSize="1719960" ImageWidth="1987" />
+    <Page Image="128" ImageHeight="3056" ImageSize="1381077" ImageWidth="1987" />
+    <Page Image="129" ImageHeight="3056" ImageSize="1137764" ImageWidth="1987" />
+    <Page Image="130" ImageHeight="3056" ImageSize="1411636" ImageWidth="1987" />
+    <Page Image="131" ImageHeight="3056" ImageSize="1705486" ImageWidth="1987" />
+    <Page Image="132" ImageHeight="3056" ImageSize="986504" ImageWidth="1987" />
+    <Page Image="133" ImageHeight="3056" ImageSize="1359876" ImageWidth="1987" />
+    <Page Image="134" ImageHeight="3056" ImageSize="1468037" ImageWidth="1987" />
+    <Page Image="135" ImageHeight="3056" ImageSize="1589357" ImageWidth="1987" />
+    <Page Image="136" ImageHeight="3056" ImageSize="1373372" ImageWidth="1987" />
+    <Page Image="137" ImageHeight="3056" ImageSize="1435899" ImageWidth="1987" />
+    <Page Image="138" ImageHeight="3056" ImageSize="1635143" ImageWidth="1987" />
+    <Page Image="139" ImageHeight="3056" ImageSize="1422687" ImageWidth="1987" />
+    <Page Image="140" ImageHeight="3056" ImageSize="1584405" ImageWidth="1987" />
+    <Page Image="141" ImageHeight="3056" ImageSize="1303770" ImageWidth="1987" />
+    <Page Image="142" ImageHeight="3056" ImageSize="1176664" ImageWidth="1987" />
+    <Page Image="143" ImageHeight="3056" ImageSize="1182732" ImageWidth="1987" />
+    <Page Image="144" ImageHeight="3056" ImageSize="1055156" ImageWidth="1987" />
+    <Page Image="145" ImageHeight="3056" ImageSize="1368528" ImageWidth="1987" />
+    <Page Image="146" ImageHeight="3056" ImageSize="1581578" ImageWidth="1987" />
+    <Page Image="147" ImageHeight="3056" ImageSize="1454041" ImageWidth="1987" />
+    <Page Image="148" ImageHeight="3056" ImageSize="1417686" ImageWidth="1987" />
+    <Page Image="149" ImageSize="1216767" />
+  </Pages>
+  <Penciller>Flaviano Armentaro,Jim Towe,Matt Horak,Flaviano Armentaro,Jim Towe,Matt Horak,Scott Hepburn</Penciller>
+  <Publisher>Marvel</Publisher>
+  <ScanInformation>Kileko-Empire</ScanInformation>
+  <Series>Spider-Man/Deadpool: My Two Dads</Series>
+  <Summary>It's the Planet of the 'Pools! But what dark technology from the secret recesses of S.H.I.E.L.D. history powers this army of LMD-eadpools? And what does it have to do with Mary and Richard Parker, the Amazing Spider-Parents? Just when you thought you could trust that those two people were without blemish, Deadpool somehow ruins them, too. Plus, to defeat the Faux-pool who took his ability to walk, Old Man Parker will have to make a decision that alters his future - and our present! And meet the Master Matrix: They might be the most powerful android on Earth - but they're a total amateur at personhood. Who better to teach them how to be a human being than Spider-Man and Deadpool? Master Matrix stars in "My Two Super-Dads" - and this dysfunctional family is heading for the Savage Land! Collecting SPIDER-MAN/DEADPOOL #34-39.</Summary>
+  <Teams>S.H.I.E.L.D.</Teams>
+  <Title>Volume 7</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/spider-mandeadpool-my-two-dads-1-volume-7/4000-693474/</Web>
+  <Writer>Robbie Thompson</Writer>
+  <Year>2018</Year>
+  <CoverArtist>Ian Herring,Scott Hepburn</CoverArtist>
+</ComicInfo>

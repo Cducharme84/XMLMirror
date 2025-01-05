@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>1</Count>
+  <GTIN>urn:comicvine:4000-421568</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:30:06 [Issue ID 4000-421568] urn:comicvine:4000-421568
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:07:02. [Issue ID 2514315]</Notes>
+  <Number>1</Number>
+  <PageCount>64</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1600" ImageSize="400455" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1600" ImageSize="341948" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1613" ImageSize="254877" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1613" ImageSize="252570" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1614" ImageSize="329819" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1618" ImageSize="254828" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1619" ImageSize="204813" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1621" ImageSize="237215" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1619" ImageSize="229704" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1618" ImageSize="217261" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1623" ImageSize="197596" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1622" ImageSize="237261" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1625" ImageSize="219721" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1619" ImageSize="228789" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1622" ImageSize="205001" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1629" ImageSize="278538" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1623" ImageSize="200309" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1626" ImageSize="219158" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1629" ImageSize="225429" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1627" ImageSize="192279" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1626" ImageSize="193019" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1631" ImageSize="196710" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1627" ImageSize="212321" ImageWidth="1024" />
+    <Page Image="23" ImageHeight="1633" ImageSize="146403" ImageWidth="1024" />
+    <Page Image="24" ImageHeight="1627" ImageSize="224116" ImageWidth="1024" />
+    <Page Image="25" ImageHeight="1630" ImageSize="169418" ImageWidth="1024" />
+    <Page Image="26" ImageHeight="1630" ImageSize="209657" ImageWidth="1024" />
+    <Page Image="27" ImageHeight="1637" ImageSize="199539" ImageWidth="1024" />
+    <Page Image="28" ImageHeight="1630" ImageSize="194727" ImageWidth="1024" />
+    <Page Image="29" ImageHeight="1630" ImageSize="197783" ImageWidth="1024" />
+    <Page Image="30" ImageHeight="1630" ImageSize="213233" ImageWidth="1024" />
+    <Page Image="31" ImageHeight="1637" ImageSize="179562" ImageWidth="1024" />
+    <Page Image="32" ImageHeight="1627" ImageSize="179454" ImageWidth="1024" />
+    <Page Image="33" ImageHeight="1630" ImageSize="259264" ImageWidth="1024" />
+    <Page Image="34" ImageHeight="1615" ImageSize="192009" ImageWidth="1024" />
+    <Page Image="35" ImageHeight="1624" ImageSize="152220" ImageWidth="1024" />
+    <Page Image="36" ImageHeight="1631" ImageSize="218114" ImageWidth="1024" />
+    <Page Image="37" ImageHeight="1629" ImageSize="201928" ImageWidth="1024" />
+    <Page Image="38" ImageHeight="1638" ImageSize="171829" ImageWidth="1024" />
+    <Page Image="39" ImageHeight="1633" ImageSize="232098" ImageWidth="1024" />
+    <Page Image="40" ImageHeight="1634" ImageSize="236705" ImageWidth="1024" />
+    <Page Image="41" ImageHeight="1634" ImageSize="158457" ImageWidth="1024" />
+    <Page Image="42" ImageHeight="1633" ImageSize="235202" ImageWidth="1024" />
+    <Page Image="43" ImageHeight="1633" ImageSize="200082" ImageWidth="1024" />
+    <Page Image="44" ImageHeight="1637" ImageSize="190488" ImageWidth="1024" />
+    <Page Image="45" ImageHeight="1628" ImageSize="212502" ImageWidth="1024" />
+    <Page Image="46" ImageHeight="1638" ImageSize="170673" ImageWidth="1024" />
+    <Page Image="47" ImageHeight="1628" ImageSize="204971" ImageWidth="1024" />
+    <Page Image="48" ImageHeight="1606" ImageSize="190477" ImageWidth="1024" />
+    <Page Image="49" ImageHeight="1623" ImageSize="215721" ImageWidth="1024" />
+    <Page Image="50" ImageHeight="1630" ImageSize="170141" ImageWidth="1024" />
+    <Page Image="51" ImageHeight="1631" ImageSize="182508" ImageWidth="1024" />
+    <Page Image="52" ImageHeight="1634" ImageSize="169956" ImageWidth="1024" />
+    <Page Image="53" ImageHeight="1633" ImageSize="228875" ImageWidth="1024" />
+    <Page Image="54" ImageHeight="1633" ImageSize="196371" ImageWidth="1024" />
+    <Page Image="55" ImageHeight="1630" ImageSize="181171" ImageWidth="1024" />
+    <Page Image="56" ImageHeight="1633" ImageSize="171871" ImageWidth="1024" />
+    <Page Image="57" ImageHeight="1632" ImageSize="168223" ImageWidth="1024" />
+    <Page Image="58" ImageHeight="1627" ImageSize="142629" ImageWidth="1024" />
+    <Page Image="59" ImageHeight="1626" ImageSize="249778" ImageWidth="1024" />
+    <Page Image="60" ImageHeight="1625" ImageSize="256383" ImageWidth="1024" />
+    <Page Image="61" ImageHeight="1627" ImageSize="370584" ImageWidth="1024" />
+    <Page Image="62" ImageHeight="1616" ImageSize="364375" ImageWidth="1024" />
+    <Page Image="63" ImageSize="112416" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Dark Blue Scriptbook</Series>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/dark-blue-scriptbook-1/4000-421568/</Web>
+  <Year>2000</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

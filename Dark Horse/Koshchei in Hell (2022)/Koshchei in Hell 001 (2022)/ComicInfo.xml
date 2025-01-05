@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Koschei the Deathless,Edward Grey</Characters>
+  <Colorist>Dave Stewart</Colorist>
+  <Count>4</Count>
+  <Day>30</Day>
+  <Editor>Jenny Blenk,Katii O'Brien,Misha Gehr</Editor>
+  <GTIN>urn:comicvine:4000-958623</GTIN>
+  <Inker>Ben Stenbeck</Inker>
+  <Letterer>Clem Robins</Letterer>
+  <Locations>Hell,Pandemonium</Locations>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:10:59 [Issue ID 4000-958623] urn:comicvine:4000-958623
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 07:29:05. [Issue ID 2460123]</Notes>
+  <Number>1</Number>
+  <PageCount>145</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="955904" Type="FrontCover" />
+    <Page Image="1" ImageSize="352587" />
+    <Page Image="2" ImageSize="1091860" />
+    <Page Image="3" ImageSize="652108" />
+    <Page Image="4" ImageSize="1088583" />
+    <Page Image="5" ImageSize="789305" />
+    <Page Image="6" ImageSize="530734" />
+    <Page Image="7" ImageSize="1009147" />
+    <Page Image="8" ImageSize="1361616" />
+    <Page Image="9" ImageSize="1260909" />
+    <Page Image="10" ImageSize="1329485" />
+    <Page Image="11" ImageSize="1358862" />
+    <Page Image="12" ImageSize="1572755" />
+    <Page Image="13" ImageSize="1417961" />
+    <Page Image="14" ImageSize="1368455" />
+    <Page Image="15" ImageSize="1526680" />
+    <Page Image="16" ImageSize="1226967" />
+    <Page Image="17" ImageSize="1146034" />
+    <Page Image="18" ImageSize="1098351" />
+    <Page Image="19" ImageSize="1330272" />
+    <Page Image="20" ImageSize="1660413" />
+    <Page Image="21" ImageSize="1148437" />
+    <Page Image="22" ImageSize="1343972" />
+    <Page Image="23" ImageSize="1222538" />
+    <Page Image="24" ImageSize="1219447" />
+    <Page Image="25" ImageSize="1471270" />
+    <Page Image="26" ImageSize="1338563" />
+    <Page Image="27" ImageSize="1256737" />
+    <Page Image="28" ImageSize="659172" />
+    <Page Image="29" ImageSize="1305116" />
+    <Page Image="30" ImageSize="469395" />
+    <Page Image="31" ImageSize="1687946" />
+    <Page Image="32" ImageSize="1469582" />
+    <Page Image="33" ImageSize="1467100" />
+    <Page Image="34" ImageSize="1397419" />
+    <Page Image="35" ImageSize="1528424" />
+    <Page Image="36" ImageSize="1712140" />
+    <Page Image="37" ImageSize="1428385" />
+    <Page Image="38" ImageSize="1725883" />
+    <Page Image="39" ImageSize="2071145" />
+    <Page Image="40" ImageSize="1164031" />
+    <Page Image="41" ImageSize="1259841" />
+    <Page Image="42" ImageSize="1679284" />
+    <Page Image="43" ImageSize="1285612" />
+    <Page Image="44" ImageSize="1722092" />
+    <Page Image="45" ImageSize="1538862" />
+    <Page Image="46" ImageSize="1268848" />
+    <Page Image="47" ImageSize="1711091" />
+    <Page Image="48" ImageSize="1872658" />
+    <Page Image="49" ImageSize="2031864" />
+    <Page Image="50" ImageSize="2248524" />
+    <Page Image="51" ImageSize="1488655" />
+    <Page Image="52" ImageSize="1356110" />
+    <Page Image="53" ImageSize="1296232" />
+    <Page Image="54" ImageSize="521016" />
+    <Page Image="55" ImageSize="1541537" />
+    <Page Image="56" ImageSize="1407508" />
+    <Page Image="57" ImageSize="1611085" />
+    <Page Image="58" ImageSize="1812569" />
+    <Page Image="59" ImageSize="1829225" />
+    <Page Image="60" ImageSize="1697399" />
+    <Page Image="61" ImageSize="1743151" />
+    <Page Image="62" ImageSize="1668336" />
+    <Page Image="63" ImageSize="1804936" />
+    <Page Image="64" ImageSize="1813930" />
+    <Page Image="65" ImageSize="1735943" />
+    <Page Image="66" ImageSize="833663" />
+    <Page Image="67" ImageSize="1247674" />
+    <Page Image="68" ImageSize="1210367" />
+    <Page Image="69" ImageSize="1536502" />
+    <Page Image="70" ImageSize="1714751" />
+    <Page Image="71" ImageSize="1602182" />
+    <Page Image="72" ImageSize="1889855" />
+    <Page Image="73" ImageSize="1469806" />
+    <Page Image="74" ImageSize="1627546" />
+    <Page Image="75" ImageSize="1631608" />
+    <Page Image="76" ImageSize="1394651" />
+    <Page Image="77" ImageSize="1200882" />
+    <Page Image="78" ImageSize="640762" />
+    <Page Image="79" ImageSize="1561224" />
+    <Page Image="80" ImageSize="1454636" />
+    <Page Image="81" ImageSize="1681321" />
+    <Page Image="82" ImageSize="1835616" />
+    <Page Image="83" ImageSize="1631951" />
+    <Page Image="84" ImageSize="1874955" />
+    <Page Image="85" ImageSize="1877411" />
+    <Page Image="86" ImageSize="1985769" />
+    <Page Image="87" ImageSize="1640091" />
+    <Page Image="88" ImageSize="1643653" />
+    <Page Image="89" ImageSize="2172555" />
+    <Page Image="90" ImageSize="2446833" />
+    <Page Image="91" ImageSize="2473434" />
+    <Page Image="92" ImageSize="2516703" />
+    <Page Image="93" ImageSize="1758416" />
+    <Page Image="94" ImageSize="1987900" />
+    <Page Image="95" ImageSize="2192575" />
+    <Page Image="96" ImageSize="1608325" />
+    <Page Image="97" ImageSize="1497638" />
+    <Page Image="98" ImageSize="1674181" />
+    <Page Image="99" ImageSize="1627903" />
+    <Page Image="100" ImageSize="1039272" />
+    <Page Image="101" ImageSize="1398583" />
+    <Page Image="102" ImageSize="447606" />
+    <Page Image="103" ImageSize="1437783" />
+    <Page Image="104" ImageSize="1559828" />
+    <Page Image="105" ImageSize="1619868" />
+    <Page Image="106" ImageSize="1651069" />
+    <Page Image="107" ImageSize="1511011" />
+    <Page Image="108" ImageSize="1491787" />
+    <Page Image="109" ImageSize="1317036" />
+    <Page Image="110" ImageSize="1468898" />
+    <Page Image="111" ImageSize="1852742" />
+    <Page Image="112" ImageSize="1670469" />
+    <Page Image="113" ImageSize="1665376" />
+    <Page Image="114" ImageSize="1608389" />
+    <Page Image="115" ImageSize="1387416" />
+    <Page Image="116" ImageSize="1744396" />
+    <Page Image="117" ImageSize="1872593" />
+    <Page Image="118" ImageSize="1819533" />
+    <Page Image="119" ImageSize="1901254" />
+    <Page Image="120" ImageSize="1634382" />
+    <Page Image="121" ImageSize="1744614" />
+    <Page Image="122" ImageSize="2084411" />
+    <Page Image="123" ImageSize="1895297" />
+    <Page Image="124" ImageSize="2201589" />
+    <Page Image="125" ImageSize="1059584" />
+    <Page Image="126" ImageSize="1070706" />
+    <Page Image="127" ImageSize="1318525" />
+    <Page Image="128" ImageSize="1183342" />
+    <Page Image="129" ImageSize="1260663" />
+    <Page Image="130" ImageSize="1417493" />
+    <Page Image="131" ImageSize="639586" />
+    <Page Image="132" ImageSize="845743" />
+    <Page Image="133" ImageSize="964484" />
+    <Page Image="134" ImageSize="1175007" />
+    <Page Image="135" ImageSize="1175681" />
+    <Page Image="136" ImageSize="499040" />
+    <Page Image="137" ImageSize="1097225" />
+    <Page Image="138" ImageSize="741552" />
+    <Page Image="139" ImageSize="979514" />
+    <Page Image="140" ImageSize="1316409" />
+    <Page Image="141" ImageSize="1014931" />
+    <Page Image="142" ImageSize="1069355" />
+    <Page Image="143" ImageSize="905328" />
+    <Page Image="144" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Ben Stenbeck</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Koshchei in Hell</Series>
+  <Summary>The world above may be over, and Hellboy gone with it, but Koshchei is still in Hell content with his wine and his books—until an old face arrives and brings Koshchei a critical task. An old and powerful foe is returning, and Koshchei must take up his sword and defend the city from destruction. Mignola returns to Hell to reunite with one of his favorite collaborators, Ben Stenbeck (Frankenstein Underground, Witchfinder: In The Service of Angels, Baltimore, Koshchei the Deathless). Returning characters from Hellboy in Hell and more!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-24 11:05:23.  [Issue ID 958623]
+
+https://comicvine.gamespot.com/koshchei-in-hell-1/4000-958623/</Summary>
+  <Tags>Edward Grey,Hell,Koschei the Deathless,Pandemonium</Tags>
+  <Title>HC</Title>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/koshchei-in-hell-1/4000-958623/</Web>
+  <Writer>Mike Mignola</Writer>
+  <Year>2022</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

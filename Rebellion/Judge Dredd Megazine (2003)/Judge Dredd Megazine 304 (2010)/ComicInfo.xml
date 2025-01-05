@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Judge Schnap</Characters>
+  <Day>7</Day>
+  <Editor>Matt Smith</Editor>
+  <GTIN>urn:comicvine:4000-246480</GTIN>
+  <Inker>Boo Cook,Charlie Adlard,Jock,Nick Dyer,Peter Doherty,Simon Fraser,Steve Yeowell,Boo Cook,Simon Fraser,Nick Dyer,Peter Doherty</Inker>
+  <Locations>The Cursed Earth,Brit-Cit,Mega-City One</Locations>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:28:07 [Issue ID 4000-246480] urn:comicvine:4000-246480
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:11:37. [Issue ID 792032]</Notes>
+  <Number>304</Number>
+  <PageCount>132</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="623165" Type="FrontCover" />
+    <Page Image="1" ImageSize="456971" />
+    <Page Image="2" ImageSize="493163" />
+    <Page Image="3" ImageSize="469660" />
+    <Page Image="4" ImageSize="519355" />
+    <Page Image="5" ImageSize="564436" />
+    <Page Image="6" ImageSize="545384" />
+    <Page Image="7" ImageSize="485347" />
+    <Page Image="8" ImageSize="501674" />
+    <Page Image="9" ImageSize="399042" />
+    <Page Image="10" ImageSize="389838" />
+    <Page Image="11" ImageSize="400107" />
+    <Page Image="12" ImageSize="407183" />
+    <Page Image="13" ImageSize="345667" />
+    <Page Image="14" ImageSize="761085" />
+    <Page Image="15" ImageSize="392533" />
+    <Page Image="16" ImageSize="547560" />
+    <Page Image="17" ImageSize="563691" />
+    <Page Image="18" ImageSize="577109" />
+    <Page Image="19" ImageSize="498215" />
+    <Page Image="20" ImageSize="459773" />
+    <Page Image="21" ImageSize="492979" />
+    <Page Image="22" ImageSize="624789" />
+    <Page Image="23" ImageSize="573258" />
+    <Page Image="24" ImageSize="511300" />
+    <Page Image="25" ImageSize="476206" />
+    <Page Image="26" ImageSize="502362" />
+    <Page Image="27" ImageSize="437989" />
+    <Page Image="28" ImageSize="516547" />
+    <Page Image="29" ImageSize="486648" />
+    <Page Image="30" ImageSize="515204" />
+    <Page Image="31" ImageSize="440229" />
+    <Page Image="32" ImageSize="553768" />
+    <Page Image="33" ImageSize="526119" />
+    <Page Image="34" ImageSize="353887" />
+    <Page Image="35" ImageSize="219422" />
+    <Page Image="36" ImageSize="352528" />
+    <Page Image="37" ImageSize="360381" />
+    <Page Image="38" ImageSize="382148" />
+    <Page Image="39" ImageSize="424255" />
+    <Page Image="40" ImageSize="365697" />
+    <Page Image="41" ImageSize="351168" />
+    <Page Image="42" ImageSize="414714" />
+    <Page Image="43" ImageSize="400476" />
+    <Page Image="44" ImageSize="426208" />
+    <Page Image="45" ImageSize="440426" />
+    <Page Image="46" ImageSize="370230" />
+    <Page Image="47" ImageSize="291928" />
+    <Page Image="48" ImageSize="572888" />
+    <Page Image="49" ImageSize="392226" />
+    <Page Image="50" ImageSize="358029" />
+    <Page Image="51" ImageSize="486063" />
+    <Page Image="52" ImageSize="262884" />
+    <Page Image="53" ImageSize="446986" />
+    <Page Image="54" ImageSize="506831" />
+    <Page Image="55" ImageSize="392365" />
+    <Page Image="56" ImageSize="455414" />
+    <Page Image="57" ImageSize="364124" />
+    <Page Image="58" ImageSize="370173" />
+    <Page Image="59" ImageSize="508918" />
+    <Page Image="60" ImageSize="516978" />
+    <Page Image="61" ImageSize="474365" />
+    <Page Image="62" ImageSize="367833" />
+    <Page Image="63" ImageSize="592677" />
+    <Page Image="64" ImageSize="571840" />
+    <Page Image="65" ImageSize="110345" />
+    <Page Image="66" ImageSize="342192" />
+    <Page Image="67" ImageSize="421297" />
+    <Page Image="68" ImageSize="422625" />
+    <Page Image="69" ImageSize="426856" />
+    <Page Image="70" ImageSize="380361" />
+    <Page Image="71" ImageSize="400529" />
+    <Page Image="72" ImageSize="389469" />
+    <Page Image="73" ImageSize="432638" />
+    <Page Image="74" ImageSize="387199" />
+    <Page Image="75" ImageSize="347017" />
+    <Page Image="76" ImageSize="351227" />
+    <Page Image="77" ImageSize="383783" />
+    <Page Image="78" ImageSize="354622" />
+    <Page Image="79" ImageSize="386013" />
+    <Page Image="80" ImageSize="392852" />
+    <Page Image="81" ImageSize="359908" />
+    <Page Image="82" ImageSize="405556" />
+    <Page Image="83" ImageSize="367211" />
+    <Page Image="84" ImageSize="352049" />
+    <Page Image="85" ImageSize="369393" />
+    <Page Image="86" ImageSize="370644" />
+    <Page Image="87" ImageSize="412765" />
+    <Page Image="88" ImageSize="361641" />
+    <Page Image="89" ImageSize="368607" />
+    <Page Image="90" ImageSize="383923" />
+    <Page Image="91" ImageSize="405068" />
+    <Page Image="92" ImageSize="386564" />
+    <Page Image="93" ImageSize="389237" />
+    <Page Image="94" ImageSize="418531" />
+    <Page Image="95" ImageSize="383769" />
+    <Page Image="96" ImageSize="378243" />
+    <Page Image="97" ImageSize="401992" />
+    <Page Image="98" ImageSize="388206" />
+    <Page Image="99" ImageSize="442922" />
+    <Page Image="100" ImageSize="411289" />
+    <Page Image="101" ImageSize="389756" />
+    <Page Image="102" ImageSize="422799" />
+    <Page Image="103" ImageSize="404159" />
+    <Page Image="104" ImageSize="395692" />
+    <Page Image="105" ImageSize="385490" />
+    <Page Image="106" ImageSize="380305" />
+    <Page Image="107" ImageSize="437347" />
+    <Page Image="108" ImageSize="452261" />
+    <Page Image="109" ImageSize="482715" />
+    <Page Image="110" ImageSize="427176" />
+    <Page Image="111" ImageSize="370073" />
+    <Page Image="112" ImageSize="476778" />
+    <Page Image="113" ImageSize="463728" />
+    <Page Image="114" ImageSize="405612" />
+    <Page Image="115" ImageSize="425047" />
+    <Page Image="116" ImageSize="420430" />
+    <Page Image="117" ImageSize="454225" />
+    <Page Image="118" ImageSize="401609" />
+    <Page Image="119" ImageSize="450011" />
+    <Page Image="120" ImageSize="462208" />
+    <Page Image="121" ImageSize="422482" />
+    <Page Image="122" ImageSize="407278" />
+    <Page Image="123" ImageSize="392583" />
+    <Page Image="124" ImageSize="360185" />
+    <Page Image="125" ImageSize="472603" />
+    <Page Image="126" ImageSize="411507" />
+    <Page Image="127" ImageSize="382182" />
+    <Page Image="128" ImageSize="476584" />
+    <Page Image="129" ImageSize="422508" />
+    <Page Image="130" ImageSize="257278" />
+    <Page Image="131" ImageSize="153799" />
+  </Pages>
+  <Penciller>Boo Cook,Charlie Adlard,Jock,Nick Dyer,Peter Doherty,Simon Fraser,Steve Yeowell,Boo Cook,Simon Fraser,Nick Dyer,Peter Doherty</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>Cover: Boo Cook (Judge Anderson)
+
+Judge Dredd - Bald Ambition (Rob Williams - Peter Doherty)Interview - Simon FraserTales from the Black Museum - The Invisible Bullet (Michael Carroll - Nick Dyer)Lilly Mackenzie and the Mines of Charybdis (part 7) (writer/artist: Simon Fraser)Judge Anderson - House of Vyle (part 5 - final part) (Alan Grant - Boo Cook)Graphic novel 30 - Armitage - Bodies of Evidence (cover: Jock)
+
+Armitage - Bodies of Evidence (reprint from the Judge Dredd Megazine (volume three) issues 64 to 67) (Dave Stone - Steve Yeowell)Armitage - Flashback II (reprint from the Judge Dredd Megazine (volume two) issues 31 to 33) (Dave Stone - Charlie Adlard)
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-23 08:58:45.  [CVDB246480]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-304-meg-304/4000-246480/</Summary>
+  <Tags>Mega-City One,Psi-Division,The Cursed Earth,Detective-Judge Armitage,Judges of Mega-City One,Judge Dredd,Judge Anderson,Lilly Mackenzie,Brit-Cit,Treasure Steel,Henry Dubble</Tags>
+  <Teams>Psi-Division,Judges of Mega-City One</Teams>
+  <Title>The House of Vyle Part Five; Lilly MacKenzie and the Mines of Charybdis Part Seven; The Invisible Bullet; Bald Ambition</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-304-meg-304/4000-246480/</Web>
+  <Writer>Alan Grant,Dave Stone,Michael Carroll,Rob Williams,Simon Fraser,Alan Grant,Simon Fraser,Michael Carroll,Rob Williams</Writer>
+  <Year>2010</Year>
+  <Genre>Detective-mystery,Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Colorist>Len O'Grady,Gary Caldwell,Peter Doherty</Colorist>
+  <Letterer>Simon Bowland,Ellie de Ville,Annie Parkhouse</Letterer>
+</ComicInfo>

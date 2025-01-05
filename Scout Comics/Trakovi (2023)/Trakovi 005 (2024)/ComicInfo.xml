@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>5</Count>
+	<Day>24</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-1042329</GTIN>
+	<LanguageISO>en</LanguageISO>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.9 on 2024-08-07T15:31:10 [Issue ID 4000-1042329] urn:comicvine:4000-1042329</Notes>
+	<Number>5</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2135" ImageHeight="3282" ImageSize="190738" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2135" ImageHeight="3282" ImageSize="261082"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2135" ImageHeight="3282" ImageSize="362874"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2135" ImageHeight="3282" ImageSize="475910"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2135" ImageHeight="3282" ImageSize="264124"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2135" ImageHeight="3282" ImageSize="508710"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2135" ImageHeight="3282" ImageSize="451200"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2135" ImageHeight="3282" ImageSize="143632"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2135" ImageHeight="3282" ImageSize="381232"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2135" ImageHeight="3282" ImageSize="488724"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2135" ImageHeight="3282" ImageSize="454648"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2135" ImageHeight="3282" ImageSize="415382"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2135" ImageHeight="3282" ImageSize="478168"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2135" ImageHeight="3282" ImageSize="508152"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2135" ImageHeight="3282" ImageSize="481694"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2135" ImageHeight="3282" ImageSize="296364"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2135" ImageHeight="3282" ImageSize="541610"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2135" ImageHeight="3282" ImageSize="587842"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2135" ImageHeight="3282" ImageSize="411552"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2135" ImageHeight="3282" ImageSize="299192"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2135" ImageHeight="3282" ImageSize="574926"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2135" ImageHeight="3282" ImageSize="677596"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2135" ImageHeight="3282" ImageSize="421218"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2135" ImageHeight="3282" ImageSize="376248"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2135" ImageHeight="3282" ImageSize="483292"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2135" ImageHeight="3282" ImageSize="407788"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2135" ImageHeight="3282" ImageSize="328838"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2135" ImageHeight="3282" ImageSize="366124"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2135" ImageHeight="3282" ImageSize="427274"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2135" ImageHeight="3282" ImageSize="312294"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2135" ImageHeight="3282" ImageSize="197478"/>
+		<Page Image="31" ImageSize="274164"/>
+	</Pages>
+	<Publisher>Scout Comics</Publisher>
+	<Series>Trakovi</Series>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/trakovi-5/4000-1042329/</Web>
+	<Year>2024</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Glyph,Redline,Ravyn,Secutor,Rhapsody</Characters>
+  <Count>1</Count>
+  <Country>US</Country>
+  <Format>One-Shot</Format>
+  <GTIN>urn:comicvine:4000-807031</GTIN>
+  <Inker>Albert Holaso,Karl Waller,Matt Martin,Pat Meadows,Rick Lyon,Steve Scott,Tim Vigil</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:19 [Issue ID 4000-807031] urn:comicvine:4000-807031 urn:grandcomicsdatabase:issue/807031
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:14:14. [Issue ID 807031]</Notes>
+  <Number>1</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="398356" Type="FrontCover" />
+    <Page Image="1" ImageSize="220109" />
+    <Page Image="2" ImageSize="288049" />
+    <Page Image="3" ImageSize="342437" />
+    <Page Image="4" ImageSize="331318" />
+    <Page Image="5" ImageSize="392175" />
+    <Page Image="6" ImageSize="404791" />
+    <Page Image="7" ImageSize="394021" />
+    <Page Image="8" ImageSize="227666" />
+    <Page Image="9" ImageSize="287118" />
+    <Page Image="10" ImageSize="193885" />
+    <Page Image="11" ImageSize="189215" />
+    <Page Image="12" ImageSize="370105" />
+    <Page Image="13" ImageSize="395192" />
+    <Page Image="14" ImageSize="354297" />
+    <Page Image="15" ImageSize="361302" />
+    <Page Image="16" ImageSize="354138" />
+    <Page Image="17" ImageSize="370081" />
+    <Page Image="18" ImageSize="392063" />
+    <Page Image="19" ImageSize="336326" />
+    <Page Image="20" ImageSize="373376" />
+    <Page Image="21" ImageSize="335119" />
+    <Page Image="22" ImageSize="372608" />
+  </Pages>
+  <Penciller>Albert Holaso,Karl Waller,Matt Martin,Pat Meadows,Rick Lyon,Steve Scott,Tim Vigil</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Secrets of the Ravening</Series>
+  <Summary>This issue is a guide to the world of the Ravening.</Summary>
+  <Teams>Vampires,Underworld</Teams>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-807031/</Web>
+  <Year>1999</Year>
+</ComicInfo>

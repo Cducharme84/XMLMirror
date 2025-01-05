@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>29</Count>
+	<Day>1</Day>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-974549</GTIN>
+	<Genre>Anthology,Science Fiction</Genre>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-13T18:30:40 [Issue ID 4000-974549] urn:comicvine:4000-974549</Notes>
+	<Number>6</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1286" ImageHeight="2000" ImageSize="182832" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3891" ImageSize="658974"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2025" ImageHeight="3150" ImageSize="465086"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2025" ImageHeight="3150" ImageSize="492494"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2025" ImageHeight="3150" ImageSize="491028"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2025" ImageHeight="3150" ImageSize="476116"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2025" ImageHeight="3150" ImageSize="516144"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2025" ImageHeight="3150" ImageSize="251262"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2025" ImageHeight="3150" ImageSize="319152"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2025" ImageHeight="3150" ImageSize="297292"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2025" ImageHeight="3150" ImageSize="427638"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2025" ImageHeight="3150" ImageSize="322260"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2025" ImageHeight="3150" ImageSize="391470"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2025" ImageHeight="3150" ImageSize="333732"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2025" ImageHeight="3150" ImageSize="210996"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2025" ImageHeight="3150" ImageSize="468374"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2025" ImageHeight="3150" ImageSize="552812"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2025" ImageHeight="3150" ImageSize="371372"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2025" ImageHeight="3150" ImageSize="474010"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2025" ImageHeight="3150" ImageSize="594812"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2025" ImageHeight="3150" ImageSize="550888"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2025" ImageHeight="3150" ImageSize="248202"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2025" ImageHeight="3150" ImageSize="920118"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2025" ImageHeight="3150" ImageSize="462474"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2025" ImageHeight="3150" ImageSize="656022"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2025" ImageHeight="3150" ImageSize="528270"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2025" ImageHeight="3150" ImageSize="1349916"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2025" ImageHeight="3150" ImageSize="785886"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2025" ImageHeight="3150" ImageSize="742548"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2025" ImageHeight="3150" ImageSize="653198"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2025" ImageHeight="3150" ImageSize="873124"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2025" ImageHeight="3150" ImageSize="950812"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2025" ImageHeight="3150" ImageSize="751126"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2025" ImageHeight="3150" ImageSize="935148"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2025" ImageHeight="3150" ImageSize="708170"/>
+		<Page DoublePage="False" Image="35" ImageWidth="2025" ImageHeight="3150" ImageSize="1066988"/>
+		<Page Image="36" ImageSize="643498"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>Planet Comics</Series>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/planet-comics-6/4000-974549/</Web>
+	<Year>2022</Year>
+</ComicInfo>

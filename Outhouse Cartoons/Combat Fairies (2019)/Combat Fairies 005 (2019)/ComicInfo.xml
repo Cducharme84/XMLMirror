@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>12</Count>
+	<CoverArtist>Dylan Moore</CoverArtist>
+	<Day>25</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-723954</GTIN>
+	<Genre>Action,Comedy,Fantasy</Genre>
+	<Inker>Dylan Moore</Inker>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T23:52:29 [Issue ID 4000-723954] urn:comicvine:4000-723954</Notes>
+	<Number>5</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3844" ImageSize="2038731" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3844" ImageSize="1608494"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3844" ImageSize="2248310"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3844" ImageSize="1986081"/>
+		<Page DoublePage="True" Image="4" ImageWidth="5120" ImageHeight="3890" ImageSize="5036009"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3844" ImageSize="2786950"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3844" ImageSize="2307114"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3844" ImageSize="2336497"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3844" ImageSize="2710167"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3844" ImageSize="2583452"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3844" ImageSize="2408002"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3844" ImageSize="2219695"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3844" ImageSize="2274566"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3844" ImageSize="2030448"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3844" ImageSize="1936414"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3844" ImageSize="1704598"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3844" ImageSize="1639419"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3844" ImageSize="1971021"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3844" ImageSize="1277359"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3844" ImageSize="1790034"/>
+		<Page Image="20" ImageSize="517299"/>
+	</Pages>
+	<Penciller>Dylan Moore</Penciller>
+	<Publisher>Outhouse Cartoons</Publisher>
+	<Series>Combat Fairies</Series>
+	<Summary>Omens and Cupcakes
+
+The fairies head to Hershey, Pennsylvania to track down a witch who can hopefully determine the truth about Addison's baby. But can a witch ever be truly trusted? Especially one with the reputation of Gabriella Gray?</Summary>
+	<Title>Omens and Cupcakes</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/combat-fairies-5-omens-and-cupcakes/4000-723954/</Web>
+	<Writer>Dylan Moore</Writer>
+	<Year>2019</Year>
+</ComicInfo>

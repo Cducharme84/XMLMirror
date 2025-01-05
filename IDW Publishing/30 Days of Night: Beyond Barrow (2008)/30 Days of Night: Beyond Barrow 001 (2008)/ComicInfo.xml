@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Editor>Chris Ryall,Dene Nee</Editor>
+	<GTIN>urn:comicvine:4000-135772</GTIN>
+	<Genre>Fantasy,Fiction,Horror,Vampires</Genre>
+	<Inker>Bill Sienkiewicz</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Neil Uyetake,Robbie Robbins</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:35:21 [Issue ID 4000-135772] urn:comicvine:4000-135772</Notes>
+	<Number>1</Number>
+	<PageCount>99</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1529211" Type="FrontCover"/>
+		<Page Image="1" ImageSize="264197"/>
+		<Page Image="2" ImageSize="1084178"/>
+		<Page Image="3" ImageSize="818420"/>
+		<Page Image="4" ImageSize="317972"/>
+		<Page Image="5" ImageSize="1388506"/>
+		<Page Image="6" ImageSize="1241422"/>
+		<Page Image="7" ImageSize="1641589"/>
+		<Page Image="8" ImageSize="1386444"/>
+		<Page Image="9" ImageSize="1271746"/>
+		<Page Image="10" ImageSize="1487503"/>
+		<Page Image="11" ImageSize="1350220"/>
+		<Page Image="12" ImageSize="2236670"/>
+		<Page Image="13" ImageSize="780829"/>
+		<Page Image="14" ImageSize="1035790"/>
+		<Page Image="15" ImageSize="1152732"/>
+		<Page Image="16" ImageSize="1737844"/>
+		<Page Image="17" ImageSize="1405368"/>
+		<Page Image="18" ImageSize="1305209"/>
+		<Page Image="19" ImageSize="914692"/>
+		<Page Image="20" ImageSize="1716947"/>
+		<Page Image="21" ImageSize="1274314"/>
+		<Page Image="22" ImageSize="1166852"/>
+		<Page Image="23" ImageSize="2324200"/>
+		<Page Image="24" ImageSize="1434692"/>
+		<Page Image="25" ImageSize="318006"/>
+		<Page Image="26" ImageSize="1228834"/>
+		<Page Image="27" ImageSize="991332"/>
+		<Page Image="28" ImageSize="1177929"/>
+		<Page Image="29" ImageSize="1115019"/>
+		<Page Image="30" ImageSize="1314454"/>
+		<Page Image="31" ImageSize="1226542"/>
+		<Page Image="32" ImageSize="1450396"/>
+		<Page Image="33" ImageSize="1226101"/>
+		<Page Image="34" ImageSize="1510124"/>
+		<Page Image="35" ImageSize="1207998"/>
+		<Page Image="36" ImageSize="1171238"/>
+		<Page Image="37" ImageSize="1218718"/>
+		<Page Image="38" ImageSize="773803"/>
+		<Page Image="39" ImageSize="1163616"/>
+		<Page Image="40" ImageSize="1077284"/>
+		<Page Image="41" ImageSize="1447956"/>
+		<Page Image="42" ImageSize="1232756"/>
+		<Page Image="43" ImageSize="1144510"/>
+		<Page Image="44" ImageSize="1836839"/>
+		<Page Image="45" ImageSize="1504075"/>
+		<Page Image="46" ImageSize="1051179"/>
+		<Page Image="47" ImageSize="318368"/>
+		<Page Image="48" ImageSize="438364"/>
+		<Page Image="49" ImageSize="1364382"/>
+		<Page Image="50" ImageSize="1148912"/>
+		<Page Image="51" ImageSize="1694862"/>
+		<Page Image="52" ImageSize="1378282"/>
+		<Page Image="53" ImageSize="884980"/>
+		<Page Image="54" ImageSize="904734"/>
+		<Page Image="55" ImageSize="1149624"/>
+		<Page Image="56" ImageSize="1213933"/>
+		<Page Image="57" ImageSize="1162406"/>
+		<Page Image="58" ImageSize="1696050"/>
+		<Page Image="59" ImageSize="1098883"/>
+		<Page Image="60" ImageSize="741594"/>
+		<Page Image="61" ImageSize="836912"/>
+		<Page Image="62" ImageSize="1389052"/>
+		<Page Image="63" ImageSize="810342"/>
+		<Page Image="64" ImageSize="1011321"/>
+		<Page Image="65" ImageSize="820783"/>
+		<Page Image="66" ImageSize="934633"/>
+		<Page Image="67" ImageSize="1154386"/>
+		<Page Image="68" ImageSize="953003"/>
+		<Page Image="69" ImageSize="1145248"/>
+		<Page Image="70" ImageSize="410419"/>
+		<Page Image="71" ImageSize="318758"/>
+		<Page Image="72" ImageSize="605930"/>
+		<Page Image="73" ImageSize="746649"/>
+		<Page Image="74" ImageSize="625059"/>
+		<Page Image="75" ImageSize="552151"/>
+		<Page Image="76" ImageSize="735791"/>
+		<Page Image="77" ImageSize="526728"/>
+		<Page Image="78" ImageSize="624562"/>
+		<Page Image="79" ImageSize="674490"/>
+		<Page Image="80" ImageSize="602953"/>
+		<Page Image="81" ImageSize="507852"/>
+		<Page Image="82" ImageSize="473313"/>
+		<Page Image="83" ImageSize="523740"/>
+		<Page Image="84" ImageSize="588495"/>
+		<Page Image="85" ImageSize="577327"/>
+		<Page Image="86" ImageSize="507072"/>
+		<Page Image="87" ImageSize="321369"/>
+		<Page Image="88" ImageSize="1254143"/>
+		<Page Image="89" ImageSize="2086025"/>
+		<Page Image="90" ImageSize="406060"/>
+		<Page Image="91" ImageSize="398399"/>
+		<Page Image="92" ImageSize="650499"/>
+		<Page Image="93" ImageSize="537599"/>
+		<Page Image="94" ImageSize="680793"/>
+		<Page Image="95" ImageSize="653961"/>
+		<Page Image="96" ImageSize="1111322"/>
+		<Page Image="97" ImageSize="1789176"/>
+		<Page Image="98" ImageSize="877663"/>
+	</Pages>
+	<Penciller>Bill Sienkiewicz</Penciller>
+	<Publisher>IDW Publishing</Publisher>
+	<ScanInformation>Library loans through OverDrive and Kindle, ripped with Calibre DeDRM. Library loans through Hoopla, webrip. Denoised and upscaled with waifu2x-caffe.</ScanInformation>
+	<Series>30 Days of Night: Beyond Barrow</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-29 12:53:08.  [Issue ID 135772]
+
+https://comicvine.gamespot.com/30-days-of-night-beyond-barrow-1-tpb/4000-135772/</Summary>
+	<Title>TPB</Title>
+	<Volume>2008</Volume>
+	<Web>https://comicvine.gamespot.com/30-days-of-night-beyond-barrow-1-tpb/4000-135772/</Web>
+	<Writer>Steve Niles</Writer>
+	<Year>2008</Year>
+</ComicInfo>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Format>Series</Format>
+  <Genre>Superhero</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-23T23:40:01</Notes>
+  <Number>1</Number>
+  <PageCount>18</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3958" ImageSize="950984" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3958" ImageSize="568717" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3958" ImageSize="1420880" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3958" ImageSize="1454485" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3958" ImageSize="1360019" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3958" ImageSize="1375145" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3958" ImageSize="1490005" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3958" ImageSize="1457270" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3958" ImageSize="1429949" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3958" ImageSize="1564832" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3958" ImageSize="1609895" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3958" ImageSize="1390363" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3958" ImageSize="1210626" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3958" ImageSize="1542055" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3958" ImageSize="1493052" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3958" ImageSize="1406376" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3958" ImageSize="1174068" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3958" ImageSize="286903" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Atrophy Comix Studios</Publisher>
+  <Series>Canada Jack</Series>
+  <Count>5</Count>
+  <Volume>2015</Volume>
+  <Summary>The fabulous first issue of Canada Jack written by Terrible Travis Tomblin with art by Bombastic Barry McClain! Meet Jack and join him on his adventure as he attempts to protect Canada from an alien invasion!</Summary>
+  <Year>2015</Year>
+</ComicInfo>

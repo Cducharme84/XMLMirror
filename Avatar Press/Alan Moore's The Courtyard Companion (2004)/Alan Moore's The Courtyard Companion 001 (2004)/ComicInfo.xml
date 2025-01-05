@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Aldo Sax,Azathoth,Clyde Tolson,Cthulhu,J. Edgar Hoover,Nyarlathotep,Shub-Niggurath,Tsathougga,Yog-Sothoth</Characters>
+	<Count>1</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-257822</GTIN>
+	<Inker>Jacen Burrows</Inker>
+	<Locations>Brooklyn,New York City,New York State,Red Hook</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:47:00 [Issue ID 4000-257822] urn:comicvine:4000-257822</Notes>
+	<Number>1</Number>
+	<PageCount>11</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1280" ImageHeight="1991" ImageSize="471626" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1280" ImageHeight="2023" ImageSize="504624"/>
+		<Page Image="2" ImageWidth="1280" ImageHeight="2023" ImageSize="534397"/>
+		<Page Image="3" ImageWidth="1280" ImageHeight="2023" ImageSize="531644"/>
+		<Page Image="4" ImageWidth="1280" ImageHeight="2023" ImageSize="537782"/>
+		<Page Image="5" ImageWidth="1280" ImageHeight="2023" ImageSize="528675"/>
+		<Page Image="6" ImageWidth="1280" ImageHeight="2023" ImageSize="532506"/>
+		<Page Image="7" ImageWidth="1280" ImageHeight="2023" ImageSize="533650"/>
+		<Page Image="8" ImageWidth="1280" ImageHeight="2023" ImageSize="562532"/>
+		<Page Image="9" ImageWidth="1280" ImageHeight="2023" ImageSize="571887"/>
+		<Page Image="10" ImageSize="531355"/>
+	</Pages>
+	<Penciller>Jacen Burrows</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Alan Moore's The Courtyard Companion</Series>
+	<Summary>The hit series was just the beginning of the mystery of what lurks in the Courtyard. The Courtyard Companion delves deep into the Lovecraftian roots of the masterpiece! This volume reprints the original script it was drawn from with full annotations of all of the Lovecraftian references, over one hundred in total, painstakingly researched by scholar NG Christakos. Also included is Alan Moore's original short story the series was adapted from, several new pinups and art by series artist Jacen Burrows, and a new essay from adapter Antony Johnston. For Lovecraft or Moore fans, this is a can't miss edition!</Summary>
+	<Teams>Deep Ones,Federal Bureau of Investigation,Mi-go</Teams>
+	<Title>Companion</Title>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/alan-moores-the-courtyard-companion-1-companion/4000-257822/</Web>
+	<Writer>Alan Moore,Antony Johnston</Writer>
+	<Year>2004</Year>
+</ComicInfo>

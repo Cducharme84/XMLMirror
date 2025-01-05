@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Doc Holliday,Wyatt Earp</Characters>
+	<Count>18</Count>
+	<Country>US</Country>
+	<GTIN>urn:comicvine:4000-1652263</GTIN>
+	<Genre>Horror-suspense,War</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Arizona,Tombstone</Locations>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:46:26 [Issue ID 4000-1652263] urn:comicvine:4000-1652263 urn:grandcomicsdatabase:issue/1652263</Notes>
+	<Number>7</Number>
+	<PageCount>52</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1626967" Type="FrontCover"/>
+		<Page Image="1" ImageSize="936503"/>
+		<Page Image="2" ImageSize="1594604"/>
+		<Page Image="3" ImageSize="1307639"/>
+		<Page Image="4" ImageSize="1412382"/>
+		<Page Image="5" ImageSize="1618647"/>
+		<Page Image="6" ImageSize="1740535"/>
+		<Page Image="7" ImageSize="1795813"/>
+		<Page Image="8" ImageSize="1634727"/>
+		<Page Image="9" ImageSize="1602222"/>
+		<Page Image="10" ImageSize="1674994"/>
+		<Page Image="11" ImageSize="1419774"/>
+		<Page Image="12" ImageSize="1775569"/>
+		<Page Image="13" ImageSize="1920586"/>
+		<Page Image="14" ImageSize="1911714"/>
+		<Page Image="15" ImageSize="2026216"/>
+		<Page Image="16" ImageSize="1811399"/>
+		<Page Image="17" ImageSize="1994787"/>
+		<Page Image="18" ImageSize="1931680"/>
+		<Page Image="19" ImageSize="1788211"/>
+		<Page Image="20" ImageSize="2069164"/>
+		<Page Image="21" ImageSize="2229393"/>
+		<Page Image="22" ImageSize="1916974"/>
+		<Page Image="23" ImageSize="1802236"/>
+		<Page Image="24" ImageSize="2131462"/>
+		<Page Image="25" ImageSize="1241707"/>
+		<Page Image="26" ImageSize="1932139"/>
+		<Page Image="27" ImageSize="2951000"/>
+		<Page Image="28" ImageSize="2408342"/>
+		<Page Image="29" ImageSize="2743450"/>
+		<Page Image="30" ImageSize="2184926"/>
+		<Page Image="31" ImageSize="1995846"/>
+		<Page Image="32" ImageSize="1020055"/>
+		<Page Image="33" ImageSize="1037669"/>
+		<Page Image="34" ImageSize="937552"/>
+		<Page Image="35" ImageSize="1168443"/>
+		<Page Image="36" ImageSize="974739"/>
+		<Page Image="37" ImageSize="2135260"/>
+		<Page Image="38" ImageSize="1011225"/>
+		<Page Image="39" ImageSize="937798"/>
+		<Page Image="40" ImageSize="1037945"/>
+		<Page Image="41" ImageSize="1412305"/>
+		<Page Image="42" ImageSize="1692283"/>
+		<Page Image="43" ImageSize="2099771"/>
+		<Page Image="44" ImageSize="2170382"/>
+		<Page Image="45" ImageSize="1923149"/>
+		<Page Image="46" ImageSize="2172704"/>
+		<Page Image="47" ImageSize="2741150"/>
+		<Page Image="48" ImageSize="2260452"/>
+		<Page Image="49" ImageSize="1511195"/>
+		<Page Image="50" ImageSize="1299255"/>
+		<Page Image="51" ImageSize="936414"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Alan Moore's Cinema Purgatorio</Series>
+	<Summary>The screen goes dark and you hear the "tick-tick-tick" of the reel flapping as it whips unchecked around the spool. There's something horrible in that sound. You still can't believe what you just watched... but at least it's over. Who made these movies? There's something very wrong about them and you should go, just get up and leave. Maybe after this next feature... Now showing: Cinema Purgatorio by Alan Moore and Kevin O'Neill, A More Perfect Union by Max Brooks and Michael DiPascale, Code Pru by Garth Ennis and Raulo Caceres, Modded by Kieron Gillen and Ignacio Calero, and The Vast by Christos Gage and Gabriel Andrade. Each story has its own cover by the series artist and there is also an Ancient Tome Premium edition limited to 1000 copies.
+
+*List of covers and their creators:*
+| Cover | Name                                        | Creator(s)        | Sidebar Location |
+|-------|---------------------------------------------|-------------------|------------------|
+| Reg   | Regular Cover                               | Kevin O'Neil      | 1                |
+| PU    | Perfect Union Cover                         | Michael DiPascale | 2                |
+| MC    | Modded Cover                                | Ignacio Calero    | 3                |
+| CP    | Code Pru Cover                              | Raulo Caceres     | 4                |
+| VC    | The Vast Cover                              | Gabriel Andrade   | 5                |
+| AT    | Ancient Tome Premium Cover, Limited to 1000 | Gabriel Andrade   | 6                |</Summary>
+	<Volume>2016</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1652263/</Web>
+	<Writer>Alan Moore,Christos N. Gage,Garth Ennis,Kieron Gillen,Max Brooks</Writer>
+	<Year>2016</Year>
+</ComicInfo>

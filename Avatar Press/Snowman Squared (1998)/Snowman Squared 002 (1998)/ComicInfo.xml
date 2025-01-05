@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Vortex,Nira-X,Jack McTiernan,Snowman,Gwynn Fiala</Characters>
+  <Count>2</Count>
+  <Country>US</Country>
+  <Day>31</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-806148</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Colorado,Denver,Slivercreek</Locations>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:46:56 [Issue ID 4000-806148] urn:comicvine:4000-806148 urn:grandcomicsdatabase:issue/806148
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:02:49. [Issue ID 806148]</Notes>
+  <Number>2</Number>
+  <PageCount>21</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="521123" Type="FrontCover" />
+    <Page Image="1" ImageSize="297402" />
+    <Page Image="2" ImageSize="247639" />
+    <Page Image="3" ImageSize="440738" />
+    <Page Image="4" ImageSize="222047" />
+    <Page Image="5" ImageSize="242407" />
+    <Page Image="6" ImageSize="234186" />
+    <Page Image="7" ImageSize="225430" />
+    <Page Image="8" ImageSize="274691" />
+    <Page Image="9" ImageSize="227186" />
+    <Page Image="10" ImageSize="279991" />
+    <Page Image="11" ImageSize="219386" />
+    <Page Image="12" ImageSize="186786" />
+    <Page Image="13" ImageSize="234901" />
+    <Page Image="14" ImageSize="227205" />
+    <Page Image="15" ImageSize="206974" />
+    <Page Image="16" ImageSize="234242" />
+    <Page Image="17" ImageSize="173562" />
+    <Page Image="18" ImageSize="254277" />
+    <Page Image="19" ImageSize="175021" />
+    <Page Image="20" ImageSize="226249" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Snowman Squared</Series>
+  <Summary>The murderous Snowmen keep on multiplyin, and thats bad news for the human race.</Summary>
+  <Title>The Will To Live</Title>
+  <Volume>1998</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-806148/</Web>
+  <Year>1998</Year>
+</ComicInfo>

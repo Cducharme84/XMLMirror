@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Ashoke,Barry,Delores,Gamekeeper,Jasper,Mark,Miranda,Richie,Shaky,Sister Teresa,Tabitha</Characters>
+	<Colorist>Juanmar</Colorist>
+	<Day>24</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-381982</GTIN>
+	<Inker>Fernando Melek,Keith Williams</Inker>
+	<Locations>Scotland</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:19 [Issue ID 4000-381982] urn:comicvine:4000-381982</Notes>
+	<Number>11</Number>
+	<PageCount>4</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="2040" ImageHeight="1632" ImageSize="943185" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="2007" ImageHeight="1632" ImageSize="1063214"/>
+		<Page Image="2" ImageWidth="2020" ImageHeight="1632" ImageSize="838464"/>
+		<Page Image="3" ImageSize="856924"/>
+	</Pages>
+	<Penciller>Fernando Melek</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital) (jk-empire)</ScanInformation>
+	<Series>Crossed: Wish You Were Here Interlude</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-11-interlude-/4000-381982/</Summary>
+	<Tags>Ashoke,Barry,Delores,Gamekeeper,Jasper,Mark,Miranda,Richie,Scotland,Shaky,Sister Teresa,Tabitha</Tags>
+	<Title>Interlude 11</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-11-interlude-/4000-381982/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

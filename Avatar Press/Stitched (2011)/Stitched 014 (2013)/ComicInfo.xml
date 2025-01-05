@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Katsumi,Kenji Nakamura</Characters>
+	<Count>19</Count>
+	<Country>US</Country>
+	<GTIN>urn:comicvine:4000-410354</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Fernando Heinz Furukawa</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Chiyoda,Harajuku District,Tokyo</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:44 [Issue ID 4000-410354] urn:comicvine:4000-410354 urn:grandcomicsdatabase:issue/1120275</Notes>
+	<Number>14</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2883285" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1587784"/>
+		<Page Image="2" ImageSize="1741953"/>
+		<Page Image="3" ImageSize="2092926"/>
+		<Page Image="4" ImageSize="2335556"/>
+		<Page Image="5" ImageSize="2208401"/>
+		<Page Image="6" ImageSize="2036161"/>
+		<Page Image="7" ImageSize="2058098"/>
+		<Page Image="8" ImageSize="2117460"/>
+		<Page Image="9" ImageSize="1881413"/>
+		<Page Image="10" ImageSize="2134578"/>
+		<Page Image="11" ImageSize="2234019"/>
+		<Page Image="12" ImageSize="2138490"/>
+		<Page Image="13" ImageSize="2291166"/>
+		<Page Image="14" ImageSize="2091323"/>
+		<Page Image="15" ImageSize="2209475"/>
+		<Page Image="16" ImageSize="2601173"/>
+		<Page Image="17" ImageSize="2280354"/>
+		<Page Image="18" ImageSize="2263618"/>
+		<Page Image="19" ImageSize="2140463"/>
+		<Page Image="20" ImageSize="2168666"/>
+		<Page Image="21" ImageSize="2047593"/>
+		<Page Image="22" ImageSize="2017545"/>
+		<Page Image="23" ImageSize="1702967"/>
+		<Page Image="24" ImageSize="628702"/>
+	</Pages>
+	<Penciller>Fernando Heinz Furukawa</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Stitched</Series>
+	<Summary>Series is adapted from a short film written and directed by Garth Ennis.</Summary>
+	<Title>Seven Swords</Title>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-410354/</Web>
+	<Writer>Mike Wolfer</Writer>
+	<Year>2013</Year>
+</ComicInfo>

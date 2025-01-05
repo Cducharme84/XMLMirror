@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Format>Series</Format>
+  <Genre>Horror</Genre>
+  <Inker>Gabo Nunez</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-23T22:36:43</Notes>
+  <Number>1</Number>
+  <PageCount>19</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3960" ImageSize="2351189" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3960" ImageSize="2655411" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3960" ImageSize="1650472" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3960" ImageSize="2298344" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3960" ImageSize="1497593" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3960" ImageSize="2008929" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3960" ImageSize="1216443" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3960" ImageSize="1407546" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3960" ImageSize="1859671" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3960" ImageSize="1785471" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3960" ImageSize="2417963" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3960" ImageSize="1585877" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3960" ImageSize="2049978" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3960" ImageSize="2166769" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3960" ImageSize="2064940" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3960" ImageSize="1593210" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3960" ImageSize="2505455" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3960" ImageSize="2291379" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3906" ImageSize="238030" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Gabo Nunez</Penciller>
+  <Publisher>Atrophy Comics Studio</Publisher>
+  <Series>Black River Falls</Series>
+  <Volume>2021</Volume>
+  <Writer>Jeremy Bryant,Travis Tomblin</Writer>
+  <Year>2021</Year>
+  <Summary>Join newly elected Sheriff McClintock as he begins to learn that the quiet little town that he has been sworn to protect could be rotten to the core.</Summary>
+</ComicInfo>

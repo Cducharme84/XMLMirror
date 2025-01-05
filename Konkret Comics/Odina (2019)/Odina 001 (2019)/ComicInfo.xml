@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Odina</Characters>
+	<Colorist>Beto Menezes</Colorist>
+	<Count>4</Count>
+	<Day>1</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-966908</GTIN>
+	<Genre>Action,Superhero</Genre>
+	<Inker>Eric Blake</Inker>
+	<Letterer>Rodney Jean-Etienne</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-22T12:11:03 [Issue ID 4000-966908] urn:comicvine:4000-966908</Notes>
+	<Number>1</Number>
+	<PageCount>35</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3838" ImageSize="1878576" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3619" ImageSize="1749114"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3838" ImageSize="2519616"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3838" ImageSize="2396737"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3838" ImageSize="2105666"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3838" ImageSize="2026896"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3838" ImageSize="2288787"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3837" ImageSize="2358343"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3838" ImageSize="2158718"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3838" ImageSize="1875995"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3838" ImageSize="2360410"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3838" ImageSize="1882625"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3838" ImageSize="2160403"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3838" ImageSize="1787638"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3838" ImageSize="2004692"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3838" ImageSize="1482663"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3838" ImageSize="1790214"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3838" ImageSize="1841814"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3838" ImageSize="1869076"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3838" ImageSize="1521592"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3838" ImageSize="1616608"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3838" ImageSize="1580536"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3838" ImageSize="1669408"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3838" ImageSize="1395036"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3838" ImageSize="1670117"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3838" ImageSize="1954507"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3838" ImageSize="1845076"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3838" ImageSize="1472169"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3838" ImageSize="2413076"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2194" ImageHeight="3655" ImageSize="2401226"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2423" ImageHeight="3748" ImageSize="1233363"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2468" ImageHeight="3748" ImageSize="2470306"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3618" ImageSize="2153051"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3619" ImageSize="1769345"/>
+		<Page Image="34" ImageSize="500113"/>
+	</Pages>
+	<Penciller>Eric Blake</Penciller>
+	<Publisher>Konkret Comics</Publisher>
+	<Series>Odina</Series>
+	<Summary>Written by Onaji Rouse, we find our titular heroine and her Omni Strike team facing Felix Rowe, a man whose powers have grown exponentially. With the fires of their battle barely cooled, Odina and her team learn that Felix Rowe is just the tip of a deepening mystery. Can Odina trust the mysterious stranger with one too many answers? And who is the enigmatic and deadly Lady Tiye?</Summary>
+	<Title>Omni Strike: Part 1</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/odina-1-omni-strike-part-1/4000-966908/</Web>
+	<Writer>Onaji Rouse</Writer>
+	<Year>2019</Year>
+</ComicInfo>

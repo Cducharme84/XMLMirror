@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Iron Jaw</Characters>
+	<Day>1</Day>
+	<Editor>Larry Lieber</Editor>
+	<GTIN>urn:comicvine:4000-15404</GTIN>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:48 [Issue ID 4000-15404] urn:comicvine:4000-15404</Notes>
+	<Number>4</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1065372" Type="FrontCover"/>
+		<Page Image="1" ImageSize="503622"/>
+		<Page Image="2" ImageSize="482503"/>
+		<Page Image="3" ImageSize="491483"/>
+		<Page Image="4" ImageSize="490324"/>
+		<Page Image="5" ImageSize="453891"/>
+		<Page Image="6" ImageSize="494893"/>
+		<Page Image="7" ImageSize="473435"/>
+		<Page Image="8" ImageSize="501252"/>
+		<Page Image="9" ImageSize="481216"/>
+		<Page Image="10" ImageSize="507633"/>
+		<Page Image="11" ImageSize="497407"/>
+		<Page Image="12" ImageSize="495295"/>
+		<Page Image="13" ImageSize="477331"/>
+		<Page Image="14" ImageSize="510585"/>
+		<Page Image="15" ImageSize="479940"/>
+		<Page Image="16" ImageSize="492093"/>
+		<Page Image="17" ImageSize="492628"/>
+		<Page Image="18" ImageSize="494359"/>
+		<Page Image="19" ImageSize="448458"/>
+		<Page Image="20" ImageSize="470983"/>
+		<Page Image="21" ImageSize="43548"/>
+	</Pages>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>Iron Jaw</Series>
+	<Summary>https://comicvine.gamespot.com/iron-jaw-4/4000-15404/</Summary>
+	<Tags>Iron Jaw</Tags>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/iron-jaw-4/4000-15404/</Web>
+	<Writer>Gary Friedrich</Writer>
+	<Year>1975</Year>
+</ComicInfo>

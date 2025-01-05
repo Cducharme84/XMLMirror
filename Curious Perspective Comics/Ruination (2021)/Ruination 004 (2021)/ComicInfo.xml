@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Colorist>Kathleen Brown</Colorist>
+	<Count>4</Count>
+	<CoverArtist>Cristhian Zamora,Emma Southey-Ray,Max Moda,Rio Burton</CoverArtist>
+	<Editor>Nicole D'Andria</Editor>
+	<Format>Series</Format>
+	<Genre>Fantasy</Genre>
+	<Inker>Giulia Lalli,Heidi Black</Inker>
+	<Letterer>Matias Zanetti</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-24T00:50:35</Notes>
+	<Number>4</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1795632" Type="FrontCover"/>
+		<Page Image="1" ImageSize="825554"/>
+		<Page Image="2" ImageSize="1034105"/>
+		<Page Image="3" ImageSize="1511351"/>
+		<Page Image="4" ImageSize="1487191"/>
+		<Page Image="5" ImageSize="1539346"/>
+		<Page Image="6" ImageSize="1530230"/>
+		<Page Image="7" ImageSize="1883038"/>
+		<Page Image="8" ImageSize="1865505"/>
+		<Page Image="9" ImageSize="1528620"/>
+		<Page Image="10" ImageSize="1545827"/>
+		<Page Image="11" ImageSize="1687935"/>
+		<Page Image="12" ImageSize="1431141"/>
+		<Page Image="13" ImageSize="1570284"/>
+		<Page Image="14" ImageSize="1762397"/>
+		<Page Image="15" ImageSize="2303376"/>
+		<Page Image="16" ImageSize="1749254"/>
+		<Page Image="17" ImageSize="1932298"/>
+		<Page Image="18" ImageSize="1907798"/>
+		<Page Image="19" ImageSize="1686845"/>
+		<Page Image="20" ImageSize="1800474"/>
+		<Page Image="21" ImageSize="1577668"/>
+		<Page Image="22" ImageSize="1650632"/>
+		<Page Image="23" ImageSize="1900215"/>
+		<Page Image="24" ImageSize="2024543"/>
+		<Page Image="25" ImageSize="1606116"/>
+		<Page Image="26" ImageSize="1830460"/>
+		<Page Image="27" ImageSize="1387552"/>
+		<Page Image="28" ImageSize="1675938"/>
+		<Page Image="29" ImageSize="1669006"/>
+		<Page Image="30" ImageSize="1598728"/>
+		<Page Image="31" ImageSize="1224704"/>
+	</Pages>
+	<Penciller>Giulia Lalli,Heidi Black</Penciller>
+	<Publisher>Curious Perspective Comics</Publisher>
+	<Series>Ruination</Series>
+	<Summary>The group finds there is nowhere else to run when the Fallen return with reinforcements.</Summary>
+	<Volume>2021</Volume>
+	<Writer>Ryan Bis</Writer>
+	<Year>2021</Year>
+</ComicInfo>

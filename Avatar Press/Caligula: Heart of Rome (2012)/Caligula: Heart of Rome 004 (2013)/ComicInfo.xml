@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Caligula,Emperor Claudius,Nero</Characters>
+	<Count>6</Count>
+	<Country>US</Country>
+	<Format>Mini-Series</Format>
+	<GTIN>urn:comicvine:4000-1098907</GTIN>
+	<Genre>Historical,Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>Rome</Locations>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:38:20 [Issue ID 4000-1098907] urn:comicvine:4000-1098907 urn:grandcomicsdatabase:issue/1098907</Notes>
+	<Number>4</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1422739" Type="FrontCover"/>
+		<Page Image="1" ImageSize="909078"/>
+		<Page Image="2" ImageSize="2071039"/>
+		<Page Image="3" ImageSize="1675509"/>
+		<Page Image="4" ImageSize="1503023"/>
+		<Page Image="5" ImageSize="1511479"/>
+		<Page Image="6" ImageSize="1775046"/>
+		<Page Image="7" ImageSize="1621383"/>
+		<Page Image="8" ImageSize="2021006"/>
+		<Page Image="9" ImageSize="1721765"/>
+		<Page Image="10" ImageSize="1458125"/>
+		<Page Image="11" ImageSize="1638968"/>
+		<Page Image="12" ImageSize="1622586"/>
+		<Page Image="13" ImageSize="1787818"/>
+		<Page Image="14" ImageSize="1688720"/>
+		<Page Image="15" ImageSize="1692382"/>
+		<Page Image="16" ImageSize="1593394"/>
+		<Page Image="17" ImageSize="1668738"/>
+		<Page Image="18" ImageSize="1678104"/>
+		<Page Image="19" ImageSize="1815056"/>
+		<Page Image="20" ImageSize="2207879"/>
+		<Page Image="21" ImageSize="1986346"/>
+		<Page Image="22" ImageSize="1796801"/>
+		<Page Image="23" ImageSize="1799738"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Caligula: Heart of Rome</Series>
+	<Summary>The truth of Caligula is revealed, but it nearly destroys Laurentius in the process. Deep within the horrors of the creature known as the "Heart of Rome," lay the secrets...and at long last, the demon Caligula is at hand.</Summary>
+	<Teams>Romans</Teams>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1098907/</Web>
+	<Writer>David Lapham</Writer>
+	<Year>2013</Year>
+</ComicInfo>

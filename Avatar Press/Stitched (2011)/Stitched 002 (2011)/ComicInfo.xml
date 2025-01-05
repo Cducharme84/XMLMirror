@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Baz,Cassandra Cooper,Dave,Pruitt,Tony Barclay,Twiggs</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Count>19</Count>
+	<Country>US</Country>
+	<Editor>James Kuhoric,William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-903814</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Afghanistan</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:38 [Issue ID 4000-903814] urn:comicvine:4000-903814 urn:grandcomicsdatabase:issue/903814</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1165640" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1232522"/>
+		<Page Image="2" ImageSize="2067094"/>
+		<Page Image="3" ImageSize="1606127"/>
+		<Page Image="4" ImageSize="1816052"/>
+		<Page Image="5" ImageSize="2716953"/>
+		<Page Image="6" ImageSize="1573254"/>
+		<Page Image="7" ImageSize="1479949"/>
+		<Page Image="8" ImageSize="1672027"/>
+		<Page Image="9" ImageSize="1566625"/>
+		<Page Image="10" ImageSize="1758318"/>
+		<Page Image="11" ImageSize="2080307"/>
+		<Page Image="12" ImageSize="1936948"/>
+		<Page Image="13" ImageSize="1975727"/>
+		<Page Image="14" ImageSize="2066106"/>
+		<Page Image="15" ImageSize="2081243"/>
+		<Page Image="16" ImageSize="1837471"/>
+		<Page Image="17" ImageSize="1772695"/>
+		<Page Image="18" ImageSize="2527168"/>
+		<Page Image="19" ImageSize="2382258"/>
+		<Page Image="20" ImageSize="2283011"/>
+		<Page Image="21" ImageSize="2044694"/>
+		<Page Image="22" ImageSize="2137226"/>
+		<Page Image="23" ImageSize="1886270"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Stitched</Series>
+	<Summary>Series is adapted from a short film written and directed by Garth Ennis.</Summary>
+	<Teams>North Atlantic Treaty Organization,Special Air Service,Stitched</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-903814/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2011</Year>
+</ComicInfo>

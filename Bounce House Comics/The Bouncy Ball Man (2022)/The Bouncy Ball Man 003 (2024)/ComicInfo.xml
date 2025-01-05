@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Everyone</AgeRating>
+  <Format>Limited Series</Format>
+  <Genre>Superhero</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-23T22:50:12</Notes>
+  <Number>3</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3830" ImageSize="1600226" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3312" ImageSize="914522" ImageWidth="2558" />
+    <Page DoublePage="False" Image="2" ImageHeight="3828" ImageSize="1312188" ImageWidth="2558" />
+    <Page DoublePage="False" Image="3" ImageHeight="3828" ImageSize="1239804" ImageWidth="2558" />
+    <Page DoublePage="False" Image="4" ImageHeight="3830" ImageSize="1539602" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3830" ImageSize="1263849" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3828" ImageSize="1213709" ImageWidth="2558" />
+    <Page DoublePage="False" Image="7" ImageHeight="3830" ImageSize="1151963" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3830" ImageSize="1366010" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3830" ImageSize="1090789" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3830" ImageSize="1333338" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3830" ImageSize="1275419" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3830" ImageSize="1026863" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3830" ImageSize="1165665" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3830" ImageSize="990082" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3828" ImageSize="862036" ImageWidth="2558" />
+    <Page DoublePage="False" Image="16" ImageHeight="3828" ImageSize="1141687" ImageWidth="2558" />
+    <Page DoublePage="False" Image="17" ImageHeight="3830" ImageSize="1232001" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3830" ImageSize="1091357" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3830" ImageSize="1054121" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3830" ImageSize="1063896" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3830" ImageSize="1162441" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3830" ImageSize="1212791" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3830" ImageSize="1051181" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3830" ImageSize="976358" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3830" ImageSize="755873" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3830" ImageSize="406406" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Bounce House Comics</Publisher>
+  <Series>The Bouncy Ball Man</Series>
+  <Volume>2022</Volume>
+  <Writer>Caleb York</Writer>
+  <Year>2024</Year>
+</ComicInfo>

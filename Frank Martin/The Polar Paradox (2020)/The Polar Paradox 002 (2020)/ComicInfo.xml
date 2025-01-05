@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature</AgeRating>
+  <Count>2</Count>
+  <Format>Limited Series</Format>
+  <Genre>Horror</Genre>
+  <Inker>Antonio Mastria</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-01T20:56:04</Notes>
+  <Number>2</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3889" ImageSize="2445457" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3891" ImageSize="1290772" ImageWidth="2556" />
+    <Page DoublePage="False" Image="2" ImageHeight="3888" ImageSize="2007830" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3888" ImageSize="2040528" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3888" ImageSize="2210550" ImageWidth="2560" />
+    <Page DoublePage="True" Image="5" ImageHeight="3891" ImageSize="4143930" ImageWidth="5030" />
+    <Page DoublePage="False" Image="6" ImageHeight="3888" ImageSize="2164186" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3888" ImageSize="1994831" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3888" ImageSize="2241017" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3888" ImageSize="2245191" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3888" ImageSize="2179061" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3888" ImageSize="2088336" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3888" ImageSize="2036532" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3888" ImageSize="2564677" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3888" ImageSize="1965278" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3888" ImageSize="2494306" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3309" ImageSize="2208639" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3889" ImageSize="1880412" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3889" ImageSize="1745562" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3889" ImageSize="1978296" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3891" ImageSize="967623" ImageWidth="2556" />
+    <Page DoublePage="False" Image="21" ImageHeight="3889" ImageSize="1852107" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3889" ImageSize="1128514" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3889" ImageSize="1519152" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3889" ImageSize="1505764" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3889" ImageSize="589789" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Antonio Mastria</Penciller>
+  <Publisher>Frank Martin</Publisher>
+  <Series>The Polar Paradox</Series>
+  <Volume>2020</Volume>
+  <Writer>Frank Martin</Writer>
+  <Year>2020</Year>
+  <Summary>After emerging in an ice cave under Antarctica, the remaining rescue divers must continue their search for the missing scientists.</Summary>
+</ComicInfo>

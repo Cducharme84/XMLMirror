@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Characters>Ichabod Jones</Characters>
+  <Count>16</Count>
+  <CoverArtist>Renzo Podesta</CoverArtist>
+  <Format>Series</Format>
+  <Genre>Horror</Genre>
+  <Inker>Renzo Podesta</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-25T01:48:56</Notes>
+  <Number>16</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="2400" ImageSize="3473397" ImageWidth="1600" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="2400" ImageSize="4345217" ImageWidth="1600" />
+    <Page DoublePage="False" Image="2" ImageHeight="2400" ImageSize="4386435" ImageWidth="1600" />
+    <Page DoublePage="False" Image="3" ImageHeight="2400" ImageSize="2710022" ImageWidth="1600" />
+    <Page DoublePage="False" Image="4" ImageHeight="2400" ImageSize="4053294" ImageWidth="1600" />
+    <Page DoublePage="False" Image="5" ImageHeight="2400" ImageSize="2676938" ImageWidth="1600" />
+    <Page DoublePage="False" Image="6" ImageHeight="2400" ImageSize="2216603" ImageWidth="1600" />
+    <Page DoublePage="False" Image="7" ImageHeight="2400" ImageSize="2843280" ImageWidth="1600" />
+    <Page DoublePage="False" Image="8" ImageHeight="2400" ImageSize="2970520" ImageWidth="1600" />
+    <Page DoublePage="False" Image="9" ImageHeight="2400" ImageSize="2828844" ImageWidth="1600" />
+    <Page DoublePage="False" Image="10" ImageHeight="2400" ImageSize="3003078" ImageWidth="1600" />
+    <Page DoublePage="False" Image="11" ImageHeight="2400" ImageSize="2788519" ImageWidth="1600" />
+    <Page DoublePage="False" Image="12" ImageHeight="2400" ImageSize="3112353" ImageWidth="1600" />
+    <Page DoublePage="False" Image="13" ImageHeight="2400" ImageSize="2637502" ImageWidth="1600" />
+    <Page DoublePage="False" Image="14" ImageHeight="2400" ImageSize="2772527" ImageWidth="1600" />
+    <Page DoublePage="False" Image="15" ImageHeight="2400" ImageSize="3255347" ImageWidth="1600" />
+    <Page DoublePage="False" Image="16" ImageHeight="2400" ImageSize="3051790" ImageWidth="1600" />
+    <Page DoublePage="False" Image="17" ImageHeight="2400" ImageSize="3711122" ImageWidth="1600" />
+    <Page DoublePage="False" Image="18" ImageHeight="2400" ImageSize="3143218" ImageWidth="1600" />
+    <Page DoublePage="False" Image="19" ImageHeight="2400" ImageSize="4314783" ImageWidth="1600" />
+    <Page DoublePage="False" Image="20" ImageHeight="2400" ImageSize="3629931" ImageWidth="1600" />
+    <Page DoublePage="False" Image="21" ImageHeight="2400" ImageSize="2721947" ImageWidth="1600" />
+    <Page DoublePage="False" Image="22" ImageHeight="2400" ImageSize="3172833" ImageWidth="1600" />
+    <Page DoublePage="False" Image="23" ImageHeight="2400" ImageSize="3158894" ImageWidth="1600" />
+    <Page DoublePage="False" Image="24" ImageHeight="2400" ImageSize="2172524" ImageWidth="1600" />
+  </Pages>
+  <Penciller>Renzo Podesta</Penciller>
+  <Publisher>Wannabe Press</Publisher>
+  <Series>Ichabod Jones: Monster Hunter</Series>
+  <Summary>This is it. The end of everything.</Summary>
+  <Volume>2016</Volume>
+  <Writer>Russell Nohelty</Writer>
+  <Year>2022</Year>
+</ComicInfo>

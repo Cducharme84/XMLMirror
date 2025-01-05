@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>31</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-482383</GTIN>
+	<Inker>Patrick Laumond</Inker>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:59:17 [Issue ID 4000-482383] urn:comicvine:4000-482383</Notes>
+	<Number>1</Number>
+	<PageCount>56</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="2292" ImageHeight="3056" ImageSize="1514253" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="2172" ImageHeight="3056" ImageSize="811714"/>
+		<Page Image="2" ImageWidth="2172" ImageHeight="3056" ImageSize="616233"/>
+		<Page Image="3" ImageWidth="2172" ImageHeight="3056" ImageSize="1196840"/>
+		<Page Image="4" ImageWidth="2172" ImageHeight="3056" ImageSize="1464007"/>
+		<Page Image="5" ImageWidth="2172" ImageHeight="3056" ImageSize="1295020"/>
+		<Page Image="6" ImageWidth="4344" ImageHeight="3056" ImageSize="2893817"/>
+		<Page Image="7" ImageWidth="2172" ImageHeight="3056" ImageSize="1645288"/>
+		<Page Image="8" ImageWidth="2172" ImageHeight="3056" ImageSize="1606839"/>
+		<Page Image="9" ImageWidth="2172" ImageHeight="3056" ImageSize="1630830"/>
+		<Page Image="10" ImageWidth="2172" ImageHeight="3056" ImageSize="1717136"/>
+		<Page Image="11" ImageWidth="2172" ImageHeight="3056" ImageSize="1632972"/>
+		<Page Image="12" ImageWidth="2172" ImageHeight="3056" ImageSize="1615796"/>
+		<Page Image="13" ImageWidth="2172" ImageHeight="3056" ImageSize="1442780"/>
+		<Page Image="14" ImageWidth="2172" ImageHeight="3056" ImageSize="1492273"/>
+		<Page Image="15" ImageWidth="2172" ImageHeight="3056" ImageSize="1597471"/>
+		<Page Image="16" ImageWidth="2172" ImageHeight="3056" ImageSize="1693101"/>
+		<Page Image="17" ImageWidth="2172" ImageHeight="3056" ImageSize="1584333"/>
+		<Page Image="18" ImageWidth="2172" ImageHeight="3056" ImageSize="1692715"/>
+		<Page Image="19" ImageWidth="2172" ImageHeight="3056" ImageSize="1451876"/>
+		<Page Image="20" ImageWidth="2172" ImageHeight="3056" ImageSize="922799"/>
+		<Page Image="21" ImageWidth="2172" ImageHeight="3056" ImageSize="1312393"/>
+		<Page Image="22" ImageWidth="2172" ImageHeight="3056" ImageSize="1557621"/>
+		<Page Image="23" ImageWidth="2172" ImageHeight="3056" ImageSize="1440736"/>
+		<Page Image="24" ImageWidth="2172" ImageHeight="3056" ImageSize="1454189"/>
+		<Page Image="25" ImageWidth="2172" ImageHeight="3056" ImageSize="1462807"/>
+		<Page Image="26" ImageWidth="2172" ImageHeight="3056" ImageSize="1424676"/>
+		<Page Image="27" ImageWidth="2172" ImageHeight="3056" ImageSize="1833700"/>
+		<Page Image="28" ImageWidth="2172" ImageHeight="3056" ImageSize="1425359"/>
+		<Page Image="29" ImageWidth="2172" ImageHeight="3056" ImageSize="1549414"/>
+		<Page Image="30" ImageWidth="2172" ImageHeight="3056" ImageSize="1386881"/>
+		<Page Image="31" ImageWidth="2172" ImageHeight="3056" ImageSize="1534282"/>
+		<Page Image="32" ImageWidth="2172" ImageHeight="3056" ImageSize="1408848"/>
+		<Page Image="33" ImageWidth="2172" ImageHeight="3056" ImageSize="1383584"/>
+		<Page Image="34" ImageWidth="2172" ImageHeight="3056" ImageSize="1553756"/>
+		<Page Image="35" ImageWidth="2172" ImageHeight="3056" ImageSize="1648696"/>
+		<Page Image="36" ImageWidth="2172" ImageHeight="3056" ImageSize="1271125"/>
+		<Page Image="37" ImageWidth="2172" ImageHeight="3056" ImageSize="1611249"/>
+		<Page Image="38" ImageWidth="2172" ImageHeight="3056" ImageSize="1538225"/>
+		<Page Image="39" ImageWidth="2172" ImageHeight="3056" ImageSize="1603110"/>
+		<Page Image="40" ImageWidth="2172" ImageHeight="3056" ImageSize="1684556"/>
+		<Page Image="41" ImageWidth="2172" ImageHeight="3056" ImageSize="1552271"/>
+		<Page Image="42" ImageWidth="2172" ImageHeight="3056" ImageSize="1721532"/>
+		<Page Image="43" ImageWidth="2172" ImageHeight="3056" ImageSize="1437083"/>
+		<Page Image="44" ImageWidth="2172" ImageHeight="3056" ImageSize="1568120"/>
+		<Page Image="45" ImageWidth="2172" ImageHeight="3056" ImageSize="1712159"/>
+		<Page Image="46" ImageWidth="2172" ImageHeight="3056" ImageSize="1708871"/>
+		<Page Image="47" ImageWidth="4344" ImageHeight="3056" ImageSize="3291266"/>
+		<Page Image="48" ImageWidth="2172" ImageHeight="3056" ImageSize="1651473"/>
+		<Page Image="49" ImageWidth="2172" ImageHeight="3056" ImageSize="1550059"/>
+		<Page Image="50" ImageWidth="2172" ImageHeight="3056" ImageSize="1610631"/>
+		<Page Image="51" ImageWidth="2172" ImageHeight="3056" ImageSize="1515426"/>
+		<Page Image="52" ImageWidth="2172" ImageHeight="3056" ImageSize="1611849"/>
+		<Page Image="53" ImageWidth="2172" ImageHeight="3056" ImageSize="1583818"/>
+		<Page Image="54" ImageWidth="2172" ImageHeight="3056" ImageSize="1728206"/>
+		<Page Image="55" ImageSize="750766"/>
+	</Pages>
+	<Penciller>Patrick Laumond</Penciller>
+	<Publisher>Humanoids</Publisher>
+	<ScanInformation>(Digital) (Zone-Empire)</ScanInformation>
+	<Series>John Lord</Series>
+	<Summary>https://comicvine.gamespot.com/john-lord-1-savage-beasts-opus-1/4000-482383/</Summary>
+	<Title>Savage Beasts Opus 1</Title>
+	<Volume>2015</Volume>
+	<Web>https://comicvine.gamespot.com/john-lord-1-savage-beasts-opus-1/4000-482383/</Web>
+	<Writer>Denis-Pierre Filippi</Writer>
+	<Year>2015</Year>
+</ComicInfo>

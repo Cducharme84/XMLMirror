@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Morty Smith,Rick Sanchez</Characters>
+	<Day>30</Day>
+	<Editor>Ian Tucker,Megan Walker,Roxy Polk</Editor>
+	<GTIN>urn:comicvine:4000-621561</GTIN>
+	<Inker>Justin Roiland</Inker>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:15:50 [Issue ID 4000-621561] urn:comicvine:4000-621561</Notes>
+	<Number>1</Number>
+	<PageCount>206</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2747845" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1619885"/>
+		<Page Image="2" ImageSize="1708212"/>
+		<Page Image="3" ImageSize="4214477"/>
+		<Page Image="4" ImageSize="2912103"/>
+		<Page Image="5" ImageSize="2163649"/>
+		<Page Image="6" ImageSize="3174696"/>
+		<Page Image="7" ImageSize="6501491"/>
+		<Page Image="8" ImageSize="2880388"/>
+		<Page Image="9" ImageSize="1401608"/>
+		<Page Image="10" ImageSize="1613797"/>
+		<Page Image="11" ImageSize="1590563"/>
+		<Page Image="12" ImageSize="1054578"/>
+		<Page Image="13" ImageSize="2206196"/>
+		<Page Image="14" ImageSize="1156038"/>
+		<Page Image="15" ImageSize="1071636"/>
+		<Page Image="16" ImageSize="1301500"/>
+		<Page Image="17" ImageSize="1908104"/>
+		<Page Image="18" ImageSize="1231421"/>
+		<Page Image="19" ImageSize="1375598"/>
+		<Page Image="20" ImageSize="3039311"/>
+		<Page Image="21" ImageSize="3016942"/>
+		<Page Image="22" ImageSize="1376915"/>
+		<Page Image="23" ImageSize="1160714"/>
+		<Page Image="24" ImageSize="1467253"/>
+		<Page Image="25" ImageSize="966039"/>
+		<Page Image="26" ImageSize="1029117"/>
+		<Page Image="27" ImageSize="1215125"/>
+		<Page Image="28" ImageSize="1103891"/>
+		<Page Image="29" ImageSize="1098893"/>
+		<Page Image="30" ImageSize="1503342"/>
+		<Page Image="31" ImageSize="1810340"/>
+		<Page Image="32" ImageSize="1616210"/>
+		<Page Image="33" ImageSize="1323206"/>
+		<Page Image="34" ImageSize="3116082"/>
+		<Page Image="35" ImageSize="2600918"/>
+		<Page Image="36" ImageSize="1492241"/>
+		<Page Image="37" ImageSize="997210"/>
+		<Page Image="38" ImageSize="1950402"/>
+		<Page Image="39" ImageSize="1491881"/>
+		<Page Image="40" ImageSize="2268919"/>
+		<Page Image="41" ImageSize="1576325"/>
+		<Page Image="42" ImageSize="968905"/>
+		<Page Image="43" ImageSize="1222404"/>
+		<Page Image="44" ImageSize="1158840"/>
+		<Page Image="45" ImageSize="1223761"/>
+		<Page Image="46" ImageSize="1609672"/>
+		<Page Image="47" ImageSize="2714159"/>
+		<Page Image="48" ImageSize="1596996"/>
+		<Page Image="49" ImageSize="930725"/>
+		<Page Image="50" ImageSize="1770652"/>
+		<Page Image="51" ImageSize="2236497"/>
+		<Page Image="52" ImageSize="1649962"/>
+		<Page Image="53" ImageSize="1265779"/>
+		<Page Image="54" ImageSize="1975476"/>
+		<Page Image="55" ImageSize="1630651"/>
+		<Page Image="56" ImageSize="1890098"/>
+		<Page Image="57" ImageSize="1904954"/>
+		<Page Image="58" ImageSize="1889729"/>
+		<Page Image="59" ImageSize="1520048"/>
+		<Page Image="60" ImageSize="1479337"/>
+		<Page Image="61" ImageSize="1348630"/>
+		<Page Image="62" ImageSize="1363762"/>
+		<Page Image="63" ImageSize="1682619"/>
+		<Page Image="64" ImageSize="1418178"/>
+		<Page Image="65" ImageSize="1097895"/>
+		<Page Image="66" ImageSize="5801451"/>
+		<Page Image="67" ImageSize="4234953"/>
+		<Page Image="68" ImageSize="3236988"/>
+		<Page Image="69" ImageSize="1730965"/>
+		<Page Image="70" ImageSize="1623325"/>
+		<Page Image="71" ImageSize="1525912"/>
+		<Page Image="72" ImageSize="1712269"/>
+		<Page Image="73" ImageSize="1654045"/>
+		<Page Image="74" ImageSize="1607237"/>
+		<Page Image="75" ImageSize="1806268"/>
+		<Page Image="76" ImageSize="2001474"/>
+		<Page Image="77" ImageSize="1879112"/>
+		<Page Image="78" ImageSize="2161548"/>
+		<Page Image="79" ImageSize="1623659"/>
+		<Page Image="80" ImageSize="1728055"/>
+		<Page Image="81" ImageSize="1940183"/>
+		<Page Image="82" ImageSize="2010750"/>
+		<Page Image="83" ImageSize="1761980"/>
+		<Page Image="84" ImageSize="1707184"/>
+		<Page Image="85" ImageSize="1496534"/>
+		<Page Image="86" ImageSize="2082088"/>
+		<Page Image="87" ImageSize="1672926"/>
+		<Page Image="88" ImageSize="2464447"/>
+		<Page Image="89" ImageSize="1486569"/>
+		<Page Image="90" ImageSize="1514952"/>
+		<Page Image="91" ImageSize="1874855"/>
+		<Page Image="92" ImageSize="1941275"/>
+		<Page Image="93" ImageSize="1815607"/>
+		<Page Image="94" ImageSize="1257661"/>
+		<Page Image="95" ImageSize="1555734"/>
+		<Page Image="96" ImageSize="1466991"/>
+		<Page Image="97" ImageSize="1730279"/>
+		<Page Image="98" ImageSize="1990210"/>
+		<Page Image="99" ImageSize="1650459"/>
+		<Page Image="100" ImageSize="2059359"/>
+		<Page Image="101" ImageSize="1716728"/>
+		<Page Image="102" ImageSize="1578785"/>
+		<Page Image="103" ImageSize="1522360"/>
+		<Page Image="104" ImageSize="1724908"/>
+		<Page Image="105" ImageSize="1721820"/>
+		<Page Image="106" ImageSize="1910315"/>
+		<Page Image="107" ImageSize="1355601"/>
+		<Page Image="108" ImageSize="1663017"/>
+		<Page Image="109" ImageSize="1227194"/>
+		<Page Image="110" ImageSize="1709357"/>
+		<Page Image="111" ImageSize="1096455"/>
+		<Page Image="112" ImageSize="1385386"/>
+		<Page Image="113" ImageSize="1669147"/>
+		<Page Image="114" ImageSize="1815009"/>
+		<Page Image="115" ImageSize="1426478"/>
+		<Page Image="116" ImageSize="1562955"/>
+		<Page Image="117" ImageSize="1377332"/>
+		<Page Image="118" ImageSize="1796359"/>
+		<Page Image="119" ImageSize="1398207"/>
+		<Page Image="120" ImageSize="1355552"/>
+		<Page Image="121" ImageSize="1525204"/>
+		<Page Image="122" ImageSize="1510820"/>
+		<Page Image="123" ImageSize="4055222"/>
+		<Page Image="124" ImageSize="3394118"/>
+		<Page Image="125" ImageSize="1556263"/>
+		<Page Image="126" ImageSize="1467822"/>
+		<Page Image="127" ImageSize="1703973"/>
+		<Page Image="128" ImageSize="1745561"/>
+		<Page Image="129" ImageSize="1814099"/>
+		<Page Image="130" ImageSize="2126966"/>
+		<Page Image="131" ImageSize="915580"/>
+		<Page Image="132" ImageSize="1718708"/>
+		<Page Image="133" ImageSize="1757006"/>
+		<Page Image="134" ImageSize="1815222"/>
+		<Page Image="135" ImageSize="1806748"/>
+		<Page Image="136" ImageSize="1110979"/>
+		<Page Image="137" ImageSize="2288489"/>
+		<Page Image="138" ImageSize="1959265"/>
+		<Page Image="139" ImageSize="2176924"/>
+		<Page Image="140" ImageSize="1793859"/>
+		<Page Image="141" ImageSize="1963942"/>
+		<Page Image="142" ImageSize="1673702"/>
+		<Page Image="143" ImageSize="5076200"/>
+		<Page Image="144" ImageSize="2634777"/>
+		<Page Image="145" ImageSize="2374296"/>
+		<Page Image="146" ImageSize="2733610"/>
+		<Page Image="147" ImageSize="2770502"/>
+		<Page Image="148" ImageSize="2648110"/>
+		<Page Image="149" ImageSize="2652864"/>
+		<Page Image="150" ImageSize="2300918"/>
+		<Page Image="151" ImageSize="2702151"/>
+		<Page Image="152" ImageSize="3703926"/>
+		<Page Image="153" ImageSize="2698658"/>
+		<Page Image="154" ImageSize="5733457"/>
+		<Page Image="155" ImageSize="2969772"/>
+		<Page Image="156" ImageSize="3098739"/>
+		<Page Image="157" ImageSize="3349032"/>
+		<Page Image="158" ImageSize="2897642"/>
+		<Page Image="159" ImageSize="10183560"/>
+		<Page Image="160" ImageSize="2477529"/>
+		<Page Image="161" ImageSize="3213288"/>
+		<Page Image="162" ImageSize="7433775"/>
+		<Page Image="163" ImageSize="2823048"/>
+		<Page Image="164" ImageSize="3173565"/>
+		<Page Image="165" ImageSize="3732192"/>
+		<Page Image="166" ImageSize="3041149"/>
+		<Page Image="167" ImageSize="3328812"/>
+		<Page Image="168" ImageSize="2645053"/>
+		<Page Image="169" ImageSize="3306888"/>
+		<Page Image="170" ImageSize="3134185"/>
+		<Page Image="171" ImageSize="2992747"/>
+		<Page Image="172" ImageSize="3719945"/>
+		<Page Image="173" ImageSize="2875930"/>
+		<Page Image="174" ImageSize="3730505"/>
+		<Page Image="175" ImageSize="4142357"/>
+		<Page Image="176" ImageSize="2903198"/>
+		<Page Image="177" ImageSize="2944581"/>
+		<Page Image="178" ImageSize="2440568"/>
+		<Page Image="179" ImageSize="2879251"/>
+		<Page Image="180" ImageSize="2338697"/>
+		<Page Image="181" ImageSize="2365014"/>
+		<Page Image="182" ImageSize="3728301"/>
+		<Page Image="183" ImageSize="2276613"/>
+		<Page Image="184" ImageSize="3389788"/>
+		<Page Image="185" ImageSize="5172356"/>
+		<Page Image="186" ImageSize="1464546"/>
+		<Page Image="187" ImageSize="1879825"/>
+		<Page Image="188" ImageSize="1804001"/>
+		<Page Image="189" ImageSize="1455330"/>
+		<Page Image="190" ImageSize="2026743"/>
+		<Page Image="191" ImageSize="2521342"/>
+		<Page Image="192" ImageSize="2008361"/>
+		<Page Image="193" ImageSize="3288842"/>
+		<Page Image="194" ImageSize="2927227"/>
+		<Page Image="195" ImageSize="2568670"/>
+		<Page Image="196" ImageSize="2657933"/>
+		<Page Image="197" ImageSize="3766595"/>
+		<Page Image="198" ImageSize="2985816"/>
+		<Page Image="199" ImageSize="3226139"/>
+		<Page Image="200" ImageSize="2443855"/>
+		<Page Image="201" ImageSize="2455104"/>
+		<Page Image="202" ImageSize="2319380"/>
+		<Page Image="203" ImageSize="2858822"/>
+		<Page Image="204" ImageSize="1599769"/>
+		<Page Image="205" ImageSize="2014750"/>
+	</Pages>
+	<Penciller>Justin Roiland</Penciller>
+	<Publisher>Dark Horse Comics</Publisher>
+	<Series>The Art of Rick and Morty</Series>
+	<Summary>WHOA, ART BOOK! WUBBA LUBBA DUB-DUB!
+
+The animated science-fiction adventures seen in Rick and Morty are irreverent, shocking, and hilarious. From the cynical and rapid-fire one-liners to the grotesque and endearing character designs. Now, take a deep transdimensional dive into the creation of these many insane universes with The Art of Rick and Morty!
+
+Includes special glow-in-the-dark cover
+
+Exclusive never-before-seen concept art from the making of the hit animated series!
+
+Note: The digital edition (9/12/2017) for this volume was released before the print edition.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-02 18:21:47.  [Issue ID 621561]
+
+https://comicvine.gamespot.com/the-art-of-rick-and-morty-1-volume-one/4000-621561/</Summary>
+	<Tags>Morty Smith,Rick Sanchez</Tags>
+	<Title>Volume One</Title>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/the-art-of-rick-and-morty-1-volume-one/4000-621561/</Web>
+	<Year>2017</Year>
+</ComicInfo>

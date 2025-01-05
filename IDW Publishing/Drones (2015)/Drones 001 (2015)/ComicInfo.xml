@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Angel Eyes,Stinger</Characters>
+	<Colorist>Anderson Cabral</Colorist>
+	<Day>30</Day>
+	<Editor>Andy Schmidt,Bobby Curnow,Jon Hogan</Editor>
+	<GTIN>urn:comicvine:4000-486747</GTIN>
+	<Inker>Bruno Oliveira</Inker>
+	<Letterer>E.T. Dollman</Letterer>
+	<Locations>Afghanistan,Las Vegas</Locations>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:39:23 [Issue ID 4000-486747] urn:comicvine:4000-486747</Notes>
+	<Number>1</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1372213" Type="FrontCover"/>
+		<Page Image="1" ImageSize="910136"/>
+		<Page Image="2" ImageSize="1418783"/>
+		<Page Image="3" ImageSize="1318511"/>
+		<Page Image="4" ImageSize="1410337"/>
+		<Page Image="5" ImageSize="1222458"/>
+		<Page Image="6" ImageSize="1294417"/>
+		<Page Image="7" ImageSize="1416243"/>
+		<Page Image="8" ImageSize="1501581"/>
+		<Page Image="9" ImageSize="1141382"/>
+		<Page Image="10" ImageSize="1058942"/>
+		<Page Image="11" ImageSize="1051373"/>
+		<Page Image="12" ImageSize="1275492"/>
+		<Page Image="13" ImageSize="1401658"/>
+		<Page Image="14" ImageSize="1657103"/>
+		<Page Image="15" ImageSize="1303261"/>
+		<Page Image="16" ImageSize="1329832"/>
+		<Page Image="17" ImageSize="1647260"/>
+		<Page Image="18" ImageSize="1417702"/>
+		<Page Image="19" ImageSize="3722576"/>
+		<Page Image="20" ImageSize="788623"/>
+		<Page Image="21" ImageSize="1021559"/>
+		<Page Image="22" ImageSize="1224034"/>
+		<Page Image="23" ImageSize="1592306"/>
+		<Page Image="24" ImageSize="1295759"/>
+		<Page Image="25" ImageSize="1150630"/>
+		<Page Image="26" ImageSize="750766"/>
+	</Pages>
+	<Penciller>Bruno Oliveira</Penciller>
+	<Publisher>IDW Publishing</Publisher>
+	<Series>Drones</Series>
+	<Summary>Two former predator drone operators face insurgency and insanity on the Las Vegas Strip in the surreal surroundings of the world’s first terrorism-themed hotel!
+
+*List of covers and their creators:*
+ Cover | Name               | Creator(s)       | Sidebar Location |
+---------------------------------------------------------------
+ Reg   | Regular Cover      | Ramon Villalobos | 1                |
+ Sub   | Subscription Cover | Bruno Oliveira   | 2                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-07 13:13:08.  [Issue ID 486747]
+
+https://comicvine.gamespot.com/drones-1-now-playing/4000-486747/</Summary>
+	<Tags>Afghanistan,Angel Eyes,Las Vegas,Stinger</Tags>
+	<Title>Now Playing</Title>
+	<Volume>2015</Volume>
+	<Web>https://comicvine.gamespot.com/drones-1-now-playing/4000-486747/</Web>
+	<Writer>Chris Lewis</Writer>
+	<Year>2015</Year>
+</ComicInfo>

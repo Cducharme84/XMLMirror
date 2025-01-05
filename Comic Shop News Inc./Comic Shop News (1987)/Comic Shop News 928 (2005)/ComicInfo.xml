@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Day>25</Day>
+  <GTIN>urn:comicvine:4000-406096</GTIN>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:42:04 [Issue ID 4000-406096] urn:comicvine:4000-406096
+Tagged with ComicTagger 1.6.0a13.dev78 using info from Comic Vine on 2024-04-08 23:37:54. [Issue ID 406096]</Notes>
+  <Number>928</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+    <Page Image="8" />
+  </Pages>
+  <Publisher>Comic Shop News Inc.</Publisher>
+  <ScanInformation>(Conan &amp; the Jewels of Gwahlur cover article)  (Bug-DCP)</ScanInformation>
+  <Series>Comic Shop News</Series>
+  <Volume>1987</Volume>
+  <Web>https://comicvine.gamespot.com/comic-shop-news-928/4000-406096/</Web>
+  <Year>2005</Year>
+  <Count>810</Count>
+</ComicInfo>

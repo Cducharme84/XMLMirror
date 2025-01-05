@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Undertaker</Characters>
+  <Colorist>Jason Jensen,John Merrifield</Colorist>
+  <Count>1</Count>
+  <Editor>Brian Pulido</Editor>
+  <GTIN>urn:comicvine:4000-260380</GTIN>
+  <Genre>Fantasy</Genre>
+  <Inker>Manny Clarke,Sandu Florea</Inker>
+  <Letterer>Comicraft</Letterer>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:37:32 [Issue ID 4000-260380] urn:comicvine:4000-260380 urn:grandcomicsdatabase:issue/260380
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 19:20:02. [Issue ID 260380]</Notes>
+  <Number>0</Number>
+  <PageCount>18</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1609" ImageSize="439157" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1612" ImageSize="283443" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1608" ImageSize="513550" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1614" ImageSize="477636" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1602" ImageSize="623092" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1602" ImageSize="533329" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1602" ImageSize="539925" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1528" ImageSize="532818" ImageWidth="974" />
+    <Page Image="8" ImageHeight="1606" ImageSize="517478" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1608" ImageSize="493185" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1612" ImageSize="586844" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1614" ImageSize="494886" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1602" ImageSize="492481" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1608" ImageSize="501542" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1608" ImageSize="506898" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1612" ImageSize="447313" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1604" ImageSize="418089" ImageWidth="1024" />
+    <Page Image="17" ImageSize="497495" />
+  </Pages>
+  <Penciller>Manny Clarke</Penciller>
+  <Publisher>Chaos! Comics; Wizard</Publisher>
+  <Series>Undertaker</Series>
+  <Summary>Preview issue polybagged with an issue of Wizard Magazine.</Summary>
+  <Title>Brutality Crew</Title>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-260380/</Web>
+  <Writer>Beau Smith</Writer>
+  <Year>1999</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

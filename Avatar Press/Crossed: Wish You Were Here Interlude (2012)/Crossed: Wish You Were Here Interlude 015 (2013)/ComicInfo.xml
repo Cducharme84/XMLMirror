@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Chanice,Lance,Maria,Mark,Miranda,Roshan Masoud,Shaky</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>23</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-405542</GTIN>
+	<Inker>Fernando Melek,Lee Townsend</Inker>
+	<Locations>Orkney Islands</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:26 [Issue ID 4000-405542] urn:comicvine:4000-405542</Notes>
+	<Number>15</Number>
+	<PageCount>4</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="218540" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="808" ImageSize="273697"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="805" ImageSize="293713"/>
+		<Page Image="3" ImageSize="438472"/>
+	</Pages>
+	<Penciller>Fernando Melek</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital)</ScanInformation>
+	<Series>Crossed: Wish You Were Here Interlude</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-15-interlude-/4000-405542/</Summary>
+	<Tags>Chanice,Lance,Maria,Mark,Miranda,Orkney Islands,Roshan Masoud,Shaky,The Crossed</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Interlude 15</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-15-interlude-/4000-405542/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

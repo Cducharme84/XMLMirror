@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Series>Skrack</Series>
+  <Number>3</Number>
+  <Count>3</Count>
+  <Volume>2023</Volume>
+  <Genre>Horror,Anthology</Genre>
+  <Summary>What happens when a woman goes to change her IUD? Inspired by true events.</Summary>
+  <Publisher>Jennie Gyllblad</Publisher>
+  <Year>2023</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+  <BlackAndWhite>Yes</BlackAndWhite>
+  <AgeRating>Mature</AgeRating>
+  <PageCount>23</PageCount>
+  <Writer>Jennie Gyllblad</Writer>
+  <Penciller>Jennie Gyllblad</Penciller>
+  <Inker>Jennie Gyllblad</Inker>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="2414" ImageSize="3240852" ImageWidth="1600" Type="FrontCover" />
+    <Page DoublePage="True" Image="1" ImageHeight="3018" ImageSize="8915058" ImageWidth="4000" />
+    <Page DoublePage="False" Image="2" ImageHeight="2414" ImageSize="2819709" ImageWidth="1600" />
+    <Page DoublePage="False" Image="3" ImageHeight="2414" ImageSize="3248507" ImageWidth="1600" />
+    <Page DoublePage="False" Image="4" ImageHeight="2414" ImageSize="3940593" ImageWidth="1600" />
+    <Page DoublePage="False" Image="5" ImageHeight="2414" ImageSize="3068297" ImageWidth="1600" />
+    <Page DoublePage="False" Image="6" ImageHeight="2414" ImageSize="3251334" ImageWidth="1600" />
+    <Page DoublePage="False" Image="7" ImageHeight="2414" ImageSize="3488313" ImageWidth="1600" />
+    <Page DoublePage="False" Image="8" ImageHeight="2414" ImageSize="3304248" ImageWidth="1600" />
+    <Page DoublePage="False" Image="9" ImageHeight="2414" ImageSize="3372910" ImageWidth="1600" />
+    <Page DoublePage="False" Image="10" ImageHeight="2414" ImageSize="3800705" ImageWidth="1600" />
+    <Page DoublePage="False" Image="11" ImageHeight="2414" ImageSize="2784783" ImageWidth="1600" />
+    <Page DoublePage="False" Image="12" ImageHeight="2414" ImageSize="3626546" ImageWidth="1600" />
+    <Page DoublePage="False" Image="13" ImageHeight="2414" ImageSize="3886990" ImageWidth="1600" />
+    <Page DoublePage="False" Image="14" ImageHeight="2414" ImageSize="4119903" ImageWidth="1600" />
+    <Page DoublePage="False" Image="15" ImageHeight="2414" ImageSize="3205279" ImageWidth="1600" />
+    <Page DoublePage="False" Image="16" ImageHeight="2414" ImageSize="3770346" ImageWidth="1600" />
+    <Page DoublePage="False" Image="17" ImageHeight="2414" ImageSize="3621524" ImageWidth="1600" />
+    <Page DoublePage="False" Image="18" ImageHeight="2414" ImageSize="3574442" ImageWidth="1600" />
+    <Page DoublePage="False" Image="19" ImageHeight="2414" ImageSize="3547567" ImageWidth="1600" />
+    <Page DoublePage="False" Image="20" ImageHeight="2414" ImageSize="4884458" ImageWidth="1600" />
+    <Page DoublePage="False" Image="21" ImageHeight="2414" ImageSize="2666708" ImageWidth="1600" />
+    <Page DoublePage="False" Image="22" ImageHeight="2414" ImageSize="3377041" ImageWidth="1600" />
+  </Pages>
+</ComicInfo>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jinn,Death Queen,Wolfram Von Bach,Cai Von Bach,Archbishop Vittorio,Henry Heinemann,Lady Death,Tvarus</Characters>
+  <Colorist>Greg Waller</Colorist>
+  <Count>8</Count>
+  <Day>1</Day>
+  <Editor>Barbara Randall Kesel,William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-742900</GTIN>
+  <Inker>Alex Lei</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:08 [Issue ID 4000-742900] urn:comicvine:4000-742900 urn:grandcomicsdatabase:issue/742900
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:41:26. [Issue ID 742900]</Notes>
+  <Number>1</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="987069" Type="FrontCover" />
+    <Page Image="1" ImageSize="392046" />
+    <Page Image="2" ImageSize="507473" />
+    <Page Image="3" ImageSize="513052" />
+    <Page Image="4" ImageSize="529616" />
+    <Page Image="5" ImageSize="546772" />
+    <Page Image="6" ImageSize="520916" />
+    <Page Image="7" ImageSize="481068" />
+    <Page Image="8" ImageSize="525068" />
+    <Page Image="9" ImageSize="481818" />
+    <Page Image="10" ImageSize="443239" />
+    <Page Image="11" ImageSize="410100" />
+    <Page Image="12" ImageSize="473705" />
+    <Page Image="13" ImageSize="372271" />
+    <Page Image="14" ImageSize="528363" />
+    <Page Image="15" ImageSize="440572" />
+    <Page Image="16" ImageSize="507405" />
+    <Page Image="17" ImageSize="451918" />
+    <Page Image="18" ImageSize="378674" />
+    <Page Image="19" ImageSize="396466" />
+    <Page Image="20" ImageSize="405699" />
+    <Page Image="21" ImageSize="470289" />
+    <Page Image="22" ImageSize="416722" />
+    <Page Image="23" ImageSize="390230" />
+    <Page Image="24" ImageSize="442140" />
+    <Page Image="25" ImageSize="467384" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Brian Pulido's Medieval Lady Death</Series>
+  <Volume>2005</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-742900/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2005</Year>
+</ComicInfo>

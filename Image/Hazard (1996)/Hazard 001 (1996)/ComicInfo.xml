@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Doctor D'oro,Hazard</Characters>
+	<Colorist>Tony Kelly</Colorist>
+	<Day>1</Day>
+	<Editor>Mike Rockwitz</Editor>
+	<GTIN>urn:comicvine:4000-158584</GTIN>
+	<Inker>Gerry Alanguilan,Roy Allan Martinez</Inker>
+	<Letterer>Amie Grenier</Letterer>
+	<Locations>Gamorra,Las Vegas,Los Angeles</Locations>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:16:23 [Issue ID 4000-158584] urn:comicvine:4000-158584</Notes>
+	<Number>1</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="216852" Type="FrontCover"/>
+		<Page Image="1" ImageSize="298448"/>
+		<Page Image="2" ImageSize="197781"/>
+		<Page Image="3" ImageSize="208056"/>
+		<Page Image="4" ImageSize="172601"/>
+		<Page Image="5" ImageSize="200013"/>
+		<Page Image="6" ImageSize="252930"/>
+		<Page Image="7" ImageSize="274635"/>
+		<Page Image="8" ImageSize="214161"/>
+		<Page Image="9" ImageSize="212630"/>
+		<Page Image="10" ImageSize="212990"/>
+		<Page Image="11" ImageSize="224968"/>
+		<Page Image="12" ImageSize="200469"/>
+		<Page Image="13" ImageSize="238307"/>
+		<Page Image="14" ImageSize="188931"/>
+		<Page Image="15" ImageSize="198194"/>
+		<Page Image="16" ImageSize="182835"/>
+		<Page Image="17" ImageSize="208737"/>
+		<Page Image="18" ImageSize="179032"/>
+		<Page Image="19" ImageSize="217026"/>
+		<Page Image="20" ImageSize="175238"/>
+		<Page Image="21" ImageSize="277082"/>
+	</Pages>
+	<Penciller>Roy Allan Martinez</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>Hazard</Series>
+	<Summary>https://comicvine.gamespot.com/hazard-1/4000-158584/</Summary>
+	<Tags>Doctor D'oro,Gamorra,Hazard,Las Vegas,Los Angeles</Tags>
+	<Volume>1996</Volume>
+	<Web>https://comicvine.gamespot.com/hazard-1/4000-158584/</Web>
+	<Writer>Jeff Mariotte</Writer>
+	<Year>1996</Year>
+</ComicInfo>

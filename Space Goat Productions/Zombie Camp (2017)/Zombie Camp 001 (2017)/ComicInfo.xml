@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Violet,Johnny</Characters>
+  <Count>3</Count>
+  <Day>8</Day>
+  <GTIN>urn:comicvine:4000-582601</GTIN>
+  <Inker>Dev Madan,Jacob Bascle</Inker>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:30:57 [Issue ID 4000-582601] urn:comicvine:4000-582601
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:41:21. [Issue ID 1681045]</Notes>
+  <Number>1</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1811923" Type="FrontCover" />
+    <Page Image="1" ImageSize="1517357" />
+    <Page Image="2" ImageSize="1372700" />
+    <Page Image="3" ImageSize="1754152" />
+    <Page Image="4" ImageSize="1493972" />
+    <Page Image="5" ImageSize="1588347" />
+    <Page Image="6" ImageSize="1428210" />
+    <Page Image="7" ImageSize="1818795" />
+    <Page Image="8" ImageSize="1709556" />
+    <Page Image="9" ImageSize="1796429" />
+    <Page Image="10" ImageSize="1848041" />
+    <Page Image="11" ImageSize="1590211" />
+    <Page Image="12" ImageSize="1754049" />
+    <Page Image="13" ImageSize="1531676" />
+    <Page Image="14" ImageSize="1598824" />
+    <Page Image="15" ImageSize="1688402" />
+    <Page Image="16" ImageSize="1727815" />
+    <Page Image="17" ImageSize="1675071" />
+    <Page Image="18" ImageSize="1462088" />
+    <Page Image="19" ImageSize="1484877" />
+    <Page Image="20" ImageSize="1449768" />
+    <Page Image="21" ImageSize="1449374" />
+    <Page Image="22" ImageSize="1283160" />
+    <Page Image="23" ImageSize="1570956" />
+    <Page Image="24" ImageSize="418570" />
+  </Pages>
+  <Penciller>Dev Madan,Jacob Bascle</Penciller>
+  <Publisher>Space Goat Productions</Publisher>
+  <Series>Zombie Camp</Series>
+  <Summary>When Johnny hears a rumor that Sarge’s body is hidden somewhere in the forest outside the campground, he recruits Violet and some of the other campers to go on a mission to find out if it’s true.</Summary>
+  <Teams>Zombies</Teams>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/zombie-camp-1/4000-582601/</Web>
+  <Writer>Frank Hannah</Writer>
+  <Year>2017</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Glyph,Ravyn</Characters>
+  <Count>3</Count>
+  <Country>US</Country>
+  <Format>Miniseries</Format>
+  <GTIN>urn:comicvine:4000-1095412</GTIN>
+  <Inker>David Mowry</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Texas</Locations>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:31:26 [Issue ID 4000-1095412] urn:comicvine:4000-1095412 urn:grandcomicsdatabase:issue/1095412
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:07:39. [Issue ID 1095412]</Notes>
+  <Number>1</Number>
+  <PageCount>32</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="428702" Type="FrontCover" />
+    <Page Image="1" ImageSize="428732" />
+    <Page Image="2" ImageSize="412341" />
+    <Page Image="3" ImageSize="439452" />
+    <Page Image="4" ImageSize="261341" />
+    <Page Image="5" ImageSize="415058" />
+    <Page Image="6" ImageSize="410986" />
+    <Page Image="7" ImageSize="408218" />
+    <Page Image="8" ImageSize="356746" />
+    <Page Image="9" ImageSize="386935" />
+    <Page Image="10" ImageSize="382311" />
+    <Page Image="11" ImageSize="383609" />
+    <Page Image="12" ImageSize="390990" />
+    <Page Image="13" ImageSize="365888" />
+    <Page Image="14" ImageSize="382685" />
+    <Page Image="15" ImageSize="470370" />
+    <Page Image="16" ImageSize="463273" />
+    <Page Image="17" ImageSize="495321" />
+    <Page Image="18" ImageSize="480499" />
+    <Page Image="19" ImageSize="458093" />
+    <Page Image="20" ImageSize="387543" />
+    <Page Image="21" ImageSize="376494" />
+    <Page Image="22" ImageSize="366272" />
+    <Page Image="23" ImageSize="446239" />
+    <Page Image="24" ImageSize="401748" />
+    <Page Image="25" ImageSize="418708" />
+    <Page Image="26" ImageSize="402530" />
+    <Page Image="27" ImageSize="411677" />
+    <Page Image="28" ImageSize="366818" />
+    <Page Image="29" ImageSize="408407" />
+    <Page Image="30" ImageSize="417979" />
+    <Page Image="31" ImageSize="313937" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>The Ravening</Series>
+  <Summary>A painting of Atlas in battle with the Triarchs is in the hands of a private art collector. Ravyn wants that painting and will do whatever it takes to get it.</Summary>
+  <Tags>Glyph,Ravyn</Tags>
+  <Teams>Vampires</Teams>
+  <Title>The Ravening</Title>
+  <Volume>1997</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1095412/</Web>
+  <Year>1997</Year>
+</ComicInfo>

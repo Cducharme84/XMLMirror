@@ -1,0 +1,91 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Conan</Characters>
+  <Colorist>Steve Mattson</Colorist>
+  <Day>1</Day>
+  <Editor>Kelly Corvese,Terry Kavanagh,Tom DeFalco</Editor>
+  <GTIN>urn:comicvine:4000-219476</GTIN>
+  <Inker>Gary Martin,Paul Gulacy</Inker>
+  <Letterer>David Jackson</Letterer>
+  <Locations>Argos,Hyboria</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T14:34:36 [Issue ID 4000-219476] urn:comicvine:4000-219476
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-21 05:48:54. [Issue ID 219476]</Notes>
+  <Number>1</Number>
+  <PageCount>66</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1620" ImageSize="515388" ImageWidth="1232" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1627" ImageSize="420074" ImageWidth="1232" />
+    <Page Image="2" ImageHeight="1626" ImageSize="473606" ImageWidth="1230" />
+    <Page Image="3" ImageHeight="1628" ImageSize="565450" ImageWidth="1233" />
+    <Page Image="4" ImageHeight="1624" ImageSize="625266" ImageWidth="1216" />
+    <Page Image="5" ImageHeight="1626" ImageSize="566988" ImageWidth="1218" />
+    <Page Image="6" ImageHeight="1626" ImageSize="606026" ImageWidth="1217" />
+    <Page Image="7" ImageHeight="1620" ImageSize="610188" ImageWidth="1208" />
+    <Page Image="8" ImageHeight="1628" ImageSize="636664" ImageWidth="1192" />
+    <Page Image="9" ImageHeight="1624" ImageSize="598885" ImageWidth="1214" />
+    <Page Image="10" ImageHeight="1621" ImageSize="649680" ImageWidth="1212" />
+    <Page Image="11" ImageHeight="1612" ImageSize="647035" ImageWidth="1200" />
+    <Page Image="12" ImageHeight="1618" ImageSize="655804" ImageWidth="1202" />
+    <Page Image="13" ImageHeight="1620" ImageSize="633267" ImageWidth="1211" />
+    <Page Image="14" ImageHeight="1620" ImageSize="613022" ImageWidth="1204" />
+    <Page Image="15" ImageHeight="1624" ImageSize="593188" ImageWidth="1207" />
+    <Page Image="16" ImageHeight="1620" ImageSize="548070" ImageWidth="1194" />
+    <Page Image="17" ImageHeight="1625" ImageSize="570857" ImageWidth="1206" />
+    <Page Image="18" ImageHeight="1623" ImageSize="562250" ImageWidth="1200" />
+    <Page Image="19" ImageHeight="1622" ImageSize="652490" ImageWidth="1205" />
+    <Page Image="20" ImageHeight="1621" ImageSize="626346" ImageWidth="1196" />
+    <Page Image="21" ImageHeight="1622" ImageSize="590727" ImageWidth="1206" />
+    <Page Image="22" ImageHeight="1615" ImageSize="636956" ImageWidth="1191" />
+    <Page Image="23" ImageHeight="1620" ImageSize="569364" ImageWidth="1201" />
+    <Page Image="24" ImageHeight="1620" ImageSize="533211" ImageWidth="1188" />
+    <Page Image="25" ImageHeight="1622" ImageSize="535255" ImageWidth="1214" />
+    <Page Image="26" ImageHeight="1621" ImageSize="654758" ImageWidth="1210" />
+    <Page Image="27" ImageHeight="1624" ImageSize="615009" ImageWidth="1213" />
+    <Page Image="28" ImageHeight="1623" ImageSize="593243" ImageWidth="1208" />
+    <Page Image="29" ImageHeight="1618" ImageSize="586621" ImageWidth="1208" />
+    <Page Image="30" ImageHeight="1624" ImageSize="643294" ImageWidth="1202" />
+    <Page Image="31" ImageHeight="1625" ImageSize="607291" ImageWidth="1214" />
+    <Page Image="32" ImageHeight="1624" ImageSize="609626" ImageWidth="1206" />
+    <Page Image="33" ImageHeight="1622" ImageSize="644251" ImageWidth="1180" />
+    <Page Image="34" ImageHeight="1628" ImageSize="617075" ImageWidth="1208" />
+    <Page Image="35" ImageHeight="1625" ImageSize="550811" ImageWidth="1214" />
+    <Page Image="36" ImageHeight="1622" ImageSize="569397" ImageWidth="1190" />
+    <Page Image="37" ImageHeight="1624" ImageSize="528962" ImageWidth="1212" />
+    <Page Image="38" ImageHeight="1624" ImageSize="603568" ImageWidth="1205" />
+    <Page Image="39" ImageHeight="1625" ImageSize="590947" ImageWidth="1223" />
+    <Page Image="40" ImageHeight="1626" ImageSize="599582" ImageWidth="1196" />
+    <Page Image="41" ImageHeight="1624" ImageSize="550188" ImageWidth="1213" />
+    <Page Image="42" ImageHeight="1624" ImageSize="579823" ImageWidth="1200" />
+    <Page Image="43" ImageHeight="1620" ImageSize="611129" ImageWidth="1212" />
+    <Page Image="44" ImageHeight="1612" ImageSize="626009" ImageWidth="1194" />
+    <Page Image="45" ImageHeight="1619" ImageSize="529337" ImageWidth="1206" />
+    <Page Image="46" ImageHeight="1612" ImageSize="489888" ImageWidth="1186" />
+    <Page Image="47" ImageHeight="1608" ImageSize="638136" ImageWidth="1199" />
+    <Page Image="48" ImageHeight="1615" ImageSize="627181" ImageWidth="1202" />
+    <Page Image="49" ImageHeight="1618" ImageSize="566931" ImageWidth="1196" />
+    <Page Image="50" ImageHeight="1616" ImageSize="627496" ImageWidth="1192" />
+    <Page Image="51" ImageHeight="1614" ImageSize="594924" ImageWidth="1204" />
+    <Page Image="52" ImageHeight="1620" ImageSize="625615" ImageWidth="1208" />
+    <Page Image="53" ImageHeight="1622" ImageSize="533193" ImageWidth="1210" />
+    <Page Image="54" ImageHeight="1622" ImageSize="594752" ImageWidth="1209" />
+    <Page Image="55" ImageHeight="1621" ImageSize="625321" ImageWidth="1213" />
+    <Page Image="56" ImageHeight="1623" ImageSize="561230" ImageWidth="1209" />
+    <Page Image="57" ImageHeight="1621" ImageSize="602584" ImageWidth="1206" />
+    <Page Image="58" ImageHeight="1620" ImageSize="606862" ImageWidth="1208" />
+    <Page Image="59" ImageHeight="1622" ImageSize="576309" ImageWidth="1208" />
+    <Page Image="60" ImageHeight="1624" ImageSize="568446" ImageWidth="1203" />
+    <Page Image="61" ImageHeight="1625" ImageSize="602646" ImageWidth="1194" />
+    <Page Image="62" ImageHeight="1624" ImageSize="606742" ImageWidth="1206" />
+    <Page Image="63" ImageHeight="1624" ImageSize="528042" ImageWidth="1195" />
+    <Page Image="64" ImageHeight="1627" ImageSize="646649" ImageWidth="1228" />
+    <Page Image="65" ImageSize="604687" />
+  </Pages>
+  <Penciller>Paul Gulacy,Paul Gulacy</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Conan the Barbarian: The Skull of Set</Series>
+  <Volume>1989</Volume>
+  <Web>https://comicvine.gamespot.com/conan-the-barbarian-the-skull-of-set-1/4000-219476/</Web>
+  <Writer>Doug Moench</Writer>
+  <Year>1989</Year>
+  <Count>1</Count>
+<Genre>Fantasy</Genre></ComicInfo>

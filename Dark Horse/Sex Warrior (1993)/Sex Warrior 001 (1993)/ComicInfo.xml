@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>2</Count>
+  <Country>US</Country>
+  <Day>20</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-245343</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:44:28 [Issue ID 4000-245343] urn:comicvine:4000-245343 urn:grandcomicsdatabase:issue/245343
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 20:17:47. [Issue ID 245343]</Notes>
+  <Number>1</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="911584" Type="FrontCover" />
+    <Page Image="1" ImageSize="451710" />
+    <Page Image="2" ImageSize="1180729" />
+    <Page Image="3" ImageSize="811907" />
+    <Page Image="4" ImageSize="1063005" />
+    <Page Image="5" ImageSize="1013649" />
+    <Page Image="6" ImageSize="1034722" />
+    <Page Image="7" ImageSize="973795" />
+    <Page Image="8" ImageSize="1034134" />
+    <Page Image="9" ImageSize="1103887" />
+    <Page Image="10" ImageSize="1027987" />
+    <Page Image="11" ImageSize="1261137" />
+    <Page Image="12" ImageSize="1030714" />
+    <Page Image="13" ImageSize="1014752" />
+    <Page Image="14" ImageSize="976403" />
+    <Page Image="15" ImageSize="895223" />
+    <Page Image="16" ImageSize="1037513" />
+    <Page Image="17" ImageSize="954317" />
+    <Page Image="18" ImageSize="938774" />
+    <Page Image="19" ImageSize="833890" />
+    <Page Image="20" ImageSize="855512" />
+    <Page Image="21" ImageSize="896041" />
+    <Page Image="22" ImageSize="798979" />
+    <Page Image="23" ImageSize="905419" />
+    <Page Image="24" ImageSize="968438" />
+    <Page Image="25" ImageSize="898433" />
+    <Page Image="26" ImageSize="931960" />
+    <Page Image="27" ImageSize="994850" />
+    <Page Image="28" ImageSize="791021" />
+    <Page Image="29" ImageSize="848171" />
+    <Page Image="30" ImageSize="974750" />
+    <Page Image="31" ImageSize="902689" />
+    <Page Image="32" ImageSize="812097" />
+    <Page Image="33" ImageSize="901203" />
+    <Page Image="34" ImageSize="1090248" />
+    <Page Image="35" ImageSize="1000880" />
+  </Pages>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Sex Warrior</Series>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-245343/</Web>
+  <Year>1993</Year>
+</ComicInfo>

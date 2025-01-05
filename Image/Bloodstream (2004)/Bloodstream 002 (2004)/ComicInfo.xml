@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>4</Count>
+  <Day>31</Day>
+  <GTIN>urn:comicvine:4000-181885</GTIN>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:58:27 [Issue ID 4000-181885] urn:comicvine:4000-181885
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 05:38:13. [Issue ID 181885]</Notes>
+  <Number>2</Number>
+  <PageCount>34</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="333173" Type="FrontCover" />
+    <Page Image="1" ImageSize="316408" />
+    <Page Image="2" ImageSize="331036" />
+    <Page Image="3" ImageSize="372186" />
+    <Page Image="4" ImageSize="362916" />
+    <Page Image="5" ImageSize="358195" />
+    <Page Image="6" ImageSize="311733" />
+    <Page Image="7" ImageSize="345374" />
+    <Page Image="8" ImageSize="372190" />
+    <Page Image="9" ImageSize="361462" />
+    <Page Image="10" ImageSize="346115" />
+    <Page Image="11" ImageSize="323515" />
+    <Page Image="12" ImageSize="361613" />
+    <Page Image="13" ImageSize="318546" />
+    <Page Image="14" ImageSize="343365" />
+    <Page Image="15" ImageSize="318684" />
+    <Page Image="16" ImageSize="329461" />
+    <Page Image="17" ImageSize="346532" />
+    <Page Image="18" ImageSize="306605" />
+    <Page Image="19" ImageSize="306717" />
+    <Page Image="20" ImageSize="324905" />
+    <Page Image="21" ImageSize="333375" />
+    <Page Image="22" ImageSize="335165" />
+    <Page Image="23" ImageSize="334360" />
+    <Page Image="24" ImageSize="358661" />
+    <Page Image="25" ImageSize="292938" />
+    <Page Image="26" ImageSize="342568" />
+    <Page Image="27" ImageSize="316811" />
+    <Page Image="28" ImageSize="296386" />
+    <Page Image="29" ImageSize="271017" />
+    <Page Image="30" ImageSize="272107" />
+    <Page Image="31" ImageSize="269843" />
+    <Page Image="32" ImageSize="329578" />
+    <Page Image="33" ImageSize="572547" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Bloodstream</Series>
+  <Summary>Amber seduces the lab assistant and escapes her bonds. She then navigates expertly through the BioGenCo complex as if guided by some mysterious, unseen force.</Summary>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/bloodstream-2/4000-181885/</Web>
+  <Writer>Penny Register,Adam Shaw</Writer>
+  <Year>2004</Year>
+  <Penciller>Adam Shaw</Penciller>
+  <Inker>Adam Shaw</Inker>
+</ComicInfo>

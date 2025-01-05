@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550830</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:46:55 [Issue ID 4000-550830] urn:comicvine:4000-550830 urn:grandcomicsdatabase:issue/550830
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:54:31. [Issue ID 550830]</Notes>
+  <Number>216</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="599043" Type="FrontCover" />
+    <Page Image="1" ImageSize="431319" />
+    <Page Image="2" ImageSize="667673" />
+    <Page Image="3" ImageSize="720013" />
+    <Page Image="4" ImageSize="692540" />
+    <Page Image="5" ImageSize="708399" />
+    <Page Image="6" ImageSize="689564" />
+    <Page Image="7" ImageSize="678407" />
+    <Page Image="8" ImageSize="657290" />
+    <Page Image="9" ImageSize="673546" />
+    <Page Image="10" ImageSize="646993" />
+    <Page Image="11" ImageSize="659463" />
+    <Page Image="12" ImageSize="681804" />
+    <Page Image="13" ImageSize="671551" />
+    <Page Image="14" ImageSize="682322" />
+    <Page Image="15" ImageSize="659830" />
+    <Page Image="16" ImageSize="671421" />
+    <Page Image="17" ImageSize="623031" />
+    <Page Image="18" ImageSize="637023" />
+    <Page Image="19" ImageSize="667887" />
+    <Page Image="20" ImageSize="680783" />
+    <Page Image="21" ImageSize="695830" />
+    <Page Image="22" ImageSize="678091" />
+    <Page Image="23" ImageSize="632004" />
+    <Page Image="24" ImageSize="641382" />
+    <Page Image="25" ImageSize="665375" />
+    <Page Image="26" ImageSize="664575" />
+    <Page Image="27" ImageSize="657589" />
+    <Page Image="28" ImageSize="696517" />
+    <Page Image="29" ImageSize="672294" />
+    <Page Image="30" ImageSize="653879" />
+    <Page Image="31" ImageSize="643951" />
+    <Page Image="32" ImageSize="667788" />
+    <Page Image="33" ImageSize="699435" />
+    <Page Image="34" ImageSize="580908" />
+    <Page Image="35" ImageSize="264853" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Trouble in Babalon</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550830/</Web>
+  <Year>1988</Year>
+</ComicInfo>

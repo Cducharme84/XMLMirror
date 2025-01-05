@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Judge Fear,Judge Fire,Judge Dredd,Judge Storm,Judge Death,Devlin Waugh,Zane Perks,Judge Mortis</Characters>
+  <Colorist>Chris Blythe</Colorist>
+  <Day>16</Day>
+  <GTIN>urn:comicvine:4000-955455</GTIN>
+  <Inker>Clint Langley,Colin MacNeil,D'Israeli,Nick Percival,Rob Richardson</Inker>
+  <Letterer>Annie Parkhouse,Jim Campbell,Simon Bowland</Letterer>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:31:52 [Issue ID 4000-955455] urn:comicvine:4000-955455
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:17:28. [Issue ID 2563982]</Notes>
+  <Number>450</Number>
+  <PageCount>130</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2092785" Type="FrontCover" />
+    <Page Image="1" ImageSize="1745117" />
+    <Page Image="2" ImageSize="2276410" />
+    <Page Image="3" ImageSize="1900327" />
+    <Page Image="4" ImageSize="2896573" />
+    <Page Image="5" ImageSize="3092998" />
+    <Page Image="6" ImageSize="3438181" />
+    <Page Image="7" ImageSize="3294508" />
+    <Page Image="8" ImageSize="2476350" />
+    <Page Image="9" ImageSize="2542117" />
+    <Page Image="10" ImageSize="2706207" />
+    <Page Image="11" ImageSize="2298067" />
+    <Page Image="12" ImageSize="1996458" />
+    <Page Image="13" ImageSize="2257292" />
+    <Page Image="14" ImageSize="3099314" />
+    <Page Image="15" ImageSize="2171670" />
+    <Page Image="16" ImageSize="1474498" />
+    <Page Image="17" ImageSize="4080971" />
+    <Page Image="18" ImageSize="3932208" />
+    <Page Image="19" ImageSize="1500934" />
+    <Page Image="20" ImageSize="1679636" />
+    <Page Image="21" ImageSize="2632382" />
+    <Page Image="22" ImageSize="1898129" />
+    <Page Image="23" ImageSize="2173909" />
+    <Page Image="24" ImageSize="2381561" />
+    <Page Image="25" ImageSize="2314585" />
+    <Page Image="26" ImageSize="2405349" />
+    <Page Image="27" ImageSize="2704512" />
+    <Page Image="28" ImageSize="2560946" />
+    <Page Image="29" ImageSize="1000322" />
+    <Page Image="30" ImageSize="1419151" />
+    <Page Image="31" ImageSize="1889939" />
+    <Page Image="32" ImageSize="1243610" />
+    <Page Image="33" ImageSize="1459804" />
+    <Page Image="34" ImageSize="1323498" />
+    <Page Image="35" ImageSize="1358058" />
+    <Page Image="36" ImageSize="1659754" />
+    <Page Image="37" ImageSize="1307122" />
+    <Page Image="38" ImageSize="1605356" />
+    <Page Image="39" ImageSize="1420580" />
+    <Page Image="40" ImageSize="1519701" />
+    <Page Image="41" ImageSize="1519218" />
+    <Page Image="42" ImageSize="1483113" />
+    <Page Image="43" ImageSize="1605420" />
+    <Page Image="44" ImageSize="1391318" />
+    <Page Image="45" ImageSize="1414705" />
+    <Page Image="46" ImageSize="1435397" />
+    <Page Image="47" ImageSize="1452900" />
+    <Page Image="48" ImageSize="1398600" />
+    <Page Image="49" ImageSize="1350357" />
+    <Page Image="50" ImageSize="1573624" />
+    <Page Image="51" ImageSize="1636865" />
+    <Page Image="52" ImageSize="1678025" />
+    <Page Image="53" ImageSize="1826563" />
+    <Page Image="54" ImageSize="1571598" />
+    <Page Image="55" ImageSize="1783386" />
+    <Page Image="56" ImageSize="1695265" />
+    <Page Image="57" ImageSize="1316103" />
+    <Page Image="58" ImageSize="1730568" />
+    <Page Image="59" ImageSize="2539021" />
+    <Page Image="60" ImageSize="1724656" />
+    <Page Image="61" ImageSize="2464112" />
+    <Page Image="62" ImageSize="654090" />
+    <Page Image="63" ImageSize="749380" />
+    <Page Image="64" ImageSize="2833836" />
+    <Page Image="65" ImageSize="2751050" />
+    <Page Image="66" ImageSize="2237059" />
+    <Page Image="67" ImageSize="2563720" />
+    <Page Image="68" ImageSize="2343750" />
+    <Page Image="69" ImageSize="2481834" />
+    <Page Image="70" ImageSize="2678765" />
+    <Page Image="71" ImageSize="2453928" />
+    <Page Image="72" ImageSize="2886382" />
+    <Page Image="73" ImageSize="2634575" />
+    <Page Image="74" ImageSize="2456238" />
+    <Page Image="75" ImageSize="2981494" />
+    <Page Image="76" ImageSize="2762351" />
+    <Page Image="77" ImageSize="2383559" />
+    <Page Image="78" ImageSize="2104981" />
+    <Page Image="79" ImageSize="2104093" />
+    <Page Image="80" ImageSize="2087295" />
+    <Page Image="81" ImageSize="2654560" />
+    <Page Image="82" ImageSize="2395846" />
+    <Page Image="83" ImageSize="2329216" />
+    <Page Image="84" ImageSize="2194785" />
+    <Page Image="85" ImageSize="2647201" />
+    <Page Image="86" ImageSize="2083123" />
+    <Page Image="87" ImageSize="1760222" />
+    <Page Image="88" ImageSize="2398014" />
+    <Page Image="89" ImageSize="2145891" />
+    <Page Image="90" ImageSize="2396545" />
+    <Page Image="91" ImageSize="2243617" />
+    <Page Image="92" ImageSize="2053705" />
+    <Page Image="93" ImageSize="2479579" />
+    <Page Image="94" ImageSize="2487167" />
+    <Page Image="95" ImageSize="2165552" />
+    <Page Image="96" ImageSize="2194837" />
+    <Page Image="97" ImageSize="3005638" />
+    <Page Image="98" ImageSize="2450537" />
+    <Page Image="99" ImageSize="1699178" />
+    <Page Image="100" ImageSize="1014300" />
+    <Page Image="101" ImageSize="2346323" />
+    <Page Image="102" ImageSize="2484015" />
+    <Page Image="103" ImageSize="2359080" />
+    <Page Image="104" ImageSize="1852551" />
+    <Page Image="105" ImageSize="2839983" />
+    <Page Image="106" ImageSize="2276067" />
+    <Page Image="107" ImageSize="2567064" />
+    <Page Image="108" ImageSize="2206378" />
+    <Page Image="109" ImageSize="2246150" />
+    <Page Image="110" ImageSize="2551630" />
+    <Page Image="111" ImageSize="2289291" />
+    <Page Image="112" ImageSize="2129950" />
+    <Page Image="113" ImageSize="2057695" />
+    <Page Image="114" ImageSize="1867916" />
+    <Page Image="115" ImageSize="2002910" />
+    <Page Image="116" ImageSize="2339409" />
+    <Page Image="117" ImageSize="2037354" />
+    <Page Image="118" ImageSize="2203547" />
+    <Page Image="119" ImageSize="1697457" />
+    <Page Image="120" ImageSize="1579764" />
+    <Page Image="121" ImageSize="1855104" />
+    <Page Image="122" ImageSize="2188203" />
+    <Page Image="123" ImageSize="1858408" />
+    <Page Image="124" ImageSize="2238523" />
+    <Page Image="125" ImageSize="2206985" />
+    <Page Image="126" ImageSize="1294016" />
+    <Page Image="127" ImageSize="1787669" />
+    <Page Image="128" ImageSize="724423" />
+    <Page Image="129" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Clint Langley,Colin MacNeil,D'Israeli,Nick Percival,Rob Richardson</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>Judge Dredd Megazine #450 is OUT NOW, continuing our brand new line-up of stories that’s an ideal place to start reading!
+
+Original undead menace and cover star Judge Death is back in Death Metal Planet by David Hine and Nick Percival; John Wagner and Colin MacNeil take to the skies once more in the second series of Surfer; Devlin Waugh is back, courtesy of Aleš Kot and Rob Richardson, picking up from the end of last year’s The Reckoning; and Judge Dredd tackles anti-xeno activists in the Cursed Earth in Babel by Ian Edginton and D’Israeli.
+
+Add to that features on the work of the much-missed Jim Baikie appearing in a museum in Orkney, plus there’s a chat with writer William Potter, a look at the forthcoming reissue of the classic Judge Dreddboard game by Sir Ian Livingstone, and the process behind the gorgeous Mick McMahon Apex Edition.
+
+And this month’s bagged supplement is Judge Dredd: The Long Game by Michael Carroll and Mark Sexton.
+
+Cover: Tom Foster
+
+Judge Dredd - Babel (Part 2) (Ian Edginton - D’Israeli)Storm Warning - Dead &amp; Gone (Part 2) (John Reppion - Clint Langley)Devlin Waugh - Karma Police (Part 2) (Ales Kot - Rob Richardson)Dark Judges - Death Metal Planet (Part 2) (David Hine - Nick Percival)Surfer - Book Two (Part 2) (John Wagner - Colin MacNeil)Graphic Novel: Judge Dredd: The Long Game (Michael Carroll - Mark Sexton)
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-18 22:26:28.  [Issue ID 955455]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-450-meg-450/4000-955455/</Summary>
+  <Tags>Judge Fear,Judge Fire,Judge Dredd,Judge Storm,Judge Death,Devlin Waugh,Zane Perks,Judge Mortis</Tags>
+  <Title>Meg 450</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-450-meg-450/4000-955455/</Web>
+  <Writer>Ales Kot,David Hine,Ian Edginton,John Reppion,John Wagner</Writer>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

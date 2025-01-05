@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Charles Darwin</Characters>
+  <Day>30</Day>
+  <Format>Digital</Format>
+  <GTIN>urn:comicvine:4000-332993</GTIN>
+  <Inker>Eduardo Ocaña</Inker>
+  <Locations>York,Yorkshire,England,London</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:51:20 [Issue ID 4000-332993] urn:comicvine:4000-332993
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 16:11:17. [Issue ID 941216]</Notes>
+  <Number>1</Number>
+  <PageCount>59</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1674" ImageSize="315643" ImageWidth="1200" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1676" ImageSize="150470" ImageWidth="1200" />
+    <Page Image="2" ImageHeight="1676" ImageSize="414668" ImageWidth="1200" />
+    <Page Image="3" ImageHeight="1676" ImageSize="413740" ImageWidth="1200" />
+    <Page Image="4" ImageHeight="1676" ImageSize="409933" ImageWidth="1200" />
+    <Page Image="5" ImageHeight="1676" ImageSize="421424" ImageWidth="1200" />
+    <Page Image="6" ImageHeight="1676" ImageSize="381073" ImageWidth="1200" />
+    <Page Image="7" ImageHeight="1676" ImageSize="537639" ImageWidth="1200" />
+    <Page Image="8" ImageHeight="1676" ImageSize="552932" ImageWidth="1200" />
+    <Page Image="9" ImageHeight="1676" ImageSize="495309" ImageWidth="1200" />
+    <Page Image="10" ImageHeight="1676" ImageSize="448342" ImageWidth="1200" />
+    <Page Image="11" ImageHeight="1676" ImageSize="454493" ImageWidth="1200" />
+    <Page Image="12" ImageHeight="1676" ImageSize="426445" ImageWidth="1200" />
+    <Page Image="13" ImageHeight="1676" ImageSize="464604" ImageWidth="1200" />
+    <Page Image="14" ImageHeight="1676" ImageSize="469499" ImageWidth="1200" />
+    <Page Image="15" ImageHeight="1676" ImageSize="441983" ImageWidth="1200" />
+    <Page Image="16" ImageHeight="1676" ImageSize="527352" ImageWidth="1200" />
+    <Page Image="17" ImageHeight="1676" ImageSize="556592" ImageWidth="1200" />
+    <Page Image="18" ImageHeight="1676" ImageSize="512565" ImageWidth="1200" />
+    <Page Image="19" ImageHeight="1676" ImageSize="525070" ImageWidth="1200" />
+    <Page Image="20" ImageHeight="1676" ImageSize="484198" ImageWidth="1200" />
+    <Page Image="21" ImageHeight="1676" ImageSize="558070" ImageWidth="1200" />
+    <Page Image="22" ImageHeight="1676" ImageSize="542089" ImageWidth="1200" />
+    <Page Image="23" ImageHeight="1676" ImageSize="551811" ImageWidth="1200" />
+    <Page Image="24" ImageHeight="1676" ImageSize="565694" ImageWidth="1200" />
+    <Page Image="25" ImageHeight="1676" ImageSize="505695" ImageWidth="1200" />
+    <Page Image="26" ImageHeight="1676" ImageSize="552308" ImageWidth="1200" />
+    <Page Image="27" ImageHeight="1676" ImageSize="430725" ImageWidth="1200" />
+    <Page Image="28" ImageHeight="1676" ImageSize="397532" ImageWidth="1200" />
+    <Page Image="29" ImageHeight="1676" ImageSize="376593" ImageWidth="1200" />
+    <Page Image="30" ImageHeight="1676" ImageSize="400750" ImageWidth="1200" />
+    <Page Image="31" ImageHeight="1676" ImageSize="478643" ImageWidth="1200" />
+    <Page Image="32" ImageHeight="1676" ImageSize="520521" ImageWidth="1200" />
+    <Page Image="33" ImageHeight="1676" ImageSize="516020" ImageWidth="1200" />
+    <Page Image="34" ImageHeight="1676" ImageSize="499755" ImageWidth="1200" />
+    <Page Image="35" ImageHeight="1676" ImageSize="527568" ImageWidth="1200" />
+    <Page Image="36" ImageHeight="1676" ImageSize="467770" ImageWidth="1200" />
+    <Page Image="37" ImageHeight="1676" ImageSize="515046" ImageWidth="1200" />
+    <Page Image="38" ImageHeight="1676" ImageSize="409082" ImageWidth="1200" />
+    <Page Image="39" ImageHeight="1676" ImageSize="357973" ImageWidth="1200" />
+    <Page Image="40" ImageHeight="1676" ImageSize="534235" ImageWidth="1200" />
+    <Page Image="41" ImageHeight="1676" ImageSize="557081" ImageWidth="1200" />
+    <Page Image="42" ImageHeight="1676" ImageSize="461948" ImageWidth="1200" />
+    <Page Image="43" ImageHeight="1676" ImageSize="435678" ImageWidth="1200" />
+    <Page Image="44" ImageHeight="1676" ImageSize="463975" ImageWidth="1200" />
+    <Page Image="45" ImageHeight="1676" ImageSize="526729" ImageWidth="1200" />
+    <Page Image="46" ImageHeight="1676" ImageSize="459788" ImageWidth="1200" />
+    <Page Image="47" ImageHeight="1676" ImageSize="489812" ImageWidth="1200" />
+    <Page Image="48" ImageHeight="1676" ImageSize="472338" ImageWidth="1200" />
+    <Page Image="49" ImageHeight="1676" ImageSize="555265" ImageWidth="1200" />
+    <Page Image="50" ImageHeight="1676" ImageSize="495598" ImageWidth="1200" />
+    <Page Image="51" ImageHeight="1676" ImageSize="571469" ImageWidth="1200" />
+    <Page Image="52" ImageHeight="1676" ImageSize="464488" ImageWidth="1200" />
+    <Page Image="53" ImageHeight="1676" ImageSize="568913" ImageWidth="1200" />
+    <Page Image="54" ImageHeight="1676" ImageSize="546504" ImageWidth="1200" />
+    <Page Image="55" ImageHeight="1676" ImageSize="567715" ImageWidth="1200" />
+    <Page Image="56" ImageHeight="1676" ImageSize="117038" ImageWidth="1200" />
+    <Page Image="57" ImageHeight="1672" ImageSize="377542" ImageWidth="1200" />
+    <Page Image="58" ImageSize="639292" />
+  </Pages>
+  <Penciller>Eduardo Ocaña</Penciller>
+  <Publisher>Cinebook</Publisher>
+  <ScanInformation>(digital) (HD) (Lynx-Empire)</ScanInformation>
+  <Series>Darwin's Diaries</Series>
+  <Summary>Victorian England. In Yorkshire, several men and horses working on a railway line have been killed—slaughtered, really. The police suspect some kind of wild beast. The government calls upon controversial naturalist Charles Darwin to help with the investigation. A reasonable move, but one that is dictated rather by the least known part of his work: research on what other people would qualify as legendary creatures. It won’t be long before the scientist discovers that he may be right about them after all…
+
+https://comicvine.gamespot.com/darwins-diaries-1-the-eye-of-the-celts/4000-332993/</Summary>
+  <Title>The Eye of the Celts</Title>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/darwins-diaries-1-the-eye-of-the-celts/4000-332993/</Web>
+  <Writer>Sylvain Runberg</Writer>
+  <Year>2011</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Rudy Chance</Characters>
+  <Colorist>Bill Crabtree,Bill Crabtree</Colorist>
+  <GTIN>urn:comicvine:4000-113598</GTIN>
+  <Inker>John Romita Jr.,Klaus Janson,Klaus Janson</Inker>
+  <Letterer>John Workman,John Workman</Letterer>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:22:17 [Issue ID 4000-113598] urn:comicvine:4000-113598
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 09:25:32. [Issue ID 327966]</Notes>
+  <Number>2</Number>
+  <PageCount>213</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1053690" Type="FrontCover" />
+    <Page Image="1" ImageSize="307925" />
+    <Page Image="2" ImageSize="324383" />
+    <Page Image="3" ImageSize="243779" />
+    <Page Image="4" ImageSize="231281" />
+    <Page Image="5" ImageSize="905654" />
+    <Page Image="6" ImageSize="645663" />
+    <Page Image="7" ImageSize="1016156" />
+    <Page Image="8" ImageSize="928934" />
+    <Page Image="9" ImageSize="864376" />
+    <Page Image="10" ImageSize="1006336" />
+    <Page Image="11" ImageSize="980477" />
+    <Page Image="12" ImageSize="1042180" />
+    <Page Image="13" ImageSize="972159" />
+    <Page Image="14" ImageSize="1074727" />
+    <Page Image="15" ImageSize="1179965" />
+    <Page Image="16" ImageSize="1064934" />
+    <Page Image="17" ImageSize="1114883" />
+    <Page Image="18" ImageSize="1044224" />
+    <Page Image="19" ImageSize="918970" />
+    <Page Image="20" ImageSize="1043268" />
+    <Page Image="21" ImageSize="1213000" />
+    <Page Image="22" ImageSize="1036243" />
+    <Page Image="23" ImageSize="871522" />
+    <Page Image="24" ImageSize="1088241" />
+    <Page Image="25" ImageSize="1252006" />
+    <Page Image="26" ImageSize="1141922" />
+    <Page Image="27" ImageSize="1058253" />
+    <Page Image="28" ImageSize="1074204" />
+    <Page Image="29" ImageSize="1026465" />
+    <Page Image="30" ImageSize="959249" />
+    <Page Image="31" ImageSize="1056055" />
+    <Page Image="32" ImageSize="1163430" />
+    <Page Image="33" ImageSize="1162040" />
+    <Page Image="34" ImageSize="1077370" />
+    <Page Image="35" ImageSize="1033942" />
+    <Page Image="36" ImageSize="1104918" />
+    <Page Image="37" ImageSize="1222094" />
+    <Page Image="38" ImageSize="1211878" />
+    <Page Image="39" ImageSize="584414" />
+    <Page Image="40" ImageSize="1251788" />
+    <Page Image="41" ImageSize="1079469" />
+    <Page Image="42" ImageSize="1232402" />
+    <Page Image="43" ImageSize="1171563" />
+    <Page Image="44" ImageSize="1057715" />
+    <Page Image="45" ImageSize="1265937" />
+    <Page Image="46" ImageSize="1126894" />
+    <Page Image="47" ImageSize="905477" />
+    <Page Image="48" ImageSize="1026067" />
+    <Page Image="49" ImageSize="990147" />
+    <Page Image="50" ImageSize="1164825" />
+    <Page Image="51" ImageSize="1029417" />
+    <Page Image="52" ImageSize="985976" />
+    <Page Image="53" ImageSize="996140" />
+    <Page Image="54" ImageSize="962226" />
+    <Page Image="55" ImageSize="1074584" />
+    <Page Image="56" ImageSize="1068353" />
+    <Page Image="57" ImageSize="1054389" />
+    <Page Image="58" ImageSize="879385" />
+    <Page Image="59" ImageSize="1130228" />
+    <Page Image="60" ImageSize="1031388" />
+    <Page Image="61" ImageSize="1127828" />
+    <Page Image="62" ImageSize="1156454" />
+    <Page Image="63" ImageSize="1197280" />
+    <Page Image="64" ImageSize="1156293" />
+    <Page Image="65" ImageSize="1098679" />
+    <Page Image="66" ImageSize="974519" />
+    <Page Image="67" ImageSize="888181" />
+    <Page Image="68" ImageSize="996942" />
+    <Page Image="69" ImageSize="952666" />
+    <Page Image="70" ImageSize="977679" />
+    <Page Image="71" ImageSize="1109208" />
+    <Page Image="72" ImageSize="1001104" />
+    <Page Image="73" ImageSize="944482" />
+    <Page Image="74" ImageSize="1264952" />
+    <Page Image="75" ImageSize="1053430" />
+    <Page Image="76" ImageSize="1094939" />
+    <Page Image="77" ImageSize="1094635" />
+    <Page Image="78" ImageSize="904977" />
+    <Page Image="79" ImageSize="1057352" />
+    <Page Image="80" ImageSize="1168122" />
+    <Page Image="81" ImageSize="1250902" />
+    <Page Image="82" ImageSize="1057955" />
+    <Page Image="83" ImageSize="1264552" />
+    <Page Image="84" ImageSize="1119561" />
+    <Page Image="85" ImageSize="1105611" />
+    <Page Image="86" ImageSize="910350" />
+    <Page Image="87" ImageSize="1034974" />
+    <Page Image="88" ImageSize="900467" />
+    <Page Image="89" ImageSize="1095068" />
+    <Page Image="90" ImageSize="997353" />
+    <Page Image="91" ImageSize="1236285" />
+    <Page Image="92" ImageSize="1055347" />
+    <Page Image="93" ImageSize="1193763" />
+    <Page Image="94" ImageSize="1142288" />
+    <Page Image="95" ImageSize="1088502" />
+    <Page Image="96" ImageSize="1191635" />
+    <Page Image="97" ImageSize="1130376" />
+    <Page Image="98" ImageSize="883804" />
+    <Page Image="99" ImageSize="991408" />
+    <Page Image="100" ImageSize="1320496" />
+    <Page Image="101" ImageSize="1119328" />
+    <Page Image="102" ImageSize="1028148" />
+    <Page Image="103" ImageSize="1012145" />
+    <Page Image="104" ImageSize="1238349" />
+    <Page Image="105" ImageSize="1370620" />
+    <Page Image="106" ImageSize="1318909" />
+    <Page Image="107" ImageSize="1120726" />
+    <Page Image="108" ImageSize="1081733" />
+    <Page Image="109" ImageSize="1161030" />
+    <Page Image="110" ImageSize="1222832" />
+    <Page Image="111" ImageSize="1141843" />
+    <Page Image="112" ImageSize="1225483" />
+    <Page Image="113" ImageSize="1004569" />
+    <Page Image="114" ImageSize="1261748" />
+    <Page Image="115" ImageSize="1232067" />
+    <Page Image="116" ImageSize="1121052" />
+    <Page Image="117" ImageSize="1169041" />
+    <Page Image="118" ImageSize="969949" />
+    <Page Image="119" ImageSize="1052450" />
+    <Page Image="120" ImageSize="1001511" />
+    <Page Image="121" ImageSize="924010" />
+    <Page Image="122" ImageSize="1152776" />
+    <Page Image="123" ImageSize="1080625" />
+    <Page Image="124" ImageSize="1000729" />
+    <Page Image="125" ImageSize="1132853" />
+    <Page Image="126" ImageSize="1054525" />
+    <Page Image="127" ImageSize="899044" />
+    <Page Image="128" ImageSize="1109195" />
+    <Page Image="129" ImageSize="1047607" />
+    <Page Image="130" ImageSize="1171883" />
+    <Page Image="131" ImageSize="1142393" />
+    <Page Image="132" ImageSize="1005728" />
+    <Page Image="133" ImageSize="1081642" />
+    <Page Image="134" ImageSize="1029964" />
+    <Page Image="135" ImageSize="1163198" />
+    <Page Image="136" ImageSize="1110955" />
+    <Page Image="137" ImageSize="1259221" />
+    <Page Image="138" ImageSize="1037664" />
+    <Page Image="139" ImageSize="1129866" />
+    <Page Image="140" ImageSize="1082894" />
+    <Page Image="141" ImageSize="1261252" />
+    <Page Image="142" ImageSize="1087848" />
+    <Page Image="143" ImageSize="1244424" />
+    <Page Image="144" ImageSize="1255380" />
+    <Page Image="145" ImageSize="1105867" />
+    <Page Image="146" ImageSize="1113910" />
+    <Page Image="147" ImageSize="1009202" />
+    <Page Image="148" ImageSize="1100913" />
+    <Page Image="149" ImageSize="908810" />
+    <Page Image="150" ImageSize="1304495" />
+    <Page Image="151" ImageSize="1210545" />
+    <Page Image="152" ImageSize="1065440" />
+    <Page Image="153" ImageSize="1272383" />
+    <Page Image="154" ImageSize="813832" />
+    <Page Image="155" ImageSize="1133841" />
+    <Page Image="156" ImageSize="1119790" />
+    <Page Image="157" ImageSize="913109" />
+    <Page Image="158" ImageSize="1235772" />
+    <Page Image="159" ImageSize="1187168" />
+    <Page Image="160" ImageSize="1236109" />
+    <Page Image="161" ImageSize="1161773" />
+    <Page Image="162" ImageSize="1038508" />
+    <Page Image="163" ImageSize="881093" />
+    <Page Image="164" ImageSize="1035163" />
+    <Page Image="165" ImageSize="1218894" />
+    <Page Image="166" ImageSize="1396398" />
+    <Page Image="167" ImageSize="1022112" />
+    <Page Image="168" ImageSize="1119287" />
+    <Page Image="169" ImageSize="1010796" />
+    <Page Image="170" ImageSize="1010610" />
+    <Page Image="171" ImageSize="970910" />
+    <Page Image="172" ImageSize="1032414" />
+    <Page Image="173" ImageSize="970001" />
+    <Page Image="174" ImageSize="980442" />
+    <Page Image="175" ImageSize="1144699" />
+    <Page Image="176" ImageSize="1064641" />
+    <Page Image="177" ImageSize="1154798" />
+    <Page Image="178" ImageSize="1013939" />
+    <Page Image="179" ImageSize="1130257" />
+    <Page Image="180" ImageSize="1051262" />
+    <Page Image="181" ImageSize="1090078" />
+    <Page Image="182" ImageSize="1070779" />
+    <Page Image="183" ImageSize="1054395" />
+    <Page Image="184" ImageSize="1124974" />
+    <Page Image="185" ImageSize="1010085" />
+    <Page Image="186" ImageSize="1053379" />
+    <Page Image="187" ImageSize="1231269" />
+    <Page Image="188" ImageSize="1209226" />
+    <Page Image="189" ImageSize="1078642" />
+    <Page Image="190" ImageSize="1210567" />
+    <Page Image="191" ImageSize="1189198" />
+    <Page Image="192" ImageSize="1147625" />
+    <Page Image="193" ImageSize="1016449" />
+    <Page Image="194" ImageSize="1122386" />
+    <Page Image="195" ImageSize="1529282" />
+    <Page Image="196" ImageSize="1406217" />
+    <Page Image="197" ImageSize="1294114" />
+    <Page Image="198" ImageSize="1234446" />
+    <Page Image="199" ImageSize="1098611" />
+    <Page Image="200" ImageSize="451758" />
+    <Page Image="201" ImageSize="928236" />
+    <Page Image="202" ImageSize="851023" />
+    <Page Image="203" ImageSize="912894" />
+    <Page Image="204" ImageSize="817231" />
+    <Page Image="205" ImageSize="795006" />
+    <Page Image="206" ImageSize="376880" />
+    <Page Image="207" ImageSize="1331517" />
+    <Page Image="208" ImageSize="1085019" />
+    <Page Image="209" ImageSize="1099367" />
+    <Page Image="210" ImageSize="1022948" />
+    <Page Image="211" ImageSize="544446" />
+    <Page Image="212" ImageSize="272046" />
+  </Pages>
+  <Penciller>John Romita Jr.,John Romita Jr.</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>The Gray Area</Series>
+  <Summary>Rudy is recruited to an afterlife police force and offered a shot at redemption for his life of corruption and evil.</Summary>
+  <Tags>Rudy Chance</Tags>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/the-gray-area-2/4000-113598/</Web>
+  <Writer>Glen Brunswick,Glen Brunswick</Writer>
+  <Year>2004</Year>
+  <Count>3</Count>
+  <CoverArtist>John Romita Jr.</CoverArtist>
+  <Genre>Horror-suspense,Crime</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

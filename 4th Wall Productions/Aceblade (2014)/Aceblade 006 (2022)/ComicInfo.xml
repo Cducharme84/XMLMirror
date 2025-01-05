@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>8</Count>
+  <Format>Series</Format>
+  <Genre>Superhero</Genre>
+  <Inker>Michael Keller</Inker>
+  <Number>6</Number>
+  <Penciller>Vhon Remot</Penciller>
+  <Publisher>4th Wall Productions</Publisher>
+  <Series>Aceblade</Series>
+  <Volume>2014</Volume>
+  <Writer>Christoph Hollars</Writer>
+  <Summary>Aceblade follows the trail of a crooked cop who he believes is supporting the villains in Vegas City, but get distracted when one of his students get caught in the crossfire.</Summary>
+  <Year>2022</Year>
+  <Month>9</Month>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3909" ImageSize="1675624" ImageWidth="2559" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3909" ImageSize="1246208" ImageWidth="2559" />
+    <Page DoublePage="False" Image="2" ImageHeight="3909" ImageSize="2195175" ImageWidth="2559" />
+    <Page DoublePage="False" Image="3" ImageHeight="3909" ImageSize="1850570" ImageWidth="2559" />
+    <Page DoublePage="False" Image="4" ImageHeight="3909" ImageSize="1826073" ImageWidth="2559" />
+    <Page DoublePage="False" Image="5" ImageHeight="3909" ImageSize="1678879" ImageWidth="2559" />
+    <Page DoublePage="False" Image="6" ImageHeight="3909" ImageSize="1555349" ImageWidth="2559" />
+    <Page DoublePage="False" Image="7" ImageHeight="3909" ImageSize="1824374" ImageWidth="2559" />
+    <Page DoublePage="False" Image="8" ImageHeight="3909" ImageSize="1622434" ImageWidth="2559" />
+    <Page DoublePage="False" Image="9" ImageHeight="3909" ImageSize="1846353" ImageWidth="2559" />
+    <Page DoublePage="False" Image="10" ImageHeight="3909" ImageSize="1634938" ImageWidth="2559" />
+    <Page DoublePage="False" Image="11" ImageHeight="3909" ImageSize="1344148" ImageWidth="2559" />
+    <Page DoublePage="False" Image="12" ImageHeight="3909" ImageSize="1495732" ImageWidth="2559" />
+    <Page DoublePage="False" Image="13" ImageHeight="3909" ImageSize="1700721" ImageWidth="2559" />
+    <Page DoublePage="False" Image="14" ImageHeight="3909" ImageSize="1623453" ImageWidth="2559" />
+    <Page DoublePage="False" Image="15" ImageHeight="3909" ImageSize="1607325" ImageWidth="2559" />
+    <Page DoublePage="False" Image="16" ImageHeight="3909" ImageSize="1508545" ImageWidth="2559" />
+    <Page DoublePage="False" Image="17" ImageHeight="3909" ImageSize="1524448" ImageWidth="2559" />
+    <Page DoublePage="False" Image="18" ImageHeight="3909" ImageSize="1433325" ImageWidth="2559" />
+    <Page DoublePage="False" Image="19" ImageHeight="3909" ImageSize="1481921" ImageWidth="2559" />
+    <Page DoublePage="False" Image="20" ImageHeight="3909" ImageSize="1664850" ImageWidth="2559" />
+    <Page DoublePage="False" Image="21" ImageHeight="3909" ImageSize="1646132" ImageWidth="2559" />
+    <Page DoublePage="False" Image="22" ImageHeight="3909" ImageSize="1509096" ImageWidth="2559" />
+    <Page DoublePage="False" Image="23" ImageHeight="3909" ImageSize="1343193" ImageWidth="2559" />
+  </Pages>
+</ComicInfo>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>8</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-911678</GTIN>
+  <Genre>Sword and sorcery</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:23:37 [Issue ID 4000-911678] urn:comicvine:4000-911678 urn:grandcomicsdatabase:issue/911678
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 04:17:50. [Issue ID 911678]</Notes>
+  <Number>3</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="978823" Type="FrontCover" />
+    <Page Image="1" ImageSize="575305" />
+    <Page Image="2" ImageSize="863109" />
+    <Page Image="3" ImageSize="776496" />
+    <Page Image="4" ImageSize="503673" />
+    <Page Image="5" ImageSize="873714" />
+    <Page Image="6" ImageSize="1112762" />
+    <Page Image="7" ImageSize="955489" />
+    <Page Image="8" ImageSize="1258603" />
+    <Page Image="9" ImageSize="1147216" />
+    <Page Image="10" ImageSize="1287088" />
+    <Page Image="11" ImageSize="1262857" />
+    <Page Image="12" ImageSize="1310563" />
+    <Page Image="13" ImageSize="1104618" />
+    <Page Image="14" ImageSize="1062418" />
+    <Page Image="15" ImageSize="1007428" />
+    <Page Image="16" ImageSize="998357" />
+    <Page Image="17" ImageSize="958150" />
+    <Page Image="18" ImageSize="1124963" />
+    <Page Image="19" ImageSize="870686" />
+    <Page Image="20" ImageSize="1138864" />
+    <Page Image="21" ImageSize="1053056" />
+    <Page Image="22" ImageSize="1266440" />
+    <Page Image="23" ImageSize="1238422" />
+    <Page Image="24" ImageSize="1198520" />
+    <Page Image="25" ImageSize="990791" />
+    <Page Image="26" ImageSize="1034664" />
+    <Page Image="27" ImageSize="1169952" />
+    <Page Image="28" ImageSize="1334672" />
+    <Page Image="29" ImageSize="157780" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Valen the Outcast</Series>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-911678/</Web>
+  <Year>2012</Year>
+</ComicInfo>

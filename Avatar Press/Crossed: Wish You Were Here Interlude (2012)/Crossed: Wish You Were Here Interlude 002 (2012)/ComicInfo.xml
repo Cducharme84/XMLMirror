@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Elisa</Characters>
+	<Colorist>Juanmar</Colorist>
+	<Day>3</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-356245</GTIN>
+	<Inker>Gary Erskine,Javier Barreno</Inker>
+	<Locations>Orkney Islands</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:25 [Issue ID 4000-356245] urn:comicvine:4000-356245</Notes>
+	<Number>2</Number>
+	<PageCount>6</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="222260" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="800" ImageSize="147719"/>
+		<Page Image="2" ImageWidth="1241" ImageHeight="460" ImageSize="320962"/>
+		<Page Image="3" ImageWidth="1000" ImageHeight="800" ImageSize="248610"/>
+		<Page Image="4" ImageWidth="1000" ImageHeight="1518" ImageSize="354963"/>
+		<Page Image="5" ImageSize="104422"/>
+	</Pages>
+	<Penciller>Javier Barreno</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital)</ScanInformation>
+	<Series>Crossed: Wish You Were Here Interlude</Series>
+	<Summary>Shaky considers the Island of Cava itself and fellow survivor Elisa.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-13 07:03:17.  [Issue ID 356245]
+
+https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-2-interlude-2/4000-356245/</Summary>
+	<Tags>Elisa,Orkney Islands</Tags>
+	<Title>Interlude 2</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-2-interlude-2/4000-356245/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2012</Year>
+</ComicInfo>

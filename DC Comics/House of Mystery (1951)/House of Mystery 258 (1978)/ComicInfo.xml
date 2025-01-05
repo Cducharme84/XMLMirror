@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cain (host)</Characters>
+  <Colorist>Cory Adams,Jerry Serpe,Mario Sen,Jerry Serpe,Mario Sen,Cory Adams</Colorist>
+  <Editor>Joe Orlando,Paul Levitz</Editor>
+  <GTIN>urn:comicvine:4000-117452</GTIN>
+  <Inker>Bob McLeod,Dave Manak,Dick Giordano,E.R. Cruz,Frank Redondo,Tex Blaisdell,Rubeny,Steve Ditko,Bob McLeod,E. R. Cruz,Bernard Baily,Frank Redondo,Dick Giordano,Dave Manak</Inker>
+  <Letterer>Ben Oda,Clem Robins,Todd Klein,Todd Klein,Clem Robins,E. R. Cruz,Ben Oda,Dave Manak</Letterer>
+  <Locations>New York City,The House of Mystery,Hollywood</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:42:51 [Issue ID 4000-117452] urn:comicvine:4000-117452
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:28:15. [Issue ID 32209]</Notes>
+  <Number>258</Number>
+  <PageCount>84</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1515" ImageSize="300468" ImageWidth="975" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1556" ImageSize="400831" ImageWidth="992" />
+    <Page Image="2" ImageHeight="1556" ImageSize="306311" ImageWidth="944" />
+    <Page Image="3" ImageHeight="1552" ImageSize="300220" ImageWidth="944" />
+    <Page Image="4" ImageHeight="1556" ImageSize="289341" ImageWidth="954" />
+    <Page Image="5" ImageHeight="1556" ImageSize="318485" ImageWidth="930" />
+    <Page Image="6" ImageHeight="1541" ImageSize="852356" ImageWidth="1941" />
+    <Page Image="7" ImageHeight="1559" ImageSize="287310" ImageWidth="961" />
+    <Page Image="8" ImageHeight="1559" ImageSize="295917" ImageWidth="957" />
+    <Page Image="9" ImageHeight="1559" ImageSize="315142" ImageWidth="968" />
+    <Page Image="10" ImageHeight="1556" ImageSize="295088" ImageWidth="958" />
+    <Page Image="11" ImageHeight="1559" ImageSize="283439" ImageWidth="975" />
+    <Page Image="12" ImageHeight="1556" ImageSize="283932" ImageWidth="958" />
+    <Page Image="13" ImageHeight="1559" ImageSize="294251" ImageWidth="964" />
+    <Page Image="14" ImageHeight="1556" ImageSize="323332" ImageWidth="954" />
+    <Page Image="15" ImageHeight="1559" ImageSize="297841" ImageWidth="978" />
+    <Page Image="16" ImageHeight="1556" ImageSize="282916" ImageWidth="954" />
+    <Page Image="17" ImageHeight="1566" ImageSize="291161" ImageWidth="964" />
+    <Page Image="18" ImageHeight="1556" ImageSize="310716" ImageWidth="957" />
+    <Page Image="19" ImageHeight="1556" ImageSize="292547" ImageWidth="978" />
+    <Page Image="20" ImageHeight="1563" ImageSize="251919" ImageWidth="958" />
+    <Page Image="21" ImageHeight="1559" ImageSize="267861" ImageWidth="958" />
+    <Page Image="22" ImageHeight="1552" ImageSize="296113" ImageWidth="951" />
+    <Page Image="23" ImageHeight="1545" ImageSize="305538" ImageWidth="951" />
+    <Page Image="24" ImageHeight="1549" ImageSize="299113" ImageWidth="951" />
+    <Page Image="25" ImageHeight="1552" ImageSize="295530" ImageWidth="957" />
+    <Page Image="26" ImageHeight="1556" ImageSize="298145" ImageWidth="951" />
+    <Page Image="27" ImageHeight="1563" ImageSize="294720" ImageWidth="964" />
+    <Page Image="28" ImageHeight="1556" ImageSize="299383" ImageWidth="954" />
+    <Page Image="29" ImageHeight="1559" ImageSize="282358" ImageWidth="968" />
+    <Page Image="30" ImageHeight="1552" ImageSize="323905" ImageWidth="961" />
+    <Page Image="31" ImageHeight="1549" ImageSize="288029" ImageWidth="951" />
+    <Page Image="32" ImageHeight="1549" ImageSize="283212" ImageWidth="951" />
+    <Page Image="33" ImageHeight="1549" ImageSize="308284" ImageWidth="968" />
+    <Page Image="34" ImageHeight="1559" ImageSize="290857" ImageWidth="957" />
+    <Page Image="35" ImageHeight="1559" ImageSize="298932" ImageWidth="964" />
+    <Page Image="36" ImageHeight="1556" ImageSize="294336" ImageWidth="958" />
+    <Page Image="37" ImageHeight="1545" ImageSize="296240" ImageWidth="961" />
+    <Page Image="38" ImageHeight="1549" ImageSize="292844" ImageWidth="947" />
+    <Page Image="39" ImageHeight="1556" ImageSize="298462" ImageWidth="958" />
+    <Page Image="40" ImageHeight="1559" ImageSize="289892" ImageWidth="954" />
+    <Page Image="41" ImageHeight="1556" ImageSize="316489" ImageWidth="961" />
+    <Page Image="42" ImageHeight="1552" ImageSize="294459" ImageWidth="940" />
+    <Page Image="43" ImageHeight="1559" ImageSize="303979" ImageWidth="982" />
+    <Page Image="44" ImageHeight="1552" ImageSize="294331" ImageWidth="951" />
+    <Page Image="45" ImageHeight="1559" ImageSize="293758" ImageWidth="961" />
+    <Page Image="46" ImageHeight="1556" ImageSize="307006" ImageWidth="947" />
+    <Page Image="47" ImageHeight="1556" ImageSize="282553" ImageWidth="964" />
+    <Page Image="48" ImageHeight="1563" ImageSize="301926" ImageWidth="940" />
+    <Page Image="49" ImageHeight="1559" ImageSize="294088" ImageWidth="964" />
+    <Page Image="50" ImageHeight="1552" ImageSize="297657" ImageWidth="947" />
+    <Page Image="51" ImageHeight="1552" ImageSize="286494" ImageWidth="947" />
+    <Page Image="52" ImageHeight="1545" ImageSize="313725" ImageWidth="944" />
+    <Page Image="53" ImageHeight="1556" ImageSize="322494" ImageWidth="947" />
+    <Page Image="54" ImageHeight="1556" ImageSize="297090" ImageWidth="951" />
+    <Page Image="55" ImageHeight="1559" ImageSize="290072" ImageWidth="951" />
+    <Page Image="56" ImageHeight="1549" ImageSize="250212" ImageWidth="940" />
+    <Page Image="57" ImageHeight="1556" ImageSize="301893" ImageWidth="964" />
+    <Page Image="58" ImageHeight="1545" ImageSize="304211" ImageWidth="958" />
+    <Page Image="59" ImageHeight="1552" ImageSize="290417" ImageWidth="982" />
+    <Page Image="60" ImageHeight="1549" ImageSize="291047" ImageWidth="930" />
+    <Page Image="61" ImageHeight="1545" ImageSize="300140" ImageWidth="961" />
+    <Page Image="62" ImageHeight="1552" ImageSize="318181" ImageWidth="947" />
+    <Page Image="63" ImageHeight="1563" ImageSize="302330" ImageWidth="975" />
+    <Page Image="64" ImageHeight="1545" ImageSize="287877" ImageWidth="937" />
+    <Page Image="65" ImageHeight="1556" ImageSize="318230" ImageWidth="975" />
+    <Page Image="66" ImageHeight="1552" ImageSize="297198" ImageWidth="944" />
+    <Page Image="67" ImageHeight="1556" ImageSize="295884" ImageWidth="951" />
+    <Page Image="68" ImageHeight="1552" ImageSize="304018" ImageWidth="937" />
+    <Page Image="69" ImageHeight="1556" ImageSize="288014" ImageWidth="957" />
+    <Page Image="70" ImageHeight="1556" ImageSize="291287" ImageWidth="940" />
+    <Page Image="71" ImageHeight="1556" ImageSize="275882" ImageWidth="951" />
+    <Page Image="72" ImageHeight="1552" ImageSize="286362" ImageWidth="937" />
+    <Page Image="73" ImageHeight="1559" ImageSize="293377" ImageWidth="954" />
+    <Page Image="74" ImageHeight="1549" ImageSize="303298" ImageWidth="937" />
+    <Page Image="75" ImageHeight="1559" ImageSize="291599" ImageWidth="958" />
+    <Page Image="76" ImageHeight="1549" ImageSize="262870" ImageWidth="930" />
+    <Page Image="77" ImageHeight="1552" ImageSize="322197" ImageWidth="951" />
+    <Page Image="78" ImageHeight="1552" ImageSize="295638" ImageWidth="933" />
+    <Page Image="79" ImageHeight="1563" ImageSize="316100" ImageWidth="940" />
+    <Page Image="80" ImageHeight="1552" ImageSize="306447" ImageWidth="937" />
+    <Page Image="81" ImageHeight="1559" ImageSize="265914" ImageWidth="947" />
+    <Page Image="82" ImageHeight="1535" ImageSize="268714" ImageWidth="940" />
+    <Page Image="83" ImageSize="300986" />
+  </Pages>
+  <Penciller>Danny Bulanadi,Dave Manak,Dick Giordano,E.R. Cruz,Frank Redondo,John Calnan,Rich Buckler,Ruben Yandoc,Steve Ditko,Rubeny,Steve Ditko,Danny Bulanadi,Rich Buckler,E. R. Cruz,Bernard Baily,Frank Redondo,George Ruppert,Dave Manak</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery</Series>
+  <Summary>Blood and Tinsel: Chad and his girlfriend Nancy are wandering round the backlot of Movietown Studios when they encounter a real vampire.
+
+A Demon and His Boy: Dxyp the demon is bored and wants to transport himself to Earth, but instead he accidentally summons a young boy to his realm who causes all sorts of trouble.
+
+Gargoyle Twice a Day: Joshua Levy's funhouse has a real gargoyle who drives off the gangsters who want protection money.
+
+Showdown with Death!: In the Old West, Death challenges gunman Edgar Elkins to a shootout.
+
+Wake Up the Dead: Dr. Charles Maynard transplants his paralyzed wife's brain into the body of a murderess. She stabs him to death but is arrested for the other woman's crimes.
+
+The Champ Wouldn't Stay Dead!: Gangsters kill a prizefighter but his ghost returns for revenge.
+
+Once a Criminal: Hypnotist Monte Brink befriends a paroled convict upon his release from prison, but plans to use him to commit crimes.
+
+Street Killer: A serial killer is revealed to be a ghost cursed to commit every unsolved murder in New York City.
+
+</Summary>
+  <Tags>New York City,The House of Mystery,Death,Vampires,Hollywood,Cain</Tags>
+  <Teams>Vampires</Teams>
+  <Volume>1951</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-258/4000-117452/</Web>
+  <Writer>Barry Jameson,Dave Manak,David Michelinie,David V. Reed,Jack C. Harris,Jack Oleck,Paul Kupperberg,Scott Edelman,Sheldon Mayer,Tom DeFalco,Wyatt Gwyon,Barry Jameson,Jack C. Harris,Scott Edelman,Tom DeFalco,Jack Oleck,Sheldon Mayer,David V. Reed,Wyatt Gwyon,Dave Manak</Writer>
+  <Year>1978</Year>
+  <Count>321</Count>
+  <Title>Blood and Tinsel; A Demon and His Boy; Gargoyle Twice a Day; Showdown with Death!; Wake Up the Dead; The Champ Wouldn't Stay Dead!; Once a Criminal; Street Killer</Title>
+  <Genre>Fantasy,Humor,Western-frontier,Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+</ComicInfo>

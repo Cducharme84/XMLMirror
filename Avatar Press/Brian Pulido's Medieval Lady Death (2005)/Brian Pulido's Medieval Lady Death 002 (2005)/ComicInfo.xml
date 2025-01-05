@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Henry Heinemann,Obsidia,Archbishop Vittorio,Jinn,Lady Death,Wolfram Von Bach</Characters>
+  <Count>8</Count>
+  <Day>30</Day>
+  <Editor>Barbara Randall Kesel,William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-742901</GTIN>
+  <Inker>Alex Lei</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:06 [Issue ID 4000-742901] urn:comicvine:4000-742901 urn:grandcomicsdatabase:issue/742901
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:41:36. [Issue ID 742901]</Notes>
+  <Number>2</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="346032" Type="FrontCover" />
+    <Page Image="1" ImageSize="285531" />
+    <Page Image="2" ImageSize="374499" />
+    <Page Image="3" ImageSize="347523" />
+    <Page Image="4" ImageSize="359502" />
+    <Page Image="5" ImageSize="385620" />
+    <Page Image="6" ImageSize="367410" />
+    <Page Image="7" ImageSize="421637" />
+    <Page Image="8" ImageSize="396725" />
+    <Page Image="9" ImageSize="343569" />
+    <Page Image="10" ImageSize="429829" />
+    <Page Image="11" ImageSize="390781" />
+    <Page Image="12" ImageSize="411318" />
+    <Page Image="13" ImageSize="370382" />
+    <Page Image="14" ImageSize="339630" />
+    <Page Image="15" ImageSize="298904" />
+    <Page Image="16" ImageSize="294445" />
+    <Page Image="17" ImageSize="351085" />
+    <Page Image="18" ImageSize="352134" />
+    <Page Image="19" ImageSize="386429" />
+    <Page Image="20" ImageSize="313942" />
+    <Page Image="21" ImageSize="698060" />
+    <Page Image="22" ImageSize="340766" />
+    <Page Image="23" ImageSize="383493" />
+    <Page Image="24" ImageSize="435541" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Brian Pulido's Medieval Lady Death</Series>
+  <Volume>2005</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-742901/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2005</Year>
+</ComicInfo>

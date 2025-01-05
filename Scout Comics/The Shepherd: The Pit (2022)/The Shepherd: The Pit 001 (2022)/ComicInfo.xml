@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-954536</GTIN>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:12:17 [Issue ID 4000-954536] urn:comicvine:4000-954536</Notes>
+	<Number>1</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1244081" Type="FrontCover"/>
+		<Page Image="1" ImageSize="718099"/>
+		<Page Image="2" ImageSize="788502"/>
+		<Page Image="3" ImageSize="697040"/>
+		<Page Image="4" ImageSize="669927"/>
+		<Page Image="5" ImageSize="756391"/>
+		<Page Image="6" ImageSize="746828"/>
+		<Page Image="7" ImageSize="762398"/>
+		<Page Image="8" ImageSize="680248"/>
+		<Page Image="9" ImageSize="832003"/>
+		<Page Image="10" ImageSize="689192"/>
+		<Page Image="11" ImageSize="771385"/>
+		<Page Image="12" ImageSize="759363"/>
+		<Page Image="13" ImageSize="726947"/>
+		<Page Image="14" ImageSize="640790"/>
+		<Page Image="15" ImageSize="865898"/>
+		<Page Image="16" ImageSize="756141"/>
+		<Page Image="17" ImageSize="782707"/>
+		<Page Image="18" ImageSize="827516"/>
+		<Page Image="19" ImageSize="999399"/>
+		<Page Image="20" ImageSize="853380"/>
+		<Page Image="21" ImageSize="842639"/>
+		<Page Image="22" ImageSize="944243"/>
+		<Page Image="23" ImageSize="780208"/>
+		<Page Image="24" ImageSize="916287"/>
+		<Page Image="25" ImageSize="795636"/>
+		<Page Image="26" ImageSize="920535"/>
+		<Page Image="27" ImageSize="1263808"/>
+		<Page Image="28" ImageSize="1485941"/>
+	</Pages>
+	<Publisher>Scout Comics</Publisher>
+	<Series>The Shepherd: The Pit</Series>
+	<Summary>https://comicvine.gamespot.com/the-shepherd-the-pit-1/4000-954536/</Summary>
+	<Volume>2022</Volume>
+	<Web>https://comicvine.gamespot.com/the-shepherd-the-pit-1/4000-954536/</Web>
+	<Year>2022</Year>
+</ComicInfo>

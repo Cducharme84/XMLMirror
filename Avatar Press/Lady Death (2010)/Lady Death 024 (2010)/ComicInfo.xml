@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Lady Death</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-371184</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:34 [Issue ID 4000-371184] urn:comicvine:4000-371184 urn:grandcomicsdatabase:issue/1037177
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:42:08. [Issue ID 1037177]</Notes>
+  <Number>24</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1337867" Type="FrontCover" />
+    <Page Image="1" ImageSize="605977" />
+    <Page Image="2" ImageSize="1610188" />
+    <Page Image="3" ImageSize="1706864" />
+    <Page Image="4" ImageSize="2064077" />
+    <Page Image="5" ImageSize="1825175" />
+    <Page Image="6" ImageSize="2170389" />
+    <Page Image="7" ImageSize="2170235" />
+    <Page Image="8" ImageSize="1978364" />
+    <Page Image="9" ImageSize="1970007" />
+    <Page Image="10" ImageSize="2259135" />
+    <Page Image="11" ImageSize="1537515" />
+    <Page Image="12" ImageSize="1557120" />
+    <Page Image="13" ImageSize="1422498" />
+    <Page Image="14" ImageSize="1489122" />
+    <Page Image="15" ImageSize="1712429" />
+    <Page Image="16" ImageSize="1756070" />
+    <Page Image="17" ImageSize="2016239" />
+    <Page Image="18" ImageSize="1631395" />
+    <Page Image="19" ImageSize="1614823" />
+    <Page Image="20" ImageSize="1703935" />
+    <Page Image="21" ImageSize="1421728" />
+    <Page Image="22" ImageSize="1456232" />
+    <Page Image="23" ImageSize="1885361" />
+    <Page Image="24" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-371184/</Web>
+  <Year>2010</Year>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Black Cross,Danann Atreyu,Robb Aubert,Twylyth Tegg</Characters>
+	<Count>10</Count>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-656784</GTIN>
+	<Locations>Black Forest,Denmark,Germany,Norway</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:17:27 [Issue ID 4000-656784] urn:comicvine:4000-656784</Notes>
+	<Number>4</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="3428711" Type="FrontCover"/>
+		<Page Image="1" ImageSize="2191927"/>
+		<Page Image="2" ImageSize="2058055"/>
+		<Page Image="3" ImageSize="2214502"/>
+		<Page Image="4" ImageSize="2068650"/>
+		<Page Image="5" ImageSize="1886800"/>
+		<Page Image="6" ImageSize="1669512"/>
+		<Page Image="7" ImageSize="1666735"/>
+		<Page Image="8" ImageSize="2273096"/>
+		<Page Image="9" ImageSize="2237751"/>
+		<Page Image="10" ImageSize="2157207"/>
+		<Page Image="11" ImageSize="2358025"/>
+		<Page Image="12" ImageSize="2386438"/>
+		<Page Image="13" ImageSize="2478157"/>
+		<Page Image="14" ImageSize="2463329"/>
+		<Page Image="15" ImageSize="2396719"/>
+		<Page Image="16" ImageSize="2193161"/>
+		<Page Image="17" ImageSize="2347037"/>
+		<Page Image="18" ImageSize="1934720"/>
+		<Page Image="19" ImageSize="2042688"/>
+		<Page Image="20" ImageSize="1961172"/>
+		<Page Image="21" ImageSize="1964211"/>
+		<Page Image="22" ImageSize="1944673"/>
+		<Page Image="23" ImageSize="1971526"/>
+		<Page Image="24" ImageSize="2109052"/>
+		<Page Image="25" ImageSize="1623234"/>
+		<Page Image="26" ImageSize="132240"/>
+	</Pages>
+	<Publisher>AAM/Markosia</Publisher>
+	<Series>Plague</Series>
+	<Summary>Flesh-eating trolls, demonic field spirits and dead clergy collide in the Black Forest of Germany as our unlikely heroes find themselves trapped in this shocking chapter of the Plague saga.</Summary>
+	<Teams>Kobolds,Trolls</Teams>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/plague-4/4000-656784/</Web>
+	<Writer>Dennis Fallon,Jason Palmatier</Writer>
+	<Year>2018</Year>
+</ComicInfo>

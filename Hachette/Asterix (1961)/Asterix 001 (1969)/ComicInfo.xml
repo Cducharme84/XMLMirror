@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Asterix,Cacofonix,Caius Flebitus,Caligula Minus,Claudius Quintilius,Crismus Bonus,Gracchus Sextilius,Julius Caesar,Julius Pompus,Marcus Ginantonicus,Obelix,Panoramix,Tenansix,The Boar,Tullius Octopus,Vercingetorix,Vitalstatistix</Characters>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-209905</GTIN>
+	<Inker>Albert Uderzo</Inker>
+	<Locations>Europe,France,Indomitable Village</Locations>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:54:26 [Issue ID 4000-209905] urn:comicvine:4000-209905</Notes>
+	<Number>1</Number>
+	<PageCount>53</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="800" ImageHeight="1054" ImageSize="430283" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1236" ImageHeight="1628" ImageSize="158175"/>
+		<Page Image="2" ImageWidth="1236" ImageHeight="1628" ImageSize="275299"/>
+		<Page Image="3" ImageWidth="1236" ImageHeight="1628" ImageSize="1047638"/>
+		<Page Image="4" ImageWidth="1236" ImageHeight="1628" ImageSize="673469"/>
+		<Page Image="5" ImageWidth="1236" ImageHeight="1628" ImageSize="1224123"/>
+		<Page Image="6" ImageWidth="1236" ImageHeight="1628" ImageSize="1121225"/>
+		<Page Image="7" ImageWidth="1236" ImageHeight="1628" ImageSize="1067046"/>
+		<Page Image="8" ImageWidth="1236" ImageHeight="1628" ImageSize="1096887"/>
+		<Page Image="9" ImageWidth="1236" ImageHeight="1628" ImageSize="1088583"/>
+		<Page Image="10" ImageWidth="1236" ImageHeight="1628" ImageSize="1060488"/>
+		<Page Image="11" ImageWidth="1236" ImageHeight="1628" ImageSize="1085312"/>
+		<Page Image="12" ImageWidth="1236" ImageHeight="1628" ImageSize="1059531"/>
+		<Page Image="13" ImageWidth="1236" ImageHeight="1628" ImageSize="1115584"/>
+		<Page Image="14" ImageWidth="1236" ImageHeight="1628" ImageSize="1116414"/>
+		<Page Image="15" ImageWidth="1236" ImageHeight="1628" ImageSize="1150800"/>
+		<Page Image="16" ImageWidth="1236" ImageHeight="1628" ImageSize="1132030"/>
+		<Page Image="17" ImageWidth="1236" ImageHeight="1628" ImageSize="1094823"/>
+		<Page Image="18" ImageWidth="1236" ImageHeight="1628" ImageSize="1035651"/>
+		<Page Image="19" ImageWidth="1236" ImageHeight="1628" ImageSize="1024254"/>
+		<Page Image="20" ImageWidth="1236" ImageHeight="1628" ImageSize="1058306"/>
+		<Page Image="21" ImageWidth="1236" ImageHeight="1628" ImageSize="1117438"/>
+		<Page Image="22" ImageWidth="1236" ImageHeight="1628" ImageSize="958543"/>
+		<Page Image="23" ImageWidth="1236" ImageHeight="1628" ImageSize="1138214"/>
+		<Page Image="24" ImageWidth="1236" ImageHeight="1628" ImageSize="1047154"/>
+		<Page Image="25" ImageWidth="1236" ImageHeight="1628" ImageSize="1008804"/>
+		<Page Image="26" ImageWidth="1236" ImageHeight="1628" ImageSize="1073336"/>
+		<Page Image="27" ImageWidth="1236" ImageHeight="1628" ImageSize="1060870"/>
+		<Page Image="28" ImageWidth="1236" ImageHeight="1628" ImageSize="889948"/>
+		<Page Image="29" ImageWidth="1236" ImageHeight="1628" ImageSize="1054135"/>
+		<Page Image="30" ImageWidth="1236" ImageHeight="1628" ImageSize="1018879"/>
+		<Page Image="31" ImageWidth="1236" ImageHeight="1628" ImageSize="1047160"/>
+		<Page Image="32" ImageWidth="1236" ImageHeight="1628" ImageSize="1075446"/>
+		<Page Image="33" ImageWidth="1236" ImageHeight="1628" ImageSize="1080158"/>
+		<Page Image="34" ImageWidth="1236" ImageHeight="1628" ImageSize="1032335"/>
+		<Page Image="35" ImageWidth="1236" ImageHeight="1628" ImageSize="1093350"/>
+		<Page Image="36" ImageWidth="1236" ImageHeight="1628" ImageSize="1063833"/>
+		<Page Image="37" ImageWidth="1236" ImageHeight="1628" ImageSize="1067434"/>
+		<Page Image="38" ImageWidth="1236" ImageHeight="1628" ImageSize="1071838"/>
+		<Page Image="39" ImageWidth="1236" ImageHeight="1628" ImageSize="1066537"/>
+		<Page Image="40" ImageWidth="1236" ImageHeight="1628" ImageSize="1052931"/>
+		<Page Image="41" ImageWidth="1236" ImageHeight="1628" ImageSize="1045666"/>
+		<Page Image="42" ImageWidth="1236" ImageHeight="1628" ImageSize="1058479"/>
+		<Page Image="43" ImageWidth="1236" ImageHeight="1628" ImageSize="1001492"/>
+		<Page Image="44" ImageWidth="1236" ImageHeight="1628" ImageSize="1036262"/>
+		<Page Image="45" ImageWidth="1236" ImageHeight="1628" ImageSize="1060259"/>
+		<Page Image="46" ImageWidth="1236" ImageHeight="1628" ImageSize="1055718"/>
+		<Page Image="47" ImageWidth="1236" ImageHeight="1628" ImageSize="1120100"/>
+		<Page Image="48" ImageWidth="1236" ImageHeight="1628" ImageSize="1064850"/>
+		<Page Image="49" ImageWidth="1236" ImageHeight="1628" ImageSize="8066"/>
+		<Page Image="50" ImageWidth="1236" ImageHeight="1628" ImageSize="257100"/>
+		<Page Image="51" ImageWidth="1236" ImageHeight="1628" ImageSize="420925"/>
+		<Page Image="52" ImageSize="495005"/>
+	</Pages>
+	<Penciller>Albert Uderzo</Penciller>
+	<Publisher>Hachette</Publisher>
+	<Series>Asterix</Series>
+	<Summary>https://comicvine.gamespot.com/asterix-1-asterix-the-gaul/4000-209905/</Summary>
+	<Teams>Gauls,Romans</Teams>
+	<Title>Asterix the Gaul</Title>
+	<Volume>1961</Volume>
+	<Web>https://comicvine.gamespot.com/asterix-1-asterix-the-gaul/4000-209905/</Web>
+	<Writer>René Goscinny</Writer>
+	<Year>1969</Year>
+</ComicInfo>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Azlando,Lady Death,Dinah,Death Queen,Magdalyn,Satasha,Wargoth,Salacia,Behemoth</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-294293</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Hell,Castle Death</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:43 [Issue ID 4000-294293] urn:comicvine:4000-294293 urn:grandcomicsdatabase:issue/883831
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:42:54. [Issue ID 883831]</Notes>
+  <Number>10</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2149861" Type="FrontCover" />
+    <Page Image="1" ImageSize="623817" />
+    <Page Image="2" ImageSize="1921562" />
+    <Page Image="3" ImageSize="2033021" />
+    <Page Image="4" ImageSize="2167262" />
+    <Page Image="5" ImageSize="1892579" />
+    <Page Image="6" ImageSize="2099868" />
+    <Page Image="7" ImageSize="2022666" />
+    <Page Image="8" ImageSize="1885882" />
+    <Page Image="9" ImageSize="2300137" />
+    <Page Image="10" ImageSize="1656258" />
+    <Page Image="11" ImageSize="1960291" />
+    <Page Image="12" ImageSize="1926001" />
+    <Page Image="13" ImageSize="2156785" />
+    <Page Image="14" ImageSize="2215125" />
+    <Page Image="15" ImageSize="1922449" />
+    <Page Image="16" ImageSize="2211875" />
+    <Page Image="17" ImageSize="2011418" />
+    <Page Image="18" ImageSize="2054897" />
+    <Page Image="19" ImageSize="2159429" />
+    <Page Image="20" ImageSize="2388133" />
+    <Page Image="21" ImageSize="2061939" />
+    <Page Image="22" ImageSize="2080173" />
+    <Page Image="23" ImageSize="2350469" />
+    <Page Image="24" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-294293/</Web>
+  <Year>2010</Year>
+</ComicInfo>

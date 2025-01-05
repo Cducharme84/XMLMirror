@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Dracula,Karmilla,Pope Stephen,Purgatori,Satrina</Characters>
+	<Colorist>Brimstone</Colorist>
+	<Count>8</Count>
+	<Day>1</Day>
+	<Editor>Brian Pulido</Editor>
+	<GTIN>urn:comicvine:4000-118973</GTIN>
+	<Inker>Al Rio</Inker>
+	<Letterer>Comicraft</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:38:01 [Issue ID 4000-118973] urn:comicvine:4000-118973</Notes>
+	<Number>4</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="451643" Type="FrontCover"/>
+		<Page Image="1" ImageSize="503089"/>
+		<Page Image="2" ImageSize="702580"/>
+		<Page Image="3" ImageSize="676944"/>
+		<Page Image="4" ImageSize="709310"/>
+		<Page Image="5" ImageSize="1361138"/>
+		<Page Image="6" ImageSize="725176"/>
+		<Page Image="7" ImageSize="769241"/>
+		<Page Image="8" ImageSize="684870"/>
+		<Page Image="9" ImageSize="686058"/>
+		<Page Image="10" ImageSize="630781"/>
+		<Page Image="11" ImageSize="648386"/>
+		<Page Image="12" ImageSize="668955"/>
+		<Page Image="13" ImageSize="716988"/>
+		<Page Image="14" ImageSize="673598"/>
+		<Page Image="15" ImageSize="702006"/>
+		<Page Image="16" ImageSize="528795"/>
+		<Page Image="17" ImageSize="613377"/>
+		<Page Image="18" ImageSize="684209"/>
+		<Page Image="19" ImageSize="708748"/>
+		<Page Image="20" ImageSize="622796"/>
+		<Page Image="21" ImageSize="560403"/>
+		<Page Image="22" ImageSize="687146"/>
+	</Pages>
+	<Penciller>Al Rio</Penciller>
+	<Publisher>Chaos! Comics</Publisher>
+	<Series>Purgatori</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-12 10:44:38.  [CVDB118973]
+
+https://comicvine.gamespot.com/purgatori-4-satrina/4000-118973/</Summary>
+	<Tags>Dracula,Karmilla,Pope Stephen,Purgatori,Satrina</Tags>
+	<Title>Satrina!</Title>
+	<Volume>1998</Volume>
+	<Web>https://comicvine.gamespot.com/purgatori-4-satrina/4000-118973/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>1999</Year>
+</ComicInfo>

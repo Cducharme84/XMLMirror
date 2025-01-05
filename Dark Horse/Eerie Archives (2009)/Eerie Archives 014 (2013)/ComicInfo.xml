@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Demian Hunter,Karas Hunter,El Cid,Cousin Eerie,Schreck,Coffin,Ahriman,Spook</Characters>
+  <Editor>Bill DuBay,Dan Braun,Everett Patterson,James Warren,Louise Jones Simonson,Philip Ray Simon</Editor>
+  <GTIN>urn:comicvine:4000-426859</GTIN>
+  <Inker>Alex Toth,Bernie Wrightson,Esteban Maroto,Gonzalo Mayo,Jim Stenstrum,Jose Ortiz,Ken Kelly,Manuel Sanjulian,Paul Neary,Sandra Klinger</Inker>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:11:55 [Issue ID 4000-426859] urn:comicvine:4000-426859
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 09:08:20. [Issue ID 1142475]</Notes>
+  <Number>14</Number>
+  <PageCount>273</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2449982" Type="FrontCover" />
+    <Page Image="1" ImageSize="565698" />
+    <Page Image="2" ImageSize="86637" />
+    <Page Image="3" ImageSize="628040" />
+    <Page Image="4" ImageSize="995236" />
+    <Page Image="5" ImageSize="1026841" />
+    <Page Image="6" ImageSize="1289431" />
+    <Page Image="7" ImageSize="381358" />
+    <Page Image="8" ImageSize="2151004" />
+    <Page Image="9" ImageSize="3202795" />
+    <Page Image="10" ImageSize="1412985" />
+    <Page Image="11" ImageSize="2198322" />
+    <Page Image="12" ImageSize="2658310" />
+    <Page Image="13" ImageSize="2144882" />
+    <Page Image="14" ImageSize="2041472" />
+    <Page Image="15" ImageSize="2148530" />
+    <Page Image="16" ImageSize="1825860" />
+    <Page Image="17" ImageSize="2023023" />
+    <Page Image="18" ImageSize="2248376" />
+    <Page Image="19" ImageSize="2099100" />
+    <Page Image="20" ImageSize="2166821" />
+    <Page Image="21" ImageSize="1807268" />
+    <Page Image="22" ImageSize="1798651" />
+    <Page Image="23" ImageSize="1794736" />
+    <Page Image="24" ImageSize="2671083" />
+    <Page Image="25" ImageSize="2495025" />
+    <Page Image="26" ImageSize="2191059" />
+    <Page Image="27" ImageSize="1909551" />
+    <Page Image="28" ImageSize="1866043" />
+    <Page Image="29" ImageSize="1895354" />
+    <Page Image="30" ImageSize="2150274" />
+    <Page Image="31" ImageSize="1433899" />
+    <Page Image="32" ImageSize="1761577" />
+    <Page Image="33" ImageSize="1583147" />
+    <Page Image="34" ImageSize="1590009" />
+    <Page Image="35" ImageSize="2256742" />
+    <Page Image="36" ImageSize="2341317" />
+    <Page Image="37" ImageSize="2164260" />
+    <Page Image="38" ImageSize="2096289" />
+    <Page Image="39" ImageSize="2023950" />
+    <Page Image="40" ImageSize="1752909" />
+    <Page Image="41" ImageSize="2050216" />
+    <Page Image="42" ImageSize="2186289" />
+    <Page Image="43" ImageSize="2002533" />
+    <Page Image="44" ImageSize="2064771" />
+    <Page Image="45" ImageSize="2215278" />
+    <Page Image="46" ImageSize="2174939" />
+    <Page Image="47" ImageSize="1937858" />
+    <Page Image="48" ImageSize="3132697" />
+    <Page Image="49" ImageSize="2343551" />
+    <Page Image="50" ImageSize="2283721" />
+    <Page Image="51" ImageSize="2248226" />
+    <Page Image="52" ImageSize="2339355" />
+    <Page Image="53" ImageSize="2094209" />
+    <Page Image="54" ImageSize="2425528" />
+    <Page Image="55" ImageSize="2297155" />
+    <Page Image="56" ImageSize="2276401" />
+    <Page Image="57" ImageSize="2184764" />
+    <Page Image="58" ImageSize="2457439" />
+    <Page Image="59" ImageSize="2319104" />
+    <Page Image="60" ImageSize="2135601" />
+    <Page Image="61" ImageSize="2399855" />
+    <Page Image="62" ImageSize="2124077" />
+    <Page Image="63" ImageSize="2123490" />
+    <Page Image="64" ImageSize="2357663" />
+    <Page Image="65" ImageSize="2143315" />
+    <Page Image="66" ImageSize="2239036" />
+    <Page Image="67" ImageSize="2482691" />
+    <Page Image="68" ImageSize="1950071" />
+    <Page Image="69" ImageSize="2342829" />
+    <Page Image="70" ImageSize="2364975" />
+    <Page Image="71" ImageSize="2058389" />
+    <Page Image="72" ImageSize="2345381" />
+    <Page Image="73" ImageSize="3249336" />
+    <Page Image="74" ImageSize="3698315" />
+    <Page Image="75" ImageSize="2209867" />
+    <Page Image="76" ImageSize="1449221" />
+    <Page Image="77" ImageSize="2355538" />
+    <Page Image="78" ImageSize="2368579" />
+    <Page Image="79" ImageSize="2717511" />
+    <Page Image="80" ImageSize="2419649" />
+    <Page Image="81" ImageSize="2416125" />
+    <Page Image="82" ImageSize="2815661" />
+    <Page Image="83" ImageSize="2870580" />
+    <Page Image="84" ImageSize="2274571" />
+    <Page Image="85" ImageSize="2141480" />
+    <Page Image="86" ImageSize="2564385" />
+    <Page Image="87" ImageSize="2675401" />
+    <Page Image="88" ImageSize="2721898" />
+    <Page Image="89" ImageSize="2540488" />
+    <Page Image="90" ImageSize="2061424" />
+    <Page Image="91" ImageSize="2156506" />
+    <Page Image="92" ImageSize="2374234" />
+    <Page Image="93" ImageSize="2095330" />
+    <Page Image="94" ImageSize="2307746" />
+    <Page Image="95" ImageSize="2464419" />
+    <Page Image="96" ImageSize="2372840" />
+    <Page Image="97" ImageSize="2389413" />
+    <Page Image="98" ImageSize="2403921" />
+    <Page Image="99" ImageSize="2453248" />
+    <Page Image="100" ImageSize="2293282" />
+    <Page Image="101" ImageSize="2110034" />
+    <Page Image="102" ImageSize="2282449" />
+    <Page Image="103" ImageSize="2016102" />
+    <Page Image="104" ImageSize="2127511" />
+    <Page Image="105" ImageSize="1713369" />
+    <Page Image="106" ImageSize="1920798" />
+    <Page Image="107" ImageSize="1953303" />
+    <Page Image="108" ImageSize="2162393" />
+    <Page Image="109" ImageSize="2048944" />
+    <Page Image="110" ImageSize="1868059" />
+    <Page Image="111" ImageSize="2047741" />
+    <Page Image="112" ImageSize="1629294" />
+    <Page Image="113" ImageSize="2077259" />
+    <Page Image="114" ImageSize="2156685" />
+    <Page Image="115" ImageSize="2270477" />
+    <Page Image="116" ImageSize="2482215" />
+    <Page Image="117" ImageSize="2239802" />
+    <Page Image="118" ImageSize="2399299" />
+    <Page Image="119" ImageSize="2416796" />
+    <Page Image="120" ImageSize="2065840" />
+    <Page Image="121" ImageSize="2240645" />
+    <Page Image="122" ImageSize="2238567" />
+    <Page Image="123" ImageSize="2304083" />
+    <Page Image="124" ImageSize="1788662" />
+    <Page Image="125" ImageSize="1933506" />
+    <Page Image="126" ImageSize="1611343" />
+    <Page Image="127" ImageSize="1720333" />
+    <Page Image="128" ImageSize="1693168" />
+    <Page Image="129" ImageSize="1565512" />
+    <Page Image="130" ImageSize="2079424" />
+    <Page Image="131" ImageSize="2369535" />
+    <Page Image="132" ImageSize="2174760" />
+    <Page Image="133" ImageSize="2428435" />
+    <Page Image="134" ImageSize="2238235" />
+    <Page Image="135" ImageSize="2712121" />
+    <Page Image="136" ImageSize="2755379" />
+    <Page Image="137" ImageSize="1438196" />
+    <Page Image="138" ImageSize="1555070" />
+    <Page Image="139" ImageSize="2442210" />
+    <Page Image="140" ImageSize="2590430" />
+    <Page Image="141" ImageSize="2164248" />
+    <Page Image="142" ImageSize="2431683" />
+    <Page Image="143" ImageSize="1793860" />
+    <Page Image="144" ImageSize="1982808" />
+    <Page Image="145" ImageSize="1688065" />
+    <Page Image="146" ImageSize="1642391" />
+    <Page Image="147" ImageSize="1676700" />
+    <Page Image="148" ImageSize="1446858" />
+    <Page Image="149" ImageSize="1797163" />
+    <Page Image="150" ImageSize="1877648" />
+    <Page Image="151" ImageSize="1534446" />
+    <Page Image="152" ImageSize="2275877" />
+    <Page Image="153" ImageSize="2081473" />
+    <Page Image="154" ImageSize="2653244" />
+    <Page Image="155" ImageSize="2546488" />
+    <Page Image="156" ImageSize="2154972" />
+    <Page Image="157" ImageSize="2440878" />
+    <Page Image="158" ImageSize="2033224" />
+    <Page Image="159" ImageSize="2499169" />
+    <Page Image="160" ImageSize="2646288" />
+    <Page Image="161" ImageSize="1907260" />
+    <Page Image="162" ImageSize="1858661" />
+    <Page Image="163" ImageSize="2121676" />
+    <Page Image="164" ImageSize="1609917" />
+    <Page Image="165" ImageSize="1344491" />
+    <Page Image="166" ImageSize="2041098" />
+    <Page Image="167" ImageSize="1732080" />
+    <Page Image="168" ImageSize="1970926" />
+    <Page Image="169" ImageSize="1686336" />
+    <Page Image="170" ImageSize="1940305" />
+    <Page Image="171" ImageSize="1565614" />
+    <Page Image="172" ImageSize="1858714" />
+    <Page Image="173" ImageSize="2071710" />
+    <Page Image="174" ImageSize="2043224" />
+    <Page Image="175" ImageSize="1570938" />
+    <Page Image="176" ImageSize="1726943" />
+    <Page Image="177" ImageSize="1778431" />
+    <Page Image="178" ImageSize="1717980" />
+    <Page Image="179" ImageSize="1814523" />
+    <Page Image="180" ImageSize="1867274" />
+    <Page Image="181" ImageSize="2020375" />
+    <Page Image="182" ImageSize="2104211" />
+    <Page Image="183" ImageSize="2095008" />
+    <Page Image="184" ImageSize="2010719" />
+    <Page Image="185" ImageSize="2236174" />
+    <Page Image="186" ImageSize="2284112" />
+    <Page Image="187" ImageSize="2435061" />
+    <Page Image="188" ImageSize="2238990" />
+    <Page Image="189" ImageSize="2352186" />
+    <Page Image="190" ImageSize="2254464" />
+    <Page Image="191" ImageSize="2343432" />
+    <Page Image="192" ImageSize="1921185" />
+    <Page Image="193" ImageSize="2252931" />
+    <Page Image="194" ImageSize="1694717" />
+    <Page Image="195" ImageSize="1976380" />
+    <Page Image="196" ImageSize="1851545" />
+    <Page Image="197" ImageSize="2093437" />
+    <Page Image="198" ImageSize="1750508" />
+    <Page Image="199" ImageSize="2811863" />
+    <Page Image="200" ImageSize="2471672" />
+    <Page Image="201" ImageSize="2011641" />
+    <Page Image="202" ImageSize="1747887" />
+    <Page Image="203" ImageSize="2460069" />
+    <Page Image="204" ImageSize="2283838" />
+    <Page Image="205" ImageSize="2228672" />
+    <Page Image="206" ImageSize="1646574" />
+    <Page Image="207" ImageSize="1464312" />
+    <Page Image="208" ImageSize="2052982" />
+    <Page Image="209" ImageSize="1848791" />
+    <Page Image="210" ImageSize="2062448" />
+    <Page Image="211" ImageSize="1918444" />
+    <Page Image="212" ImageSize="2202694" />
+    <Page Image="213" ImageSize="1862847" />
+    <Page Image="214" ImageSize="1656157" />
+    <Page Image="215" ImageSize="1784893" />
+    <Page Image="216" ImageSize="1749339" />
+    <Page Image="217" ImageSize="1648474" />
+    <Page Image="218" ImageSize="2032628" />
+    <Page Image="219" ImageSize="2379127" />
+    <Page Image="220" ImageSize="2163505" />
+    <Page Image="221" ImageSize="2523220" />
+    <Page Image="222" ImageSize="2197772" />
+    <Page Image="223" ImageSize="2141795" />
+    <Page Image="224" ImageSize="2448702" />
+    <Page Image="225" ImageSize="2855645" />
+    <Page Image="226" ImageSize="2261198" />
+    <Page Image="227" ImageSize="2242786" />
+    <Page Image="228" ImageSize="2188950" />
+    <Page Image="229" ImageSize="1898575" />
+    <Page Image="230" ImageSize="1884733" />
+    <Page Image="231" ImageSize="1945350" />
+    <Page Image="232" ImageSize="1700652" />
+    <Page Image="233" ImageSize="2268930" />
+    <Page Image="234" ImageSize="1806867" />
+    <Page Image="235" ImageSize="2171189" />
+    <Page Image="236" ImageSize="1841894" />
+    <Page Image="237" ImageSize="1580789" />
+    <Page Image="238" ImageSize="2238273" />
+    <Page Image="239" ImageSize="2026330" />
+    <Page Image="240" ImageSize="2324601" />
+    <Page Image="241" ImageSize="2045573" />
+    <Page Image="242" ImageSize="3303199" />
+    <Page Image="243" ImageSize="3362522" />
+    <Page Image="244" ImageSize="3691575" />
+    <Page Image="245" ImageSize="3102629" />
+    <Page Image="246" ImageSize="3903250" />
+    <Page Image="247" ImageSize="4083208" />
+    <Page Image="248" ImageSize="3617627" />
+    <Page Image="249" ImageSize="2400599" />
+    <Page Image="250" ImageSize="1684359" />
+    <Page Image="251" ImageSize="2308984" />
+    <Page Image="252" ImageSize="2162119" />
+    <Page Image="253" ImageSize="1907415" />
+    <Page Image="254" ImageSize="1737912" />
+    <Page Image="255" ImageSize="2978811" />
+    <Page Image="256" ImageSize="2493766" />
+    <Page Image="257" ImageSize="2397229" />
+    <Page Image="258" ImageSize="2593620" />
+    <Page Image="259" ImageSize="2707598" />
+    <Page Image="260" ImageSize="2318106" />
+    <Page Image="261" ImageSize="2154728" />
+    <Page Image="262" ImageSize="2415249" />
+    <Page Image="263" ImageSize="3025635" />
+    <Page Image="264" ImageSize="2660696" />
+    <Page Image="265" ImageSize="2377505" />
+    <Page Image="266" ImageSize="1585599" />
+    <Page Image="267" ImageSize="2248231" />
+    <Page Image="268" ImageSize="2282151" />
+    <Page Image="269" ImageSize="2296802" />
+    <Page Image="270" ImageSize="749166" />
+    <Page Image="271" ImageSize="496553" />
+    <Page Image="272" ImageSize="1612384" />
+  </Pages>
+  <Penciller>Alex Toth,Bernie Wrightson,Esteban Maroto,Gonzalo Mayo,Jim Stenstrum,Jose Ortiz,Ken Kelly,Manuel Sanjulian,Paul Neary,Sandra Klinger</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Eerie Archives</Series>
+  <Summary>The latest Eerie Archives volume reprints issues #65–#69 of Warren Publishing’s frightful anthology of horror, fantasy, and science fiction and includes work by Alex Toth, Bernie Wrightson, Paul Neary, and others. Vivid covers by Ken Kelly and Sanjulian are reproduced, and a new introduction by John Cochran caps off this fine collection!
+
+Legendary creators influential, experimental horror!
+
+Contains:
+
+
+
+The Eerie Eye
+
+"you guys really blew the ending of Exterminator One, our robot assassin. A professional killing machine afraid of a common mob hit man?" comments one cyborg fan. "that's unreal!"
+
+Lettering
+
+You spend a lot of time looking at comic book words. Lettering, balloons, captions give voice to the script. Yet if the letterer has done his job, you shouldn't have noticed the lettering at all!
+
+Night of the Jackass
+
+The inventor of the Jackass drug has come forward. There is now a possible antidote. But Bishop has gone Jackass. Garson must reach him. He must cure Bishop. Or must slay him!
+
+The Hacker
+
+The police commissioner's wife went into her bedroom, and began to scream. On her dressing table was her husband's newly severed head. His body was nowhere insight. Was this The Hacker's work?
+
+Spook: A Killing Rain
+
+The Civil War had started. blue coat killed gray. And everybody killed the black folks. Spook and Crackermeyer figured to put a stop to it. You can't fight a war without ammo!
+
+El Cid: The Troll
+
+The troll lived under the bridge and hoarded a huge pile of gold. He devoured anyone foolish enough to come near. Noe one had courage to oppose this ogre. 'Til the coming of El Cid!
+
+The Apocalypse: Death
+
+Of all the deadly horsemen, which was the most terrible? War loosed his legions. Plague, his festering sores. Famine, bone stripping weakness. Millions died. Death reigns.
+
+The 1974 Warren Awards
+
+Announcing the fifth annual award presentations! Warren Publishing rewards the year's most outstanding talents. Which authors and artist will win 1974's coveted prizes?
+
+Seven Trials of El Cidd
+
+Trials by land and sea. Trials by air, fire and water. these were El Cid's reward. He had slain the Moorish sorcerer king, Shadhal Bhegar. Now he must face the curses the dying wizard had called upon him. The air around El Cid was breathless with apprehension. The first terror struck from the sea.
+
+The Lady And The Lie
+
+Each demon has a purpose. Az and Ahriman had come straight from Hades' Gate. Their mission was simple. They were to tempt hapless humans to commit terrible sins. Then rush their deceived souls to Hell. "El Cid is a warrior lord," they thought,, "and used to force. If he but ravishes one woman, his soul is ours."
+
+The Emir of Aragon
+
+Arias was the most beautiful woman El Cid had seen. That she was ta tribute from the conquered Emir of Aragon added to the aura that surrounded her. During the day she delighted the King with her moorish tales. the enchantment of her nights belonged to El Cid alone. And to the dark purpose that guided her!
+
+Comics...The Art
+
+"You can save a bad story with great art, bud bad art will ruin a great story every time." This axiom is familiar to a lot of comic fans. But what makes great art? Talent. Ego. Persistence. Training. Time. And a lot of very hard work.
+
+Coffin: Death's Colors
+
+The Indians tortured Coffin. He had been half eaten by ants when he escaped. But he was denied mortality. When he spotted the caravan in the desert, he knew instinctively that it brought evil. And promise of death!
+
+Hunter II: Phoenix Fire
+
+Atomic War. Destroyed civilization. Mutant goblins have inherited the earth. Humanity fights and inevitably loses to the fangs and claws of the mutants. then someone unearths a fighter's helmet and discovers a hero!
+
+Hacker's Last Stand
+
+Severed heads rolled in London's alleyways. Appeared gift-wrapped at Police Headquarters. The mad Hacker struck again and again. Now Inspector Smythe was marked for destruction. Is this the end of Smythe or the Hacker.
+
+Crackermeyer: Gold
+
+Apaches brutally razed the settlement. A black woman and her children were taken captive. Gold's family. Then a legend was born. The Black Shadow of Death stalked the Apaches. Burning. Scalping. Slaying. Seeking revenge!
+
+Merlin: The Kingmaker
+
+Old Englonde. Ravaged by Roman invaders. Ruined by civil war. Ripe for a hero-king. But real kings are not born, they are made. By skill, cunning and blackest sorcery. Merlin was a sorcerer...and a maker of Kings.
+
+Comics...Production
+
+You've followed the comic page from typewriter to drawing board. But what happens after that? It makes a short stop at the Production Department for finishing touches before making the final journey to the printer.
+
+Coffin: Halfwalk
+
+Once again abandoned in the desert, left to die, Coffin was unable to embrace death. He had been here before. But this time rescue was close at hand. He was cared for. Offered a job. As star monster in a carnival of circus freaks!
+
+Hunter II: Goblin
+
+Yaust, the Goblin Lord, was well versed in treachery...hell-bent to dominate his dying world. But now, two determined beings barred his way. Karas...Goblin slayer...Hunter II. And a specialized hero from the 22nd century!
+
+Godeye
+
+Chuck Mayhew was your ordinary draft dodger. His land of opportunity lay just beyond the Canada border. So why was he naked in a land where the hero was king and a man's sword did his talking? Why was he to do battle with the cyclops?
+
+Muck Monster
+
+Once an animal crawled forth from the primal ooze, stood on two legs and declared itself Man. Now man, called himself God, has recreated that primal ferment. With no guarantee that what crawls out a 2nd time will be quite human.
+
+Deep Brown &amp; Jorum
+
+It's no fun being a hero if there's no one but yourself to enjoy it. Deep Brown and Jorum felt this way. Through twelve swashbuckling adventures, they were each others best audience. Each was a hero and they were legend!
+
+Hunter
+
+There are no more proud cities. No glistening technologies. Only a struggling remnant of surviving humanity. And standing between men and the mutant hordes threatening to engulf them is a half breed. demon killer. Scout for a nonexistent army. One legendary man-demon...Hunter!
+
+Demon Spawn
+
+Demian Hunter was unwanted. A demon general had raped a human girl. And Demian was born...human except for slit-gold eyes and copper skin. Demian's life was violent, lonely. To others, he was different. An outcast. And so he vowed revenge upon the demon general!
+
+Demon Killer
+
+Hunter abandoned the demon's trail when his supplies ran out. The human settlers he approached wouldn't share precious food with a half-demon. They planned to hang him. They bound Hunter hand and foot. He was dangling with a rope around his neck when the demon army came!
+
+Phalmark Phal
+
+A small village where some of the amenities of civilization still remained. charity Gentleness. Kindness. Even to a cursed half-demon. then...vicious mutant hordes attacked. They razed the village, killed the inhabitants...seeking nothing more than precious human meat!
+
+The Blood Princess
+
+Hunter's quest is ended. Before him lies the stronghold of the demon general. Then Hunter is wounded. Fling into prison with the ancient Derek Schreck. Outside, without the effort of either hero, demons are dying. Slain by the small ghost known as the Blood Princess.
+
+The Unholy Trinity
+
+Hunter. Schreck. The Blood Princess. three humans pitted against the ravaging mutant world, and the demon, Ofphal. Hunter faces his father with a weapon that dooms the demon world to extinction. A weapon capable of destroying almost half the world.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-09-17 11:51:58.  [CVDB426859]
+
+https://comicvine.gamespot.com/eerie-archives-14-volume-fourteen/4000-426859/</Summary>
+  <Tags>Demian Hunter,Karas Hunter,El Cid,Cousin Eerie,Schreck,Coffin,Ahriman,Spook</Tags>
+  <Title>Volume Fourteen</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/eerie-archives-14-volume-fourteen/4000-426859/</Web>
+  <Writer>Bernie Wrightson,Bill DuBay,Bruce Bezaire,Budd Lewis,Gerry Boudreau,Jeff Rovin,Steve Skeates</Writer>
+  <Year>2013</Year>
+  <Count>27</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

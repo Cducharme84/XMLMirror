@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>5</Count>
+  <Format>Limited Series</Format>
+  <Genre>Action</Genre>
+  <Inker>Umberto Rossi</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-10-26T00:18:19</Notes>
+  <Number>3</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3886" ImageSize="1550537" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3886" ImageSize="1520054" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3886" ImageSize="1822167" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3886" ImageSize="1565566" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3886" ImageSize="2130789" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3886" ImageSize="1699324" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3886" ImageSize="1608888" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3886" ImageSize="1828484" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3886" ImageSize="2441526" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3886" ImageSize="1723122" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3886" ImageSize="1958845" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3886" ImageSize="1820737" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3886" ImageSize="1785278" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3886" ImageSize="1426395" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3886" ImageSize="1356047" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3886" ImageSize="1098938" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3886" ImageSize="1714100" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3886" ImageSize="2237199" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3886" ImageSize="1979232" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3886" ImageSize="1731924" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3886" ImageSize="1774986" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3886" ImageSize="1835991" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3886" ImageSize="1419222" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3886" ImageSize="1199132" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Umberto Giampa</Penciller>
+  <Publisher>Blackbox Comics</Publisher>
+  <Series>Doctor Wilder</Series>
+  <Volume>2022</Volume>
+  <Writer>Brian Hawkins</Writer>
+  <Year>2022</Year>
+  <Summary>(W) Rebecca Childs, Brian Hawkins (A/CA) Umberto Giampa Dr. Deja Wilder and her animal-crisis management team are hot on the trails of the Big Game Operation. Kato continues to work undercover to infiltrate the group that the poachers are selling original animals to, while Macy and Vergel go on the offensive to bring in one of the poachers; tragedy befalls the Wilder Investigations team.</Summary>
+</ComicInfo>

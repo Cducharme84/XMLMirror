@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Doctor Nowhere,Hero By Night</Characters>
+	<Colorist>Jason Embury</Colorist>
+	<Count>4</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-144941</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:59:20 [Issue ID 4000-144941] urn:comicvine:4000-144941</Notes>
+	<Number>2</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1008642" Type="FrontCover"/>
+		<Page Image="1" ImageSize="787805"/>
+		<Page Image="2" ImageSize="574869"/>
+		<Page Image="3" ImageSize="1425318"/>
+		<Page Image="4" ImageSize="890362"/>
+		<Page Image="5" ImageSize="941094"/>
+		<Page Image="6" ImageSize="863927"/>
+		<Page Image="7" ImageSize="941041"/>
+		<Page Image="8" ImageSize="1031223"/>
+		<Page Image="9" ImageSize="918135"/>
+		<Page Image="10" ImageSize="745306"/>
+		<Page Image="11" ImageSize="871817"/>
+		<Page Image="12" ImageSize="855311"/>
+		<Page Image="13" ImageSize="839461"/>
+		<Page Image="14" ImageSize="821977"/>
+		<Page Image="15" ImageSize="966770"/>
+		<Page Image="16" ImageSize="978847"/>
+		<Page Image="17" ImageSize="1095898"/>
+		<Page Image="18" ImageSize="947567"/>
+		<Page Image="19" ImageSize="852907"/>
+		<Page Image="20" ImageSize="899927"/>
+		<Page Image="21" ImageSize="930178"/>
+		<Page Image="22" ImageSize="859759"/>
+		<Page Image="23" ImageSize="952435"/>
+		<Page Image="24" ImageSize="837050"/>
+		<Page Image="25" ImageSize="1035639"/>
+		<Page Image="26" ImageSize="530534"/>
+	</Pages>
+	<Publisher>Platinum Studios Comics</Publisher>
+	<Series>Hero By Night</Series>
+	<Summary>Jack has accepted he wants to be Hero by Night. But he's going to do it right, learn his craft, and start out slow. Wrong! The unstoppable Saul Simian is back, and Jack is his target. It's a race against the clock as Jack juggles being a superhero and have a fiance!"</Summary>
+	<Volume>2008</Volume>
+	<Web>https://comicvine.gamespot.com/hero-by-night-2/4000-144941/</Web>
+	<Writer>James Patrick</Writer>
+	<Year>2008</Year>
+</ComicInfo>

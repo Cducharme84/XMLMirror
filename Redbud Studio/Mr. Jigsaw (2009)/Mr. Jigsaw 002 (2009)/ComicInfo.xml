@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Mr. Jigsaw</Characters>
+	<Count>9</Count>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-221111</GTIN>
+	<Genre>Superhero</Genre>
+	<Imprint>Redbud Studios</Imprint>
+	<Inker>Gary Kato</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Maine</Locations>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-19T21:25:20 [Issue ID 4000-221111] urn:comicvine:4000-221111 urn:grandcomicsdatabase:issue/840042</Notes>
+	<Number>2</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2010" ImageHeight="3075" ImageSize="4219359" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2010" ImageHeight="3075" ImageSize="808929"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2010" ImageHeight="3075" ImageSize="1402408"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2010" ImageHeight="3075" ImageSize="1514107"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2010" ImageHeight="3075" ImageSize="1403262"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2010" ImageHeight="3075" ImageSize="1574963"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2010" ImageHeight="3075" ImageSize="1425773"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2010" ImageHeight="3075" ImageSize="1521356"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2010" ImageHeight="3075" ImageSize="1352762"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2010" ImageHeight="3075" ImageSize="1383809"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2010" ImageHeight="3075" ImageSize="1289906"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2010" ImageHeight="3075" ImageSize="1339776"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2010" ImageHeight="3075" ImageSize="1243500"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2010" ImageHeight="3075" ImageSize="1286970"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2010" ImageHeight="3075" ImageSize="1356626"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2010" ImageHeight="3075" ImageSize="1357603"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2010" ImageHeight="3075" ImageSize="1316135"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2010" ImageHeight="3075" ImageSize="1337228"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2010" ImageHeight="3075" ImageSize="1349131"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2010" ImageHeight="3075" ImageSize="1047560"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2010" ImageHeight="3075" ImageSize="1360296"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2010" ImageHeight="3075" ImageSize="1121390"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2010" ImageHeight="3075" ImageSize="1201255"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2010" ImageHeight="3075" ImageSize="1256540"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2010" ImageHeight="3075" ImageSize="1140850"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2010" ImageHeight="3075" ImageSize="1331282"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2010" ImageHeight="3075" ImageSize="1233205"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2010" ImageHeight="3075" ImageSize="1302081"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2010" ImageHeight="3075" ImageSize="1334174"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2010" ImageHeight="3075" ImageSize="1313111"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2010" ImageHeight="3075" ImageSize="1232846"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2010" ImageHeight="3075" ImageSize="1320834"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2010" ImageHeight="3075" ImageSize="1098880"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2010" ImageHeight="3075" ImageSize="974960"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2010" ImageHeight="3075" ImageSize="1195546"/>
+		<Page DoublePage="False" Image="35" ImageWidth="2010" ImageHeight="3075" ImageSize="2978870"/>
+		<Page Image="36" ImageSize="2294304"/>
+	</Pages>
+	<Penciller>Gary Kato</Penciller>
+	<Publisher>Redbud Studio</Publisher>
+	<Series>Mr. Jigsaw</Series>
+	<Title>Mr. Jigsaw</Title>
+	<Volume>2009</Volume>
+	<Web>https://comicvine.gamespot.com/mr-jigsaw-2-mr-jigsaw/4000-221111/</Web>
+	<Writer>Ron Fortier</Writer>
+	<Year>2009</Year>
+</ComicInfo>

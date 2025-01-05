@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+  <Colorist>Patricia Mulvihill,Trish Mulvihill,Patricia Mulvihill</Colorist>
+  <Count>16</Count>
+  <Editor>Will Dennis</Editor>
+  <GTIN>urn:comicvine:4000-697703</GTIN>
+  <Inker>Davide Gianfelice,Davide Gianfelice</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Clem Robins,Clem Robins</Letterer>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:05:19 [Issue ID 4000-697703] urn:comicvine:4000-697703 urn:grandcomicsdatabase:issue/697703
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 03:48:35. [Issue ID 697703]</Notes>
+  <Number>7</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="943239" Type="FrontCover" />
+    <Page Image="1" ImageSize="744071" />
+    <Page Image="2" ImageSize="841365" />
+    <Page Image="3" ImageSize="799102" />
+    <Page Image="4" ImageSize="831617" />
+    <Page Image="5" ImageSize="850535" />
+    <Page Image="6" ImageSize="733115" />
+    <Page Image="7" ImageSize="775515" />
+    <Page Image="8" ImageSize="695416" />
+    <Page Image="9" ImageSize="753714" />
+    <Page Image="10" ImageSize="713149" />
+    <Page Image="11" ImageSize="692890" />
+    <Page Image="12" ImageSize="874006" />
+    <Page Image="13" ImageSize="951702" />
+    <Page Image="14" ImageSize="895070" />
+    <Page Image="15" ImageSize="929481" />
+    <Page Image="16" ImageSize="774834" />
+    <Page Image="17" ImageSize="679089" />
+    <Page Image="18" ImageSize="823985" />
+    <Page Image="19" ImageSize="737348" />
+    <Page Image="20" ImageSize="680645" />
+    <Page Image="21" ImageSize="649087" />
+    <Page Image="22" ImageSize="923998" />
+    <Page Image="23" ImageSize="508219" />
+    <Page Image="24" ImageSize="135089" />
+  </Pages>
+  <Penciller>Davide Gianfelice,Davide Gianfelice</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Greek Street</Series>
+  <Summary>On the covers, the title is stylized as GRΣΣK STRΣΣT.</Summary>
+  <Title>Book Two: Cassandra Complex, Part One: The Mile End Massacre</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-697703/</Web>
+  <Writer>Peter Milligan,Peter Milligan</Writer>
+  <Year>2010</Year>
+</ComicInfo>

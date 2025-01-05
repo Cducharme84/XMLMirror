@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Akuma,Avengelyne,Shi</Characters>
+	<Count>2</Count>
+	<Country>US</Country>
+	<Editor>Rob Liefeld,William Christensen</Editor>
+	<Format>One Shot</Format>
+	<GTIN>urn:comicvine:4000-728890</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Karl Waller</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Locations>New York City</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:27:12 [Issue ID 4000-728890] urn:comicvine:4000-728890 urn:grandcomicsdatabase:issue/728890</Notes>
+	<Number>1</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="321070" Type="FrontCover"/>
+		<Page Image="1" ImageSize="225593"/>
+		<Page Image="2" ImageSize="302302"/>
+		<Page Image="3" ImageSize="609000"/>
+		<Page Image="4" ImageSize="1201704"/>
+		<Page Image="5" ImageSize="333502"/>
+		<Page Image="6" ImageSize="273000"/>
+		<Page Image="7" ImageSize="329877"/>
+		<Page Image="8" ImageSize="330384"/>
+		<Page Image="9" ImageSize="334365"/>
+		<Page Image="10" ImageSize="339839"/>
+		<Page Image="11" ImageSize="294637"/>
+		<Page Image="12" ImageSize="254047"/>
+		<Page Image="13" ImageSize="295250"/>
+		<Page Image="14" ImageSize="337835"/>
+		<Page Image="15" ImageSize="328136"/>
+		<Page Image="16" ImageSize="1151781"/>
+		<Page Image="17" ImageSize="309710"/>
+		<Page Image="18" ImageSize="306646"/>
+		<Page Image="19" ImageSize="309144"/>
+		<Page Image="20" ImageSize="311735"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Avengelyne / Shi</Series>
+	<Summary>| Variant         | Cover Artist | ltd       | Release Date |
+|-----------------|--------------|-----------|--------------|
+| Finch (regular) | David Finch  |           |              |
+| Martin          | Matt Martin  |           |              |
+| Tucci           | Billy Tucci  |           |              |
+| Al Rio          | Al Rio       |           |              |
+|                 | Sean Shaw    |           |              |
+| Platinum        | David Finch  | incentive |              |
+| Face-Off        |              |           |              |
+| leather         | Rick Lyon    | 700       |              |
+| Prism           | David Finch  |           |              |
+| Royal Blue      | David Finch  | 100       | January 2002 |
+| Waller          | Karl Waller  | 1250      | March 2002   |
+| Ruby Red        | David Finch  | 400       | April 2002   |</Summary>
+	<Tags>Avengelyne,Shi</Tags>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-728890/</Web>
+	<Writer>Robert Lugibihl</Writer>
+	<Year>2001</Year>
+</ComicInfo>

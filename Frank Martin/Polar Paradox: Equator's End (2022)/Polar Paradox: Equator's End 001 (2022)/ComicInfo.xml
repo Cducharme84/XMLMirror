@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Series>Polar Paradox: Equator's End</Series>
+  <Number>1</Number>
+  <Count>2</Count>
+  <Volume>2022</Volume>
+  <Genre>Horror</Genre>
+  <Summary>The second Polar Paradox story arc starts here!</Summary>
+  <Publisher>Frank Martin</Publisher>
+  <Year>2022</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+  <AgeRating>Mature</AgeRating>
+  <PageCount>21</PageCount>
+  <Writer>Frank Martin</Writer>
+  <Penciller>Antonio Mastria</Penciller>
+  <Inker>Antonio Mastria</Inker>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3889" ImageSize="2372642" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3891" ImageSize="1573921" ImageWidth="2556" />
+    <Page DoublePage="False" Image="2" ImageHeight="3889" ImageSize="2470192" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3889" ImageSize="2128703" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3889" ImageSize="1651193" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3889" ImageSize="3041064" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3889" ImageSize="2662733" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3889" ImageSize="3247149" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3889" ImageSize="2852902" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3889" ImageSize="2311921" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3889" ImageSize="1784715" ImageWidth="2560" />
+    <Page DoublePage="True" Image="11" ImageHeight="3891" ImageSize="4147855" ImageWidth="5030" />
+    <Page DoublePage="False" Image="12" ImageHeight="3889" ImageSize="2850047" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3889" ImageSize="2475216" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3889" ImageSize="2536618" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3889" ImageSize="2143804" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3889" ImageSize="2517692" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3889" ImageSize="2670008" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3889" ImageSize="2480269" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3889" ImageSize="2539817" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3889" ImageSize="1962530" ImageWidth="2560" />
+  </Pages>
+</ComicInfo>

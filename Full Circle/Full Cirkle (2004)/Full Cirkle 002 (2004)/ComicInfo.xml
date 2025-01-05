@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <GTIN>urn:comicvine:4000-307137</GTIN>
+  <Inker>Simon Bisley</Inker>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:18:51 [Issue ID 4000-307137] urn:comicvine:4000-307137
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 05:35:26. [Issue ID 558634]</Notes>
+  <Number>2</Number>
+  <PageCount>29</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1579" ImageSize="1006406" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1577" ImageSize="851445" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1576" ImageSize="388858" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1520" ImageSize="419352" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1591" ImageSize="479454" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1548" ImageSize="435720" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1577" ImageSize="387715" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1592" ImageSize="327832" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1575" ImageSize="370765" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1587" ImageSize="417464" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1591" ImageSize="452837" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1605" ImageSize="479048" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1621" ImageSize="189283" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1591" ImageSize="504080" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1581" ImageSize="500089" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1596" ImageSize="570494" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1610" ImageSize="369763" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1584" ImageSize="493554" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1591" ImageSize="484721" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1582" ImageSize="451784" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1571" ImageSize="400528" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1584" ImageSize="467765" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1577" ImageSize="488010" ImageWidth="1024" />
+    <Page Image="23" ImageHeight="1606" ImageSize="425749" ImageWidth="1024" />
+    <Page Image="24" ImageHeight="1578" ImageSize="394606" ImageWidth="1024" />
+    <Page Image="25" ImageHeight="1585" ImageSize="452781" ImageWidth="1024" />
+    <Page Image="26" ImageHeight="1572" ImageSize="424484" ImageWidth="1024" />
+    <Page Image="27" ImageHeight="1646" ImageSize="396768" ImageWidth="1024" />
+    <Page Image="28" ImageSize="118038" />
+  </Pages>
+  <Penciller>Simon Bisley</Penciller>
+  <Publisher>Full Circle</Publisher>
+  <ScanInformation>(Both Covers)</ScanInformation>
+  <Series>Full Cirkle</Series>
+  <Summary>* List of creators and their creators:*
+ Cover | Name                 | Creator(s)   | Sidebar Location |
+-------------------------------------------------------------
+ A     | Cover A              | Simon Bisley | 1                |
+ B     | Cover B              | Simon Bisley | Missing          |
+ RE    | Convention Exclusive | Simon Bisley | Missing          |
+
+
+https://comicvine.gamespot.com/full-cirkle-2/4000-307137/</Summary>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/full-cirkle-2/4000-307137/</Web>
+  <Writer>Simon Reed</Writer>
+  <Year>2004</Year>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Mature Readers</AgeRating>
+</ComicInfo>

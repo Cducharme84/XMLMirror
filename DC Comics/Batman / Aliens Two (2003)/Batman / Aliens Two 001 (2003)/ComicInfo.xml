@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Batman</Characters>
+  <Colorist>Gregory Wright</Colorist>
+  <Editor>Michael Wright</Editor>
+  <Format>Collection</Format>
+  <GTIN>urn:comixology:467320</GTIN>
+  <Genre>Superhero,Horror-suspense,Science fiction</Genre>
+  <Inker>James Hodgkins,Staz Johnson</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>John Workman</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:47:39 [Issue ID 4000-173345] urn:comicvine:4000-173345 urn:comixology:467320
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:41:39. [Issue ID 356064]</Notes>
+  <Number>1</Number>
+  <PageCount>50</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="848826" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="718617" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1920528" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1957154" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2180594" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1696689" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="2186787" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="2173648" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="2244248" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="2066045" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="2306975" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1884480" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1508612" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1808793" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1412923" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="3098688" ImageWidth="3975" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1831296" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1717615" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1806635" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="1347555" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="1345514" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1692480" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="2310633" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1599587" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1724221" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1782435" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1885994" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1973615" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1635495" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="1617815" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1781872" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1398405" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="1299379" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1388281" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1604353" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="1500553" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="1861376" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1540601" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1838205" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="1459557" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1720338" ImageWidth="1988" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1952260" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="2167577" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="1850580" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1993751" ImageWidth="1988" />
+    <Page Image="45" ImageHeight="3056" ImageSize="1999841" ImageWidth="1988" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1959032" ImageWidth="1988" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1462284" ImageWidth="1988" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1605287" ImageWidth="1988" />
+    <Page Image="49" ImageSize="991408" />
+  </Pages>
+  <Penciller>Staz Johnson</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <ScanInformation>(Digital) (Shadowcat-Empire)</ScanInformation>
+  <Series>Batman / Aliens Two</Series>
+  <Summary>A Gotham City construction crew uncovers a sealed vault housing an unspeakable horror! Eighty years ago, an expedition to the South Pole uncovered a crashed spaceship, a spaceship containing the bloodthirsty Aliens. Now, after years in hibernation, a nearly desiccated Alien is unleashed upon the modern world. And it's very, very hungry! Only one man has a chance of stopping this murderous beast... the Dark Knight Detective known as Batman!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-07-22 15:39:41.  [CVDB173345]
+
+https://comicvine.gamespot.com/batmanaliens-ii-1/4000-173345/</Summary>
+  <Teams>Aliens (Xenomorphs)</Teams>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/batmanaliens-ii-1/4000-173345/</Web>
+  <Writer>Ian Edginton</Writer>
+  <Year>2003</Year>
+  <Count>1</Count>
+</ComicInfo>

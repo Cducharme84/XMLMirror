@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Death Queen,Lady Death,Tormina</Characters>
+	<Count>27</Count>
+	<Country>US</Country>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-265536</GTIN>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Hell,People's Republic of China</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:45 [Issue ID 4000-265536] urn:comicvine:4000-265536 urn:grandcomicsdatabase:issue/812226</Notes>
+	<Number>3</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2174446" Type="FrontCover"/>
+		<Page Image="1" ImageSize="628750"/>
+		<Page Image="2" ImageSize="1868010"/>
+		<Page Image="3" ImageSize="1736450"/>
+		<Page Image="4" ImageSize="1882969"/>
+		<Page Image="5" ImageSize="1854474"/>
+		<Page Image="6" ImageSize="2007624"/>
+		<Page Image="7" ImageSize="1925122"/>
+		<Page Image="8" ImageSize="2115100"/>
+		<Page Image="9" ImageSize="2025087"/>
+		<Page Image="10" ImageSize="2015109"/>
+		<Page Image="11" ImageSize="1980032"/>
+		<Page Image="12" ImageSize="1937910"/>
+		<Page Image="13" ImageSize="2028370"/>
+		<Page Image="14" ImageSize="2039494"/>
+		<Page Image="15" ImageSize="1918031"/>
+		<Page Image="16" ImageSize="1857940"/>
+		<Page Image="17" ImageSize="2144166"/>
+		<Page Image="18" ImageSize="1968975"/>
+		<Page Image="19" ImageSize="2092220"/>
+		<Page Image="20" ImageSize="1690527"/>
+		<Page Image="21" ImageSize="2114533"/>
+		<Page Image="22" ImageSize="1911032"/>
+		<Page Image="23" ImageSize="1895096"/>
+		<Page Image="24" ImageSize="1472421"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Lady Death</Series>
+	<Teams>Werewolves</Teams>
+	<Volume>2010</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-265536/</Web>
+	<Year>2010</Year>
+</ComicInfo>

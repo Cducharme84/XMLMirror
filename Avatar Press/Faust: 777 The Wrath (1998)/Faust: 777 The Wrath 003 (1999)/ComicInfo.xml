@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Claire,Faust</Characters>
+	<Count>5</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-133384</GTIN>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:19:27 [Issue ID 4000-133384] urn:comicvine:4000-133384</Notes>
+	<Number>3</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="782745" Type="FrontCover"/>
+		<Page Image="1" ImageSize="632858"/>
+		<Page Image="2" ImageSize="471227"/>
+		<Page Image="3" ImageSize="317520"/>
+		<Page Image="4" ImageSize="350438"/>
+		<Page Image="5" ImageSize="393264"/>
+		<Page Image="6" ImageSize="389221"/>
+		<Page Image="7" ImageSize="358527"/>
+		<Page Image="8" ImageSize="371837"/>
+		<Page Image="9" ImageSize="355684"/>
+		<Page Image="10" ImageSize="386378"/>
+		<Page Image="11" ImageSize="353327"/>
+		<Page Image="12" ImageSize="366022"/>
+		<Page Image="13" ImageSize="355491"/>
+		<Page Image="14" ImageSize="351797"/>
+		<Page Image="15" ImageSize="360643"/>
+		<Page Image="16" ImageSize="353332"/>
+		<Page Image="17" ImageSize="394444"/>
+		<Page Image="18" ImageSize="306591"/>
+		<Page Image="19" ImageSize="323539"/>
+		<Page Image="20" ImageSize="323971"/>
+		<Page Image="21" ImageSize="365486"/>
+		<Page Image="22" ImageSize="368488"/>
+		<Page Image="23" ImageSize="364547"/>
+		<Page Image="24" ImageSize="334563"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Faust: 777 The Wrath</Series>
+	<Title>Darkness in Collision Part 4</Title>
+	<Volume>1998</Volume>
+	<Web>https://comicvine.gamespot.com/faust-777-the-wrath-3-darkness-in-collision-part-4/4000-133384/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>1999</Year>
+</ComicInfo>

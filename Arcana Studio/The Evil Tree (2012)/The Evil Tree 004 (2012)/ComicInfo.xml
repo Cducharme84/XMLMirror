@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>4</Count>
+	<Day>1</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-382330</GTIN>
+	<Inker>Daniel Thollin</Inker>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:52:09 [Issue ID 4000-382330] urn:comicvine:4000-382330</Notes>
+	<Number>4</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1081" ImageHeight="1650" ImageSize="492878" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1081" ImageHeight="1650" ImageSize="128158"/>
+		<Page Image="2" ImageWidth="1081" ImageHeight="1650" ImageSize="431406"/>
+		<Page Image="3" ImageWidth="1081" ImageHeight="1650" ImageSize="585784"/>
+		<Page Image="4" ImageWidth="1081" ImageHeight="1650" ImageSize="548022"/>
+		<Page Image="5" ImageWidth="1081" ImageHeight="1650" ImageSize="475022"/>
+		<Page Image="6" ImageWidth="1081" ImageHeight="1650" ImageSize="502061"/>
+		<Page Image="7" ImageWidth="1081" ImageHeight="1650" ImageSize="479620"/>
+		<Page Image="8" ImageWidth="1081" ImageHeight="1650" ImageSize="588998"/>
+		<Page Image="9" ImageWidth="1081" ImageHeight="1650" ImageSize="607062"/>
+		<Page Image="10" ImageWidth="1081" ImageHeight="1650" ImageSize="520529"/>
+		<Page Image="11" ImageWidth="1081" ImageHeight="1650" ImageSize="601888"/>
+		<Page Image="12" ImageWidth="1081" ImageHeight="1650" ImageSize="556295"/>
+		<Page Image="13" ImageWidth="1081" ImageHeight="1650" ImageSize="568410"/>
+		<Page Image="14" ImageWidth="1081" ImageHeight="1650" ImageSize="571743"/>
+		<Page Image="15" ImageWidth="1081" ImageHeight="1650" ImageSize="327563"/>
+		<Page Image="16" ImageWidth="1081" ImageHeight="1650" ImageSize="481705"/>
+		<Page Image="17" ImageWidth="1081" ImageHeight="1650" ImageSize="458205"/>
+		<Page Image="18" ImageSize="282136"/>
+	</Pages>
+	<Penciller>Daniel Thollin</Penciller>
+	<Publisher>Arcana Studio</Publisher>
+	<ScanInformation>(Digital) (Minutemen-InnerDemons)</ScanInformation>
+	<Series>The Evil Tree</Series>
+	<Summary>https://comicvine.gamespot.com/the-evil-tree-4-chapter-four/4000-382330/</Summary>
+	<Title>Chapter Four</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/the-evil-tree-4-chapter-four/4000-382330/</Web>
+	<Writer>Erik Hendrix</Writer>
+	<Year>2012</Year>
+</ComicInfo>

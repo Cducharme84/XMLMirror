@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Paul</Characters>
+  <Day>28</Day>
+  <Editor>Alonzo Simon,Justin Eisinger</Editor>
+  <GTIN>urn:asin:B07CJX45HJ</GTIN>
+  <Genre>Science Fiction</Genre>
+  <Inker>Alexandre Clérisse</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Frank Cvetkovic</Letterer>
+  <Locations>Mexico,New York City,Shanghai,Brussels,Washington D.C.,Poland</Locations>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:52:51 [Issue ID 4000-693308] urn:asin:B07CJX45HJ urn:comicvine:4000-693308
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 15:21:21. [Issue ID 1877126]</Notes>
+  <Number>1</Number>
+  <PageCount>150</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2800" ImageSize="630670" ImageWidth="2176" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2800" ImageSize="797577" ImageWidth="2176" />
+    <Page Image="2" ImageHeight="2800" ImageSize="221078" ImageWidth="2176" />
+    <Page Image="3" ImageHeight="2800" ImageSize="417773" ImageWidth="2176" />
+    <Page Image="4" ImageHeight="2800" ImageSize="447691" ImageWidth="2176" />
+    <Page Image="5" ImageHeight="2800" ImageSize="360973" ImageWidth="2176" />
+    <Page Image="6" ImageHeight="2800" ImageSize="610965" ImageWidth="2176" />
+    <Page Image="7" ImageHeight="2800" ImageSize="687718" ImageWidth="2176" />
+    <Page Image="8" ImageHeight="2800" ImageSize="708796" ImageWidth="2176" />
+    <Page Image="9" ImageHeight="2800" ImageSize="760421" ImageWidth="2176" />
+    <Page Image="10" ImageHeight="2800" ImageSize="721125" ImageWidth="2176" />
+    <Page Image="11" ImageHeight="2800" ImageSize="737066" ImageWidth="2176" />
+    <Page Image="12" ImageHeight="2800" ImageSize="678336" ImageWidth="2176" />
+    <Page Image="13" ImageHeight="2800" ImageSize="654387" ImageWidth="2176" />
+    <Page Image="14" ImageHeight="2800" ImageSize="188656" ImageWidth="2176" />
+    <Page Image="15" ImageHeight="2800" ImageSize="661304" ImageWidth="2176" />
+    <Page Image="16" ImageHeight="2800" ImageSize="655039" ImageWidth="2176" />
+    <Page Image="17" ImageHeight="2800" ImageSize="592744" ImageWidth="2176" />
+    <Page Image="18" ImageHeight="2800" ImageSize="544401" ImageWidth="2176" />
+    <Page Image="19" ImageHeight="2800" ImageSize="573302" ImageWidth="2176" />
+    <Page Image="20" ImageHeight="2800" ImageSize="686928" ImageWidth="2176" />
+    <Page Image="21" ImageHeight="2800" ImageSize="629554" ImageWidth="2176" />
+    <Page Image="22" ImageHeight="2800" ImageSize="535631" ImageWidth="2176" />
+    <Page Image="23" ImageHeight="2800" ImageSize="681009" ImageWidth="2176" />
+    <Page Image="24" ImageHeight="2800" ImageSize="538638" ImageWidth="2176" />
+    <Page Image="25" ImageHeight="2800" ImageSize="617915" ImageWidth="2176" />
+    <Page Image="26" ImageHeight="2800" ImageSize="570268" ImageWidth="2176" />
+    <Page Image="27" ImageHeight="2800" ImageSize="594448" ImageWidth="2176" />
+    <Page Image="28" ImageHeight="2800" ImageSize="683177" ImageWidth="2176" />
+    <Page Image="29" ImageHeight="2800" ImageSize="697848" ImageWidth="2176" />
+    <Page Image="30" ImageHeight="2800" ImageSize="631207" ImageWidth="2176" />
+    <Page Image="31" ImageHeight="2800" ImageSize="655382" ImageWidth="2176" />
+    <Page Image="32" ImageHeight="2800" ImageSize="608170" ImageWidth="2176" />
+    <Page Image="33" ImageHeight="2800" ImageSize="551753" ImageWidth="2176" />
+    <Page Image="34" ImageHeight="2800" ImageSize="597307" ImageWidth="2176" />
+    <Page Image="35" ImageHeight="2800" ImageSize="571462" ImageWidth="2176" />
+    <Page Image="36" ImageHeight="2800" ImageSize="603074" ImageWidth="2176" />
+    <Page Image="37" ImageHeight="2800" ImageSize="540977" ImageWidth="2176" />
+    <Page Image="38" ImageHeight="2800" ImageSize="585435" ImageWidth="2176" />
+    <Page Image="39" ImageHeight="2800" ImageSize="692183" ImageWidth="2176" />
+    <Page Image="40" ImageHeight="2800" ImageSize="230281" ImageWidth="2176" />
+    <Page Image="41" ImageHeight="2800" ImageSize="639173" ImageWidth="2176" />
+    <Page Image="42" ImageHeight="2800" ImageSize="533621" ImageWidth="2176" />
+    <Page Image="43" ImageHeight="2800" ImageSize="620187" ImageWidth="2176" />
+    <Page Image="44" ImageHeight="2800" ImageSize="510858" ImageWidth="2176" />
+    <Page Image="45" ImageHeight="2800" ImageSize="631449" ImageWidth="2176" />
+    <Page Image="46" ImageHeight="2800" ImageSize="669163" ImageWidth="2176" />
+    <Page Image="47" ImageHeight="2800" ImageSize="818345" ImageWidth="2176" />
+    <Page Image="48" ImageHeight="2800" ImageSize="671749" ImageWidth="2176" />
+    <Page Image="49" ImageHeight="2800" ImageSize="699927" ImageWidth="2176" />
+    <Page Image="50" ImageHeight="2800" ImageSize="546698" ImageWidth="2176" />
+    <Page Image="51" ImageHeight="2800" ImageSize="599263" ImageWidth="2176" />
+    <Page Image="52" ImageHeight="2800" ImageSize="984376" ImageWidth="2176" />
+    <Page Image="53" ImageHeight="2800" ImageSize="651593" ImageWidth="2176" />
+    <Page Image="54" ImageHeight="2800" ImageSize="661914" ImageWidth="2176" />
+    <Page Image="55" ImageHeight="2800" ImageSize="648947" ImageWidth="2176" />
+    <Page Image="56" ImageHeight="2800" ImageSize="717882" ImageWidth="2176" />
+    <Page Image="57" ImageHeight="2800" ImageSize="677949" ImageWidth="2176" />
+    <Page Image="58" ImageHeight="2800" ImageSize="683214" ImageWidth="2176" />
+    <Page Image="59" ImageHeight="2800" ImageSize="734775" ImageWidth="2176" />
+    <Page Image="60" ImageHeight="2800" ImageSize="642001" ImageWidth="2176" />
+    <Page Image="61" ImageHeight="2800" ImageSize="597447" ImageWidth="2176" />
+    <Page Image="62" ImageHeight="2800" ImageSize="625592" ImageWidth="2176" />
+    <Page Image="63" ImageHeight="2800" ImageSize="658274" ImageWidth="2176" />
+    <Page Image="64" ImageHeight="2800" ImageSize="550367" ImageWidth="2176" />
+    <Page Image="65" ImageHeight="2800" ImageSize="638734" ImageWidth="2176" />
+    <Page Image="66" ImageHeight="2800" ImageSize="790248" ImageWidth="2176" />
+    <Page Image="67" ImageHeight="2800" ImageSize="684962" ImageWidth="2176" />
+    <Page Image="68" ImageHeight="2800" ImageSize="761277" ImageWidth="2176" />
+    <Page Image="69" ImageHeight="2800" ImageSize="547440" ImageWidth="2176" />
+    <Page Image="70" ImageHeight="2800" ImageSize="241625" ImageWidth="2176" />
+    <Page Image="71" ImageHeight="2800" ImageSize="553665" ImageWidth="2176" />
+    <Page Image="72" ImageHeight="2800" ImageSize="700141" ImageWidth="2176" />
+    <Page Image="73" ImageHeight="2800" ImageSize="683161" ImageWidth="2176" />
+    <Page Image="74" ImageHeight="2800" ImageSize="658648" ImageWidth="2176" />
+    <Page Image="75" ImageHeight="2800" ImageSize="803335" ImageWidth="2176" />
+    <Page Image="76" ImageHeight="2800" ImageSize="721753" ImageWidth="2176" />
+    <Page Image="77" ImageHeight="2800" ImageSize="692529" ImageWidth="2176" />
+    <Page Image="78" ImageHeight="2800" ImageSize="661860" ImageWidth="2176" />
+    <Page Image="79" ImageHeight="2800" ImageSize="692687" ImageWidth="2176" />
+    <Page Image="80" ImageHeight="2800" ImageSize="524887" ImageWidth="2176" />
+    <Page Image="81" ImageHeight="2800" ImageSize="603031" ImageWidth="2176" />
+    <Page Image="82" ImageHeight="2800" ImageSize="579039" ImageWidth="2176" />
+    <Page Image="83" ImageHeight="2800" ImageSize="636722" ImageWidth="2176" />
+    <Page Image="84" ImageHeight="2800" ImageSize="581808" ImageWidth="2176" />
+    <Page Image="85" ImageHeight="2800" ImageSize="789049" ImageWidth="2176" />
+    <Page Image="86" ImageHeight="2800" ImageSize="804340" ImageWidth="2176" />
+    <Page Image="87" ImageHeight="2800" ImageSize="666011" ImageWidth="2176" />
+    <Page Image="88" ImageHeight="2800" ImageSize="755485" ImageWidth="2176" />
+    <Page Image="89" ImageHeight="2800" ImageSize="683517" ImageWidth="2176" />
+    <Page Image="90" ImageHeight="2800" ImageSize="187786" ImageWidth="2176" />
+    <Page Image="91" ImageHeight="2800" ImageSize="700972" ImageWidth="2176" />
+    <Page Image="92" ImageHeight="2800" ImageSize="650578" ImageWidth="2176" />
+    <Page Image="93" ImageHeight="2800" ImageSize="643191" ImageWidth="2176" />
+    <Page Image="94" ImageHeight="2800" ImageSize="704924" ImageWidth="2176" />
+    <Page Image="95" ImageHeight="2800" ImageSize="697797" ImageWidth="2176" />
+    <Page Image="96" ImageHeight="2800" ImageSize="651272" ImageWidth="2176" />
+    <Page Image="97" ImageHeight="2800" ImageSize="648078" ImageWidth="2176" />
+    <Page Image="98" ImageHeight="2800" ImageSize="694327" ImageWidth="2176" />
+    <Page Image="99" ImageHeight="2800" ImageSize="631128" ImageWidth="2176" />
+    <Page Image="100" ImageHeight="2800" ImageSize="566772" ImageWidth="2176" />
+    <Page Image="101" ImageHeight="2800" ImageSize="656402" ImageWidth="2176" />
+    <Page Image="102" ImageHeight="2800" ImageSize="656629" ImageWidth="2176" />
+    <Page Image="103" ImageHeight="2800" ImageSize="571855" ImageWidth="2176" />
+    <Page Image="104" ImageHeight="2800" ImageSize="673916" ImageWidth="2176" />
+    <Page Image="105" ImageHeight="2800" ImageSize="784347" ImageWidth="2176" />
+    <Page Image="106" ImageHeight="2800" ImageSize="836586" ImageWidth="2176" />
+    <Page Image="107" ImageHeight="2800" ImageSize="687983" ImageWidth="2176" />
+    <Page Image="108" ImageHeight="2800" ImageSize="745961" ImageWidth="2176" />
+    <Page Image="109" ImageHeight="2800" ImageSize="722188" ImageWidth="2176" />
+    <Page Image="110" ImageHeight="2800" ImageSize="667808" ImageWidth="2176" />
+    <Page Image="111" ImageHeight="2800" ImageSize="608201" ImageWidth="2176" />
+    <Page Image="112" ImageHeight="2800" ImageSize="731767" ImageWidth="2176" />
+    <Page Image="113" ImageHeight="2800" ImageSize="764666" ImageWidth="2176" />
+    <Page Image="114" ImageHeight="2800" ImageSize="618048" ImageWidth="2176" />
+    <Page Image="115" ImageHeight="2800" ImageSize="611179" ImageWidth="2176" />
+    <Page Image="116" ImageHeight="2800" ImageSize="245843" ImageWidth="2176" />
+    <Page Image="117" ImageHeight="2800" ImageSize="707390" ImageWidth="2176" />
+    <Page Image="118" ImageHeight="2800" ImageSize="518365" ImageWidth="2176" />
+    <Page Image="119" ImageHeight="2800" ImageSize="638866" ImageWidth="2176" />
+    <Page Image="120" ImageHeight="2800" ImageSize="704490" ImageWidth="2176" />
+    <Page Image="121" ImageHeight="2800" ImageSize="697943" ImageWidth="2176" />
+    <Page Image="122" ImageHeight="2800" ImageSize="574249" ImageWidth="2176" />
+    <Page Image="123" ImageHeight="2800" ImageSize="636162" ImageWidth="2176" />
+    <Page Image="124" ImageHeight="2800" ImageSize="591683" ImageWidth="2176" />
+    <Page Image="125" ImageHeight="2800" ImageSize="622615" ImageWidth="2176" />
+    <Page Image="126" ImageHeight="2800" ImageSize="631489" ImageWidth="2176" />
+    <Page Image="127" ImageHeight="2800" ImageSize="813269" ImageWidth="2176" />
+    <Page Image="128" ImageHeight="2800" ImageSize="788942" ImageWidth="2176" />
+    <Page Image="129" ImageHeight="2800" ImageSize="622644" ImageWidth="2176" />
+    <Page Image="130" ImageHeight="2800" ImageSize="699164" ImageWidth="2176" />
+    <Page Image="131" ImageHeight="2800" ImageSize="670966" ImageWidth="2176" />
+    <Page Image="132" ImageHeight="2800" ImageSize="734645" ImageWidth="2176" />
+    <Page Image="133" ImageHeight="2800" ImageSize="612655" ImageWidth="2176" />
+    <Page Image="134" ImageHeight="2800" ImageSize="646677" ImageWidth="2176" />
+    <Page Image="135" ImageHeight="2800" ImageSize="719988" ImageWidth="2176" />
+    <Page Image="136" ImageHeight="2800" ImageSize="654566" ImageWidth="2176" />
+    <Page Image="137" ImageHeight="2800" ImageSize="643418" ImageWidth="2176" />
+    <Page Image="138" ImageHeight="2800" ImageSize="573371" ImageWidth="2176" />
+    <Page Image="139" ImageHeight="2800" ImageSize="589000" ImageWidth="2176" />
+    <Page Image="140" ImageHeight="2800" ImageSize="632286" ImageWidth="2176" />
+    <Page Image="141" ImageHeight="2800" ImageSize="642169" ImageWidth="2176" />
+    <Page Image="142" ImageHeight="2800" ImageSize="689915" ImageWidth="2176" />
+    <Page Image="143" ImageHeight="2800" ImageSize="765466" ImageWidth="2176" />
+    <Page Image="144" ImageHeight="2800" ImageSize="750144" ImageWidth="2176" />
+    <Page Image="145" ImageHeight="2800" ImageSize="757795" ImageWidth="2176" />
+    <Page Image="146" ImageHeight="2800" ImageSize="716308" ImageWidth="2176" />
+    <Page Image="147" ImageHeight="2800" ImageSize="621535" ImageWidth="2176" />
+    <Page Image="148" ImageHeight="3056" ImageSize="1253801" ImageWidth="1988" />
+    <Page Image="149" ImageSize="1485941" />
+  </Pages>
+  <Penciller>Alexandre Clerisse,Alexandre Clérisse</Penciller>
+  <Publisher>IDW</Publisher>
+  <ScanInformation>DrVink. Library loans through OverDrive and Kindle; ripped with Calibre DeDRM. Library loans through Hoopla, plus other sources; webrip. Denoised and upscaled with waifu2x-caffe or other tools.</ScanInformation>
+  <Series>Atomic Empire</Series>
+  <Summary>An astonishing and captivating original graphic novel by Thierry Smolderen and Alexandre Clérisse. Inspired by a real psychological case, Atomic Empire is both a psychiatric enigma and a space opera.
+
+1953: The world has entered the age of the Atom, but one man wonders what it means for civilization. His name is Paul-a sci-fi writer who, since childhood, has been in telepathic contact with a hero from the distant future. But when a well-known Pentagon consultant begins to take an interest in him, "the man who communicates with the future" will commit an unforgivable sin and break an oath to his friend Zarth Arn, hero of the Galactic Empire.
+
+Smolderen and Clérisse deliver a beautiful and contemporary tale, immersed in the fluid and aerodynamic imagery of 1950s sci-fi.
+
+*Chapter Titles*
+Chapter 1: Swimmers of the Ether
+Chapter 2: The Jet-Propelled Couch
+Chapter 3: A Brain-Storm in Vermont
+Chapter 4: The Triumph of Zelbub
+Chapter 5: The Planet Shayol
+
+https://comicvine.gamespot.com/atomic-empire-1-hc/4000-693308/</Summary>
+  <Title>HC</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/atomic-empire-1-hc/4000-693308/</Web>
+  <Writer>Thierry Smolderen</Writer>
+  <Year>2018</Year>
+  <Count>1</Count>
+  <Format>Graphic Novel</Format>
+</ComicInfo>

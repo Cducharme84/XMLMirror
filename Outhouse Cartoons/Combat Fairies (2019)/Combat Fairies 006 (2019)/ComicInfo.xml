@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>12</Count>
+	<CoverArtist>Dylan Moore</CoverArtist>
+	<Day>23</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-728628</GTIN>
+	<Genre>Action,Comedy,Fantasy</Genre>
+	<Inker>Dylan Moore</Inker>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T23:52:29 [Issue ID 4000-728628] urn:comicvine:4000-728628</Notes>
+	<Number>6</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3843" ImageSize="1134750" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3843" ImageSize="1956018"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3843" ImageSize="2434534"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3843" ImageSize="1562565"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3843" ImageSize="2339581"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3843" ImageSize="2078187"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3843" ImageSize="2021138"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3843" ImageSize="2030418"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3843" ImageSize="2078230"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3843" ImageSize="1553597"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3843" ImageSize="2244463"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3843" ImageSize="2075083"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3843" ImageSize="2313844"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3843" ImageSize="2322362"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3843" ImageSize="2003129"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3843" ImageSize="2182940"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3843" ImageSize="2158502"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3843" ImageSize="1955901"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3843" ImageSize="1800170"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3843" ImageSize="2209359"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3843" ImageSize="2060326"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3843" ImageSize="1759382"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3843" ImageSize="2084056"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3843" ImageSize="771399"/>
+		<Page Image="24" ImageSize="503604"/>
+	</Pages>
+	<Penciller>Dylan Moore</Penciller>
+	<Publisher>Outhouse Cartoons</Publisher>
+	<Series>Combat Fairies</Series>
+	<Summary>Helter Shelter
+
+To escape an exploding war zone Addison is invited into a bomb shelter with the fairies secretly in tow. But when her hosts turn out to be an insane cult that won't let her leave the fairies need to find a way out...oh, and there seems to be a deadly creature hiding somewhere down there too.</Summary>
+	<Title>Helter Shelter</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/combat-fairies-6-helter-shelter/4000-728628/</Web>
+	<Writer>Dylan Moore</Writer>
+	<Year>2019</Year>
+</ComicInfo>

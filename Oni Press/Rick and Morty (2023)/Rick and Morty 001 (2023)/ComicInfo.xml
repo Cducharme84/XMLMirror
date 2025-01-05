@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Morty Smith,Rick Sanchez</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-972167</GTIN>
+	<Inker>Andrew Dalhouse,Fred Stressing</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:10:25 [Issue ID 4000-972167] urn:comicvine:4000-972167</Notes>
+	<Number>1</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1172091" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1377745"/>
+		<Page Image="2" ImageSize="2097861"/>
+		<Page Image="3" ImageSize="1589504"/>
+		<Page Image="4" ImageSize="1209691"/>
+		<Page Image="5" ImageSize="1809780"/>
+		<Page Image="6" ImageSize="1585123"/>
+		<Page Image="7" ImageSize="1528792"/>
+		<Page Image="8" ImageSize="1883544"/>
+		<Page Image="9" ImageSize="1679286"/>
+		<Page Image="10" ImageSize="1637404"/>
+		<Page Image="11" ImageSize="1854015"/>
+		<Page Image="12" ImageSize="1571306"/>
+		<Page Image="13" ImageSize="1674416"/>
+		<Page Image="14" ImageSize="1715226"/>
+		<Page Image="15" ImageSize="1714392"/>
+		<Page Image="16" ImageSize="1664726"/>
+		<Page Image="17" ImageSize="1715700"/>
+		<Page Image="18" ImageSize="1392172"/>
+		<Page Image="19" ImageSize="1591397"/>
+		<Page Image="20" ImageSize="1439801"/>
+		<Page Image="21" ImageSize="1321595"/>
+		<Page Image="22" ImageSize="934578"/>
+		<Page Image="23" ImageSize="1859226"/>
+		<Page Image="24" ImageSize="1084790"/>
+		<Page Image="25" ImageSize="769812"/>
+	</Pages>
+	<Penciller>Andrew Dalhouse,Fred Stressing</Penciller>
+	<Publisher>Oni Press</Publisher>
+	<Series>Rick and Morty</Series>
+	<Summary>BRAND-NEW #1! A supremely intelligent madman and his teen sidekick scour the multiverse for the elements of the perfect world--a world of pure mathematics. Also, a different supremely intelligent madman and his teen sidekick are on a quest for a space milkshake. Supposed to taste pretty good.
+
+When Goldenfold, not Rick Sanchez, leads the pursuit of madcap adventure and groundbreaking knowledge, things are going to get... well, interesting in that weird, can't-look-away sense.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-05 11:51:15.  [Issue ID 972167]
+
+https://comicvine.gamespot.com/rick-and-morty-1/4000-972167/</Summary>
+	<Tags>Morty Smith,Rick Sanchez</Tags>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/rick-and-morty-1/4000-972167/</Web>
+	<Writer>Alex Firer</Writer>
+	<Year>2023</Year>
+</ComicInfo>

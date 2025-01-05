@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Vanguard,Supreme,Wally</Characters>
+  <Colorist>Reuben Rude</Colorist>
+  <Count>7</Count>
+  <Day>1</Day>
+  <Editor>Erik Larsen,Gary Carlson</Editor>
+  <GTIN>urn:comicvine:4000-222784</GTIN>
+  <Inker>Jim Sinclair</Inker>
+  <Letterer>Chris Eliopoulos</Letterer>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:17:20 [Issue ID 4000-222784] urn:comicvine:4000-222784
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 10:47:13. [Issue ID 222784]</Notes>
+  <Number>0</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+    <Page Image="8" />
+    <Page Image="9" />
+    <Page Image="10" />
+    <Page Image="11" />
+    <Page Image="12" />
+  </Pages>
+  <Penciller>Tomm Coker,Tomm Coker</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Vanguard</Series>
+  <Title>The Outpost</Title>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/vanguard-0-the-outpost/4000-222784/</Web>
+  <Year>1993</Year>
+</ComicInfo>

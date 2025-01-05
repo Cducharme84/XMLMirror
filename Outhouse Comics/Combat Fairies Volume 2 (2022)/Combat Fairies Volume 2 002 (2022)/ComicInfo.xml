@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Count>10</Count>
+  <Format>Limited Series</Format>
+  <Genre>Action,Comedy,Fantasy</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-21T00:11:05</Notes>
+  <Number>2</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3843" ImageSize="1365498" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3843" ImageSize="1662766" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3843" ImageSize="2382811" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3843" ImageSize="2035714" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3843" ImageSize="1862500" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3843" ImageSize="2096634" ImageWidth="2560" />
+    <Page DoublePage="True" Image="6" ImageHeight="3843" ImageSize="5052263" ImageWidth="5083" />
+    <Page DoublePage="False" Image="7" ImageHeight="3843" ImageSize="2386652" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3843" ImageSize="2087387" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3843" ImageSize="2395447" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3843" ImageSize="1529580" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3843" ImageSize="1576670" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3843" ImageSize="2373159" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3843" ImageSize="1994171" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3843" ImageSize="1736769" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3843" ImageSize="2064560" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3746" ImageSize="1778927" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3843" ImageSize="1648288" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3843" ImageSize="1892242" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3843" ImageSize="911355" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3843" ImageSize="688603" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3843" ImageSize="531013" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Outhouse Comics</Publisher>
+  <Series>Combat Fairies Volume 2</Series>
+  <Volume>2022</Volume>
+  <Writer>Dylan Moore</Writer>
+  <Year>2022</Year>
+  <Summary>The fairies travel to South Africa on a rescue mission for the kidnapped daughter of a petrol mogul. In prison, Addison is shaken to her core when she has a face to face encounter with the widow of the man she mistakenly killed.</Summary>
+</ComicInfo>

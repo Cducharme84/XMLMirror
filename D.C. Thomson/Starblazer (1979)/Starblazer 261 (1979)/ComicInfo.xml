@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550875</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:46:03 [Issue ID 4000-550875] urn:comicvine:4000-550875 urn:grandcomicsdatabase:issue/550875
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:52:44. [Issue ID 550875]</Notes>
+  <Number>261</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="722392" Type="FrontCover" />
+    <Page Image="1" ImageSize="507773" />
+    <Page Image="2" ImageSize="630517" />
+    <Page Image="3" ImageSize="661897" />
+    <Page Image="4" ImageSize="708331" />
+    <Page Image="5" ImageSize="708307" />
+    <Page Image="6" ImageSize="713224" />
+    <Page Image="7" ImageSize="669744" />
+    <Page Image="8" ImageSize="707206" />
+    <Page Image="9" ImageSize="691870" />
+    <Page Image="10" ImageSize="655377" />
+    <Page Image="11" ImageSize="585211" />
+    <Page Image="12" ImageSize="672223" />
+    <Page Image="13" ImageSize="647894" />
+    <Page Image="14" ImageSize="582221" />
+    <Page Image="15" ImageSize="622282" />
+    <Page Image="16" ImageSize="577942" />
+    <Page Image="17" ImageSize="681825" />
+    <Page Image="18" ImageSize="630627" />
+    <Page Image="19" ImageSize="616692" />
+    <Page Image="20" ImageSize="672843" />
+    <Page Image="21" ImageSize="627185" />
+    <Page Image="22" ImageSize="642561" />
+    <Page Image="23" ImageSize="577338" />
+    <Page Image="24" ImageSize="623095" />
+    <Page Image="25" ImageSize="632599" />
+    <Page Image="26" ImageSize="621453" />
+    <Page Image="27" ImageSize="622229" />
+    <Page Image="28" ImageSize="604480" />
+    <Page Image="29" ImageSize="625189" />
+    <Page Image="30" ImageSize="603530" />
+    <Page Image="31" ImageSize="637908" />
+    <Page Image="32" ImageSize="618992" />
+    <Page Image="33" ImageSize="677982" />
+    <Page Image="34" ImageSize="554401" />
+    <Page Image="35" ImageSize="366862" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Song of the Sword</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550875/</Web>
+  <Year>1979</Year>
+</ComicInfo>

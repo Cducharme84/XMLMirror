@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Colorist>Jason Patterson</Colorist>
+  <Day>27</Day>
+  <GTIN>urn:comicvine:4000-886039</GTIN>
+  <Genre>Children's Fantasy,Humor,Middle Grade,Adventure,Children's Humorous Comics,Children's Action Adventure,Fantasy</Genre>
+  <Inker>Jason Patterson</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Jason Patterson</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:30:16 [Issue ID 4000-886039] urn:comicvine:4000-886039
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 18:45:28. [Issue ID 2408952]</Notes>
+  <Number>1</Number>
+  <PageCount>245</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="594051" Type="FrontCover" />
+    <Page Image="1" ImageSize="49164" />
+    <Page Image="2" ImageSize="258027" />
+    <Page Image="3" ImageSize="503726" />
+    <Page Image="4" ImageSize="346181" />
+    <Page Image="5" ImageSize="545797" />
+    <Page Image="6" ImageSize="85232" />
+    <Page Image="7" ImageSize="496820" />
+    <Page Image="8" ImageSize="1128640" />
+    <Page Image="9" ImageSize="1268337" />
+    <Page Image="10" ImageSize="687318" />
+    <Page Image="11" ImageSize="544981" />
+    <Page Image="12" ImageSize="616814" />
+    <Page Image="13" ImageSize="560329" />
+    <Page Image="14" ImageSize="557183" />
+    <Page Image="15" ImageSize="545184" />
+    <Page Image="16" ImageSize="527017" />
+    <Page Image="17" ImageSize="429701" />
+    <Page Image="18" ImageSize="521476" />
+    <Page Image="19" ImageSize="498937" />
+    <Page Image="20" ImageSize="691038" />
+    <Page Image="21" ImageSize="636185" />
+    <Page Image="22" ImageSize="1246994" />
+    <Page Image="23" ImageSize="676311" />
+    <Page Image="24" ImageSize="611370" />
+    <Page Image="25" ImageSize="545673" />
+    <Page Image="26" ImageSize="515866" />
+    <Page Image="27" ImageSize="550467" />
+    <Page Image="28" ImageSize="522159" />
+    <Page Image="29" ImageSize="525861" />
+    <Page Image="30" ImageSize="584193" />
+    <Page Image="31" ImageSize="537141" />
+    <Page Image="32" ImageSize="522410" />
+    <Page Image="33" ImageSize="508518" />
+    <Page Image="34" ImageSize="598350" />
+    <Page Image="35" ImageSize="532290" />
+    <Page Image="36" ImageSize="601361" />
+    <Page Image="37" ImageSize="594678" />
+    <Page Image="38" ImageSize="508633" />
+    <Page Image="39" ImageSize="635505" />
+    <Page Image="40" ImageSize="958895" />
+    <Page Image="41" ImageSize="605625" />
+    <Page Image="42" ImageSize="695497" />
+    <Page Image="43" ImageSize="984481" />
+    <Page Image="44" ImageSize="618468" />
+    <Page Image="45" ImageSize="508050" />
+    <Page Image="46" ImageSize="573379" />
+    <Page Image="47" ImageSize="595171" />
+    <Page Image="48" ImageSize="573942" />
+    <Page Image="49" ImageSize="523119" />
+    <Page Image="50" ImageSize="645384" />
+    <Page Image="51" ImageSize="441873" />
+    <Page Image="52" ImageSize="629021" />
+    <Page Image="53" ImageSize="637709" />
+    <Page Image="54" ImageSize="630957" />
+    <Page Image="55" ImageSize="666402" />
+    <Page Image="56" ImageSize="671148" />
+    <Page Image="57" ImageSize="635561" />
+    <Page Image="58" ImageSize="355380" />
+    <Page Image="59" ImageSize="642708" />
+    <Page Image="60" ImageSize="599976" />
+    <Page Image="61" ImageSize="642418" />
+    <Page Image="62" ImageSize="684253" />
+    <Page Image="63" ImageSize="529309" />
+    <Page Image="64" ImageSize="545904" />
+    <Page Image="65" ImageSize="498669" />
+    <Page Image="66" ImageSize="471550" />
+    <Page Image="67" ImageSize="490240" />
+    <Page Image="68" ImageSize="453034" />
+    <Page Image="69" ImageSize="502445" />
+    <Page Image="70" ImageSize="467620" />
+    <Page Image="71" ImageSize="457241" />
+    <Page Image="72" ImageSize="441282" />
+    <Page Image="73" ImageSize="484345" />
+    <Page Image="74" ImageSize="525628" />
+    <Page Image="75" ImageSize="414735" />
+    <Page Image="76" ImageSize="437999" />
+    <Page Image="77" ImageSize="568217" />
+    <Page Image="78" ImageSize="554491" />
+    <Page Image="79" ImageSize="476961" />
+    <Page Image="80" ImageSize="508489" />
+    <Page Image="81" ImageSize="382698" />
+    <Page Image="82" ImageSize="573779" />
+    <Page Image="83" ImageSize="541699" />
+    <Page Image="84" ImageSize="458982" />
+    <Page Image="85" ImageSize="455585" />
+    <Page Image="86" ImageSize="405121" />
+    <Page Image="87" ImageSize="565129" />
+    <Page Image="88" ImageSize="579927" />
+    <Page Image="89" ImageSize="482671" />
+    <Page Image="90" ImageSize="565227" />
+    <Page Image="91" ImageSize="551916" />
+    <Page Image="92" ImageSize="414991" />
+    <Page Image="93" ImageSize="465008" />
+    <Page Image="94" ImageSize="665593" />
+    <Page Image="95" ImageSize="511077" />
+    <Page Image="96" ImageSize="464480" />
+    <Page Image="97" ImageSize="491849" />
+    <Page Image="98" ImageSize="700756" />
+    <Page Image="99" ImageSize="540213" />
+    <Page Image="100" ImageSize="472310" />
+    <Page Image="101" ImageSize="454570" />
+    <Page Image="102" ImageSize="460048" />
+    <Page Image="103" ImageSize="673944" />
+    <Page Image="104" ImageSize="571811" />
+    <Page Image="105" ImageSize="524947" />
+    <Page Image="106" ImageSize="535824" />
+    <Page Image="107" ImageSize="555323" />
+    <Page Image="108" ImageSize="521888" />
+    <Page Image="109" ImageSize="499422" />
+    <Page Image="110" ImageSize="421048" />
+    <Page Image="111" ImageSize="355433" />
+    <Page Image="112" ImageSize="443498" />
+    <Page Image="113" ImageSize="416234" />
+    <Page Image="114" ImageSize="388288" />
+    <Page Image="115" ImageSize="539168" />
+    <Page Image="116" ImageSize="462201" />
+    <Page Image="117" ImageSize="458030" />
+    <Page Image="118" ImageSize="520330" />
+    <Page Image="119" ImageSize="467608" />
+    <Page Image="120" ImageSize="563213" />
+    <Page Image="121" ImageSize="485187" />
+    <Page Image="122" ImageSize="542758" />
+    <Page Image="123" ImageSize="623068" />
+    <Page Image="124" ImageSize="833406" />
+    <Page Image="125" ImageSize="488801" />
+    <Page Image="126" ImageSize="422540" />
+    <Page Image="127" ImageSize="508725" />
+    <Page Image="128" ImageSize="408215" />
+    <Page Image="129" ImageSize="472329" />
+    <Page Image="130" ImageSize="467084" />
+    <Page Image="131" ImageSize="527949" />
+    <Page Image="132" ImageSize="427247" />
+    <Page Image="133" ImageSize="484393" />
+    <Page Image="134" ImageSize="409513" />
+    <Page Image="135" ImageSize="544362" />
+    <Page Image="136" ImageSize="501955" />
+    <Page Image="137" ImageSize="551660" />
+    <Page Image="138" ImageSize="525446" />
+    <Page Image="139" ImageSize="560760" />
+    <Page Image="140" ImageSize="476231" />
+    <Page Image="141" ImageSize="489903" />
+    <Page Image="142" ImageSize="529633" />
+    <Page Image="143" ImageSize="522452" />
+    <Page Image="144" ImageSize="488390" />
+    <Page Image="145" ImageSize="482990" />
+    <Page Image="146" ImageSize="683971" />
+    <Page Image="147" ImageSize="456912" />
+    <Page Image="148" ImageSize="540985" />
+    <Page Image="149" ImageSize="526228" />
+    <Page Image="150" ImageSize="635384" />
+    <Page Image="151" ImageSize="619511" />
+    <Page Image="152" ImageSize="567902" />
+    <Page Image="153" ImageSize="594514" />
+    <Page Image="154" ImageSize="616988" />
+    <Page Image="155" ImageSize="410455" />
+    <Page Image="156" ImageSize="575969" />
+    <Page Image="157" ImageSize="550281" />
+    <Page Image="158" ImageSize="560896" />
+    <Page Image="159" ImageSize="604356" />
+    <Page Image="160" ImageSize="556875" />
+    <Page Image="161" ImageSize="1180077" />
+    <Page Image="162" ImageSize="423693" />
+    <Page Image="163" ImageSize="495409" />
+    <Page Image="164" ImageSize="491913" />
+    <Page Image="165" ImageSize="347124" />
+    <Page Image="166" ImageSize="408429" />
+    <Page Image="167" ImageSize="417288" />
+    <Page Image="168" ImageSize="383016" />
+    <Page Image="169" ImageSize="333752" />
+    <Page Image="170" ImageSize="436962" />
+    <Page Image="171" ImageSize="410164" />
+    <Page Image="172" ImageSize="552861" />
+    <Page Image="173" ImageSize="559040" />
+    <Page Image="174" ImageSize="590512" />
+    <Page Image="175" ImageSize="471699" />
+    <Page Image="176" ImageSize="409931" />
+    <Page Image="177" ImageSize="475182" />
+    <Page Image="178" ImageSize="1068808" />
+    <Page Image="179" ImageSize="616070" />
+    <Page Image="180" ImageSize="319675" />
+    <Page Image="181" ImageSize="470150" />
+    <Page Image="182" ImageSize="423087" />
+    <Page Image="183" ImageSize="435516" />
+    <Page Image="184" ImageSize="425334" />
+    <Page Image="185" ImageSize="734824" />
+    <Page Image="186" ImageSize="428132" />
+    <Page Image="187" ImageSize="484635" />
+    <Page Image="188" ImageSize="508697" />
+    <Page Image="189" ImageSize="510701" />
+    <Page Image="190" ImageSize="450629" />
+    <Page Image="191" ImageSize="521850" />
+    <Page Image="192" ImageSize="477614" />
+    <Page Image="193" ImageSize="345241" />
+    <Page Image="194" ImageSize="475248" />
+    <Page Image="195" ImageSize="433554" />
+    <Page Image="196" ImageSize="354716" />
+    <Page Image="197" ImageSize="602782" />
+    <Page Image="198" ImageSize="1096427" />
+    <Page Image="199" ImageSize="536129" />
+    <Page Image="200" ImageSize="494077" />
+    <Page Image="201" ImageSize="427664" />
+    <Page Image="202" ImageSize="416147" />
+    <Page Image="203" ImageSize="670391" />
+    <Page Image="204" ImageSize="422290" />
+    <Page Image="205" ImageSize="505888" />
+    <Page Image="206" ImageSize="587217" />
+    <Page Image="207" ImageSize="489517" />
+    <Page Image="208" ImageSize="453813" />
+    <Page Image="209" ImageSize="496010" />
+    <Page Image="210" ImageSize="519954" />
+    <Page Image="211" ImageSize="502806" />
+    <Page Image="212" ImageSize="505601" />
+    <Page Image="213" ImageSize="530054" />
+    <Page Image="214" ImageSize="557527" />
+    <Page Image="215" ImageSize="645970" />
+    <Page Image="216" ImageSize="435399" />
+    <Page Image="217" ImageSize="484011" />
+    <Page Image="218" ImageSize="471094" />
+    <Page Image="219" ImageSize="547960" />
+    <Page Image="220" ImageSize="492747" />
+    <Page Image="221" ImageSize="453984" />
+    <Page Image="222" ImageSize="452560" />
+    <Page Image="223" ImageSize="517713" />
+    <Page Image="224" ImageSize="454856" />
+    <Page Image="225" ImageSize="518791" />
+    <Page Image="226" ImageSize="480451" />
+    <Page Image="227" ImageSize="529927" />
+    <Page Image="228" ImageSize="567986" />
+    <Page Image="229" ImageSize="405239" />
+    <Page Image="230" ImageSize="534127" />
+    <Page Image="231" ImageSize="447293" />
+    <Page Image="232" ImageSize="1186303" />
+    <Page Image="233" ImageSize="626389" />
+    <Page Image="234" ImageSize="467495" />
+    <Page Image="235" ImageSize="366216" />
+    <Page Image="236" ImageSize="441214" />
+    <Page Image="237" ImageSize="458473" />
+    <Page Image="238" ImageSize="1003014" />
+    <Page Image="239" ImageSize="829822" />
+    <Page Image="240" ImageSize="440280" />
+    <Page Image="241" ImageSize="49164" />
+    <Page Image="242" ImageSize="577449" />
+    <Page Image="243" ImageSize="1279303" />
+    <Page Image="244" ImageSize="1221187" />
+  </Pages>
+  <Penciller>Dan &amp; Jason,Dan Abdo,Jason Patterson</Penciller>
+  <Publisher>Simon and Schuster</Publisher>
+  <ScanInformation>DrVink. Library loans through OverDrive and Kindle; ripped with Calibre DeDRM. Library loans through Hoopla, plus other sources; webrip. Denoised and upscaled with waifu2x-caffe or other tools.</ScanInformation>
+  <Series>Barb the Last Berzerker</Series>
+  <Summary>She-Ra and the Princesses of Powermeets Dav Pilkey’s Dog Man in this sidesplitting graphic novel about a young Berzerker who has to rescue her fellow warriors from the evil villain Witch Head before he destroys the world!
+
+Barb is a Berzerker, one of a group of warriors sworn to protect the land of Bailiwick from the scourge of monsters that plagues it. But the fearsome crew seem to have met their match in the nefarious Witch Head. Using power from his magical sword, he tricked the Zerks and took them captive. Only Barb was able to escape—and she took Witch Head’s Shadow Blade with her.
+
+Now it’s up to Barb to free her fellow warriors so they can stop Witch Head from taking over Bailiwick. On the way, she’ll battle vampire goat fiends, snot goblins, and a giant with serious foot odor issues (but don’t mention that to him—he’s very sensitive about it). Luckily, she’s got her best friend, Porkchop the yeti, to help her.
+
+But the power of the Shadow Blade has a mind of its own, and the deeper Barb gets into her quest, the harder it is to keep the blade’s awesome power under control.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-21 21:57:02.  [Issue ID 886039]
+
+https://comicvine.gamespot.com/barb-the-last-berzerker-1-book-1/4000-886039/</Summary>
+  <Title>Book 1</Title>
+  <Volume>2021</Volume>
+  <Web>https://comicvine.gamespot.com/barb-the-last-berzerker-1-book-1/4000-886039/</Web>
+  <Writer>Dan &amp; Jason,Dan Abdo,Jason Patterson</Writer>
+  <Year>2021</Year>
+</ComicInfo>

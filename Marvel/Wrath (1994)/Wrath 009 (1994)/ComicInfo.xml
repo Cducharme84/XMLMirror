@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Robert Kendall,Mantra,Jonah Carpenter,Prime,Strike,Wrath</Characters>
+  <GTIN>urn:comicvine:4000-225697</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:17:42 [Issue ID 4000-225697] urn:comicvine:4000-225697
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 05:34:33. [Issue ID 266212]</Notes>
+  <Number>9</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1362" ImageSize="211114" ImageWidth="900" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1352" ImageSize="199075" ImageWidth="900" />
+    <Page Image="2" ImageHeight="1355" ImageSize="267755" ImageWidth="900" />
+    <Page Image="3" ImageHeight="1351" ImageSize="190560" ImageWidth="900" />
+    <Page Image="4" ImageHeight="1355" ImageSize="203932" ImageWidth="900" />
+    <Page Image="5" ImageHeight="1366" ImageSize="174251" ImageWidth="900" />
+    <Page Image="6" ImageHeight="1359" ImageSize="208585" ImageWidth="900" />
+    <Page Image="7" ImageHeight="1365" ImageSize="167795" ImageWidth="900" />
+    <Page Image="8" ImageHeight="1363" ImageSize="232404" ImageWidth="900" />
+    <Page Image="9" ImageHeight="1371" ImageSize="215097" ImageWidth="900" />
+    <Page Image="10" ImageHeight="1365" ImageSize="277995" ImageWidth="900" />
+    <Page Image="11" ImageHeight="1366" ImageSize="208962" ImageWidth="900" />
+    <Page Image="12" ImageHeight="1365" ImageSize="233790" ImageWidth="900" />
+    <Page Image="13" ImageHeight="1366" ImageSize="187693" ImageWidth="900" />
+    <Page Image="14" ImageHeight="1369" ImageSize="216312" ImageWidth="900" />
+    <Page Image="15" ImageHeight="1378" ImageSize="192235" ImageWidth="900" />
+    <Page Image="16" ImageHeight="1368" ImageSize="220268" ImageWidth="900" />
+    <Page Image="17" ImageHeight="1373" ImageSize="227388" ImageWidth="900" />
+    <Page Image="18" ImageHeight="1360" ImageSize="228400" ImageWidth="900" />
+    <Page Image="19" ImageHeight="1364" ImageSize="196687" ImageWidth="900" />
+    <Page Image="20" ImageHeight="1362" ImageSize="227026" ImageWidth="900" />
+    <Page Image="21" ImageHeight="1382" ImageSize="137250" ImageWidth="900" />
+    <Page Image="22" ImageHeight="1365" ImageSize="264819" ImageWidth="900" />
+    <Page Image="23" ImageSize="149135" />
+  </Pages>
+  <Publisher>Marvel</Publisher>
+  <Series>Wrath</Series>
+  <Summary>https://comicvine.gamespot.com/wrath-9-escape-from-paradise/4000-225697/</Summary>
+  <Title>Escape from Paradise: Part 3, Days of Wrath</Title>
+  <Volume>1994</Volume>
+  <Web>https://comicvine.gamespot.com/wrath-9-escape-from-paradise/4000-225697/</Web>
+  <Year>1994</Year>
+  <Count>9</Count>
+  <Imprint>Malibu Comics</Imprint>
+  <LanguageISO>en</LanguageISO>
+  <Writer>Mike W. Barr,David Ammerman,Mike W. Barr,David Ammerman</Writer>
+  <Penciller>David Ammerman,David Ammerman</Penciller>
+  <Inker>Rodney Gates,Rodney Gates</Inker>
+  <Colorist>Tim Divar,Tim Divar</Colorist>
+  <Letterer>Roxanne Starr,Roxanne Starr</Letterer>
+  <Editor>Dan Danko</Editor>
+</ComicInfo>

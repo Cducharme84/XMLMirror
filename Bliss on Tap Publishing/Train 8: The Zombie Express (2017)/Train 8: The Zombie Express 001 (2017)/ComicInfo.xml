@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>3</Count>
+	<CoverArtist>Alex Cormack</CoverArtist>
+	<Day>31</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-608324</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Alex Cormack</Inker>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-24T01:45:52 [Issue ID 4000-608324] urn:comicvine:4000-608324</Notes>
+	<Number>1</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3912" ImageSize="2129110" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3912" ImageSize="992105"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3912" ImageSize="777570"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3912" ImageSize="626390"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3912" ImageSize="730172"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3912" ImageSize="440334"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3912" ImageSize="640082"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3912" ImageSize="1607439"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3912" ImageSize="1462881"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3912" ImageSize="1715460"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3912" ImageSize="1814363"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3912" ImageSize="1455640"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3912" ImageSize="1643655"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3912" ImageSize="1676921"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3912" ImageSize="1406247"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3912" ImageSize="1479987"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3912" ImageSize="1679486"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3912" ImageSize="1899699"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3912" ImageSize="1782590"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3912" ImageSize="1968405"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3912" ImageSize="1942076"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3912" ImageSize="1575457"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3912" ImageSize="1328899"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3912" ImageSize="1663487"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3912" ImageSize="1693340"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3912" ImageSize="1612074"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3912" ImageSize="1955136"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3912" ImageSize="1833647"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3912" ImageSize="1639478"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3912" ImageSize="1754394"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3912" ImageSize="1257351"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3912" ImageSize="1359717"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3912" ImageSize="1259775"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3912" ImageSize="944553"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3912" ImageSize="823243"/>
+		<Page Image="35" ImageSize="493804"/>
+	</Pages>
+	<Penciller>Alex Cormack</Penciller>
+	<Publisher>Bliss on Tap Publishing</Publisher>
+	<Series>Train 8: The Zombie Express</Series>
+	<Summary>Train 8, the famous Seattle to Chicago line, becomes ground zero as an experimental GMO virus breaks out on the crowded train during the Thanksgiving holiday, turning any infected passenger into a blood thirsty primordial. The surviving passengers are then left with the moral dilemma of stopping the train to save themselves but also letting the outbreak infect the world or being heroes by keeping the train rolling and suffering the consequences. A 3-comic mini-series based on the forthcoming major motion picture.</Summary>
+	<Teams>Zombies</Teams>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/train-8-the-zombie-express-1/4000-608324/</Web>
+	<Writer>Brian Phillipson,David Stephan</Writer>
+	<Year>2017</Year>
+</ComicInfo>

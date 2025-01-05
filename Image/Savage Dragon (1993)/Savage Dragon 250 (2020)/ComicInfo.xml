@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Mako,Possessor,Marcy</Characters>
+  <Colorist>Erik Larsen,Federico Blee,Mike Toris,Nikos Koutsis,Erik Larsen,Nikos Koutsis,Mike Toris</Colorist>
+  <Day>15</Day>
+  <Editor>Gavin Higginbotham,Erik Larsen,Erik Larsen</Editor>
+  <GTIN>urn:comicvine:4000-779387</GTIN>
+  <Genre>Humor,Fantasy,Superhero</Genre>
+  <Inker>Andy Kuhn,Erik Larsen,Fernando Pinto,Greg Kirkpatrick,Joe Zierman,Mike Matthew,Rich Woodall,Ryan Alexander-Tanner,Erik Larsen,Ryan Alexander-Tanner,Fernando Pinto,Rich Woodall,Andy Kuhn,Joe Zierman,Mike Matthew,Greg Kirkpatrick</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Ferran Delgado,Erik Larsen,Andy Kuhn,Erik Larsen,Ferran Delgado,Andy Kuhn</Letterer>
+  <Locations>Washington State,Chicago,Toronto</Locations>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:04:36 [Issue ID 4000-779387] urn:comicvine:4000-779387
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 12:37:48. [Issue ID 2128505]</Notes>
+  <Number>250</Number>
+  <PageCount>100</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2264398" Type="FrontCover" />
+    <Page Image="1" ImageSize="630852" />
+    <Page Image="2" ImageSize="1948596" />
+    <Page Image="3" ImageSize="1533084" />
+    <Page Image="4" ImageSize="1738174" />
+    <Page Image="5" ImageSize="1645780" />
+    <Page Image="6" ImageSize="1493447" />
+    <Page Image="7" ImageSize="1962365" />
+    <Page Image="8" ImageSize="1954488" />
+    <Page Image="9" ImageSize="1899020" />
+    <Page Image="10" ImageSize="1860123" />
+    <Page Image="11" ImageSize="1966825" />
+    <Page Image="12" ImageSize="1969915" />
+    <Page Image="13" ImageSize="2797575" />
+    <Page Image="14" ImageSize="2212900" />
+    <Page Image="15" ImageSize="1959836" />
+    <Page Image="16" ImageSize="2210931" />
+    <Page Image="17" ImageSize="2452665" />
+    <Page Image="18" ImageSize="2679158" />
+    <Page Image="19" ImageSize="3076125" />
+    <Page Image="20" ImageSize="1755061" />
+    <Page Image="21" ImageSize="1496550" />
+    <Page Image="22" ImageSize="1722336" />
+    <Page Image="23" ImageSize="2192967" />
+    <Page Image="24" ImageSize="1259278" />
+    <Page Image="25" ImageSize="2155306" />
+    <Page Image="26" ImageSize="2140907" />
+    <Page Image="27" ImageSize="2186555" />
+    <Page Image="28" ImageSize="1916854" />
+    <Page Image="29" ImageSize="1950814" />
+    <Page Image="30" ImageSize="2004379" />
+    <Page Image="31" ImageSize="1952962" />
+    <Page Image="32" ImageSize="2637205" />
+    <Page Image="33" ImageSize="2262742" />
+    <Page Image="34" ImageSize="2293214" />
+    <Page Image="35" ImageSize="2563172" />
+    <Page Image="36" ImageSize="2204232" />
+    <Page Image="37" ImageSize="2242266" />
+    <Page Image="38" ImageSize="2481214" />
+    <Page Image="39" ImageSize="1726349" />
+    <Page Image="40" ImageSize="2435268" />
+    <Page Image="41" ImageSize="2083197" />
+    <Page Image="42" ImageSize="2483424" />
+    <Page Image="43" ImageSize="2321042" />
+    <Page Image="44" ImageSize="2337769" />
+    <Page Image="45" ImageSize="1821421" />
+    <Page Image="46" ImageSize="1855226" />
+    <Page Image="47" ImageSize="1921677" />
+    <Page Image="48" ImageSize="1865570" />
+    <Page Image="49" ImageSize="1736786" />
+    <Page Image="50" ImageSize="1756698" />
+    <Page Image="51" ImageSize="1876799" />
+    <Page Image="52" ImageSize="2258270" />
+    <Page Image="53" ImageSize="1830970" />
+    <Page Image="54" ImageSize="3959835" />
+    <Page Image="55" ImageSize="2762940" />
+    <Page Image="56" ImageSize="2885288" />
+    <Page Image="57" ImageSize="2221358" />
+    <Page Image="58" ImageSize="2929599" />
+    <Page Image="59" ImageSize="3876742" />
+    <Page Image="60" ImageSize="2205049" />
+    <Page Image="61" ImageSize="1763653" />
+    <Page Image="62" ImageSize="1988418" />
+    <Page Image="63" ImageSize="2170797" />
+    <Page Image="64" ImageSize="2342683" />
+    <Page Image="65" ImageSize="2435005" />
+    <Page Image="66" ImageSize="1866291" />
+    <Page Image="67" ImageSize="2136297" />
+    <Page Image="68" ImageSize="2172609" />
+    <Page Image="69" ImageSize="2293045" />
+    <Page Image="70" ImageSize="2315754" />
+    <Page Image="71" ImageSize="1890952" />
+    <Page Image="72" ImageSize="1399362" />
+    <Page Image="73" ImageSize="1882699" />
+    <Page Image="74" ImageSize="4190479" />
+    <Page Image="75" ImageSize="3668649" />
+    <Page Image="76" ImageSize="3781375" />
+    <Page Image="77" ImageSize="3463170" />
+    <Page Image="78" ImageSize="3745206" />
+    <Page Image="79" ImageSize="2712583" />
+    <Page Image="80" ImageSize="3210356" />
+    <Page Image="81" ImageSize="3086834" />
+    <Page Image="82" ImageSize="3515296" />
+    <Page Image="83" ImageSize="3921727" />
+    <Page Image="84" ImageSize="3757557" />
+    <Page Image="85" ImageSize="3834661" />
+    <Page Image="86" ImageSize="3308001" />
+    <Page Image="87" ImageSize="3286263" />
+    <Page Image="88" ImageSize="4247311" />
+    <Page Image="89" ImageSize="3663183" />
+    <Page Image="90" ImageSize="3492493" />
+    <Page Image="91" ImageSize="3512167" />
+    <Page Image="92" ImageSize="3337789" />
+    <Page Image="93" ImageSize="3381120" />
+    <Page Image="94" ImageSize="3077712" />
+    <Page Image="95" ImageSize="3449211" />
+    <Page Image="96" ImageSize="3364712" />
+    <Page Image="97" ImageSize="3478817" />
+    <Page Image="98" ImageSize="1389015" />
+    <Page Image="99" ImageSize="2676145" />
+  </Pages>
+  <Penciller>Andy Kuhn,Erik Larsen,Fernando Pinto,Frank Fosco,Greg Kirkpatrick,Joe Zierman,Rich Woodall,Ryan Alexander-Tanner,Nikos Koutsis,Erik Larsen,Ryan Alexander-Tanner,Fernando Pinto,Rich Woodall,Andy Kuhn,Joe Zierman,Nikos Koutsis,Frank Fosco,Greg Kirkpatrick</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Savage Dragon</Series>
+  <Summary>ERIK LARSEN’S SAVAGE DRAGON HITS ISSUE 250!
+
+For 28 years, ERIK LARSEN has chronicled the lives and times of the Dragon and his extended family in one of comics’ only series set in real time. This monumental oversized milestone issue is a sweeping culmination that sets the stage for the next phase of comics’ most uncompromising series with its most shocking story yet! Forces have conspired against Malcolm Dragon and his family—but is this a turning point or…THE END?! Find out as SAVAGE DRAGON becomes the second original Image title to reach its 250th issue and begins the countdown to #300!
+
+Praise for SAVAGE DRAGON:
+
+“A lethal combination of talent, drive and discipline. I won’t see another run like this in my lifetime.” —Rob Liefeld
+
+“F*cking inspiring!” —Skottie Young
+
+“Energetic, inventive, surprising and most of all, fun. No matter what Erik does, he does it with the pedal to the metal.” —Kurt Busiek
+
+“The greatest superhero epic ever published. If you enjoy comics and you haven't read Dragon, you screwed up... but it's never too late!” —Robert Kirkman
+
+“The most consistently innovative and outrageous book in the history of our great medium. Erik Larsen is the boldest example of the spirit of Image comics.” —Chris Burnham
+
+ContentsFamily MattersCatchin' Up With Flash MercuryThe Deadly Duo: The Saturday Night Smackdown!Powerhouse and Flash Mercury--Together! Menace of the Mutants!Yankee Rebel, Living Legend At the Birth of America! The Terror of Two Fifty!Catchin' Up With Flash MercuryThe Deadly Duo: Monday Morning Mayhem!Carl Cosmic!Tales of Godtown Home of the Mighty Gods! When Titans Clash!The Deadly Duo: 5th Avenue Fistfight!Catchin' Up With Flash MercuryPossessed*List of covers and their creators:*
+ Cover | Name                      | Creator(s)                            | Sidebar Location |
+-------------------------------------------------------------------------------------------
+ A     | Cover A                   | Erik Larsen (a) &amp; Nikos Koutsis (c)   | 1                |
+ B     | Cover B                   | Frank Cho (a) &amp; Nikos Koutsis (c)     | 3                |
+ C     | Cover C                   | Rob Liefeld (a) &amp; Federico Blee (c)   | 4                |
+ D     | Cover D                   | Walter Simonson (a) &amp; Erik Larsen (c) | 5                |
+ E     | Cover E                   | Skottie Young                         | 6                |
+ F     | Cover F                   | None                                  | 7                |
+ G     | Cover G                   | Erik Larsen (a, c) &amp; Ryan Ottley (a)  | 8                |
+ RE    | Scorpion Comics Exclusive | None                                  | 2                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-07-23 02:13:24.  [CVDB779387]
+
+https://comicvine.gamespot.com/savage-dragon-250-family-matters/4000-779387/</Summary>
+  <Teams>Vicious Circle,Deadly Duo,The Secret Legion,Freak Force</Teams>
+  <Title>Possessed; Catchin' Up with Flash Mercury; 5th Avenue Fistfight!; When Titans Clash!; Monday Morning Mayhem!; Catchin' Up with Flash Mercury; The Terror of Two-Fifty; Menace of the Mutants; The Saturday Night Smackdown!; Catchin' Up with Flash Mercury; Family Matters</Title>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/savage-dragon-250-family-matters/4000-779387/</Web>
+  <Writer>Andy Kuhn,Erik Larsen,Joe Keatinge,Erik Larsen,Joe Keatinge,Andy Kuhn</Writer>
+  <Year>2020</Year>
+  <AgeRating>Rated M / Mature</AgeRating>
+</ComicInfo>

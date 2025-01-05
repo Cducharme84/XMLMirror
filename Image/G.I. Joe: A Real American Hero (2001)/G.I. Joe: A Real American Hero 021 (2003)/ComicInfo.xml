@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Billy,Burn-Out,Cobra Commander,Monkeywrench,Snake Eyes,Storm Shadow,Throwdown</Characters>
+	<Count>25</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-94952</GTIN>
+	<Inker>John Beatty</Inker>
+	<Locations>Los Angeles</Locations>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:15:19 [Issue ID 4000-94952] urn:comicvine:4000-94952</Notes>
+	<Number>21</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="464350" Type="FrontCover"/>
+		<Page Image="1" ImageSize="615100"/>
+		<Page Image="2" ImageSize="492137"/>
+		<Page Image="3" ImageSize="480977"/>
+		<Page Image="4" ImageSize="488711"/>
+		<Page Image="5" ImageSize="509365"/>
+		<Page Image="6" ImageSize="427653"/>
+		<Page Image="7" ImageSize="495117"/>
+		<Page Image="8" ImageSize="486462"/>
+		<Page Image="9" ImageSize="482512"/>
+		<Page Image="10" ImageSize="448565"/>
+		<Page Image="11" ImageSize="400620"/>
+		<Page Image="12" ImageSize="464678"/>
+		<Page Image="13" ImageSize="459162"/>
+		<Page Image="14" ImageSize="406951"/>
+		<Page Image="15" ImageSize="460772"/>
+		<Page Image="16" ImageSize="445863"/>
+		<Page Image="17" ImageSize="443481"/>
+		<Page Image="18" ImageSize="446112"/>
+		<Page Image="19" ImageSize="413397"/>
+		<Page Image="20" ImageSize="395969"/>
+		<Page Image="21" ImageSize="370439"/>
+		<Page Image="22" ImageSize="419477"/>
+		<Page Image="23" ImageSize="374217"/>
+		<Page Image="24" ImageSize="467485"/>
+		<Page Image="25" ImageSize="461303"/>
+		<Page Image="26" ImageSize="383542"/>
+		<Page Image="27" ImageSize="362014"/>
+	</Pages>
+	<Publisher>Image</Publisher>
+	<Series>G.I. Joe: A Real American Hero</Series>
+	<Summary>Snake-Eyes, Kamakura and Billy attempt to help Storm Shadow, who has temporarily broken free of Cobra Commander's years of mind control. However, Cobra Commander intercepts the group before Snake-Eyes is able to secure Storm Shadow's mental state through ancient ninja techniques. A battle ensues and destroys a small part of Los Angeles, while Storm Shadow reaffirms his allegiance with Cobra, leaving Snake-Eyes to the realization that his friend is lost.</Summary>
+	<Teams>COBRA,Crimson Guardsmen,G.I. Joe</Teams>
+	<Title>Closure 2 of 2</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/gi-joe-a-real-american-hero-21-closure-2-of-2/4000-94952/</Web>
+	<Writer>Josh Blaylock</Writer>
+	<Year>2003</Year>
+</ComicInfo>

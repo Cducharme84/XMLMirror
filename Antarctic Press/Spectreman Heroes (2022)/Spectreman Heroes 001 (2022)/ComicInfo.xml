@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Electroid Zaborger,Spectreman,Yutaka Daimon</Characters>
+	<Colorist>Hiroshi Kanatani,Matt Frank</Colorist>
+	<Count>4</Count>
+	<CoverArtist>Hiroshi Kanatani</CoverArtist>
+	<Day>1</Day>
+	<Editor>Doug Dlin</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-925007</GTIN>
+	<Genre>Anthology,Superhero</Genre>
+	<Inker>Hiroshi Kanatani,Matt Frank</Inker>
+	<Letterer>Doug Dlin</Letterer>
+	<Locations>Japan</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-11T22:33:13 [Issue ID 4000-925007] urn:comicvine:4000-925007</Notes>
+	<Number>1</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3961" ImageSize="1132705" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3961" ImageSize="1082924"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3961" ImageSize="2121600"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3961" ImageSize="1623145"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3961" ImageSize="1592430"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3961" ImageSize="2061959"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3961" ImageSize="1349067"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3961" ImageSize="1807969"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3961" ImageSize="2418778"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3961" ImageSize="1558154"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3961" ImageSize="1916590"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3961" ImageSize="1497865"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3961" ImageSize="1623022"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3961" ImageSize="1878147"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3961" ImageSize="1645291"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3961" ImageSize="1856618"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3961" ImageSize="1668556"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3961" ImageSize="1685454"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3961" ImageSize="1734120"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3961" ImageSize="1981885"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3961" ImageSize="1640126"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3961" ImageSize="1863729"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3961" ImageSize="1663503"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3961" ImageSize="2105648"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3961" ImageSize="2029676"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3961" ImageSize="1914438"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3961" ImageSize="2006033"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3961" ImageSize="1914545"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3961" ImageSize="1465629"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3961" ImageSize="1457473"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3961" ImageSize="2075450"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3961" ImageSize="1940238"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3961" ImageSize="1622396"/>
+		<Page DoublePage="False" Image="33" ImageWidth="2560" ImageHeight="3961" ImageSize="1713855"/>
+		<Page DoublePage="False" Image="34" ImageWidth="2560" ImageHeight="3961" ImageSize="1168157"/>
+		<Page Image="35" ImageSize="674977"/>
+	</Pages>
+	<Penciller>Hiroshi Kanatani,Matt Frank</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Spectreman Heroes</Series>
+	<Summary>Antarctic Press, in conjunction with P-Productions and Phase 6, is proud to announce Spectreman Heroes, a nostalgia-blast of retro Japanese live-action superbeings!
+
+Each issue of Spectreman Heroes will showcase a different character in their own full-length story, with art by luminaries such as Matt Frank (Godzilla Legends), Hiroshi Kanatani (Coaraptor), and Ben Dunn (Ninja High School).
+
+In this issue, police agent Yutaka Daimon commands the mighty Electroid Zaborger, riding its motorcycle mode into battle against the criminal Sigma Gang!</Summary>
+	<Title>Electroid Zaborger</Title>
+	<Volume>2022</Volume>
+	<Web>https://comicvine.gamespot.com/spectreman-heroes-1-electroid-zaborger/4000-925007/</Web>
+	<Writer>Hiroshi Kanatani,Matt Frank</Writer>
+	<Year>2022</Year>
+</ComicInfo>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>4</Count>
+  <Country>US</Country>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-792561</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:37:22 [Issue ID 4000-792561] urn:comicvine:4000-792561 urn:grandcomicsdatabase:issue/792561
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 06:18:48. [Issue ID 792561]</Notes>
+  <Number>2</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="720640" Type="FrontCover" />
+    <Page Image="1" ImageSize="482568" />
+    <Page Image="2" ImageSize="654376" />
+    <Page Image="3" ImageSize="606898" />
+    <Page Image="4" ImageSize="620676" />
+    <Page Image="5" ImageSize="501200" />
+    <Page Image="6" ImageSize="543606" />
+    <Page Image="7" ImageSize="421906" />
+    <Page Image="8" ImageSize="488007" />
+    <Page Image="9" ImageSize="514152" />
+    <Page Image="10" ImageSize="539566" />
+    <Page Image="11" ImageSize="556382" />
+    <Page Image="12" ImageSize="355157" />
+    <Page Image="13" ImageSize="460361" />
+    <Page Image="14" ImageSize="486674" />
+    <Page Image="15" ImageSize="529436" />
+    <Page Image="16" ImageSize="430884" />
+    <Page Image="17" ImageSize="577954" />
+    <Page Image="18" ImageSize="474249" />
+    <Page Image="19" ImageSize="517175" />
+    <Page Image="20" ImageSize="482021" />
+    <Page Image="21" ImageSize="470787" />
+    <Page Image="22" ImageSize="405377" />
+    <Page Image="23" ImageSize="310759" />
+    <Page Image="24" ImageSize="811719" />
+    <Page Image="25" ImageSize="640648" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Fall of Cthulhu: Apocalypse</Series>
+  <Volume>2008</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-792561/</Web>
+  <Year>2008</Year>
+</ComicInfo>

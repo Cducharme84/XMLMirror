@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Christian Walker,Deena Pilgrim</Characters>
+  <Count>38</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-222197</GTIN>
+  <Inker>Michael Avon Oeming,Michael Avon Oeming</Inker>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:10:30 [Issue ID 4000-222197] urn:comicvine:4000-222197
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 08:57:35. [Issue ID 222197]</Notes>
+  <Number>½</Number>
+  <PageCount>21</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1527" ImageSize="452043" ImageWidth="996" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1531" ImageSize="160803" ImageWidth="992" />
+    <Page Image="2" ImageHeight="1523" ImageSize="267638" ImageWidth="988" />
+    <Page Image="3" ImageHeight="1527" ImageSize="225182" ImageWidth="988" />
+    <Page Image="4" ImageHeight="1527" ImageSize="196168" ImageWidth="984" />
+    <Page Image="5" ImageHeight="1527" ImageSize="213137" ImageWidth="992" />
+    <Page Image="6" ImageHeight="1523" ImageSize="242575" ImageWidth="988" />
+    <Page Image="7" ImageHeight="1523" ImageSize="245442" ImageWidth="988" />
+    <Page Image="8" ImageHeight="1523" ImageSize="255876" ImageWidth="988" />
+    <Page Image="9" ImageHeight="1531" ImageSize="228444" ImageWidth="988" />
+    <Page Image="10" ImageHeight="1530" ImageSize="186413" ImageWidth="1004" />
+    <Page Image="11" ImageHeight="1530" ImageSize="265268" ImageWidth="974" />
+    <Page Image="12" ImageHeight="1523" ImageSize="225951" ImageWidth="1008" />
+    <Page Image="13" ImageHeight="1527" ImageSize="196207" ImageWidth="980" />
+    <Page Image="14" ImageHeight="1523" ImageSize="195997" ImageWidth="1000" />
+    <Page Image="15" ImageHeight="1531" ImageSize="202004" ImageWidth="984" />
+    <Page Image="16" ImageHeight="1519" ImageSize="180681" ImageWidth="988" />
+    <Page Image="17" ImageHeight="1535" ImageSize="219276" ImageWidth="984" />
+    <Page Image="18" ImageHeight="1527" ImageSize="223437" ImageWidth="988" />
+    <Page Image="19" ImageHeight="1519" ImageSize="195351" ImageWidth="984" />
+    <Page Image="20" ImageSize="213259" />
+  </Pages>
+  <Penciller>Michael Avon Oeming,Michael Avon Oeming</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Powers</Series>
+  <Summary>Christian Walker and Deena Pilgrim interrogate Shark, a hero found crying over a dead body of a villain.</Summary>
+  <Tags>Christian Walker,Deena Pilgrim</Tags>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/powers-12/4000-222197/</Web>
+  <Writer>Brian Michael Bendis</Writer>
+  <Year>2001</Year>
+  <CoverArtist>Michael Avon Oeming</CoverArtist>
+</ComicInfo>

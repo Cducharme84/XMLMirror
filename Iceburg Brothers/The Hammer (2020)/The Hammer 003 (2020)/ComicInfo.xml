@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Colorist>Charlie Hogg</Colorist>
+	<Count>4</Count>
+	<CoverArtist>Kieran Squires</CoverArtist>
+	<Day>10</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-808033</GTIN>
+	<Genre>Comedy</Genre>
+	<Inker>Kieran Squires</Inker>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T22:10:15 [Issue ID 4000-808033] urn:comicvine:4000-808033</Notes>
+	<Number>3</Number>
+	<PageCount>30</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="691074" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="1073809"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="57884"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="814900"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="1333020"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="1255902"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="1631918"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="969453"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="1511323"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="1878636"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="1391484"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="970974"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="1503550"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="1579807"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="1321958"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="1505727"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="983058"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="1320816"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="1196450"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1299543"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="1220817"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="1338419"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="1406589"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="1408087"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="1587968"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3840" ImageSize="1327421"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3840" ImageSize="1587060"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3840" ImageSize="1482869"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3840" ImageSize="1298421"/>
+		<Page Image="29" ImageSize="1198614"/>
+	</Pages>
+	<Penciller>Kieran Squires</Penciller>
+	<Publisher>Iceburg Brothers</Publisher>
+	<Series>The Hammer</Series>
+	<Summary>I thought it was what you wanted
+
+The adventure comes to a head as Jon discovers who his pursuers are and what motivates their desire to find him. This chapter climaxes in a violent confrontation that could spell the end of Jon's story and his attempt to discover the true nature of the hammer!</Summary>
+	<Title>I thought it was what you wanted</Title>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/the-hammer-3-i-thought-it-was-what-you-wanted/4000-808033/</Web>
+	<Writer>Simon Squires</Writer>
+	<Year>2020</Year>
+</ComicInfo>

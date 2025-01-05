@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Death Queen,Lady Death,Salacia,Wargoth</Characters>
+	<Count>27</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-268223</GTIN>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Hell,People's Republic of China</Locations>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:32 [Issue ID 4000-268223] urn:comicvine:4000-268223 urn:grandcomicsdatabase:issue/817757</Notes>
+	<Number>4</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1953085" Type="FrontCover"/>
+		<Page Image="1" ImageSize="630695"/>
+		<Page Image="2" ImageSize="1630763"/>
+		<Page Image="3" ImageSize="1587693"/>
+		<Page Image="4" ImageSize="1844367"/>
+		<Page Image="5" ImageSize="1789372"/>
+		<Page Image="6" ImageSize="1731697"/>
+		<Page Image="7" ImageSize="1640625"/>
+		<Page Image="8" ImageSize="1594381"/>
+		<Page Image="9" ImageSize="2042246"/>
+		<Page Image="10" ImageSize="2012305"/>
+		<Page Image="11" ImageSize="1647300"/>
+		<Page Image="12" ImageSize="1649892"/>
+		<Page Image="13" ImageSize="1672958"/>
+		<Page Image="14" ImageSize="1914745"/>
+		<Page Image="15" ImageSize="1836122"/>
+		<Page Image="16" ImageSize="1621997"/>
+		<Page Image="17" ImageSize="1856167"/>
+		<Page Image="18" ImageSize="1952909"/>
+		<Page Image="19" ImageSize="2041502"/>
+		<Page Image="20" ImageSize="2069168"/>
+		<Page Image="21" ImageSize="1671979"/>
+		<Page Image="22" ImageSize="1861412"/>
+		<Page Image="23" ImageSize="1725116"/>
+		<Page Image="24" ImageSize="1472421"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Lady Death</Series>
+	<Teams>Werewolves</Teams>
+	<Volume>2010</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-268223/</Web>
+	<Year>2010</Year>
+</ComicInfo>

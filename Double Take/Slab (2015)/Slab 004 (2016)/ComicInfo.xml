@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Dr. Grimes</Characters>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-533086</GTIN>
+  <Inker>Joe Cooper,Stan Chou,Stan Chou</Inker>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:44:36 [Issue ID 4000-533086] urn:comicvine:4000-533086
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 19:55:27. [Issue ID 1577670]</Notes>
+  <Number>4</Number>
+  <PageCount>184</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="812495" Type="FrontCover" />
+    <Page Image="1" ImageSize="204389" />
+    <Page Image="2" ImageSize="1051093" />
+    <Page Image="3" ImageSize="1100641" />
+    <Page Image="4" ImageSize="1047701" />
+    <Page Image="5" ImageSize="1048428" />
+    <Page Image="6" ImageSize="1019601" />
+    <Page Image="7" ImageSize="989683" />
+    <Page Image="8" ImageSize="934983" />
+    <Page Image="9" ImageSize="953600" />
+    <Page Image="10" ImageSize="70815" />
+    <Page Image="11" ImageSize="996961" />
+    <Page Image="12" ImageSize="998266" />
+    <Page Image="13" ImageSize="1002168" />
+    <Page Image="14" ImageSize="1012863" />
+    <Page Image="15" ImageSize="1029737" />
+    <Page Image="16" ImageSize="1047193" />
+    <Page Image="17" ImageSize="1054145" />
+    <Page Image="18" ImageSize="1048204" />
+    <Page Image="19" ImageSize="1075159" />
+    <Page Image="20" ImageSize="1082383" />
+    <Page Image="21" ImageSize="1105711" />
+    <Page Image="22" ImageSize="1117231" />
+    <Page Image="23" ImageSize="1140420" />
+    <Page Image="24" ImageSize="1161965" />
+    <Page Image="25" ImageSize="1153452" />
+    <Page Image="26" ImageSize="1124159" />
+    <Page Image="27" ImageSize="1112929" />
+    <Page Image="28" ImageSize="1083941" />
+    <Page Image="29" ImageSize="986893" />
+    <Page Image="30" ImageSize="999841" />
+    <Page Image="31" ImageSize="955034" />
+    <Page Image="32" ImageSize="1159828" />
+    <Page Image="33" ImageSize="1169604" />
+    <Page Image="34" ImageSize="1162269" />
+    <Page Image="35" ImageSize="1162422" />
+    <Page Image="36" ImageSize="1155451" />
+    <Page Image="37" ImageSize="1126926" />
+    <Page Image="38" ImageSize="1104426" />
+    <Page Image="39" ImageSize="263125" />
+    <Page Image="40" ImageSize="743090" />
+    <Page Image="41" ImageSize="742162" />
+    <Page Image="42" ImageSize="731085" />
+    <Page Image="43" ImageSize="874132" />
+    <Page Image="44" ImageSize="870968" />
+    <Page Image="45" ImageSize="861662" />
+    <Page Image="46" ImageSize="874451" />
+    <Page Image="47" ImageSize="883015" />
+    <Page Image="48" ImageSize="706878" />
+    <Page Image="49" ImageSize="709153" />
+    <Page Image="50" ImageSize="710946" />
+    <Page Image="51" ImageSize="686750" />
+    <Page Image="52" ImageSize="697490" />
+    <Page Image="53" ImageSize="683642" />
+    <Page Image="54" ImageSize="713422" />
+    <Page Image="55" ImageSize="723529" />
+    <Page Image="56" ImageSize="715556" />
+    <Page Image="57" ImageSize="777814" />
+    <Page Image="58" ImageSize="764480" />
+    <Page Image="59" ImageSize="750533" />
+    <Page Image="60" ImageSize="769620" />
+    <Page Image="61" ImageSize="764136" />
+    <Page Image="62" ImageSize="774450" />
+    <Page Image="63" ImageSize="958021" />
+    <Page Image="64" ImageSize="967446" />
+    <Page Image="65" ImageSize="949202" />
+    <Page Image="66" ImageSize="947281" />
+    <Page Image="67" ImageSize="932871" />
+    <Page Image="68" ImageSize="951058" />
+    <Page Image="69" ImageSize="931645" />
+    <Page Image="70" ImageSize="934705" />
+    <Page Image="71" ImageSize="1054420" />
+    <Page Image="72" ImageSize="1057628" />
+    <Page Image="73" ImageSize="1048604" />
+    <Page Image="74" ImageSize="1044166" />
+    <Page Image="75" ImageSize="1083785" />
+    <Page Image="76" ImageSize="1040265" />
+    <Page Image="77" ImageSize="1047729" />
+    <Page Image="78" ImageSize="1043288" />
+    <Page Image="79" ImageSize="1046668" />
+    <Page Image="80" ImageSize="1042113" />
+    <Page Image="81" ImageSize="1178351" />
+    <Page Image="82" ImageSize="1289789" />
+    <Page Image="83" ImageSize="1318631" />
+    <Page Image="84" ImageSize="1312131" />
+    <Page Image="85" ImageSize="1283119" />
+    <Page Image="86" ImageSize="1221676" />
+    <Page Image="87" ImageSize="966118" />
+    <Page Image="88" ImageSize="956756" />
+    <Page Image="89" ImageSize="955792" />
+    <Page Image="90" ImageSize="1048959" />
+    <Page Image="91" ImageSize="1037977" />
+    <Page Image="92" ImageSize="1018271" />
+    <Page Image="93" ImageSize="1035013" />
+    <Page Image="94" ImageSize="1044318" />
+    <Page Image="95" ImageSize="1028551" />
+    <Page Image="96" ImageSize="1015440" />
+    <Page Image="97" ImageSize="1090670" />
+    <Page Image="98" ImageSize="1134169" />
+    <Page Image="99" ImageSize="1116509" />
+    <Page Image="100" ImageSize="1059435" />
+    <Page Image="101" ImageSize="1052113" />
+    <Page Image="102" ImageSize="949102" />
+    <Page Image="103" ImageSize="1033319" />
+    <Page Image="104" ImageSize="1041487" />
+    <Page Image="105" ImageSize="1148453" />
+    <Page Image="106" ImageSize="1159577" />
+    <Page Image="107" ImageSize="919343" />
+    <Page Image="108" ImageSize="886479" />
+    <Page Image="109" ImageSize="890704" />
+    <Page Image="110" ImageSize="870954" />
+    <Page Image="111" ImageSize="864644" />
+    <Page Image="112" ImageSize="831492" />
+    <Page Image="113" ImageSize="814968" />
+    <Page Image="114" ImageSize="829119" />
+    <Page Image="115" ImageSize="818892" />
+    <Page Image="116" ImageSize="868542" />
+    <Page Image="117" ImageSize="1070454" />
+    <Page Image="118" ImageSize="1098959" />
+    <Page Image="119" ImageSize="1094536" />
+    <Page Image="120" ImageSize="1089629" />
+    <Page Image="121" ImageSize="1120371" />
+    <Page Image="122" ImageSize="944747" />
+    <Page Image="123" ImageSize="930757" />
+    <Page Image="124" ImageSize="900268" />
+    <Page Image="125" ImageSize="965141" />
+    <Page Image="126" ImageSize="964443" />
+    <Page Image="127" ImageSize="999435" />
+    <Page Image="128" ImageSize="911385" />
+    <Page Image="129" ImageSize="1032436" />
+    <Page Image="130" ImageSize="1044758" />
+    <Page Image="131" ImageSize="403745" />
+    <Page Image="132" ImageSize="757832" />
+    <Page Image="133" ImageSize="930452" />
+    <Page Image="134" ImageSize="1060331" />
+    <Page Image="135" ImageSize="1224313" />
+    <Page Image="136" ImageSize="1121991" />
+    <Page Image="137" ImageSize="1037069" />
+    <Page Image="138" ImageSize="1052828" />
+    <Page Image="139" ImageSize="1049537" />
+    <Page Image="140" ImageSize="1059182" />
+    <Page Image="141" ImageSize="1063967" />
+    <Page Image="142" ImageSize="1064609" />
+    <Page Image="143" ImageSize="1001970" />
+    <Page Image="144" ImageSize="1072108" />
+    <Page Image="145" ImageSize="1157942" />
+    <Page Image="146" ImageSize="1168811" />
+    <Page Image="147" ImageSize="1011319" />
+    <Page Image="148" ImageSize="1004171" />
+    <Page Image="149" ImageSize="992721" />
+    <Page Image="150" ImageSize="1259347" />
+    <Page Image="151" ImageSize="1249550" />
+    <Page Image="152" ImageSize="1151264" />
+    <Page Image="153" ImageSize="1165078" />
+    <Page Image="154" ImageSize="1197724" />
+    <Page Image="155" ImageSize="1244934" />
+    <Page Image="156" ImageSize="1284917" />
+    <Page Image="157" ImageSize="964726" />
+    <Page Image="158" ImageSize="957657" />
+    <Page Image="159" ImageSize="1168281" />
+    <Page Image="160" ImageSize="1222387" />
+    <Page Image="161" ImageSize="1199743" />
+    <Page Image="162" ImageSize="1270849" />
+    <Page Image="163" ImageSize="1254965" />
+    <Page Image="164" ImageSize="1186418" />
+    <Page Image="165" ImageSize="1233359" />
+    <Page Image="166" ImageSize="1113971" />
+    <Page Image="167" ImageSize="1068820" />
+    <Page Image="168" ImageSize="981915" />
+    <Page Image="169" ImageSize="1306941" />
+    <Page Image="170" ImageSize="1369788" />
+    <Page Image="171" ImageSize="1329988" />
+    <Page Image="172" ImageSize="1299360" />
+    <Page Image="173" ImageSize="1364855" />
+    <Page Image="174" ImageSize="1289030" />
+    <Page Image="175" ImageSize="1139658" />
+    <Page Image="176" ImageSize="1191173" />
+    <Page Image="177" ImageSize="1102059" />
+    <Page Image="178" ImageSize="1067103" />
+    <Page Image="179" ImageSize="1086671" />
+    <Page Image="180" ImageSize="1099223" />
+    <Page Image="181" ImageSize="1019799" />
+    <Page Image="182" ImageSize="968477" />
+    <Page Image="183" ImageSize="597397" />
+  </Pages>
+  <Penciller>Joe Cooper,Marco Cosentino,Marco Cosentino</Penciller>
+  <Publisher>Double Take</Publisher>
+  <Series>Slab</Series>
+  <Summary>Even a brain a day can't keep this doctor away. Things get weird in the lab when Dr. Grimes feeds a zombie sandwiches, all in the name of science. Bring out your undead. Dr. Grimes' experiments aren't brain surgery. Oh, wait, yes they are.
+
+https://comicvine.gamespot.com/slab-4-doctors-orders/4000-533086/</Summary>
+  <Tags>Zombies,Dr. Grimes</Tags>
+  <Teams>Zombies</Teams>
+  <Title>Doctor's Orders</Title>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/slab-4-doctors-orders/4000-533086/</Web>
+  <Writer>Brian Finkelstein,Bill Jemas,Michael Coast,Bill Jemas,Michael Coast,Brian Finkelstein</Writer>
+  <Year>2016</Year>
+  <Count>5</Count>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Colorist>Leo Paciarotti,Andrea Celestini,Leo Paciarotti,Andrea Celestini</Colorist>
+  <Letterer>Caroline Flanagan,Caroline Flanagan</Letterer>
+  <Editor>Caroline Flanagan</Editor>
+</ComicInfo>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-1461306</GTIN>
+	<Genre>Superhero</Genre>
+	<Imprint>Redbud Studios</Imprint>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-24T22:48:52 [Issue ID 4000-1461306] urn:comicvine:4000-1461306 urn:grandcomicsdatabase:issue/1461306</Notes>
+	<Number>11</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2010" ImageHeight="3075" ImageSize="11201533" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2010" ImageHeight="3075" ImageSize="1810665"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2010" ImageHeight="3075" ImageSize="3824475"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2010" ImageHeight="3075" ImageSize="3465963"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2010" ImageHeight="3075" ImageSize="3367271"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2010" ImageHeight="3075" ImageSize="3889021"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2010" ImageHeight="3075" ImageSize="3489729"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2010" ImageHeight="3075" ImageSize="3680473"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2010" ImageHeight="3075" ImageSize="3596811"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2010" ImageHeight="3075" ImageSize="3385147"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2010" ImageHeight="3075" ImageSize="3421753"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2010" ImageHeight="3075" ImageSize="3218364"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2010" ImageHeight="3075" ImageSize="3709378"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2010" ImageHeight="3075" ImageSize="3864134"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2010" ImageHeight="3075" ImageSize="3812542"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2010" ImageHeight="3075" ImageSize="3698201"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2010" ImageHeight="3075" ImageSize="3789309"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2010" ImageHeight="3075" ImageSize="3970625"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2010" ImageHeight="3075" ImageSize="3539619"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2010" ImageHeight="3075" ImageSize="3507981"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2010" ImageHeight="3075" ImageSize="4168231"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2010" ImageHeight="3075" ImageSize="3966552"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2010" ImageHeight="3075" ImageSize="3844262"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2010" ImageHeight="3075" ImageSize="3858170"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2010" ImageHeight="3075" ImageSize="3474304"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2010" ImageHeight="3075" ImageSize="3646241"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2010" ImageHeight="3075" ImageSize="3665731"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2010" ImageHeight="3075" ImageSize="3888106"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2010" ImageHeight="3075" ImageSize="3796526"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2010" ImageHeight="3075" ImageSize="3718421"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2010" ImageHeight="3075" ImageSize="2379847"/>
+		<Page Image="31" ImageSize="8945552"/>
+	</Pages>
+	<Publisher>Redbud Studio</Publisher>
+	<Series>Mr. Jigsaw</Series>
+	<Summary>Part super hero tale, part slice of life, Mr. Jigsaw follows the life and adventures of Charlie Grant who can detach parts of his body and control them independently- which leads to some wild adventures for Portland, Maine's first super hero.</Summary>
+	<Volume>2009</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1461306/</Web>
+	<Year>2009</Year>
+</ComicInfo>

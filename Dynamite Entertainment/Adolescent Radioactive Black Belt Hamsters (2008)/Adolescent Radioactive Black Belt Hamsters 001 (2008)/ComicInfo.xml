@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Arnold,Steven,Rock,Genghis Khann,Lucy,Jean-Claude</Characters>
+  <Colorist>Moose Baumann</Colorist>
+  <Count>4</Count>
+  <Day>30</Day>
+  <GTIN>urn:comicvine:4000-142444</GTIN>
+  <Letterer>Zach Matheny</Letterer>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:34:28 [Issue ID 4000-142444] urn:comicvine:4000-142444
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 20:40:43. [Issue ID 409739]</Notes>
+  <Number>1</Number>
+  <PageCount>120</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1124935" Type="FrontCover" />
+    <Page Image="1" ImageSize="768238" />
+    <Page Image="2" ImageSize="1192145" />
+    <Page Image="3" ImageSize="1604248" />
+    <Page Image="4" ImageSize="1082203" />
+    <Page Image="5" ImageSize="1839831" />
+    <Page Image="6" ImageSize="3449059" />
+    <Page Image="7" ImageSize="1895028" />
+    <Page Image="8" ImageSize="1758273" />
+    <Page Image="9" ImageSize="2264264" />
+    <Page Image="10" ImageSize="2493280" />
+    <Page Image="11" ImageSize="2049020" />
+    <Page Image="12" ImageSize="1850455" />
+    <Page Image="13" ImageSize="2037607" />
+    <Page Image="14" ImageSize="2168570" />
+    <Page Image="15" ImageSize="1816528" />
+    <Page Image="16" ImageSize="2010583" />
+    <Page Image="17" ImageSize="1591430" />
+    <Page Image="18" ImageSize="1775121" />
+    <Page Image="19" ImageSize="2290865" />
+    <Page Image="20" ImageSize="2122182" />
+    <Page Image="21" ImageSize="2003297" />
+    <Page Image="22" ImageSize="2243380" />
+    <Page Image="23" ImageSize="1893976" />
+    <Page Image="24" ImageSize="1787964" />
+    <Page Image="25" ImageSize="1878047" />
+    <Page Image="26" ImageSize="758399" />
+    <Page Image="27" ImageSize="1388150" />
+    <Page Image="28" ImageSize="909169" />
+    <Page Image="29" ImageSize="1596545" />
+    <Page Image="30" ImageSize="1692732" />
+    <Page Image="31" ImageSize="2028057" />
+    <Page Image="32" ImageSize="1564873" />
+    <Page Image="33" ImageSize="2076599" />
+    <Page Image="34" ImageSize="1936202" />
+    <Page Image="35" ImageSize="1690652" />
+    <Page Image="36" ImageSize="1681634" />
+    <Page Image="37" ImageSize="2349179" />
+    <Page Image="38" ImageSize="1960007" />
+    <Page Image="39" ImageSize="1920632" />
+    <Page Image="40" ImageSize="2135835" />
+    <Page Image="41" ImageSize="2132136" />
+    <Page Image="42" ImageSize="2540769" />
+    <Page Image="43" ImageSize="2874678" />
+    <Page Image="44" ImageSize="1956522" />
+    <Page Image="45" ImageSize="2200224" />
+    <Page Image="46" ImageSize="2242723" />
+    <Page Image="47" ImageSize="1448967" />
+    <Page Image="48" ImageSize="901304" />
+    <Page Image="49" ImageSize="1923141" />
+    <Page Image="50" ImageSize="1753049" />
+    <Page Image="51" ImageSize="2048079" />
+    <Page Image="52" ImageSize="1483532" />
+    <Page Image="53" ImageSize="1740668" />
+    <Page Image="54" ImageSize="981567" />
+    <Page Image="55" ImageSize="1910693" />
+    <Page Image="56" ImageSize="1768285" />
+    <Page Image="57" ImageSize="1834294" />
+    <Page Image="58" ImageSize="1359607" />
+    <Page Image="59" ImageSize="777946" />
+    <Page Image="60" ImageSize="3346661" />
+    <Page Image="61" ImageSize="2005387" />
+    <Page Image="62" ImageSize="1569663" />
+    <Page Image="63" ImageSize="1770088" />
+    <Page Image="64" ImageSize="2089123" />
+    <Page Image="65" ImageSize="1804146" />
+    <Page Image="66" ImageSize="1463638" />
+    <Page Image="67" ImageSize="1761956" />
+    <Page Image="68" ImageSize="2051301" />
+    <Page Image="69" ImageSize="1771438" />
+    <Page Image="70" ImageSize="2294392" />
+    <Page Image="71" ImageSize="1892151" />
+    <Page Image="72" ImageSize="2343194" />
+    <Page Image="73" ImageSize="1434782" />
+    <Page Image="74" ImageSize="1120876" />
+    <Page Image="75" ImageSize="1897907" />
+    <Page Image="76" ImageSize="1076127" />
+    <Page Image="77" ImageSize="945779" />
+    <Page Image="78" ImageSize="2123587" />
+    <Page Image="79" ImageSize="1966180" />
+    <Page Image="80" ImageSize="1665329" />
+    <Page Image="81" ImageSize="1732599" />
+    <Page Image="82" ImageSize="1400592" />
+    <Page Image="83" ImageSize="1386796" />
+    <Page Image="84" ImageSize="1958886" />
+    <Page Image="85" ImageSize="1419627" />
+    <Page Image="86" ImageSize="1186817" />
+    <Page Image="87" ImageSize="1397668" />
+    <Page Image="88" ImageSize="1632086" />
+    <Page Image="89" ImageSize="1738273" />
+    <Page Image="90" ImageSize="1792056" />
+    <Page Image="91" ImageSize="2040189" />
+    <Page Image="92" ImageSize="1425508" />
+    <Page Image="93" ImageSize="1572337" />
+    <Page Image="94" ImageSize="1133758" />
+    <Page Image="95" ImageSize="1189996" />
+    <Page Image="96" ImageSize="1550236" />
+    <Page Image="97" ImageSize="1812564" />
+    <Page Image="98" ImageSize="1519895" />
+    <Page Image="99" ImageSize="1940836" />
+    <Page Image="100" ImageSize="1456462" />
+    <Page Image="101" ImageSize="1757985" />
+    <Page Image="102" ImageSize="1453126" />
+    <Page Image="103" ImageSize="737309" />
+    <Page Image="104" ImageSize="758070" />
+    <Page Image="105" ImageSize="1027761" />
+    <Page Image="106" ImageSize="898762" />
+    <Page Image="107" ImageSize="1096789" />
+    <Page Image="108" ImageSize="740685" />
+    <Page Image="109" ImageSize="585278" />
+    <Page Image="110" ImageSize="510318" />
+    <Page Image="111" ImageSize="1242725" />
+    <Page Image="112" ImageSize="1161729" />
+    <Page Image="113" ImageSize="1195246" />
+    <Page Image="114" ImageSize="724726" />
+    <Page Image="115" ImageSize="703029" />
+    <Page Image="116" ImageSize="636502" />
+    <Page Image="117" ImageSize="1342883" />
+    <Page Image="118" ImageSize="1117763" />
+    <Page Image="119" ImageSize="282583" />
+  </Pages>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>Adolescent Radioactive Black Belt Hamsters</Series>
+  <Summary>In 1977, NASA inexplicably sent four hamsters into space to investigate a strange mass of radioactive gelatin that was hovering over the Earth. Due to exposure from the radioactive mass, the four hamsters quickly changed, evolving into something new. Something adolescent. Something radioactive! Crash landing in the Himalayas, the Hamsters were found by a hidden monastery of monks who nursed them back to health, training the group in the martial arts. Now they're back and Dynamite has them! Under the watchful eye of original series creator Don Chin, writer Keith Champagne (Countdown: Arena) is joined by artist Tom Nguyen for a comic book series unlike the world has ever seen! Ninjas! Barbarians! Huns! Monks! Hamsters! This one's got it all! Look for the special Hamsters alternate cover by Mice Templar's Michael Avon Oeming!  This issue focuses on the new team of Hamsters, including       Jean-Claude,      Rock,     Lucy,    Arnold, and   Steven, and introduces the villain,  Genghis Khann.  Khann's forces invade the Hamster's old monastery, and the new team tries to get it back.</Summary>
+  <Teams>Adolescent Radioactive Black Belt Hamsters</Teams>
+  <Title>The Next Generation</Title>
+  <Volume>2008</Volume>
+  <Web>https://comicvine.gamespot.com/adolescent-radioactive-black-belt-hamsters-1-the-n/4000-142444/</Web>
+  <Writer>Keith Champagne</Writer>
+  <Year>2008</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

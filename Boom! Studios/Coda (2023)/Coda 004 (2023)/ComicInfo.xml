@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>5</Count>
+  <Country>US</Country>
+  <Day>27</Day>
+  <Editor>Eric Harburn,Ramiro Portnoy</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-2592208</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:47:42 [Issue ID 4000-2592208] urn:comicvine:4000-2592208 urn:grandcomicsdatabase:issue/2592208
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 06:40:46. [Issue ID 2592208]</Notes>
+  <Number>4</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1694769" Type="FrontCover" />
+    <Page Image="1" ImageSize="1984649" />
+    <Page Image="2" ImageSize="2511217" />
+    <Page Image="3" ImageSize="4017761" />
+    <Page Image="4" ImageSize="2582892" />
+    <Page Image="5" ImageSize="2672930" />
+    <Page Image="6" ImageSize="6668351" />
+    <Page Image="7" ImageSize="4777766" />
+    <Page Image="8" ImageSize="2428174" />
+    <Page Image="9" ImageSize="2793326" />
+    <Page Image="10" ImageSize="4769685" />
+    <Page Image="11" ImageSize="3133852" />
+    <Page Image="12" ImageSize="2319557" />
+    <Page Image="13" ImageSize="2891721" />
+    <Page Image="14" ImageSize="1996032" />
+    <Page Image="15" ImageSize="3625026" />
+    <Page Image="16" ImageSize="2216765" />
+    <Page Image="17" ImageSize="2582722" />
+    <Page Image="18" ImageSize="1944370" />
+    <Page Image="19" ImageSize="2936128" />
+    <Page Image="20" ImageSize="2720843" />
+    <Page Image="21" ImageSize="3667746" />
+    <Page Image="22" ImageSize="2656054" />
+    <Page Image="23" ImageSize="3108833" />
+    <Page Image="24" ImageSize="1252488" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>Coda</Series>
+  <Volume>2023</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-2592208/</Web>
+  <Year>2023</Year>
+</ComicInfo>

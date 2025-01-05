@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Anguirus,Godzilla,Gorosaurus,M.O.G.U.E.R.A.,Manda,Mothra,Rodan,Zoospora</Characters>
+	<GTIN>urn:comicvine:4000-1036515</GTIN>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Asia,Japan,Monster Island,Philippines,Tokyo</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:44:34 [Issue ID 4000-1036515] urn:comicvine:4000-1036515</Notes>
+	<Number>3</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="914020" Type="FrontCover"/>
+		<Page Image="1" ImageSize="3516213"/>
+		<Page Image="2" ImageSize="4245416"/>
+		<Page Image="3" ImageSize="3775816"/>
+		<Page Image="4" ImageSize="4291406"/>
+		<Page Image="5" ImageSize="7756801"/>
+		<Page Image="6" ImageSize="3939390"/>
+		<Page Image="7" ImageSize="3725445"/>
+		<Page Image="8" ImageSize="3922085"/>
+		<Page Image="9" ImageSize="3477270"/>
+		<Page Image="10" ImageSize="8172323"/>
+		<Page Image="11" ImageSize="3972750"/>
+		<Page Image="12" ImageSize="3729728"/>
+		<Page Image="13" ImageSize="8429092"/>
+		<Page Image="14" ImageSize="3917997"/>
+		<Page Image="15" ImageSize="4109578"/>
+		<Page Image="16" ImageSize="8463528"/>
+		<Page Image="17" ImageSize="4331381"/>
+		<Page Image="18" ImageSize="4367926"/>
+		<Page Image="19" ImageSize="4343219"/>
+		<Page Image="20" ImageSize="2030638"/>
+		<Page Image="21" ImageSize="3598933"/>
+		<Page Image="22" ImageSize="1832535"/>
+		<Page Image="23" ImageSize="3077633"/>
+	</Pages>
+	<Publisher>IDW Publishing</Publisher>
+	<Series>Godzilla: The War for Humanity</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-03 13:00:40.  [Issue ID 1036515]
+
+https://comicvine.gamespot.com/godzilla-the-war-for-humanity-3/4000-1036515/</Summary>
+	<Tags>Anguirus,Asia,Elias,Godzilla,Gorosaurus,Japan,Japan Self-Defense Forces,M.O.G.U.E.R.A.,Manda,Monster Island,Mothra,Philippines,Rodan,Tokyo,Zoospora</Tags>
+	<Teams>Elias,Japan Self-Defense Forces</Teams>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/godzilla-the-war-for-humanity-3/4000-1036515/</Web>
+	<Year>2024</Year>
+</ComicInfo>

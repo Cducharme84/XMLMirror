@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Judge Schnap</Characters>
+	<Colorist>Chris Blythe,Gary Caldwell,Len O'Grady</Colorist>
+	<Country>GB</Country>
+	<Day>14</Day>
+	<Editor>Matt Smith</Editor>
+	<GTIN>urn:comicvine:4000-792029</GTIN>
+	<Genre>Detective-mystery,Science fiction</Genre>
+	<Inker>Boo Cook,Gary Erskine,John Cooper,Neil Googe,Simon Fraser</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Annie Parkhouse,Ellie de Ville,Simon Bowland</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:25:39 [Issue ID 4000-792029] urn:comicvine:4000-792029 urn:grandcomicsdatabase:issue/792029</Notes>
+	<Number>301</Number>
+	<PageCount>151</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="483634" Type="FrontCover"/>
+		<Page Image="1" ImageSize="474688"/>
+		<Page Image="2" ImageSize="516683"/>
+		<Page Image="3" ImageSize="513090"/>
+		<Page Image="4" ImageSize="673805"/>
+		<Page Image="5" ImageSize="588474"/>
+		<Page Image="6" ImageSize="631594"/>
+		<Page Image="7" ImageSize="499697"/>
+		<Page Image="8" ImageSize="540839"/>
+		<Page Image="9" ImageSize="495524"/>
+		<Page Image="10" ImageSize="530854"/>
+		<Page Image="11" ImageSize="674084"/>
+		<Page Image="12" ImageSize="647351"/>
+		<Page Image="13" ImageSize="719603"/>
+		<Page Image="14" ImageSize="599332"/>
+		<Page Image="15" ImageSize="510405"/>
+		<Page Image="16" ImageSize="226564"/>
+		<Page Image="17" ImageSize="698337"/>
+		<Page Image="18" ImageSize="626681"/>
+		<Page Image="19" ImageSize="678374"/>
+		<Page Image="20" ImageSize="759967"/>
+		<Page Image="21" ImageSize="640191"/>
+		<Page Image="22" ImageSize="737981"/>
+		<Page Image="23" ImageSize="660704"/>
+		<Page Image="24" ImageSize="407116"/>
+		<Page Image="25" ImageSize="215906"/>
+		<Page Image="26" ImageSize="298780"/>
+		<Page Image="27" ImageSize="292211"/>
+		<Page Image="28" ImageSize="409745"/>
+		<Page Image="29" ImageSize="364615"/>
+		<Page Image="30" ImageSize="466189"/>
+		<Page Image="31" ImageSize="346907"/>
+		<Page Image="32" ImageSize="368308"/>
+		<Page Image="33" ImageSize="377676"/>
+		<Page Image="34" ImageSize="290841"/>
+		<Page Image="35" ImageSize="361794"/>
+		<Page Image="36" ImageSize="404794"/>
+		<Page Image="37" ImageSize="319929"/>
+		<Page Image="38" ImageSize="424320"/>
+		<Page Image="39" ImageSize="491481"/>
+		<Page Image="40" ImageSize="516622"/>
+		<Page Image="41" ImageSize="524065"/>
+		<Page Image="42" ImageSize="403586"/>
+		<Page Image="43" ImageSize="401398"/>
+		<Page Image="44" ImageSize="434206"/>
+		<Page Image="45" ImageSize="366130"/>
+		<Page Image="46" ImageSize="458553"/>
+		<Page Image="47" ImageSize="434038"/>
+		<Page Image="48" ImageSize="358588"/>
+		<Page Image="49" ImageSize="367352"/>
+		<Page Image="50" ImageSize="506554"/>
+		<Page Image="51" ImageSize="500958"/>
+		<Page Image="52" ImageSize="556776"/>
+		<Page Image="53" ImageSize="395778"/>
+		<Page Image="54" ImageSize="490691"/>
+		<Page Image="55" ImageSize="676091"/>
+		<Page Image="56" ImageSize="713648"/>
+		<Page Image="57" ImageSize="605671"/>
+		<Page Image="58" ImageSize="620725"/>
+		<Page Image="59" ImageSize="563959"/>
+		<Page Image="60" ImageSize="561641"/>
+		<Page Image="61" ImageSize="620571"/>
+		<Page Image="62" ImageSize="614467"/>
+		<Page Image="63" ImageSize="628349"/>
+		<Page Image="64" ImageSize="603599"/>
+		<Page Image="65" ImageSize="397174"/>
+		<Page Image="66" ImageSize="486597"/>
+		<Page Image="67" ImageSize="483819"/>
+		<Page Image="68" ImageSize="390200"/>
+		<Page Image="69" ImageSize="456736"/>
+		<Page Image="70" ImageSize="412007"/>
+		<Page Image="71" ImageSize="435731"/>
+		<Page Image="72" ImageSize="568104"/>
+		<Page Image="73" ImageSize="442402"/>
+		<Page Image="74" ImageSize="441266"/>
+		<Page Image="75" ImageSize="389610"/>
+		<Page Image="76" ImageSize="380197"/>
+		<Page Image="77" ImageSize="424481"/>
+		<Page Image="78" ImageSize="362889"/>
+		<Page Image="79" ImageSize="528177"/>
+		<Page Image="80" ImageSize="378554"/>
+		<Page Image="81" ImageSize="406944"/>
+		<Page Image="82" ImageSize="474918"/>
+		<Page Image="83" ImageSize="508773"/>
+		<Page Image="84" ImageSize="521389"/>
+		<Page Image="85" ImageSize="132752"/>
+		<Page Image="86" ImageSize="124125"/>
+		<Page Image="87" ImageSize="282801"/>
+		<Page Image="88" ImageSize="563094"/>
+		<Page Image="89" ImageSize="526336"/>
+		<Page Image="90" ImageSize="450223"/>
+		<Page Image="91" ImageSize="335888"/>
+		<Page Image="92" ImageSize="570222"/>
+		<Page Image="93" ImageSize="522706"/>
+		<Page Image="94" ImageSize="515996"/>
+		<Page Image="95" ImageSize="489697"/>
+		<Page Image="96" ImageSize="516169"/>
+		<Page Image="97" ImageSize="502006"/>
+		<Page Image="98" ImageSize="500434"/>
+		<Page Image="99" ImageSize="403250"/>
+		<Page Image="100" ImageSize="533973"/>
+		<Page Image="101" ImageSize="483775"/>
+		<Page Image="102" ImageSize="529028"/>
+		<Page Image="103" ImageSize="519692"/>
+		<Page Image="104" ImageSize="522903"/>
+		<Page Image="105" ImageSize="506607"/>
+		<Page Image="106" ImageSize="497065"/>
+		<Page Image="107" ImageSize="543368"/>
+		<Page Image="108" ImageSize="522935"/>
+		<Page Image="109" ImageSize="520351"/>
+		<Page Image="110" ImageSize="531687"/>
+		<Page Image="111" ImageSize="498965"/>
+		<Page Image="112" ImageSize="424032"/>
+		<Page Image="113" ImageSize="520545"/>
+		<Page Image="114" ImageSize="490238"/>
+		<Page Image="115" ImageSize="509889"/>
+		<Page Image="116" ImageSize="497555"/>
+		<Page Image="117" ImageSize="482977"/>
+		<Page Image="118" ImageSize="530939"/>
+		<Page Image="119" ImageSize="511321"/>
+		<Page Image="120" ImageSize="405898"/>
+		<Page Image="121" ImageSize="477515"/>
+		<Page Image="122" ImageSize="456050"/>
+		<Page Image="123" ImageSize="516997"/>
+		<Page Image="124" ImageSize="106533"/>
+		<Page Image="125" ImageSize="506361"/>
+		<Page Image="126" ImageSize="405503"/>
+		<Page Image="127" ImageSize="495399"/>
+		<Page Image="128" ImageSize="501832"/>
+		<Page Image="129" ImageSize="535252"/>
+		<Page Image="130" ImageSize="492169"/>
+		<Page Image="131" ImageSize="93758"/>
+		<Page Image="132" ImageSize="479757"/>
+		<Page Image="133" ImageSize="462580"/>
+		<Page Image="134" ImageSize="441199"/>
+		<Page Image="135" ImageSize="463911"/>
+		<Page Image="136" ImageSize="458197"/>
+		<Page Image="137" ImageSize="458168"/>
+		<Page Image="138" ImageSize="260314"/>
+		<Page Image="139" ImageSize="434308"/>
+		<Page Image="140" ImageSize="415588"/>
+		<Page Image="141" ImageSize="391115"/>
+		<Page Image="142" ImageSize="415615"/>
+		<Page Image="143" ImageSize="396113"/>
+		<Page Image="144" ImageSize="451896"/>
+		<Page Image="145" ImageSize="400917"/>
+		<Page Image="146" ImageSize="327907"/>
+		<Page Image="147" ImageSize="314740"/>
+		<Page Image="148" ImageSize="144813"/>
+		<Page Image="149" ImageSize="364317"/>
+		<Page Image="150" ImageSize="148295"/>
+	</Pages>
+	<Penciller>Boo Cook,Graeme Neil Reid,John Cooper,Neil Googe,Simon Fraser</Penciller>
+	<Publisher>Rebellion</Publisher>
+	<Series>Judge Dredd Megazine</Series>
+	<Summary>Numbering:
+Counting all issues from the start in 1990, Rebellion started its run with #201.
+The previous volumes were:
+Volume 1 (1990-1992) #1-20
+Volume 2 (1992-1995) #1-83
+Volume 3 (1995-2001) #1-79
+Volume 4 (2001-2002) #1-18Bagged with Judge Dredd: The Mick McMahon Collection (Rebellion, 2010 series)</Summary>
+	<Tags>Judge Schnap</Tags>
+	<Title>The House of Vyle Part Two; Hondo-City Justice Part Two; The Unpleasantness at the Tontine Club Part Two; Lilly MacKenzie and the Mines of Charybdis Part Four; The Natural</Title>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-792029/</Web>
+	<Writer>Alan Grant,Dave Stone,Gordon Rennie,Robbie Morrison,Simon Fraser</Writer>
+	<Year>2010</Year>
+</ComicInfo>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Series>Roxy and Foxy Beach Adventure</Series>
+  <Number>1</Number>
+  <Volume>2023</Volume>
+  <Year>2023</Year>
+  <Writer>Andrew Tarusov</Writer>
+  <Penciller>Andrew Tarusov</Penciller>
+  <Inker>Andrew Tarusov</Inker>
+  <Publisher>Tarusov</Publisher>
+  <PageCount>16</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3035" ImageSize="352300" ImageWidth="1984" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3035" ImageSize="96970" ImageWidth="1984" />
+    <Page Image="2" ImageHeight="3035" ImageSize="471376" ImageWidth="1982" />
+    <Page Image="3" ImageHeight="3035" ImageSize="486426" ImageWidth="1983" />
+    <Page Image="4" ImageHeight="3035" ImageSize="530678" ImageWidth="1983" />
+    <Page Image="5" ImageHeight="3035" ImageSize="655000" ImageWidth="1983" />
+    <Page Image="6" ImageHeight="3035" ImageSize="599794" ImageWidth="1983" />
+    <Page Image="7" ImageHeight="3035" ImageSize="502218" ImageWidth="1983" />
+    <Page Image="8" ImageHeight="3035" ImageSize="567866" ImageWidth="1983" />
+    <Page Image="9" ImageHeight="3035" ImageSize="542052" ImageWidth="1983" />
+    <Page Image="10" ImageHeight="3035" ImageSize="554202" ImageWidth="1983" />
+    <Page Image="11" ImageHeight="3035" ImageSize="393860" ImageWidth="1983" />
+    <Page Image="12" ImageHeight="3035" ImageSize="428264" ImageWidth="1983" />
+    <Page Image="13" ImageHeight="3035" ImageSize="94616" ImageWidth="1634" />
+    <Page Image="14" ImageHeight="3035" ImageSize="10786" ImageWidth="1984" />
+    <Page Image="15" ImageHeight="3035" ImageSize="49432" ImageWidth="1983" />
+  </Pages>
+</ComicInfo>

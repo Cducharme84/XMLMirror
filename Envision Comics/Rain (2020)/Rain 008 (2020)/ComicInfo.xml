@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<CoverArtist>Steven McCumaskey</CoverArtist>
+	<Day>1</Day>
+	<Editor>Steven McCumaskey</Editor>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-805347</GTIN>
+	<Genre>Action</Genre>
+	<Inker>Steven McCumaskey</Inker>
+	<Letterer>Steven McCumaskey</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.2.1 on 2025-01-01T21:55:05 [Issue ID 4000-805347] urn:comicvine:4000-805347</Notes>
+	<Number>8</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1925" ImageHeight="2975" ImageSize="662573" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3956" ImageSize="904035"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3956" ImageSize="2525401"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3956" ImageSize="366235"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3956" ImageSize="5021214"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3956" ImageSize="2154831"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3956" ImageSize="1801072"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3956" ImageSize="3124190"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3956" ImageSize="3264643"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3956" ImageSize="5023542"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3956" ImageSize="3691781"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3956" ImageSize="1683841"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3956" ImageSize="2278444"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3956" ImageSize="2469540"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3956" ImageSize="2105861"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3956" ImageSize="2034730"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3956" ImageSize="3753347"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3956" ImageSize="1397933"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3956" ImageSize="3424316"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3956" ImageSize="3061501"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3956" ImageSize="2557944"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3956" ImageSize="3559516"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3956" ImageSize="2657881"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3956" ImageSize="3639942"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3956" ImageSize="2960510"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3956" ImageSize="2993991"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3956" ImageSize="2593955"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3956" ImageSize="2364693"/>
+		<Page Image="28" ImageSize="1493126"/>
+	</Pages>
+	<Penciller>Steven McCumaskey</Penciller>
+	<Publisher>Envision Comics</Publisher>
+	<Series>Rain</Series>
+	<Title>Volume 8</Title>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/rain-6-volume-6-life-of-agony/4000-805347/</Web>
+	<Writer>Steven McCumaskey</Writer>
+	<Year>2020</Year>
+</ComicInfo>

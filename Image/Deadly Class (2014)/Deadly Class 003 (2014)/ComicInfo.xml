@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Chester Wilson,Marcus Lopez,Willie Lewis</Characters>
+	<Colorist>Lee Loughridge</Colorist>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-448925</GTIN>
+	<Inker>Wes Craig</Inker>
+	<Letterer>Rus Wooton,Sebastian Girner</Letterer>
+	<Locations>California,San Francisco</Locations>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:32:44 [Issue ID 4000-448925] urn:comicvine:4000-448925</Notes>
+	<Number>3</Number>
+	<PageCount>30</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="755789" Type="FrontCover"/>
+		<Page Image="1" ImageSize="365112"/>
+		<Page Image="2" ImageSize="1240009"/>
+		<Page Image="3" ImageSize="2565836"/>
+		<Page Image="4" ImageSize="1541530"/>
+		<Page Image="5" ImageSize="1081317"/>
+		<Page Image="6" ImageSize="7804458"/>
+		<Page Image="7" ImageSize="1237665"/>
+		<Page Image="8" ImageSize="1424624"/>
+		<Page Image="9" ImageSize="1804874"/>
+		<Page Image="10" ImageSize="1550595"/>
+		<Page Image="11" ImageSize="1787274"/>
+		<Page Image="12" ImageSize="1840028"/>
+		<Page Image="13" ImageSize="1640259"/>
+		<Page Image="14" ImageSize="1522230"/>
+		<Page Image="15" ImageSize="1181482"/>
+		<Page Image="16" ImageSize="1410799"/>
+		<Page Image="17" ImageSize="1469937"/>
+		<Page Image="18" ImageSize="1385543"/>
+		<Page Image="19" ImageSize="1050878"/>
+		<Page Image="20" ImageSize="941322"/>
+		<Page Image="21" ImageSize="1630855"/>
+		<Page Image="22" ImageSize="1015601"/>
+		<Page Image="23" ImageSize="1249338"/>
+		<Page Image="24" ImageSize="875912"/>
+		<Page Image="25" ImageSize="1484175"/>
+		<Page Image="26" ImageSize="2407963"/>
+		<Page Image="27" ImageSize="566656"/>
+		<Page Image="28" ImageSize="1191062"/>
+		<Page Image="29" ImageSize="171725"/>
+	</Pages>
+	<Penciller>Wes Craig</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>Deadly Class</Series>
+	<Summary>Tasked with their first assassination mission, Marcus and Willie roam the sad and lonely streets of San Francisco in the dead of night, stalked by a shadow from Marcus’s mysterious past.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-07 09:47:23.  [Issue ID 448925]
+
+https://comicvine.gamespot.com/deadly-class-3/4000-448925/</Summary>
+	<Tags>California,Chester Wilson,Marcus Lopez,San Francisco,Willie Lewis</Tags>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/deadly-class-3/4000-448925/</Web>
+	<Writer>Rick Remender</Writer>
+	<Year>2014</Year>
+</ComicInfo>

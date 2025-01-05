@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Astaroth,Tupo (first appearance, death),Hellboy,Dr. José Luis Kogan (first appearance, death),Raúl (first appearance, death),Sonia Montejo (first appearance, death),Esteban [Camazotz] (flashback),Frankenstein</Characters>
+  <Colorist>Dave Stewart,James Sinclair,Matt Hollingsworth,Dave Stewart</Colorist>
+  <Count>2</Count>
+  <Day>13</Day>
+  <Editor>Daniel Chabon,Jay Edidin,Katii O'Brien,Matt Dryer,Samantha Robertson,Scott Allie,Shantel LaRocque</Editor>
+  <GTIN>urn:comicvine:4000-672835</GTIN>
+  <Inker>Duncan Fegredo,Fábio Moon,Gabriel Bá,Mick McMahon,Mike Mignola,Richard Corben,Mike McMahon,Richard Corben,Gabriel Bá,Fábio Moon,Mike McMahon,Mike Mignola,Duncan Fegredo</Inker>
+  <Letterer>Clem Robins,Pat Brosseau,Richard Corben,Clem Robins,Richard Corben,Pat Brosseau</Letterer>
+  <Locations>Northborough,Virginia,Hell,Connecticut,Scandinavia,England,Fairfield,Denmark,Europe,Norway,Ireland,Pleasure Island,Massachusetts,New Mexico,Kansas,Brooklyn,Pandemonium,Malaysia,South Pacific,Copenhagen,New York State,Mexico,North America,Appalachian Mountains,Italy,B.P.R.D. Headquarters (Fairfield),Asia,New York City</Locations>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:14:24 [Issue ID 4000-672835] urn:comicvine:4000-672835
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 19:25:08. [Issue ID 1816404]</Notes>
+  <Number>1</Number>
+  <PageCount>369</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1097617" Type="FrontCover" />
+    <Page Image="1" ImageSize="529380" />
+    <Page Image="2" ImageSize="876987" />
+    <Page Image="3" ImageSize="380452" />
+    <Page Image="4" ImageSize="470044" />
+    <Page Image="5" ImageSize="436605" />
+    <Page Image="6" ImageSize="1943357" />
+    <Page Image="7" ImageSize="1761241" />
+    <Page Image="8" ImageSize="364883" />
+    <Page Image="9" ImageSize="1847367" />
+    <Page Image="10" ImageSize="1656772" />
+    <Page Image="11" ImageSize="2337973" />
+    <Page Image="12" ImageSize="2337603" />
+    <Page Image="13" ImageSize="2373449" />
+    <Page Image="14" ImageSize="2699516" />
+    <Page Image="15" ImageSize="2200088" />
+    <Page Image="16" ImageSize="2371585" />
+    <Page Image="17" ImageSize="2282176" />
+    <Page Image="18" ImageSize="2814055" />
+    <Page Image="19" ImageSize="3072035" />
+    <Page Image="20" ImageSize="2519534" />
+    <Page Image="21" ImageSize="2959117" />
+    <Page Image="22" ImageSize="3342220" />
+    <Page Image="23" ImageSize="3760288" />
+    <Page Image="24" ImageSize="3466107" />
+    <Page Image="25" ImageSize="2991734" />
+    <Page Image="26" ImageSize="3274632" />
+    <Page Image="27" ImageSize="2972753" />
+    <Page Image="28" ImageSize="3201115" />
+    <Page Image="29" ImageSize="2934649" />
+    <Page Image="30" ImageSize="2606251" />
+    <Page Image="31" ImageSize="2608551" />
+    <Page Image="32" ImageSize="3419389" />
+    <Page Image="33" ImageSize="2599358" />
+    <Page Image="34" ImageSize="2442261" />
+    <Page Image="35" ImageSize="2758946" />
+    <Page Image="36" ImageSize="2834176" />
+    <Page Image="37" ImageSize="2902446" />
+    <Page Image="38" ImageSize="3099945" />
+    <Page Image="39" ImageSize="3126619" />
+    <Page Image="40" ImageSize="2777961" />
+    <Page Image="41" ImageSize="3061198" />
+    <Page Image="42" ImageSize="2893472" />
+    <Page Image="43" ImageSize="3136577" />
+    <Page Image="44" ImageSize="2792685" />
+    <Page Image="45" ImageSize="2780494" />
+    <Page Image="46" ImageSize="2821731" />
+    <Page Image="47" ImageSize="3254479" />
+    <Page Image="48" ImageSize="2876790" />
+    <Page Image="49" ImageSize="3076500" />
+    <Page Image="50" ImageSize="2692592" />
+    <Page Image="51" ImageSize="3016757" />
+    <Page Image="52" ImageSize="3829260" />
+    <Page Image="53" ImageSize="2943899" />
+    <Page Image="54" ImageSize="3583078" />
+    <Page Image="55" ImageSize="2821583" />
+    <Page Image="56" ImageSize="2607595" />
+    <Page Image="57" ImageSize="3094051" />
+    <Page Image="58" ImageSize="1187998" />
+    <Page Image="59" ImageSize="1494823" />
+    <Page Image="60" ImageSize="1714671" />
+    <Page Image="61" ImageSize="1893905" />
+    <Page Image="62" ImageSize="1788787" />
+    <Page Image="63" ImageSize="1581245" />
+    <Page Image="64" ImageSize="1925108" />
+    <Page Image="65" ImageSize="1844771" />
+    <Page Image="66" ImageSize="2018831" />
+    <Page Image="67" ImageSize="1921580" />
+    <Page Image="68" ImageSize="1773170" />
+    <Page Image="69" ImageSize="1828935" />
+    <Page Image="70" ImageSize="1577179" />
+    <Page Image="71" ImageSize="1342015" />
+    <Page Image="72" ImageSize="1556803" />
+    <Page Image="73" ImageSize="1414639" />
+    <Page Image="74" ImageSize="1780337" />
+    <Page Image="75" ImageSize="1663511" />
+    <Page Image="76" ImageSize="1754132" />
+    <Page Image="77" ImageSize="1574175" />
+    <Page Image="78" ImageSize="1424555" />
+    <Page Image="79" ImageSize="1648898" />
+    <Page Image="80" ImageSize="1784949" />
+    <Page Image="81" ImageSize="1086001" />
+    <Page Image="82" ImageSize="279411" />
+    <Page Image="83" ImageSize="2260025" />
+    <Page Image="84" ImageSize="2798088" />
+    <Page Image="85" ImageSize="2583794" />
+    <Page Image="86" ImageSize="1916462" />
+    <Page Image="87" ImageSize="2399509" />
+    <Page Image="88" ImageSize="3117941" />
+    <Page Image="89" ImageSize="2638671" />
+    <Page Image="90" ImageSize="2262868" />
+    <Page Image="91" ImageSize="2814330" />
+    <Page Image="92" ImageSize="3453476" />
+    <Page Image="93" ImageSize="3233024" />
+    <Page Image="94" ImageSize="2648292" />
+    <Page Image="95" ImageSize="2082066" />
+    <Page Image="96" ImageSize="2662286" />
+    <Page Image="97" ImageSize="2439990" />
+    <Page Image="98" ImageSize="2833417" />
+    <Page Image="99" ImageSize="2477237" />
+    <Page Image="100" ImageSize="2367880" />
+    <Page Image="101" ImageSize="3150288" />
+    <Page Image="102" ImageSize="3156155" />
+    <Page Image="103" ImageSize="3397517" />
+    <Page Image="104" ImageSize="3150844" />
+    <Page Image="105" ImageSize="2799072" />
+    <Page Image="106" ImageSize="2664803" />
+    <Page Image="107" ImageSize="2061871" />
+    <Page Image="108" ImageSize="2687498" />
+    <Page Image="109" ImageSize="2422086" />
+    <Page Image="110" ImageSize="2024203" />
+    <Page Image="111" ImageSize="1702541" />
+    <Page Image="112" ImageSize="1656498" />
+    <Page Image="113" ImageSize="1920470" />
+    <Page Image="114" ImageSize="1901919" />
+    <Page Image="115" ImageSize="2327214" />
+    <Page Image="116" ImageSize="1749743" />
+    <Page Image="117" ImageSize="1271024" />
+    <Page Image="118" ImageSize="1848656" />
+    <Page Image="119" ImageSize="1946592" />
+    <Page Image="120" ImageSize="1972767" />
+    <Page Image="121" ImageSize="1985510" />
+    <Page Image="122" ImageSize="1512496" />
+    <Page Image="123" ImageSize="1783493" />
+    <Page Image="124" ImageSize="1600081" />
+    <Page Image="125" ImageSize="1432313" />
+    <Page Image="126" ImageSize="2259944" />
+    <Page Image="127" ImageSize="1545923" />
+    <Page Image="128" ImageSize="1620675" />
+    <Page Image="129" ImageSize="1798993" />
+    <Page Image="130" ImageSize="1828300" />
+    <Page Image="131" ImageSize="1913664" />
+    <Page Image="132" ImageSize="1741116" />
+    <Page Image="133" ImageSize="1717162" />
+    <Page Image="134" ImageSize="1467546" />
+    <Page Image="135" ImageSize="2727653" />
+    <Page Image="136" ImageSize="3111535" />
+    <Page Image="137" ImageSize="2789657" />
+    <Page Image="138" ImageSize="2942426" />
+    <Page Image="139" ImageSize="2650058" />
+    <Page Image="140" ImageSize="3217181" />
+    <Page Image="141" ImageSize="3603096" />
+    <Page Image="142" ImageSize="2014278" />
+    <Page Image="143" ImageSize="1723641" />
+    <Page Image="144" ImageSize="1984465" />
+    <Page Image="145" ImageSize="2071577" />
+    <Page Image="146" ImageSize="2160416" />
+    <Page Image="147" ImageSize="1995416" />
+    <Page Image="148" ImageSize="1981909" />
+    <Page Image="149" ImageSize="1390072" />
+    <Page Image="150" ImageSize="1522722" />
+    <Page Image="151" ImageSize="1346024" />
+    <Page Image="152" ImageSize="274313" />
+    <Page Image="153" ImageSize="2629217" />
+    <Page Image="154" ImageSize="2598242" />
+    <Page Image="155" ImageSize="3272548" />
+    <Page Image="156" ImageSize="2730098" />
+    <Page Image="157" ImageSize="2656033" />
+    <Page Image="158" ImageSize="3374837" />
+    <Page Image="159" ImageSize="2613675" />
+    <Page Image="160" ImageSize="2097695" />
+    <Page Image="161" ImageSize="2254771" />
+    <Page Image="162" ImageSize="2024532" />
+    <Page Image="163" ImageSize="2524839" />
+    <Page Image="164" ImageSize="1971489" />
+    <Page Image="165" ImageSize="2547053" />
+    <Page Image="166" ImageSize="2649919" />
+    <Page Image="167" ImageSize="2538628" />
+    <Page Image="168" ImageSize="2876516" />
+    <Page Image="169" ImageSize="3005152" />
+    <Page Image="170" ImageSize="2759483" />
+    <Page Image="171" ImageSize="2853024" />
+    <Page Image="172" ImageSize="2575568" />
+    <Page Image="173" ImageSize="3118580" />
+    <Page Image="174" ImageSize="2658100" />
+    <Page Image="175" ImageSize="2916989" />
+    <Page Image="176" ImageSize="3099649" />
+    <Page Image="177" ImageSize="2491044" />
+    <Page Image="178" ImageSize="2126491" />
+    <Page Image="179" ImageSize="3750575" />
+    <Page Image="180" ImageSize="2788479" />
+    <Page Image="181" ImageSize="1769762" />
+    <Page Image="182" ImageSize="2140521" />
+    <Page Image="183" ImageSize="1545076" />
+    <Page Image="184" ImageSize="2474962" />
+    <Page Image="185" ImageSize="2778561" />
+    <Page Image="186" ImageSize="2420119" />
+    <Page Image="187" ImageSize="1856022" />
+    <Page Image="188" ImageSize="2356354" />
+    <Page Image="189" ImageSize="2620397" />
+    <Page Image="190" ImageSize="2843535" />
+    <Page Image="191" ImageSize="2742670" />
+    <Page Image="192" ImageSize="2951578" />
+    <Page Image="193" ImageSize="3815551" />
+    <Page Image="194" ImageSize="3370356" />
+    <Page Image="195" ImageSize="2204118" />
+    <Page Image="196" ImageSize="2111933" />
+    <Page Image="197" ImageSize="1795924" />
+    <Page Image="198" ImageSize="2090451" />
+    <Page Image="199" ImageSize="1604830" />
+    <Page Image="200" ImageSize="1577813" />
+    <Page Image="201" ImageSize="1989917" />
+    <Page Image="202" ImageSize="244054" />
+    <Page Image="203" ImageSize="3423272" />
+    <Page Image="204" ImageSize="2301000" />
+    <Page Image="205" ImageSize="2608027" />
+    <Page Image="206" ImageSize="2892623" />
+    <Page Image="207" ImageSize="3245236" />
+    <Page Image="208" ImageSize="2852754" />
+    <Page Image="209" ImageSize="2645318" />
+    <Page Image="210" ImageSize="3024926" />
+    <Page Image="211" ImageSize="2622102" />
+    <Page Image="212" ImageSize="2139663" />
+    <Page Image="213" ImageSize="3178721" />
+    <Page Image="214" ImageSize="2571723" />
+    <Page Image="215" ImageSize="2938022" />
+    <Page Image="216" ImageSize="2560343" />
+    <Page Image="217" ImageSize="2853365" />
+    <Page Image="218" ImageSize="2333026" />
+    <Page Image="219" ImageSize="2681307" />
+    <Page Image="220" ImageSize="2579553" />
+    <Page Image="221" ImageSize="2350348" />
+    <Page Image="222" ImageSize="3108030" />
+    <Page Image="223" ImageSize="2470197" />
+    <Page Image="224" ImageSize="2628978" />
+    <Page Image="225" ImageSize="2807568" />
+    <Page Image="226" ImageSize="2527984" />
+    <Page Image="227" ImageSize="2971236" />
+    <Page Image="228" ImageSize="2803173" />
+    <Page Image="229" ImageSize="2871556" />
+    <Page Image="230" ImageSize="2948508" />
+    <Page Image="231" ImageSize="2957961" />
+    <Page Image="232" ImageSize="2595606" />
+    <Page Image="233" ImageSize="2704814" />
+    <Page Image="234" ImageSize="2601204" />
+    <Page Image="235" ImageSize="2244151" />
+    <Page Image="236" ImageSize="3353199" />
+    <Page Image="237" ImageSize="3273189" />
+    <Page Image="238" ImageSize="1650689" />
+    <Page Image="239" ImageSize="2472375" />
+    <Page Image="240" ImageSize="3138211" />
+    <Page Image="241" ImageSize="3184450" />
+    <Page Image="242" ImageSize="3067833" />
+    <Page Image="243" ImageSize="3143406" />
+    <Page Image="244" ImageSize="2886682" />
+    <Page Image="245" ImageSize="3199732" />
+    <Page Image="246" ImageSize="3327704" />
+    <Page Image="247" ImageSize="2826000" />
+    <Page Image="248" ImageSize="3027495" />
+    <Page Image="249" ImageSize="2886109" />
+    <Page Image="250" ImageSize="2370066" />
+    <Page Image="251" ImageSize="2539255" />
+    <Page Image="252" ImageSize="2690060" />
+    <Page Image="253" ImageSize="2769580" />
+    <Page Image="254" ImageSize="2895604" />
+    <Page Image="255" ImageSize="2277745" />
+    <Page Image="256" ImageSize="3104608" />
+    <Page Image="257" ImageSize="2569441" />
+    <Page Image="258" ImageSize="2841532" />
+    <Page Image="259" ImageSize="3092602" />
+    <Page Image="260" ImageSize="2716207" />
+    <Page Image="261" ImageSize="3122577" />
+    <Page Image="262" ImageSize="2950327" />
+    <Page Image="263" ImageSize="3133681" />
+    <Page Image="264" ImageSize="3067544" />
+    <Page Image="265" ImageSize="2699068" />
+    <Page Image="266" ImageSize="2503869" />
+    <Page Image="267" ImageSize="2326147" />
+    <Page Image="268" ImageSize="3419320" />
+    <Page Image="269" ImageSize="2749960" />
+    <Page Image="270" ImageSize="2983563" />
+    <Page Image="271" ImageSize="2758625" />
+    <Page Image="272" ImageSize="2258604" />
+    <Page Image="273" ImageSize="2973830" />
+    <Page Image="274" ImageSize="2973874" />
+    <Page Image="275" ImageSize="1582898" />
+    <Page Image="276" ImageSize="1820762" />
+    <Page Image="277" ImageSize="1961425" />
+    <Page Image="278" ImageSize="1589824" />
+    <Page Image="279" ImageSize="1820595" />
+    <Page Image="280" ImageSize="2073107" />
+    <Page Image="281" ImageSize="1732816" />
+    <Page Image="282" ImageSize="1696468" />
+    <Page Image="283" ImageSize="980879" />
+    <Page Image="284" ImageSize="1388538" />
+    <Page Image="285" ImageSize="1583187" />
+    <Page Image="286" ImageSize="1431119" />
+    <Page Image="287" ImageSize="1568780" />
+    <Page Image="288" ImageSize="1484189" />
+    <Page Image="289" ImageSize="1940486" />
+    <Page Image="290" ImageSize="1823887" />
+    <Page Image="291" ImageSize="1514845" />
+    <Page Image="292" ImageSize="1577687" />
+    <Page Image="293" ImageSize="1563309" />
+    <Page Image="294" ImageSize="1576748" />
+    <Page Image="295" ImageSize="1647241" />
+    <Page Image="296" ImageSize="1418345" />
+    <Page Image="297" ImageSize="1794292" />
+    <Page Image="298" ImageSize="1716393" />
+    <Page Image="299" ImageSize="1684181" />
+    <Page Image="300" ImageSize="1768174" />
+    <Page Image="301" ImageSize="1543676" />
+    <Page Image="302" ImageSize="1736070" />
+    <Page Image="303" ImageSize="1630116" />
+    <Page Image="304" ImageSize="1861116" />
+    <Page Image="305" ImageSize="1751726" />
+    <Page Image="306" ImageSize="1747670" />
+    <Page Image="307" ImageSize="1529526" />
+    <Page Image="308" ImageSize="323208" />
+    <Page Image="309" ImageSize="2794284" />
+    <Page Image="310" ImageSize="2862564" />
+    <Page Image="311" ImageSize="2308424" />
+    <Page Image="312" ImageSize="2838081" />
+    <Page Image="313" ImageSize="2539175" />
+    <Page Image="314" ImageSize="2525032" />
+    <Page Image="315" ImageSize="2596422" />
+    <Page Image="316" ImageSize="2542677" />
+    <Page Image="317" ImageSize="2465518" />
+    <Page Image="318" ImageSize="2363388" />
+    <Page Image="319" ImageSize="2060511" />
+    <Page Image="320" ImageSize="1510723" />
+    <Page Image="321" ImageSize="2392652" />
+    <Page Image="322" ImageSize="1965071" />
+    <Page Image="323" ImageSize="2985800" />
+    <Page Image="324" ImageSize="2668990" />
+    <Page Image="325" ImageSize="3146962" />
+    <Page Image="326" ImageSize="3014648" />
+    <Page Image="327" ImageSize="3063755" />
+    <Page Image="328" ImageSize="2771885" />
+    <Page Image="329" ImageSize="2927775" />
+    <Page Image="330" ImageSize="2523481" />
+    <Page Image="331" ImageSize="2330770" />
+    <Page Image="332" ImageSize="2532483" />
+    <Page Image="333" ImageSize="2637240" />
+    <Page Image="334" ImageSize="2642753" />
+    <Page Image="335" ImageSize="2159317" />
+    <Page Image="336" ImageSize="2111976" />
+    <Page Image="337" ImageSize="901826" />
+    <Page Image="338" ImageSize="1250892" />
+    <Page Image="339" ImageSize="1183145" />
+    <Page Image="340" ImageSize="1630811" />
+    <Page Image="341" ImageSize="1287411" />
+    <Page Image="342" ImageSize="1333532" />
+    <Page Image="343" ImageSize="1726679" />
+    <Page Image="344" ImageSize="2421494" />
+    <Page Image="345" ImageSize="1831095" />
+    <Page Image="346" ImageSize="1818189" />
+    <Page Image="347" ImageSize="2315638" />
+    <Page Image="348" ImageSize="1444159" />
+    <Page Image="349" ImageSize="3168762" />
+    <Page Image="350" ImageSize="1327300" />
+    <Page Image="351" ImageSize="1181483" />
+    <Page Image="352" ImageSize="1725253" />
+    <Page Image="353" ImageSize="1598019" />
+    <Page Image="354" ImageSize="1840495" />
+    <Page Image="355" ImageSize="2064684" />
+    <Page Image="356" ImageSize="1546087" />
+    <Page Image="357" ImageSize="2468951" />
+    <Page Image="358" ImageSize="1535814" />
+    <Page Image="359" ImageSize="1231756" />
+    <Page Image="360" ImageSize="1073150" />
+    <Page Image="361" ImageSize="1519974" />
+    <Page Image="362" ImageSize="1256025" />
+    <Page Image="363" ImageSize="1724693" />
+    <Page Image="364" ImageSize="1566867" />
+    <Page Image="365" ImageSize="1980401" />
+    <Page Image="366" ImageSize="2980817" />
+    <Page Image="367" ImageSize="1165579" />
+    <Page Image="368" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Duncan Fegredo,Fábio Moon,Gabriel Bá,Mick McMahon,Mike Mignola,Richard Corben,Mike McMahon,Richard Corben,Gabriel Bá,Fábio Moon,Mike McMahon,Mike Mignola,Duncan Fegredo</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Hellboy: The Complete Short Stories</Series>
+  <Summary>House of the Living Dead: In Mexico in 1956, Hellboy fights supernatural menaces like a Frankenstein monster, werewolf, and vampires.
+
+The Coffin Man 2: The Rematch: During his drunken year in Mexico in 1956, Hellboy wants to meet the Coffin Man again but as a result turns into a monkey.
+
+The Coffin Man: During his drunken year in Mexico in 1956, Hellboy confronts a grave robber.
+
+Hellboy Gets Married: During his drunken year in Mexico in 1956, Hellboy meets a girl who falls in love with him and they marry that night. The day after, Hellboy discovers that she is really a vampire and during a fight impales her with a spear.
+
+Hellboy versus the Aztec Mummy: A 1956 case involving Hellboy in Mexico fighting an Aztek Mummy is reconstructed from a couple of accounts.
+
+Hellboy in Mexico or, A Drunken Blur: As they wait for extraction from a small town in Mexico in 1982, Hellboy tells Abe Sapien of his adventures there in 1956 with three luchadores turned monster-hunters.
+
+King Vold: In 1956, Hellboy is asked by Trevor Bruttenholm to assist an associate, Prof. Edmond Aickman, in Norway. The two travel to a remote, forested, mountainous location to see King Vold. The professor believes that Hellboy's presence and status as a demonic creature will increase their chances of meeting the King. In the meeting with King Vold, Hellboy is fighting a wolf that turns out is really a Viking Berserker. In exchange for keeping the wolf, King Vold gives Aickman gold that turns into stone.
+
+The Nature of the Beast: In 1954, Hellboy is sent to the Osiris Club and they ask him to slay a dragon. They tell him the story of the Saint Leonard Worm, a dragon slain by a monk fourteen hundred years ago. The dragon had returned and it was on Hellboy to kill it. Hellboy enters Leonard's Wood and approaches a clearing with a statue of the monk. The dragon attacks Hellboy and constricts him up against the statue. The dragon crushes Hellboy and the statue. The top of the statue breaks off, and the stone sword falls, killing the dragon.
+
+The Midnight Circus: In 1948 Hellboy is still young and one night escapes from the Bureau of Paranormal Research and Defense. In a forest he encounters a circus that may or may not have come from Hell.
+
+Pancakes: In 1947, a young Hellboy is called in for breakfast. He wants noodles, but is told by General Norton Ricker he can only have pancakes. Hellboy does not want to eat pancakes, but tries one bite. Hellboy loves Pancakes. In Pandemonium, capital of Hell, the Demons wail. Three demon lords -- Astaroth, Mammon and Haborym -- comment that now that Hellboy has eaten pancakes, he will never come back to Hell.
+
+</Summary>
+  <Tags>Astaroth,Northborough,Professor O'Donnell,Mummies,Abe Sapien,Virginia,Esteban,Hell,Connecticut,The Lobster,Scandinavia,Zombies,England,Fairfield,Denmark,The 72 Spirits of Solomon,King Vold,Europe,Egyptian Gods,Fairies,Sobek,Hellboy,Norway,The Coffin Man,Aim,Ireland,Pleasure Island,Gruagach of Lough Leane,Massachusetts,Pinocchio,New Mexico,Alice Monaghan,Vampires,Native Americans,Quetzalcoatl,Werewolves,Kansas,United States Army,Margaret Laine,Brooklyn,Pandemonium,South Pacific,Malaysia,E.T. Hatton,Geppetto,Osiris Club,Hellboy's Wife,Gremory,The Crooked Man,Trevor Bruttenholm,Aztec Gods,Adolfo Flores,Jenny Greenteeth,B.P.R.D. Headquarters (Fairfield),Copenhagen,Celtic Gods,New York State,Dragons,United States Air Force,Malcolm Frost,Mexico,Mammon,Tom Ferrell,North America,Bureau for Paranormal Research and Defense,Appalachian Mountains,Italy,General Norton Ricker,Frankenstein's Monster,Asia,Dagda,New York City</Tags>
+  <Teams>United States Army,Mummies,Osiris Club,Bureau for Paranormal Research and Defense,Aztec Gods,United States Air Force,Zombies,Vampires,Native Americans,Celtic Gods,The 72 Spirits of Solomon,Dragons,Werewolves,Fairies,Egyptian Gods</Teams>
+  <Title>House of the Living Dead; The Coffin Man 2: The Rematch; The Coffin Man; Hellboy Gets Married; Hellboy versus the Aztec Mummy; Hellboy in Mexico or, A Drunken Blur; King Vold; The Nature of the Beast; The Midnight Circus; Pancakes</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/hellboy-the-complete-short-stories-1-volume-1/4000-672835/</Web>
+  <Writer>John Byrne,Mike Mignola,Mike Mignola</Writer>
+  <Year>2018</Year>
+  <Genre>Adventure,Humor,Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

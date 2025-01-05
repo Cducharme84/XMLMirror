@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Carl,Joe,Justin,Luke,Richie,Tabitha</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-476501</GTIN>
+	<Inker>Daniel Gete</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>California</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:28:16 [Issue ID 4000-476501] urn:comicvine:4000-476501</Notes>
+	<Number>7</Number>
+	<PageCount>9</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="294750" Type="FrontCover"/>
+		<Page Image="1" ImageSize="264125"/>
+		<Page Image="2" ImageSize="204263"/>
+		<Page Image="3" ImageSize="314302"/>
+		<Page Image="4" ImageSize="294881"/>
+		<Page Image="5" ImageSize="276115"/>
+		<Page Image="6" ImageSize="208760"/>
+		<Page Image="7" ImageSize="219167"/>
+		<Page Image="8" ImageSize="191273"/>
+	</Pages>
+	<Penciller>Daniel Gete</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(crossedcomic.com)</ScanInformation>
+	<Series>Crossed: Dead Or Alive</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-13 07:07:52.  [Issue ID 476501]
+
+https://comicvine.gamespot.com/crossed-dead-or-alive-7-part-7/4000-476501/</Summary>
+	<Tags>California,Carl,Joe,Justin,Luke,Richie,Tabitha,The Crossed</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Part 7</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-dead-or-alive-7-part-7/4000-476501/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2015</Year>
+</ComicInfo>

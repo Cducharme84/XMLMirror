@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Rafferty</Characters>
+  <Count>1</Count>
+  <GTIN>urn:comicvine:4000-123068</GTIN>
+  <Inker>Mike Christian,Steve Carr</Inker>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:13:54 [Issue ID 4000-123068] urn:comicvine:4000-123068
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 05:30:49. [Issue ID 2520141]</Notes>
+  <Number>1</Number>
+  <PageCount>15</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1552" ImageSize="505412" ImageWidth="1000" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1549" ImageSize="311788" ImageWidth="1000" />
+    <Page Image="2" ImageHeight="1517" ImageSize="402267" ImageWidth="1000" />
+    <Page Image="3" ImageHeight="1540" ImageSize="414814" ImageWidth="1000" />
+    <Page Image="4" ImageHeight="1532" ImageSize="532548" ImageWidth="1000" />
+    <Page Image="5" ImageHeight="1538" ImageSize="561587" ImageWidth="1000" />
+    <Page Image="6" ImageHeight="1543" ImageSize="367823" ImageWidth="1000" />
+    <Page Image="7" ImageHeight="1548" ImageSize="924665" ImageWidth="2000" />
+    <Page Image="8" ImageHeight="1566" ImageSize="369331" ImageWidth="1000" />
+    <Page Image="9" ImageHeight="1563" ImageSize="452059" ImageWidth="1000" />
+    <Page Image="10" ImageHeight="1566" ImageSize="439283" ImageWidth="1000" />
+    <Page Image="11" ImageHeight="1561" ImageSize="451665" ImageWidth="1000" />
+    <Page Image="12" ImageHeight="1540" ImageSize="480715" ImageWidth="1000" />
+    <Page Image="13" ImageHeight="1593" ImageSize="558939" ImageWidth="1000" />
+    <Page Image="14" ImageSize="559818" />
+  </Pages>
+  <Penciller>Ben Herrera</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Malibu Ashcan: Rafferty</Series>
+  <Summary>A description about the Rafferty story arc that happened across the Ultraverse titles.</Summary>
+  <Title>Ashcan</Title>
+  <Volume>1994</Volume>
+  <Web>https://comicvine.gamespot.com/malibu-ashcan-rafferty-1-ashcan/4000-123068/</Web>
+  <Writer>James Robinson</Writer>
+  <Year>1994</Year>
+  <Imprint>Malibu Comics</Imprint>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

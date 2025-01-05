@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Frankie,Casey,Mr. Elwyn</Characters>
+  <Editor>Murray Boltinoff</Editor>
+  <GTIN>urn:comicvine:4000-15126</GTIN>
+  <Inker>Abe Ocampo,Alex Niño,Bernard Baily,Bill Draut,Curt Swan,George Roussos,Jack Kirby,John Fischetti,Nestor Redondo,Nick Cardy,Pat Boyette,Ruben Yandoc,Stan Kaye,Rubeny,Ray Burnley,Rubeny,Bill Draut,Alex Niño,Pat Boyette,John Fischetti,Abe Ocampo,Ray Burnley,George Roussos,Bernard Baily,Jack Kirby</Inker>
+  <Letterer>Stan Starkman,Milt Snapinn,Pat Gordon,Milt Snapinn,Stan Starkman,Pat Gordon</Letterer>
+  <Locations>New York City,The Netherlands,Atlantic Ocean,Malaysia</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:55:44 [Issue ID 4000-15126] urn:comicvine:4000-15126
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 21:42:44. [Issue ID 28326]</Notes>
+  <Number>162</Number>
+  <PageCount>84</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1491" ImageSize="346623" ImageWidth="1020" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1353" ImageSize="264236" ImageWidth="930" />
+    <Page Image="2" ImageHeight="1353" ImageSize="238087" ImageWidth="924" />
+    <Page Image="3" ImageHeight="1344" ImageSize="276683" ImageWidth="936" />
+    <Page Image="4" ImageHeight="1350" ImageSize="240251" ImageWidth="930" />
+    <Page Image="5" ImageHeight="1344" ImageSize="232310" ImageWidth="936" />
+    <Page Image="6" ImageHeight="1362" ImageSize="283140" ImageWidth="915" />
+    <Page Image="7" ImageHeight="1356" ImageSize="234280" ImageWidth="915" />
+    <Page Image="8" ImageHeight="1371" ImageSize="268205" ImageWidth="921" />
+    <Page Image="9" ImageHeight="1374" ImageSize="267791" ImageWidth="918" />
+    <Page Image="10" ImageHeight="1356" ImageSize="230887" ImageWidth="909" />
+    <Page Image="11" ImageHeight="1365" ImageSize="276931" ImageWidth="939" />
+    <Page Image="12" ImageHeight="1365" ImageSize="243265" ImageWidth="936" />
+    <Page Image="13" ImageHeight="1368" ImageSize="245106" ImageWidth="927" />
+    <Page Image="14" ImageHeight="1371" ImageSize="270247" ImageWidth="927" />
+    <Page Image="15" ImageHeight="1377" ImageSize="227929" ImageWidth="927" />
+    <Page Image="16" ImageHeight="1383" ImageSize="241462" ImageWidth="936" />
+    <Page Image="17" ImageHeight="1365" ImageSize="203083" ImageWidth="918" />
+    <Page Image="18" ImageHeight="1359" ImageSize="241973" ImageWidth="933" />
+    <Page Image="19" ImageHeight="1386" ImageSize="226285" ImageWidth="930" />
+    <Page Image="20" ImageHeight="1374" ImageSize="229448" ImageWidth="942" />
+    <Page Image="21" ImageHeight="1364" ImageSize="216892" ImageWidth="929" />
+    <Page Image="22" ImageHeight="1362" ImageSize="284205" ImageWidth="954" />
+    <Page Image="23" ImageHeight="1380" ImageSize="223511" ImageWidth="933" />
+    <Page Image="24" ImageHeight="1376" ImageSize="237836" ImageWidth="925" />
+    <Page Image="25" ImageHeight="1377" ImageSize="255134" ImageWidth="921" />
+    <Page Image="26" ImageHeight="1398" ImageSize="235326" ImageWidth="954" />
+    <Page Image="27" ImageHeight="1383" ImageSize="241362" ImageWidth="936" />
+    <Page Image="28" ImageHeight="1356" ImageSize="217956" ImageWidth="921" />
+    <Page Image="29" ImageHeight="1365" ImageSize="292787" ImageWidth="939" />
+    <Page Image="30" ImageHeight="1377" ImageSize="240712" ImageWidth="921" />
+    <Page Image="31" ImageHeight="1371" ImageSize="239064" ImageWidth="918" />
+    <Page Image="32" ImageHeight="1383" ImageSize="269956" ImageWidth="930" />
+    <Page Image="33" ImageHeight="1359" ImageSize="233934" ImageWidth="945" />
+    <Page Image="34" ImageHeight="1371" ImageSize="218299" ImageWidth="927" />
+    <Page Image="35" ImageHeight="1365" ImageSize="222643" ImageWidth="915" />
+    <Page Image="36" ImageHeight="1386" ImageSize="260668" ImageWidth="918" />
+    <Page Image="37" ImageHeight="1383" ImageSize="234412" ImageWidth="921" />
+    <Page Image="38" ImageHeight="1398" ImageSize="267782" ImageWidth="933" />
+    <Page Image="39" ImageHeight="1374" ImageSize="299040" ImageWidth="936" />
+    <Page Image="40" ImageHeight="1359" ImageSize="209410" ImageWidth="930" />
+    <Page Image="41" ImageHeight="1344" ImageSize="269681" ImageWidth="942" />
+    <Page Image="42" ImageHeight="1350" ImageSize="245338" ImageWidth="915" />
+    <Page Image="43" ImageHeight="1362" ImageSize="227016" ImageWidth="933" />
+    <Page Image="44" ImageHeight="1359" ImageSize="262637" ImageWidth="912" />
+    <Page Image="45" ImageHeight="1344" ImageSize="227130" ImageWidth="939" />
+    <Page Image="46" ImageHeight="1337" ImageSize="226476" ImageWidth="903" />
+    <Page Image="47" ImageHeight="1374" ImageSize="233596" ImageWidth="936" />
+    <Page Image="48" ImageHeight="1377" ImageSize="231193" ImageWidth="927" />
+    <Page Image="49" ImageHeight="1365" ImageSize="274358" ImageWidth="924" />
+    <Page Image="50" ImageHeight="1374" ImageSize="264410" ImageWidth="915" />
+    <Page Image="51" ImageHeight="1370" ImageSize="230683" ImageWidth="923" />
+    <Page Image="52" ImageHeight="1374" ImageSize="226022" ImageWidth="924" />
+    <Page Image="53" ImageHeight="1389" ImageSize="232309" ImageWidth="921" />
+    <Page Image="54" ImageHeight="1368" ImageSize="260974" ImageWidth="921" />
+    <Page Image="55" ImageHeight="1347" ImageSize="233831" ImageWidth="918" />
+    <Page Image="56" ImageHeight="1374" ImageSize="258684" ImageWidth="921" />
+    <Page Image="57" ImageHeight="1365" ImageSize="233085" ImageWidth="942" />
+    <Page Image="58" ImageHeight="1362" ImageSize="233600" ImageWidth="930" />
+    <Page Image="59" ImageHeight="1335" ImageSize="256452" ImageWidth="945" />
+    <Page Image="60" ImageHeight="1368" ImageSize="244401" ImageWidth="927" />
+    <Page Image="61" ImageHeight="1356" ImageSize="264379" ImageWidth="921" />
+    <Page Image="62" ImageHeight="1377" ImageSize="233963" ImageWidth="918" />
+    <Page Image="63" ImageHeight="1365" ImageSize="272976" ImageWidth="933" />
+    <Page Image="64" ImageHeight="1359" ImageSize="215023" ImageWidth="930" />
+    <Page Image="65" ImageHeight="1338" ImageSize="228832" ImageWidth="918" />
+    <Page Image="66" ImageHeight="1353" ImageSize="259918" ImageWidth="945" />
+    <Page Image="67" ImageHeight="1362" ImageSize="238153" ImageWidth="945" />
+    <Page Image="68" ImageHeight="1359" ImageSize="248557" ImageWidth="909" />
+    <Page Image="69" ImageHeight="1365" ImageSize="289053" ImageWidth="930" />
+    <Page Image="70" ImageHeight="1362" ImageSize="241143" ImageWidth="924" />
+    <Page Image="71" ImageHeight="1368" ImageSize="284830" ImageWidth="918" />
+    <Page Image="72" ImageHeight="1365" ImageSize="246187" ImageWidth="948" />
+    <Page Image="73" ImageHeight="1350" ImageSize="230208" ImageWidth="942" />
+    <Page Image="74" ImageHeight="1362" ImageSize="284295" ImageWidth="939" />
+    <Page Image="75" ImageHeight="1359" ImageSize="245765" ImageWidth="948" />
+    <Page Image="76" ImageHeight="1386" ImageSize="258677" ImageWidth="930" />
+    <Page Image="77" ImageHeight="1344" ImageSize="251654" ImageWidth="930" />
+    <Page Image="78" ImageHeight="1380" ImageSize="260337" ImageWidth="930" />
+    <Page Image="79" ImageHeight="1350" ImageSize="275593" ImageWidth="924" />
+    <Page Image="80" ImageHeight="1347" ImageSize="239436" ImageWidth="921" />
+    <Page Image="81" ImageHeight="1344" ImageSize="233922" ImageWidth="924" />
+    <Page Image="82" ImageHeight="1344" ImageSize="258674" ImageWidth="921" />
+    <Page Image="83" ImageSize="242089" />
+  </Pages>
+  <Penciller>Abe Ocampo,Alex Niño,Bernard Baily,Bill Draut,Curt Swan,George Roussos,Jack Kirby,John Fischetti,Nestor Redondo,Nick Cardy,Pat Boyette,Ruben Yandoc,Rubeny,Rubeny,Bill Draut,Alex Niño,Pat Boyette,Curt Swan,Abe Ocampo,George Roussos,Bernard Baily,Jack Kirby</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <ScanInformation>84</ScanInformation>
+  <Series>The Unexpected</Series>
+  <Summary>I'll Bug You to Your Grave: Casey's electric eavesdropping equipment picks up the ghost of the man he killed.
+
+Half a Man Is Better Than None! (But Don't You Believe It!): Sir Byron McCabe, on the run from the law, makes a deal with the beings of an unseen invisible world.
+
+When Is It My Time to Die?: Someone is killing citizens and the suspicions all lead to Mr. Erghon, a purveyor of hexes.
+
+Steps to Disaster!: A criminal steals a pair of wooden shoes.
+
+The Corpse That Didn't Die: When a mugger steals his wallet and then dies, Cyrus Marshall is allowed to attend his own funeral to see how he'll be remembered.
+
+The Vengeful Windmill!: A man is killed by a windmill.
+
+Friday the 13th Club: Thirteen men and women form a club to debunk superstition, but one by one they meet violent deaths. They don’t die, however, because they challenge fate, but because they touched a poisoned gavel to smash a mirror with.
+
+That Dead Old Gang of Mine: Jeff misses all his old poker buddies.
+
+I Fell in Love with a Witch!: Private investigator Carter Blake falls head over heels in love with Jean Brewster. Without knowing anything about her, he's willing to marry her. Checking old newspaper clippings, Blake finds out that his fiancée seems to possess witch-like powers. Three of her former husbands died after her "kiss of death."
+
+Free Me from the Bewitched Bell!: A treasure-hunting adventurer is trapped by the vibrations of a giant bell.
+
+Master of the Voodoo Machine!: Inventor Jon Garson's duplicator machine has an unexpected voodoo effect which Garson attempts to capitalize on by killing a romantic rival, but retribution still makes him pay for his crime.
+
+The Man Who Betrayed Earth: A film director turns out to be the one man who can stop an alien invasion.
+
+</Summary>
+  <Tags>Fashion Thing,Malaysia,New York City,Atlantic Ocean,The Netherlands</Tags>
+  <Volume>1968</Volume>
+  <Web>https://comicvine.gamespot.com/the-unexpected-162/4000-15126/</Web>
+  <Writer>Carl Wessler,Dave Wood,George Kashdan,Jack Kirby,George Kashdan,Dave Wood,Carl Wessler,Jack Kirby</Writer>
+  <Year>1975</Year>
+  <Count>118</Count>
+  <Title>I'll Bug You to Your Grave; Half a Man Is Better Than None! (But Don't You Believe It!); When Is It My Time to Die?; Steps to Disaster!; The Corpse That Didn't Die; The Vengeful Windmill!; Friday the 13th Club; That Dead Old Gang of Mine; I Fell in Love with a Witch!; Free Me from the Bewitched Bell!; Master of the Voodoo Machine!; The Man Who Betrayed Earth</Title>
+  <Genre>Horror-suspense,Science fiction,Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+</ComicInfo>

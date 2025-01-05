@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Loki,Contrary,Prototype,Hardcase,Prime,Nemesis,Sersi,Ghoul,Siren,Topaz,Tinsel,Black Knight</Characters>
+  <Colorist>Shannon Blanchard,Malibu,Shannon Blanchard,Malibu</Colorist>
+  <Editor>Hank Kanalz,Scott Bernstein</Editor>
+  <GTIN>urn:comicvine:4000-137501</GTIN>
+  <Inker>Al Vey,Barbara Kaalberg,Dennis Jensen,John Statema,Larry Welch,Robin Riggs,Robin Riggs,Barbara Kaalberg,Larry Welch,Al Vey,Dennis Jensen</Inker>
+  <Letterer>Vickie Williams,Vickie Williams</Letterer>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:17:22 [Issue ID 4000-137501] urn:comicvine:4000-137501
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 03:52:13. [Issue ID 88571]</Notes>
+  <Number>1</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1560" ImageSize="559076" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1574" ImageSize="936192" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1564" ImageSize="845224" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1575" ImageSize="844417" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1560" ImageSize="934070" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1576" ImageSize="948903" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1559" ImageSize="855518" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1576" ImageSize="794736" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1533" ImageSize="681473" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1580" ImageSize="976599" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1565" ImageSize="719577" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1578" ImageSize="832597" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1561" ImageSize="728425" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1576" ImageSize="912958" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1543" ImageSize="939832" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1591" ImageSize="841141" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1587" ImageSize="703946" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1594" ImageSize="844672" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1551" ImageSize="779909" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1582" ImageSize="806318" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1559" ImageSize="574623" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1580" ImageSize="737369" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1561" ImageSize="753441" ImageWidth="1024" />
+    <Page Image="23" ImageHeight="1594" ImageSize="723995" ImageWidth="1024" />
+    <Page Image="24" ImageHeight="1564" ImageSize="834591" ImageWidth="1024" />
+    <Page Image="25" ImageHeight="1582" ImageSize="711046" ImageWidth="1024" />
+    <Page Image="26" ImageHeight="1575" ImageSize="371029" ImageWidth="1024" />
+    <Page Image="27" ImageSize="624080" />
+    <Page Image="28" />
+    <Page Image="29" />
+    <Page Image="30" />
+    <Page Image="31" />
+    <Page Image="32" />
+    <Page Image="33" />
+    <Page Image="34" />
+    <Page Image="35" />
+    <Page Image="36" />
+    <Page Image="37" />
+    <Page Image="38" />
+    <Page Image="39" />
+    <Page Image="40" />
+    <Page Image="41" />
+    <Page Image="42" />
+    <Page Image="43" />
+    <Page Image="44" />
+    <Page Image="45" />
+    <Page Image="46" />
+    <Page Image="47" />
+    <Page Image="48" />
+    <Page Image="49" />
+    <Page Image="50" />
+    <Page Image="51" />
+    <Page Image="52" />
+    <Page Image="53" />
+    <Page Image="54" />
+    <Page Image="55" />
+    <Page Image="56" />
+    <Page Image="57" />
+    <Page Image="58" />
+    <Page Image="59" />
+    <Page Image="60" />
+    <Page Image="61" />
+    <Page Image="62" />
+    <Page Image="63" />
+    <Page Image="64" />
+    <Page Image="65" />
+    <Page Image="66" />
+    <Page Image="67" />
+    <Page Image="68" />
+    <Page Image="69" />
+    <Page Image="70" />
+    <Page Image="71" />
+    <Page Image="72" />
+    <Page Image="73" />
+    <Page Image="74" />
+    <Page Image="75" />
+    <Page Image="76" />
+    <Page Image="77" />
+    <Page Image="78" />
+    <Page Image="79" />
+    <Page Image="80" />
+    <Page Image="81" />
+    <Page Image="82" />
+    <Page Image="83" />
+    <Page Image="84" />
+    <Page Image="85" />
+    <Page Image="86" />
+    <Page Image="87" />
+    <Page Image="88" />
+    <Page Image="89" />
+    <Page Image="90" />
+    <Page Image="91" />
+    <Page Image="92" />
+    <Page Image="93" />
+    <Page Image="94" />
+    <Page Image="95" />
+    <Page Image="96" />
+    <Page Image="97" />
+    <Page Image="98" />
+    <Page Image="99" />
+    <Page Image="100" />
+    <Page Image="101" />
+    <Page Image="102" />
+    <Page Image="103" />
+    <Page Image="104" />
+    <Page Image="105" />
+    <Page Image="106" />
+    <Page Image="107" />
+    <Page Image="108" />
+    <Page Image="109" />
+    <Page Image="110" />
+    <Page Image="111" />
+    <Page Image="112" />
+    <Page Image="113" />
+    <Page Image="114" />
+    <Page Image="115" />
+    <Page Image="116" />
+    <Page Image="117" />
+    <Page Image="118" />
+    <Page Image="119" />
+    <Page Image="120" />
+    <Page Image="121" />
+    <Page Image="122" />
+    <Page Image="123" />
+    <Page Image="124" />
+    <Page Image="125" />
+    <Page Image="126" />
+    <Page Image="127" />
+    <Page Image="128" />
+    <Page Image="129" />
+    <Page Image="130" />
+    <Page Image="131" />
+    <Page Image="132" />
+    <Page Image="133" />
+    <Page Image="134" />
+    <Page Image="135" />
+    <Page Image="136" />
+    <Page Image="137" />
+    <Page Image="138" />
+    <Page Image="139" />
+    <Page Image="140" />
+    <Page Image="141" />
+    <Page Image="142" />
+    <Page Image="143" />
+    <Page Image="144" />
+    <Page Image="145" />
+    <Page Image="146" />
+    <Page Image="147" />
+    <Page Image="148" />
+    <Page Image="149" />
+    <Page Image="150" />
+    <Page Image="151" />
+    <Page Image="152" />
+    <Page Image="153" />
+    <Page Image="154" />
+    <Page Image="155" />
+    <Page Image="156" />
+    <Page Image="157" />
+    <Page Image="158" />
+    <Page Image="159" />
+    <Page Image="160" />
+    <Page Image="161" />
+    <Page Image="162" />
+    <Page Image="163" />
+    <Page Image="164" />
+    <Page Image="165" />
+    <Page Image="166" />
+    <Page Image="167" />
+    <Page Image="168" />
+    <Page Image="169" />
+    <Page Image="170" />
+    <Page Image="171" />
+    <Page Image="172" />
+    <Page Image="173" />
+    <Page Image="174" />
+    <Page Image="175" />
+    <Page Image="176" />
+    <Page Image="177" />
+    <Page Image="178" />
+    <Page Image="179" />
+    <Page Image="180" />
+    <Page Image="181" />
+    <Page Image="182" />
+    <Page Image="183" />
+    <Page Image="184" />
+    <Page Image="185" />
+    <Page Image="186" />
+    <Page Image="187" />
+    <Page Image="188" />
+    <Page Image="189" />
+    <Page Image="190" />
+    <Page Image="191" />
+    <Page Image="192" />
+    <Page Image="193" />
+    <Page Image="194" />
+    <Page Image="195" />
+    <Page Image="196" />
+    <Page Image="197" />
+    <Page Image="198" />
+    <Page Image="199" />
+    <Page Image="200" />
+    <Page Image="201" />
+    <Page Image="202" />
+    <Page Image="203" />
+    <Page Image="204" />
+    <Page Image="205" />
+    <Page Image="206" />
+    <Page Image="207" />
+    <Page Image="208" />
+    <Page Image="209" />
+    <Page Image="210" />
+    <Page Image="211" />
+    <Page Image="212" />
+    <Page Image="213" />
+    <Page Image="214" />
+    <Page Image="215" />
+    <Page Image="216" />
+    <Page Image="217" />
+    <Page Image="218" />
+    <Page Image="219" />
+    <Page Image="220" />
+    <Page Image="221" />
+  </Pages>
+  <Penciller>John Statema,John Statema</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Ultraforce / Avengers Prelude</Series>
+  <Summary>Black Knight meets Sersi again. She recognized him, but all is a set up to trap Ultraforce in different realities, fighting to find the missing gems and confront their past failures.
+
+https://comicvine.gamespot.com/ultraforce-avengers-prelude-1-prelude/4000-137501/</Summary>
+  <Teams>Avengers,Ultraforce,Exiles,The Squad</Teams>
+  <Title>The Swords Are Drawn...</Title>
+  <Volume>1995</Volume>
+  <Web>https://comicvine.gamespot.com/ultraforce-avengers-prelude-1-prelude/4000-137501/</Web>
+  <Writer>Terry Kavanagh,Terry Kavanagh</Writer>
+  <Year>1995</Year>
+  <Count>1</Count>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

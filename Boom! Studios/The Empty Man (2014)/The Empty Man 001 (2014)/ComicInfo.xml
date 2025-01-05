@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>6</Count>
+  <Country>US</Country>
+  <Format>Mini-Series</Format>
+  <GTIN>urn:comicvine:4000-1212918</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:32:27 [Issue ID 4000-1212918] urn:comicvine:4000-1212918 urn:grandcomicsdatabase:issue/1212918
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 06:06:26. [Issue ID 1212918]</Notes>
+  <Number>1</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1201463" Type="FrontCover" />
+    <Page Image="1" ImageSize="1890917" />
+    <Page Image="2" ImageSize="1815244" />
+    <Page Image="3" ImageSize="2421416" />
+    <Page Image="4" ImageSize="1968221" />
+    <Page Image="5" ImageSize="2000281" />
+    <Page Image="6" ImageSize="1998217" />
+    <Page Image="7" ImageSize="2667531" />
+    <Page Image="8" ImageSize="2684164" />
+    <Page Image="9" ImageSize="2052659" />
+    <Page Image="10" ImageSize="1555684" />
+    <Page Image="11" ImageSize="1644909" />
+    <Page Image="12" ImageSize="1578680" />
+    <Page Image="13" ImageSize="1921393" />
+    <Page Image="14" ImageSize="1894132" />
+    <Page Image="15" ImageSize="1774133" />
+    <Page Image="16" ImageSize="1524346" />
+    <Page Image="17" ImageSize="1629685" />
+    <Page Image="18" ImageSize="1594231" />
+    <Page Image="19" ImageSize="1338029" />
+    <Page Image="20" ImageSize="1518307" />
+    <Page Image="21" ImageSize="1867823" />
+    <Page Image="22" ImageSize="1634724" />
+    <Page Image="23" ImageSize="1277101" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>The Empty Man</Series>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1212918/</Web>
+  <Year>2014</Year>
+</ComicInfo>

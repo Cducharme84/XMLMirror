@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Chanice,Des,Jamie,Lance,Maria,Seline,Shaky</Characters>
+	<Colorist>Juanmar</Colorist>
+	<Day>7</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-356230</GTIN>
+	<Inker>Fernando Melek,Gary Erskine,Javier Barreno,Keith Williams</Inker>
+	<Locations>London,Orkney Islands</Locations>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:27:21 [Issue ID 4000-356230] urn:comicvine:4000-356230</Notes>
+	<Number>10</Number>
+	<PageCount>4</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="322794" Type="FrontCover"/>
+		<Page Image="1" ImageSize="314780"/>
+		<Page Image="2" ImageSize="345595"/>
+		<Page Image="3" ImageSize="317371"/>
+	</Pages>
+	<Penciller>Fernando Melek,Javier Barreno</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital)</ScanInformation>
+	<Series>Crossed: Wish You Were Here</Series>
+	<Summary>Shaky's London flashback continues and he discovers that the survivors stuck on Cava may not be all that different from the Crossed.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-13 07:06:12.  [Issue ID 356230]
+
+https://comicvine.gamespot.com/crossed-wish-you-were-here-10-episode-10/4000-356230/</Summary>
+	<Tags>British Army,Chanice,Des,Jamie,Lance,London,Maria,Orkney Islands,Seline,Shaky,The Crossed</Tags>
+	<Teams>British Army,The Crossed</Teams>
+	<Title>Episode 10</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-10-episode-10/4000-356230/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2012</Year>
+</ComicInfo>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cain (host)</Characters>
+  <Editor>Joe Orlando</Editor>
+  <GTIN>urn:comicvine:4000-117414</GTIN>
+  <Inker>Alex Niño,Bill Draut,Bob Smith,Dave Manak,Frank Redondo,Jack Abel,Klaus Janson,Tony DeZuniga,Bill Draut,Tony DeZuniga,Alex Niño,Jack Abel,Bob Smith,Klaus Janson,Quico Redondo,Dave Manak</Inker>
+  <Locations>London,Africa,The House of Mystery,New York City</Locations>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:40:51 [Issue ID 4000-117414] urn:comicvine:4000-117414
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:21:39. [Issue ID 31193]</Notes>
+  <Number>253</Number>
+  <PageCount>84</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1561" ImageSize="846795" ImageWidth="1012" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1532" ImageSize="763465" ImageWidth="973" />
+    <Page Image="2" ImageHeight="1529" ImageSize="742752" ImageWidth="941" />
+    <Page Image="3" ImageHeight="1510" ImageSize="716390" ImageWidth="966" />
+    <Page Image="4" ImageHeight="1513" ImageSize="744262" ImageWidth="950" />
+    <Page Image="5" ImageHeight="1510" ImageSize="793527" ImageWidth="963" />
+    <Page Image="6" ImageHeight="1513" ImageSize="780047" ImageWidth="957" />
+    <Page Image="7" ImageHeight="1529" ImageSize="683252" ImageWidth="966" />
+    <Page Image="8" ImageHeight="1536" ImageSize="687679" ImageWidth="957" />
+    <Page Image="9" ImageHeight="1497" ImageSize="743906" ImageWidth="966" />
+    <Page Image="10" ImageHeight="1529" ImageSize="735862" ImageWidth="957" />
+    <Page Image="11" ImageHeight="1519" ImageSize="757233" ImageWidth="960" />
+    <Page Image="12" ImageHeight="1513" ImageSize="781017" ImageWidth="941" />
+    <Page Image="13" ImageHeight="1536" ImageSize="722999" ImageWidth="960" />
+    <Page Image="14" ImageHeight="1526" ImageSize="747473" ImageWidth="957" />
+    <Page Image="15" ImageHeight="1510" ImageSize="751208" ImageWidth="973" />
+    <Page Image="16" ImageHeight="1532" ImageSize="718124" ImageWidth="950" />
+    <Page Image="17" ImageHeight="1526" ImageSize="831496" ImageWidth="950" />
+    <Page Image="18" ImageHeight="1516" ImageSize="745064" ImageWidth="937" />
+    <Page Image="19" ImageHeight="1497" ImageSize="726131" ImageWidth="947" />
+    <Page Image="20" ImageHeight="1536" ImageSize="721340" ImageWidth="941" />
+    <Page Image="21" ImageHeight="1513" ImageSize="812151" ImageWidth="947" />
+    <Page Image="22" ImageHeight="1542" ImageSize="730646" ImageWidth="944" />
+    <Page Image="23" ImageHeight="1487" ImageSize="760088" ImageWidth="950" />
+    <Page Image="24" ImageHeight="1519" ImageSize="755302" ImageWidth="941" />
+    <Page Image="25" ImageHeight="1490" ImageSize="717940" ImageWidth="950" />
+    <Page Image="26" ImageHeight="1519" ImageSize="765890" ImageWidth="931" />
+    <Page Image="27" ImageHeight="1513" ImageSize="756498" ImageWidth="957" />
+    <Page Image="28" ImageHeight="1519" ImageSize="786867" ImageWidth="950" />
+    <Page Image="29" ImageHeight="1503" ImageSize="770132" ImageWidth="957" />
+    <Page Image="30" ImageHeight="1523" ImageSize="712663" ImageWidth="944" />
+    <Page Image="31" ImageHeight="1506" ImageSize="866445" ImageWidth="966" />
+    <Page Image="32" ImageHeight="1526" ImageSize="795827" ImageWidth="944" />
+    <Page Image="33" ImageHeight="1493" ImageSize="740252" ImageWidth="957" />
+    <Page Image="34" ImageHeight="1516" ImageSize="740125" ImageWidth="941" />
+    <Page Image="35" ImageHeight="1523" ImageSize="778008" ImageWidth="970" />
+    <Page Image="36" ImageHeight="1503" ImageSize="729613" ImageWidth="947" />
+    <Page Image="37" ImageHeight="1503" ImageSize="792585" ImageWidth="963" />
+    <Page Image="38" ImageHeight="1519" ImageSize="781918" ImageWidth="963" />
+    <Page Image="39" ImageHeight="1481" ImageSize="749481" ImageWidth="966" />
+    <Page Image="40" ImageHeight="1523" ImageSize="748063" ImageWidth="944" />
+    <Page Image="41" ImageHeight="1516" ImageSize="802056" ImageWidth="966" />
+    <Page Image="42" ImageHeight="1519" ImageSize="771891" ImageWidth="947" />
+    <Page Image="43" ImageHeight="1503" ImageSize="692941" ImageWidth="976" />
+    <Page Image="44" ImageHeight="1522" ImageSize="702873" ImageWidth="937" />
+    <Page Image="45" ImageHeight="1481" ImageSize="765513" ImageWidth="970" />
+    <Page Image="46" ImageHeight="1500" ImageSize="745096" ImageWidth="944" />
+    <Page Image="47" ImageHeight="1481" ImageSize="763596" ImageWidth="973" />
+    <Page Image="48" ImageHeight="1516" ImageSize="736351" ImageWidth="928" />
+    <Page Image="49" ImageHeight="1503" ImageSize="756289" ImageWidth="963" />
+    <Page Image="50" ImageHeight="1510" ImageSize="724394" ImageWidth="931" />
+    <Page Image="51" ImageHeight="1516" ImageSize="759694" ImageWidth="970" />
+    <Page Image="52" ImageHeight="1516" ImageSize="820225" ImageWidth="953" />
+    <Page Image="53" ImageHeight="1506" ImageSize="702446" ImageWidth="986" />
+    <Page Image="54" ImageHeight="1500" ImageSize="817678" ImageWidth="957" />
+    <Page Image="55" ImageHeight="1493" ImageSize="685441" ImageWidth="953" />
+    <Page Image="56" ImageHeight="1500" ImageSize="722750" ImageWidth="941" />
+    <Page Image="57" ImageHeight="1506" ImageSize="743859" ImageWidth="976" />
+    <Page Image="58" ImageHeight="1500" ImageSize="670029" ImageWidth="950" />
+    <Page Image="59" ImageHeight="1519" ImageSize="723937" ImageWidth="979" />
+    <Page Image="60" ImageHeight="1497" ImageSize="709807" ImageWidth="953" />
+    <Page Image="61" ImageHeight="1493" ImageSize="626616" ImageWidth="963" />
+    <Page Image="62" ImageHeight="1468" ImageSize="720386" ImageWidth="937" />
+    <Page Image="63" ImageHeight="1468" ImageSize="759501" ImageWidth="973" />
+    <Page Image="64" ImageHeight="1500" ImageSize="803293" ImageWidth="963" />
+    <Page Image="65" ImageHeight="1506" ImageSize="776653" ImageWidth="973" />
+    <Page Image="66" ImageHeight="1506" ImageSize="700854" ImageWidth="953" />
+    <Page Image="67" ImageHeight="1519" ImageSize="709330" ImageWidth="970" />
+    <Page Image="68" ImageHeight="1506" ImageSize="699866" ImageWidth="957" />
+    <Page Image="69" ImageHeight="1523" ImageSize="701080" ImageWidth="963" />
+    <Page Image="70" ImageHeight="1526" ImageSize="763546" ImageWidth="957" />
+    <Page Image="71" ImageHeight="1536" ImageSize="714742" ImageWidth="957" />
+    <Page Image="72" ImageHeight="1516" ImageSize="739644" ImageWidth="944" />
+    <Page Image="73" ImageHeight="1513" ImageSize="764474" ImageWidth="966" />
+    <Page Image="74" ImageHeight="1513" ImageSize="748804" ImageWidth="953" />
+    <Page Image="75" ImageHeight="1493" ImageSize="736428" ImageWidth="957" />
+    <Page Image="76" ImageHeight="1506" ImageSize="746293" ImageWidth="957" />
+    <Page Image="77" ImageHeight="1506" ImageSize="741727" ImageWidth="966" />
+    <Page Image="78" ImageHeight="1519" ImageSize="740155" ImageWidth="953" />
+    <Page Image="79" ImageHeight="1516" ImageSize="757991" ImageWidth="950" />
+    <Page Image="80" ImageHeight="1519" ImageSize="775817" ImageWidth="963" />
+    <Page Image="81" ImageHeight="1523" ImageSize="613558" ImageWidth="957" />
+    <Page Image="82" ImageHeight="1526" ImageSize="748339" ImageWidth="957" />
+    <Page Image="83" ImageSize="687383" />
+  </Pages>
+  <Penciller>Alex Niño,Bill Draut,Dave Manak,Frank Redondo,Gil Kane,Howard Chaykin,John Calnan,Romeo Tanghal,Sandy Plunkett,Tony DeZuniga,Bill Draut,Tony DeZuniga,Alex Niño,John Calnan,Gil Kane,Romeo Tanghal,Sandy Plunkett,Quico Redondo,Dave Manak</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery</Series>
+  <Summary>Contains: 
+
+Grave Labor
+
+Images of the Dead
+
+Demon Child
+
+Photo Finish
+
+The Face of a God!
+
+More Than Human
+
+A House is for Haunting
+
+The Actor
+
+ 
+
+This issue uses the framing device of Abel, Destiny, and Eve visiting the House.
+
+https://comicvine.gamespot.com/house-of-mystery-253/4000-117414/</Summary>
+  <Tags>Cain,New York City,Abel,Eve,Africa,Destiny of the Endless,London,The House of Mystery,Zombies</Tags>
+  <Teams>Zombies</Teams>
+  <Volume>1951</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-253/4000-117414/</Web>
+  <Writer>Dave Manak,Dennis O'Neil,Doug Moench,E. Nelson Bridwell,Jack C. Harris,Jack Oleck,John Albano,Michael Fleisher,Paul Kupperberg,Russell Carley,E. Nelson Bridwell,John Albano,Doug Moench,Jack C. Harris,Denny O'Neil,Jack Oleck,Russell Carley,Michael Fleisher</Writer>
+  <Year>1977</Year>
+  <Count>321</Count>
+  <Title>Grave Labor!; Images of the Dead; Demon Child; Photo Finish; The Face of a God!; More Than Human; A House Is for Haunting; The Actor</Title>
+  <Genre>Horror-suspense,Humor,Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+  <Letterer>Dave Manak</Letterer>
+</ComicInfo>

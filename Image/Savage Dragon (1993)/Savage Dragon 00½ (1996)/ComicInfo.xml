@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Savage Dragon,Horde,Rapture,Mighty Man,Wicked Worm</Characters>
+  <Colorist>Abel Mouton,John Zaia,José Arénas,Lea Rude,Reuben Rude,William Zindel</Colorist>
+  <Day>31</Day>
+  <Editor>Jannie Wong</Editor>
+  <GTIN>urn:comicvine:4000-187869</GTIN>
+  <Inker>Erik Larsen,John Thompson</Inker>
+  <Letterer>Chris Eliopoulos</Letterer>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:02:39 [Issue ID 4000-187869] urn:comicvine:4000-187869
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 06:54:12. [Issue ID 187869]</Notes>
+  <Number>½</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1518" ImageSize="145247" ImageWidth="986" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1527" ImageSize="398145" ImageWidth="989" />
+    <Page Image="2" ImageHeight="1518" ImageSize="264901" ImageWidth="983" />
+    <Page Image="3" ImageHeight="1525" ImageSize="385817" ImageWidth="989" />
+    <Page Image="4" ImageHeight="1525" ImageSize="359669" ImageWidth="983" />
+    <Page Image="5" ImageHeight="1522" ImageSize="409180" ImageWidth="989" />
+    <Page Image="6" ImageHeight="1531" ImageSize="393566" ImageWidth="986" />
+    <Page Image="7" ImageHeight="1522" ImageSize="458417" ImageWidth="986" />
+    <Page Image="8" ImageHeight="1528" ImageSize="394544" ImageWidth="986" />
+    <Page Image="9" ImageHeight="1531" ImageSize="311308" ImageWidth="983" />
+    <Page Image="10" ImageHeight="1534" ImageSize="394797" ImageWidth="983" />
+    <Page Image="11" ImageHeight="1525" ImageSize="395360" ImageWidth="983" />
+    <Page Image="12" ImageHeight="1522" ImageSize="429920" ImageWidth="983" />
+    <Page Image="13" ImageHeight="1522" ImageSize="401306" ImageWidth="983" />
+    <Page Image="14" ImageHeight="1519" ImageSize="418190" ImageWidth="986" />
+    <Page Image="15" ImageHeight="1525" ImageSize="430064" ImageWidth="977" />
+    <Page Image="16" ImageHeight="1531" ImageSize="425332" ImageWidth="980" />
+    <Page Image="17" ImageHeight="1523" ImageSize="353022" ImageWidth="972" />
+    <Page Image="18" ImageHeight="1529" ImageSize="388558" ImageWidth="978" />
+    <Page Image="19" ImageHeight="1531" ImageSize="333078" ImageWidth="980" />
+    <Page Image="20" ImageHeight="1525" ImageSize="292356" ImageWidth="983" />
+    <Page Image="21" ImageHeight="1536" ImageSize="295736" ImageWidth="983" />
+    <Page Image="22" ImageSize="318798" />
+  </Pages>
+  <Penciller>Erik Larsen,John Thompson,Erik Larsen,John Thompson</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Savage Dragon</Series>
+  <Teams>The Covenant of The Sword</Teams>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/savage-dragon-12/4000-187869/</Web>
+  <Writer>Erik Larsen,Gary Carlson</Writer>
+  <Year>1996</Year>
+  <Count>272</Count>
+  <CoverArtist>Erik Larsen</CoverArtist>
+</ComicInfo>

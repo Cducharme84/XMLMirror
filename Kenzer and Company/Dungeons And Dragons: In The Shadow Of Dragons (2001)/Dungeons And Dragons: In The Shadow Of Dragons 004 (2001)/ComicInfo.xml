@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-214226</GTIN>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:20:26 [Issue ID 4000-214226] urn:comicvine:4000-214226</Notes>
+	<Number>4</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="592808" Type="FrontCover"/>
+		<Page Image="1" ImageSize="776634"/>
+		<Page Image="2" ImageSize="803726"/>
+		<Page Image="3" ImageSize="588519"/>
+		<Page Image="4" ImageSize="525815"/>
+		<Page Image="5" ImageSize="374418"/>
+		<Page Image="6" ImageSize="398451"/>
+		<Page Image="7" ImageSize="468142"/>
+		<Page Image="8" ImageSize="415428"/>
+		<Page Image="9" ImageSize="410605"/>
+		<Page Image="10" ImageSize="434690"/>
+		<Page Image="11" ImageSize="474563"/>
+		<Page Image="12" ImageSize="477346"/>
+		<Page Image="13" ImageSize="444288"/>
+		<Page Image="14" ImageSize="446567"/>
+		<Page Image="15" ImageSize="415824"/>
+		<Page Image="16" ImageSize="383040"/>
+		<Page Image="17" ImageSize="435239"/>
+		<Page Image="18" ImageSize="419970"/>
+		<Page Image="19" ImageSize="509190"/>
+		<Page Image="20" ImageSize="425710"/>
+		<Page Image="21" ImageSize="493217"/>
+		<Page Image="22" ImageSize="350877"/>
+		<Page Image="23" ImageSize="291455"/>
+		<Page Image="24" ImageSize="356242"/>
+	</Pages>
+	<Publisher>Kenzer and Company</Publisher>
+	<Series>Dungeons And Dragons: In The Shadow Of Dragons</Series>
+	<Summary>https://comicvine.gamespot.com/dungeons-and-dragons-in-the-shadow-of-dragons-4-pa/4000-214226/</Summary>
+	<Title>Part 4: The Lies That Bind</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/dungeons-and-dragons-in-the-shadow-of-dragons-4-pa/4000-214226/</Web>
+	<Year>2001</Year>
+</ComicInfo>

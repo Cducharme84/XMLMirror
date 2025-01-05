@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Carmilla,Dr. Costanzo,Giles Gittelsohn,Lord Pumpkin,Prime,Roberto Rinaldo,Russell Green,Ruth Green</Characters>
+	<Colorist>Bob Alvord</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-121473</GTIN>
+	<Inker>Al Rio</Inker>
+	<Letterer>Vickie Williams</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:17:12 [Issue ID 4000-121473] urn:comicvine:4000-121473</Notes>
+	<Number>14</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="588131" Type="FrontCover"/>
+		<Page Image="1" ImageSize="471663"/>
+		<Page Image="2" ImageSize="564945"/>
+		<Page Image="3" ImageSize="505586"/>
+		<Page Image="4" ImageSize="986219"/>
+		<Page Image="5" ImageSize="513921"/>
+		<Page Image="6" ImageSize="455428"/>
+		<Page Image="7" ImageSize="491860"/>
+		<Page Image="8" ImageSize="471569"/>
+		<Page Image="9" ImageSize="413828"/>
+		<Page Image="10" ImageSize="479023"/>
+		<Page Image="11" ImageSize="458392"/>
+		<Page Image="12" ImageSize="474126"/>
+		<Page Image="13" ImageSize="463348"/>
+		<Page Image="14" ImageSize="462087"/>
+		<Page Image="15" ImageSize="427758"/>
+		<Page Image="16" ImageSize="486817"/>
+		<Page Image="17" ImageSize="512549"/>
+		<Page Image="18" ImageSize="470834"/>
+		<Page Image="19" ImageSize="542641"/>
+		<Page Image="20" ImageSize="477282"/>
+		<Page Image="21" ImageSize="575105"/>
+		<Page Image="22" ImageSize="557860"/>
+		<Page Image="23" ImageSize="601712"/>
+		<Page Image="24" ImageSize="561585"/>
+	</Pages>
+	<Penciller>Al Rio,Humberto Ramos</Penciller>
+	<Publisher>Malibu</Publisher>
+	<Series>Prime</Series>
+	<Summary>https://comicvine.gamespot.com/prime-14-monster-mash/4000-121473/</Summary>
+	<Title>Monster mash</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/prime-14-monster-mash/4000-121473/</Web>
+	<Writer>Dan Shaheen</Writer>
+	<Year>1996</Year>
+</ComicInfo>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Monroe,Joan Rivers,White Spy,Alfred E. Neuman,Nostradamus,Fantabulaman,Bitterman,Paula Abdul,Yao Ming,Dorothy Boyd,Father O'Flannity,Black Spy,Randy Jackson,Tony Soprano,Kate Moss,King Kong,Jenkins,Melvin,Simon Cowell,Dr. Phil,Choirboy Timmy,Uncle Sam,Jerry Maguire,Jack Kevorkian,George W. Bush</Characters>
+  <Colorist>Al Jaffee,Mort Drucker,Peter Kuper,Tom Bunk,Tom Richmond</Colorist>
+  <Day>10</Day>
+  <Editor>John Ficarra</Editor>
+  <GTIN>urn:comicvine:4000-129296</GTIN>
+  <Inker>Al Jaffee,Bill Wray,Drew Friedman,John Caldwell,Keith Knight,Leonardo Rodriguez,Marc Hempel,Mort Drucker,Peter Bagge,Peter Kuper,Rich Moyer,Sergio Aragonés,Ted Rall,Tom Bunk,Tom Richmond</Inker>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:20:21 [Issue ID 4000-129296] urn:comicvine:4000-129296
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 04:14:47. [Issue ID 275269]</Notes>
+  <Number>462</Number>
+  <PageCount>47</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1649" ImageSize="746437" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1691" ImageSize="708506" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1651" ImageSize="766260" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1664" ImageSize="657046" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1642" ImageSize="733704" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1658" ImageSize="819414" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1638" ImageSize="787500" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1672" ImageSize="727206" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1645" ImageSize="782275" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1640" ImageSize="679188" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1648" ImageSize="676571" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1651" ImageSize="813200" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1667" ImageSize="868666" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1646" ImageSize="817152" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1661" ImageSize="763041" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1645" ImageSize="798192" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1670" ImageSize="857021" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1665" ImageSize="542256" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1688" ImageSize="594132" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1659" ImageSize="815984" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1665" ImageSize="866393" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1662" ImageSize="960199" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1691" ImageSize="1022381" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1677" ImageSize="920090" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1693" ImageSize="866808" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1651" ImageSize="812230" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1640" ImageSize="806486" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1670" ImageSize="796701" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1670" ImageSize="638528" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1674" ImageSize="690441" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1652" ImageSize="778022" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1674" ImageSize="818028" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1565" ImageSize="710593" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1654" ImageSize="767671" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1665" ImageSize="834792" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1666" ImageSize="821425" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="1657" ImageSize="847292" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1660" ImageSize="893238" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1635" ImageSize="843755" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1656" ImageSize="711358" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1669" ImageSize="691944" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1681" ImageSize="718627" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1688" ImageSize="797567" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1653" ImageSize="694043" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1686" ImageSize="809404" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1686" ImageSize="350230" ImageWidth="604" />
+    <Page Image="46" ImageSize="596889" />
+  </Pages>
+  <Penciller>Al Jaffee,Bill Wray,Drew Friedman,John Caldwell,Keith Knight,Leonardo Rodriguez,Marc Hempel,Mort Drucker,Peter Bagge,Peter Kuper,Rich Moyer,Sergio Aragonés,Ted Rall,Tom Bunk,Tom Richmond</Penciller>
+  <Publisher>EC</Publisher>
+  <Series>Mad</Series>
+  <Summary>MAD votes out American Idol, tears down TV's House and slam dunks the new NBA dress code. MAD also questions the dog-eat-dog world with inspirational animal stories. Plus, Spy vs. Spy, Monroe, The Strip Club and aging Elvis impersonators!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-11 23:08:20.  [Issue ID 129296]
+
+https://comicvine.gamespot.com/mad-462-we-vote-out-american-idol/4000-129296/</Summary>
+  <Tags>Monroe,Joan Rivers,White Spy,Alfred E. Neuman,Nostradamus,Fantabulaman,Bitterman,Paula Abdul,Yao Ming,Dorothy Boyd,Father O'Flannity,Black Spy,Randy Jackson,Tony Soprano,Kate Moss,King Kong,Jenkins,Melvin,Simon Cowell,Dr. Phil,Choirboy Timmy,Uncle Sam,Jerry Maguire,Jack Kevorkian,George W. Bush</Tags>
+  <Title>We Vote Out American Idol</Title>
+  <Volume>1952</Volume>
+  <Web>https://comicvine.gamespot.com/mad-462-we-vote-out-american-idol/4000-129296/</Web>
+  <Writer>Al Jaffee,Anthony Barbieri,Arnie Kogen,Darren Johnson,Jeff Kruse,John Caldwell,Keith Knight,Peter Kuper,Rich Moyer,Sergio Aragonés,Stan Sinberg,Ted Rall</Writer>
+  <Year>2006</Year>
+  <Count>550</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

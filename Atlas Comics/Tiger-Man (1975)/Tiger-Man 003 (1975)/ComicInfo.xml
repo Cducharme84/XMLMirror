@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Tiger-Man</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-15608</GTIN>
+	<Inker>Al Milgrom,Steve Ditko</Inker>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:57 [Issue ID 4000-15608] urn:comicvine:4000-15608</Notes>
+	<Number>3</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="457291" Type="FrontCover"/>
+		<Page Image="1" ImageSize="311356"/>
+		<Page Image="2" ImageSize="267359"/>
+		<Page Image="3" ImageSize="293709"/>
+		<Page Image="4" ImageSize="296687"/>
+		<Page Image="5" ImageSize="296326"/>
+		<Page Image="6" ImageSize="297190"/>
+		<Page Image="7" ImageSize="287121"/>
+		<Page Image="8" ImageSize="315312"/>
+		<Page Image="9" ImageSize="303382"/>
+		<Page Image="10" ImageSize="351386"/>
+		<Page Image="11" ImageSize="313403"/>
+		<Page Image="12" ImageSize="264512"/>
+		<Page Image="13" ImageSize="275180"/>
+		<Page Image="14" ImageSize="275795"/>
+		<Page Image="15" ImageSize="293929"/>
+		<Page Image="16" ImageSize="297477"/>
+		<Page Image="17" ImageSize="264461"/>
+		<Page Image="18" ImageSize="300101"/>
+	</Pages>
+	<Penciller>Steve Ditko</Penciller>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>Tiger-Man</Series>
+	<Summary>https://comicvine.gamespot.com/tiger-man-3-hell-is-spelledhypnos/4000-15608/</Summary>
+	<Tags>Tiger-Man</Tags>
+	<Title>Hell Is Spelled...Hypnos</Title>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/tiger-man-3-hell-is-spelledhypnos/4000-15608/</Web>
+	<Writer>Gerry Conway</Writer>
+	<Year>1975</Year>
+</ComicInfo>

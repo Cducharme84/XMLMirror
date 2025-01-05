@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-1038581</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:14:05 [Issue ID 4000-1038581] urn:comicvine:4000-1038581</Notes>
+	<Number>1</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1151254" Type="FrontCover"/>
+		<Page Image="1" ImageSize="913797"/>
+		<Page Image="2" ImageSize="855573"/>
+		<Page Image="3" ImageSize="875552"/>
+		<Page Image="4" ImageSize="932387"/>
+		<Page Image="5" ImageSize="774900"/>
+		<Page Image="6" ImageSize="819259"/>
+		<Page Image="7" ImageSize="835558"/>
+		<Page Image="8" ImageSize="894500"/>
+		<Page Image="9" ImageSize="724686"/>
+		<Page Image="10" ImageSize="798902"/>
+		<Page Image="11" ImageSize="655866"/>
+		<Page Image="12" ImageSize="638178"/>
+		<Page Image="13" ImageSize="1268787"/>
+		<Page Image="14" ImageSize="924219"/>
+		<Page Image="15" ImageSize="747896"/>
+		<Page Image="16" ImageSize="1458347"/>
+		<Page Image="17" ImageSize="777274"/>
+		<Page Image="18" ImageSize="687268"/>
+		<Page Image="19" ImageSize="715416"/>
+		<Page Image="20" ImageSize="792175"/>
+		<Page Image="21" ImageSize="1505722"/>
+		<Page Image="22" ImageSize="886372"/>
+		<Page Image="23" ImageSize="946478"/>
+		<Page Image="24" ImageSize="949346"/>
+		<Page Image="25" ImageSize="873263"/>
+		<Page Image="26" ImageSize="827220"/>
+		<Page Image="27" ImageSize="957966"/>
+		<Page Image="28" ImageSize="864285"/>
+		<Page Image="29" ImageSize="2139459"/>
+		<Page Image="30" ImageSize="1485941"/>
+	</Pages>
+	<Publisher>Scout Comics</Publisher>
+	<Series>Grimm Space</Series>
+	<Summary>https://comicvine.gamespot.com/grimm-space-1/4000-1038581/</Summary>
+	<Volume>2022</Volume>
+	<Web>https://comicvine.gamespot.com/grimm-space-1/4000-1038581/</Web>
+	<Year>2023</Year>
+</ComicInfo>

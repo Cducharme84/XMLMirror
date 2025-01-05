@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Doc Macabre</Characters>
+  <Colorist>Tom Smith</Colorist>
+  <Editor>Tom Waltz</Editor>
+  <GTIN>urn:comicvine:4000-255385</GTIN>
+  <Inker>Bernie Wrightson</Inker>
+  <Letterer>Neil Uyetake</Letterer>
+  <Locations>Los Angeles</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:41:56 [Issue ID 4000-255385] urn:comicvine:4000-255385
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 14:25:32. [Issue ID 795605]</Notes>
+  <Number>2</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="737905" Type="FrontCover" />
+    <Page Image="1" ImageSize="710644" />
+    <Page Image="2" ImageSize="583019" />
+    <Page Image="3" ImageSize="654195" />
+    <Page Image="4" ImageSize="760928" />
+    <Page Image="5" ImageSize="822539" />
+    <Page Image="6" ImageSize="1287550" />
+    <Page Image="7" ImageSize="820474" />
+    <Page Image="8" ImageSize="837386" />
+    <Page Image="9" ImageSize="754150" />
+    <Page Image="10" ImageSize="902935" />
+    <Page Image="11" ImageSize="1183674" />
+    <Page Image="12" ImageSize="1009083" />
+    <Page Image="13" ImageSize="1031887" />
+    <Page Image="14" ImageSize="981436" />
+    <Page Image="15" ImageSize="803743" />
+    <Page Image="16" ImageSize="668343" />
+    <Page Image="17" ImageSize="742749" />
+    <Page Image="18" ImageSize="612113" />
+    <Page Image="19" ImageSize="633959" />
+    <Page Image="20" ImageSize="698520" />
+    <Page Image="21" ImageSize="573051" />
+    <Page Image="22" ImageSize="572636" />
+    <Page Image="23" ImageSize="839347" />
+    <Page Image="24" ImageSize="710085" />
+    <Page Image="25" ImageSize="833364" />
+  </Pages>
+  <Penciller>Bernie Wrightson</Penciller>
+  <Publisher>IDW</Publisher>
+  <Series>Doc Macabre</Series>
+  <Summary>Doc Macabre tries inventing a machine to take on the Ghost that kicks his butt last issue.</Summary>
+  <Tags>Los Angeles,Doc Macabre</Tags>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/doc-macabre-2/4000-255385/</Web>
+  <Writer>Steve Niles</Writer>
+  <Year>2011</Year>
+  <Count>3</Count>
+  <Genre>Horror-suspense,Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Miniseries</Format>
+</ComicInfo>

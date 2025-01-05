@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Traveler,Dracula,Vampirella,Madame Martine Andrecou,Pendragon,Adam Van Helsing</Characters>
+  <Colorist>Digital Chameleon,Kevin Horn,Michael Kelleher,Rod Perez,Mike Kelleher,Kevin Horn,Rod Perez,Digital Chameleon,Mike Kelleher</Colorist>
+  <Count>7</Count>
+  <Day>6</Day>
+  <Editor>Joseph Rybandt,Meloney Crawford (Chadwick),Meloney Crawford Chadwick,Richard Howell,Jesse Reyes,Meloney Crawford Chadwick,Richard Howell,Jesse Reyes</Editor>
+  <GTIN>urn:comicvine:4000-293531</GTIN>
+  <Inker>John Nyberg,Matt Banning,Ricardo Villagrán,Stan Shaw,Trina Robbins,Jim Balent,Steve Leialoha,Richard Howell,Matt Banning,Jim Balent,Ricardo Villagrán,Steve Leialoha,Stan Shaw,John Nyberg,Richard Howell,Trina Robbins</Inker>
+  <Letterer>Kevin Cunningham,Richard Howell,Kevin Cunningham,Richard Howell</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:08:52 [Issue ID 4000-293531] urn:comicvine:4000-293531
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 07:46:37. [Issue ID 942994]</Notes>
+  <Number>5</Number>
+  <PageCount>329</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="3320285" Type="FrontCover" />
+    <Page Image="1" ImageSize="2382977" />
+    <Page Image="2" ImageSize="1282812" />
+    <Page Image="3" ImageSize="2035070" />
+    <Page Image="4" ImageSize="3263423" />
+    <Page Image="5" ImageSize="3127754" />
+    <Page Image="6" ImageSize="2853635" />
+    <Page Image="7" ImageSize="2810906" />
+    <Page Image="8" ImageSize="2733286" />
+    <Page Image="9" ImageSize="2962270" />
+    <Page Image="10" ImageSize="2741642" />
+    <Page Image="11" ImageSize="2386493" />
+    <Page Image="12" ImageSize="2862252" />
+    <Page Image="13" ImageSize="2448160" />
+    <Page Image="14" ImageSize="2875665" />
+    <Page Image="15" ImageSize="2581039" />
+    <Page Image="16" ImageSize="2512316" />
+    <Page Image="17" ImageSize="2661024" />
+    <Page Image="18" ImageSize="2874004" />
+    <Page Image="19" ImageSize="2766443" />
+    <Page Image="20" ImageSize="2906516" />
+    <Page Image="21" ImageSize="2837551" />
+    <Page Image="22" ImageSize="2834117" />
+    <Page Image="23" ImageSize="3048298" />
+    <Page Image="24" ImageSize="2981241" />
+    <Page Image="25" ImageSize="3315902" />
+    <Page Image="26" ImageSize="3120239" />
+    <Page Image="27" ImageSize="2994740" />
+    <Page Image="28" ImageSize="2525947" />
+    <Page Image="29" ImageSize="2433750" />
+    <Page Image="30" ImageSize="2264534" />
+    <Page Image="31" ImageSize="2427360" />
+    <Page Image="32" ImageSize="2799997" />
+    <Page Image="33" ImageSize="2849162" />
+    <Page Image="34" ImageSize="3133894" />
+    <Page Image="35" ImageSize="2681112" />
+    <Page Image="36" ImageSize="2757445" />
+    <Page Image="37" ImageSize="3005888" />
+    <Page Image="38" ImageSize="2696282" />
+    <Page Image="39" ImageSize="2778113" />
+    <Page Image="40" ImageSize="2802489" />
+    <Page Image="41" ImageSize="2756565" />
+    <Page Image="42" ImageSize="3293534" />
+    <Page Image="43" ImageSize="3246133" />
+    <Page Image="44" ImageSize="2650508" />
+    <Page Image="45" ImageSize="2648765" />
+    <Page Image="46" ImageSize="2341367" />
+    <Page Image="47" ImageSize="2795529" />
+    <Page Image="48" ImageSize="3055765" />
+    <Page Image="49" ImageSize="3381554" />
+    <Page Image="50" ImageSize="2553578" />
+    <Page Image="51" ImageSize="2633581" />
+    <Page Image="52" ImageSize="2489315" />
+    <Page Image="53" ImageSize="2381171" />
+    <Page Image="54" ImageSize="2814579" />
+    <Page Image="55" ImageSize="3070776" />
+    <Page Image="56" ImageSize="2670712" />
+    <Page Image="57" ImageSize="2532796" />
+    <Page Image="58" ImageSize="2220149" />
+    <Page Image="59" ImageSize="2930184" />
+    <Page Image="60" ImageSize="2801750" />
+    <Page Image="61" ImageSize="2626585" />
+    <Page Image="62" ImageSize="2430010" />
+    <Page Image="63" ImageSize="2333079" />
+    <Page Image="64" ImageSize="2941411" />
+    <Page Image="65" ImageSize="2822700" />
+    <Page Image="66" ImageSize="2749261" />
+    <Page Image="67" ImageSize="2460365" />
+    <Page Image="68" ImageSize="2467920" />
+    <Page Image="69" ImageSize="2666109" />
+    <Page Image="70" ImageSize="2843534" />
+    <Page Image="71" ImageSize="2841040" />
+    <Page Image="72" ImageSize="2827412" />
+    <Page Image="73" ImageSize="2816743" />
+    <Page Image="74" ImageSize="2419502" />
+    <Page Image="75" ImageSize="2658309" />
+    <Page Image="76" ImageSize="2553714" />
+    <Page Image="77" ImageSize="2784950" />
+    <Page Image="78" ImageSize="2275863" />
+    <Page Image="79" ImageSize="3243309" />
+    <Page Image="80" ImageSize="3082231" />
+    <Page Image="81" ImageSize="2856953" />
+    <Page Image="82" ImageSize="2816088" />
+    <Page Image="83" ImageSize="3146967" />
+    <Page Image="84" ImageSize="2946300" />
+    <Page Image="85" ImageSize="3018281" />
+    <Page Image="86" ImageSize="2688623" />
+    <Page Image="87" ImageSize="2731262" />
+    <Page Image="88" ImageSize="2823891" />
+    <Page Image="89" ImageSize="2212052" />
+    <Page Image="90" ImageSize="2500312" />
+    <Page Image="91" ImageSize="3041309" />
+    <Page Image="92" ImageSize="2654903" />
+    <Page Image="93" ImageSize="3014917" />
+    <Page Image="94" ImageSize="2763875" />
+    <Page Image="95" ImageSize="2385076" />
+    <Page Image="96" ImageSize="2575670" />
+    <Page Image="97" ImageSize="2747894" />
+    <Page Image="98" ImageSize="3015134" />
+    <Page Image="99" ImageSize="2664794" />
+    <Page Image="100" ImageSize="2508018" />
+    <Page Image="101" ImageSize="3118889" />
+    <Page Image="102" ImageSize="2867023" />
+    <Page Image="103" ImageSize="2680752" />
+    <Page Image="104" ImageSize="2835167" />
+    <Page Image="105" ImageSize="2868892" />
+    <Page Image="106" ImageSize="2568420" />
+    <Page Image="107" ImageSize="2634644" />
+    <Page Image="108" ImageSize="2795476" />
+    <Page Image="109" ImageSize="2855745" />
+    <Page Image="110" ImageSize="2764011" />
+    <Page Image="111" ImageSize="2797799" />
+    <Page Image="112" ImageSize="2694719" />
+    <Page Image="113" ImageSize="2479991" />
+    <Page Image="114" ImageSize="2484415" />
+    <Page Image="115" ImageSize="2676418" />
+    <Page Image="116" ImageSize="2002034" />
+    <Page Image="117" ImageSize="2368763" />
+    <Page Image="118" ImageSize="2456711" />
+    <Page Image="119" ImageSize="2379484" />
+    <Page Image="120" ImageSize="3100121" />
+    <Page Image="121" ImageSize="2978609" />
+    <Page Image="122" ImageSize="2738253" />
+    <Page Image="123" ImageSize="2348852" />
+    <Page Image="124" ImageSize="2710928" />
+    <Page Image="125" ImageSize="2572443" />
+    <Page Image="126" ImageSize="2388815" />
+    <Page Image="127" ImageSize="2860177" />
+    <Page Image="128" ImageSize="3038438" />
+    <Page Image="129" ImageSize="2621317" />
+    <Page Image="130" ImageSize="2547204" />
+    <Page Image="131" ImageSize="2586277" />
+    <Page Image="132" ImageSize="2797356" />
+    <Page Image="133" ImageSize="2419173" />
+    <Page Image="134" ImageSize="2251299" />
+    <Page Image="135" ImageSize="2028383" />
+    <Page Image="136" ImageSize="3071518" />
+    <Page Image="137" ImageSize="2708764" />
+    <Page Image="138" ImageSize="2565849" />
+    <Page Image="139" ImageSize="2642653" />
+    <Page Image="140" ImageSize="2346296" />
+    <Page Image="141" ImageSize="2516949" />
+    <Page Image="142" ImageSize="2709240" />
+    <Page Image="143" ImageSize="2715373" />
+    <Page Image="144" ImageSize="2440709" />
+    <Page Image="145" ImageSize="2353518" />
+    <Page Image="146" ImageSize="2366306" />
+    <Page Image="147" ImageSize="2469636" />
+    <Page Image="148" ImageSize="2544841" />
+    <Page Image="149" ImageSize="2603563" />
+    <Page Image="150" ImageSize="2520186" />
+    <Page Image="151" ImageSize="3055389" />
+    <Page Image="152" ImageSize="2151071" />
+    <Page Image="153" ImageSize="2621040" />
+    <Page Image="154" ImageSize="2828501" />
+    <Page Image="155" ImageSize="2851540" />
+    <Page Image="156" ImageSize="2600094" />
+    <Page Image="157" ImageSize="2927148" />
+    <Page Image="158" ImageSize="2701919" />
+    <Page Image="159" ImageSize="2867258" />
+    <Page Image="160" ImageSize="2791070" />
+    <Page Image="161" ImageSize="2472678" />
+    <Page Image="162" ImageSize="2696085" />
+    <Page Image="163" ImageSize="2441475" />
+    <Page Image="164" ImageSize="2972335" />
+    <Page Image="165" ImageSize="2942609" />
+    <Page Image="166" ImageSize="2375236" />
+    <Page Image="167" ImageSize="2883348" />
+    <Page Image="168" ImageSize="2815583" />
+    <Page Image="169" ImageSize="2884573" />
+    <Page Image="170" ImageSize="2445914" />
+    <Page Image="171" ImageSize="2700199" />
+    <Page Image="172" ImageSize="2772580" />
+    <Page Image="173" ImageSize="2567623" />
+    <Page Image="174" ImageSize="2762128" />
+    <Page Image="175" ImageSize="2290761" />
+    <Page Image="176" ImageSize="2605451" />
+    <Page Image="177" ImageSize="3243639" />
+    <Page Image="178" ImageSize="3097665" />
+    <Page Image="179" ImageSize="2618525" />
+    <Page Image="180" ImageSize="2558748" />
+    <Page Image="181" ImageSize="2912012" />
+    <Page Image="182" ImageSize="2585607" />
+    <Page Image="183" ImageSize="2162698" />
+    <Page Image="184" ImageSize="2690944" />
+    <Page Image="185" ImageSize="2641694" />
+    <Page Image="186" ImageSize="2579977" />
+    <Page Image="187" ImageSize="1989527" />
+    <Page Image="188" ImageSize="2726354" />
+    <Page Image="189" ImageSize="2706528" />
+    <Page Image="190" ImageSize="2599938" />
+    <Page Image="191" ImageSize="2491195" />
+    <Page Image="192" ImageSize="2188658" />
+    <Page Image="193" ImageSize="2053722" />
+    <Page Image="194" ImageSize="2554698" />
+    <Page Image="195" ImageSize="2883358" />
+    <Page Image="196" ImageSize="2385867" />
+    <Page Image="197" ImageSize="3098477" />
+    <Page Image="198" ImageSize="2459823" />
+    <Page Image="199" ImageSize="2451973" />
+    <Page Image="200" ImageSize="3290275" />
+    <Page Image="201" ImageSize="1711686" />
+    <Page Image="202" ImageSize="2903624" />
+    <Page Image="203" ImageSize="2520260" />
+    <Page Image="204" ImageSize="2394019" />
+    <Page Image="205" ImageSize="2978626" />
+    <Page Image="206" ImageSize="2633067" />
+    <Page Image="207" ImageSize="2798995" />
+    <Page Image="208" ImageSize="2668676" />
+    <Page Image="209" ImageSize="3155422" />
+    <Page Image="210" ImageSize="3541764" />
+    <Page Image="211" ImageSize="2848465" />
+    <Page Image="212" ImageSize="1013705" />
+    <Page Image="213" ImageSize="2289264" />
+    <Page Image="214" ImageSize="2374639" />
+    <Page Image="215" ImageSize="2557948" />
+    <Page Image="216" ImageSize="2794969" />
+    <Page Image="217" ImageSize="2650519" />
+    <Page Image="218" ImageSize="2530180" />
+    <Page Image="219" ImageSize="957010" />
+    <Page Image="220" ImageSize="2981304" />
+    <Page Image="221" ImageSize="2879888" />
+    <Page Image="222" ImageSize="2832606" />
+    <Page Image="223" ImageSize="2521251" />
+    <Page Image="224" ImageSize="2768150" />
+    <Page Image="225" ImageSize="2682273" />
+    <Page Image="226" ImageSize="3063678" />
+    <Page Image="227" ImageSize="2932799" />
+    <Page Image="228" ImageSize="2286870" />
+    <Page Image="229" ImageSize="2549847" />
+    <Page Image="230" ImageSize="2094164" />
+    <Page Image="231" ImageSize="3335156" />
+    <Page Image="232" ImageSize="5711052" />
+    <Page Image="233" ImageSize="3000920" />
+    <Page Image="234" ImageSize="3050640" />
+    <Page Image="235" ImageSize="3420257" />
+    <Page Image="236" ImageSize="2752303" />
+    <Page Image="237" ImageSize="2781330" />
+    <Page Image="238" ImageSize="2940106" />
+    <Page Image="239" ImageSize="2799219" />
+    <Page Image="240" ImageSize="3079826" />
+    <Page Image="241" ImageSize="3041059" />
+    <Page Image="242" ImageSize="2707079" />
+    <Page Image="243" ImageSize="3162274" />
+    <Page Image="244" ImageSize="2696575" />
+    <Page Image="245" ImageSize="3350625" />
+    <Page Image="246" ImageSize="2621728" />
+    <Page Image="247" ImageSize="3116417" />
+    <Page Image="248" ImageSize="2176093" />
+    <Page Image="249" ImageSize="2709392" />
+    <Page Image="250" ImageSize="2693875" />
+    <Page Image="251" ImageSize="2694450" />
+    <Page Image="252" ImageSize="2468570" />
+    <Page Image="253" ImageSize="3024923" />
+    <Page Image="254" ImageSize="1752174" />
+    <Page Image="255" ImageSize="2727191" />
+    <Page Image="256" ImageSize="2426466" />
+    <Page Image="257" ImageSize="2615437" />
+    <Page Image="258" ImageSize="2503643" />
+    <Page Image="259" ImageSize="2721751" />
+    <Page Image="260" ImageSize="2542065" />
+    <Page Image="261" ImageSize="2916342" />
+    <Page Image="262" ImageSize="3160543" />
+    <Page Image="263" ImageSize="2550199" />
+    <Page Image="264" ImageSize="2895128" />
+    <Page Image="265" ImageSize="3097728" />
+    <Page Image="266" ImageSize="2445718" />
+    <Page Image="267" ImageSize="2426568" />
+    <Page Image="268" ImageSize="2595101" />
+    <Page Image="269" ImageSize="2849936" />
+    <Page Image="270" ImageSize="2536012" />
+    <Page Image="271" ImageSize="2805669" />
+    <Page Image="272" ImageSize="3207297" />
+    <Page Image="273" ImageSize="2262960" />
+    <Page Image="274" ImageSize="2720988" />
+    <Page Image="275" ImageSize="2438355" />
+    <Page Image="276" ImageSize="2637823" />
+    <Page Image="277" ImageSize="2596933" />
+    <Page Image="278" ImageSize="2279226" />
+    <Page Image="279" ImageSize="2440300" />
+    <Page Image="280" ImageSize="2789419" />
+    <Page Image="281" ImageSize="2709737" />
+    <Page Image="282" ImageSize="2467296" />
+    <Page Image="283" ImageSize="2357339" />
+    <Page Image="284" ImageSize="2476580" />
+    <Page Image="285" ImageSize="2389218" />
+    <Page Image="286" ImageSize="2292507" />
+    <Page Image="287" ImageSize="2604637" />
+    <Page Image="288" ImageSize="2626266" />
+    <Page Image="289" ImageSize="2598138" />
+    <Page Image="290" ImageSize="2481019" />
+    <Page Image="291" ImageSize="2645087" />
+    <Page Image="292" ImageSize="2492449" />
+    <Page Image="293" ImageSize="2131175" />
+    <Page Image="294" ImageSize="2435463" />
+    <Page Image="295" ImageSize="2834642" />
+    <Page Image="296" ImageSize="2668587" />
+    <Page Image="297" ImageSize="2738189" />
+    <Page Image="298" ImageSize="2627635" />
+    <Page Image="299" ImageSize="2488591" />
+    <Page Image="300" ImageSize="2189858" />
+    <Page Image="301" ImageSize="2370789" />
+    <Page Image="302" ImageSize="2966107" />
+    <Page Image="303" ImageSize="2092679" />
+    <Page Image="304" ImageSize="2229951" />
+    <Page Image="305" ImageSize="2203653" />
+    <Page Image="306" ImageSize="3219267" />
+    <Page Image="307" ImageSize="2729931" />
+    <Page Image="308" ImageSize="2187742" />
+    <Page Image="309" ImageSize="2696260" />
+    <Page Image="310" ImageSize="2393600" />
+    <Page Image="311" ImageSize="2667286" />
+    <Page Image="312" ImageSize="2357388" />
+    <Page Image="313" ImageSize="2602161" />
+    <Page Image="314" ImageSize="2569086" />
+    <Page Image="315" ImageSize="2024035" />
+    <Page Image="316" ImageSize="2122358" />
+    <Page Image="317" ImageSize="2266070" />
+    <Page Image="318" ImageSize="2271071" />
+    <Page Image="319" ImageSize="2473671" />
+    <Page Image="320" ImageSize="2277950" />
+    <Page Image="321" ImageSize="2223277" />
+    <Page Image="322" ImageSize="2268056" />
+    <Page Image="323" ImageSize="2534370" />
+    <Page Image="324" ImageSize="2290734" />
+    <Page Image="325" ImageSize="2485933" />
+    <Page Image="326" ImageSize="2095186" />
+    <Page Image="327" ImageSize="1953150" />
+    <Page Image="328" ImageSize="382128" />
+  </Pages>
+  <Penciller>Carmine Infantino,Colleen Doran,Dave Cockrum,James Fry III,Jim Balent,Kelley Jones,Louis La Chance,Louis Small Jr.,Trina Robbins,Richard Howell,James Fry,Steve Leialoha,Louis Small Jr.,Jim Balent,Richard Howell,James Fry,Dave Cockrum,Louis La Chance,Carmine Infantino,Colleen Doran,Trina Robbins,Steve Leialoha,Kelley Jones</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>Vampirella Masters Series</Series>
+  <Summary>Having discovered that the leader of the European Alliance is under Dracula's control and his waging a fake war increase his followers, Vampirella goes to Monte Carlo and kills her to stop Dracula's bid for world domination.
+
+Dracula reveals that the war in Europe is a ruse to increase the vampire population for eventual world conquest. He offers to make Vampirella his queen, but she spurns his offer and escapes.
+
+Vampirella and Pendragon arrive in Paris to discover the government there is misleading the people about what is going on in the rest of the world. Eventually, Vampirella is led to Dracula himself.
+
+One of Adam's agents warns that Dracula is active in Europe. Adam persuades Vampirella to join him in tracking down Dracula.
+
+Having been turned into a vampire, then killed, Chelsea has been returned to her vampire life by a construction worked who removes the stake used to kill her. Chelsea returns to her old friends, but realizes she must leave when the blood lust comes upon her. She is lonely and sad until she discovers a little girl who has been a ghost in a warehouse for a century. Chelsea discovers that cheering up the little girl also raises her spirits.
+
+Pendragon relives his past when gang members working for his estranged daughter show up at the club he is working at to beat him up. They are under orders to kill him, but his grandson orders the thugs to let him go.
+
+One of Adam's agents reports that six people are trapped by something deadly. Adam travels to the site to rescue the people and kills the monster.
+
+Nuberous seems to have taken control of everyone, but Pendragon breaks free from the voices. He awakens Adam who in turn, wakes Vampirella. With his web shredded, it will no longer support him and Nuberous dies.
+
+Morning comes to Washington without a dawn as Nuberous seduces the populace with voices promising the people their greatest desires.
+
+Shroud's plans to slay Nuberous backfire when Vampirella overcomes him. Nuberous then begins to use Shroud's body as a gateway to return to Earth.
+
+After killing Adam's father, Chelsea flies away to Shroud's catacombs. Vampirella, Adam and Pendragon pursue her and Adam drives a stake through her.
+
+Conrad attacks Vampirella, Adam and Pendragon while under Shroud's control. Conrad fights off the mental control, but as he does he is grabbed and bitten by Chelsea, who is now a vampire.
+
+While the rest of Vampirella's group is sleeping, Shroud uses his influence over Conrad Van Helsing to let in the Etherea, creatures of dreams.
+
+Vampirella and her crew take their rescued friends to the Van Helsing estate. But Shroud seems to be fighting for control over Conrad's mind. Meanwhile, Chelsea watches the window in fear, waiting for something.
+
+Vampirella, Adam, and Pendragon find and rescue Chelsea. Then Adam's dead and buried father shows up somehow alive. But this all seems to be part of Shroud's plan.
+
+Vampirella destroys Bane and releases the populace, including Adam and Pendragon, from his control. However, Chelsea is still being held captive by Shroud.
+
+Bane has summoned the populace to a political rally with his song where they are taken one by one by the night creatures as they succumb to his promises. Vampirella arrives just as Adam is about to be taken.
+
+Vampirella looks for Chelsea, but Shroud has already taken her. Meanwhile, Bane's song has driven the populace in Washington D.C. to madness, turning people against each other.
+
+Shroud had invented the serum that Vampirella used to curb her blood lust. But Shroud had cut off the supplies to make the serum. Desperate, Vampirella had turned to a drug that caused her to lose her memories and transform into the elderly Ella Normandy. Restored by her attack on Toomey's gang, Vampirella learns from Adam that his father is dead and she has failed to keep her promise to protect him. Meanwhile, Shroud sacrifices Toomey to bring forth Bane.
+
+Adam sets out to kill Ethan Shroud, but on the way he meets Vampirella again for the first time in ten years.
+
+Shroud sends a gang led by Toomey to kidnap Chelsea, but they are encountered by elderly Miss Normandy. When they attack, she bites the necks of some of the men and drains their blood. The blood transforms Miss Normandy back into a younger Vampirella.
+
+Senator Van Helsing's secretary is killed as a warning that the forces of darkness are still watching him. Meanwhile, Ethan Shroud reminisces about his victory over Vampirella ten years ago and misses the challenge. He poses as Chelsea's uncle to contact her and takes partial control of her mind. Later, he sends her a Vampirella costume.
+
+Adam Van Helsing is a U.S. Senator, but it has been ten years since anyone has seen his father, Pendragon, or Vampirella. Meanwhile, the forces of darkness have taken over the night in Washington D.C. Most people are afraid to go out after dark. Ethan Shroud, the leader of the night's Unseelie Congress sets his sights on a schoolgirl named Chelsea.</Summary>
+  <Tags>Chelsea Cantrell,Conrad Van Helsing,Bane,Vampirella,Ethan Shroud,Pendragon,Adam Van Helsing</Tags>
+  <Title>Revelations Dracula War: Part III; The Dracula War, Part Two: City of Love; The Dracula War, Part One: Storm Clouds Gathering; Restless Spirit; Magic Tricks; The Reach of the Dead; Chapter Sixteen: Close at the Ear of Eve; Chapter Fifteen: Without All Hope of Day; Chapter Fourteen: Insolence and Wine; Chapter Thirteen: The Seat of Desolation; Chapter Twelve: Sheep's Clothing; Chapter Eleven: Into the Wilderness; Chapter Ten: New Wine in Old Bottles; Chapter Nine: Wide the Gate and Broad the Way; Chapter Eight: Swine Wine (That Which Brutalizes); Chapter Seven: Sheep Wine (That Which Stupifies); Chapter Six: Lion Wine (That Which Irritates); Chapter Five: Monkey Wine (That Which Enlivens); Chapter Four: A Chequer-board of Nights and Days; Chapter Three: Morning in the Bowl of Night; Chapter Two: Unborn Tomorrow &amp; Dead Yesterday; Chapter One: The Lion and the Lizard</Title>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/vampirella-masters-series-5-kurt-busiek/4000-293531/</Web>
+  <Writer>Kurt Busiek,Tom Sniegoski,Kurt Busiek,Tom Sniegoski</Writer>
+  <Year>2011</Year>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

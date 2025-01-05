@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>100</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-490952</GTIN>
+  <Inker>Rafael Ortiz</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:19:01 [Issue ID 4000-490952] urn:comicvine:4000-490952 urn:grandcomicsdatabase:issue/1377329
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 16:32:17. [Issue ID 1377329]</Notes>
+  <Number>78</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1528882" Type="FrontCover" />
+    <Page Image="1" ImageSize="1497438" />
+    <Page Image="2" ImageSize="1331916" />
+    <Page Image="3" ImageSize="1428198" />
+    <Page Image="4" ImageSize="1700776" />
+    <Page Image="5" ImageSize="1686055" />
+    <Page Image="6" ImageSize="1725318" />
+    <Page Image="7" ImageSize="3216632" />
+    <Page Image="8" ImageSize="1369860" />
+    <Page Image="9" ImageSize="1528502" />
+    <Page Image="10" ImageSize="1709645" />
+    <Page Image="11" ImageSize="1616323" />
+    <Page Image="12" ImageSize="1811311" />
+    <Page Image="13" ImageSize="1572844" />
+    <Page Image="14" ImageSize="1593405" />
+    <Page Image="15" ImageSize="1806028" />
+    <Page Image="16" ImageSize="1900093" />
+    <Page Image="17" ImageSize="1298603" />
+    <Page Image="18" ImageSize="1232580" />
+    <Page Image="19" ImageSize="1563731" />
+    <Page Image="20" ImageSize="1525805" />
+    <Page Image="21" ImageSize="1578615" />
+    <Page Image="22" ImageSize="1145448" />
+    <Page Image="23" ImageSize="416241" />
+  </Pages>
+  <Penciller>Rafael Ortiz</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Crossed Badlands</Series>
+  <Teams>The Crossed</Teams>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-490952/</Web>
+  <Writer>Kieron Gillen</Writer>
+  <Year>2015</Year>
+</ComicInfo>

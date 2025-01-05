@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Sunny Gho</Colorist>
+	<Count>40</Count>
+	<Country>US</Country>
+	<Editor>Filip Sablik</Editor>
+	<GTIN>urn:comicvine:4000-771200</GTIN>
+	<Genre>Superhero</Genre>
+	<Inker>Rick Basaldua,Sal Regla</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Troy Peteri</Letterer>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:16:02 [Issue ID 4000-771200] urn:comicvine:4000-771200 urn:grandcomicsdatabase:issue/771200</Notes>
+	<Number>1</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1098160" Type="FrontCover"/>
+		<Page Image="1" ImageSize="802044"/>
+		<Page Image="2" ImageSize="942530"/>
+		<Page Image="3" ImageSize="582361"/>
+		<Page Image="4" ImageSize="761735"/>
+		<Page Image="5" ImageSize="951666"/>
+		<Page Image="6" ImageSize="829484"/>
+		<Page Image="7" ImageSize="973786"/>
+		<Page Image="8" ImageSize="918311"/>
+		<Page Image="9" ImageSize="1118399"/>
+		<Page Image="10" ImageSize="1092408"/>
+		<Page Image="11" ImageSize="723221"/>
+		<Page Image="12" ImageSize="923923"/>
+		<Page Image="13" ImageSize="1003723"/>
+		<Page Image="14" ImageSize="965262"/>
+		<Page Image="15" ImageSize="1082935"/>
+		<Page Image="16" ImageSize="860395"/>
+		<Page Image="17" ImageSize="466468"/>
+		<Page Image="18" ImageSize="2222986"/>
+		<Page Image="19" ImageSize="853311"/>
+		<Page Image="20" ImageSize="972860"/>
+		<Page Image="21" ImageSize="759503"/>
+		<Page Image="22" ImageSize="900691"/>
+		<Page Image="23" ImageSize="850846"/>
+		<Page Image="24" ImageSize="690149"/>
+		<Page Image="25" ImageSize="809757"/>
+		<Page Image="26" ImageSize="681150"/>
+		<Page Image="27" ImageSize="1909958"/>
+		<Page Image="28" ImageSize="803656"/>
+		<Page Image="29" ImageSize="1009885"/>
+		<Page Image="30" ImageSize="1743322"/>
+		<Page Image="31" ImageSize="1042562"/>
+		<Page Image="32" ImageSize="875381"/>
+		<Page Image="33" ImageSize="824178"/>
+	</Pages>
+	<Penciller>Marc Silvestri,Michael Broussard</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>Artifacts</Series>
+	<Summary>Originally a 13 issue mini-series, but made an ongoing.</Summary>
+	<Title>Origin: Witchblade</Title>
+	<Volume>2010</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-771200/</Web>
+	<Writer>Ron Marz</Writer>
+	<Year>2010</Year>
+</ComicInfo>

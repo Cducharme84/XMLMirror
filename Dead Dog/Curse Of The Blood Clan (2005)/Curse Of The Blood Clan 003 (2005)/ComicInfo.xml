@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-161028</GTIN>
+	<Inker>Mark Kidwell</Inker>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:32:19 [Issue ID 4000-161028] urn:comicvine:4000-161028</Notes>
+	<Number>3</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="765174" Type="FrontCover"/>
+		<Page Image="1" ImageSize="569999"/>
+		<Page Image="2" ImageSize="622497"/>
+		<Page Image="3" ImageSize="599010"/>
+		<Page Image="4" ImageSize="676484"/>
+		<Page Image="5" ImageSize="654417"/>
+		<Page Image="6" ImageSize="638426"/>
+		<Page Image="7" ImageSize="658449"/>
+		<Page Image="8" ImageSize="672087"/>
+		<Page Image="9" ImageSize="645602"/>
+		<Page Image="10" ImageSize="703807"/>
+		<Page Image="11" ImageSize="700185"/>
+		<Page Image="12" ImageSize="636963"/>
+		<Page Image="13" ImageSize="774404"/>
+		<Page Image="14" ImageSize="783419"/>
+		<Page Image="15" ImageSize="708558"/>
+		<Page Image="16" ImageSize="727387"/>
+		<Page Image="17" ImageSize="729165"/>
+		<Page Image="18" ImageSize="729746"/>
+		<Page Image="19" ImageSize="709316"/>
+		<Page Image="20" ImageSize="601634"/>
+		<Page Image="21" ImageSize="759562"/>
+		<Page Image="22" ImageSize="783699"/>
+		<Page Image="23" ImageSize="721515"/>
+	</Pages>
+	<Penciller>Mark Kidwell</Penciller>
+	<Publisher>Dead Dog</Publisher>
+	<Series>Curse Of The Blood Clan</Series>
+	<Summary>The vendetta against the Blood Clan forms the unlikely partnership of Jax and Jonah. They struggle against the clans' ancient and strongest of soldiers.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-14 10:15:15.  [CVDB161028]
+
+https://comicvine.gamespot.com/curse-of-the-blood-clan-3/4000-161028/</Summary>
+	<Tags>Werewolves</Tags>
+	<Teams>Werewolves</Teams>
+	<Volume>2005</Volume>
+	<Web>https://comicvine.gamespot.com/curse-of-the-blood-clan-3/4000-161028/</Web>
+	<Writer>Mark Kidwell</Writer>
+	<Year>2005</Year>
+</ComicInfo>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Jack</Characters>
+	<Count>4</Count>
+	<CoverArtist>Bulent Hasan</CoverArtist>
+	<Day>31</Day>
+	<Editor>Bulent Hasan</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-657227</GTIN>
+	<Genre>Action,Science Fiction</Genre>
+	<Inker>Bulent Hasan</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-03T15:15:18 [Issue ID 4000-657227] urn:comicvine:4000-657227</Notes>
+	<Number>3</Number>
+	<PageCount>68</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3956" ImageSize="1380432" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1988" ImageHeight="3072" ImageSize="589499"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1988" ImageHeight="3072" ImageSize="301915"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1988" ImageHeight="3072" ImageSize="616192"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1988" ImageHeight="3072" ImageSize="424850"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1988" ImageHeight="3072" ImageSize="499853"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1988" ImageHeight="3072" ImageSize="547560"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1988" ImageHeight="3072" ImageSize="768844"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1988" ImageHeight="3072" ImageSize="783809"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1988" ImageHeight="3072" ImageSize="531816"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1988" ImageHeight="3072" ImageSize="627466"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1988" ImageHeight="3072" ImageSize="640750"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1988" ImageHeight="3072" ImageSize="550609"/>
+		<Page DoublePage="True" Image="13" ImageWidth="3976" ImageHeight="3072" ImageSize="1181023"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1988" ImageHeight="3072" ImageSize="754821"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1988" ImageHeight="3072" ImageSize="353317"/>
+		<Page DoublePage="True" Image="16" ImageWidth="3976" ImageHeight="3072" ImageSize="703257"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1988" ImageHeight="3072" ImageSize="771371"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1988" ImageHeight="3072" ImageSize="941729"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1988" ImageHeight="3072" ImageSize="757977"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1988" ImageHeight="3072" ImageSize="978675"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1988" ImageHeight="3072" ImageSize="798011"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1988" ImageHeight="3072" ImageSize="960185"/>
+		<Page DoublePage="True" Image="23" ImageWidth="3976" ImageHeight="3072" ImageSize="622716"/>
+		<Page DoublePage="True" Image="24" ImageWidth="3976" ImageHeight="3072" ImageSize="97612"/>
+		<Page DoublePage="True" Image="25" ImageWidth="3976" ImageHeight="3072" ImageSize="201574"/>
+		<Page DoublePage="True" Image="26" ImageWidth="3976" ImageHeight="3072" ImageSize="438167"/>
+		<Page DoublePage="False" Image="27" ImageWidth="1988" ImageHeight="3072" ImageSize="561130"/>
+		<Page DoublePage="False" Image="28" ImageWidth="1988" ImageHeight="3072" ImageSize="659829"/>
+		<Page DoublePage="False" Image="29" ImageWidth="1988" ImageHeight="3072" ImageSize="873907"/>
+		<Page DoublePage="False" Image="30" ImageWidth="1988" ImageHeight="3072" ImageSize="916279"/>
+		<Page DoublePage="False" Image="31" ImageWidth="1988" ImageHeight="3072" ImageSize="361275"/>
+		<Page DoublePage="False" Image="32" ImageWidth="1988" ImageHeight="3072" ImageSize="381378"/>
+		<Page DoublePage="False" Image="33" ImageWidth="1988" ImageHeight="3072" ImageSize="359118"/>
+		<Page DoublePage="False" Image="34" ImageWidth="1988" ImageHeight="3072" ImageSize="765914"/>
+		<Page DoublePage="True" Image="35" ImageWidth="3976" ImageHeight="3072" ImageSize="915918"/>
+		<Page DoublePage="False" Image="36" ImageWidth="1988" ImageHeight="3072" ImageSize="785560"/>
+		<Page DoublePage="False" Image="37" ImageWidth="1988" ImageHeight="3072" ImageSize="795450"/>
+		<Page DoublePage="True" Image="38" ImageWidth="3976" ImageHeight="3072" ImageSize="1549929"/>
+		<Page DoublePage="False" Image="39" ImageWidth="1988" ImageHeight="3072" ImageSize="967874"/>
+		<Page DoublePage="False" Image="40" ImageWidth="1988" ImageHeight="3072" ImageSize="766694"/>
+		<Page DoublePage="False" Image="41" ImageWidth="1988" ImageHeight="3072" ImageSize="693405"/>
+		<Page DoublePage="False" Image="42" ImageWidth="1988" ImageHeight="3072" ImageSize="782555"/>
+		<Page DoublePage="False" Image="43" ImageWidth="1988" ImageHeight="3072" ImageSize="1210081"/>
+		<Page DoublePage="False" Image="44" ImageWidth="1988" ImageHeight="3072" ImageSize="967930"/>
+		<Page DoublePage="True" Image="45" ImageWidth="3976" ImageHeight="3072" ImageSize="1506782"/>
+		<Page DoublePage="False" Image="46" ImageWidth="1988" ImageHeight="3072" ImageSize="950970"/>
+		<Page DoublePage="False" Image="47" ImageWidth="1988" ImageHeight="3072" ImageSize="638521"/>
+		<Page DoublePage="True" Image="48" ImageWidth="3976" ImageHeight="3072" ImageSize="2179765"/>
+		<Page DoublePage="False" Image="49" ImageWidth="1988" ImageHeight="3072" ImageSize="825571"/>
+		<Page DoublePage="False" Image="50" ImageWidth="1988" ImageHeight="3072" ImageSize="1393798"/>
+		<Page DoublePage="False" Image="51" ImageWidth="1988" ImageHeight="3072" ImageSize="881007"/>
+		<Page DoublePage="False" Image="52" ImageWidth="1988" ImageHeight="3072" ImageSize="988140"/>
+		<Page DoublePage="False" Image="53" ImageWidth="1988" ImageHeight="3072" ImageSize="986432"/>
+		<Page DoublePage="False" Image="54" ImageWidth="1988" ImageHeight="3072" ImageSize="1180450"/>
+		<Page DoublePage="False" Image="55" ImageWidth="1988" ImageHeight="3072" ImageSize="925770"/>
+		<Page DoublePage="False" Image="56" ImageWidth="1988" ImageHeight="3072" ImageSize="1176416"/>
+		<Page DoublePage="False" Image="57" ImageWidth="1988" ImageHeight="3072" ImageSize="734044"/>
+		<Page DoublePage="False" Image="58" ImageWidth="1988" ImageHeight="3072" ImageSize="1477861"/>
+		<Page DoublePage="False" Image="59" ImageWidth="1988" ImageHeight="3072" ImageSize="954630"/>
+		<Page DoublePage="False" Image="60" ImageWidth="1988" ImageHeight="3072" ImageSize="1141253"/>
+		<Page DoublePage="False" Image="61" ImageWidth="1988" ImageHeight="3072" ImageSize="759914"/>
+		<Page DoublePage="False" Image="62" ImageWidth="1988" ImageHeight="3072" ImageSize="682810"/>
+		<Page DoublePage="False" Image="63" ImageWidth="1988" ImageHeight="3072" ImageSize="879035"/>
+		<Page DoublePage="False" Image="64" ImageWidth="1988" ImageHeight="3072" ImageSize="954084"/>
+		<Page DoublePage="False" Image="65" ImageWidth="1988" ImageHeight="3072" ImageSize="1160368"/>
+		<Page DoublePage="False" Image="66" ImageWidth="2560" ImageHeight="3956" ImageSize="817957"/>
+		<Page Image="67" ImageSize="1272738"/>
+	</Pages>
+	<Penciller>Bulent Hasan</Penciller>
+	<Publisher>Crazy Pencil Comics</Publisher>
+	<Series>Black Project</Series>
+	<Summary>Genetic Drift
+
+Alone, hungry, cold, and tired of running, Jack is now on the run from the Nexus, it seems that there isn't anywhere that he could go without being found. After hiding at a Highway Rest Stop, a large triangle craft emerges, Jack tries to fight off the swarm of Agents that appear, and with the fear and anger building up inside, he unleashes a new explosive ability! After blacking out, he wakes up to find himself in a mysterious facility, surrounded by Agents, and their leader, AMON, a short, very old, arrogant genius who created the Agents. Jack finds himself in the lion's den, with no way out.
+
+This chapter picks up where we left off, diving even more into the myth and history that is UFO's, conspiracy theories, mythical Men In Black, secret government experiments, all while Jack discovers more about himself and the mysterious object that calls to him...</Summary>
+	<Title>Chapter Three: Genetic Drift</Title>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/black-project-3-chapter-three-genetic-drift/4000-657227/</Web>
+	<Writer>Bulent Hasan,Josh Whittall</Writer>
+	<Year>2018</Year>
+</ComicInfo>

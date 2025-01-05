@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Dorothy Gale</Characters>
+  <Colorist>Kate Finnegan</Colorist>
+  <Count>6</Count>
+  <GTIN>urn:comicvine:4000-303371</GTIN>
+  <Letterer>HDE</Letterer>
+  <Locations>Oz</Locations>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:32:11 [Issue ID 4000-303371] urn:comicvine:4000-303371
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 23:17:37. [Issue ID 892627]</Notes>
+  <Number>1</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2191833" Type="FrontCover" />
+    <Page Image="1" ImageSize="1282018" />
+    <Page Image="2" ImageSize="1102434" />
+    <Page Image="3" ImageSize="1003674" />
+    <Page Image="4" ImageSize="1269139" />
+    <Page Image="5" ImageSize="944184" />
+    <Page Image="6" ImageSize="1439117" />
+    <Page Image="7" ImageSize="1239047" />
+    <Page Image="8" ImageSize="1152422" />
+    <Page Image="9" ImageSize="1170774" />
+    <Page Image="10" ImageSize="1493154" />
+    <Page Image="11" ImageSize="1381311" />
+    <Page Image="12" ImageSize="1024969" />
+    <Page Image="13" ImageSize="1070896" />
+    <Page Image="14" ImageSize="1062866" />
+    <Page Image="15" ImageSize="1644822" />
+    <Page Image="16" ImageSize="1171191" />
+    <Page Image="17" ImageSize="1214125" />
+    <Page Image="18" ImageSize="1041080" />
+    <Page Image="19" ImageSize="1500581" />
+    <Page Image="20" ImageSize="1484425" />
+    <Page Image="21" ImageSize="1170810" />
+    <Page Image="22" ImageSize="1368429" />
+    <Page Image="23" ImageSize="1091561" />
+    <Page Image="24" ImageSize="432417" />
+  </Pages>
+  <Publisher>Big Dog Ink</Publisher>
+  <Series>The Legend of Oz: The Wicked West</Series>
+  <Summary>Take a trip back over the rainbow to an Oz you never knew existed. Dorothy Gale slips on her ruby spurs after falling out of the sky and is sent off to follow the yellow brick road to the Emerald City.
+
+*List of covers and their creators:*
+| Cover | Name    | Creator(s)     | Sidebar Location |
+|-------|---------|----------------|------------------|
+| A     | Cover A | Alisson Borges | 1                |
+| B     | Cover B | Nei Ruffino    | 2                |
+| C     | Cover C | Corey Knaebel  | Missing          |
+| D     | Cover D | Ian Snyder     | Missing          |</Summary>
+  <Teams>Winged Monkeys</Teams>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/the-legend-of-oz-the-wicked-west-1/4000-303371/</Web>
+  <Writer>Tom Hutchison</Writer>
+  <Year>2011</Year>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

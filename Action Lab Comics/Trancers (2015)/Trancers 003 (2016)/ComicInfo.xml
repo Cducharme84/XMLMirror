@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jack Deth</Characters>
+  <Colorist>Marcio Freire</Colorist>
+  <Count>3</Count>
+  <Day>3</Day>
+  <GTIN>urn:comicvine:4000-513703</GTIN>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:21:42 [Issue ID 4000-513703] urn:comicvine:4000-513703
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:02:29. [Issue ID 1529734]</Notes>
+  <Number>3</Number>
+  <PageCount>33</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2173793" Type="FrontCover" />
+    <Page Image="1" ImageSize="1056559" />
+    <Page Image="2" ImageSize="1778008" />
+    <Page Image="3" ImageSize="2098471" />
+    <Page Image="4" ImageSize="1961222" />
+    <Page Image="5" ImageSize="1248843" />
+    <Page Image="6" ImageSize="1103691" />
+    <Page Image="7" ImageSize="1457889" />
+    <Page Image="8" ImageSize="1285994" />
+    <Page Image="9" ImageSize="1503604" />
+    <Page Image="10" ImageSize="1351017" />
+    <Page Image="11" ImageSize="1779898" />
+    <Page Image="12" ImageSize="1780516" />
+    <Page Image="13" ImageSize="1634118" />
+    <Page Image="14" ImageSize="1329049" />
+    <Page Image="15" ImageSize="1491241" />
+    <Page Image="16" ImageSize="1349848" />
+    <Page Image="17" ImageSize="1403991" />
+    <Page Image="18" ImageSize="1625177" />
+    <Page Image="19" ImageSize="1578336" />
+    <Page Image="20" ImageSize="1337635" />
+    <Page Image="21" ImageSize="1952138" />
+    <Page Image="22" ImageSize="1396188" />
+    <Page Image="23" ImageSize="1769023" />
+    <Page Image="24" ImageSize="371376" />
+    <Page Image="25" ImageSize="1040686" />
+    <Page Image="26" ImageSize="1508601" />
+    <Page Image="27" ImageSize="2192467" />
+    <Page Image="28" ImageSize="1368528" />
+    <Page Image="29" ImageSize="1629725" />
+    <Page Image="30" ImageSize="1063859" />
+    <Page Image="31" ImageSize="2159003" />
+    <Page Image="32" ImageSize="132240" />
+  </Pages>
+  <Publisher>Action Lab Comics</Publisher>
+  <Series>Trancers</Series>
+  <Summary>Time-traveling Trooper Jack Deth has defied the odds time and time again, but this might be his last stand against Whistler's mind-controlled minions! Does Jack still have a few tricks up his sleeve? Find out here!
+
+*List of covers and their creators:*
+| Cover | Name                       | Creator(s)     | Sidebar Location |
+|-------|----------------------------|----------------|------------------|
+| Reg   | Regular Cover              | Marcelo Salaza | 1                |
+| Var   | Movie Poster Variant Cover | ?              | 2                |</Summary>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/trancers-3/4000-513703/</Web>
+  <Writer>Jimmy Palmiotti,Justin Gray</Writer>
+  <Year>2016</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <Editor>William Christensen</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-290965</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:31:37 [Issue ID 4000-290965] urn:comicvine:4000-290965 urn:grandcomicsdatabase:issue/290965
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:08:00. [Issue ID 290965]</Notes>
+  <Number>2</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="334126" Type="FrontCover" />
+    <Page Image="1" ImageSize="332594" />
+    <Page Image="2" ImageSize="342440" />
+    <Page Image="3" ImageSize="344286" />
+    <Page Image="4" ImageSize="327990" />
+    <Page Image="5" ImageSize="354735" />
+    <Page Image="6" ImageSize="362438" />
+    <Page Image="7" ImageSize="361347" />
+    <Page Image="8" ImageSize="331159" />
+    <Page Image="9" ImageSize="269335" />
+    <Page Image="10" ImageSize="371507" />
+    <Page Image="11" ImageSize="342887" />
+    <Page Image="12" ImageSize="342752" />
+    <Page Image="13" ImageSize="442599" />
+    <Page Image="14" ImageSize="346581" />
+    <Page Image="15" ImageSize="392159" />
+    <Page Image="16" ImageSize="277522" />
+    <Page Image="17" ImageSize="431983" />
+    <Page Image="18" ImageSize="412575" />
+    <Page Image="19" ImageSize="420492" />
+    <Page Image="20" ImageSize="335594" />
+    <Page Image="21" ImageSize="329237" />
+    <Page Image="22" ImageSize="388060" />
+    <Page Image="23" ImageSize="360131" />
+    <Page Image="24" ImageSize="358036" />
+    <Page Image="25" ImageSize="195919" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Rich Johnston's Holed Up</Series>
+  <Summary>There was a two year publishing gap between issues #2 and #3.</Summary>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-290965/</Web>
+  <Writer>Rich Johnston</Writer>
+  <Year>2004</Year>
+</ComicInfo>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Tox Four,Tox Two,Tox Three,Tox Five,Tox One,Urth</Characters>
+  <Colorist>Scott Rockwell,Scott Rockwell</Colorist>
+  <GTIN>urn:comicvine:4000-38427</GTIN>
+  <Inker>Nelson Luty,Walter Mcdaniel,Nelson Luty</Inker>
+  <Letterer>Ken Bruzenak,Ken Bruzenak</Letterer>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:45:20 [Issue ID 4000-38427] urn:comicvine:4000-38427
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 19:59:01. [Issue ID 54331]</Notes>
+  <Number>4</Number>
+  <PageCount>29</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1526" ImageSize="575078" ImageWidth="992" Type="FrontCover" />
+    <Page Image="1" ImageSize="1195449" />
+    <Page Image="2" ImageSize="758851" />
+    <Page Image="3" ImageSize="667935" />
+    <Page Image="4" ImageSize="1116761" />
+    <Page Image="5" ImageSize="659370" />
+    <Page Image="6" ImageSize="681624" />
+    <Page Image="7" ImageSize="645910" />
+    <Page Image="8" ImageSize="613822" />
+    <Page Image="9" ImageSize="648724" />
+    <Page Image="10" ImageSize="578902" />
+    <Page Image="11" ImageSize="1246852" />
+    <Page Image="12" ImageSize="529824" />
+    <Page Image="13" ImageSize="595254" />
+    <Page Image="14" ImageSize="1309982" />
+    <Page Image="15" ImageSize="1296096" />
+    <Page Image="16" ImageSize="593793" />
+    <Page Image="17" ImageSize="589035" />
+    <Page Image="18" ImageSize="1169202" />
+    <Page Image="19" ImageSize="603366" />
+    <Page Image="20" ImageSize="808955" />
+    <Page Image="21" ImageSize="1092731" />
+    <Page Image="22" ImageSize="413858" />
+    <Page Image="23" ImageSize="758141" />
+    <Page Image="24" ImageSize="666454" />
+    <Page Image="25" ImageSize="766407" />
+    <Page Image="26" ImageSize="795073" />
+    <Page Image="27" ImageSize="834170" />
+    <Page Image="28" ImageSize="530619" />
+  </Pages>
+  <Penciller>Walter Mcdaniel,Walter McDaniels,Walter McDaniels</Penciller>
+  <Publisher>Continuity</Publisher>
+  <Series>Earth 4</Series>
+  <Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-27 23:43:46.  [CVDB38427]
+
+https://comicvine.gamespot.com/earth-4-4/4000-38427/</Summary>
+  <Tags>Urth</Tags>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/earth-4-4/4000-38427/</Web>
+  <Writer>Jack C. Harris,Peter Stone,Jack Harris,Peter Stone,Jack Harris</Writer>
+  <Year>1994</Year>
+  <Count>4</Count>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

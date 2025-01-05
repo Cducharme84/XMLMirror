@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>4</Count>
+	<Country>US</Country>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-275167</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Andres Guinaldo</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:46:13 [Issue ID 4000-275167] urn:comicvine:4000-275167 urn:grandcomicsdatabase:issue/275167</Notes>
+	<Number>1</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="712806" Type="FrontCover"/>
+		<Page Image="1" ImageSize="950423"/>
+		<Page Image="2" ImageSize="293040"/>
+		<Page Image="3" ImageSize="332769"/>
+		<Page Image="4" ImageSize="289759"/>
+		<Page Image="5" ImageSize="295552"/>
+		<Page Image="6" ImageSize="180538"/>
+		<Page Image="7" ImageSize="289463"/>
+		<Page Image="8" ImageSize="274218"/>
+		<Page Image="9" ImageSize="290558"/>
+		<Page Image="10" ImageSize="305140"/>
+		<Page Image="11" ImageSize="259984"/>
+		<Page Image="12" ImageSize="272535"/>
+		<Page Image="13" ImageSize="324723"/>
+		<Page Image="14" ImageSize="317311"/>
+		<Page Image="15" ImageSize="354562"/>
+		<Page Image="16" ImageSize="330928"/>
+		<Page Image="17" ImageSize="280208"/>
+		<Page Image="18" ImageSize="621477"/>
+		<Page Image="19" ImageSize="678772"/>
+		<Page Image="20" ImageSize="297714"/>
+		<Page Image="21" ImageSize="325705"/>
+		<Page Image="22" ImageSize="332068"/>
+		<Page Image="23" ImageSize="316495"/>
+		<Page Image="24" ImageSize="721341"/>
+	</Pages>
+	<Penciller>Andres Guinaldo</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Joe R. Lansdale's The Drive-In</Series>
+	<Summary>Each issue has two covers. A regular cover and a wrap-around cover with totally different art.Act One: The All-Night Horror Show (With Popcorn And Comet): Some outside force has cut the Drive-In off from the outside world.  Anybody who tries to leave dies.</Summary>
+	<Title>Act One: The All-Night Horror Show (With Popcorn And Comet)</Title>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-275167/</Web>
+	<Writer>Joe R. Lansdale</Writer>
+	<Year>2003</Year>
+</ComicInfo>

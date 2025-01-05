@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>2</Count>
+	<Format>Limited Series</Format>
+	<Genre>Horror</Genre>
+	<Inker>Juan Romera</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-30T19:16:24</Notes>
+	<Number>1</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3935" ImageSize="407456" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3935" ImageSize="54666"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2559" ImageHeight="3935" ImageSize="665158"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2559" ImageHeight="3935" ImageSize="790090"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2559" ImageHeight="3935" ImageSize="676764"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2559" ImageHeight="3935" ImageSize="786500"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2559" ImageHeight="3935" ImageSize="740514"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2559" ImageHeight="3935" ImageSize="604042"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2559" ImageHeight="3935" ImageSize="527814"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2559" ImageHeight="3935" ImageSize="598680"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2559" ImageHeight="3935" ImageSize="552236"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2559" ImageHeight="3935" ImageSize="572092"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2559" ImageHeight="3935" ImageSize="688548"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2559" ImageHeight="3935" ImageSize="607696"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2559" ImageHeight="3935" ImageSize="891260"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2559" ImageHeight="3935" ImageSize="738592"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2559" ImageHeight="3935" ImageSize="774994"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2559" ImageHeight="3935" ImageSize="767030"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2559" ImageHeight="3935" ImageSize="853516"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2559" ImageHeight="3935" ImageSize="639858"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2559" ImageHeight="3935" ImageSize="605732"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2559" ImageHeight="3935" ImageSize="729144"/>
+		<Page Image="22" ImageSize="81780"/>
+	</Pages>
+	<Penciller>Juan Romera</Penciller>
+	<Publisher>Steve Urina</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>Slow Pokes</Series>
+	<Summary>Slow Pokes is a comic book that answers the question of what would happen if Sloths were fast? They'd be killing machines of course!</Summary>
+	<Volume>2020</Volume>
+	<Writer>Steve Urena</Writer>
+	<Year>2020</Year>
+</ComicInfo>

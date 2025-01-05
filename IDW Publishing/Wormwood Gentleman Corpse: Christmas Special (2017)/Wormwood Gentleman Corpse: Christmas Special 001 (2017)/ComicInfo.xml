@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Santa Claus,Wormwood</Characters>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-647705</GTIN>
+	<Inker>Ben Templesmith</Inker>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:48:46 [Issue ID 4000-647705] urn:comicvine:4000-647705</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="3514283" Type="FrontCover"/>
+		<Page Image="1" ImageSize="929156"/>
+		<Page Image="2" ImageSize="2556192"/>
+		<Page Image="3" ImageSize="2614315"/>
+		<Page Image="4" ImageSize="1880675"/>
+		<Page Image="5" ImageSize="2282035"/>
+		<Page Image="6" ImageSize="2778303"/>
+		<Page Image="7" ImageSize="2844531"/>
+		<Page Image="8" ImageSize="2862093"/>
+		<Page Image="9" ImageSize="2528930"/>
+		<Page Image="10" ImageSize="2694777"/>
+		<Page Image="11" ImageSize="2464410"/>
+		<Page Image="12" ImageSize="2974568"/>
+		<Page Image="13" ImageSize="3260701"/>
+		<Page Image="14" ImageSize="3051769"/>
+		<Page Image="15" ImageSize="2956794"/>
+		<Page Image="16" ImageSize="2900069"/>
+		<Page Image="17" ImageSize="3086225"/>
+		<Page Image="18" ImageSize="3061386"/>
+		<Page Image="19" ImageSize="3165257"/>
+		<Page Image="20" ImageSize="3288318"/>
+		<Page Image="21" ImageSize="3631870"/>
+		<Page Image="22" ImageSize="2737304"/>
+		<Page Image="23" ImageSize="2532428"/>
+	</Pages>
+	<Penciller>Ben Templesmith</Penciller>
+	<Publisher>IDW Publishing</Publisher>
+	<Series>Wormwood Gentleman Corpse: Christmas Special</Series>
+	<Summary>All is not well in the far north. As the Arctic slowly melts, automation increases, and labor costs go through the roof, CEO Claus is under increasing pressure to answer to his stockholders and his lenders. Rebellion is in the air and only Wormwood can potentially come in to help—and hopefully not bugger it up too much.
+
+*List of covers and their creators:*
+ Cover | Name                          | Creator(s)      | Sidebar Location |
+-------------------------------------------------------------------------
+ A     | Cover A                       | Ben Templesmith | 1                |
+ B     | Cover B                       | Ben Templesmith | 2                |
+ RI    | 1:10 Retailer Incentive Cover | Ben Templesmith | 3                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-11 19:16:15.  [CVDB647705]
+
+https://comicvine.gamespot.com/wormwood-gentleman-corpse-christmas-special-1/4000-647705/</Summary>
+	<Tags>Santa Claus,Wormwood</Tags>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/wormwood-gentleman-corpse-christmas-special-1/4000-647705/</Web>
+	<Writer>Ben Templesmith</Writer>
+	<Year>2017</Year>
+</ComicInfo>

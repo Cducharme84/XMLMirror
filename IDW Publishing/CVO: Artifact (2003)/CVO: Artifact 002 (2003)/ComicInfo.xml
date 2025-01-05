@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Benny,Bools,Britt,Cross</Characters>
+	<Day>1</Day>
+	<Editor>Kris Oprisko</Editor>
+	<GTIN>urn:comicvine:4000-263438</GTIN>
+	<Letterer>Cindy Chapman,Robbie Robbins</Letterer>
+	<Locations>Italy,Russia</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:58:35 [Issue ID 4000-263438] urn:comicvine:4000-263438</Notes>
+	<Number>2</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="320529" Type="FrontCover"/>
+		<Page Image="1" ImageSize="313354"/>
+		<Page Image="2" ImageSize="396923"/>
+		<Page Image="3" ImageSize="458671"/>
+		<Page Image="4" ImageSize="436110"/>
+		<Page Image="5" ImageSize="761321"/>
+		<Page Image="6" ImageSize="443294"/>
+		<Page Image="7" ImageSize="505877"/>
+		<Page Image="8" ImageSize="453917"/>
+		<Page Image="9" ImageSize="447530"/>
+		<Page Image="10" ImageSize="476531"/>
+		<Page Image="11" ImageSize="412430"/>
+		<Page Image="12" ImageSize="467787"/>
+		<Page Image="13" ImageSize="391399"/>
+		<Page Image="14" ImageSize="406968"/>
+		<Page Image="15" ImageSize="346698"/>
+		<Page Image="16" ImageSize="471940"/>
+		<Page Image="17" ImageSize="464361"/>
+		<Page Image="18" ImageSize="401400"/>
+		<Page Image="19" ImageSize="432186"/>
+		<Page Image="20" ImageSize="411173"/>
+		<Page Image="21" ImageSize="354383"/>
+		<Page Image="22" ImageSize="406692"/>
+		<Page Image="23" ImageSize="437236"/>
+		<Page Image="24" ImageSize="634414"/>
+		<Page Image="25" ImageSize="59639"/>
+	</Pages>
+	<Publisher>IDW Publishing</Publisher>
+	<Series>CVO: Artifact</Series>
+	<Summary>The CVO team locate their missing member and learn more about the enemy team. Meanwhile, the enemy team continues their work on unlocking the powers of the artifact.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-14 21:59:28.  [CVDB263438]
+
+https://comicvine.gamespot.com/cvo-artifact-2-2/4000-263438/</Summary>
+	<Tags>Benny,Bools,Britt,CVO: Covert Vampiric Operations,Cross,Italy,Russia,Vampires,Zombies</Tags>
+	<Teams>CVO: Covert Vampiric Operations,Vampires,Zombies</Teams>
+	<Title>2</Title>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/cvo-artifact-2-2/4000-263438/</Web>
+	<Writer>Jeff Mariotte</Writer>
+	<Year>2003</Year>
+</ComicInfo>

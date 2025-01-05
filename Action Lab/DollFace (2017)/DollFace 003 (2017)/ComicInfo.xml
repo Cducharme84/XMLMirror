@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Dollface,Emily,Ivan Rodriguez,Janey Belle</Characters>
+	<Count>16</Count>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-588418</GTIN>
+	<Letterer>Adam Wollet</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:19:26 [Issue ID 4000-588418] urn:comicvine:4000-588418</Notes>
+	<Number>3</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="942292" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1467814"/>
+		<Page Image="2" ImageSize="951080"/>
+		<Page Image="3" ImageSize="1477659"/>
+		<Page Image="4" ImageSize="1167391"/>
+		<Page Image="5" ImageSize="1640753"/>
+		<Page Image="6" ImageSize="1139046"/>
+		<Page Image="7" ImageSize="946232"/>
+		<Page Image="8" ImageSize="1045063"/>
+		<Page Image="9" ImageSize="1169197"/>
+		<Page Image="10" ImageSize="1265177"/>
+		<Page Image="11" ImageSize="1227903"/>
+		<Page Image="12" ImageSize="1100403"/>
+		<Page Image="13" ImageSize="1292089"/>
+		<Page Image="14" ImageSize="1073863"/>
+		<Page Image="15" ImageSize="1280431"/>
+		<Page Image="16" ImageSize="861680"/>
+		<Page Image="17" ImageSize="1217103"/>
+		<Page Image="18" ImageSize="1314247"/>
+		<Page Image="19" ImageSize="1330393"/>
+		<Page Image="20" ImageSize="878737"/>
+		<Page Image="21" ImageSize="1174982"/>
+		<Page Image="22" ImageSize="1270939"/>
+		<Page Image="23" ImageSize="1187035"/>
+		<Page Image="24" ImageSize="132240"/>
+	</Pages>
+	<Publisher>Action Lab</Publisher>
+	<Series>DollFace</Series>
+	<Summary>DollFace and company finally arrived to their destination of the mystical necronomicon book. But will Zombie Tramp hand it over without a fight?
+
+*List of covers and their creators:*
+| Cover | Name                                            | Creator(s)      | Sidebar Location |
+|-------|-------------------------------------------------|-----------------|------------------|
+| A     | Cover A                                         | Dan Mendoza     | 1                |
+| B     | Tattered &amp; Torn Cover B, Limited to 2000        | Dan Mendoza     | 2                |
+| C     | Pin-Up Cover C, Limited to 1500                 | Bill McKay      | 3                |
+| D     | Pin-Up Tattered &amp; Torn Cover D, Limited to 2000 | Bill McKay      | 4                |
+| E     | Artist Pin-Up Cover E, Limited to 1500          | Xenia           | 5                |
+| F     | Artist Pin-Up Cover F, Limited to 1500          | Victoria Harris | 6                |</Summary>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/dollface-3/4000-588418/</Web>
+	<Writer>Bryan Seaton</Writer>
+	<Year>2017</Year>
+</ComicInfo>

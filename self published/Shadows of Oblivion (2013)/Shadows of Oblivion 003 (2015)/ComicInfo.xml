@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Cerberus,Lieutenant,WarAngel</Characters>
+	<Count>5</Count>
+	<CoverArtist>Brooke Clayton,Julia Senecal,Shawn McCauley</CoverArtist>
+	<Day>31</Day>
+	<Editor>Lilly Avonlea</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-886012</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Brooke Clayton,Shawn McCauley</Inker>
+	<Letterer>Shawn McCauley</Letterer>
+	<Locations>Alesia,Bibricate</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-25T22:59:22 [Issue ID 4000-886012] urn:comicvine:4000-886012</Notes>
+	<Number>3</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="1629206" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="2740118"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="2119293"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="3443842"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="2234862"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="1967993"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="3075626"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="3223543"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="2871039"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="3143724"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="3140627"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="2799176"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="3086335"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="2747782"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="2905962"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="3043193"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="2617769"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="2391633"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="2037772"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="2200827"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="2173641"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="2280854"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="1997724"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="2376513"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="2574583"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3840" ImageSize="3112672"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3840" ImageSize="2882556"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3840" ImageSize="2099190"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3840" ImageSize="1551853"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3840" ImageSize="1598797"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3840" ImageSize="1727600"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3840" ImageSize="1695503"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3840" ImageSize="1615723"/>
+		<Page Image="33" ImageSize="2210622"/>
+	</Pages>
+	<Penciller>Brooke Clayton,Shawn McCauley</Penciller>
+	<Publisher>self published</Publisher>
+	<Series>Shadows of Oblivion</Series>
+	<Summary>The Witch of Bibricate
+
+Cerberus and the Lieutenant make their way to the city of Alesia to meet up with the famed WarAngel. They stop to rest in a small town of Bibricate. A seemingly peaceful town. Eerily peaceful. . .
+
+#### List of covers and their creators:
+| Cover | Name          | Creator(s)                     | Sidebar Location |
+|-------|---------------|--------------------------------|------------------|
+| Reg   | Regular Cover | Shawn McCauley                 | 1                |
+| Var   | Variant Cover | Brooke Clayton &amp; Julia Senecal | Missing          |</Summary>
+	<Title>The Witch of Bibricate</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/shadows-of-oblivion-4-the-gears-of-angels/4000-886012/</Web>
+	<Writer>Shawn McCauley</Writer>
+	<Year>2015</Year>
+</ComicInfo>

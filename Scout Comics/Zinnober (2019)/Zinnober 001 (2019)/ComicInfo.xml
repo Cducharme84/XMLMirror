@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Andrew,Claire,James</Characters>
+	<Colorist>Ilaria Fella</Colorist>
+	<Day>7</Day>
+	<GTIN>urn:comicvine:4000-702520</GTIN>
+	<Inker>Cristian Docolomansky,Ralf Singh</Inker>
+	<Letterer>Taylor Esposito</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:14:39 [Issue ID 4000-702520] urn:comicvine:4000-702520</Notes>
+	<Number>1</Number>
+	<PageCount>161</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1099140" Type="FrontCover"/>
+		<Page Image="1" ImageSize="312414"/>
+		<Page Image="2" ImageSize="463985"/>
+		<Page Image="3" ImageSize="1167224"/>
+		<Page Image="4" ImageSize="810493"/>
+		<Page Image="5" ImageSize="790963"/>
+		<Page Image="6" ImageSize="915545"/>
+		<Page Image="7" ImageSize="908474"/>
+		<Page Image="8" ImageSize="2156120"/>
+		<Page Image="9" ImageSize="971441"/>
+		<Page Image="10" ImageSize="1115827"/>
+		<Page Image="11" ImageSize="2143140"/>
+		<Page Image="12" ImageSize="1364485"/>
+		<Page Image="13" ImageSize="971160"/>
+		<Page Image="14" ImageSize="822313"/>
+		<Page Image="15" ImageSize="828982"/>
+		<Page Image="16" ImageSize="761652"/>
+		<Page Image="17" ImageSize="828451"/>
+		<Page Image="18" ImageSize="871077"/>
+		<Page Image="19" ImageSize="813396"/>
+		<Page Image="20" ImageSize="780012"/>
+		<Page Image="21" ImageSize="781814"/>
+		<Page Image="22" ImageSize="880256"/>
+		<Page Image="23" ImageSize="750008"/>
+		<Page Image="24" ImageSize="332929"/>
+		<Page Image="25" ImageSize="168942"/>
+		<Page Image="26" ImageSize="733394"/>
+		<Page Image="27" ImageSize="1045725"/>
+		<Page Image="28" ImageSize="1126218"/>
+		<Page Image="29" ImageSize="1352866"/>
+		<Page Image="30" ImageSize="867992"/>
+		<Page Image="31" ImageSize="787108"/>
+		<Page Image="32" ImageSize="1038372"/>
+		<Page Image="33" ImageSize="1190910"/>
+		<Page Image="34" ImageSize="798675"/>
+		<Page Image="35" ImageSize="801597"/>
+		<Page Image="36" ImageSize="765122"/>
+		<Page Image="37" ImageSize="761517"/>
+		<Page Image="38" ImageSize="768541"/>
+		<Page Image="39" ImageSize="750716"/>
+		<Page Image="40" ImageSize="805615"/>
+		<Page Image="41" ImageSize="938063"/>
+		<Page Image="42" ImageSize="990391"/>
+		<Page Image="43" ImageSize="1152584"/>
+		<Page Image="44" ImageSize="668014"/>
+		<Page Image="45" ImageSize="1906368"/>
+		<Page Image="46" ImageSize="361180"/>
+		<Page Image="47" ImageSize="760164"/>
+		<Page Image="48" ImageSize="727678"/>
+		<Page Image="49" ImageSize="770741"/>
+		<Page Image="50" ImageSize="685786"/>
+		<Page Image="51" ImageSize="739947"/>
+		<Page Image="52" ImageSize="747214"/>
+		<Page Image="53" ImageSize="798039"/>
+		<Page Image="54" ImageSize="657735"/>
+		<Page Image="55" ImageSize="822539"/>
+		<Page Image="56" ImageSize="783409"/>
+		<Page Image="57" ImageSize="796849"/>
+		<Page Image="58" ImageSize="735223"/>
+		<Page Image="59" ImageSize="787946"/>
+		<Page Image="60" ImageSize="720207"/>
+		<Page Image="61" ImageSize="895400"/>
+		<Page Image="62" ImageSize="786897"/>
+		<Page Image="63" ImageSize="749233"/>
+		<Page Image="64" ImageSize="1527708"/>
+		<Page Image="65" ImageSize="813243"/>
+		<Page Image="66" ImageSize="292694"/>
+		<Page Image="67" ImageSize="112929"/>
+		<Page Image="68" ImageSize="947958"/>
+		<Page Image="69" ImageSize="875558"/>
+		<Page Image="70" ImageSize="1139354"/>
+		<Page Image="71" ImageSize="1060372"/>
+		<Page Image="72" ImageSize="1054907"/>
+		<Page Image="73" ImageSize="1109109"/>
+		<Page Image="74" ImageSize="113772"/>
+		<Page Image="75" ImageSize="550009"/>
+		<Page Image="76" ImageSize="627500"/>
+		<Page Image="77" ImageSize="700445"/>
+		<Page Image="78" ImageSize="641954"/>
+		<Page Image="79" ImageSize="647194"/>
+		<Page Image="80" ImageSize="662541"/>
+		<Page Image="81" ImageSize="112411"/>
+		<Page Image="82" ImageSize="1258132"/>
+		<Page Image="83" ImageSize="1056032"/>
+		<Page Image="84" ImageSize="1107863"/>
+		<Page Image="85" ImageSize="1274393"/>
+		<Page Image="86" ImageSize="1029127"/>
+		<Page Image="87" ImageSize="1222915"/>
+		<Page Image="88" ImageSize="118018"/>
+		<Page Image="89" ImageSize="666842"/>
+		<Page Image="90" ImageSize="666585"/>
+		<Page Image="91" ImageSize="709954"/>
+		<Page Image="92" ImageSize="783378"/>
+		<Page Image="93" ImageSize="848113"/>
+		<Page Image="94" ImageSize="391705"/>
+		<Page Image="95" ImageSize="168942"/>
+		<Page Image="96" ImageSize="619510"/>
+		<Page Image="97" ImageSize="1951793"/>
+		<Page Image="98" ImageSize="787939"/>
+		<Page Image="99" ImageSize="899297"/>
+		<Page Image="100" ImageSize="891833"/>
+		<Page Image="101" ImageSize="929025"/>
+		<Page Image="102" ImageSize="1581464"/>
+		<Page Image="103" ImageSize="950074"/>
+		<Page Image="104" ImageSize="985120"/>
+		<Page Image="105" ImageSize="738572"/>
+		<Page Image="106" ImageSize="989678"/>
+		<Page Image="107" ImageSize="680955"/>
+		<Page Image="108" ImageSize="966446"/>
+		<Page Image="109" ImageSize="1344039"/>
+		<Page Image="110" ImageSize="883328"/>
+		<Page Image="111" ImageSize="899936"/>
+		<Page Image="112" ImageSize="1194107"/>
+		<Page Image="113" ImageSize="308285"/>
+		<Page Image="114" ImageSize="168942"/>
+		<Page Image="115" ImageSize="773656"/>
+		<Page Image="116" ImageSize="1676598"/>
+		<Page Image="117" ImageSize="1005036"/>
+		<Page Image="118" ImageSize="963306"/>
+		<Page Image="119" ImageSize="948994"/>
+		<Page Image="120" ImageSize="888341"/>
+		<Page Image="121" ImageSize="1028726"/>
+		<Page Image="122" ImageSize="725284"/>
+		<Page Image="123" ImageSize="886888"/>
+		<Page Image="124" ImageSize="869096"/>
+		<Page Image="125" ImageSize="754728"/>
+		<Page Image="126" ImageSize="990045"/>
+		<Page Image="127" ImageSize="1008114"/>
+		<Page Image="128" ImageSize="890833"/>
+		<Page Image="129" ImageSize="956412"/>
+		<Page Image="130" ImageSize="864520"/>
+		<Page Image="131" ImageSize="1021997"/>
+		<Page Image="132" ImageSize="845383"/>
+		<Page Image="133" ImageSize="590713"/>
+		<Page Image="134" ImageSize="407482"/>
+		<Page Image="135" ImageSize="168942"/>
+		<Page Image="136" ImageSize="848262"/>
+		<Page Image="137" ImageSize="764611"/>
+		<Page Image="138" ImageSize="722217"/>
+		<Page Image="139" ImageSize="918808"/>
+		<Page Image="140" ImageSize="866220"/>
+		<Page Image="141" ImageSize="896842"/>
+		<Page Image="142" ImageSize="763088"/>
+		<Page Image="143" ImageSize="831596"/>
+		<Page Image="144" ImageSize="825899"/>
+		<Page Image="145" ImageSize="845720"/>
+		<Page Image="146" ImageSize="947063"/>
+		<Page Image="147" ImageSize="756116"/>
+		<Page Image="148" ImageSize="784857"/>
+		<Page Image="149" ImageSize="818697"/>
+		<Page Image="150" ImageSize="656479"/>
+		<Page Image="151" ImageSize="2464022"/>
+		<Page Image="152" ImageSize="967786"/>
+		<Page Image="153" ImageSize="903708"/>
+		<Page Image="154" ImageSize="842816"/>
+		<Page Image="155" ImageSize="810233"/>
+		<Page Image="156" ImageSize="689502"/>
+		<Page Image="157" ImageSize="737401"/>
+		<Page Image="158" ImageSize="829896"/>
+		<Page Image="159" ImageSize="2139459"/>
+		<Page Image="160" ImageSize="1485941"/>
+	</Pages>
+	<Penciller>Ralf Singh</Penciller>
+	<Publisher>Scout Comics</Publisher>
+	<Series>Zinnober</Series>
+	<Summary>Twenty years ago Dragons returned to earth and laid waste to human civilization. In the event Claire, then a young girl, lost her parents to these primeval creatures. Today, she's hell-bent on avenging the death of her family. But will the skills she was taught by her foster-father, the troubled ex-marine James, be enough to fight an unstoppable enemy older than earth itself? Will the knowledge of her newest ally, the young scientist Andrew, bring her even closer to her goal? And what role will the mysterious Followers, a cult of mad dragon worshippers, play in all of this? Collecting the seven issue series.
+
+https://comicvine.gamespot.com/zinnober-1-volume-1/4000-702520/</Summary>
+	<Tags>Andrew,Claire,Dragons,James</Tags>
+	<Teams>Dragons</Teams>
+	<Title>Volume 1</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/zinnober-1-volume-1/4000-702520/</Web>
+	<Writer>Ralf Singh,Thorsten Brochhaus</Writer>
+	<Year>2019</Year>
+</ComicInfo>

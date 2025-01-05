@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Drusilla,Angel,Buffy</Characters>
+  <Colorist>Cris Peter,Cris Peter</Colorist>
+  <Day>11</Day>
+  <Editor>Gavin Gronenthal,Jeanine Schaefer,Jonathan Manning</Editor>
+  <GTIN>urn:comicvine:4000-730295</GTIN>
+  <Genre>Horror-suspense</Genre>
+  <Inker>Eleonora Carlini,Eleonora Carlini</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Ed Dukeshire,Ed Dukeshire</Letterer>
+  <Locations>Sunnydale</Locations>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:49:05 [Issue ID 4000-730295] urn:comicvine:4000-730295
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 06:00:53. [Issue ID 2052808]</Notes>
+  <Number>3</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="2235998" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="92589" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1879764" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="2205859" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2059300" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="893890" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="485137" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1899317" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1738795" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="2395454" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1782768" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="7260511" ImageWidth="3976" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1671403" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1462999" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1628323" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1630960" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1656773" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1633077" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="2048350" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2187609" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="1698415" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1926962" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1783982" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1716931" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1486877" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1282172" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1746757" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="2462496" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1872746" ImageWidth="1988" />
+    <Page Image="29" ImageSize="1444681" />
+  </Pages>
+  <Penciller>Eleonora Carlini,Eleonora Carlini</Penciller>
+  <Publisher>Boom! Studios</Publisher>
+  <ScanInformation>Kileko-Empire</ScanInformation>
+  <Series>Hellmouth</Series>
+  <Summary>Angel and Buffy are on a mission to find the Mistress and close the Hellmouth - but will they turn on one another first? And is Drusilla the true evil behind the Hellmouth, or if there is another, even more powerful, that they should be worried about? Spoiler: there is.
+
+*List of covers and their creators:*
+ Cover | Name                       | Creator(s)    | Sidebar Location |
+--------------------------------------------------------------------
+ Reg   | Regular Cover              | Jenny Frison  | 1                |
+ Var   | Hellmouth Connecting Cover | Jakub Rebelka | 2                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-10 09:31:39.  [CVDB730295]
+
+https://comicvine.gamespot.com/hellmouth-3/4000-730295/</Summary>
+  <Tags>Slayers,Hellmouth,Sunnydale,Drusilla,Buffy,Vampires,Angel</Tags>
+  <Teams>Vampires,Slayers</Teams>
+  <Volume>2019</Volume>
+  <Web>https://comicvine.gamespot.com/hellmouth-3/4000-730295/</Web>
+  <Writer>Jeremy Lambert,Jordie Bellaire,Jordie Bellaire,Jeremy Lambert</Writer>
+  <Year>2019</Year>
+  <Count>5</Count>
+  <Format>Limited Series</Format>
+</ComicInfo>

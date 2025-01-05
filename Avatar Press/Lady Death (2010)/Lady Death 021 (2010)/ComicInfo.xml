@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Lady Death</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-355891</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Hell</Locations>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:42 [Issue ID 4000-355891] urn:comicvine:4000-355891 urn:grandcomicsdatabase:issue/998045
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:42:49. [Issue ID 998045]</Notes>
+  <Number>21</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1629790" Type="FrontCover" />
+    <Page Image="1" ImageSize="611973" />
+    <Page Image="2" ImageSize="1910304" />
+    <Page Image="3" ImageSize="4804780" />
+    <Page Image="4" ImageSize="1863309" />
+    <Page Image="5" ImageSize="1991160" />
+    <Page Image="6" ImageSize="2041410" />
+    <Page Image="7" ImageSize="2054896" />
+    <Page Image="8" ImageSize="2195078" />
+    <Page Image="9" ImageSize="2160822" />
+    <Page Image="10" ImageSize="2153274" />
+    <Page Image="11" ImageSize="2071145" />
+    <Page Image="12" ImageSize="2015072" />
+    <Page Image="13" ImageSize="1966415" />
+    <Page Image="14" ImageSize="1740655" />
+    <Page Image="15" ImageSize="2028011" />
+    <Page Image="16" ImageSize="2044221" />
+    <Page Image="17" ImageSize="1796838" />
+    <Page Image="18" ImageSize="2103926" />
+    <Page Image="19" ImageSize="2641527" />
+    <Page Image="20" ImageSize="2032385" />
+    <Page Image="21" ImageSize="2119809" />
+    <Page Image="22" ImageSize="2641058" />
+    <Page Image="23" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-355891/</Web>
+  <Year>2010</Year>
+</ComicInfo>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>4</Count>
+	<Format>Limited Series</Format>
+	<Genre>Anthology,Horror</Genre>
+	<Inker>Vlad Vov</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-01T18:58:24</Notes>
+	<Number>1</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3961" ImageSize="624394" Type="FrontCover"/>
+		<Page DoublePage="True" Image="1" ImageWidth="5120" ImageHeight="3961" ImageSize="229894"/>
+		<Page DoublePage="True" Image="2" ImageWidth="5120" ImageHeight="3961" ImageSize="2381948"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3961" ImageSize="694000"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3961" ImageSize="840930"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3961" ImageSize="1218968"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3961" ImageSize="810778"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3961" ImageSize="1039658"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3961" ImageSize="823638"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3961" ImageSize="1492688"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3961" ImageSize="802656"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3961" ImageSize="1255814"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3961" ImageSize="768700"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3961" ImageSize="822046"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3961" ImageSize="919630"/>
+		<Page DoublePage="True" Image="15" ImageWidth="5120" ImageHeight="3852" ImageSize="2699376"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3961" ImageSize="837866"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3961" ImageSize="1120434"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3961" ImageSize="1018744"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3961" ImageSize="879292"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3961" ImageSize="1036772"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3961" ImageSize="1003498"/>
+		<Page DoublePage="True" Image="22" ImageWidth="5120" ImageHeight="3961" ImageSize="2529164"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3961" ImageSize="962490"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3961" ImageSize="1008738"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3961" ImageSize="1225954"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3961" ImageSize="976000"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3961" ImageSize="1027194"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3961" ImageSize="1026514"/>
+		<Page DoublePage="True" Image="29" ImageWidth="5120" ImageHeight="3961" ImageSize="1198788"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3961" ImageSize="993366"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3961" ImageSize="1457712"/>
+		<Page Image="32" ImageSize="1149770"/>
+	</Pages>
+	<Penciller>Vlav Vov</Penciller>
+	<Publisher>Wolven Press</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>Mixology Noir</Series>
+	<Summary>36 pg Horror noir stories inspired by craft cocktails: the people who drink them, the places they are made, and the deeper, twisted ways they affect our lives. NOTE -- these titles are not sequential, but each story is standalone.
+
+After fighting with his wife, a man seeking a drink finds himself in a mysterious bar populated with long-forgotten gods, and quickly learns the price of over-indulgence as their influences interweave with the effects of the alcohol.</Summary>
+	<Volume>2023</Volume>
+	<Writer>Evan Carothers</Writer>
+	<Year>2023</Year>
+</ComicInfo>

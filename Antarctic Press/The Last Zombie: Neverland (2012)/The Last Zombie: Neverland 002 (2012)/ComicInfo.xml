@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>5</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-325316</GTIN>
+  <Inker>Fred Perry</Inker>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:09:27 [Issue ID 4000-325316] urn:comicvine:4000-325316
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 01:24:28. [Issue ID 1052319]</Notes>
+  <Number>2</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1334951" Type="FrontCover" />
+    <Page Image="1" ImageSize="1309036" />
+    <Page Image="2" ImageSize="913587" />
+    <Page Image="3" ImageSize="1091403" />
+    <Page Image="4" ImageSize="1195000" />
+    <Page Image="5" ImageSize="862402" />
+    <Page Image="6" ImageSize="923499" />
+    <Page Image="7" ImageSize="1444287" />
+    <Page Image="8" ImageSize="2084582" />
+    <Page Image="9" ImageSize="1469589" />
+    <Page Image="10" ImageSize="1330924" />
+    <Page Image="11" ImageSize="1143614" />
+    <Page Image="12" ImageSize="1813596" />
+    <Page Image="13" ImageSize="3166615" />
+    <Page Image="14" ImageSize="1558464" />
+    <Page Image="15" ImageSize="958961" />
+    <Page Image="16" ImageSize="1131829" />
+    <Page Image="17" ImageSize="1344052" />
+    <Page Image="18" ImageSize="1006524" />
+    <Page Image="19" ImageSize="1128709" />
+    <Page Image="20" ImageSize="1389673" />
+    <Page Image="21" ImageSize="995038" />
+    <Page Image="22" ImageSize="654819" />
+    <Page Image="23" ImageSize="1143423" />
+    <Page Image="24" ImageSize="1051665" />
+    <Page Image="25" ImageSize="860595" />
+    <Page Image="26" ImageSize="710693" />
+    <Page Image="27" ImageSize="889532" />
+  </Pages>
+  <Penciller>Fred Perry</Penciller>
+  <Publisher>Antarctic Press</Publisher>
+  <Series>The Last Zombie: Neverland</Series>
+  <Summary>Welcome to Neverland, an enclave of children who have survived the zombie apocalypse, apparently without any adult supervision whatsoever. What dark secret do they hold? Meanwhile, Russo and Diaz grow closer, and Doctor Federman’s suspicions about Ian deepen, despite the fact that he seems to have recuperated.</Summary>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/the-last-zombie-neverland-2/4000-325316/</Web>
+  <Writer>Brian Keene</Writer>
+  <Year>2012</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

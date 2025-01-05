@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Blunt,Judge Fire,Judge Fear,Judge Death,Judge Dredd,Judge Storm,Judge Mortis,Metta Lawless</Characters>
+  <Colorist>Domenico Neziti,Dylan Teague,Eva de la Cruz,Jim Boswell</Colorist>
+  <Day>16</Day>
+  <Editor>Matt Smith</Editor>
+  <GTIN>urn:comicvine:4000-703848</GTIN>
+  <Inker>Boo Cook,Dan Cornwell,Davidé Fabbri,Nick Percival,Phil Winslade,Tom Foster</Inker>
+  <Letterer>Annie Parkhouse,Ellie De Ville,Gemma Sheldrake,Simon Bowland</Letterer>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:27:59 [Issue ID 4000-703848] urn:comicvine:4000-703848
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:11:18. [Issue ID 1955774]</Notes>
+  <Number>406</Number>
+  <PageCount>116</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2272452" Type="FrontCover" />
+    <Page Image="1" ImageSize="1167745" />
+    <Page Image="2" ImageSize="1386295" />
+    <Page Image="3" ImageSize="1901492" />
+    <Page Image="4" ImageSize="1787809" />
+    <Page Image="5" ImageSize="1654612" />
+    <Page Image="6" ImageSize="1935172" />
+    <Page Image="7" ImageSize="1861395" />
+    <Page Image="8" ImageSize="1756775" />
+    <Page Image="9" ImageSize="1699454" />
+    <Page Image="10" ImageSize="1678298" />
+    <Page Image="11" ImageSize="1715448" />
+    <Page Image="12" ImageSize="1821440" />
+    <Page Image="13" ImageSize="1658498" />
+    <Page Image="14" ImageSize="1110330" />
+    <Page Image="15" ImageSize="2747634" />
+    <Page Image="16" ImageSize="1917029" />
+    <Page Image="17" ImageSize="2283166" />
+    <Page Image="18" ImageSize="2507511" />
+    <Page Image="19" ImageSize="2737765" />
+    <Page Image="20" ImageSize="2714659" />
+    <Page Image="21" ImageSize="2014366" />
+    <Page Image="22" ImageSize="1538012" />
+    <Page Image="23" ImageSize="1832702" />
+    <Page Image="24" ImageSize="1979621" />
+    <Page Image="25" ImageSize="1481691" />
+    <Page Image="26" ImageSize="1431726" />
+    <Page Image="27" ImageSize="1670433" />
+    <Page Image="28" ImageSize="1691655" />
+    <Page Image="29" ImageSize="1495695" />
+    <Page Image="30" ImageSize="1422891" />
+    <Page Image="31" ImageSize="1454120" />
+    <Page Image="32" ImageSize="1832629" />
+    <Page Image="33" ImageSize="1093513" />
+    <Page Image="34" ImageSize="1238849" />
+    <Page Image="35" ImageSize="1334629" />
+    <Page Image="36" ImageSize="980662" />
+    <Page Image="37" ImageSize="1072907" />
+    <Page Image="38" ImageSize="1281687" />
+    <Page Image="39" ImageSize="1214555" />
+    <Page Image="40" ImageSize="1733883" />
+    <Page Image="41" ImageSize="1949297" />
+    <Page Image="42" ImageSize="1528839" />
+    <Page Image="43" ImageSize="1828729" />
+    <Page Image="44" ImageSize="1648605" />
+    <Page Image="45" ImageSize="1666422" />
+    <Page Image="46" ImageSize="1423601" />
+    <Page Image="47" ImageSize="1222743" />
+    <Page Image="48" ImageSize="1284256" />
+    <Page Image="49" ImageSize="1381944" />
+    <Page Image="50" ImageSize="1559140" />
+    <Page Image="51" ImageSize="1425713" />
+    <Page Image="52" ImageSize="995903" />
+    <Page Image="53" ImageSize="1010836" />
+    <Page Image="54" ImageSize="1066584" />
+    <Page Image="55" ImageSize="940964" />
+    <Page Image="56" ImageSize="1033130" />
+    <Page Image="57" ImageSize="939172" />
+    <Page Image="58" ImageSize="1046880" />
+    <Page Image="59" ImageSize="1142827" />
+    <Page Image="60" ImageSize="831905" />
+    <Page Image="61" ImageSize="666397" />
+    <Page Image="62" ImageSize="1958210" />
+    <Page Image="63" ImageSize="1008805" />
+    <Page Image="64" ImageSize="1203820" />
+    <Page Image="65" ImageSize="827241" />
+    <Page Image="66" ImageSize="1030255" />
+    <Page Image="67" ImageSize="1010493" />
+    <Page Image="68" ImageSize="1048090" />
+    <Page Image="69" ImageSize="1200434" />
+    <Page Image="70" ImageSize="1139687" />
+    <Page Image="71" ImageSize="909520" />
+    <Page Image="72" ImageSize="930032" />
+    <Page Image="73" ImageSize="892646" />
+    <Page Image="74" ImageSize="859811" />
+    <Page Image="75" ImageSize="905878" />
+    <Page Image="76" ImageSize="1043793" />
+    <Page Image="77" ImageSize="867758" />
+    <Page Image="78" ImageSize="826647" />
+    <Page Image="79" ImageSize="861302" />
+    <Page Image="80" ImageSize="936004" />
+    <Page Image="81" ImageSize="938475" />
+    <Page Image="82" ImageSize="901041" />
+    <Page Image="83" ImageSize="770187" />
+    <Page Image="84" ImageSize="954249" />
+    <Page Image="85" ImageSize="1003251" />
+    <Page Image="86" ImageSize="1129888" />
+    <Page Image="87" ImageSize="1050294" />
+    <Page Image="88" ImageSize="1016152" />
+    <Page Image="89" ImageSize="1441084" />
+    <Page Image="90" ImageSize="1381906" />
+    <Page Image="91" ImageSize="1226615" />
+    <Page Image="92" ImageSize="1040055" />
+    <Page Image="93" ImageSize="802888" />
+    <Page Image="94" ImageSize="883863" />
+    <Page Image="95" ImageSize="975048" />
+    <Page Image="96" ImageSize="909380" />
+    <Page Image="97" ImageSize="979785" />
+    <Page Image="98" ImageSize="959079" />
+    <Page Image="99" ImageSize="918850" />
+    <Page Image="100" ImageSize="1216133" />
+    <Page Image="101" ImageSize="1147667" />
+    <Page Image="102" ImageSize="1010120" />
+    <Page Image="103" ImageSize="1178944" />
+    <Page Image="104" ImageSize="1146441" />
+    <Page Image="105" ImageSize="1181128" />
+    <Page Image="106" ImageSize="1123618" />
+    <Page Image="107" ImageSize="1184907" />
+    <Page Image="108" ImageSize="1065788" />
+    <Page Image="109" ImageSize="1037777" />
+    <Page Image="110" ImageSize="1067240" />
+    <Page Image="111" ImageSize="1025582" />
+    <Page Image="112" ImageSize="1139397" />
+    <Page Image="113" ImageSize="687955" />
+    <Page Image="114" ImageSize="749722" />
+    <Page Image="115" ImageSize="352756" />
+  </Pages>
+  <Penciller>Boo Cook,Dan Cornwell,Davidé Fabbri,Nick Percival,Phil Winslade,Tom Foster</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>Cover: Cliff Robinson - Dylan Teague
+
+Judge Dredd - Planted (Part Two) (Rory McConville - Dan Cornwell)Lawless - Ashes To Ashes (Part 7) (Dan Abnett - Phil Winslade)Storm Warning - Green and Pleasant Land (Part Three) (Leah Moore - John Reppion - Tom Foster)Blunt - Blunt II (Part 7) (T.C. Eglington - Boo Cook)The Dark Judges - The Torture Garden (Part Seven) (David Hine - Nick Percival)Graphic Novel - Operation Overlord - The Merville Gun Battery (Bruno Falba - Davidé Fabbri)
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-17 06:27:09.  [Issue ID 703848]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-406-meg-406/4000-703848/</Summary>
+  <Tags>Blunt,Dark Judges,Judge Fire,Judge Fear,Judge Death,Judge Dredd,Judge Storm,Judge Mortis,Metta Lawless</Tags>
+  <Teams>Dark Judges</Teams>
+  <Title>Meg 406</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-406-meg-406/4000-703848/</Web>
+  <Writer>Bruno Falba,Dan Abnett,David Hine,John Reppion,Leah Moore,Rory McConville,T.C. Eglington</Writer>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

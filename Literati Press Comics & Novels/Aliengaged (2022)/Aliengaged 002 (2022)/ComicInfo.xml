@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>3</Count>
+	<Format>Limited Series</Format>
+	<Genre>Comedy,Science Fiction</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-16T20:28:16</Notes>
+	<Number>2</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1989" ImageHeight="3072" ImageSize="602771" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1989" ImageHeight="3072" ImageSize="424937"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1989" ImageHeight="3072" ImageSize="820127"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1989" ImageHeight="3072" ImageSize="948697"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1989" ImageHeight="3072" ImageSize="853651"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1989" ImageHeight="3072" ImageSize="743031"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1989" ImageHeight="3072" ImageSize="947200"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1989" ImageHeight="3072" ImageSize="846373"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1989" ImageHeight="3072" ImageSize="1045171"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1989" ImageHeight="3072" ImageSize="1038947"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1989" ImageHeight="3072" ImageSize="1017524"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1989" ImageHeight="3072" ImageSize="1011396"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1989" ImageHeight="3072" ImageSize="992512"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1989" ImageHeight="3072" ImageSize="1044148"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1989" ImageHeight="3072" ImageSize="849570"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1989" ImageHeight="3072" ImageSize="832668"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1989" ImageHeight="3072" ImageSize="944795"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1989" ImageHeight="3072" ImageSize="918509"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1989" ImageHeight="3072" ImageSize="926945"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1989" ImageHeight="3072" ImageSize="1235282"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1989" ImageHeight="3072" ImageSize="986592"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1989" ImageHeight="3072" ImageSize="820793"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1989" ImageHeight="3072" ImageSize="833824"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1989" ImageHeight="3072" ImageSize="849841"/>
+		<Page DoublePage="False" Image="24" ImageWidth="1989" ImageHeight="3072" ImageSize="665583"/>
+		<Page DoublePage="False" Image="25" ImageWidth="1989" ImageHeight="3072" ImageSize="823609"/>
+		<Page Image="26" ImageSize="1035281"/>
+	</Pages>
+	<Publisher>Literati Press Comics &amp; Novels</Publisher>
+	<Series>Aliengaged</Series>
+	<Summary>As the alien onslaught rages around him, Garrett falls into despair over his botched proposal to Claire and begins to suspect the worst about his best friend, Morris. Meanwhile, Claire faces off the alien threat that has engulfed her entire neighborhood and Morris must escape his parking garage as he embarks on a quest across town to save Garrett.</Summary>
+	<Volume>2022</Volume>
+	<Year>2022</Year>
+</ComicInfo>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>7</Count>
+  <Day>10</Day>
+  <GTIN>urn:comicvine:4000-236036</GTIN>
+  <Inker>Bill Wray,Cam Kennedy,Clive Barker,Greg Irons,Keith Giffen,Mike Hoffman,S. Clay Wilson,Charles Vess,Charles Burns,Bernie Mireault,Eddie Campbell,Stephen R. Bissette,Chester Brown,S. Clay Wilson,Bill Wray,Charles Vess,Mike Hoffman,Charles Burns,Bernie Mireault,Cam Kennedy,Eddie Campbell,Stephen R. Bissette,Keith Giffen,Chester Brown</Inker>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:18:11 [Issue ID 4000-236036] urn:comicvine:4000-236036
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 03:56:15. [Issue ID 364582]</Notes>
+  <Number>1</Number>
+  <PageCount>116</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1231154" Type="FrontCover" />
+    <Page Image="1" ImageSize="1011865" />
+    <Page Image="2" ImageSize="506011" />
+    <Page Image="3" ImageSize="618475" />
+    <Page Image="4" ImageSize="622371" />
+    <Page Image="5" ImageSize="561115" />
+    <Page Image="6" ImageSize="583600" />
+    <Page Image="7" ImageSize="1089334" />
+    <Page Image="8" ImageSize="940922" />
+    <Page Image="9" ImageSize="1244391" />
+    <Page Image="10" ImageSize="1288524" />
+    <Page Image="11" ImageSize="856984" />
+    <Page Image="12" ImageSize="922183" />
+    <Page Image="13" ImageSize="1278044" />
+    <Page Image="14" ImageSize="1176912" />
+    <Page Image="15" ImageSize="1023564" />
+    <Page Image="16" ImageSize="1176449" />
+    <Page Image="17" ImageSize="1312269" />
+    <Page Image="18" ImageSize="1065660" />
+    <Page Image="19" ImageSize="1177696" />
+    <Page Image="20" ImageSize="1173307" />
+    <Page Image="21" ImageSize="1105090" />
+    <Page Image="22" ImageSize="876701" />
+    <Page Image="23" ImageSize="1119025" />
+    <Page Image="24" ImageSize="1214428" />
+    <Page Image="25" ImageSize="928329" />
+    <Page Image="26" ImageSize="1236414" />
+    <Page Image="27" ImageSize="1149449" />
+    <Page Image="28" ImageSize="800586" />
+    <Page Image="29" ImageSize="1005301" />
+    <Page Image="30" ImageSize="1068541" />
+    <Page Image="31" ImageSize="1359933" />
+    <Page Image="32" ImageSize="1195961" />
+    <Page Image="33" ImageSize="1231546" />
+    <Page Image="34" ImageSize="1167092" />
+    <Page Image="35" ImageSize="1336405" />
+    <Page Image="36" ImageSize="1132073" />
+    <Page Image="37" ImageSize="1258532" />
+    <Page Image="38" ImageSize="1325777" />
+    <Page Image="39" ImageSize="928256" />
+    <Page Image="40" ImageSize="1099607" />
+    <Page Image="41" ImageSize="1040128" />
+    <Page Image="42" ImageSize="1060793" />
+    <Page Image="43" ImageSize="966723" />
+    <Page Image="44" ImageSize="559043" />
+    <Page Image="45" ImageSize="896781" />
+    <Page Image="46" ImageSize="846319" />
+    <Page Image="47" ImageSize="1074124" />
+    <Page Image="48" ImageSize="1357770" />
+    <Page Image="49" ImageSize="777505" />
+    <Page Image="50" ImageSize="1086857" />
+    <Page Image="51" ImageSize="1023015" />
+    <Page Image="52" ImageSize="1094094" />
+    <Page Image="53" ImageSize="1054571" />
+    <Page Image="54" ImageSize="1004640" />
+    <Page Image="55" ImageSize="997332" />
+    <Page Image="56" ImageSize="730556" />
+    <Page Image="57" ImageSize="759848" />
+    <Page Image="58" ImageSize="796636" />
+    <Page Image="59" ImageSize="1180630" />
+    <Page Image="60" ImageSize="1201680" />
+    <Page Image="61" ImageSize="979799" />
+    <Page Image="62" ImageSize="917800" />
+    <Page Image="63" ImageSize="922087" />
+    <Page Image="64" ImageSize="1017276" />
+    <Page Image="65" ImageSize="1011716" />
+    <Page Image="66" ImageSize="930842" />
+    <Page Image="67" ImageSize="915256" />
+    <Page Image="68" ImageSize="880951" />
+    <Page Image="69" ImageSize="571485" />
+    <Page Image="70" ImageSize="1197101" />
+    <Page Image="71" ImageSize="1038854" />
+    <Page Image="72" ImageSize="967970" />
+    <Page Image="73" ImageSize="1200769" />
+    <Page Image="74" ImageSize="937273" />
+    <Page Image="75" ImageSize="1142960" />
+    <Page Image="76" ImageSize="1167972" />
+    <Page Image="77" ImageSize="1252631" />
+    <Page Image="78" ImageSize="1368462" />
+    <Page Image="79" ImageSize="1274260" />
+    <Page Image="80" ImageSize="1188806" />
+    <Page Image="81" ImageSize="1139631" />
+    <Page Image="82" ImageSize="696683" />
+    <Page Image="83" ImageSize="587422" />
+    <Page Image="84" ImageSize="963668" />
+    <Page Image="85" ImageSize="882220" />
+    <Page Image="86" ImageSize="990440" />
+    <Page Image="87" ImageSize="948293" />
+    <Page Image="88" ImageSize="393790" />
+    <Page Image="89" ImageSize="660758" />
+    <Page Image="90" ImageSize="1280522" />
+    <Page Image="91" ImageSize="1231209" />
+    <Page Image="92" ImageSize="1159223" />
+    <Page Image="93" ImageSize="1100893" />
+    <Page Image="94" ImageSize="234447" />
+    <Page Image="95" ImageSize="553981" />
+    <Page Image="96" ImageSize="852072" />
+    <Page Image="97" ImageSize="743767" />
+    <Page Image="98" ImageSize="615082" />
+    <Page Image="99" ImageSize="610874" />
+    <Page Image="100" ImageSize="695578" />
+    <Page Image="101" ImageSize="596328" />
+    <Page Image="102" ImageSize="530968" />
+    <Page Image="103" ImageSize="713991" />
+    <Page Image="104" ImageSize="399090" />
+    <Page Image="105" ImageSize="491837" />
+    <Page Image="106" ImageSize="863354" />
+    <Page Image="107" ImageSize="1042233" />
+    <Page Image="108" ImageSize="1045127" />
+    <Page Image="109" ImageSize="996125" />
+    <Page Image="110" ImageSize="849277" />
+    <Page Image="111" ImageSize="877631" />
+    <Page Image="112" ImageSize="1130228" />
+    <Page Image="113" ImageSize="425407" />
+    <Page Image="114" ImageSize="966110" />
+    <Page Image="115" ImageSize="1458523" />
+  </Pages>
+  <Penciller>Bill Wray,Cam Kennedy,Clive Barker,Greg Irons,Keith Giffen,Mike Hoffman,S. Clay Wilson,Charles Vess,Charles Burns,Bernie Mireault,Eddie Campbell,Stephen R. Bissette,Chester Brown,S. Clay Wilson,Bill Wray,Charles Vess,Mike Hoffman,Charles Burns,Bernie Mireault,Cam Kennedy,Eddie Campbell,Stephen R. Bissette,Keith Giffen,Chester Brown</Penciller>
+  <Publisher>Spiderbaby Grafix &amp; Publications</Publisher>
+  <Series>Taboo</Series>
+  <Summary>Horror Anthology containing:
+
+Introduction by Clive Barker
+"Censortivity" by Stephen R. Bissette
+" Kitty Killer Kids" by S. Clay Wilson
+"Come on Down" by Alan Moore &amp; Bill Wray
+"Scarecrow" by Charles Vess
+"Tooth Decay" by Tom Sniegoski &amp; Mike Hoffman
+"Contagious" by Charles Burns
+"Cable" by Bernie Mireault
+"Eyes Without a Face" by Jack Butterworth &amp; Cam Kennedy
+"Throat Sprockets" by Tim Lucas &amp; Mike Hoffman
+"Pyjama Girl" by Eddie Campbell
+"Cottonmouth" by Stephen R. Bissette
+"Chigger and the Man" by Keith Giffen &amp; Robert Fleming
+"Dirk the Gerbil" by Chester Brown
+"A Late Night Snack" by Chester Brown
+"Flasher" by Greg Irons</Summary>
+  <Volume>1988</Volume>
+  <Web>https://comicvine.gamespot.com/taboo-1/4000-236036/</Web>
+  <Writer>Alan Moore,Jack Butterworth,Robert Loren Fleming,Tom Sniegoski,S. Clay Wilson,Charles Vess,Mike Hoffman,Charles Burns,Bernie Mireault,Tim Lucas,Eddie Campbell,Stephen R. Bissette,Keith Giffen,Chester Brown,S. Clay Wilson,Alan Moore,Charles Vess,Tom Sniegoski,Mike Hoffman,Charles Burns,Bernie Mireault,Jack Butterworth,Tim Lucas,Eddie Campbell,Stephen R. Bissette,Keith Giffen,Robert Loren Fleming,Chester Brown</Writer>
+  <Year>1988</Year>
+  <Title>The Kitty Killer Kids; Come On Down; Scarecrow; Tooth Decay; Contagious; Cable; Eyes Without a Face; Throat Sprockets; The Pyjama Girl; Cottonmouth; Chigger and the Man; Dirk the Gerbil Part One: Life is Fun; Dirk the Gerbil Part Two: Dirk Dies; A Late Night Snack</Title>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>S. Clay Wilson,John Workman,Charles Vess,Mike Hoffman,Charles Burns,Bernie Mireault,Cam Kennedy,Eddie Campbell,Stephen R. Bissette,Keith Giffen,Chester Brown,S. Clay Wilson,John Workman,Charles Vess,Mike Hoffman,Charles Burns,Bernie Mireault,Cam Kennedy,Eddie Campbell,Stephen R. Bissette,Keith Giffen,Chester Brown</Letterer>
+</ComicInfo>

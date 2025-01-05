@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Angus McKie</Colorist>
+	<Day>18</Day>
+	<Editor>Ed Polgardy</Editor>
+	<GTIN>urn:comicvine:4000-142978</GTIN>
+	<Inker>Bryan Talbot</Inker>
+	<Letterer>Todd Klein</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:32 [Issue ID 4000-142978] urn:comicvine:4000-142978</Notes>
+	<Number>4</Number>
+	<PageCount>14</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="743821" Type="FrontCover"/>
+		<Page Image="1" ImageSize="563105"/>
+		<Page Image="2" ImageSize="826482"/>
+		<Page Image="3" ImageSize="1732585"/>
+		<Page Image="4" ImageSize="1764212"/>
+		<Page Image="5" ImageSize="1827786"/>
+		<Page Image="6" ImageSize="1723083"/>
+		<Page Image="7" ImageSize="1892800"/>
+		<Page Image="8" ImageSize="1780169"/>
+		<Page Image="9" ImageSize="1951356"/>
+		<Page Image="10" ImageSize="1912593"/>
+		<Page Image="11" ImageSize="1799937"/>
+		<Page Image="12" ImageSize="1659261"/>
+		<Page Image="13" ImageSize="930921"/>
+	</Pages>
+	<Penciller>Bryan Talbot</Penciller>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Teknophage</Series>
+	<Summary>https://comicvine.gamespot.com/teknophage-4-nose-to-the-grindstone/4000-142978/</Summary>
+	<Title>Nose to the Grindstone</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/teknophage-4-nose-to-the-grindstone/4000-142978/</Web>
+	<Writer>Rick Veitch</Writer>
+	<Year>1995</Year>
+</ComicInfo>

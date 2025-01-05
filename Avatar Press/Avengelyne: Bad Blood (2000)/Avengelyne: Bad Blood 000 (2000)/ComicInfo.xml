@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Anna Martelli,Avengelyne,Glyph,Pandora,Tanya Nichols</Characters>
+	<Colorist>Nimbus Studios</Colorist>
+	<Count>3</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-118870</GTIN>
+	<Locations>Florida</Locations>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:20:05 [Issue ID 4000-118870] urn:comicvine:4000-118870</Notes>
+	<Number>0</Number>
+	<PageCount>20</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1200" ImageHeight="1893" ImageSize="956095" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1200" ImageHeight="1865" ImageSize="401056"/>
+		<Page Image="2" ImageWidth="1200" ImageHeight="1905" ImageSize="1081914"/>
+		<Page Image="3" ImageWidth="1200" ImageHeight="1872" ImageSize="1136370"/>
+		<Page Image="4" ImageWidth="1200" ImageHeight="1905" ImageSize="1156035"/>
+		<Page Image="5" ImageWidth="1200" ImageHeight="1857" ImageSize="1048082"/>
+		<Page Image="6" ImageWidth="1200" ImageHeight="1908" ImageSize="1005053"/>
+		<Page Image="7" ImageWidth="1200" ImageHeight="1859" ImageSize="1063655"/>
+		<Page Image="8" ImageWidth="1200" ImageHeight="1902" ImageSize="1154292"/>
+		<Page Image="9" ImageWidth="1200" ImageHeight="1863" ImageSize="1014751"/>
+		<Page Image="10" ImageWidth="1200" ImageHeight="1892" ImageSize="1031861"/>
+		<Page Image="11" ImageWidth="1200" ImageHeight="1859" ImageSize="980972"/>
+		<Page Image="12" ImageWidth="1200" ImageHeight="1896" ImageSize="1068937"/>
+		<Page Image="13" ImageWidth="1200" ImageHeight="1870" ImageSize="1054991"/>
+		<Page Image="14" ImageWidth="1200" ImageHeight="1889" ImageSize="1032763"/>
+		<Page Image="15" ImageWidth="919" ImageHeight="1431" ImageSize="519600"/>
+		<Page Image="16" ImageWidth="1200" ImageHeight="1879" ImageSize="837424"/>
+		<Page Image="17" ImageWidth="1200" ImageHeight="1873" ImageSize="1269805"/>
+		<Page Image="18" ImageWidth="1200" ImageHeight="1815" ImageSize="820577"/>
+		<Page Image="19" ImageSize="868280"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Avengelyne: Bad Blood</Series>
+	<Teams>Vampires</Teams>
+	<Title>Prelude</Title>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/avengelyne-bad-blood-0-prelude/4000-118870/</Web>
+	<Writer>Mark Seifert</Writer>
+	<Year>2000</Year>
+</ComicInfo>

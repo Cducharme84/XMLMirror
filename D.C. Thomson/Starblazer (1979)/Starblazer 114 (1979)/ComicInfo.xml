@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550728</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:48:14 [Issue ID 4000-550728] urn:comicvine:4000-550728 urn:grandcomicsdatabase:issue/550728
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:57:56. [Issue ID 550728]</Notes>
+  <Number>114</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="639487" Type="FrontCover" />
+    <Page Image="1" ImageSize="450368" />
+    <Page Image="2" ImageSize="490458" />
+    <Page Image="3" ImageSize="697119" />
+    <Page Image="4" ImageSize="692147" />
+    <Page Image="5" ImageSize="693212" />
+    <Page Image="6" ImageSize="672941" />
+    <Page Image="7" ImageSize="677496" />
+    <Page Image="8" ImageSize="699291" />
+    <Page Image="9" ImageSize="623951" />
+    <Page Image="10" ImageSize="705717" />
+    <Page Image="11" ImageSize="558513" />
+    <Page Image="12" ImageSize="672775" />
+    <Page Image="13" ImageSize="668925" />
+    <Page Image="14" ImageSize="524185" />
+    <Page Image="15" ImageSize="608807" />
+    <Page Image="16" ImageSize="564619" />
+    <Page Image="17" ImageSize="597219" />
+    <Page Image="18" ImageSize="645578" />
+    <Page Image="19" ImageSize="599959" />
+    <Page Image="20" ImageSize="607450" />
+    <Page Image="21" ImageSize="666739" />
+    <Page Image="22" ImageSize="594415" />
+    <Page Image="23" ImageSize="548808" />
+    <Page Image="24" ImageSize="613000" />
+    <Page Image="25" ImageSize="531795" />
+    <Page Image="26" ImageSize="592018" />
+    <Page Image="27" ImageSize="636088" />
+    <Page Image="28" ImageSize="664992" />
+    <Page Image="29" ImageSize="558273" />
+    <Page Image="30" ImageSize="676520" />
+    <Page Image="31" ImageSize="676148" />
+    <Page Image="32" ImageSize="525601" />
+    <Page Image="33" ImageSize="683390" />
+    <Page Image="34" ImageSize="713043" />
+    <Page Image="35" ImageSize="361613" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Last Battleground</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550728/</Web>
+  <Year>1979</Year>
+</ComicInfo>

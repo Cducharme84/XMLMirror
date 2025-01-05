@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Asrial,Kassy,Mimi Masters,Ricky Feeple</Characters>
+	<Count>6</Count>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-307040</GTIN>
+	<Genre>Action</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-23T14:30:41 [Issue ID 4000-307040] urn:comicvine:4000-307040</Notes>
+	<Number>4</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="400" ImageHeight="631" ImageSize="48558" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1756" ImageHeight="2488" ImageSize="2392082"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1756" ImageHeight="2488" ImageSize="1561252"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1692" ImageHeight="2397" ImageSize="1434847"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1756" ImageHeight="2488" ImageSize="1206945"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1756" ImageHeight="2488" ImageSize="1311484"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1756" ImageHeight="2488" ImageSize="1477339"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1756" ImageHeight="2488" ImageSize="1395920"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1756" ImageHeight="2488" ImageSize="1262019"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1756" ImageHeight="2488" ImageSize="1190238"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1756" ImageHeight="2488" ImageSize="1099667"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1756" ImageHeight="2488" ImageSize="1432439"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1756" ImageHeight="2488" ImageSize="1176647"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1756" ImageHeight="2488" ImageSize="1134368"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1756" ImageHeight="2488" ImageSize="1275278"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1756" ImageHeight="2488" ImageSize="1682595"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1756" ImageHeight="2488" ImageSize="1212460"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1756" ImageHeight="2488" ImageSize="1249855"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1756" ImageHeight="2488" ImageSize="1478754"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1756" ImageHeight="2488" ImageSize="1428418"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1756" ImageHeight="2488" ImageSize="1368191"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1756" ImageHeight="2488" ImageSize="1590469"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1756" ImageHeight="2488" ImageSize="1374160"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1756" ImageHeight="2488" ImageSize="2051840"/>
+		<Page Image="24" ImageSize="1722394"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Quagmire U.S.A.</Series>
+	<Summary>Technology and ninja skills plus some much-needed teamwork training finally let the Quagmire crew infiltrate their enemy's stronghold. But in a realm of magic, will all their abilities produce shock and awe or just "Aw, shucks"? Failure means life as a mindless slave!</Summary>
+	<Title>Mimi-mize</Title>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/quagmire-usa-4-mimi-mize/4000-307040/</Web>
+	<Year>2004</Year>
+</ComicInfo>

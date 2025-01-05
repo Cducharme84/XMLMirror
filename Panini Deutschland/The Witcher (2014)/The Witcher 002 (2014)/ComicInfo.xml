@@ -1,0 +1,163 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Geralt of Rivia</Characters>
+  <Colorist>Carlos Badilla</Colorist>
+  <Day>1</Day>
+  <Format>Digital</Format>
+  <GTIN>urn:comicvine:4000-929114</GTIN>
+  <Inker>Joe Querio</Inker>
+  <Letterer>LimboStudio</Letterer>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:34:29 [Issue ID 4000-929114] urn:comicvine:4000-929114
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 00:05:45. [Issue ID 1565643]</Notes>
+  <Number>2</Number>
+  <PageCount>134</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="1704178" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="1934844" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1969263" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="2089994" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1806891" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1803589" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1347776" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1768932" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1848318" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="1394789" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1713718" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1920737" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1939030" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1906786" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2093147" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1873273" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="1906259" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="2055821" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1865129" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="1744593" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2057086" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1767426" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1965380" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1708798" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1656509" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1768280" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1936607" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1817905" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1626167" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="1670112" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1393597" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1753168" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="1807837" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1882319" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="2215015" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="2041390" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="1665932" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1909706" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1745744" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="1756887" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1847397" ImageWidth="1988" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1864313" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1809708" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="1609644" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1862677" ImageWidth="1988" />
+    <Page Image="45" ImageHeight="3056" ImageSize="1701132" ImageWidth="1988" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1500947" ImageWidth="1988" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1849320" ImageWidth="1988" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1986241" ImageWidth="1988" />
+    <Page Image="49" ImageHeight="3056" ImageSize="1793305" ImageWidth="1988" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1668958" ImageWidth="1988" />
+    <Page Image="51" ImageHeight="3056" ImageSize="1618948" ImageWidth="1988" />
+    <Page Image="52" ImageHeight="3056" ImageSize="1720593" ImageWidth="1988" />
+    <Page Image="53" ImageHeight="3056" ImageSize="1832513" ImageWidth="1988" />
+    <Page Image="54" ImageHeight="3056" ImageSize="1761441" ImageWidth="1988" />
+    <Page Image="55" ImageHeight="3056" ImageSize="1596942" ImageWidth="1988" />
+    <Page Image="56" ImageHeight="3056" ImageSize="1427653" ImageWidth="1988" />
+    <Page Image="57" ImageHeight="3056" ImageSize="1578170" ImageWidth="1988" />
+    <Page Image="58" ImageHeight="3056" ImageSize="1564597" ImageWidth="1988" />
+    <Page Image="59" ImageHeight="3056" ImageSize="1442335" ImageWidth="1988" />
+    <Page Image="60" ImageHeight="3056" ImageSize="1559189" ImageWidth="1988" />
+    <Page Image="61" ImageHeight="3056" ImageSize="1716103" ImageWidth="1988" />
+    <Page Image="62" ImageHeight="3056" ImageSize="1609054" ImageWidth="1988" />
+    <Page Image="63" ImageHeight="3056" ImageSize="1655603" ImageWidth="1988" />
+    <Page Image="64" ImageHeight="3056" ImageSize="1665593" ImageWidth="1988" />
+    <Page Image="65" ImageHeight="3056" ImageSize="1364892" ImageWidth="1988" />
+    <Page Image="66" ImageHeight="3056" ImageSize="1683693" ImageWidth="1988" />
+    <Page Image="67" ImageHeight="3056" ImageSize="1939322" ImageWidth="1988" />
+    <Page Image="68" ImageHeight="3056" ImageSize="1785254" ImageWidth="1988" />
+    <Page Image="69" ImageHeight="3056" ImageSize="1696422" ImageWidth="1988" />
+    <Page Image="70" ImageHeight="3056" ImageSize="1622261" ImageWidth="1988" />
+    <Page Image="71" ImageHeight="3056" ImageSize="1654745" ImageWidth="1988" />
+    <Page Image="72" ImageHeight="3056" ImageSize="1582533" ImageWidth="1988" />
+    <Page Image="73" ImageHeight="3056" ImageSize="1779012" ImageWidth="1988" />
+    <Page Image="74" ImageHeight="3056" ImageSize="1417944" ImageWidth="1988" />
+    <Page Image="75" ImageHeight="3056" ImageSize="1604819" ImageWidth="1988" />
+    <Page Image="76" ImageHeight="3056" ImageSize="1841784" ImageWidth="1988" />
+    <Page Image="77" ImageHeight="3056" ImageSize="1566802" ImageWidth="1988" />
+    <Page Image="78" ImageHeight="3056" ImageSize="1769972" ImageWidth="1988" />
+    <Page Image="79" ImageHeight="3056" ImageSize="1688963" ImageWidth="1988" />
+    <Page Image="80" ImageHeight="3056" ImageSize="1782095" ImageWidth="1988" />
+    <Page Image="81" ImageHeight="3056" ImageSize="1732623" ImageWidth="1988" />
+    <Page Image="82" ImageHeight="3056" ImageSize="1706219" ImageWidth="1988" />
+    <Page Image="83" ImageHeight="3056" ImageSize="1657513" ImageWidth="1988" />
+    <Page Image="84" ImageHeight="3056" ImageSize="2072098" ImageWidth="1988" />
+    <Page Image="85" ImageHeight="3056" ImageSize="1738374" ImageWidth="1988" />
+    <Page Image="86" ImageHeight="3056" ImageSize="1617393" ImageWidth="1988" />
+    <Page Image="87" ImageHeight="3056" ImageSize="1604014" ImageWidth="1988" />
+    <Page Image="88" ImageHeight="3056" ImageSize="2060403" ImageWidth="1988" />
+    <Page Image="89" ImageHeight="3056" ImageSize="2269275" ImageWidth="1988" />
+    <Page Image="90" ImageHeight="3056" ImageSize="1978618" ImageWidth="1988" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1898369" ImageWidth="1988" />
+    <Page Image="92" ImageHeight="3056" ImageSize="1856814" ImageWidth="1988" />
+    <Page Image="93" ImageHeight="3056" ImageSize="1436911" ImageWidth="1988" />
+    <Page Image="94" ImageHeight="3056" ImageSize="1751525" ImageWidth="1988" />
+    <Page Image="95" ImageHeight="3056" ImageSize="1811028" ImageWidth="1988" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1964073" ImageWidth="1988" />
+    <Page Image="97" ImageHeight="3056" ImageSize="1586779" ImageWidth="1988" />
+    <Page Image="98" ImageHeight="3056" ImageSize="1960697" ImageWidth="1988" />
+    <Page Image="99" ImageHeight="3056" ImageSize="1655269" ImageWidth="1988" />
+    <Page Image="100" ImageHeight="3056" ImageSize="1768471" ImageWidth="1988" />
+    <Page Image="101" ImageHeight="3056" ImageSize="1717833" ImageWidth="1988" />
+    <Page Image="102" ImageHeight="3056" ImageSize="1669898" ImageWidth="1988" />
+    <Page Image="103" ImageHeight="3056" ImageSize="1642485" ImageWidth="1988" />
+    <Page Image="104" ImageHeight="3056" ImageSize="1679883" ImageWidth="1988" />
+    <Page Image="105" ImageHeight="3056" ImageSize="1528623" ImageWidth="1988" />
+    <Page Image="106" ImageHeight="3056" ImageSize="1630357" ImageWidth="1988" />
+    <Page Image="107" ImageHeight="3056" ImageSize="1782931" ImageWidth="1988" />
+    <Page Image="108" ImageHeight="3056" ImageSize="1742546" ImageWidth="1988" />
+    <Page Image="109" ImageHeight="3056" ImageSize="1765904" ImageWidth="1988" />
+    <Page Image="110" ImageHeight="3056" ImageSize="1726654" ImageWidth="1988" />
+    <Page Image="111" ImageHeight="3056" ImageSize="1727749" ImageWidth="1988" />
+    <Page Image="112" ImageHeight="3056" ImageSize="1651181" ImageWidth="1988" />
+    <Page Image="113" ImageHeight="3056" ImageSize="1889317" ImageWidth="1988" />
+    <Page Image="114" ImageHeight="3056" ImageSize="1826739" ImageWidth="1988" />
+    <Page Image="115" ImageHeight="3056" ImageSize="1762633" ImageWidth="1988" />
+    <Page Image="116" ImageHeight="3056" ImageSize="1633931" ImageWidth="1988" />
+    <Page Image="117" ImageHeight="3056" ImageSize="1895845" ImageWidth="1988" />
+    <Page Image="118" ImageHeight="3056" ImageSize="1854310" ImageWidth="1988" />
+    <Page Image="119" ImageHeight="3056" ImageSize="1922322" ImageWidth="1988" />
+    <Page Image="120" ImageHeight="3056" ImageSize="1893737" ImageWidth="1988" />
+    <Page Image="121" ImageHeight="3056" ImageSize="1547700" ImageWidth="1988" />
+    <Page Image="122" ImageHeight="3056" ImageSize="1256948" ImageWidth="1988" />
+    <Page Image="123" ImageHeight="3056" ImageSize="1227734" ImageWidth="1988" />
+    <Page Image="124" ImageHeight="3056" ImageSize="1960046" ImageWidth="1988" />
+    <Page Image="125" ImageHeight="3056" ImageSize="1513729" ImageWidth="1988" />
+    <Page Image="126" ImageHeight="3056" ImageSize="1700192" ImageWidth="1988" />
+    <Page Image="127" ImageHeight="3056" ImageSize="2559063" ImageWidth="1988" />
+    <Page Image="128" ImageHeight="1988" ImageSize="1840180" ImageWidth="3056" />
+    <Page Image="129" ImageHeight="1988" ImageSize="2197181" ImageWidth="3056" />
+    <Page Image="130" ImageHeight="3056" ImageSize="1275181" ImageWidth="1988" />
+    <Page Image="131" ImageHeight="3056" ImageSize="3934339" ImageWidth="3976" />
+    <Page Image="132" ImageHeight="3056" ImageSize="1716434" ImageWidth="1988" />
+    <Page Image="133" ImageSize="1424403" />
+  </Pages>
+  <Penciller>Joe Querio</Penciller>
+  <Publisher>Panini Deutschland</Publisher>
+  <ScanInformation>(digital) (LostNerevarine-Empire)</ScanInformation>
+  <Series>The Witcher</Series>
+  <Summary>https://comicvine.gamespot.com/the-witcher-2-hijas-del-zorro/4000-929114/</Summary>
+  <Tags>Geralt of Rivia</Tags>
+  <Title>Fuchskinder</Title>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/the-witcher-2-hijas-del-zorro/4000-929114/</Web>
+  <Writer>Paul Tobin</Writer>
+  <Year>2014</Year>
+  <Count>8</Count>
+  <LanguageISO>de</LanguageISO>
+<Genre>Fantasy,Licensed</Genre></ComicInfo>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Alfred E. Neuman,Barbra Streisand,Billy Jack,Charlie Brown,Columbo,Howard Cosell,Kwai Chang Caine,Lou Grant,Lucy van Pelt,Mary Tyler Moore,Matt Dillon,Roger Kaputnik,Snoopy,Uncle Sam,Walter Cronkite</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-74354</GTIN>
+	<Inker>Antonio Prohias</Inker>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:16:23 [Issue ID 4000-74354] urn:comicvine:4000-74354</Notes>
+	<Number>168</Number>
+	<PageCount>52</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1235" ImageHeight="1612" ImageSize="235788" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1235" ImageHeight="1612" ImageSize="168182"/>
+		<Page Image="2" ImageWidth="1235" ImageHeight="1612" ImageSize="155284"/>
+		<Page Image="3" ImageWidth="1235" ImageHeight="1612" ImageSize="168542"/>
+		<Page Image="4" ImageWidth="1235" ImageHeight="1612" ImageSize="180849"/>
+		<Page Image="5" ImageWidth="1235" ImageHeight="1612" ImageSize="205610"/>
+		<Page Image="6" ImageWidth="1235" ImageHeight="1612" ImageSize="280898"/>
+		<Page Image="7" ImageWidth="1235" ImageHeight="1612" ImageSize="281696"/>
+		<Page Image="8" ImageWidth="1235" ImageHeight="1612" ImageSize="205827"/>
+		<Page Image="9" ImageWidth="1235" ImageHeight="1612" ImageSize="274984"/>
+		<Page Image="10" ImageWidth="1235" ImageHeight="1612" ImageSize="263483"/>
+		<Page Image="11" ImageWidth="1235" ImageHeight="1612" ImageSize="300302"/>
+		<Page Image="12" ImageWidth="1235" ImageHeight="1612" ImageSize="118844"/>
+		<Page Image="13" ImageWidth="1235" ImageHeight="1612" ImageSize="214394"/>
+		<Page Image="14" ImageWidth="1235" ImageHeight="1612" ImageSize="226275"/>
+		<Page Image="15" ImageWidth="1235" ImageHeight="1612" ImageSize="215925"/>
+		<Page Image="16" ImageWidth="1235" ImageHeight="1612" ImageSize="215634"/>
+		<Page Image="17" ImageWidth="1235" ImageHeight="1612" ImageSize="233392"/>
+		<Page Image="18" ImageWidth="1235" ImageHeight="1612" ImageSize="239488"/>
+		<Page Image="19" ImageWidth="1235" ImageHeight="1612" ImageSize="188470"/>
+		<Page Image="20" ImageWidth="1235" ImageHeight="1612" ImageSize="208148"/>
+		<Page Image="21" ImageWidth="1235" ImageHeight="1612" ImageSize="201856"/>
+		<Page Image="22" ImageWidth="1235" ImageHeight="1612" ImageSize="209263"/>
+		<Page Image="23" ImageWidth="1235" ImageHeight="1612" ImageSize="208957"/>
+		<Page Image="24" ImageWidth="1235" ImageHeight="1612" ImageSize="217748"/>
+		<Page Image="25" ImageWidth="1235" ImageHeight="1612" ImageSize="247933"/>
+		<Page Image="26" ImageWidth="1235" ImageHeight="1612" ImageSize="239690"/>
+		<Page Image="27" ImageWidth="1235" ImageHeight="1612" ImageSize="230689"/>
+		<Page Image="28" ImageWidth="1235" ImageHeight="1612" ImageSize="196848"/>
+		<Page Image="29" ImageWidth="1235" ImageHeight="1612" ImageSize="132012"/>
+		<Page Image="30" ImageWidth="1235" ImageHeight="1612" ImageSize="114841"/>
+		<Page Image="31" ImageWidth="1235" ImageHeight="1612" ImageSize="108795"/>
+		<Page Image="32" ImageWidth="1235" ImageHeight="1612" ImageSize="116603"/>
+		<Page Image="33" ImageWidth="1235" ImageHeight="1612" ImageSize="125314"/>
+		<Page Image="34" ImageWidth="1235" ImageHeight="1612" ImageSize="108222"/>
+		<Page Image="35" ImageWidth="1235" ImageHeight="1612" ImageSize="150739"/>
+		<Page Image="36" ImageWidth="1235" ImageHeight="1612" ImageSize="242420"/>
+		<Page Image="37" ImageWidth="1235" ImageHeight="1612" ImageSize="242021"/>
+		<Page Image="38" ImageWidth="1235" ImageHeight="1612" ImageSize="226993"/>
+		<Page Image="39" ImageWidth="1235" ImageHeight="1612" ImageSize="170413"/>
+		<Page Image="40" ImageWidth="1235" ImageHeight="1612" ImageSize="209554"/>
+		<Page Image="41" ImageWidth="1235" ImageHeight="1612" ImageSize="222057"/>
+		<Page Image="42" ImageWidth="1235" ImageHeight="1612" ImageSize="206772"/>
+		<Page Image="43" ImageWidth="1235" ImageHeight="1612" ImageSize="279572"/>
+		<Page Image="44" ImageWidth="1235" ImageHeight="1612" ImageSize="199678"/>
+		<Page Image="45" ImageWidth="1235" ImageHeight="1612" ImageSize="275964"/>
+		<Page Image="46" ImageWidth="1235" ImageHeight="1612" ImageSize="271950"/>
+		<Page Image="47" ImageWidth="1235" ImageHeight="1612" ImageSize="276419"/>
+		<Page Image="48" ImageWidth="1235" ImageHeight="1612" ImageSize="268411"/>
+		<Page Image="49" ImageWidth="1235" ImageHeight="1612" ImageSize="148451"/>
+		<Page Image="50" ImageWidth="1235" ImageHeight="1612" ImageSize="289714"/>
+		<Page Image="51" ImageSize="244316"/>
+	</Pages>
+	<Penciller>Antonio Prohias</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>MAD</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-11 23:00:22.  [Issue ID 74354]
+
+https://comicvine.gamespot.com/mad-168/4000-74354/</Summary>
+	<Tags>Alfred E. Neuman,Barbra Streisand,Billy Jack,Charlie Brown,Columbo,Howard Cosell,Kwai Chang Caine,Lou Grant,Lucy van Pelt,Mary Tyler Moore,Matt Dillon,Roger Kaputnik,Snoopy,Uncle Sam,Walter Cronkite</Tags>
+	<Volume>1952</Volume>
+	<Web>https://comicvine.gamespot.com/mad-168/4000-74354/</Web>
+	<Writer>Antonio Prohias</Writer>
+	<Year>1974</Year>
+</ComicInfo>

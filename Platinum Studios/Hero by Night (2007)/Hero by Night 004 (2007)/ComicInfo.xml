@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Hero By Night</Characters>
+  <Count>4</Count>
+  <GTIN>urn:comicvine:4000-284813</GTIN>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:59:18 [Issue ID 4000-284813] urn:comicvine:4000-284813
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:41:25. [Issue ID 502845]</Notes>
+  <Number>4</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="418956" Type="FrontCover" />
+    <Page Image="1" ImageSize="346649" />
+    <Page Image="2" ImageSize="447316" />
+    <Page Image="3" ImageSize="433166" />
+    <Page Image="4" ImageSize="413871" />
+    <Page Image="5" ImageSize="390743" />
+    <Page Image="6" ImageSize="449163" />
+    <Page Image="7" ImageSize="439003" />
+    <Page Image="8" ImageSize="478728" />
+    <Page Image="9" ImageSize="422759" />
+    <Page Image="10" ImageSize="414228" />
+    <Page Image="11" ImageSize="533574" />
+    <Page Image="12" ImageSize="463844" />
+    <Page Image="13" ImageSize="480570" />
+    <Page Image="14" ImageSize="398225" />
+    <Page Image="15" ImageSize="483934" />
+    <Page Image="16" ImageSize="413331" />
+    <Page Image="17" ImageSize="411936" />
+    <Page Image="18" ImageSize="480668" />
+    <Page Image="19" ImageSize="608308" />
+    <Page Image="20" ImageSize="593812" />
+    <Page Image="21" ImageSize="528926" />
+    <Page Image="22" ImageSize="417101" />
+    <Page Image="23" ImageSize="474511" />
+    <Page Image="24" ImageSize="263285" />
+  </Pages>
+  <Publisher>Platinum Studios</Publisher>
+  <Series>Hero by Night</Series>
+  <Summary>When Jack King dons the Hero By Night costume, he learns that it takes more to be a superhero than a costume and a ring. It takes courage. Jack might save Roz, but is he ready to fight the previous Hero By Night's arch-nemesis, the Iron Talon? Find out in this stunning conclusion!</Summary>
+  <Volume>2007</Volume>
+  <Web>https://comicvine.gamespot.com/hero-by-night-4/4000-284813/</Web>
+  <Year>2007</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

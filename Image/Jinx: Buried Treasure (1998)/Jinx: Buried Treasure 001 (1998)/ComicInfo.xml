@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>1</Count>
+  <GTIN>urn:comicvine:4000-409833</GTIN>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:38:56 [Issue ID 4000-409833] urn:comicvine:4000-409833
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 21:46:21. [Issue ID 266076]</Notes>
+  <Number>1</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+    <Page Image="8" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <ScanInformation>(Jinx Burried Treasure)</ScanInformation>
+  <Series>Jinx: Buried Treasure</Series>
+  <Volume>1998</Volume>
+  <Web>https://comicvine.gamespot.com/jinx-buried-treasure-1/4000-409833/</Web>
+  <Year>1998</Year>
+  <Writer>Brian Michael Bendis</Writer>
+  <Penciller>Brian Michael Bendis</Penciller>
+  <Inker>Brian Michael Bendis</Inker>
+  <CoverArtist>Brian Michael Bendis</CoverArtist>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

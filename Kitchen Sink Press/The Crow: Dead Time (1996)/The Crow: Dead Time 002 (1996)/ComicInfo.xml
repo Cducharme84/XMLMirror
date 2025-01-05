@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>The Crow</Characters>
+  <Count>3</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-194300</GTIN>
+  <Inker>Alex Maleev</Inker>
+  <Letterer>Dan Burr</Letterer>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:26:01 [Issue ID 4000-194300] urn:comicvine:4000-194300
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:15:06. [Issue ID 272865]</Notes>
+  <Number>2</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="154795" Type="FrontCover" />
+    <Page Image="1" ImageSize="240482" />
+    <Page Image="2" ImageSize="376819" />
+    <Page Image="3" ImageSize="480382" />
+    <Page Image="4" ImageSize="436547" />
+    <Page Image="5" ImageSize="472051" />
+    <Page Image="6" ImageSize="453166" />
+    <Page Image="7" ImageSize="480661" />
+    <Page Image="8" ImageSize="427892" />
+    <Page Image="9" ImageSize="446217" />
+    <Page Image="10" ImageSize="455054" />
+    <Page Image="11" ImageSize="400104" />
+    <Page Image="12" ImageSize="416423" />
+    <Page Image="13" ImageSize="388865" />
+    <Page Image="14" ImageSize="383052" />
+    <Page Image="15" ImageSize="417562" />
+    <Page Image="16" ImageSize="422011" />
+    <Page Image="17" ImageSize="407943" />
+    <Page Image="18" ImageSize="398798" />
+    <Page Image="19" ImageSize="429874" />
+    <Page Image="20" ImageSize="357226" />
+    <Page Image="21" ImageSize="421035" />
+    <Page Image="22" ImageSize="423188" />
+    <Page Image="23" ImageSize="505300" />
+    <Page Image="24" ImageSize="341409" />
+    <Page Image="25" ImageSize="443305" />
+    <Page Image="26" ImageSize="412353" />
+    <Page Image="27" ImageSize="409086" />
+    <Page Image="28" ImageSize="391232" />
+    <Page Image="29" ImageSize="413653" />
+  </Pages>
+  <Penciller>Alex Maleev</Penciller>
+  <Publisher>Kitchen Sink Press</Publisher>
+  <Series>The Crow: Dead Time</Series>
+  <Summary>part two of three</Summary>
+  <Title>Throw Wide the Gates of Hell</Title>
+  <Volume>1996</Volume>
+  <Web>https://comicvine.gamespot.com/crow-dead-time-2-throw-wide-the-gates-of-hell/4000-194300/</Web>
+  <Writer>John Wagner</Writer>
+  <Year>1996</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

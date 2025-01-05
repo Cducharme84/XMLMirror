@@ -1,0 +1,214 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Max Reyes,Red Sonja</Characters>
+  <Count>5</Count>
+  <Day>7</Day>
+  <GTIN>urn:comicvine:4000-662110</GTIN>
+  <Inker>Carlos Gomez (SP),Tom Mandrake</Inker>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:17:39 [Issue ID 4000-662110] urn:comicvine:4000-662110
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 19:48:56. [Issue ID 1789827]</Notes>
+  <Number>2</Number>
+  <PageCount>184</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1530437" Type="FrontCover" />
+    <Page Image="1" ImageSize="53917" />
+    <Page Image="2" ImageSize="2043558" />
+    <Page Image="3" ImageSize="1450709" />
+    <Page Image="4" ImageSize="953106" />
+    <Page Image="5" ImageSize="2121981" />
+    <Page Image="6" ImageSize="1678238" />
+    <Page Image="7" ImageSize="780602" />
+    <Page Image="8" ImageSize="1751985" />
+    <Page Image="9" ImageSize="1549908" />
+    <Page Image="10" ImageSize="1634888" />
+    <Page Image="11" ImageSize="1870634" />
+    <Page Image="12" ImageSize="1880872" />
+    <Page Image="13" ImageSize="1931277" />
+    <Page Image="14" ImageSize="1861700" />
+    <Page Image="15" ImageSize="1667110" />
+    <Page Image="16" ImageSize="1632401" />
+    <Page Image="17" ImageSize="4206141" />
+    <Page Image="18" ImageSize="1780415" />
+    <Page Image="19" ImageSize="1272483" />
+    <Page Image="20" ImageSize="1448716" />
+    <Page Image="21" ImageSize="1503162" />
+    <Page Image="22" ImageSize="1527229" />
+    <Page Image="23" ImageSize="1598604" />
+    <Page Image="24" ImageSize="1712753" />
+    <Page Image="25" ImageSize="1719078" />
+    <Page Image="26" ImageSize="1585791" />
+    <Page Image="27" ImageSize="1666887" />
+    <Page Image="28" ImageSize="1328449" />
+    <Page Image="29" ImageSize="1409244" />
+    <Page Image="30" ImageSize="1663884" />
+    <Page Image="31" ImageSize="1917180" />
+    <Page Image="32" ImageSize="1703258" />
+    <Page Image="33" ImageSize="1953529" />
+    <Page Image="34" ImageSize="1430023" />
+    <Page Image="35" ImageSize="1882399" />
+    <Page Image="36" ImageSize="1934412" />
+    <Page Image="37" ImageSize="1866631" />
+    <Page Image="38" ImageSize="1443127" />
+    <Page Image="39" ImageSize="1464655" />
+    <Page Image="40" ImageSize="1502592" />
+    <Page Image="41" ImageSize="1595545" />
+    <Page Image="42" ImageSize="1640214" />
+    <Page Image="43" ImageSize="1642393" />
+    <Page Image="44" ImageSize="1402244" />
+    <Page Image="45" ImageSize="1639935" />
+    <Page Image="46" ImageSize="1884064" />
+    <Page Image="47" ImageSize="1537731" />
+    <Page Image="48" ImageSize="1150933" />
+    <Page Image="49" ImageSize="1523697" />
+    <Page Image="50" ImageSize="1580216" />
+    <Page Image="51" ImageSize="1759133" />
+    <Page Image="52" ImageSize="1541878" />
+    <Page Image="53" ImageSize="1857069" />
+    <Page Image="54" ImageSize="1880566" />
+    <Page Image="55" ImageSize="2003587" />
+    <Page Image="56" ImageSize="1533773" />
+    <Page Image="57" ImageSize="1696234" />
+    <Page Image="58" ImageSize="1620015" />
+    <Page Image="59" ImageSize="1583282" />
+    <Page Image="60" ImageSize="1549855" />
+    <Page Image="61" ImageSize="1832977" />
+    <Page Image="62" ImageSize="1798080" />
+    <Page Image="63" ImageSize="1809259" />
+    <Page Image="64" ImageSize="1444483" />
+    <Page Image="65" ImageSize="1785191" />
+    <Page Image="66" ImageSize="1604118" />
+    <Page Image="67" ImageSize="1735169" />
+    <Page Image="68" ImageSize="1761839" />
+    <Page Image="69" ImageSize="2087178" />
+    <Page Image="70" ImageSize="1816225" />
+    <Page Image="71" ImageSize="1433336" />
+    <Page Image="72" ImageSize="1454680" />
+    <Page Image="73" ImageSize="1715800" />
+    <Page Image="74" ImageSize="1533715" />
+    <Page Image="75" ImageSize="1853880" />
+    <Page Image="76" ImageSize="2198292" />
+    <Page Image="77" ImageSize="1940848" />
+    <Page Image="78" ImageSize="1818331" />
+    <Page Image="79" ImageSize="1895985" />
+    <Page Image="80" ImageSize="1703819" />
+    <Page Image="81" ImageSize="1848262" />
+    <Page Image="82" ImageSize="1670544" />
+    <Page Image="83" ImageSize="1819051" />
+    <Page Image="84" ImageSize="4756896" />
+    <Page Image="85" ImageSize="1858181" />
+    <Page Image="86" ImageSize="1867226" />
+    <Page Image="87" ImageSize="1764565" />
+    <Page Image="88" ImageSize="2094920" />
+    <Page Image="89" ImageSize="1964312" />
+    <Page Image="90" ImageSize="1776603" />
+    <Page Image="91" ImageSize="1658111" />
+    <Page Image="92" ImageSize="1710139" />
+    <Page Image="93" ImageSize="1828052" />
+    <Page Image="94" ImageSize="1810576" />
+    <Page Image="95" ImageSize="2439249" />
+    <Page Image="96" ImageSize="1607259" />
+    <Page Image="97" ImageSize="1498750" />
+    <Page Image="98" ImageSize="1831676" />
+    <Page Image="99" ImageSize="1959862" />
+    <Page Image="100" ImageSize="1705454" />
+    <Page Image="101" ImageSize="1727470" />
+    <Page Image="102" ImageSize="1811014" />
+    <Page Image="103" ImageSize="1607783" />
+    <Page Image="104" ImageSize="1591161" />
+    <Page Image="105" ImageSize="1760154" />
+    <Page Image="106" ImageSize="1680662" />
+    <Page Image="107" ImageSize="1776409" />
+    <Page Image="108" ImageSize="2068780" />
+    <Page Image="109" ImageSize="1737658" />
+    <Page Image="110" ImageSize="1901720" />
+    <Page Image="111" ImageSize="2148906" />
+    <Page Image="112" ImageSize="2049151" />
+    <Page Image="113" ImageSize="1616666" />
+    <Page Image="114" ImageSize="1538676" />
+    <Page Image="115" ImageSize="2406227" />
+    <Page Image="116" ImageSize="1426913" />
+    <Page Image="117" ImageSize="1679869" />
+    <Page Image="118" ImageSize="1656368" />
+    <Page Image="119" ImageSize="1636667" />
+    <Page Image="120" ImageSize="1788389" />
+    <Page Image="121" ImageSize="1665632" />
+    <Page Image="122" ImageSize="1701895" />
+    <Page Image="123" ImageSize="1918923" />
+    <Page Image="124" ImageSize="1442097" />
+    <Page Image="125" ImageSize="1579888" />
+    <Page Image="126" ImageSize="1472749" />
+    <Page Image="127" ImageSize="1964021" />
+    <Page Image="128" ImageSize="1494132" />
+    <Page Image="129" ImageSize="1876214" />
+    <Page Image="130" ImageSize="1548085" />
+    <Page Image="131" ImageSize="1777773" />
+    <Page Image="132" ImageSize="1457578" />
+    <Page Image="133" ImageSize="1310110" />
+    <Page Image="134" ImageSize="1425836" />
+    <Page Image="135" ImageSize="1463344" />
+    <Page Image="136" ImageSize="1556997" />
+    <Page Image="137" ImageSize="1559681" />
+    <Page Image="138" ImageSize="1507794" />
+    <Page Image="139" ImageSize="1497409" />
+    <Page Image="140" ImageSize="1378438" />
+    <Page Image="141" ImageSize="5202864" />
+    <Page Image="142" ImageSize="1666186" />
+    <Page Image="143" ImageSize="1645177" />
+    <Page Image="144" ImageSize="1637499" />
+    <Page Image="145" ImageSize="1637372" />
+    <Page Image="146" ImageSize="2148150" />
+    <Page Image="147" ImageSize="1139598" />
+    <Page Image="148" ImageSize="1478766" />
+    <Page Image="149" ImageSize="1488187" />
+    <Page Image="150" ImageSize="1956702" />
+    <Page Image="151" ImageSize="1452572" />
+    <Page Image="152" ImageSize="1515856" />
+    <Page Image="153" ImageSize="1619524" />
+    <Page Image="154" ImageSize="1790308" />
+    <Page Image="155" ImageSize="1168062" />
+    <Page Image="156" ImageSize="1228081" />
+    <Page Image="157" ImageSize="1693421" />
+    <Page Image="158" ImageSize="1739535" />
+    <Page Image="159" ImageSize="1982564" />
+    <Page Image="160" ImageSize="883784" />
+    <Page Image="161" ImageSize="2173629" />
+    <Page Image="162" ImageSize="1179631" />
+    <Page Image="163" ImageSize="1568057" />
+    <Page Image="164" ImageSize="2143131" />
+    <Page Image="165" ImageSize="1117177" />
+    <Page Image="166" ImageSize="1445623" />
+    <Page Image="167" ImageSize="1779289" />
+    <Page Image="168" ImageSize="2058730" />
+    <Page Image="169" ImageSize="1233579" />
+    <Page Image="170" ImageSize="723587" />
+    <Page Image="171" ImageSize="1394143" />
+    <Page Image="172" ImageSize="1526453" />
+    <Page Image="173" ImageSize="2047055" />
+    <Page Image="174" ImageSize="1939949" />
+    <Page Image="175" ImageSize="816151" />
+    <Page Image="176" ImageSize="1390445" />
+    <Page Image="177" ImageSize="1820338" />
+    <Page Image="178" ImageSize="6204223" />
+    <Page Image="179" ImageSize="1999979" />
+    <Page Image="180" ImageSize="2113795" />
+    <Page Image="181" ImageSize="1878674" />
+    <Page Image="182" ImageSize="1939548" />
+    <Page Image="183" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Carlos Gomez (SP),Tom Mandrake</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>Red Sonja: Worlds Away</Series>
+  <Summary>The She-Devil embarks on a whole new adventure...across America! Sonja takes a ride with Max in search of a way back home, and discovers maybe our worlds aren't that different after all...
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-24 20:03:08.  [Issue ID 662110]
+
+https://comicvine.gamespot.com/red-sonja-worlds-away-2-volume-2-back-roads/4000-662110/</Summary>
+  <Tags>Max Reyes,Red Sonja</Tags>
+  <Title>Back Roads</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/red-sonja-worlds-away-2-volume-2-back-roads/4000-662110/</Web>
+  <Writer>Amy Chu,Erik Burnham</Writer>
+  <Year>2018</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+<Genre>Fantasy</Genre></ComicInfo>

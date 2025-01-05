@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550707</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:48:06 [Issue ID 4000-550707] urn:comicvine:4000-550707 urn:grandcomicsdatabase:issue/550707
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:57:41. [Issue ID 550707]</Notes>
+  <Number>93</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="621244" Type="FrontCover" />
+    <Page Image="1" ImageSize="441495" />
+    <Page Image="2" ImageSize="674655" />
+    <Page Image="3" ImageSize="679758" />
+    <Page Image="4" ImageSize="700359" />
+    <Page Image="5" ImageSize="669547" />
+    <Page Image="6" ImageSize="660558" />
+    <Page Image="7" ImageSize="685705" />
+    <Page Image="8" ImageSize="674632" />
+    <Page Image="9" ImageSize="656515" />
+    <Page Image="10" ImageSize="574483" />
+    <Page Image="11" ImageSize="678629" />
+    <Page Image="12" ImageSize="676701" />
+    <Page Image="13" ImageSize="709708" />
+    <Page Image="14" ImageSize="711173" />
+    <Page Image="15" ImageSize="663107" />
+    <Page Image="16" ImageSize="701015" />
+    <Page Image="17" ImageSize="620725" />
+    <Page Image="18" ImageSize="662289" />
+    <Page Image="19" ImageSize="626144" />
+    <Page Image="20" ImageSize="675528" />
+    <Page Image="21" ImageSize="617045" />
+    <Page Image="22" ImageSize="651164" />
+    <Page Image="23" ImageSize="621525" />
+    <Page Image="24" ImageSize="684246" />
+    <Page Image="25" ImageSize="696366" />
+    <Page Image="26" ImageSize="619494" />
+    <Page Image="27" ImageSize="637859" />
+    <Page Image="28" ImageSize="676813" />
+    <Page Image="29" ImageSize="676439" />
+    <Page Image="30" ImageSize="629902" />
+    <Page Image="31" ImageSize="646815" />
+    <Page Image="32" ImageSize="672387" />
+    <Page Image="33" ImageSize="645641" />
+    <Page Image="34" ImageSize="615229" />
+    <Page Image="35" ImageSize="164295" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Midas Machine</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550707/</Web>
+  <Year>1979</Year>
+</ComicInfo>

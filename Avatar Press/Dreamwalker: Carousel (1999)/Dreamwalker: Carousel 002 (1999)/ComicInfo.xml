@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Bruce Evans,Cori,Karen Brinson,Mike,Mrs Claybourn,Mrs Tobias,Walter</Characters>
+	<Count>2</Count>
+	<Country>US</Country>
+	<Format>Miniseries</Format>
+	<GTIN>urn:comicvine:4000-715353</GTIN>
+	<Genre>Fantasy</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:29:23 [Issue ID 4000-715353] urn:comicvine:4000-715353 urn:grandcomicsdatabase:issue/715353</Notes>
+	<Number>2</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="368185" Type="FrontCover"/>
+		<Page Image="1" ImageSize="355466"/>
+		<Page Image="2" ImageSize="676296"/>
+		<Page Image="3" ImageSize="552122"/>
+		<Page Image="4" ImageSize="576604"/>
+		<Page Image="5" ImageSize="590052"/>
+		<Page Image="6" ImageSize="603585"/>
+		<Page Image="7" ImageSize="576807"/>
+		<Page Image="8" ImageSize="511914"/>
+		<Page Image="9" ImageSize="496085"/>
+		<Page Image="10" ImageSize="529271"/>
+		<Page Image="11" ImageSize="565799"/>
+		<Page Image="12" ImageSize="595947"/>
+		<Page Image="13" ImageSize="547786"/>
+		<Page Image="14" ImageSize="579898"/>
+		<Page Image="15" ImageSize="528972"/>
+		<Page Image="16" ImageSize="512352"/>
+		<Page Image="17" ImageSize="537253"/>
+		<Page Image="18" ImageSize="490247"/>
+		<Page Image="19" ImageSize="504208"/>
+		<Page Image="20" ImageSize="463675"/>
+		<Page Image="21" ImageSize="663303"/>
+		<Page Image="22" ImageSize="524368"/>
+		<Page Image="23" ImageSize="419288"/>
+		<Page Image="24" ImageSize="570371"/>
+		<Page Image="25" ImageSize="506608"/>
+		<Page Image="26" ImageSize="495760"/>
+		<Page Image="27" ImageSize="637919"/>
+		<Page Image="28" ImageSize="626508"/>
+		<Page Image="29" ImageSize="676447"/>
+		<Page Image="30" ImageSize="655072"/>
+		<Page Image="31" ImageSize="112416"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Dreamwalker: Carousel</Series>
+	<Summary>Carousel Part 2: Karen goes on a date with Walter and makes a decision about her job.</Summary>
+	<Tags>Bruce Evans,Cori,Karen Brinson,Mike,Mrs Claybourn,Mrs Tobias,Walter</Tags>
+	<Title>Carousel Part 2</Title>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-715353/</Web>
+	<Year>1999</Year>
+</ComicInfo>

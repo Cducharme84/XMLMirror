@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Editor>Chris Ulm,Mickie Villa,Mike DeLepine</Editor>
+	<GTIN>urn:comicvine:4000-224300</GTIN>
+	<Inker>Andrew Pepoy,Dave Whamond,Tim Eldred</Inker>
+	<Letterer>Mike DeLepine</Letterer>
+	<Locations>California,Los Angeles,New Mexico,Texas</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:27:04 [Issue ID 4000-224300] urn:comicvine:4000-224300</Notes>
+	<Number>1</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1024" ImageHeight="1624" ImageSize="205327" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1024" ImageHeight="1645" ImageSize="366779"/>
+		<Page Image="2" ImageWidth="1024" ImageHeight="1541" ImageSize="330096"/>
+		<Page Image="3" ImageWidth="1024" ImageHeight="1563" ImageSize="297393"/>
+		<Page Image="4" ImageWidth="1024" ImageHeight="1609" ImageSize="258250"/>
+		<Page Image="5" ImageWidth="1024" ImageHeight="1543" ImageSize="306194"/>
+		<Page Image="6" ImageWidth="1024" ImageHeight="1574" ImageSize="303248"/>
+		<Page Image="7" ImageWidth="1024" ImageHeight="1539" ImageSize="352190"/>
+		<Page Image="8" ImageWidth="1024" ImageHeight="1556" ImageSize="347936"/>
+		<Page Image="9" ImageWidth="1024" ImageHeight="1570" ImageSize="292008"/>
+		<Page Image="10" ImageWidth="1024" ImageHeight="1518" ImageSize="258170"/>
+		<Page Image="11" ImageWidth="1024" ImageHeight="1583" ImageSize="296763"/>
+		<Page Image="12" ImageWidth="1024" ImageHeight="1610" ImageSize="299829"/>
+		<Page Image="13" ImageWidth="1024" ImageHeight="1518" ImageSize="278962"/>
+		<Page Image="14" ImageWidth="1024" ImageHeight="1535" ImageSize="260955"/>
+		<Page Image="15" ImageWidth="1024" ImageHeight="1556" ImageSize="282563"/>
+		<Page Image="16" ImageWidth="1024" ImageHeight="1513" ImageSize="231749"/>
+		<Page Image="17" ImageWidth="1024" ImageHeight="1484" ImageSize="237795"/>
+		<Page Image="18" ImageWidth="1024" ImageHeight="1540" ImageSize="277691"/>
+		<Page Image="19" ImageWidth="1024" ImageHeight="1459" ImageSize="256055"/>
+		<Page Image="20" ImageWidth="1024" ImageHeight="1526" ImageSize="309221"/>
+		<Page Image="21" ImageWidth="1024" ImageHeight="1509" ImageSize="274699"/>
+		<Page Image="22" ImageWidth="1024" ImageHeight="1515" ImageSize="279715"/>
+		<Page Image="23" ImageWidth="1024" ImageHeight="1517" ImageSize="283979"/>
+		<Page Image="24" ImageWidth="1024" ImageHeight="1531" ImageSize="292437"/>
+		<Page Image="25" ImageWidth="1024" ImageHeight="1532" ImageSize="278451"/>
+		<Page Image="26" ImageWidth="1024" ImageHeight="1517" ImageSize="169056"/>
+		<Page Image="27" ImageWidth="1024" ImageHeight="1556" ImageSize="293584"/>
+		<Page Image="28" ImageWidth="1024" ImageHeight="1538" ImageSize="288797"/>
+		<Page Image="29" ImageWidth="1024" ImageHeight="1538" ImageSize="299093"/>
+		<Page Image="30" ImageSize="311716"/>
+	</Pages>
+	<Penciller>Dave Whamond,Tim Eldred</Penciller>
+	<Publisher>Adventure</Publisher>
+	<Series>Alien Nation: The First Comers</Series>
+	<Summary>https://comicvine.gamespot.com/alien-nation-the-first-comers-1/4000-224300/</Summary>
+	<Teams>United States Army</Teams>
+	<Title>GN</Title>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/alien-nation-the-first-comers-1/4000-224300/</Web>
+	<Writer>Dave Whamond,Martin Powell</Writer>
+	<Year>1991</Year>
+</ComicInfo>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Format>Limited Series</Format>
+	<Genre>Horror</Genre>
+	<Inker>Dominic Racho</Inker>
+	<Notes>Tagged with comicbox 1.2.1 on 2024-12-27T15:10:48</Notes>
+	<Number>2</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2079" ImageHeight="3142" ImageSize="8984355" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2079" ImageHeight="3142" ImageSize="243248"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2079" ImageHeight="3142" ImageSize="9262778"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2079" ImageHeight="3142" ImageSize="7433428"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2079" ImageHeight="3142" ImageSize="7880794"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2079" ImageHeight="3142" ImageSize="7754212"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2079" ImageHeight="3142" ImageSize="8201009"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2079" ImageHeight="3142" ImageSize="5719844"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2079" ImageHeight="3142" ImageSize="6903538"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2079" ImageHeight="3142" ImageSize="6884800"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2079" ImageHeight="3142" ImageSize="7205647"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2079" ImageHeight="3142" ImageSize="7186836"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2079" ImageHeight="3142" ImageSize="9969972"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2079" ImageHeight="3142" ImageSize="8249741"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2079" ImageHeight="3142" ImageSize="8409400"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2079" ImageHeight="3142" ImageSize="8402546"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2079" ImageHeight="3142" ImageSize="7408804"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2079" ImageHeight="3142" ImageSize="8175234"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2079" ImageHeight="3142" ImageSize="9623537"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2079" ImageHeight="3142" ImageSize="9362206"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2079" ImageHeight="3142" ImageSize="8547605"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2079" ImageHeight="3142" ImageSize="8014459"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2079" ImageHeight="3142" ImageSize="8973075"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2079" ImageHeight="3142" ImageSize="8324168"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2079" ImageHeight="3142" ImageSize="8986822"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2079" ImageHeight="3142" ImageSize="8191383"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2079" ImageHeight="3142" ImageSize="9852378"/>
+		<Page Image="27" ImageSize="3443872"/>
+	</Pages>
+	<Penciller>Dominic Racho</Penciller>
+	<Publisher>Afterlight Comics</Publisher>
+	<Series>Slasher Royale</Series>
+	<Summary>After a mass prison break, the guards must do everything they can to hunt down the slashers before they reach civilisation.</Summary>
+	<Volume>2022</Volume>
+	<Writer>Joseph Oliveira</Writer>
+	<Year>2023</Year>
+</ComicInfo>

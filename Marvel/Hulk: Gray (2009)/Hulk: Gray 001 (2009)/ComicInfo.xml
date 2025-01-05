@@ -1,0 +1,179 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Doc Samson,Rick Jones,Hulk,Iron Man,Betty Ross,Thunderbolt Ross</Characters>
+  <Colorist>Matt Hollingsworth</Colorist>
+  <Count>1</Count>
+  <Day>2</Day>
+  <Editor>Joe Quesada,Nanci Dakesian</Editor>
+  <GTIN>urn:comixology:24006</GTIN>
+  <Genre>Superhero,Pulp</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Richard Starkings,Wes Abbott,John G Roshell</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T14:25:41 [Issue ID 4000-191297] urn:comicvine:4000-191297 urn:comixology:24006
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-21 02:23:57. [Issue ID 191297]</Notes>
+  <Number>1</Number>
+  <PageCount>149</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="827529" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="442005" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1093520" ImageWidth="3975" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1303888" ImageWidth="3975" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2277982" ImageWidth="3975" />
+    <Page Image="5" ImageHeight="3056" ImageSize="543571" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1928449" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="1835392" ImageWidth="3975" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1228563" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="1379576" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1186141" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1140420" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="1593985" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1181160" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1473960" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1159327" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="881715" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1132051" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1262322" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="1186210" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2554217" ImageWidth="3975" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1392559" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="1420384" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="1283679" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1310888" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="1350918" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="999696" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="566889" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="463446" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="2023163" ImageWidth="3975" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1239992" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1295296" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="853413" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1371102" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1226489" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="1214516" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="1540156" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1325097" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="986002" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="1382541" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="2182316" ImageWidth="3975" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1102223" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1234942" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="801765" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="982592" ImageWidth="1988" />
+    <Page Image="45" ImageHeight="3056" ImageSize="856175" ImageWidth="1988" />
+    <Page Image="46" ImageHeight="3056" ImageSize="952635" ImageWidth="1988" />
+    <Page Image="47" ImageHeight="3056" ImageSize="869374" ImageWidth="1988" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1027665" ImageWidth="1988" />
+    <Page Image="49" ImageHeight="3056" ImageSize="622404" ImageWidth="1988" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1250095" ImageWidth="1988" />
+    <Page Image="51" ImageHeight="3056" ImageSize="1009339" ImageWidth="3975" />
+    <Page Image="52" ImageHeight="3056" ImageSize="1064106" ImageWidth="1988" />
+    <Page Image="53" ImageHeight="3056" ImageSize="1395786" ImageWidth="1988" />
+    <Page Image="54" ImageHeight="3056" ImageSize="1308193" ImageWidth="1988" />
+    <Page Image="55" ImageHeight="3056" ImageSize="1273527" ImageWidth="1988" />
+    <Page Image="56" ImageHeight="3056" ImageSize="1480229" ImageWidth="1988" />
+    <Page Image="57" ImageHeight="3056" ImageSize="1204021" ImageWidth="1988" />
+    <Page Image="58" ImageHeight="3056" ImageSize="1220194" ImageWidth="1988" />
+    <Page Image="59" ImageHeight="3056" ImageSize="1287065" ImageWidth="1988" />
+    <Page Image="60" ImageHeight="3056" ImageSize="1020935" ImageWidth="1988" />
+    <Page Image="61" ImageHeight="3056" ImageSize="1077640" ImageWidth="1988" />
+    <Page Image="62" ImageHeight="3056" ImageSize="1247572" ImageWidth="1988" />
+    <Page Image="63" ImageHeight="3056" ImageSize="1031178" ImageWidth="1988" />
+    <Page Image="64" ImageHeight="3056" ImageSize="1253490" ImageWidth="1988" />
+    <Page Image="65" ImageHeight="3056" ImageSize="1203561" ImageWidth="1988" />
+    <Page Image="66" ImageHeight="3056" ImageSize="1285780" ImageWidth="1988" />
+    <Page Image="67" ImageHeight="3056" ImageSize="987482" ImageWidth="1988" />
+    <Page Image="68" ImageHeight="3056" ImageSize="876220" ImageWidth="1988" />
+    <Page Image="69" ImageHeight="3056" ImageSize="1447270" ImageWidth="1988" />
+    <Page Image="70" ImageHeight="3056" ImageSize="912346" ImageWidth="1988" />
+    <Page Image="71" ImageHeight="3056" ImageSize="903300" ImageWidth="1988" />
+    <Page Image="72" ImageHeight="3056" ImageSize="537225" ImageWidth="1988" />
+    <Page Image="73" ImageHeight="3056" ImageSize="861050" ImageWidth="1988" />
+    <Page Image="74" ImageHeight="3056" ImageSize="2532883" ImageWidth="3975" />
+    <Page Image="75" ImageHeight="3056" ImageSize="1272273" ImageWidth="1988" />
+    <Page Image="76" ImageHeight="3056" ImageSize="1229412" ImageWidth="1988" />
+    <Page Image="77" ImageHeight="3056" ImageSize="1465357" ImageWidth="1988" />
+    <Page Image="78" ImageHeight="3056" ImageSize="1043184" ImageWidth="1988" />
+    <Page Image="79" ImageHeight="3056" ImageSize="1086756" ImageWidth="1988" />
+    <Page Image="80" ImageHeight="3056" ImageSize="858446" ImageWidth="1988" />
+    <Page Image="81" ImageHeight="3056" ImageSize="1300809" ImageWidth="1988" />
+    <Page Image="82" ImageHeight="3056" ImageSize="905196" ImageWidth="1988" />
+    <Page Image="83" ImageHeight="3056" ImageSize="925608" ImageWidth="1988" />
+    <Page Image="84" ImageHeight="3056" ImageSize="1448144" ImageWidth="1988" />
+    <Page Image="85" ImageHeight="3056" ImageSize="1708121" ImageWidth="1988" />
+    <Page Image="86" ImageHeight="3056" ImageSize="1382332" ImageWidth="1988" />
+    <Page Image="87" ImageHeight="3056" ImageSize="2035184" ImageWidth="3975" />
+    <Page Image="88" ImageHeight="3056" ImageSize="938745" ImageWidth="1988" />
+    <Page Image="89" ImageHeight="3056" ImageSize="963025" ImageWidth="1988" />
+    <Page Image="90" ImageHeight="3056" ImageSize="824932" ImageWidth="1988" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1172399" ImageWidth="1988" />
+    <Page Image="92" ImageHeight="3056" ImageSize="1176740" ImageWidth="1988" />
+    <Page Image="93" ImageHeight="3056" ImageSize="913072" ImageWidth="1988" />
+    <Page Image="94" ImageHeight="3056" ImageSize="521399" ImageWidth="1988" />
+    <Page Image="95" ImageHeight="3056" ImageSize="831047" ImageWidth="1988" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1427393" ImageWidth="3975" />
+    <Page Image="97" ImageHeight="3056" ImageSize="1322148" ImageWidth="1988" />
+    <Page Image="98" ImageHeight="3056" ImageSize="1083211" ImageWidth="1988" />
+    <Page Image="99" ImageHeight="3056" ImageSize="755322" ImageWidth="1988" />
+    <Page Image="100" ImageHeight="3056" ImageSize="797377" ImageWidth="1988" />
+    <Page Image="101" ImageHeight="3056" ImageSize="785468" ImageWidth="1988" />
+    <Page Image="102" ImageHeight="3056" ImageSize="676629" ImageWidth="1988" />
+    <Page Image="103" ImageHeight="3056" ImageSize="1089065" ImageWidth="1988" />
+    <Page Image="104" ImageHeight="3056" ImageSize="1127682" ImageWidth="1988" />
+    <Page Image="105" ImageHeight="3056" ImageSize="917850" ImageWidth="1988" />
+    <Page Image="106" ImageHeight="3056" ImageSize="1312946" ImageWidth="1988" />
+    <Page Image="107" ImageHeight="3056" ImageSize="1121179" ImageWidth="1988" />
+    <Page Image="108" ImageHeight="3056" ImageSize="1073198" ImageWidth="1988" />
+    <Page Image="109" ImageHeight="3056" ImageSize="955966" ImageWidth="3975" />
+    <Page Image="110" ImageHeight="3056" ImageSize="892389" ImageWidth="1988" />
+    <Page Image="111" ImageHeight="3056" ImageSize="945398" ImageWidth="1988" />
+    <Page Image="112" ImageHeight="3056" ImageSize="626789" ImageWidth="1988" />
+    <Page Image="113" ImageHeight="3056" ImageSize="822098" ImageWidth="1988" />
+    <Page Image="114" ImageHeight="3056" ImageSize="1053077" ImageWidth="1988" />
+    <Page Image="115" ImageHeight="3056" ImageSize="963517" ImageWidth="1988" />
+    <Page Image="116" ImageHeight="3056" ImageSize="728457" ImageWidth="1988" />
+    <Page Image="117" ImageHeight="3056" ImageSize="1202447" ImageWidth="1988" />
+    <Page Image="118" ImageHeight="3056" ImageSize="1841903" ImageWidth="3975" />
+    <Page Image="119" ImageHeight="3056" ImageSize="1120625" ImageWidth="1988" />
+    <Page Image="120" ImageHeight="3056" ImageSize="1378858" ImageWidth="1988" />
+    <Page Image="121" ImageHeight="3056" ImageSize="1310971" ImageWidth="1988" />
+    <Page Image="122" ImageHeight="3056" ImageSize="1295054" ImageWidth="1988" />
+    <Page Image="123" ImageHeight="3056" ImageSize="1392564" ImageWidth="1988" />
+    <Page Image="124" ImageHeight="3056" ImageSize="1206925" ImageWidth="1988" />
+    <Page Image="125" ImageHeight="3056" ImageSize="1217942" ImageWidth="1988" />
+    <Page Image="126" ImageHeight="3056" ImageSize="1254732" ImageWidth="1988" />
+    <Page Image="127" ImageHeight="3056" ImageSize="1254672" ImageWidth="1988" />
+    <Page Image="128" ImageHeight="3056" ImageSize="1072112" ImageWidth="1988" />
+    <Page Image="129" ImageHeight="3056" ImageSize="1216313" ImageWidth="1988" />
+    <Page Image="130" ImageHeight="3056" ImageSize="885614" ImageWidth="1988" />
+    <Page Image="131" ImageHeight="3056" ImageSize="914121" ImageWidth="1988" />
+    <Page Image="132" ImageHeight="3056" ImageSize="1185181" ImageWidth="1988" />
+    <Page Image="133" ImageHeight="3056" ImageSize="938818" ImageWidth="1988" />
+    <Page Image="134" ImageHeight="3056" ImageSize="1005651" ImageWidth="1988" />
+    <Page Image="135" ImageHeight="3056" ImageSize="721016" ImageWidth="1988" />
+    <Page Image="136" ImageHeight="3056" ImageSize="972046" ImageWidth="1988" />
+    <Page Image="137" ImageHeight="3056" ImageSize="861521" ImageWidth="1988" />
+    <Page Image="138" ImageHeight="3056" ImageSize="1003151" ImageWidth="1988" />
+    <Page Image="139" ImageHeight="3056" ImageSize="3238762" ImageWidth="3975" />
+    <Page Image="140" ImageHeight="3056" ImageSize="2677759" ImageWidth="3975" />
+    <Page Image="141" ImageHeight="3056" ImageSize="2483627" ImageWidth="3975" />
+    <Page Image="142" ImageHeight="3056" ImageSize="2630200" ImageWidth="3975" />
+    <Page Image="143" ImageHeight="3056" ImageSize="1979134" ImageWidth="3975" />
+    <Page Image="144" ImageHeight="3056" ImageSize="2168475" ImageWidth="3975" />
+    <Page Image="145" ImageHeight="3056" ImageSize="1400774" ImageWidth="3975" />
+    <Page Image="146" ImageHeight="3056" ImageSize="1553528" ImageWidth="3975" />
+    <Page Image="147" ImageHeight="3056" ImageSize="960368" ImageWidth="1988" />
+    <Page Image="148" ImageSize="949809" />
+  </Pages>
+  <Penciller>Tim Sale,Tim Sale</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Hulk: Gray</Series>
+  <Summary>Before the world knew that                                                             Bruce Banner is the                                                            Hulk. Before                                                           Bruce had confessed his love to                                                          Betty Ross. Before the                                                         Hulk was green… there was                                                        Hulk: Gray.                                                      Bruce Banner’s life was torn apart by the explosion of the                                                     Gamma Bomb. From that moment on, he unleashed the strongest creature on Earth –                                                    The Incredible Hulk. No matter how powerful he became, his heart could still be shattered by                                                   Betty Ross, the daughter of his greatest enemy,                                                  General “Thunderbolt” Ross. The Eisner Award-winning team of                                                 Jeph Loeb and                                                Tim Sale (                                              Superman For All Seasons,                                              Batman: The Long Halloween,                                             DAREDEVIL: YELLOW, and                                            SPIDER-MAN: BLUE) continue their insightful look into the early days of                                           Marvel Comics’ most popular heroes. In                                          HULK: GRAY they unravel the origin of the                                         Hulk and in doing so uncover a secret that will change the way we look at                                        Bruce Banner forever. Collecting                                       HULK: GRAY #1-6.                             Hulk: Gray #1 - 'A' Is For AppleThe critically acclaimed, fan-favorite creative team of                     DAREDEVIL: YELLOW and                    SPIDER-MAN BLUE create another of their “Marvel Spectrum” stories – a tale of the                   INCREDIBLE HULK before he was even green!                                 Hulk: Gray #2 - 'B' Is For BoyThe critically acclaimed, fan-favorite creative team of                  DAREDEVIL: YELLOW and                 SPIDER-MAN BLUE create another of their “Marvel Spectrum” stories – a tale of the                INCREDIBLE HULK before he was even green! In this issue,               Betty meets the              Hulk for the first time - and things don't go as well as they were supposed to... And             Rick accepts to take desperate measures to help            Bruce Banner in containing the           Hulk.                                Hulk: Gray #3 - 'C' Is For CryThe          Hulk is on the run from the military. Who can he turn to in his time of need?                               Hulk: Gray #4 - 'D' Is For DogThe         Hulk is loose and on the run from the        U.S. Army! Can beautiful       Betty Ross bring some peace to the raging behemoth?!                              Hulk: Gray #5 - 'E' Is For ElephantFresh from a battle with      IRON MAN, the     Army is still hot on the    Hulk’s trail.                             Hulk: Gray #6 - 'F' Is For FatherThe final chapter of this ‘Hulk-Smash’ best-selling limited series! Can the   Hulk escape the army and still keep the love of  Betty Banner?</Summary>
+  <Teams>United States Army</Teams>
+  <Title>Hulk: Gray HC</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/hulk-gray-1-hulk-gray-hc/4000-191297/</Web>
+  <Writer>Jeph Loeb</Writer>
+  <Year>2009</Year>
+  <Inker>Tim Sale</Inker>
+  <CoverArtist>Tim Sale</CoverArtist>
+</ComicInfo>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Flavia Caracuzzo</Colorist>
+	<Count>5</Count>
+	<CoverArtist>Giancarlo Caracuzzo</CoverArtist>
+	<Day>18</Day>
+	<Editor>Nate Wunderman</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-734019</GTIN>
+	<Genre>Action,Vigilante</Genre>
+	<Inker>Giancarlo Caracuzzo</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Josephine Roberts</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-21T00:24:46 [Issue ID 4000-734019] urn:comicvine:4000-734019</Notes>
+	<Number>2</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="1352986" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="1170866"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="1906883"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="1556835"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="1199999"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="1492645"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="1349726"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="1541451"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="1817957"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="1640573"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="1522782"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="1381574"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="1248649"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="1213265"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="1457175"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="1258590"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="1524212"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="1402318"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="1132196"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1243366"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="1244376"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="1611060"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="1512035"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="1350517"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="1123686"/>
+		<Page Image="25" ImageSize="690681"/>
+	</Pages>
+	<Penciller>Giancarlo Caracuzzo</Penciller>
+	<Publisher>Wunderman Comics</Publisher>
+	<Series>Boogeyman</Series>
+	<Summary>As Boogeyman's renown grows, he draws the attention of his city's powerful and deadly.</Summary>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/boogeyman-2/4000-734019/</Web>
+	<Writer>Massimiliano Grotti</Writer>
+	<Year>2020</Year>
+</ComicInfo>

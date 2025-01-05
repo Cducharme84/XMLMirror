@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Blackblood,Bootleg,Deadlock,Deus X Machina,Doc Maniacus,Dog Tag,Hammerstein,Joe Pineapples,Mek-Quake,Mongrol,Morrigun,Mr. Lovebomb,Steelhorn,The Rev,Warmonger</Characters>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-509337</GTIN>
+	<Inker>Boo Cook,Carlos Ezquerra,Kevin Walker,Liam Sharp,Mick McMahon</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:39:00 [Issue ID 4000-509337] urn:comicvine:4000-509337</Notes>
+	<Number>3</Number>
+	<PageCount>272</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="4458994" Type="FrontCover"/>
+		<Page Image="1" ImageSize="3662375"/>
+		<Page Image="2" ImageSize="3389468"/>
+		<Page Image="3" ImageSize="2390564"/>
+		<Page Image="4" ImageSize="2089158"/>
+		<Page Image="5" ImageSize="2199408"/>
+		<Page Image="6" ImageSize="2068192"/>
+		<Page Image="7" ImageSize="2039027"/>
+		<Page Image="8" ImageSize="2001377"/>
+		<Page Image="9" ImageSize="1840553"/>
+		<Page Image="10" ImageSize="1232051"/>
+		<Page Image="11" ImageSize="1928771"/>
+		<Page Image="12" ImageSize="1761412"/>
+		<Page Image="13" ImageSize="1692794"/>
+		<Page Image="14" ImageSize="1727326"/>
+		<Page Image="15" ImageSize="1497924"/>
+		<Page Image="16" ImageSize="1586164"/>
+		<Page Image="17" ImageSize="1726700"/>
+		<Page Image="18" ImageSize="1992990"/>
+		<Page Image="19" ImageSize="1731944"/>
+		<Page Image="20" ImageSize="1654632"/>
+		<Page Image="21" ImageSize="1826348"/>
+		<Page Image="22" ImageSize="1603249"/>
+		<Page Image="23" ImageSize="1917035"/>
+		<Page Image="24" ImageSize="1672289"/>
+		<Page Image="25" ImageSize="1631024"/>
+		<Page Image="26" ImageSize="1573177"/>
+		<Page Image="27" ImageSize="1568382"/>
+		<Page Image="28" ImageSize="1514053"/>
+		<Page Image="29" ImageSize="1673695"/>
+		<Page Image="30" ImageSize="1584858"/>
+		<Page Image="31" ImageSize="1688850"/>
+		<Page Image="32" ImageSize="1663357"/>
+		<Page Image="33" ImageSize="1680553"/>
+		<Page Image="34" ImageSize="1287972"/>
+		<Page Image="35" ImageSize="772280"/>
+		<Page Image="36" ImageSize="1595711"/>
+		<Page Image="37" ImageSize="1767135"/>
+		<Page Image="38" ImageSize="1725315"/>
+		<Page Image="39" ImageSize="1429529"/>
+		<Page Image="40" ImageSize="1584373"/>
+		<Page Image="41" ImageSize="2141613"/>
+		<Page Image="42" ImageSize="1730121"/>
+		<Page Image="43" ImageSize="1526453"/>
+		<Page Image="44" ImageSize="1330810"/>
+		<Page Image="45" ImageSize="1565588"/>
+		<Page Image="46" ImageSize="2180544"/>
+		<Page Image="47" ImageSize="2248541"/>
+		<Page Image="48" ImageSize="1466194"/>
+		<Page Image="49" ImageSize="1813946"/>
+		<Page Image="50" ImageSize="1415407"/>
+		<Page Image="51" ImageSize="1654679"/>
+		<Page Image="52" ImageSize="1939411"/>
+		<Page Image="53" ImageSize="1385996"/>
+		<Page Image="54" ImageSize="642945"/>
+		<Page Image="55" ImageSize="1594745"/>
+		<Page Image="56" ImageSize="1616667"/>
+		<Page Image="57" ImageSize="1582701"/>
+		<Page Image="58" ImageSize="1561514"/>
+		<Page Image="59" ImageSize="1585562"/>
+		<Page Image="60" ImageSize="1440779"/>
+		<Page Image="61" ImageSize="1554702"/>
+		<Page Image="62" ImageSize="1548722"/>
+		<Page Image="63" ImageSize="1497670"/>
+		<Page Image="64" ImageSize="1539699"/>
+		<Page Image="65" ImageSize="1502876"/>
+		<Page Image="66" ImageSize="1341188"/>
+		<Page Image="67" ImageSize="1466258"/>
+		<Page Image="68" ImageSize="1601583"/>
+		<Page Image="69" ImageSize="1523666"/>
+		<Page Image="70" ImageSize="1535732"/>
+		<Page Image="71" ImageSize="1484027"/>
+		<Page Image="72" ImageSize="1573337"/>
+		<Page Image="73" ImageSize="761564"/>
+		<Page Image="74" ImageSize="1807230"/>
+		<Page Image="75" ImageSize="1853667"/>
+		<Page Image="76" ImageSize="2114839"/>
+		<Page Image="77" ImageSize="1912604"/>
+		<Page Image="78" ImageSize="1933686"/>
+		<Page Image="79" ImageSize="1785619"/>
+		<Page Image="80" ImageSize="1750974"/>
+		<Page Image="81" ImageSize="1506896"/>
+		<Page Image="82" ImageSize="1606605"/>
+		<Page Image="83" ImageSize="1811228"/>
+		<Page Image="84" ImageSize="1608208"/>
+		<Page Image="85" ImageSize="1809833"/>
+		<Page Image="86" ImageSize="2066275"/>
+		<Page Image="87" ImageSize="1768187"/>
+		<Page Image="88" ImageSize="2027857"/>
+		<Page Image="89" ImageSize="2039639"/>
+		<Page Image="90" ImageSize="2026742"/>
+		<Page Image="91" ImageSize="1843890"/>
+		<Page Image="92" ImageSize="1046196"/>
+		<Page Image="93" ImageSize="1414168"/>
+		<Page Image="94" ImageSize="1360865"/>
+		<Page Image="95" ImageSize="1311918"/>
+		<Page Image="96" ImageSize="1378337"/>
+		<Page Image="97" ImageSize="1460979"/>
+		<Page Image="98" ImageSize="1602005"/>
+		<Page Image="99" ImageSize="1541973"/>
+		<Page Image="100" ImageSize="1465773"/>
+		<Page Image="101" ImageSize="1437728"/>
+		<Page Image="102" ImageSize="1534004"/>
+		<Page Image="103" ImageSize="1533764"/>
+		<Page Image="104" ImageSize="1558456"/>
+		<Page Image="105" ImageSize="1645665"/>
+		<Page Image="106" ImageSize="1648849"/>
+		<Page Image="107" ImageSize="1606437"/>
+		<Page Image="108" ImageSize="1366615"/>
+		<Page Image="109" ImageSize="1473044"/>
+		<Page Image="110" ImageSize="1117261"/>
+		<Page Image="111" ImageSize="959587"/>
+		<Page Image="112" ImageSize="1399695"/>
+		<Page Image="113" ImageSize="1578666"/>
+		<Page Image="114" ImageSize="1474060"/>
+		<Page Image="115" ImageSize="1406580"/>
+		<Page Image="116" ImageSize="1396021"/>
+		<Page Image="117" ImageSize="1645105"/>
+		<Page Image="118" ImageSize="1463338"/>
+		<Page Image="119" ImageSize="1593236"/>
+		<Page Image="120" ImageSize="1601104"/>
+		<Page Image="121" ImageSize="1481427"/>
+		<Page Image="122" ImageSize="1690306"/>
+		<Page Image="123" ImageSize="1437003"/>
+		<Page Image="124" ImageSize="1607224"/>
+		<Page Image="125" ImageSize="1623587"/>
+		<Page Image="126" ImageSize="1449733"/>
+		<Page Image="127" ImageSize="1567579"/>
+		<Page Image="128" ImageSize="1429107"/>
+		<Page Image="129" ImageSize="1496123"/>
+		<Page Image="130" ImageSize="1314240"/>
+		<Page Image="131" ImageSize="1672079"/>
+		<Page Image="132" ImageSize="1688935"/>
+		<Page Image="133" ImageSize="1699446"/>
+		<Page Image="134" ImageSize="1563165"/>
+		<Page Image="135" ImageSize="1532055"/>
+		<Page Image="136" ImageSize="1777992"/>
+		<Page Image="137" ImageSize="1471393"/>
+		<Page Image="138" ImageSize="1501717"/>
+		<Page Image="139" ImageSize="1538551"/>
+		<Page Image="140" ImageSize="1535065"/>
+		<Page Image="141" ImageSize="1606492"/>
+		<Page Image="142" ImageSize="1301542"/>
+		<Page Image="143" ImageSize="1390409"/>
+		<Page Image="144" ImageSize="1441233"/>
+		<Page Image="145" ImageSize="1401681"/>
+		<Page Image="146" ImageSize="1577916"/>
+		<Page Image="147" ImageSize="1359890"/>
+		<Page Image="148" ImageSize="1350973"/>
+		<Page Image="149" ImageSize="1229842"/>
+		<Page Image="150" ImageSize="1441936"/>
+		<Page Image="151" ImageSize="1398961"/>
+		<Page Image="152" ImageSize="1701947"/>
+		<Page Image="153" ImageSize="1397909"/>
+		<Page Image="154" ImageSize="1581509"/>
+		<Page Image="155" ImageSize="1519695"/>
+		<Page Image="156" ImageSize="530767"/>
+		<Page Image="157" ImageSize="1771405"/>
+		<Page Image="158" ImageSize="1709072"/>
+		<Page Image="159" ImageSize="2004592"/>
+		<Page Image="160" ImageSize="1648631"/>
+		<Page Image="161" ImageSize="1814130"/>
+		<Page Image="162" ImageSize="1832535"/>
+		<Page Image="163" ImageSize="1647152"/>
+		<Page Image="164" ImageSize="1966747"/>
+		<Page Image="165" ImageSize="1701761"/>
+		<Page Image="166" ImageSize="2232292"/>
+		<Page Image="167" ImageSize="2185421"/>
+		<Page Image="168" ImageSize="2049344"/>
+		<Page Image="169" ImageSize="1904190"/>
+		<Page Image="170" ImageSize="1867197"/>
+		<Page Image="171" ImageSize="2317730"/>
+		<Page Image="172" ImageSize="1908039"/>
+		<Page Image="173" ImageSize="2003706"/>
+		<Page Image="174" ImageSize="1770971"/>
+		<Page Image="175" ImageSize="1946223"/>
+		<Page Image="176" ImageSize="2104437"/>
+		<Page Image="177" ImageSize="1683797"/>
+		<Page Image="178" ImageSize="1912469"/>
+		<Page Image="179" ImageSize="2292720"/>
+		<Page Image="180" ImageSize="2114357"/>
+		<Page Image="181" ImageSize="1913284"/>
+		<Page Image="182" ImageSize="1864705"/>
+		<Page Image="183" ImageSize="1979561"/>
+		<Page Image="184" ImageSize="2134124"/>
+		<Page Image="185" ImageSize="2324560"/>
+		<Page Image="186" ImageSize="1843996"/>
+		<Page Image="187" ImageSize="1783353"/>
+		<Page Image="188" ImageSize="2122476"/>
+		<Page Image="189" ImageSize="2004779"/>
+		<Page Image="190" ImageSize="2093097"/>
+		<Page Image="191" ImageSize="1874249"/>
+		<Page Image="192" ImageSize="1794335"/>
+		<Page Image="193" ImageSize="1677130"/>
+		<Page Image="194" ImageSize="1716808"/>
+		<Page Image="195" ImageSize="1963884"/>
+		<Page Image="196" ImageSize="1943947"/>
+		<Page Image="197" ImageSize="1828237"/>
+		<Page Image="198" ImageSize="2014452"/>
+		<Page Image="199" ImageSize="1725172"/>
+		<Page Image="200" ImageSize="1777365"/>
+		<Page Image="201" ImageSize="1914099"/>
+		<Page Image="202" ImageSize="1783126"/>
+		<Page Image="203" ImageSize="1300009"/>
+		<Page Image="204" ImageSize="3867905"/>
+		<Page Image="205" ImageSize="3846803"/>
+		<Page Image="206" ImageSize="2380470"/>
+		<Page Image="207" ImageSize="1728829"/>
+		<Page Image="208" ImageSize="1884580"/>
+		<Page Image="209" ImageSize="2044121"/>
+		<Page Image="210" ImageSize="1958957"/>
+		<Page Image="211" ImageSize="1915040"/>
+		<Page Image="212" ImageSize="1662571"/>
+		<Page Image="213" ImageSize="1691224"/>
+		<Page Image="214" ImageSize="1734720"/>
+		<Page Image="215" ImageSize="1662630"/>
+		<Page Image="216" ImageSize="1589354"/>
+		<Page Image="217" ImageSize="1627253"/>
+		<Page Image="218" ImageSize="1777330"/>
+		<Page Image="219" ImageSize="1689038"/>
+		<Page Image="220" ImageSize="1818228"/>
+		<Page Image="221" ImageSize="1769759"/>
+		<Page Image="222" ImageSize="1801967"/>
+		<Page Image="223" ImageSize="1525452"/>
+		<Page Image="224" ImageSize="1576056"/>
+		<Page Image="225" ImageSize="1608984"/>
+		<Page Image="226" ImageSize="2068978"/>
+		<Page Image="227" ImageSize="1640969"/>
+		<Page Image="228" ImageSize="1812564"/>
+		<Page Image="229" ImageSize="1676498"/>
+		<Page Image="230" ImageSize="1843553"/>
+		<Page Image="231" ImageSize="1428179"/>
+		<Page Image="232" ImageSize="1870176"/>
+		<Page Image="233" ImageSize="1871383"/>
+		<Page Image="234" ImageSize="1902190"/>
+		<Page Image="235" ImageSize="1561533"/>
+		<Page Image="236" ImageSize="1924008"/>
+		<Page Image="237" ImageSize="2020622"/>
+		<Page Image="238" ImageSize="1773143"/>
+		<Page Image="239" ImageSize="1675610"/>
+		<Page Image="240" ImageSize="2029482"/>
+		<Page Image="241" ImageSize="1829162"/>
+		<Page Image="242" ImageSize="1935917"/>
+		<Page Image="243" ImageSize="1657973"/>
+		<Page Image="244" ImageSize="2158289"/>
+		<Page Image="245" ImageSize="1745901"/>
+		<Page Image="246" ImageSize="2166993"/>
+		<Page Image="247" ImageSize="1759936"/>
+		<Page Image="248" ImageSize="1950446"/>
+		<Page Image="249" ImageSize="1929462"/>
+		<Page Image="250" ImageSize="1755313"/>
+		<Page Image="251" ImageSize="1982297"/>
+		<Page Image="252" ImageSize="2115891"/>
+		<Page Image="253" ImageSize="2349934"/>
+		<Page Image="254" ImageSize="2022479"/>
+		<Page Image="255" ImageSize="1752419"/>
+		<Page Image="256" ImageSize="1704759"/>
+		<Page Image="257" ImageSize="1762503"/>
+		<Page Image="258" ImageSize="1669321"/>
+		<Page Image="259" ImageSize="1777663"/>
+		<Page Image="260" ImageSize="875486"/>
+		<Page Image="261" ImageSize="849313"/>
+		<Page Image="262" ImageSize="2118412"/>
+		<Page Image="263" ImageSize="2136090"/>
+		<Page Image="264" ImageSize="1238300"/>
+		<Page Image="265" ImageSize="1425807"/>
+		<Page Image="266" ImageSize="1841239"/>
+		<Page Image="267" ImageSize="1467052"/>
+		<Page Image="268" ImageSize="964457"/>
+		<Page Image="269" ImageSize="1698058"/>
+		<Page Image="270" ImageSize="4020719"/>
+		<Page Image="271" ImageSize="128352"/>
+	</Pages>
+	<Penciller>Boo Cook,Carlos Ezquerra,Kevin Walker,Liam Sharp,Mick McMahon</Penciller>
+	<Publisher>Rebellion</Publisher>
+	<Series>A.B.C. Warriors: The Mek-Files</Series>
+	<Summary>MARS ATTACKS!
+
+THE HUMAN COLONISTS HAVE RAVAGED MARS AND THE SENTIENT PLANET HAS HAD ENOUGH! Martian natives have taken up the cause and are fighting back for their world. With tensions between the different factions at an all-time high, the A.B.C. Warriors are sent in to ‘increase the peace’. But this mission is fraught with danger and at least one Warrior is destined to fall!
+
+Written by 2000 AD creator Pat Mills (Ro-Busters), this stunning black and white collection features the work of Henry Flint (Zombo, Judge Dredd), Mick McMahon (Sláine, Judge Dredd) and Carlos Ezquerra (Strontium Dog) amongst others.
+
+THIS VOLUME INCLUDES THE STORIES:
+
+ROADKILL (2000 AD Prog 2000)
+THE THIRD ELEMENT (2000 AD Prog 1234-1236)
+THE CLONE COWBOYS (2000 AD Prog 1237-1239)
+THE TRIPODS (2000 AD Progs 1240-1242)
+THE ZERO OPTION (2000 AD Progs 1243-1245)
+ASSAULT ON THE RED HOUSE (2000 AD Progs 1246-1248)
+THE SHADOW WARRIORS: BOOK ONE (2000 AD Progs 1336-1341)
+THE SHADOW WARRIORS: BOOK TWO (2000 AD Progs 1400-1405)
+THE SHADOW WARRIORS: BOOK THREE (2000 AD Progs 1476-1485)
+PLUS!
+
+Creator Bios
+Gallery
+
+https://comicvine.gamespot.com/abc-warriors-the-mek-files-3-vol-3/4000-509337/</Summary>
+	<Tags>ABC Warriors,Blackblood,Bootleg,Deadlock,Deus X Machina,Doc Maniacus,Dog Tag,Hammerstein,Joe Pineapples,Mek-Quake,Mongrol,Morrigun,Mr. Lovebomb,Shadow Warriors,Steelhorn,The Rev,Warmonger</Tags>
+	<Teams>ABC Warriors,Shadow Warriors</Teams>
+	<Title>Vol. 3</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/abc-warriors-the-mek-files-3-vol-3/4000-509337/</Web>
+	<Writer>Pat Mills</Writer>
+	<Year>2016</Year>
+</ComicInfo>

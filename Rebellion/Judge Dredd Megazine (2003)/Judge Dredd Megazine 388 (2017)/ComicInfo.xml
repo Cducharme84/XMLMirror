@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Judge Death,Judge Mortis</Characters>
+  <Colorist>Dylan Teague,Eva de la Cruz,Len O'Grady,Mike Dowling,Nick Percival,Nick Percival,Len O'Grady,Mike Dowling,Dylan Teague,Eva de la Cruz</Colorist>
+  <Country>GB</Country>
+  <Day>17</Day>
+  <Editor>Matt Smith</Editor>
+  <GTIN>urn:comicvine:4000-1744230</GTIN>
+  <Inker>Mike Dowling,Nick Dyer,Nick Percival,Paul Davidson,Paul Marshall,Nick Percival,Paul Davidson,Mike Dowling,Paul Marshall,Nick Dyer</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Annie Parkhouse,Ellie de Ville,Simon Bowland,Annie Parkhouse,Ellie de Ville,Simon Bowland</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:28:23 [Issue ID 4000-1744230] urn:comicvine:4000-1744230 urn:grandcomicsdatabase:issue/1744230
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:12:00. [Issue ID 1744230]</Notes>
+  <Number>388</Number>
+  <PageCount>132</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="985869" Type="FrontCover" />
+    <Page Image="1" ImageSize="1060761" />
+    <Page Image="2" ImageSize="1173648" />
+    <Page Image="3" ImageSize="1452834" />
+    <Page Image="4" ImageSize="1400802" />
+    <Page Image="5" ImageSize="1428762" />
+    <Page Image="6" ImageSize="1256519" />
+    <Page Image="7" ImageSize="1460057" />
+    <Page Image="8" ImageSize="1359371" />
+    <Page Image="9" ImageSize="1282090" />
+    <Page Image="10" ImageSize="1357460" />
+    <Page Image="11" ImageSize="1231689" />
+    <Page Image="12" ImageSize="1678154" />
+    <Page Image="13" ImageSize="1589662" />
+    <Page Image="14" ImageSize="1152055" />
+    <Page Image="15" ImageSize="1286660" />
+    <Page Image="16" ImageSize="1155454" />
+    <Page Image="17" ImageSize="1056185" />
+    <Page Image="18" ImageSize="1194527" />
+    <Page Image="19" ImageSize="1471645" />
+    <Page Image="20" ImageSize="1262098" />
+    <Page Image="21" ImageSize="1313039" />
+    <Page Image="22" ImageSize="1116526" />
+    <Page Image="23" ImageSize="1189887" />
+    <Page Image="24" ImageSize="1206456" />
+    <Page Image="25" ImageSize="914180" />
+    <Page Image="26" ImageSize="1157827" />
+    <Page Image="27" ImageSize="1034337" />
+    <Page Image="28" ImageSize="1014704" />
+    <Page Image="29" ImageSize="1319585" />
+    <Page Image="30" ImageSize="1037438" />
+    <Page Image="31" ImageSize="1086952" />
+    <Page Image="32" ImageSize="1049589" />
+    <Page Image="33" ImageSize="913030" />
+    <Page Image="34" ImageSize="1412426" />
+    <Page Image="35" ImageSize="1081539" />
+    <Page Image="36" ImageSize="1006017" />
+    <Page Image="37" ImageSize="1248324" />
+    <Page Image="38" ImageSize="1082419" />
+    <Page Image="39" ImageSize="1058813" />
+    <Page Image="40" ImageSize="828942" />
+    <Page Image="41" ImageSize="966225" />
+    <Page Image="42" ImageSize="1170388" />
+    <Page Image="43" ImageSize="1137224" />
+    <Page Image="44" ImageSize="1907807" />
+    <Page Image="45" ImageSize="1258011" />
+    <Page Image="46" ImageSize="1293979" />
+    <Page Image="47" ImageSize="1273735" />
+    <Page Image="48" ImageSize="1104782" />
+    <Page Image="49" ImageSize="1164956" />
+    <Page Image="50" ImageSize="1100076" />
+    <Page Image="51" ImageSize="1089476" />
+    <Page Image="52" ImageSize="934996" />
+    <Page Image="53" ImageSize="911043" />
+    <Page Image="54" ImageSize="818812" />
+    <Page Image="55" ImageSize="688334" />
+    <Page Image="56" ImageSize="757600" />
+    <Page Image="57" ImageSize="769345" />
+    <Page Image="58" ImageSize="759482" />
+    <Page Image="59" ImageSize="935612" />
+    <Page Image="60" ImageSize="855361" />
+    <Page Image="61" ImageSize="778091" />
+    <Page Image="62" ImageSize="1410757" />
+    <Page Image="63" ImageSize="1287065" />
+    <Page Image="64" ImageSize="948733" />
+    <Page Image="65" ImageSize="347874" />
+    <Page Image="66" ImageSize="144942" />
+    <Page Image="67" ImageSize="1039442" />
+    <Page Image="68" ImageSize="888867" />
+    <Page Image="69" ImageSize="1181830" />
+    <Page Image="70" ImageSize="1130935" />
+    <Page Image="71" ImageSize="1268237" />
+    <Page Image="72" ImageSize="1146942" />
+    <Page Image="73" ImageSize="142092" />
+    <Page Image="74" ImageSize="1460794" />
+    <Page Image="75" ImageSize="1393922" />
+    <Page Image="76" ImageSize="1345148" />
+    <Page Image="77" ImageSize="1504897" />
+    <Page Image="78" ImageSize="1396267" />
+    <Page Image="79" ImageSize="1368000" />
+    <Page Image="80" ImageSize="141538" />
+    <Page Image="81" ImageSize="1167167" />
+    <Page Image="82" ImageSize="1357657" />
+    <Page Image="83" ImageSize="1162563" />
+    <Page Image="84" ImageSize="1347926" />
+    <Page Image="85" ImageSize="1311454" />
+    <Page Image="86" ImageSize="1236780" />
+    <Page Image="87" ImageSize="141581" />
+    <Page Image="88" ImageSize="1141056" />
+    <Page Image="89" ImageSize="1123434" />
+    <Page Image="90" ImageSize="1288380" />
+    <Page Image="91" ImageSize="1174552" />
+    <Page Image="92" ImageSize="1208884" />
+    <Page Image="93" ImageSize="1215854" />
+    <Page Image="94" ImageSize="147327" />
+    <Page Image="95" ImageSize="987308" />
+    <Page Image="96" ImageSize="765435" />
+    <Page Image="97" ImageSize="1007404" />
+    <Page Image="98" ImageSize="944907" />
+    <Page Image="99" ImageSize="950224" />
+    <Page Image="100" ImageSize="782049" />
+    <Page Image="101" ImageSize="146940" />
+    <Page Image="102" ImageSize="932986" />
+    <Page Image="103" ImageSize="906143" />
+    <Page Image="104" ImageSize="1035094" />
+    <Page Image="105" ImageSize="854867" />
+    <Page Image="106" ImageSize="876751" />
+    <Page Image="107" ImageSize="1055518" />
+    <Page Image="108" ImageSize="144235" />
+    <Page Image="109" ImageSize="979149" />
+    <Page Image="110" ImageSize="947597" />
+    <Page Image="111" ImageSize="918480" />
+    <Page Image="112" ImageSize="1100889" />
+    <Page Image="113" ImageSize="958246" />
+    <Page Image="114" ImageSize="1021432" />
+    <Page Image="115" ImageSize="144971" />
+    <Page Image="116" ImageSize="1106141" />
+    <Page Image="117" ImageSize="1201829" />
+    <Page Image="118" ImageSize="1285677" />
+    <Page Image="119" ImageSize="1065283" />
+    <Page Image="120" ImageSize="1066255" />
+    <Page Image="121" ImageSize="1227416" />
+    <Page Image="122" ImageSize="152197" />
+    <Page Image="123" ImageSize="1095548" />
+    <Page Image="124" ImageSize="1032873" />
+    <Page Image="125" ImageSize="996795" />
+    <Page Image="126" ImageSize="1070101" />
+    <Page Image="127" ImageSize="1145589" />
+    <Page Image="128" ImageSize="874801" />
+    <Page Image="129" ImageSize="781022" />
+    <Page Image="130" ImageSize="1013956" />
+    <Page Image="131" ImageSize="426388" />
+  </Pages>
+  <Penciller>Mike Dowling,Nick Dyer,Nick Percival,Paul Davidson,Paul Marshall,Nick Percival,Paul Davidson,Mike Dowling,Paul Marshall,Nick Dyer</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>Numbering:
+Counting all issues from the start in 1990, Rebellion started its run with #201.
+The previous volumes were:
+Volume 1 (1990-1992) #1-20
+Volume 2 (1992-1995) #1-83
+Volume 3 (1995-2001) #1-79
+Volume 4 (2001-2002) #1-18Comes bagged with Whatever Happened To...?</Summary>
+  <Tags>Judge Death,Judge Mortis</Tags>
+  <Title>Dominion Part Three; Furies Part Three; Blood Debt Part One; NWO Part Four; Collateral Damage</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1744230/</Web>
+  <Writer>Alan Grant,Alex de Campi,Arthur Wyatt,John Wagner,Rory McConville,T. C. Eglington,John Wagner,Arthur Wyatt,Alex de Campi,Rory McConville,Alan Grant,T. C. Eglington</Writer>
+  <Year>2017</Year>
+</ComicInfo>

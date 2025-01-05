@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-988306</GTIN>
+	<Inker>Dave Gibbons</Inker>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:16:20 [Issue ID 4000-988306] urn:comicvine:4000-988306</Notes>
+	<Number>1</Number>
+	<PageCount>258</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1920" ImageHeight="2560" ImageSize="2158017" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="3840" ImageHeight="2560" ImageSize="3680690"/>
+		<Page Image="2" ImageWidth="1920" ImageHeight="2560" ImageSize="270925"/>
+		<Page Image="3" ImageWidth="1920" ImageHeight="2560" ImageSize="500627"/>
+		<Page Image="4" ImageWidth="3840" ImageHeight="2560" ImageSize="1193886"/>
+		<Page Image="5" ImageWidth="1920" ImageHeight="2560" ImageSize="1291004"/>
+		<Page Image="6" ImageWidth="1920" ImageHeight="2560" ImageSize="2014549"/>
+		<Page Image="7" ImageWidth="1920" ImageHeight="2560" ImageSize="1736882"/>
+		<Page Image="8" ImageWidth="1920" ImageHeight="2560" ImageSize="1868438"/>
+		<Page Image="9" ImageWidth="1920" ImageHeight="2560" ImageSize="1933851"/>
+		<Page Image="10" ImageWidth="1920" ImageHeight="2560" ImageSize="2043712"/>
+		<Page Image="11" ImageWidth="1920" ImageHeight="2560" ImageSize="1524958"/>
+		<Page Image="12" ImageWidth="1920" ImageHeight="2560" ImageSize="1630008"/>
+		<Page Image="13" ImageWidth="1920" ImageHeight="2560" ImageSize="1707130"/>
+		<Page Image="14" ImageWidth="1920" ImageHeight="2560" ImageSize="1720915"/>
+		<Page Image="15" ImageWidth="1920" ImageHeight="2560" ImageSize="1845224"/>
+		<Page Image="16" ImageWidth="1920" ImageHeight="2560" ImageSize="1643461"/>
+		<Page Image="17" ImageWidth="1920" ImageHeight="2560" ImageSize="1579416"/>
+		<Page Image="18" ImageWidth="1920" ImageHeight="2560" ImageSize="1562996"/>
+		<Page Image="19" ImageWidth="1920" ImageHeight="2560" ImageSize="1515285"/>
+		<Page Image="20" ImageWidth="1920" ImageHeight="2560" ImageSize="2033034"/>
+		<Page Image="21" ImageWidth="1920" ImageHeight="2560" ImageSize="1679368"/>
+		<Page Image="22" ImageWidth="1920" ImageHeight="2560" ImageSize="4571595"/>
+		<Page Image="23" ImageWidth="1920" ImageHeight="2560" ImageSize="1757917"/>
+		<Page Image="24" ImageWidth="1920" ImageHeight="2560" ImageSize="1711353"/>
+		<Page Image="25" ImageWidth="3840" ImageHeight="2560" ImageSize="5457413"/>
+		<Page Image="26" ImageWidth="1920" ImageHeight="2560" ImageSize="2025175"/>
+		<Page Image="27" ImageWidth="1920" ImageHeight="2560" ImageSize="1636786"/>
+		<Page Image="28" ImageWidth="1920" ImageHeight="2560" ImageSize="1625453"/>
+		<Page Image="29" ImageWidth="1920" ImageHeight="2560" ImageSize="2538707"/>
+		<Page Image="30" ImageWidth="1920" ImageHeight="2560" ImageSize="2951489"/>
+		<Page Image="31" ImageWidth="1920" ImageHeight="2560" ImageSize="1632191"/>
+		<Page Image="32" ImageWidth="1920" ImageHeight="2560" ImageSize="1701025"/>
+		<Page Image="33" ImageWidth="1920" ImageHeight="2560" ImageSize="1637567"/>
+		<Page Image="34" ImageWidth="1920" ImageHeight="2560" ImageSize="2587389"/>
+		<Page Image="35" ImageWidth="1920" ImageHeight="2560" ImageSize="1662985"/>
+		<Page Image="36" ImageWidth="1920" ImageHeight="2560" ImageSize="1315300"/>
+		<Page Image="37" ImageWidth="1920" ImageHeight="2560" ImageSize="1852387"/>
+		<Page Image="38" ImageWidth="1920" ImageHeight="2560" ImageSize="2045636"/>
+		<Page Image="39" ImageWidth="1920" ImageHeight="2560" ImageSize="1423502"/>
+		<Page Image="40" ImageWidth="1920" ImageHeight="2560" ImageSize="2239604"/>
+		<Page Image="41" ImageWidth="1920" ImageHeight="2560" ImageSize="1886844"/>
+		<Page Image="42" ImageWidth="3840" ImageHeight="2560" ImageSize="8054938"/>
+		<Page Image="43" ImageWidth="1920" ImageHeight="2560" ImageSize="3298689"/>
+		<Page Image="44" ImageWidth="1920" ImageHeight="2560" ImageSize="1878944"/>
+		<Page Image="45" ImageWidth="1920" ImageHeight="2560" ImageSize="1911166"/>
+		<Page Image="46" ImageWidth="1920" ImageHeight="2560" ImageSize="1815219"/>
+		<Page Image="47" ImageWidth="1920" ImageHeight="2560" ImageSize="1778506"/>
+		<Page Image="48" ImageWidth="1920" ImageHeight="2560" ImageSize="1882068"/>
+		<Page Image="49" ImageWidth="1920" ImageHeight="2560" ImageSize="1633217"/>
+		<Page Image="50" ImageWidth="1920" ImageHeight="2560" ImageSize="2343047"/>
+		<Page Image="51" ImageWidth="1920" ImageHeight="2560" ImageSize="1733764"/>
+		<Page Image="52" ImageWidth="1920" ImageHeight="2560" ImageSize="2130376"/>
+		<Page Image="53" ImageWidth="1920" ImageHeight="2560" ImageSize="1671082"/>
+		<Page Image="54" ImageWidth="1920" ImageHeight="2560" ImageSize="1899864"/>
+		<Page Image="55" ImageWidth="1920" ImageHeight="2560" ImageSize="2294551"/>
+		<Page Image="56" ImageWidth="1920" ImageHeight="2560" ImageSize="1763553"/>
+		<Page Image="57" ImageWidth="1920" ImageHeight="2560" ImageSize="2110857"/>
+		<Page Image="58" ImageWidth="1920" ImageHeight="2560" ImageSize="3422945"/>
+		<Page Image="59" ImageWidth="1920" ImageHeight="2560" ImageSize="1831544"/>
+		<Page Image="60" ImageWidth="1920" ImageHeight="2560" ImageSize="1659468"/>
+		<Page Image="61" ImageWidth="1920" ImageHeight="2560" ImageSize="1480212"/>
+		<Page Image="62" ImageWidth="1920" ImageHeight="2560" ImageSize="2189533"/>
+		<Page Image="63" ImageWidth="1920" ImageHeight="2560" ImageSize="2202775"/>
+		<Page Image="64" ImageWidth="1920" ImageHeight="2560" ImageSize="1710585"/>
+		<Page Image="65" ImageWidth="1920" ImageHeight="2560" ImageSize="1477817"/>
+		<Page Image="66" ImageWidth="1920" ImageHeight="2560" ImageSize="1910774"/>
+		<Page Image="67" ImageWidth="1920" ImageHeight="2560" ImageSize="1661518"/>
+		<Page Image="68" ImageWidth="1920" ImageHeight="2560" ImageSize="1695577"/>
+		<Page Image="69" ImageWidth="1920" ImageHeight="2560" ImageSize="1629749"/>
+		<Page Image="70" ImageWidth="1920" ImageHeight="2560" ImageSize="2336680"/>
+		<Page Image="71" ImageWidth="1920" ImageHeight="2560" ImageSize="3091887"/>
+		<Page Image="72" ImageWidth="1920" ImageHeight="2560" ImageSize="1904257"/>
+		<Page Image="73" ImageWidth="1920" ImageHeight="2560" ImageSize="2119778"/>
+		<Page Image="74" ImageWidth="1920" ImageHeight="2560" ImageSize="1598090"/>
+		<Page Image="75" ImageWidth="1920" ImageHeight="2560" ImageSize="2014158"/>
+		<Page Image="76" ImageWidth="1920" ImageHeight="2560" ImageSize="2084043"/>
+		<Page Image="77" ImageWidth="1920" ImageHeight="2560" ImageSize="1813080"/>
+		<Page Image="78" ImageWidth="1920" ImageHeight="2560" ImageSize="1428105"/>
+		<Page Image="79" ImageWidth="1920" ImageHeight="2560" ImageSize="2367734"/>
+		<Page Image="80" ImageWidth="1920" ImageHeight="2560" ImageSize="1893554"/>
+		<Page Image="81" ImageWidth="1920" ImageHeight="2560" ImageSize="1890779"/>
+		<Page Image="82" ImageWidth="1920" ImageHeight="2560" ImageSize="1259264"/>
+		<Page Image="83" ImageWidth="1920" ImageHeight="2560" ImageSize="1385136"/>
+		<Page Image="84" ImageWidth="1920" ImageHeight="2560" ImageSize="2241693"/>
+		<Page Image="85" ImageWidth="1920" ImageHeight="2560" ImageSize="1729612"/>
+		<Page Image="86" ImageWidth="1920" ImageHeight="2560" ImageSize="2000239"/>
+		<Page Image="87" ImageWidth="1920" ImageHeight="2560" ImageSize="1258513"/>
+		<Page Image="88" ImageWidth="1920" ImageHeight="2560" ImageSize="1103051"/>
+		<Page Image="89" ImageWidth="1920" ImageHeight="2560" ImageSize="1667707"/>
+		<Page Image="90" ImageWidth="1920" ImageHeight="2560" ImageSize="1817009"/>
+		<Page Image="91" ImageWidth="1920" ImageHeight="2560" ImageSize="2091213"/>
+		<Page Image="92" ImageWidth="1920" ImageHeight="2560" ImageSize="1840022"/>
+		<Page Image="93" ImageWidth="1920" ImageHeight="2560" ImageSize="1588178"/>
+		<Page Image="94" ImageWidth="1920" ImageHeight="2560" ImageSize="1574382"/>
+		<Page Image="95" ImageWidth="1920" ImageHeight="2560" ImageSize="1734124"/>
+		<Page Image="96" ImageWidth="1920" ImageHeight="2560" ImageSize="1757258"/>
+		<Page Image="97" ImageWidth="1920" ImageHeight="2560" ImageSize="1705732"/>
+		<Page Image="98" ImageWidth="1920" ImageHeight="2560" ImageSize="1546059"/>
+		<Page Image="99" ImageWidth="1920" ImageHeight="2560" ImageSize="1689520"/>
+		<Page Image="100" ImageWidth="1920" ImageHeight="2560" ImageSize="1670765"/>
+		<Page Image="101" ImageWidth="3840" ImageHeight="2560" ImageSize="5728920"/>
+		<Page Image="102" ImageWidth="1920" ImageHeight="2560" ImageSize="1653760"/>
+		<Page Image="103" ImageWidth="1920" ImageHeight="2560" ImageSize="1317328"/>
+		<Page Image="104" ImageWidth="1920" ImageHeight="2560" ImageSize="1539736"/>
+		<Page Image="105" ImageWidth="1920" ImageHeight="2560" ImageSize="1688519"/>
+		<Page Image="106" ImageWidth="1920" ImageHeight="2560" ImageSize="2001537"/>
+		<Page Image="107" ImageWidth="1920" ImageHeight="2560" ImageSize="1790782"/>
+		<Page Image="108" ImageWidth="1920" ImageHeight="2560" ImageSize="2982883"/>
+		<Page Image="109" ImageWidth="1920" ImageHeight="2560" ImageSize="1737617"/>
+		<Page Image="110" ImageWidth="1920" ImageHeight="2560" ImageSize="1563928"/>
+		<Page Image="111" ImageWidth="1920" ImageHeight="2560" ImageSize="1907012"/>
+		<Page Image="112" ImageWidth="1920" ImageHeight="2560" ImageSize="1724638"/>
+		<Page Image="113" ImageWidth="1920" ImageHeight="2560" ImageSize="1906260"/>
+		<Page Image="114" ImageWidth="1920" ImageHeight="2560" ImageSize="1607770"/>
+		<Page Image="115" ImageWidth="1920" ImageHeight="2560" ImageSize="1668294"/>
+		<Page Image="116" ImageWidth="1920" ImageHeight="2560" ImageSize="1645155"/>
+		<Page Image="117" ImageWidth="1920" ImageHeight="2560" ImageSize="1524304"/>
+		<Page Image="118" ImageWidth="1920" ImageHeight="2560" ImageSize="1332883"/>
+		<Page Image="119" ImageWidth="1920" ImageHeight="2560" ImageSize="1353482"/>
+		<Page Image="120" ImageWidth="1920" ImageHeight="2560" ImageSize="1807744"/>
+		<Page Image="121" ImageWidth="1920" ImageHeight="2560" ImageSize="2760394"/>
+		<Page Image="122" ImageWidth="1920" ImageHeight="2560" ImageSize="1842672"/>
+		<Page Image="123" ImageWidth="1920" ImageHeight="2560" ImageSize="1802214"/>
+		<Page Image="124" ImageWidth="1920" ImageHeight="2560" ImageSize="1886651"/>
+		<Page Image="125" ImageWidth="1920" ImageHeight="2560" ImageSize="1884349"/>
+		<Page Image="126" ImageWidth="1920" ImageHeight="2560" ImageSize="1345434"/>
+		<Page Image="127" ImageWidth="1920" ImageHeight="2560" ImageSize="1474838"/>
+		<Page Image="128" ImageWidth="1920" ImageHeight="2560" ImageSize="2673570"/>
+		<Page Image="129" ImageWidth="1920" ImageHeight="2560" ImageSize="1765196"/>
+		<Page Image="130" ImageWidth="1920" ImageHeight="2560" ImageSize="1700699"/>
+		<Page Image="131" ImageWidth="1920" ImageHeight="2560" ImageSize="2006110"/>
+		<Page Image="132" ImageWidth="1920" ImageHeight="2560" ImageSize="1756775"/>
+		<Page Image="133" ImageWidth="1920" ImageHeight="2560" ImageSize="1446708"/>
+		<Page Image="134" ImageWidth="3840" ImageHeight="2560" ImageSize="3384571"/>
+		<Page Image="135" ImageWidth="1920" ImageHeight="2560" ImageSize="1315797"/>
+		<Page Image="136" ImageWidth="1920" ImageHeight="2560" ImageSize="1651509"/>
+		<Page Image="137" ImageWidth="1920" ImageHeight="2560" ImageSize="1733258"/>
+		<Page Image="138" ImageWidth="1920" ImageHeight="2560" ImageSize="1715318"/>
+		<Page Image="139" ImageWidth="1920" ImageHeight="2560" ImageSize="1865144"/>
+		<Page Image="140" ImageWidth="1920" ImageHeight="2560" ImageSize="1610223"/>
+		<Page Image="141" ImageWidth="1920" ImageHeight="2560" ImageSize="2204740"/>
+		<Page Image="142" ImageWidth="1920" ImageHeight="2560" ImageSize="1504160"/>
+		<Page Image="143" ImageWidth="1920" ImageHeight="2560" ImageSize="2281356"/>
+		<Page Image="144" ImageWidth="1920" ImageHeight="2560" ImageSize="1929723"/>
+		<Page Image="145" ImageWidth="1920" ImageHeight="2560" ImageSize="1526981"/>
+		<Page Image="146" ImageWidth="1920" ImageHeight="2560" ImageSize="1580899"/>
+		<Page Image="147" ImageWidth="1920" ImageHeight="2560" ImageSize="1481424"/>
+		<Page Image="148" ImageWidth="1920" ImageHeight="2560" ImageSize="2032164"/>
+		<Page Image="149" ImageWidth="1920" ImageHeight="2560" ImageSize="1490714"/>
+		<Page Image="150" ImageWidth="1920" ImageHeight="2560" ImageSize="1832498"/>
+		<Page Image="151" ImageWidth="1920" ImageHeight="2560" ImageSize="2419711"/>
+		<Page Image="152" ImageWidth="1920" ImageHeight="2560" ImageSize="1668038"/>
+		<Page Image="153" ImageWidth="1920" ImageHeight="2560" ImageSize="1328613"/>
+		<Page Image="154" ImageWidth="1920" ImageHeight="2560" ImageSize="1696190"/>
+		<Page Image="155" ImageWidth="1920" ImageHeight="2560" ImageSize="1489859"/>
+		<Page Image="156" ImageWidth="1920" ImageHeight="2560" ImageSize="1597634"/>
+		<Page Image="157" ImageWidth="1920" ImageHeight="2560" ImageSize="2967582"/>
+		<Page Image="158" ImageWidth="1920" ImageHeight="2560" ImageSize="1406056"/>
+		<Page Image="159" ImageWidth="1920" ImageHeight="2560" ImageSize="2109745"/>
+		<Page Image="160" ImageWidth="1920" ImageHeight="2560" ImageSize="1756465"/>
+		<Page Image="161" ImageWidth="1920" ImageHeight="2560" ImageSize="1789193"/>
+		<Page Image="162" ImageWidth="1920" ImageHeight="2560" ImageSize="2057491"/>
+		<Page Image="163" ImageWidth="1920" ImageHeight="2560" ImageSize="2633470"/>
+		<Page Image="164" ImageWidth="1920" ImageHeight="2560" ImageSize="1674589"/>
+		<Page Image="165" ImageWidth="1920" ImageHeight="2560" ImageSize="2342667"/>
+		<Page Image="166" ImageWidth="1920" ImageHeight="2560" ImageSize="2156207"/>
+		<Page Image="167" ImageWidth="1920" ImageHeight="2560" ImageSize="1503082"/>
+		<Page Image="168" ImageWidth="1920" ImageHeight="2560" ImageSize="1571807"/>
+		<Page Image="169" ImageWidth="1920" ImageHeight="2560" ImageSize="1447703"/>
+		<Page Image="170" ImageWidth="1920" ImageHeight="2560" ImageSize="2029599"/>
+		<Page Image="171" ImageWidth="1920" ImageHeight="2560" ImageSize="1782761"/>
+		<Page Image="172" ImageWidth="1920" ImageHeight="2560" ImageSize="1735871"/>
+		<Page Image="173" ImageWidth="1920" ImageHeight="2560" ImageSize="1865706"/>
+		<Page Image="174" ImageWidth="1920" ImageHeight="2560" ImageSize="1851333"/>
+		<Page Image="175" ImageWidth="1920" ImageHeight="2560" ImageSize="1958612"/>
+		<Page Image="176" ImageWidth="1920" ImageHeight="2560" ImageSize="1762514"/>
+		<Page Image="177" ImageWidth="1920" ImageHeight="2560" ImageSize="1712843"/>
+		<Page Image="178" ImageWidth="1920" ImageHeight="2560" ImageSize="2321229"/>
+		<Page Image="179" ImageWidth="1920" ImageHeight="2560" ImageSize="2037511"/>
+		<Page Image="180" ImageWidth="1920" ImageHeight="2560" ImageSize="1716766"/>
+		<Page Image="181" ImageWidth="1920" ImageHeight="2560" ImageSize="1707658"/>
+		<Page Image="182" ImageWidth="1920" ImageHeight="2560" ImageSize="2264421"/>
+		<Page Image="183" ImageWidth="1920" ImageHeight="2560" ImageSize="1797467"/>
+		<Page Image="184" ImageWidth="1920" ImageHeight="2560" ImageSize="2342181"/>
+		<Page Image="185" ImageWidth="1920" ImageHeight="2560" ImageSize="1554405"/>
+		<Page Image="186" ImageWidth="1920" ImageHeight="2560" ImageSize="1358393"/>
+		<Page Image="187" ImageWidth="1920" ImageHeight="2560" ImageSize="1297442"/>
+		<Page Image="188" ImageWidth="1920" ImageHeight="2560" ImageSize="1886418"/>
+		<Page Image="189" ImageWidth="1920" ImageHeight="2560" ImageSize="1490308"/>
+		<Page Image="190" ImageWidth="1920" ImageHeight="2560" ImageSize="1743579"/>
+		<Page Image="191" ImageWidth="1920" ImageHeight="2560" ImageSize="1986081"/>
+		<Page Image="192" ImageWidth="1920" ImageHeight="2560" ImageSize="1456660"/>
+		<Page Image="193" ImageWidth="1920" ImageHeight="2560" ImageSize="1457254"/>
+		<Page Image="194" ImageWidth="1920" ImageHeight="2560" ImageSize="1239129"/>
+		<Page Image="195" ImageWidth="1920" ImageHeight="2560" ImageSize="1536350"/>
+		<Page Image="196" ImageWidth="1920" ImageHeight="2560" ImageSize="1686436"/>
+		<Page Image="197" ImageWidth="1920" ImageHeight="2560" ImageSize="1988567"/>
+		<Page Image="198" ImageWidth="1920" ImageHeight="2560" ImageSize="1866825"/>
+		<Page Image="199" ImageWidth="1920" ImageHeight="2560" ImageSize="1708033"/>
+		<Page Image="200" ImageWidth="1920" ImageHeight="2560" ImageSize="1994402"/>
+		<Page Image="201" ImageWidth="1920" ImageHeight="2560" ImageSize="1980195"/>
+		<Page Image="202" ImageWidth="1920" ImageHeight="2560" ImageSize="1409865"/>
+		<Page Image="203" ImageWidth="1920" ImageHeight="2560" ImageSize="2436793"/>
+		<Page Image="204" ImageWidth="1920" ImageHeight="2560" ImageSize="1733210"/>
+		<Page Image="205" ImageWidth="1920" ImageHeight="2560" ImageSize="2234553"/>
+		<Page Image="206" ImageWidth="1920" ImageHeight="2560" ImageSize="2378873"/>
+		<Page Image="207" ImageWidth="1920" ImageHeight="2560" ImageSize="1519642"/>
+		<Page Image="208" ImageWidth="1920" ImageHeight="2560" ImageSize="1623231"/>
+		<Page Image="209" ImageWidth="1920" ImageHeight="2560" ImageSize="1423764"/>
+		<Page Image="210" ImageWidth="1920" ImageHeight="2560" ImageSize="1937127"/>
+		<Page Image="211" ImageWidth="1920" ImageHeight="2560" ImageSize="1794661"/>
+		<Page Image="212" ImageWidth="1920" ImageHeight="2560" ImageSize="1733346"/>
+		<Page Image="213" ImageWidth="1920" ImageHeight="2560" ImageSize="2008789"/>
+		<Page Image="214" ImageWidth="1920" ImageHeight="2560" ImageSize="1731091"/>
+		<Page Image="215" ImageWidth="1920" ImageHeight="2560" ImageSize="1768357"/>
+		<Page Image="216" ImageWidth="1920" ImageHeight="2560" ImageSize="1709426"/>
+		<Page Image="217" ImageWidth="1920" ImageHeight="2560" ImageSize="1921285"/>
+		<Page Image="218" ImageWidth="1920" ImageHeight="2560" ImageSize="2233462"/>
+		<Page Image="219" ImageWidth="1920" ImageHeight="2560" ImageSize="1925205"/>
+		<Page Image="220" ImageWidth="1920" ImageHeight="2560" ImageSize="1755107"/>
+		<Page Image="221" ImageWidth="1920" ImageHeight="2560" ImageSize="2743108"/>
+		<Page Image="222" ImageWidth="1920" ImageHeight="2560" ImageSize="2518888"/>
+		<Page Image="223" ImageWidth="1920" ImageHeight="2560" ImageSize="2100204"/>
+		<Page Image="224" ImageWidth="1920" ImageHeight="2560" ImageSize="1648614"/>
+		<Page Image="225" ImageWidth="1920" ImageHeight="2560" ImageSize="1877363"/>
+		<Page Image="226" ImageWidth="1920" ImageHeight="2560" ImageSize="1533857"/>
+		<Page Image="227" ImageWidth="1920" ImageHeight="2560" ImageSize="1579611"/>
+		<Page Image="228" ImageWidth="1920" ImageHeight="2560" ImageSize="1928647"/>
+		<Page Image="229" ImageWidth="1920" ImageHeight="2560" ImageSize="1917187"/>
+		<Page Image="230" ImageWidth="1920" ImageHeight="2560" ImageSize="1908849"/>
+		<Page Image="231" ImageWidth="1920" ImageHeight="2560" ImageSize="1844736"/>
+		<Page Image="232" ImageWidth="1920" ImageHeight="2560" ImageSize="1804335"/>
+		<Page Image="233" ImageWidth="1920" ImageHeight="2560" ImageSize="1709986"/>
+		<Page Image="234" ImageWidth="1920" ImageHeight="2560" ImageSize="1920485"/>
+		<Page Image="235" ImageWidth="1920" ImageHeight="2560" ImageSize="1623121"/>
+		<Page Image="236" ImageWidth="1920" ImageHeight="2560" ImageSize="1635188"/>
+		<Page Image="237" ImageWidth="1920" ImageHeight="2560" ImageSize="1520048"/>
+		<Page Image="238" ImageWidth="1920" ImageHeight="2560" ImageSize="1575313"/>
+		<Page Image="239" ImageWidth="1920" ImageHeight="2560" ImageSize="1268433"/>
+		<Page Image="240" ImageWidth="1920" ImageHeight="2560" ImageSize="1422804"/>
+		<Page Image="241" ImageWidth="1920" ImageHeight="2560" ImageSize="1376960"/>
+		<Page Image="242" ImageWidth="1920" ImageHeight="2560" ImageSize="1655881"/>
+		<Page Image="243" ImageWidth="1920" ImageHeight="2560" ImageSize="1265614"/>
+		<Page Image="244" ImageWidth="1920" ImageHeight="2560" ImageSize="1251407"/>
+		<Page Image="245" ImageWidth="1920" ImageHeight="2560" ImageSize="1120171"/>
+		<Page Image="246" ImageWidth="1920" ImageHeight="2560" ImageSize="1148394"/>
+		<Page Image="247" ImageWidth="1920" ImageHeight="2560" ImageSize="1087140"/>
+		<Page Image="248" ImageWidth="1920" ImageHeight="2560" ImageSize="1243872"/>
+		<Page Image="249" ImageWidth="1920" ImageHeight="2560" ImageSize="1141932"/>
+		<Page Image="250" ImageWidth="1920" ImageHeight="2560" ImageSize="1118802"/>
+		<Page Image="251" ImageWidth="1920" ImageHeight="2560" ImageSize="1333202"/>
+		<Page Image="252" ImageWidth="1920" ImageHeight="2560" ImageSize="1017686"/>
+		<Page Image="253" ImageWidth="1920" ImageHeight="2560" ImageSize="539379"/>
+		<Page Image="254" ImageWidth="1920" ImageHeight="2560" ImageSize="270925"/>
+		<Page Image="255" ImageWidth="3840" ImageHeight="2560" ImageSize="7476159"/>
+		<Page Image="256" ImageWidth="1920" ImageHeight="2560" ImageSize="1912231"/>
+		<Page Image="257" ImageSize="1204289"/>
+	</Pages>
+	<Penciller>Dave Gibbons</Penciller>
+	<Publisher>Dark Horse Comics</Publisher>
+	<ScanInformation>(digital) (Son of Ultron-Empire)</ScanInformation>
+	<Series>Confabulation: An Anecdotal Autobiography</Series>
+	<Summary>A comprehensive, in-depth, and personal journey through the eyes of one of the worlds most famous comics creators! Presented as alphabetically chaptered memoirs, these extensive anecdotes cover a legendary life in comics, from working on Doctor Who and meeting Tom Baker to being inducted into the Eisner Hall of Fame. Gibbons also discusses, for the first time anywhere, the reasons why he and fellow Watchmen cocreator Alan Moore no longer speak. Packed with over 300 iconic, rarely seen, and unpublished art pieces and photographs, Confabulation: An Anecdotal Autobiography not only entertains, but peels back the layers of a fascinating career in comics.
+
+* Rarely seen and unpublished art and photographs from Dave Gibbons!
+
+https://comicvine.gamespot.com/confabulation-an-anecdotal-autobiography-1/4000-988306/</Summary>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/confabulation-an-anecdotal-autobiography-1/4000-988306/</Web>
+	<Writer>Dave Gibbons</Writer>
+	<Year>2023</Year>
+</ComicInfo>

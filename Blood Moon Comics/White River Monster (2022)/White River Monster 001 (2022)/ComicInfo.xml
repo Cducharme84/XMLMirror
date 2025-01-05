@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Colorist>Wolfgang Schwandt</Colorist>
+	<Count>5</Count>
+	<Day>16</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-2355496</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Wolfgang Schwandt</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Keith Rommel</Letterer>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-19T01:51:27 [Issue ID 4000-2355496] urn:comicvine:4000-2355496</Notes>
+	<Number>1</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3936" ImageSize="290068" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3936" ImageSize="393774"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3936" ImageSize="465208"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3936" ImageSize="480574"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3936" ImageSize="467778"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3936" ImageSize="433842"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3936" ImageSize="390364"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3936" ImageSize="462252"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3936" ImageSize="335170"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3936" ImageSize="324500"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3936" ImageSize="366752"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3936" ImageSize="242900"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3936" ImageSize="286684"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3936" ImageSize="290956"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3936" ImageSize="317836"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3936" ImageSize="304202"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3936" ImageSize="365612"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3936" ImageSize="428256"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3936" ImageSize="445952"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3936" ImageSize="468760"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3936" ImageSize="507074"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3936" ImageSize="348886"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3936" ImageSize="347922"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3936" ImageSize="375438"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3936" ImageSize="255732"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3936" ImageSize="568148"/>
+		<Page Image="26" ImageSize="303142"/>
+	</Pages>
+	<Penciller>Wolfgang Schwandt</Penciller>
+	<Publisher>Blood Moon Comics</Publisher>
+	<ScanInformation>HD</ScanInformation>
+	<Series>White River Monster</Series>
+	<Summary>The White River Monster has eluded people for over a century. Manhunts were brought to a fever pitch in Newport, Arkansas, where people descended on the small town, determined to prove the existence of the river monster. But, it went unfound. For years, sightings were reported up and down the White River, but no physical evidence ever came forth. Soon the monster faded into obscurity and was dismissed as a legend never to be solved - until now!</Summary>
+	<Volume>2022</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-2355496/</Web>
+	<Writer>Keith Rommel</Writer>
+	<Year>2022</Year>
+</ComicInfo>

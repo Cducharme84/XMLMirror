@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>4</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-370293</GTIN>
+	<Inker>Rick Veitch</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:31:42 [Issue ID 4000-370293] urn:comicvine:4000-370293</Notes>
+	<Number>2</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1280" ImageHeight="1965" ImageSize="949969" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1280" ImageHeight="1973" ImageSize="922025"/>
+		<Page Image="2" ImageWidth="1280" ImageHeight="1983" ImageSize="739292"/>
+		<Page Image="3" ImageWidth="1280" ImageHeight="1999" ImageSize="845669"/>
+		<Page Image="4" ImageWidth="1280" ImageHeight="1987" ImageSize="811614"/>
+		<Page Image="5" ImageWidth="1280" ImageHeight="1993" ImageSize="936635"/>
+		<Page Image="6" ImageWidth="1280" ImageHeight="1986" ImageSize="816472"/>
+		<Page Image="7" ImageWidth="1614" ImageHeight="2532" ImageSize="1175070"/>
+		<Page Image="8" ImageWidth="1280" ImageHeight="1984" ImageSize="722553"/>
+		<Page Image="9" ImageWidth="1280" ImageHeight="1995" ImageSize="795836"/>
+		<Page Image="10" ImageWidth="1280" ImageHeight="1997" ImageSize="869812"/>
+		<Page Image="11" ImageWidth="1280" ImageHeight="1996" ImageSize="920332"/>
+		<Page Image="12" ImageWidth="1280" ImageHeight="1988" ImageSize="862331"/>
+		<Page Image="13" ImageWidth="1280" ImageHeight="1992" ImageSize="805241"/>
+		<Page Image="14" ImageWidth="1280" ImageHeight="1956" ImageSize="1030204"/>
+		<Page Image="15" ImageWidth="1280" ImageHeight="1968" ImageSize="967238"/>
+		<Page Image="16" ImageWidth="1280" ImageHeight="1963" ImageSize="931197"/>
+		<Page Image="17" ImageWidth="1280" ImageHeight="1974" ImageSize="580991"/>
+		<Page Image="18" ImageWidth="1280" ImageHeight="1971" ImageSize="545671"/>
+		<Page Image="19" ImageWidth="1280" ImageHeight="1979" ImageSize="391249"/>
+		<Page Image="20" ImageWidth="1280" ImageHeight="1986" ImageSize="353248"/>
+		<Page Image="21" ImageWidth="1280" ImageHeight="1995" ImageSize="439012"/>
+		<Page Image="22" ImageWidth="1280" ImageHeight="1969" ImageSize="442122"/>
+		<Page Image="23" ImageWidth="1280" ImageHeight="1956" ImageSize="391287"/>
+		<Page Image="24" ImageWidth="1280" ImageHeight="1990" ImageSize="327875"/>
+		<Page Image="25" ImageWidth="1280" ImageHeight="1984" ImageSize="426921"/>
+		<Page Image="26" ImageWidth="1280" ImageHeight="1978" ImageSize="867462"/>
+		<Page Image="27" ImageWidth="1280" ImageHeight="1967" ImageSize="874457"/>
+		<Page Image="28" ImageSize="491865"/>
+	</Pages>
+	<Penciller>Steve Bissette</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>1963 Ashcan</Series>
+	<Summary>An ashcan preview of The Fearless Fury.
+
+Note: The Cover says #1, but the interior says it is the second ashcan.</Summary>
+	<Title>The Fearless Fury</Title>
+	<Volume>1963</Volume>
+	<Web>https://comicvine.gamespot.com/1963-ashcan-2-the-fearless-fury/4000-370293/</Web>
+	<Writer>Alan Moore</Writer>
+	<Year>1992</Year>
+</ComicInfo>

@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Tooly</Characters>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-333441</GTIN>
+  <Inker>Massimo Belardinelli,Massimo Belardinelli</Inker>
+  <Letterer>Jack Potter,John Aldrich,Bill Nuttall,Tony Jacob,Jack Potter,Tom Frame,Peter Knight</Letterer>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:35:17 [Issue ID 4000-333441] urn:comicvine:4000-333441
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:24:07. [Issue ID 1682939]</Notes>
+  <Number>1</Number>
+  <PageCount>244</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="993663" Type="FrontCover" />
+    <Page Image="1" ImageSize="126275" />
+    <Page Image="2" ImageSize="465533" />
+    <Page Image="3" ImageSize="351587" />
+    <Page Image="4" ImageSize="472633" />
+    <Page Image="5" ImageSize="151884" />
+    <Page Image="6" ImageSize="1031327" />
+    <Page Image="7" ImageSize="1162999" />
+    <Page Image="8" ImageSize="1121018" />
+    <Page Image="9" ImageSize="1101336" />
+    <Page Image="10" ImageSize="1199167" />
+    <Page Image="11" ImageSize="1249791" />
+    <Page Image="12" ImageSize="1271373" />
+    <Page Image="13" ImageSize="1154001" />
+    <Page Image="14" ImageSize="1078179" />
+    <Page Image="15" ImageSize="1061258" />
+    <Page Image="16" ImageSize="1028582" />
+    <Page Image="17" ImageSize="981411" />
+    <Page Image="18" ImageSize="1157846" />
+    <Page Image="19" ImageSize="1088690" />
+    <Page Image="20" ImageSize="1153597" />
+    <Page Image="21" ImageSize="1173423" />
+    <Page Image="22" ImageSize="1191435" />
+    <Page Image="23" ImageSize="1209443" />
+    <Page Image="24" ImageSize="1220931" />
+    <Page Image="25" ImageSize="1242976" />
+    <Page Image="26" ImageSize="1211948" />
+    <Page Image="27" ImageSize="1229888" />
+    <Page Image="28" ImageSize="1084708" />
+    <Page Image="29" ImageSize="1228918" />
+    <Page Image="30" ImageSize="1241414" />
+    <Page Image="31" ImageSize="1198032" />
+    <Page Image="32" ImageSize="1104305" />
+    <Page Image="33" ImageSize="1156972" />
+    <Page Image="34" ImageSize="1169022" />
+    <Page Image="35" ImageSize="914874" />
+    <Page Image="36" ImageSize="1198292" />
+    <Page Image="37" ImageSize="1084093" />
+    <Page Image="38" ImageSize="1175469" />
+    <Page Image="39" ImageSize="1154725" />
+    <Page Image="40" ImageSize="1122977" />
+    <Page Image="41" ImageSize="1094815" />
+    <Page Image="42" ImageSize="1107148" />
+    <Page Image="43" ImageSize="1036829" />
+    <Page Image="44" ImageSize="1044451" />
+    <Page Image="45" ImageSize="1070480" />
+    <Page Image="46" ImageSize="1199726" />
+    <Page Image="47" ImageSize="1176754" />
+    <Page Image="48" ImageSize="1282642" />
+    <Page Image="49" ImageSize="1130461" />
+    <Page Image="50" ImageSize="1223149" />
+    <Page Image="51" ImageSize="1217435" />
+    <Page Image="52" ImageSize="1226013" />
+    <Page Image="53" ImageSize="1130610" />
+    <Page Image="54" ImageSize="1102749" />
+    <Page Image="55" ImageSize="1209353" />
+    <Page Image="56" ImageSize="126053" />
+    <Page Image="57" ImageSize="1189509" />
+    <Page Image="58" ImageSize="1092798" />
+    <Page Image="59" ImageSize="1113384" />
+    <Page Image="60" ImageSize="1182058" />
+    <Page Image="61" ImageSize="1054294" />
+    <Page Image="62" ImageSize="1096867" />
+    <Page Image="63" ImageSize="1972540" />
+    <Page Image="64" ImageSize="1081030" />
+    <Page Image="65" ImageSize="1122326" />
+    <Page Image="66" ImageSize="1172793" />
+    <Page Image="67" ImageSize="1086538" />
+    <Page Image="68" ImageSize="1140928" />
+    <Page Image="69" ImageSize="1226964" />
+    <Page Image="70" ImageSize="1164980" />
+    <Page Image="71" ImageSize="1126951" />
+    <Page Image="72" ImageSize="1156221" />
+    <Page Image="73" ImageSize="1165010" />
+    <Page Image="74" ImageSize="1232280" />
+    <Page Image="75" ImageSize="1147182" />
+    <Page Image="76" ImageSize="1067290" />
+    <Page Image="77" ImageSize="1041112" />
+    <Page Image="78" ImageSize="1051865" />
+    <Page Image="79" ImageSize="1259678" />
+    <Page Image="80" ImageSize="1320975" />
+    <Page Image="81" ImageSize="1170157" />
+    <Page Image="82" ImageSize="1251384" />
+    <Page Image="83" ImageSize="1186492" />
+    <Page Image="84" ImageSize="1291376" />
+    <Page Image="85" ImageSize="1107907" />
+    <Page Image="86" ImageSize="1236836" />
+    <Page Image="87" ImageSize="1142442" />
+    <Page Image="88" ImageSize="1215079" />
+    <Page Image="89" ImageSize="1156256" />
+    <Page Image="90" ImageSize="1213339" />
+    <Page Image="91" ImageSize="1254762" />
+    <Page Image="92" ImageSize="1250263" />
+    <Page Image="93" ImageSize="1175948" />
+    <Page Image="94" ImageSize="1179496" />
+    <Page Image="95" ImageSize="1110292" />
+    <Page Image="96" ImageSize="1103216" />
+    <Page Image="97" ImageSize="1153869" />
+    <Page Image="98" ImageSize="1121675" />
+    <Page Image="99" ImageSize="1114362" />
+    <Page Image="100" ImageSize="1146497" />
+    <Page Image="101" ImageSize="1197251" />
+    <Page Image="102" ImageSize="1167267" />
+    <Page Image="103" ImageSize="1179819" />
+    <Page Image="104" ImageSize="1115820" />
+    <Page Image="105" ImageSize="1079036" />
+    <Page Image="106" ImageSize="1116587" />
+    <Page Image="107" ImageSize="1203538" />
+    <Page Image="108" ImageSize="1189670" />
+    <Page Image="109" ImageSize="1082287" />
+    <Page Image="110" ImageSize="1156545" />
+    <Page Image="111" ImageSize="1144898" />
+    <Page Image="112" ImageSize="1084082" />
+    <Page Image="113" ImageSize="1164272" />
+    <Page Image="114" ImageSize="1037736" />
+    <Page Image="115" ImageSize="1106114" />
+    <Page Image="116" ImageSize="1057875" />
+    <Page Image="117" ImageSize="1079896" />
+    <Page Image="118" ImageSize="1095810" />
+    <Page Image="119" ImageSize="1090688" />
+    <Page Image="120" ImageSize="1050247" />
+    <Page Image="121" ImageSize="1108849" />
+    <Page Image="122" ImageSize="1165607" />
+    <Page Image="123" ImageSize="1001576" />
+    <Page Image="124" ImageSize="1085933" />
+    <Page Image="125" ImageSize="1115419" />
+    <Page Image="126" ImageSize="1230285" />
+    <Page Image="127" ImageSize="1201088" />
+    <Page Image="128" ImageSize="1077314" />
+    <Page Image="129" ImageSize="1172578" />
+    <Page Image="130" ImageSize="1172896" />
+    <Page Image="131" ImageSize="1091120" />
+    <Page Image="132" ImageSize="1190766" />
+    <Page Image="133" ImageSize="1108182" />
+    <Page Image="134" ImageSize="1034643" />
+    <Page Image="135" ImageSize="1130402" />
+    <Page Image="136" ImageSize="1177655" />
+    <Page Image="137" ImageSize="1076744" />
+    <Page Image="138" ImageSize="1137825" />
+    <Page Image="139" ImageSize="1240423" />
+    <Page Image="140" ImageSize="1189529" />
+    <Page Image="141" ImageSize="1157148" />
+    <Page Image="142" ImageSize="1107025" />
+    <Page Image="143" ImageSize="1124448" />
+    <Page Image="144" ImageSize="1154859" />
+    <Page Image="145" ImageSize="1161660" />
+    <Page Image="146" ImageSize="1221234" />
+    <Page Image="147" ImageSize="1205484" />
+    <Page Image="148" ImageSize="1143240" />
+    <Page Image="149" ImageSize="1138494" />
+    <Page Image="150" ImageSize="1185428" />
+    <Page Image="151" ImageSize="1163590" />
+    <Page Image="152" ImageSize="1123396" />
+    <Page Image="153" ImageSize="1165439" />
+    <Page Image="154" ImageSize="1129968" />
+    <Page Image="155" ImageSize="1265928" />
+    <Page Image="156" ImageSize="1162870" />
+    <Page Image="157" ImageSize="1151080" />
+    <Page Image="158" ImageSize="1163716" />
+    <Page Image="159" ImageSize="1147009" />
+    <Page Image="160" ImageSize="1169931" />
+    <Page Image="161" ImageSize="1260135" />
+    <Page Image="162" ImageSize="1266806" />
+    <Page Image="163" ImageSize="1209556" />
+    <Page Image="164" ImageSize="1083444" />
+    <Page Image="165" ImageSize="1238659" />
+    <Page Image="166" ImageSize="1218299" />
+    <Page Image="167" ImageSize="1252101" />
+    <Page Image="168" ImageSize="1045119" />
+    <Page Image="169" ImageSize="1180520" />
+    <Page Image="170" ImageSize="1138431" />
+    <Page Image="171" ImageSize="1129263" />
+    <Page Image="172" ImageSize="1135225" />
+    <Page Image="173" ImageSize="1152079" />
+    <Page Image="174" ImageSize="1140312" />
+    <Page Image="175" ImageSize="1130524" />
+    <Page Image="176" ImageSize="1202618" />
+    <Page Image="177" ImageSize="1100558" />
+    <Page Image="178" ImageSize="1202161" />
+    <Page Image="179" ImageSize="1087899" />
+    <Page Image="180" ImageSize="1057272" />
+    <Page Image="181" ImageSize="1083961" />
+    <Page Image="182" ImageSize="1031852" />
+    <Page Image="183" ImageSize="1065511" />
+    <Page Image="184" ImageSize="1137309" />
+    <Page Image="185" ImageSize="1106160" />
+    <Page Image="186" ImageSize="1142738" />
+    <Page Image="187" ImageSize="1134453" />
+    <Page Image="188" ImageSize="1171544" />
+    <Page Image="189" ImageSize="1132658" />
+    <Page Image="190" ImageSize="1160176" />
+    <Page Image="191" ImageSize="1078875" />
+    <Page Image="192" ImageSize="1124063" />
+    <Page Image="193" ImageSize="1172315" />
+    <Page Image="194" ImageSize="1151239" />
+    <Page Image="195" ImageSize="1192177" />
+    <Page Image="196" ImageSize="1135016" />
+    <Page Image="197" ImageSize="1158532" />
+    <Page Image="198" ImageSize="1205910" />
+    <Page Image="199" ImageSize="1131328" />
+    <Page Image="200" ImageSize="1106146" />
+    <Page Image="201" ImageSize="1177697" />
+    <Page Image="202" ImageSize="1198214" />
+    <Page Image="203" ImageSize="1199446" />
+    <Page Image="204" ImageSize="1111121" />
+    <Page Image="205" ImageSize="1019745" />
+    <Page Image="206" ImageSize="1166031" />
+    <Page Image="207" ImageSize="1268527" />
+    <Page Image="208" ImageSize="1231869" />
+    <Page Image="209" ImageSize="1130266" />
+    <Page Image="210" ImageSize="1207366" />
+    <Page Image="211" ImageSize="1145534" />
+    <Page Image="212" ImageSize="1172911" />
+    <Page Image="213" ImageSize="1083559" />
+    <Page Image="214" ImageSize="1229797" />
+    <Page Image="215" ImageSize="1152719" />
+    <Page Image="216" ImageSize="1128010" />
+    <Page Image="217" ImageSize="1114404" />
+    <Page Image="218" ImageSize="1138702" />
+    <Page Image="219" ImageSize="1155605" />
+    <Page Image="220" ImageSize="1160039" />
+    <Page Image="221" ImageSize="1047357" />
+    <Page Image="222" ImageSize="1082468" />
+    <Page Image="223" ImageSize="1108427" />
+    <Page Image="224" ImageSize="1061413" />
+    <Page Image="225" ImageSize="912648" />
+    <Page Image="226" ImageSize="1169955" />
+    <Page Image="227" ImageSize="162211" />
+    <Page Image="228" ImageSize="1079122" />
+    <Page Image="229" ImageSize="1067257" />
+    <Page Image="230" ImageSize="988510" />
+    <Page Image="231" ImageSize="1157575" />
+    <Page Image="232" ImageSize="1122034" />
+    <Page Image="233" ImageSize="136716" />
+    <Page Image="234" ImageSize="970176" />
+    <Page Image="235" ImageSize="950012" />
+    <Page Image="236" ImageSize="682695" />
+    <Page Image="237" ImageSize="688284" />
+    <Page Image="238" ImageSize="640601" />
+    <Page Image="239" ImageSize="177420" />
+    <Page Image="240" ImageSize="182140" />
+    <Page Image="241" ImageSize="728891" />
+    <Page Image="242" ImageSize="472318" />
+    <Page Image="243" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Massimo Belardinelli,Massimo Belardinelli</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <ScanInformation>(digital) (DR &amp; Quinch-Empire)</ScanInformation>
+  <Series>Meltdown Man</Series>
+  <Summary>Whilst on a mission in the Persian Gulf, SAS Sergeant Nick Stone is blasted by a nuclear explosion into the future, where the last remaining humans, such as the predatory Leeshar, rule over the eugenically-modified animal castes known as 'Yujees'. Accompanied by catgirl Liana, bullman T-Bone and loyal wolfman Gruff, Stone discovers that this bizarre world is his own - the continent he roams being South America, its poles mysteriously inverte, and is intent on ending Leeshar’s dark reign by leading the slave-like Yujees in rebellion!
+
+Featuring the incredible art of the late great Massimo Belardinelli (Ace Trucking, Flesh) and a high-octane script from Alan Hebden (Major Eazy, Death Planet).
+
+Collects the complete 50-issue series (originally serialised in 2000AD progs 178-227)
+
+https://comicvine.gamespot.com/meltdown-man-1-tpb/4000-333441/</Summary>
+  <Title>TPB</Title>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/meltdown-man-1-tpb/4000-333441/</Web>
+  <Writer>Alan Hebden,Alan Hebden</Writer>
+  <Year>2010</Year>
+  <Count>1</Count>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

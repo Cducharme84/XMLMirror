@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <Day>20</Day>
+  <Editor>William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-592026</GTIN>
+  <Inker>Andres Guinaldo,Dheeraj Verma,Jacen Burrows,Mike Wolfer,Sebastián Fiumara,Wellinton Alves</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:32:21 [Issue ID 4000-592026] urn:comicvine:4000-592026 urn:grandcomicsdatabase:issue/592026
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:10:12. [Issue ID 592026]</Notes>
+  <Number>2</Number>
+  <PageCount>35</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="533872" Type="FrontCover" />
+    <Page Image="1" ImageSize="523613" />
+    <Page Image="2" ImageSize="1463637" />
+    <Page Image="3" ImageSize="360079" />
+    <Page Image="4" ImageSize="477835" />
+    <Page Image="5" ImageSize="660542" />
+    <Page Image="6" ImageSize="660590" />
+    <Page Image="7" ImageSize="650692" />
+    <Page Image="8" ImageSize="731316" />
+    <Page Image="9" ImageSize="612145" />
+    <Page Image="10" ImageSize="332093" />
+    <Page Image="11" ImageSize="398247" />
+    <Page Image="12" ImageSize="390895" />
+    <Page Image="13" ImageSize="392802" />
+    <Page Image="14" ImageSize="552481" />
+    <Page Image="15" ImageSize="616295" />
+    <Page Image="16" ImageSize="680477" />
+    <Page Image="17" ImageSize="618052" />
+    <Page Image="18" ImageSize="617258" />
+    <Page Image="19" ImageSize="397602" />
+    <Page Image="20" ImageSize="426007" />
+    <Page Image="21" ImageSize="445156" />
+    <Page Image="22" ImageSize="357648" />
+    <Page Image="23" ImageSize="443451" />
+    <Page Image="24" ImageSize="528921" />
+    <Page Image="25" ImageSize="537297" />
+    <Page Image="26" ImageSize="453684" />
+    <Page Image="27" ImageSize="488353" />
+    <Page Image="28" ImageSize="567535" />
+    <Page Image="29" ImageSize="425076" />
+    <Page Image="30" ImageSize="342786" />
+    <Page Image="31" ImageSize="384551" />
+    <Page Image="32" ImageSize="366077" />
+    <Page Image="33" ImageSize="475625" />
+    <Page Image="34" ImageSize="365039" />
+  </Pages>
+  <Penciller>Andres Guinaldo,Dheeraj Verma,Jacen Burrows,Mike Wolfer,Sebastián Fiumara,Wellinton Alves</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Yuggoth Creatures</Series>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-592026/</Web>
+  <Writer>Antony Johnston</Writer>
+  <Year>2004</Year>
+</ComicInfo>

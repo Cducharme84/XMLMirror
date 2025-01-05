@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>12</Count>
+	<CoverArtist>Dylan Moore</CoverArtist>
+	<Day>27</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-731739</GTIN>
+	<Genre>Action,Comedy,Fantasy</Genre>
+	<Inker>Dylan Moore</Inker>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T23:52:29 [Issue ID 4000-731739] urn:comicvine:4000-731739</Notes>
+	<Number>7</Number>
+	<PageCount>20</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3843" ImageSize="1857495" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3843" ImageSize="1433052"/>
+		<Page DoublePage="True" Image="2" ImageWidth="5059" ImageHeight="3843" ImageSize="3663182"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3843" ImageSize="1895352"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3843" ImageSize="2277373"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3843" ImageSize="1928937"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3843" ImageSize="1851191"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3843" ImageSize="2022346"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3843" ImageSize="1979070"/>
+		<Page DoublePage="True" Image="9" ImageWidth="5059" ImageHeight="3843" ImageSize="3447705"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3843" ImageSize="1572598"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3843" ImageSize="2171605"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3843" ImageSize="1720221"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3843" ImageSize="1846423"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3843" ImageSize="1862025"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3843" ImageSize="2041090"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3843" ImageSize="1771785"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3843" ImageSize="2083575"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3843" ImageSize="1965659"/>
+		<Page Image="19" ImageSize="518634"/>
+	</Pages>
+	<Penciller>Dylan Moore</Penciller>
+	<Publisher>Outhouse Cartoons</Publisher>
+	<Series>Combat Fairies</Series>
+	<Summary>The Edge of Treason
+
+After escaping the craziness of the bomb shelter cult the fairies and Addison find themselves back on a battlefield of both the mortal world war and the Otherworld civil war. Their only hope is to navigate the chaos and get away from the action but a new breed of Dark Fairies sent by Morrigan isn't going to make it easy for them.</Summary>
+	<Title>The Edge of Treason</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/combat-fairies-7-the-edge-of-treason/4000-731739/</Web>
+	<Writer>Dylan Moore</Writer>
+	<Year>2019</Year>
+</ComicInfo>

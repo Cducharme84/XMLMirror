@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:comicvine:4000-565942</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:55:06 [Issue ID 4000-565942] urn:comicvine:4000-565942 urn:grandcomicsdatabase:issue/565942
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 14:13:53. [Issue ID 565942]</Notes>
+  <Number>54</Number>
+  <PageCount>37</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="676861" Type="FrontCover" />
+    <Page Image="1" ImageSize="146034" />
+    <Page Image="2" ImageSize="352471" />
+    <Page Image="3" ImageSize="86751" />
+    <Page Image="4" ImageSize="332059" />
+    <Page Image="5" ImageSize="371137" />
+    <Page Image="6" ImageSize="328396" />
+    <Page Image="7" ImageSize="362903" />
+    <Page Image="8" ImageSize="293318" />
+    <Page Image="9" ImageSize="312915" />
+    <Page Image="10" ImageSize="328517" />
+    <Page Image="11" ImageSize="321018" />
+    <Page Image="12" ImageSize="326530" />
+    <Page Image="13" ImageSize="313076" />
+    <Page Image="14" ImageSize="246040" />
+    <Page Image="15" ImageSize="316288" />
+    <Page Image="16" ImageSize="305405" />
+    <Page Image="17" ImageSize="328986" />
+    <Page Image="18" ImageSize="279088" />
+    <Page Image="19" ImageSize="253316" />
+    <Page Image="20" ImageSize="301444" />
+    <Page Image="21" ImageSize="292476" />
+    <Page Image="22" ImageSize="341790" />
+    <Page Image="23" ImageSize="279171" />
+    <Page Image="24" ImageSize="357525" />
+    <Page Image="25" ImageSize="301290" />
+    <Page Image="26" ImageSize="303714" />
+    <Page Image="27" ImageSize="309131" />
+    <Page Image="28" ImageSize="288966" />
+    <Page Image="29" ImageSize="311025" />
+    <Page Image="30" ImageSize="268772" />
+    <Page Image="31" ImageSize="317738" />
+    <Page Image="32" ImageSize="300981" />
+    <Page Image="33" ImageSize="301399" />
+    <Page Image="34" ImageSize="327482" />
+    <Page Image="35" ImageSize="134750" />
+    <Page Image="36" ImageSize="50371" />
+  </Pages>
+  <Publisher>Mirage</Publisher>
+  <Series>Tales of the TMNT</Series>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-565942/</Web>
+  <Year>2004</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gravel</Characters>
+	<Count>6</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-794680</GTIN>
+	<Genre>Fantasy,Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:32:11 [Issue ID 4000-794680] urn:comicvine:4000-794680 urn:grandcomicsdatabase:issue/794680</Notes>
+	<Number>1</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="597527" Type="FrontCover"/>
+		<Page Image="1" ImageSize="500072"/>
+		<Page Image="2" ImageSize="437841"/>
+		<Page Image="3" ImageSize="410858"/>
+		<Page Image="4" ImageSize="447417"/>
+		<Page Image="5" ImageSize="442717"/>
+		<Page Image="6" ImageSize="385330"/>
+		<Page Image="7" ImageSize="460384"/>
+		<Page Image="8" ImageSize="463404"/>
+		<Page Image="9" ImageSize="516821"/>
+		<Page Image="10" ImageSize="507369"/>
+		<Page Image="11" ImageSize="539328"/>
+		<Page Image="12" ImageSize="409780"/>
+		<Page Image="13" ImageSize="519095"/>
+		<Page Image="14" ImageSize="516492"/>
+		<Page Image="15" ImageSize="474840"/>
+		<Page Image="16" ImageSize="463184"/>
+		<Page Image="17" ImageSize="424819"/>
+		<Page Image="18" ImageSize="312617"/>
+		<Page Image="19" ImageSize="426900"/>
+		<Page Image="20" ImageSize="405391"/>
+		<Page Image="21" ImageSize="377005"/>
+		<Page Image="22" ImageSize="363016"/>
+		<Page Image="23" ImageSize="448142"/>
+		<Page Image="24" ImageSize="464828"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Strange Killings: The Body Orchard</Series>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-794680/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2002</Year>
+</ComicInfo>

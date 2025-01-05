@@ -1,0 +1,91 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Lazarus Churchyard,Concrete,Sherlock Holmes,Dr. Watson,Dr. Jekyll/Mr. Hyde</Characters>
+  <Editor>Stuart Green</Editor>
+  <GTIN>urn:comicvine:4000-399845</GTIN>
+  <Inker>D'Israeli,John Buckle,Martin Emond,Nick Abadzis,Paul Chadwick,Peter Bagge,Shaky Kane,Woodrow Phoenix,Yan Shimony</Inker>
+  <Letterer>Bill Spicer</Letterer>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T15:48:34 [Issue ID 4000-399845] urn:comicvine:4000-399845
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 11:13:12. [Issue ID 746140]</Notes>
+  <Number>7</Number>
+  <PageCount>66</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2288" ImageSize="661969" ImageWidth="1600" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2303" ImageSize="547506" ImageWidth="1600" />
+    <Page Image="2" ImageHeight="2306" ImageSize="592862" ImageWidth="1600" />
+    <Page Image="3" ImageHeight="2291" ImageSize="762859" ImageWidth="1600" />
+    <Page Image="4" ImageHeight="2255" ImageSize="1050447" ImageWidth="1600" />
+    <Page Image="5" ImageHeight="2285" ImageSize="896355" ImageWidth="1600" />
+    <Page Image="6" ImageHeight="2239" ImageSize="953975" ImageWidth="1600" />
+    <Page Image="7" ImageHeight="2242" ImageSize="1081797" ImageWidth="1600" />
+    <Page Image="8" ImageHeight="2268" ImageSize="1016233" ImageWidth="1600" />
+    <Page Image="9" ImageHeight="2209" ImageSize="927417" ImageWidth="1600" />
+    <Page Image="10" ImageHeight="2205" ImageSize="944028" ImageWidth="1600" />
+    <Page Image="11" ImageHeight="2189" ImageSize="869163" ImageWidth="1600" />
+    <Page Image="12" ImageHeight="2249" ImageSize="655099" ImageWidth="1600" />
+    <Page Image="13" ImageHeight="2198" ImageSize="560247" ImageWidth="1600" />
+    <Page Image="14" ImageHeight="2195" ImageSize="573237" ImageWidth="1600" />
+    <Page Image="15" ImageHeight="2296" ImageSize="542370" ImageWidth="1600" />
+    <Page Image="16" ImageHeight="2264" ImageSize="752345" ImageWidth="1600" />
+    <Page Image="17" ImageHeight="2232" ImageSize="680002" ImageWidth="1600" />
+    <Page Image="18" ImageHeight="2279" ImageSize="840638" ImageWidth="1600" />
+    <Page Image="19" ImageHeight="2217" ImageSize="791796" ImageWidth="1600" />
+    <Page Image="20" ImageHeight="2262" ImageSize="1096828" ImageWidth="1600" />
+    <Page Image="21" ImageHeight="2320" ImageSize="979838" ImageWidth="1600" />
+    <Page Image="22" ImageHeight="2300" ImageSize="1114932" ImageWidth="1600" />
+    <Page Image="23" ImageHeight="2320" ImageSize="1047205" ImageWidth="1600" />
+    <Page Image="24" ImageHeight="2301" ImageSize="1108139" ImageWidth="1600" />
+    <Page Image="25" ImageHeight="2301" ImageSize="1133345" ImageWidth="1600" />
+    <Page Image="26" ImageHeight="2284" ImageSize="1099937" ImageWidth="1600" />
+    <Page Image="27" ImageHeight="2301" ImageSize="1013621" ImageWidth="1600" />
+    <Page Image="28" ImageHeight="2268" ImageSize="647811" ImageWidth="1600" />
+    <Page Image="29" ImageHeight="2265" ImageSize="1917477" ImageWidth="3200" />
+    <Page Image="30" ImageHeight="2304" ImageSize="1065904" ImageWidth="1600" />
+    <Page Image="31" ImageHeight="2273" ImageSize="670040" ImageWidth="1600" />
+    <Page Image="32" ImageHeight="1817" ImageSize="1503488" ImageWidth="2560" />
+    <Page Image="33" ImageHeight="2245" ImageSize="1133255" ImageWidth="1600" />
+    <Page Image="34" ImageHeight="2211" ImageSize="1007484" ImageWidth="1600" />
+    <Page Image="35" ImageHeight="2209" ImageSize="1012854" ImageWidth="1600" />
+    <Page Image="36" ImageHeight="2231" ImageSize="1010545" ImageWidth="1600" />
+    <Page Image="37" ImageHeight="2217" ImageSize="1034951" ImageWidth="1600" />
+    <Page Image="38" ImageHeight="2231" ImageSize="864564" ImageWidth="1600" />
+    <Page Image="39" ImageHeight="2207" ImageSize="905815" ImageWidth="1600" />
+    <Page Image="40" ImageHeight="2215" ImageSize="1031534" ImageWidth="1600" />
+    <Page Image="41" ImageHeight="2205" ImageSize="743068" ImageWidth="1600" />
+    <Page Image="42" ImageHeight="2257" ImageSize="897712" ImageWidth="1600" />
+    <Page Image="43" ImageHeight="2257" ImageSize="924704" ImageWidth="1600" />
+    <Page Image="44" ImageHeight="2239" ImageSize="923470" ImageWidth="1600" />
+    <Page Image="45" ImageHeight="2230" ImageSize="892694" ImageWidth="1600" />
+    <Page Image="46" ImageHeight="2252" ImageSize="807741" ImageWidth="1600" />
+    <Page Image="47" ImageHeight="2243" ImageSize="811757" ImageWidth="1600" />
+    <Page Image="48" ImageHeight="2243" ImageSize="936683" ImageWidth="1600" />
+    <Page Image="49" ImageHeight="2265" ImageSize="908700" ImageWidth="1600" />
+    <Page Image="50" ImageHeight="2254" ImageSize="952383" ImageWidth="1600" />
+    <Page Image="51" ImageHeight="2247" ImageSize="775462" ImageWidth="1600" />
+    <Page Image="52" ImageHeight="2242" ImageSize="850398" ImageWidth="1600" />
+    <Page Image="53" ImageHeight="2269" ImageSize="795406" ImageWidth="1600" />
+    <Page Image="54" ImageHeight="2282" ImageSize="854216" ImageWidth="1600" />
+    <Page Image="55" ImageHeight="1803" ImageSize="1047035" ImageWidth="2560" />
+    <Page Image="56" ImageHeight="2225" ImageSize="956829" ImageWidth="1600" />
+    <Page Image="57" ImageHeight="2271" ImageSize="1068628" ImageWidth="1600" />
+    <Page Image="58" ImageHeight="2307" ImageSize="1131792" ImageWidth="1600" />
+    <Page Image="59" ImageHeight="2285" ImageSize="1015585" ImageWidth="1600" />
+    <Page Image="60" ImageHeight="2241" ImageSize="579607" ImageWidth="1600" />
+    <Page Image="61" ImageHeight="2314" ImageSize="876460" ImageWidth="1600" />
+    <Page Image="62" ImageHeight="2250" ImageSize="742492" ImageWidth="1600" />
+    <Page Image="63" ImageHeight="2299" ImageSize="1327192" ImageWidth="1600" />
+    <Page Image="64" ImageHeight="2309" ImageSize="881520" ImageWidth="1600" />
+    <Page Image="65" ImageSize="145214" />
+  </Pages>
+  <Penciller>D'Israeli,John Buckle,Martin Emond,Nick Abadzis,Paul Chadwick,Peter Bagge,Shaky Kane,Woodrow Phoenix,Yan Shimony</Penciller>
+  <Publisher>John Brown Publishing</Publisher>
+  <ScanInformation>(Slinky Train)</ScanInformation>
+  <Series>Blast!</Series>
+  <Summary>https://comicvine.gamespot.com/blast-7/4000-399845/</Summary>
+  <Volume>1991</Volume>
+  <Web>https://comicvine.gamespot.com/blast-7/4000-399845/</Web>
+  <Writer>Gordon Rennie,John Buckle,Nick Abadzis,Paul Chadwick,Peter Bagge,Shaky Kane,Warren Ellis</Writer>
+  <Year>1991</Year>
+  <Count>7</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

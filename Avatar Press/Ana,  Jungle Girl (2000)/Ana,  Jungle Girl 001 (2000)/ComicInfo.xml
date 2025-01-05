@@ -1,0 +1,47 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Ana Jungle Girl</Characters>
+  <Count>1</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-1095260</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:53:02 [Issue ID 4000-1095260] urn:comicvine:4000-1095260 urn:grandcomicsdatabase:issue/1095260
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:20:44. [Issue ID 1095260]</Notes>
+  <Number>1</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1575" ImageSize="517817" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1584" ImageSize="572027" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1580" ImageSize="580343" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1578" ImageSize="478091" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1588" ImageSize="273677" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1584" ImageSize="367609" ImageWidth="1024" />
+    <Page Image="6" ImageHeight="1585" ImageSize="381994" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1587" ImageSize="397209" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1581" ImageSize="426724" ImageWidth="1024" />
+    <Page Image="9" ImageHeight="1580" ImageSize="408201" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1590" ImageSize="385173" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1580" ImageSize="350720" ImageWidth="1024" />
+    <Page Image="12" ImageHeight="1591" ImageSize="384300" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1580" ImageSize="428092" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1591" ImageSize="441079" ImageWidth="1024" />
+    <Page Image="15" ImageHeight="1582" ImageSize="445509" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1599" ImageSize="438827" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1578" ImageSize="432582" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1587" ImageSize="484867" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1588" ImageSize="440078" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1588" ImageSize="406005" ImageWidth="1024" />
+    <Page Image="21" ImageHeight="1596" ImageSize="409156" ImageWidth="1024" />
+    <Page Image="22" ImageHeight="1585" ImageSize="390325" ImageWidth="1024" />
+    <Page Image="23" ImageHeight="1591" ImageSize="435453" ImageWidth="1024" />
+    <Page Image="24" ImageHeight="1597" ImageSize="448090" ImageWidth="1024" />
+    <Page Image="25" ImageHeight="1586" ImageSize="428043" ImageWidth="1024" />
+    <Page Image="26" ImageSize="396322" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Ana,  Jungle Girl</Series>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1095260/</Web>
+  <Writer>David Campiti</Writer>
+  <Year>2000</Year>
+</ComicInfo>

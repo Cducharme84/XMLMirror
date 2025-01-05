@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Future Taylor</Characters>
+	<Count>18</Count>
+	<Country>US</Country>
+	<GTIN>urn:comicvine:4000-1542766</GTIN>
+	<Genre>Horror-suspense,Science fiction</Genre>
+	<Inker>Rafael Ortiz</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:23 [Issue ID 4000-1542766] urn:comicvine:4000-1542766 urn:grandcomicsdatabase:issue/1542766</Notes>
+	<Number>14</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2094288" Type="FrontCover"/>
+		<Page Image="1" ImageSize="2014755"/>
+		<Page Image="2" ImageSize="1784444"/>
+		<Page Image="3" ImageSize="2239013"/>
+		<Page Image="4" ImageSize="2421965"/>
+		<Page Image="5" ImageSize="2173155"/>
+		<Page Image="6" ImageSize="1900266"/>
+		<Page Image="7" ImageSize="830284"/>
+		<Page Image="8" ImageSize="1541230"/>
+		<Page Image="9" ImageSize="1736596"/>
+		<Page Image="10" ImageSize="2037483"/>
+		<Page Image="11" ImageSize="1966628"/>
+		<Page Image="12" ImageSize="2149083"/>
+		<Page Image="13" ImageSize="2026102"/>
+		<Page Image="14" ImageSize="2162033"/>
+		<Page Image="15" ImageSize="2166534"/>
+		<Page Image="16" ImageSize="1606123"/>
+		<Page Image="17" ImageSize="2081196"/>
+		<Page Image="18" ImageSize="1833528"/>
+		<Page Image="19" ImageSize="1474966"/>
+		<Page Image="20" ImageSize="1644607"/>
+		<Page Image="21" ImageSize="1615367"/>
+		<Page Image="22" ImageSize="1617650"/>
+		<Page Image="23" ImageSize="1836599"/>
+	</Pages>
+	<Penciller>Rafael Ortiz</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Crossed Plus One Hundred</Series>
+	<Summary>Cover title is "Crossed + One Hundred".</Summary>
+	<Teams>The Crossed</Teams>
+	<Title>Blood Music</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1542766/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2016</Year>
+</ComicInfo>

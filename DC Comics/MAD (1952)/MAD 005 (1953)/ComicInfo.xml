@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>30</Day>
+	<Editor>Harvey Kurtzman</Editor>
+	<GTIN>urn:comicvine:4000-74191</GTIN>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:22:00 [Issue ID 4000-74191] urn:comicvine:4000-74191</Notes>
+	<Number>5</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="241790" Type="FrontCover"/>
+		<Page Image="1" ImageSize="189979"/>
+		<Page Image="2" ImageSize="272957"/>
+		<Page Image="3" ImageSize="255010"/>
+		<Page Image="4" ImageSize="263871"/>
+		<Page Image="5" ImageSize="270376"/>
+		<Page Image="6" ImageSize="267063"/>
+		<Page Image="7" ImageSize="266445"/>
+		<Page Image="8" ImageSize="264331"/>
+		<Page Image="9" ImageSize="276857"/>
+		<Page Image="10" ImageSize="251030"/>
+		<Page Image="11" ImageSize="263591"/>
+		<Page Image="12" ImageSize="259984"/>
+		<Page Image="13" ImageSize="251679"/>
+		<Page Image="14" ImageSize="256548"/>
+		<Page Image="15" ImageSize="259749"/>
+		<Page Image="16" ImageSize="257234"/>
+		<Page Image="17" ImageSize="225461"/>
+		<Page Image="18" ImageSize="209314"/>
+		<Page Image="19" ImageSize="219939"/>
+		<Page Image="20" ImageSize="259730"/>
+		<Page Image="21" ImageSize="263226"/>
+		<Page Image="22" ImageSize="248821"/>
+		<Page Image="23" ImageSize="248152"/>
+		<Page Image="24" ImageSize="249555"/>
+		<Page Image="25" ImageSize="250888"/>
+		<Page Image="26" ImageSize="246069"/>
+		<Page Image="27" ImageSize="245906"/>
+		<Page Image="28" ImageSize="249669"/>
+		<Page Image="29" ImageSize="252987"/>
+		<Page Image="30" ImageSize="246498"/>
+		<Page Image="31" ImageSize="242321"/>
+		<Page Image="32" ImageSize="241869"/>
+		<Page Image="33" ImageSize="251293"/>
+		<Page Image="34" ImageSize="202710"/>
+		<Page Image="35" ImageSize="234489"/>
+	</Pages>
+	<Penciller>John Severin,Wally Wood,Will Elder</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>MAD</Series>
+	<Summary>Featuring the spoof of the Blackhawk comic book! Plus parodies of private eye and horror comics--and much more!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-11 22:55:33.  [Issue ID 74191]
+
+https://comicvine.gamespot.com/mad-5/4000-74191/</Summary>
+	<Tags>Blackhawk Squadron,Royal Canadian Mounted Police</Tags>
+	<Teams>Blackhawk Squadron,Royal Canadian Mounted Police</Teams>
+	<Volume>1952</Volume>
+	<Web>https://comicvine.gamespot.com/mad-5/4000-74191/</Web>
+	<Writer>Harvey Kurtzman</Writer>
+	<Year>1953</Year>
+</ComicInfo>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Colin MacNeil,Jon Davis-Hunt,P. J. Holden</Colorist>
+	<Country>GB</Country>
+	<Day>1</Day>
+	<Editor>Matt Smith</Editor>
+	<GTIN>urn:comicvine:4000-802902</GTIN>
+	<Genre>Detective-mystery,Science fiction</Genre>
+	<Inker>Colin MacNeil,Jon Davis-Hunt,P. J. Holden,Paul Marshall</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Annie Parkhouse,Ellie de Ville,Simon Bowland</Letterer>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:30:55 [Issue ID 4000-802902] urn:comicvine:4000-802902 urn:grandcomicsdatabase:issue/802902</Notes>
+	<Number>306</Number>
+	<PageCount>131</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="635466" Type="FrontCover"/>
+		<Page Image="1" ImageSize="441337"/>
+		<Page Image="2" ImageSize="499511"/>
+		<Page Image="3" ImageSize="445534"/>
+		<Page Image="4" ImageSize="451686"/>
+		<Page Image="5" ImageSize="489228"/>
+		<Page Image="6" ImageSize="435367"/>
+		<Page Image="7" ImageSize="475759"/>
+		<Page Image="8" ImageSize="377275"/>
+		<Page Image="9" ImageSize="377088"/>
+		<Page Image="10" ImageSize="455188"/>
+		<Page Image="11" ImageSize="409349"/>
+		<Page Image="12" ImageSize="467728"/>
+		<Page Image="13" ImageSize="444351"/>
+		<Page Image="14" ImageSize="427015"/>
+		<Page Image="15" ImageSize="481211"/>
+		<Page Image="16" ImageSize="368290"/>
+		<Page Image="17" ImageSize="534125"/>
+		<Page Image="18" ImageSize="481101"/>
+		<Page Image="19" ImageSize="518216"/>
+		<Page Image="20" ImageSize="466128"/>
+		<Page Image="21" ImageSize="537582"/>
+		<Page Image="22" ImageSize="489388"/>
+		<Page Image="23" ImageSize="260411"/>
+		<Page Image="24" ImageSize="402164"/>
+		<Page Image="25" ImageSize="394010"/>
+		<Page Image="26" ImageSize="417353"/>
+		<Page Image="27" ImageSize="375982"/>
+		<Page Image="28" ImageSize="375177"/>
+		<Page Image="29" ImageSize="383713"/>
+		<Page Image="30" ImageSize="399252"/>
+		<Page Image="31" ImageSize="399622"/>
+		<Page Image="32" ImageSize="419262"/>
+		<Page Image="33" ImageSize="466543"/>
+		<Page Image="34" ImageSize="413284"/>
+		<Page Image="35" ImageSize="221868"/>
+		<Page Image="36" ImageSize="410686"/>
+		<Page Image="37" ImageSize="499003"/>
+		<Page Image="38" ImageSize="528278"/>
+		<Page Image="39" ImageSize="656028"/>
+		<Page Image="40" ImageSize="414158"/>
+		<Page Image="41" ImageSize="507863"/>
+		<Page Image="42" ImageSize="466671"/>
+		<Page Image="43" ImageSize="422246"/>
+		<Page Image="44" ImageSize="266803"/>
+		<Page Image="45" ImageSize="482987"/>
+		<Page Image="46" ImageSize="592374"/>
+		<Page Image="47" ImageSize="558343"/>
+		<Page Image="48" ImageSize="512550"/>
+		<Page Image="49" ImageSize="419025"/>
+		<Page Image="50" ImageSize="426677"/>
+		<Page Image="51" ImageSize="529053"/>
+		<Page Image="52" ImageSize="505814"/>
+		<Page Image="53" ImageSize="331277"/>
+		<Page Image="54" ImageSize="369043"/>
+		<Page Image="55" ImageSize="299361"/>
+		<Page Image="56" ImageSize="264900"/>
+		<Page Image="57" ImageSize="343253"/>
+		<Page Image="58" ImageSize="323783"/>
+		<Page Image="59" ImageSize="340900"/>
+		<Page Image="60" ImageSize="329801"/>
+		<Page Image="61" ImageSize="321311"/>
+		<Page Image="62" ImageSize="385896"/>
+		<Page Image="63" ImageSize="447048"/>
+		<Page Image="64" ImageSize="452312"/>
+		<Page Image="65" ImageSize="104536"/>
+		<Page Image="66" ImageSize="111061"/>
+		<Page Image="67" ImageSize="162505"/>
+		<Page Image="68" ImageSize="367272"/>
+		<Page Image="69" ImageSize="333024"/>
+		<Page Image="70" ImageSize="403014"/>
+		<Page Image="71" ImageSize="404900"/>
+		<Page Image="72" ImageSize="417315"/>
+		<Page Image="73" ImageSize="365398"/>
+		<Page Image="74" ImageSize="378205"/>
+		<Page Image="75" ImageSize="427832"/>
+		<Page Image="76" ImageSize="430602"/>
+		<Page Image="77" ImageSize="403373"/>
+		<Page Image="78" ImageSize="359231"/>
+		<Page Image="79" ImageSize="344445"/>
+		<Page Image="80" ImageSize="459754"/>
+		<Page Image="81" ImageSize="475059"/>
+		<Page Image="82" ImageSize="442098"/>
+		<Page Image="83" ImageSize="379119"/>
+		<Page Image="84" ImageSize="394419"/>
+		<Page Image="85" ImageSize="385977"/>
+		<Page Image="86" ImageSize="327561"/>
+		<Page Image="87" ImageSize="412215"/>
+		<Page Image="88" ImageSize="358824"/>
+		<Page Image="89" ImageSize="421861"/>
+		<Page Image="90" ImageSize="330037"/>
+		<Page Image="91" ImageSize="338738"/>
+		<Page Image="92" ImageSize="450702"/>
+		<Page Image="93" ImageSize="438920"/>
+		<Page Image="94" ImageSize="335623"/>
+		<Page Image="95" ImageSize="396040"/>
+		<Page Image="96" ImageSize="276865"/>
+		<Page Image="97" ImageSize="419126"/>
+		<Page Image="98" ImageSize="491178"/>
+		<Page Image="99" ImageSize="504183"/>
+		<Page Image="100" ImageSize="464824"/>
+		<Page Image="101" ImageSize="366874"/>
+		<Page Image="102" ImageSize="371692"/>
+		<Page Image="103" ImageSize="423991"/>
+		<Page Image="104" ImageSize="400598"/>
+		<Page Image="105" ImageSize="358640"/>
+		<Page Image="106" ImageSize="387713"/>
+		<Page Image="107" ImageSize="302524"/>
+		<Page Image="108" ImageSize="440624"/>
+		<Page Image="109" ImageSize="402316"/>
+		<Page Image="110" ImageSize="333077"/>
+		<Page Image="111" ImageSize="419965"/>
+		<Page Image="112" ImageSize="449829"/>
+		<Page Image="113" ImageSize="425419"/>
+		<Page Image="114" ImageSize="477544"/>
+		<Page Image="115" ImageSize="402870"/>
+		<Page Image="116" ImageSize="415354"/>
+		<Page Image="117" ImageSize="528661"/>
+		<Page Image="118" ImageSize="505666"/>
+		<Page Image="119" ImageSize="412545"/>
+		<Page Image="120" ImageSize="313617"/>
+		<Page Image="121" ImageSize="451555"/>
+		<Page Image="122" ImageSize="412219"/>
+		<Page Image="123" ImageSize="387087"/>
+		<Page Image="124" ImageSize="436873"/>
+		<Page Image="125" ImageSize="358274"/>
+		<Page Image="126" ImageSize="465995"/>
+		<Page Image="127" ImageSize="174447"/>
+		<Page Image="128" ImageSize="405721"/>
+		<Page Image="129" ImageSize="216368"/>
+		<Page Image="130" ImageSize="152490"/>
+	</Pages>
+	<Penciller>Colin MacNeil,Jon Davis-Hunt,P. J. Holden,Paul Marshall</Penciller>
+	<Publisher>Rebellion</Publisher>
+	<Series>Judge Dredd Megazine</Series>
+	<Summary>Numbering:
+Counting all issues from the start in 1990, Rebellion started its run with #201.
+The previous volumes were:
+Volume 1 (1990-1992) #1-20
+Volume 2 (1992-1995) #1-83
+Volume 3 (1995-2001) #1-79
+Volume 4 (2001-2002) #1-18Bagged with Strontium Dogs: The Darkest Star. Not for resale.</Summary>
+	<Title>Insurrection II Part 2; Numbercruncher Part One; Black Flowers Part Two; Blood Culture</Title>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-802902/</Web>
+	<Writer>Arthur Wyatt,Dan Abnett,Michael Carroll,Simon Spurrier</Writer>
+	<Year>2011</Year>
+</ComicInfo>

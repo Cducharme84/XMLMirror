@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Annelyn,Groff,Meatbringer,Riess,Vermyllar</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Count>4</Count>
+	<Country>US</Country>
+	<Day>31</Day>
+	<Format>Miniseries</Format>
+	<GTIN>urn:comicvine:4000-1250741</GTIN>
+	<Genre>Fantasy</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Jaymes Reed</Letterer>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:09 [Issue ID 4000-1250741] urn:comicvine:4000-1250741 urn:grandcomicsdatabase:issue/1250741</Notes>
+	<Number>2</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="2217763" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="1152269"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="1840847"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="1729350"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="1905967"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="1772181"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="2197040"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="1791228"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="1553696"/>
+		<Page Image="9" ImageWidth="3975" ImageHeight="3056" ImageSize="6034378"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="1709445"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="1652480"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1526082"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="1727753"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="1591873"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="2077514"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="1634058"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="2560329"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="1347865"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="1399657"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1562843"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="2245457"/>
+		<Page Image="22" ImageSize="1083279"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital)</ScanInformation>
+	<Series>George R. R. Martin's In the House of the Worm</Series>
+	<Summary>Annelyn, Vermyllar and Riess plot to kill Meatbringer. Groff joins them but Vermyllar decides to go his own way. Vermyllar is caught and sacrificed by Meatbringer.</Summary>
+	<Tags>Annelyn,Groff,Meatbringer,Riess,Vermyllar</Tags>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1250741/</Web>
+	<Writer>George R.R. Martin</Writer>
+	<Year>2014</Year>
+</ComicInfo>

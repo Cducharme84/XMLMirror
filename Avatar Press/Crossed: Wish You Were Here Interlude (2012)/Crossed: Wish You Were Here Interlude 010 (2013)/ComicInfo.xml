@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Barry,Delores,Jasper,Mark,Miranda,Richie,Seline,Shaky,Tabitha,Viceroy</Characters>
+	<Colorist>Juanmar</Colorist>
+	<Day>24</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-377154</GTIN>
+	<Inker>Fernando Melek,Keith Williams</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:21 [Issue ID 4000-377154] urn:comicvine:4000-377154</Notes>
+	<Number>10</Number>
+	<PageCount>4</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="278417" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="800" ImageSize="271153"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="800" ImageSize="290402"/>
+		<Page Image="3" ImageSize="258129"/>
+	</Pages>
+	<Penciller>Fernando Melek</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital) (1)</ScanInformation>
+	<Series>Crossed: Wish You Were Here Interlude</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-10-interlude-/4000-377154/</Summary>
+	<Tags>Barry,Delores,Jasper,Mark,Miranda,Richie,Seline,Shaky,Tabitha,Viceroy</Tags>
+	<Title>Interlude 10</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-10-interlude-/4000-377154/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

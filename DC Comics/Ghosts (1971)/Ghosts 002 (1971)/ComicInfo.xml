@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Margot,Zenna Prohl,Istvan</Characters>
+  <Editor>Murray Boltinoff,Whitney Ellsworth</Editor>
+  <GTIN>urn:comicvine:4000-11757</GTIN>
+  <Inker>George Tuska,Irwin Hasen,Nick Cardy,Ray Burnley,Ruben Moreira,Sam Glanzman,Tony DeZuniga,Wally Wood,George Tuska,Wally Wood,Ray Burnley,Amilcar Ruben Moreira,Tony DeZuniga,Irwin Hasen,Sam Glanzman</Inker>
+  <Letterer>Typeset,Ben Oda,Pat Gordon,Milt Snapinn,John Costanza</Letterer>
+  <Locations>England,Scotland,Carpathian Mountains,London</Locations>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:53:10 [Issue ID 4000-11757] urn:comicvine:4000-11757
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:58:27. [Issue ID 24611]</Notes>
+  <Number>2</Number>
+  <PageCount>52</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2384" ImageSize="570721" ImageWidth="1632" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2384" ImageSize="275831" ImageWidth="1568" />
+    <Page Image="2" ImageHeight="2384" ImageSize="461135" ImageWidth="1568" />
+    <Page Image="3" ImageHeight="2304" ImageSize="461290" ImageWidth="1568" />
+    <Page Image="4" ImageHeight="2304" ImageSize="467156" ImageWidth="1568" />
+    <Page Image="5" ImageHeight="2304" ImageSize="473466" ImageWidth="1568" />
+    <Page Image="6" ImageHeight="2291" ImageSize="787725" ImageWidth="1558" />
+    <Page Image="7" ImageHeight="2304" ImageSize="447079" ImageWidth="1568" />
+    <Page Image="8" ImageHeight="2304" ImageSize="429964" ImageWidth="1568" />
+    <Page Image="9" ImageHeight="2304" ImageSize="410691" ImageWidth="1568" />
+    <Page Image="10" ImageHeight="2304" ImageSize="418769" ImageWidth="1568" />
+    <Page Image="11" ImageHeight="2304" ImageSize="409799" ImageWidth="1568" />
+    <Page Image="12" ImageHeight="2304" ImageSize="397951" ImageWidth="1568" />
+    <Page Image="13" ImageHeight="2304" ImageSize="488237" ImageWidth="1568" />
+    <Page Image="14" ImageHeight="2304" ImageSize="463199" ImageWidth="1568" />
+    <Page Image="15" ImageHeight="2304" ImageSize="436075" ImageWidth="1568" />
+    <Page Image="16" ImageHeight="2304" ImageSize="430217" ImageWidth="1568" />
+    <Page Image="17" ImageHeight="2304" ImageSize="463925" ImageWidth="1568" />
+    <Page Image="18" ImageHeight="2304" ImageSize="410407" ImageWidth="1568" />
+    <Page Image="19" ImageHeight="2304" ImageSize="435033" ImageWidth="1568" />
+    <Page Image="20" ImageHeight="2304" ImageSize="483717" ImageWidth="1568" />
+    <Page Image="21" ImageHeight="2304" ImageSize="438398" ImageWidth="1568" />
+    <Page Image="22" ImageHeight="2304" ImageSize="465438" ImageWidth="1568" />
+    <Page Image="23" ImageHeight="2304" ImageSize="485080" ImageWidth="1568" />
+    <Page Image="24" ImageHeight="2304" ImageSize="387715" ImageWidth="1568" />
+    <Page Image="25" ImageHeight="2304" ImageSize="413238" ImageWidth="1568" />
+    <Page Image="26" ImageHeight="2304" ImageSize="327700" ImageWidth="1568" />
+    <Page Image="27" ImageHeight="2288" ImageSize="851167" ImageWidth="1526" />
+    <Page Image="28" ImageHeight="2304" ImageSize="493225" ImageWidth="1536" />
+    <Page Image="29" ImageHeight="2288" ImageSize="883126" ImageWidth="1553" />
+    <Page Image="30" ImageHeight="2304" ImageSize="436679" ImageWidth="1536" />
+    <Page Image="31" ImageHeight="2304" ImageSize="465869" ImageWidth="1536" />
+    <Page Image="32" ImageHeight="2304" ImageSize="362275" ImageWidth="1536" />
+    <Page Image="33" ImageHeight="2297" ImageSize="815363" ImageWidth="1566" />
+    <Page Image="34" ImageHeight="2315" ImageSize="1017682" ImageWidth="1586" />
+    <Page Image="35" ImageHeight="2304" ImageSize="439396" ImageWidth="1536" />
+    <Page Image="36" ImageHeight="2299" ImageSize="793938" ImageWidth="1570" />
+    <Page Image="37" ImageHeight="2304" ImageSize="518220" ImageWidth="1536" />
+    <Page Image="38" ImageHeight="2304" ImageSize="386209" ImageWidth="1536" />
+    <Page Image="39" ImageHeight="2304" ImageSize="372725" ImageWidth="1536" />
+    <Page Image="40" ImageHeight="2304" ImageSize="444859" ImageWidth="1536" />
+    <Page Image="41" ImageHeight="2304" ImageSize="485219" ImageWidth="1536" />
+    <Page Image="42" ImageHeight="2289" ImageSize="885501" ImageWidth="1561" />
+    <Page Image="43" ImageHeight="2304" ImageSize="487139" ImageWidth="1536" />
+    <Page Image="44" ImageHeight="2304" ImageSize="484386" ImageWidth="1536" />
+    <Page Image="45" ImageHeight="2304" ImageSize="431566" ImageWidth="1536" />
+    <Page Image="46" ImageHeight="2304" ImageSize="472949" ImageWidth="1536" />
+    <Page Image="47" ImageHeight="2304" ImageSize="467127" ImageWidth="1536" />
+    <Page Image="48" ImageHeight="2304" ImageSize="455791" ImageWidth="1536" />
+    <Page Image="49" ImageHeight="2304" ImageSize="360072" ImageWidth="1536" />
+    <Page Image="50" ImageHeight="2368" ImageSize="395838" ImageWidth="1568" />
+    <Page Image="51" ImageSize="293825" />
+  </Pages>
+  <Penciller>Bob Brown,Curt Swan,Irwin Hasen,John Calnan,Nick Cardy,Ruben Moreira,Sam Glanzman,Tony DeZuniga,John Calnan,Bob Brown,Curt Swan,Amilcar Ruben Moreira,Tony DeZuniga,Irwin Hasen,Sam Glanzman</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Ghosts</Series>
+  <Summary>No Grave Can Hold Me!: Istvan is haunted by the ghost of Zenna Prohl who he accused of being a witch so he could get her land.
+
+Mission Supernatural: Leftenant Jordan's ghost still flies the foggy skies over England looking for his landing strip.
+
+The Sorrow of the Spirits!: Conrad Ganges has found a way to see the spirit world and to communicate with its inhabitants.
+
+Enter the Ghost!: Winters is an actor performing a play forbidden in the town.  Lord Boynton has sworn to return from the grave to kill anyone attempting to mount the play.
+
+Galleon of Death: Two treasure hunters try to find a sunken galley but run into a ghostly galleon instead.
+
+Lantern in the Rain!: Did the ghost of John Logan flash his ghostly signal lantern to stop Luke Brownell from crashing his train?
+
+The Ghost Battalions: Groups of soldiers have been disappearing into thin air all throughout history.  Did Shelby's men suffer the same fate?
+
+</Summary>
+  <Tags>London,England,Scotland,Genghis Khan,Nero,Carpathian Mountains</Tags>
+  <Volume>1971</Volume>
+  <Web>https://comicvine.gamespot.com/ghosts-2/4000-11757/</Web>
+  <Writer>Leo Dorfman,Leo Dorfman,Jack Miller,Joe Samachson</Writer>
+  <Year>1971</Year>
+  <Count>112</Count>
+  <Title>No Grave Can Hold Me!; Mission Supernatural; The Sorrow of the Spirits!; Enter the Ghost!; Galleon of Death; Lantern in the Rain!; The Ghost Battalions</Title>
+  <Genre>Horror-suspense,Fantasy,War</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+</ComicInfo>

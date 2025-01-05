@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Shaky,Skip,Tabitha</Characters>
+	<Colorist>Juanmar</Colorist>
+	<Day>24</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-356229</GTIN>
+	<Inker>Fernando Melek,Gary Erskine,Javier Barreno,Keith Williams</Inker>
+	<Locations>London,Orkney Islands</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:27:23 [Issue ID 4000-356229] urn:comicvine:4000-356229</Notes>
+	<Number>9</Number>
+	<PageCount>4</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="279990" Type="FrontCover"/>
+		<Page Image="1" ImageSize="302349"/>
+		<Page Image="2" ImageSize="335925"/>
+		<Page Image="3" ImageSize="328561"/>
+	</Pages>
+	<Penciller>Fernando Melek,Javier Barreno,Keith Williams</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital) (1)</ScanInformation>
+	<Series>Crossed: Wish You Were Here</Series>
+	<Summary>A duo of Crossed trapped on an escarpment leads Shaky to flashback to London when he was pulled from the Thames by river police and the inevitable result of a governmental rescue mission.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-13 07:10:31.  [Issue ID 356229]
+
+https://comicvine.gamespot.com/crossed-wish-you-were-here-9-episode-9/4000-356229/</Summary>
+	<Tags>British Army,London,Orkney Islands,Shaky,Skip,Tabitha,The Crossed</Tags>
+	<Teams>British Army,The Crossed</Teams>
+	<Title>Episode 9</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-9-episode-9/4000-356229/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2012</Year>
+</ComicInfo>

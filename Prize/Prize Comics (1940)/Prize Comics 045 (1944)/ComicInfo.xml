@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-390961</GTIN>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:10:23 [Issue ID 4000-390961] urn:comicvine:4000-390961</Notes>
+	<Number>45</Number>
+	<PageCount>52</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="325887" Type="FrontCover"/>
+		<Page Image="1" ImageSize="314594"/>
+		<Page Image="2" ImageSize="357727"/>
+		<Page Image="3" ImageSize="365091"/>
+		<Page Image="4" ImageSize="387827"/>
+		<Page Image="5" ImageSize="392484"/>
+		<Page Image="6" ImageSize="362809"/>
+		<Page Image="7" ImageSize="367236"/>
+		<Page Image="8" ImageSize="372617"/>
+		<Page Image="9" ImageSize="360177"/>
+		<Page Image="10" ImageSize="371885"/>
+		<Page Image="11" ImageSize="366429"/>
+		<Page Image="12" ImageSize="354748"/>
+		<Page Image="13" ImageSize="382198"/>
+		<Page Image="14" ImageSize="364018"/>
+		<Page Image="15" ImageSize="381528"/>
+		<Page Image="16" ImageSize="380500"/>
+		<Page Image="17" ImageSize="375358"/>
+		<Page Image="18" ImageSize="380246"/>
+		<Page Image="19" ImageSize="397750"/>
+		<Page Image="20" ImageSize="372990"/>
+		<Page Image="21" ImageSize="370186"/>
+		<Page Image="22" ImageSize="391723"/>
+		<Page Image="23" ImageSize="412451"/>
+		<Page Image="24" ImageSize="364621"/>
+		<Page Image="25" ImageSize="363623"/>
+		<Page Image="26" ImageSize="378491"/>
+		<Page Image="27" ImageSize="369722"/>
+		<Page Image="28" ImageSize="407860"/>
+		<Page Image="29" ImageSize="405817"/>
+		<Page Image="30" ImageSize="320349"/>
+		<Page Image="31" ImageSize="329223"/>
+		<Page Image="32" ImageSize="352680"/>
+		<Page Image="33" ImageSize="351297"/>
+		<Page Image="34" ImageSize="373192"/>
+		<Page Image="35" ImageSize="364942"/>
+		<Page Image="36" ImageSize="374024"/>
+		<Page Image="37" ImageSize="353261"/>
+		<Page Image="38" ImageSize="351331"/>
+		<Page Image="39" ImageSize="370041"/>
+		<Page Image="40" ImageSize="371827"/>
+		<Page Image="41" ImageSize="375308"/>
+		<Page Image="42" ImageSize="353760"/>
+		<Page Image="43" ImageSize="372644"/>
+		<Page Image="44" ImageSize="368853"/>
+		<Page Image="45" ImageSize="349736"/>
+		<Page Image="46" ImageSize="352728"/>
+		<Page Image="47" ImageSize="373233"/>
+		<Page Image="48" ImageSize="359784"/>
+		<Page Image="49" ImageSize="193519"/>
+		<Page Image="50" ImageSize="235819"/>
+		<Page Image="51" ImageSize="277161"/>
+	</Pages>
+	<Publisher>Prize</Publisher>
+	<Series>Prize Comics</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-16 08:21:54.  [CVDB390961]
+
+https://comicvine.gamespot.com/prize-comics-45-v4-9/4000-390961/</Summary>
+	<Title>v4 #9</Title>
+	<Volume>1940</Volume>
+	<Web>https://comicvine.gamespot.com/prize-comics-45-v4-9/4000-390961/</Web>
+	<Year>1944</Year>
+</ComicInfo>

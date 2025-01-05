@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Captain Guts,Cherry Poptart,Patty Melt</Characters>
+	<Count>23</Count>
+	<Day>21</Day>
+	<GTIN>urn:comicvine:4000-123770</GTIN>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:00 [Issue ID 4000-123770] urn:comicvine:4000-123770</Notes>
+	<Number>14</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="135147" Type="FrontCover"/>
+		<Page Image="1" ImageSize="415875"/>
+		<Page Image="2" ImageSize="331524"/>
+		<Page Image="3" ImageSize="438699"/>
+		<Page Image="4" ImageSize="415156"/>
+		<Page Image="5" ImageSize="458230"/>
+		<Page Image="6" ImageSize="444348"/>
+		<Page Image="7" ImageSize="445708"/>
+		<Page Image="8" ImageSize="425821"/>
+		<Page Image="9" ImageSize="400590"/>
+		<Page Image="10" ImageSize="374051"/>
+		<Page Image="11" ImageSize="396522"/>
+		<Page Image="12" ImageSize="384033"/>
+		<Page Image="13" ImageSize="396848"/>
+		<Page Image="14" ImageSize="387840"/>
+		<Page Image="15" ImageSize="392873"/>
+		<Page Image="16" ImageSize="385511"/>
+		<Page Image="17" ImageSize="432783"/>
+		<Page Image="18" ImageSize="420622"/>
+		<Page Image="19" ImageSize="413481"/>
+		<Page Image="20" ImageSize="400793"/>
+		<Page Image="21" ImageSize="382315"/>
+		<Page Image="22" ImageSize="429003"/>
+		<Page Image="23" ImageSize="449176"/>
+		<Page Image="24" ImageSize="421648"/>
+		<Page Image="25" ImageSize="446010"/>
+		<Page Image="26" ImageSize="405785"/>
+		<Page Image="27" ImageSize="429158"/>
+		<Page Image="28" ImageSize="436501"/>
+		<Page Image="29" ImageSize="399320"/>
+		<Page Image="30" ImageSize="430089"/>
+		<Page Image="31" ImageSize="420568"/>
+		<Page Image="32" ImageSize="440541"/>
+		<Page Image="33" ImageSize="404716"/>
+		<Page Image="34" ImageSize="405035"/>
+		<Page Image="35" ImageSize="350461"/>
+		<Page Image="36" ImageSize="331538"/>
+	</Pages>
+	<Penciller>Larry Welz</Penciller>
+	<Publisher>Cherry Comics</Publisher>
+	<Series>Cherry Poptart</Series>
+	<Summary>Special Full-Length Original Story
+
+Cherry Does The Time Warp
+Cherry Does The Time Warp II
+Cherry Does The Time Warp III
+Cherry Does The Time Warp IV
+Cherry Does The Time Warp V</Summary>
+	<Volume>1982</Volume>
+	<Web>https://comicvine.gamespot.com/cherry-poptart-14/4000-123770/</Web>
+	<Year>1993</Year>
+</ComicInfo>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Colorist>JD Mettler</Colorist>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-202602</GTIN>
+  <Inker>Tony Shasteen</Inker>
+  <Letterer>Bill Tortolini</Letterer>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:25:40 [Issue ID 4000-202602] urn:comicvine:4000-202602
+Tagged with ComicTagger 1.6.0b3.dev4 using info from Comic Vine on 2024-11-15 11:31:47. [Issue ID 202602]</Notes>
+  <Number>5</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="1997" ImageSize="677152" ImageWidth="1280" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="2006" ImageSize="1009890" ImageWidth="1280" />
+    <Page DoublePage="False" Image="2" ImageHeight="2032" ImageSize="905081" ImageWidth="1280" />
+    <Page DoublePage="False" Image="3" ImageHeight="1982" ImageSize="735805" ImageWidth="1280" />
+    <Page DoublePage="False" Image="4" ImageHeight="1963" ImageSize="977886" ImageWidth="1280" />
+    <Page DoublePage="True" Image="5" ImageHeight="1932" ImageSize="1042496" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="1971" ImageSize="695594" ImageWidth="1280" />
+    <Page DoublePage="False" Image="7" ImageHeight="1945" ImageSize="907525" ImageWidth="1280" />
+    <Page DoublePage="False" Image="8" ImageHeight="1973" ImageSize="772071" ImageWidth="1280" />
+    <Page DoublePage="False" Image="9" ImageHeight="1961" ImageSize="923340" ImageWidth="1280" />
+    <Page DoublePage="False" Image="10" ImageHeight="1966" ImageSize="821886" ImageWidth="1280" />
+    <Page DoublePage="False" Image="11" ImageHeight="1961" ImageSize="748544" ImageWidth="1280" />
+    <Page DoublePage="False" Image="12" ImageHeight="1949" ImageSize="627566" ImageWidth="1280" />
+    <Page DoublePage="False" Image="13" ImageHeight="1960" ImageSize="699891" ImageWidth="1280" />
+    <Page DoublePage="False" Image="14" ImageHeight="1960" ImageSize="849487" ImageWidth="1280" />
+    <Page DoublePage="False" Image="15" ImageHeight="1969" ImageSize="672353" ImageWidth="1280" />
+    <Page DoublePage="False" Image="16" ImageHeight="1976" ImageSize="868177" ImageWidth="1280" />
+    <Page DoublePage="False" Image="17" ImageHeight="2019" ImageSize="1099720" ImageWidth="1280" />
+    <Page DoublePage="False" Image="18" ImageHeight="2014" ImageSize="955234" ImageWidth="1280" />
+    <Page DoublePage="False" Image="19" ImageHeight="2024" ImageSize="1244956" ImageWidth="1280" />
+    <Page DoublePage="False" Image="20" ImageHeight="2006" ImageSize="1079261" ImageWidth="1280" />
+    <Page DoublePage="False" Image="21" ImageHeight="2017" ImageSize="1098689" ImageWidth="1280" />
+    <Page DoublePage="False" Image="22" ImageHeight="2004" ImageSize="1245031" ImageWidth="1280" />
+    <Page DoublePage="False" Image="23" ImageHeight="2020" ImageSize="834479" ImageWidth="1280" />
+    <Page DoublePage="False" Image="24" ImageHeight="2003" ImageSize="837592" ImageWidth="1280" />
+    <Page DoublePage="True" Image="25" ImageHeight="960" ImageSize="138483" ImageWidth="1280" />
+    <Page DoublePage="True" Image="26" ImageHeight="776" ImageSize="543571" ImageWidth="800" />
+  </Pages>
+  <Publisher>Random House</Publisher>
+  <Series>The Talisman: The Road of Trials</Series>
+  <Summary>Fleeing west through the Territories, Jack discovers that actions he takes in the magical twinner world have deadly reactions in his own.</Summary>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/the-talisman-the-road-of-trials-5/4000-202602/</Web>
+  <Writer>Robin Furth</Writer>
+  <Year>2010</Year>
+  <Count>6</Count>
+  <LanguageISO>en</LanguageISO>
+  <CoverArtist>Massimo Carnevale</CoverArtist>
+</ComicInfo>

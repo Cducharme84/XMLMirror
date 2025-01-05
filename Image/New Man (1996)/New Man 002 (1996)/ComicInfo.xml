@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Savant,Tao,Ladytron,New Man,Condition Red,Sith,Mr. Majestic,Psi-Fire</Characters>
+  <Colorist>Chris Lichtner</Colorist>
+  <Count>4</Count>
+  <Day>1</Day>
+  <Editor>Eric Stephenson</Editor>
+  <GTIN>urn:comicvine:4000-139159</GTIN>
+  <Inker>Eric Cannon,Marlo Alquiza,Lary Stucker</Inker>
+  <Letterer>Kurt Hathaway</Letterer>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:43:36 [Issue ID 4000-139159] urn:comicvine:4000-139159
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 22:01:23. [Issue ID 139159]</Notes>
+  <Number>2</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="602506" Type="FrontCover" />
+    <Page Image="1" ImageSize="456126" />
+    <Page Image="2" ImageSize="504779" />
+    <Page Image="3" ImageSize="448681" />
+    <Page Image="4" ImageSize="436126" />
+    <Page Image="5" ImageSize="450536" />
+    <Page Image="6" ImageSize="619316" />
+    <Page Image="7" ImageSize="541239" />
+    <Page Image="8" ImageSize="1056855" />
+    <Page Image="9" ImageSize="606492" />
+    <Page Image="10" ImageSize="514475" />
+    <Page Image="11" ImageSize="612619" />
+    <Page Image="12" ImageSize="597043" />
+    <Page Image="13" ImageSize="547130" />
+    <Page Image="14" ImageSize="584208" />
+    <Page Image="15" ImageSize="496937" />
+    <Page Image="16" ImageSize="478001" />
+    <Page Image="17" ImageSize="455224" />
+    <Page Image="18" ImageSize="567502" />
+    <Page Image="19" ImageSize="588374" />
+    <Page Image="20" ImageSize="557295" />
+    <Page Image="21" ImageSize="575076" />
+    <Page Image="22" ImageSize="536562" />
+    <Page Image="23" ImageSize="562951" />
+    <Page Image="24" ImageSize="597312" />
+    <Page Image="25" ImageSize="448572" />
+  </Pages>
+  <Penciller>Michael Chang,Dan Fraga,Michael Chang</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>New Man</Series>
+  <Teams>WildC.A.T.s</Teams>
+  <Title>New Beginnings</Title>
+  <Volume>1996</Volume>
+  <Web>https://comicvine.gamespot.com/new-man-2-new-beginnings/4000-139159/</Web>
+  <Writer>Eldon Asp</Writer>
+  <Year>1996</Year>
+  <CoverArtist>Dan Fraga,Lary Stucker</CoverArtist>
+</ComicInfo>

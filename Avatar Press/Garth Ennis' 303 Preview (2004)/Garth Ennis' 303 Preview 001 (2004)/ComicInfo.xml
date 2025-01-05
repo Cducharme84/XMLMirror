@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>1</Count>
+  <GTIN>urn:comicvine:4000-132031</GTIN>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:42:44 [Issue ID 4000-132031] urn:comicvine:4000-132031
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:36:51. [Issue ID 800530]</Notes>
+  <Number>1</Number>
+  <PageCount>8</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1960" ImageSize="1306786" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1965" ImageSize="589867" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1963" ImageSize="677781" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1969" ImageSize="594436" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1973" ImageSize="559695" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1969" ImageSize="747355" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1969" ImageSize="694732" ImageWidth="1280" />
+    <Page Image="7" ImageSize="120661" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <ScanInformation>(Minutemen- DarthXer)</ScanInformation>
+  <Series>Garth Ennis' 303 Preview</Series>
+  <Summary>A Preview of Garth Ennis's and Jack Burrows 303 comic</Summary>
+  <Title>Preview</Title>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/garth-ennis-303-preview-1-preview/4000-132031/</Web>
+  <Writer>Garth Ennis</Writer>
+  <Year>2004</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

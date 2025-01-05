@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Mei,Snowball,Winston</Characters>
+	<Day>31</Day>
+	<Editor>Allison Monahan,Cate Gary,Robert Simpson</Editor>
+	<GTIN>urn:comicvine:4000-650046</GTIN>
+	<Inker>Onemegawatt</Inker>
+	<Letterer>Comicraft</Letterer>
+	<Locations>Nepal</Locations>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:46:53 [Issue ID 4000-650046] urn:comicvine:4000-650046</Notes>
+	<Number>1</Number>
+	<PageCount>6</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1104017" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1318654"/>
+		<Page Image="2" ImageSize="2376478"/>
+		<Page Image="3" ImageSize="2413543"/>
+		<Page Image="4" ImageSize="2187109"/>
+		<Page Image="5" ImageSize="2514922"/>
+	</Pages>
+	<Penciller>Onemegawatt</Penciller>
+	<Publisher>Blizzard Entertainment</Publisher>
+	<Series>Overwatch Winter Wonderland 2017 - Yeti Hunt</Series>
+	<Summary>https://comicvine.gamespot.com/overwatch-winter-wonderland-2017-yeti-hunt-1/4000-650046/</Summary>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/overwatch-winter-wonderland-2017-yeti-hunt-1/4000-650046/</Web>
+	<Writer>Robert Brooks</Writer>
+	<Year>2017</Year>
+</ComicInfo>

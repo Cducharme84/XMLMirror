@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>32</Count>
+	<Day>8</Day>
+	<GTIN>urn:comicvine:4000-328064</GTIN>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:57:02 [Issue ID 4000-328064] urn:comicvine:4000-328064</Notes>
+	<Number>435</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="879928" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1091592"/>
+		<Page Image="2" ImageSize="804102"/>
+		<Page Image="3" ImageSize="668325"/>
+		<Page Image="4" ImageSize="863990"/>
+		<Page Image="5" ImageSize="840343"/>
+		<Page Image="6" ImageSize="851781"/>
+		<Page Image="7" ImageSize="795045"/>
+		<Page Image="8" ImageSize="771679"/>
+		<Page Image="9" ImageSize="676235"/>
+		<Page Image="10" ImageSize="775440"/>
+		<Page Image="11" ImageSize="885721"/>
+		<Page Image="12" ImageSize="996963"/>
+		<Page Image="13" ImageSize="741321"/>
+		<Page Image="14" ImageSize="919687"/>
+		<Page Image="15" ImageSize="1118578"/>
+		<Page Image="16" ImageSize="948548"/>
+		<Page Image="17" ImageSize="967346"/>
+		<Page Image="18" ImageSize="982867"/>
+		<Page Image="19" ImageSize="1006048"/>
+		<Page Image="20" ImageSize="966262"/>
+		<Page Image="21" ImageSize="997195"/>
+		<Page Image="22" ImageSize="922225"/>
+		<Page Image="23" ImageSize="948133"/>
+		<Page Image="24" ImageSize="895629"/>
+		<Page Image="25" ImageSize="810580"/>
+		<Page Image="26" ImageSize="836859"/>
+		<Page Image="27" ImageSize="819952"/>
+		<Page Image="28" ImageSize="769981"/>
+		<Page Image="29" ImageSize="776235"/>
+		<Page Image="30" ImageSize="862566"/>
+	</Pages>
+	<Publisher>Marvel UK/Panini UK</Publisher>
+	<Series>Spider-Man and Hulk Team-Up</Series>
+	<Volume>1981</Volume>
+	<Web>https://comicvine.gamespot.com/spider-man-and-hulk-team-up-435/4000-328064/</Web>
+	<Year>1981</Year>
+</ComicInfo>

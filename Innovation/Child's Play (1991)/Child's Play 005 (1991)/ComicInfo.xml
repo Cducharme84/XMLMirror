@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Andy Barclay,Chucky</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-131059</GTIN>
+	<Inker>Barbara Kaalberg,Raine Szramski</Inker>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:41:51 [Issue ID 4000-131059] urn:comicvine:4000-131059</Notes>
+	<Number>5</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="287426" Type="FrontCover"/>
+		<Page Image="1" ImageSize="444185"/>
+		<Page Image="2" ImageSize="328638"/>
+		<Page Image="3" ImageSize="310475"/>
+		<Page Image="4" ImageSize="334966"/>
+		<Page Image="5" ImageSize="311615"/>
+		<Page Image="6" ImageSize="324597"/>
+		<Page Image="7" ImageSize="329272"/>
+		<Page Image="8" ImageSize="337288"/>
+		<Page Image="9" ImageSize="340631"/>
+		<Page Image="10" ImageSize="311987"/>
+		<Page Image="11" ImageSize="293586"/>
+		<Page Image="12" ImageSize="273736"/>
+		<Page Image="13" ImageSize="597321"/>
+		<Page Image="14" ImageSize="334490"/>
+		<Page Image="15" ImageSize="325197"/>
+		<Page Image="16" ImageSize="352720"/>
+		<Page Image="17" ImageSize="315141"/>
+		<Page Image="18" ImageSize="355185"/>
+		<Page Image="19" ImageSize="365039"/>
+		<Page Image="20" ImageSize="323419"/>
+		<Page Image="21" ImageSize="325485"/>
+		<Page Image="22" ImageSize="368755"/>
+		<Page Image="23" ImageSize="305726"/>
+		<Page Image="24" ImageSize="287611"/>
+		<Page Image="25" ImageSize="363584"/>
+		<Page Image="26" ImageSize="570582"/>
+	</Pages>
+	<Penciller>Raine Szramski</Penciller>
+	<Publisher>Innovation</Publisher>
+	<ScanInformation>(Innovation) (NJZombie)</ScanInformation>
+	<Series>Child's Play</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-14 18:06:47.  [Issue ID 131059]
+
+https://comicvine.gamespot.com/childs-play-5-hooray-for-horrorwood/4000-131059/</Summary>
+	<Tags>Andy Barclay,Chucky</Tags>
+	<Title>Hooray For Horrorwood</Title>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/childs-play-5-hooray-for-horrorwood/4000-131059/</Web>
+	<Writer>Andy Mangels</Writer>
+	<Year>1991</Year>
+</ComicInfo>

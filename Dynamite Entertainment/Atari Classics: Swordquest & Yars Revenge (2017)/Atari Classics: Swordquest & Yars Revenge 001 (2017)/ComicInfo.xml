@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Tarra,Torr,Tarr,Konjuro,Ruello,Lady Wyla,Tyrannus</Characters>
+  <Colorist>Adrienne Roy,Adrienne Roy</Colorist>
+  <Day>13</Day>
+  <Editor>Anthony Marques,Dick Giordano,Joseph Rybandt,Kevin Ketner,Matt Humphreys,Matt Idelson</Editor>
+  <GTIN>urn:comicvine:4000-621613</GTIN>
+  <Inker>Dick Giordano,George Pérez,Hiro Kimura,Ray Garst,Ray Garst,Dick Giordano</Inker>
+  <Letterer>Adam Kubert,John Costanza,John Costanza,Adam Kubert</Letterer>
+  <Locations>Darkspire Castle,Mount Mandragor</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:05:27 [Issue ID 4000-621613] urn:comicvine:4000-621613
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 07:23:41. [Issue ID 1735504]</Notes>
+  <Number>1</Number>
+  <PageCount>167</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="3043766" Type="FrontCover" />
+    <Page Image="1" ImageSize="404779" />
+    <Page Image="2" ImageSize="2798527" />
+    <Page Image="3" ImageSize="1224703" />
+    <Page Image="4" ImageSize="1078487" />
+    <Page Image="5" ImageSize="6915098" />
+    <Page Image="6" ImageSize="1866237" />
+    <Page Image="7" ImageSize="4760756" />
+    <Page Image="8" ImageSize="5311458" />
+    <Page Image="9" ImageSize="2880979" />
+    <Page Image="10" ImageSize="2631637" />
+    <Page Image="11" ImageSize="2680728" />
+    <Page Image="12" ImageSize="2473584" />
+    <Page Image="13" ImageSize="2494175" />
+    <Page Image="14" ImageSize="2487134" />
+    <Page Image="15" ImageSize="2642701" />
+    <Page Image="16" ImageSize="2626223" />
+    <Page Image="17" ImageSize="2646066" />
+    <Page Image="18" ImageSize="2117578" />
+    <Page Image="19" ImageSize="2442128" />
+    <Page Image="20" ImageSize="2679505" />
+    <Page Image="21" ImageSize="2478201" />
+    <Page Image="22" ImageSize="2755079" />
+    <Page Image="23" ImageSize="2687511" />
+    <Page Image="24" ImageSize="2630763" />
+    <Page Image="25" ImageSize="3897198" />
+    <Page Image="26" ImageSize="3148030" />
+    <Page Image="27" ImageSize="2277511" />
+    <Page Image="28" ImageSize="2692661" />
+    <Page Image="29" ImageSize="2226817" />
+    <Page Image="30" ImageSize="2523153" />
+    <Page Image="31" ImageSize="3426866" />
+    <Page Image="32" ImageSize="2234275" />
+    <Page Image="33" ImageSize="2771303" />
+    <Page Image="34" ImageSize="2583407" />
+    <Page Image="35" ImageSize="2199781" />
+    <Page Image="36" ImageSize="3101792" />
+    <Page Image="37" ImageSize="2926109" />
+    <Page Image="38" ImageSize="3225712" />
+    <Page Image="39" ImageSize="2290826" />
+    <Page Image="40" ImageSize="2144702" />
+    <Page Image="41" ImageSize="2405729" />
+    <Page Image="42" ImageSize="2956176" />
+    <Page Image="43" ImageSize="2292621" />
+    <Page Image="44" ImageSize="3101394" />
+    <Page Image="45" ImageSize="2993872" />
+    <Page Image="46" ImageSize="2905496" />
+    <Page Image="47" ImageSize="2753997" />
+    <Page Image="48" ImageSize="2626097" />
+    <Page Image="49" ImageSize="3197154" />
+    <Page Image="50" ImageSize="2656946" />
+    <Page Image="51" ImageSize="2336031" />
+    <Page Image="52" ImageSize="2496169" />
+    <Page Image="53" ImageSize="1098772" />
+    <Page Image="54" ImageSize="7881624" />
+    <Page Image="55" ImageSize="1242695" />
+    <Page Image="56" ImageSize="2244046" />
+    <Page Image="57" ImageSize="5087326" />
+    <Page Image="58" ImageSize="2735813" />
+    <Page Image="59" ImageSize="2547979" />
+    <Page Image="60" ImageSize="2722283" />
+    <Page Image="61" ImageSize="2495674" />
+    <Page Image="62" ImageSize="2765495" />
+    <Page Image="63" ImageSize="2483326" />
+    <Page Image="64" ImageSize="2355257" />
+    <Page Image="65" ImageSize="2678634" />
+    <Page Image="66" ImageSize="2291927" />
+    <Page Image="67" ImageSize="2792518" />
+    <Page Image="68" ImageSize="2874274" />
+    <Page Image="69" ImageSize="2574664" />
+    <Page Image="70" ImageSize="2792579" />
+    <Page Image="71" ImageSize="2676358" />
+    <Page Image="72" ImageSize="2138059" />
+    <Page Image="73" ImageSize="2621097" />
+    <Page Image="74" ImageSize="2202357" />
+    <Page Image="75" ImageSize="2326476" />
+    <Page Image="76" ImageSize="3588060" />
+    <Page Image="77" ImageSize="2517947" />
+    <Page Image="78" ImageSize="2353893" />
+    <Page Image="79" ImageSize="2663109" />
+    <Page Image="80" ImageSize="2346051" />
+    <Page Image="81" ImageSize="2197999" />
+    <Page Image="82" ImageSize="2901443" />
+    <Page Image="83" ImageSize="2592801" />
+    <Page Image="84" ImageSize="2880668" />
+    <Page Image="85" ImageSize="2997672" />
+    <Page Image="86" ImageSize="3208371" />
+    <Page Image="87" ImageSize="2640849" />
+    <Page Image="88" ImageSize="2380974" />
+    <Page Image="89" ImageSize="2970158" />
+    <Page Image="90" ImageSize="2388191" />
+    <Page Image="91" ImageSize="2924217" />
+    <Page Image="92" ImageSize="2927082" />
+    <Page Image="93" ImageSize="2777805" />
+    <Page Image="94" ImageSize="2952974" />
+    <Page Image="95" ImageSize="2729221" />
+    <Page Image="96" ImageSize="2809020" />
+    <Page Image="97" ImageSize="2968208" />
+    <Page Image="98" ImageSize="2641367" />
+    <Page Image="99" ImageSize="3290677" />
+    <Page Image="100" ImageSize="2919009" />
+    <Page Image="101" ImageSize="2783895" />
+    <Page Image="102" ImageSize="2702208" />
+    <Page Image="103" ImageSize="565541" />
+    <Page Image="104" ImageSize="8696924" />
+    <Page Image="105" ImageSize="1172216" />
+    <Page Image="106" ImageSize="2841312" />
+    <Page Image="107" ImageSize="2907326" />
+    <Page Image="108" ImageSize="3201882" />
+    <Page Image="109" ImageSize="3448712" />
+    <Page Image="110" ImageSize="3052584" />
+    <Page Image="111" ImageSize="2978255" />
+    <Page Image="112" ImageSize="3287568" />
+    <Page Image="113" ImageSize="3180025" />
+    <Page Image="114" ImageSize="2824259" />
+    <Page Image="115" ImageSize="2650149" />
+    <Page Image="116" ImageSize="2574652" />
+    <Page Image="117" ImageSize="6199643" />
+    <Page Image="118" ImageSize="5504248" />
+    <Page Image="119" ImageSize="2740216" />
+    <Page Image="120" ImageSize="2700388" />
+    <Page Image="121" ImageSize="3172172" />
+    <Page Image="122" ImageSize="3108280" />
+    <Page Image="123" ImageSize="3316227" />
+    <Page Image="124" ImageSize="3090423" />
+    <Page Image="125" ImageSize="2996168" />
+    <Page Image="126" ImageSize="3235011" />
+    <Page Image="127" ImageSize="5177472" />
+    <Page Image="128" ImageSize="2879214" />
+    <Page Image="129" ImageSize="3034533" />
+    <Page Image="130" ImageSize="3162795" />
+    <Page Image="131" ImageSize="2971401" />
+    <Page Image="132" ImageSize="2940398" />
+    <Page Image="133" ImageSize="2481306" />
+    <Page Image="134" ImageSize="2987655" />
+    <Page Image="135" ImageSize="2910463" />
+    <Page Image="136" ImageSize="3023266" />
+    <Page Image="137" ImageSize="3127179" />
+    <Page Image="138" ImageSize="6476207" />
+    <Page Image="139" ImageSize="2980890" />
+    <Page Image="140" ImageSize="2773927" />
+    <Page Image="141" ImageSize="3011643" />
+    <Page Image="142" ImageSize="3200134" />
+    <Page Image="143" ImageSize="2973270" />
+    <Page Image="144" ImageSize="2478747" />
+    <Page Image="145" ImageSize="2691059" />
+    <Page Image="146" ImageSize="2823875" />
+    <Page Image="147" ImageSize="2760728" />
+    <Page Image="148" ImageSize="2751249" />
+    <Page Image="149" ImageSize="2765130" />
+    <Page Image="150" ImageSize="789106" />
+    <Page Image="151" ImageSize="2824083" />
+    <Page Image="152" ImageSize="2927143" />
+    <Page Image="153" ImageSize="2975055" />
+    <Page Image="154" ImageSize="2727429" />
+    <Page Image="155" ImageSize="3090777" />
+    <Page Image="156" ImageSize="3009541" />
+    <Page Image="157" ImageSize="2927982" />
+    <Page Image="158" ImageSize="2876254" />
+    <Page Image="159" ImageSize="2703885" />
+    <Page Image="160" ImageSize="3152777" />
+    <Page Image="161" ImageSize="1520995" />
+    <Page Image="162" ImageSize="2205052" />
+    <Page Image="163" ImageSize="2645518" />
+    <Page Image="164" ImageSize="2282477" />
+    <Page Image="165" ImageSize="1775306" />
+    <Page Image="166" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Dick Giordano,George Pérez,Hiro Kimura,Ray Garst,Frank Cirocco,Frank Cirocco,George Pérez</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>Atari Classics: Swordquest &amp; Yars Revenge</Series>
+  <Summary>Tarra and Torr discover their past and their destiny to kill the evil King Tyrannus if they can complete the quest set before them by Mentorr and Mentarra.</Summary>
+  <Tags>Tarra,Torr,Tarr,Mount Mandragor,Konjuro,Ruello,Lady Wyla,Darkspire Castle,Tyrannus</Tags>
+  <Title>The Qotile Ultimatum!; Waterworld; Fireworld; Earthworld</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/atari-classics-swordquest-1-tpb/4000-621613/</Web>
+  <Writer>Gerry Conway,Hope Shafer,Roy Thomas,Roy Thomas,Gerry Conway</Writer>
+  <Year>2017</Year>
+  <Count>1</Count>
+  <Genre>Science fiction,Sword and sorcery</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

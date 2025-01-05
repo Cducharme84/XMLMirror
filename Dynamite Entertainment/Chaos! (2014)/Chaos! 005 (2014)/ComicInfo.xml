@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Evil Ernie,Carcass,Diabolica,Demonica,Morgan Gallows,Pagan,Rip,Voodoo Childe,Chastity,Cremator,Smiley,Lucifer,Leonard Price,Oblivia,Lady Hel,Purgatori,Vex</Characters>
+  <Colorist>Walter Baiamonte</Colorist>
+  <Count>6</Count>
+  <Editor>Hannah Gorfinkel Elder,Joseph Rybandt,Molly Mahan</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-464002</GTIN>
+  <Inker>Mirka Andolfo</Inker>
+  <Letterer>Marshall Dillon</Letterer>
+  <Locations>North America,Hell,Clearview Mental Institution,Earth,St. Louis,Missouri,Abbadon Acropolis</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:09:45 [Issue ID 4000-464002] urn:comicvine:4000-464002
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 19:19:44. [Issue ID 1249557]</Notes>
+  <Number>5</Number>
+  <PageCount>35</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="1491139" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="2434896" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1395490" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="963303" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2387904" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="2821163" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="2506866" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="3151945" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="2189568" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="1936773" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="2223902" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="2556944" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="2185072" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="2558034" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2462648" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="3524919" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="2621241" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="2251584" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1825896" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2127613" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="3169599" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="2228689" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="2632344" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2354449" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="2222059" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="2235019" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1826879" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1870074" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="2315995" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="2110947" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="2496746" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1923239" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="1539247" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1763535" ImageWidth="1988" />
+    <Page Image="34" ImageSize="1798685" />
+  </Pages>
+  <Penciller>Mirka Andolfo</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <ScanInformation>(3 covers) (digital) (Minutemen-Faessla)</ScanInformation>
+  <Series>Chaos!</Series>
+  <Summary>The secret origin of Purgatori revealed as the Chosen kids make their way to The Clearview Mental Institution to confront Dr. Price, Chastity and Evil Ernie before they can unleash a wave of mutilation! There’s still time to pick up one of the most horrific comic books out there!
+
+*List of covers and their creators:*
+ Cover | Name                                          | Creator(s)          | Sidebar Location |
+---------------------------------------------------------------------------------------------
+ Reg   | Regular Cover                                 | Emanuela Lupacchino | 1                |
+ Var   | Variant Cover A                               | Tim Seeley          | 2                |
+ Var   | Variant Cover B                               | Nei Ruffino         | 3                |
+ Sub   | Subscription Variant                          | Ardian Syaf         | 4                |
+ RI    | Retailer Incentive Black &amp; White Cover        | Emanuela Lupacchino | 5                |
+ RI    | Retailer Incentive Black &amp; White Cover        | Tim Seeley          | 6                |
+ RI    | Retailer Incentive Black &amp; White Cover        | Nei Ruffino         | 7                |
+ LE    | Ultra-Limited Virgin Art Cover, Limited to 25 | Emanuela Lupacchino | Missing          |
+ LE    | Ultra-Limited Virgin Art Cover, Limited to 25 | Tim Seeley          | Missing          |
+ LE    | Ultra-Limited Virgin Art Cover, Limited to 25 | Nei Ruffino         | Missing          |
+ LE    | Ultra-Limited Virgin Art Cover, Limited to 25 | Ardian Syaf         | Missing          |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-07 19:44:37.  [Issue ID 464002]
+
+https://comicvine.gamespot.com/chaos-5/4000-464002/</Summary>
+  <Tags>The Chosen,Hell,St. Louis,Rip,Chastity,Missouri,Lady Hel,Oblivia,Leonard Price,North America,Clearview Mental Institution,Earth,Voodoo Childe,Werewolves,Purgatori,Carcass,Diabolica,Morgan Gallows,Lucifer,Vampires,Vex,Evil Ernie,Demonica,Pagan,Zombies,Cremator,Smiley,Abbadon Acropolis</Tags>
+  <Teams>Vampires,The Chosen,Zombies,Werewolves</Teams>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/chaos-5/4000-464002/</Web>
+  <Writer>Tim Seeley</Writer>
+  <Year>2014</Year>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Rated T+</AgeRating>
+</ComicInfo>

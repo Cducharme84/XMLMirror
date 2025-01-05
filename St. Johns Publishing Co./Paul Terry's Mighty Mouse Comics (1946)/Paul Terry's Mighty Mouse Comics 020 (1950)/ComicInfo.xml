@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Dinky Duck,Gandy Goose,Heckle,Jeckle,Mighty Mouse,Oil Can Harry,Pearl Pureheart,Rudy the Rooster,Sourpuss</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-225768</GTIN>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:09:13 [Issue ID 4000-225768] urn:comicvine:4000-225768</Notes>
+	<Number>20</Number>
+	<PageCount>52</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="719944" Type="FrontCover"/>
+		<Page Image="1" ImageSize="585093"/>
+		<Page Image="2" ImageSize="834116"/>
+		<Page Image="3" ImageSize="863818"/>
+		<Page Image="4" ImageSize="836658"/>
+		<Page Image="5" ImageSize="850528"/>
+		<Page Image="6" ImageSize="829278"/>
+		<Page Image="7" ImageSize="836813"/>
+		<Page Image="8" ImageSize="835780"/>
+		<Page Image="9" ImageSize="824515"/>
+		<Page Image="10" ImageSize="637144"/>
+		<Page Image="11" ImageSize="629980"/>
+		<Page Image="12" ImageSize="645670"/>
+		<Page Image="13" ImageSize="535049"/>
+		<Page Image="14" ImageSize="598874"/>
+		<Page Image="15" ImageSize="629840"/>
+		<Page Image="16" ImageSize="633510"/>
+		<Page Image="17" ImageSize="648421"/>
+		<Page Image="18" ImageSize="757257"/>
+		<Page Image="19" ImageSize="749185"/>
+		<Page Image="20" ImageSize="718006"/>
+		<Page Image="21" ImageSize="735281"/>
+		<Page Image="22" ImageSize="721622"/>
+		<Page Image="23" ImageSize="747408"/>
+		<Page Image="24" ImageSize="742517"/>
+		<Page Image="25" ImageSize="739209"/>
+		<Page Image="26" ImageSize="765768"/>
+		<Page Image="27" ImageSize="741233"/>
+		<Page Image="28" ImageSize="644545"/>
+		<Page Image="29" ImageSize="664449"/>
+		<Page Image="30" ImageSize="637481"/>
+		<Page Image="31" ImageSize="660771"/>
+		<Page Image="32" ImageSize="636961"/>
+		<Page Image="33" ImageSize="676007"/>
+		<Page Image="34" ImageSize="532416"/>
+		<Page Image="35" ImageSize="512457"/>
+		<Page Image="36" ImageSize="749531"/>
+		<Page Image="37" ImageSize="757827"/>
+		<Page Image="38" ImageSize="751627"/>
+		<Page Image="39" ImageSize="747052"/>
+		<Page Image="40" ImageSize="768801"/>
+		<Page Image="41" ImageSize="755472"/>
+		<Page Image="42" ImageSize="737551"/>
+		<Page Image="43" ImageSize="760456"/>
+		<Page Image="44" ImageSize="766591"/>
+		<Page Image="45" ImageSize="734026"/>
+		<Page Image="46" ImageSize="740314"/>
+		<Page Image="47" ImageSize="752010"/>
+		<Page Image="48" ImageSize="768739"/>
+		<Page Image="49" ImageSize="699976"/>
+		<Page Image="50" ImageSize="586166"/>
+		<Page Image="51" ImageSize="598479"/>
+	</Pages>
+	<Publisher>St. Johns Publishing Co.</Publisher>
+	<Series>Paul Terry's Mighty Mouse Comics</Series>
+	<Summary>https://comicvine.gamespot.com/mighty-mouse-20/4000-225768/</Summary>
+	<Tags>Dinky Duck,Gandy Goose,Heckle,Jeckle,Mighty Mouse,Oil Can Harry,Pearl Pureheart,Rudy the Rooster,Sourpuss</Tags>
+	<Volume>1946</Volume>
+	<Web>https://comicvine.gamespot.com/mighty-mouse-20/4000-225768/</Web>
+	<Year>1950</Year>
+</ComicInfo>

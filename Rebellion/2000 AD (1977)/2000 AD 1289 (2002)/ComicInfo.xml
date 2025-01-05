@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Chris Blythe,Kev Walker</Colorist>
+	<Day>1</Day>
+	<Editor>Matt Smith</Editor>
+	<GTIN>urn:comicvine:4000-164164</GTIN>
+	<Genre>Detective-mystery,Science fiction</Genre>
+	<Inker>Andy Clarke,Frazer Irving,Kev Walker</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Annie Parkhouse,Tom Frame</Letterer>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.9 on 2024-07-27T21:30:42 [Issue ID 4000-164164] urn:comicvine:4000-164164</Notes>
+	<Number>1289</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="471763" Type="FrontCover"/>
+		<Page Image="1" ImageSize="488697"/>
+		<Page Image="2" ImageSize="361486"/>
+		<Page Image="3" ImageSize="446527"/>
+		<Page Image="4" ImageSize="376711"/>
+		<Page Image="5" ImageSize="343377"/>
+		<Page Image="6" ImageSize="448979"/>
+		<Page Image="7" ImageSize="467910"/>
+		<Page Image="8" ImageSize="397259"/>
+		<Page Image="9" ImageSize="406422"/>
+		<Page Image="10" ImageSize="442189"/>
+		<Page Image="11" ImageSize="443479"/>
+		<Page Image="12" ImageSize="461760"/>
+		<Page Image="13" ImageSize="436293"/>
+		<Page Image="14" ImageSize="558182"/>
+		<Page Image="15" ImageSize="520545"/>
+		<Page Image="16" ImageSize="554971"/>
+		<Page Image="17" ImageSize="495977"/>
+		<Page Image="18" ImageSize="527353"/>
+		<Page Image="19" ImageSize="496062"/>
+		<Page Image="20" ImageSize="429228"/>
+		<Page Image="21" ImageSize="411978"/>
+		<Page Image="22" ImageSize="451947"/>
+		<Page Image="23" ImageSize="502814"/>
+		<Page Image="24" ImageSize="767104"/>
+		<Page Image="25" ImageSize="606598"/>
+		<Page Image="26" ImageSize="554580"/>
+		<Page Image="27" ImageSize="569421"/>
+		<Page Image="28" ImageSize="465602"/>
+		<Page Image="29" ImageSize="559083"/>
+		<Page Image="30" ImageSize="511074"/>
+		<Page Image="31" ImageSize="534951"/>
+	</Pages>
+	<Penciller>Andy Clarke,Frazer Irving,Kev Walker</Penciller>
+	<Publisher>Rebellion</Publisher>
+	<ScanInformation>(may 2002)</ScanInformation>
+	<Series>2000 AD</Series>
+	<Title>My Name Is Death Part 1; 13 Part 1; Sin City Part 1</Title>
+	<Volume>1977</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-164164/</Web>
+	<Writer>John Wagner,Mike Carey</Writer>
+	<Year>2002</Year>
+</ComicInfo>

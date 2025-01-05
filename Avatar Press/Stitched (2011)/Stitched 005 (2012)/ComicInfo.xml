@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Baz,Cassandra Cooper,Dave,Pruitt,Tony Barclay,Twiggs</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Count>19</Count>
+	<Country>US</Country>
+	<Editor>James Kuhoric,William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-952416</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Mike Wolfer</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Afghanistan</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:36 [Issue ID 4000-952416] urn:comicvine:4000-952416 urn:grandcomicsdatabase:issue/952416</Notes>
+	<Number>5</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="2280580" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="1236200"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="2247357"/>
+		<Page Image="3" ImageWidth="3975" ImageHeight="3056" ImageSize="4919715"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="2207718"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="2310401"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="2437243"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="2267146"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="2079465"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="2545308"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="1770091"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="2505820"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1981053"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="2097846"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="1939837"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="1848289"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="1736826"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1871610"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="1618788"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="1798754"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1914018"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="1883300"/>
+		<Page Image="22" ImageSize="1264530"/>
+	</Pages>
+	<Penciller>Mike Wolfer</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(digital-Empire)</ScanInformation>
+	<Series>Stitched</Series>
+	<Summary>Series is adapted from a short film written and directed by Garth Ennis.</Summary>
+	<Teams>North Atlantic Treaty Organization,Special Air Service,Stitched</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-952416/</Web>
+	<Writer>Garth Ennis,Mike Wolfer</Writer>
+	<Year>2012</Year>
+</ComicInfo>

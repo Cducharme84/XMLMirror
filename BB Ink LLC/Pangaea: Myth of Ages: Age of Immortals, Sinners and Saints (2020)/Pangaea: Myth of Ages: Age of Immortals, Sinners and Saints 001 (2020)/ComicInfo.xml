@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Colorist>Anastasiia Zozulia,Antonia Sifakaki</Colorist>
+	<Count>3</Count>
+	<CoverArtist>Anastasiia Zozulia</CoverArtist>
+	<Day>1</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-757786</GTIN>
+	<Genre>Fantasy,Science Fiction</Genre>
+	<Inker>Anastasiia Zozulia</Inker>
+	<Letterer>Bolivar Beato</Letterer>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-17T19:05:34 [Issue ID 4000-757786] urn:comicvine:4000-757786</Notes>
+	<Number>1</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2586" ImageHeight="4000" ImageSize="4098458" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2586" ImageHeight="4000" ImageSize="4546185"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2586" ImageHeight="4000" ImageSize="6140411"/>
+		<Page DoublePage="True" Image="3" ImageWidth="4000" ImageHeight="3094" ImageSize="5919660"/>
+		<Page DoublePage="True" Image="4" ImageWidth="4000" ImageHeight="3094" ImageSize="6335993"/>
+		<Page DoublePage="True" Image="5" ImageWidth="4000" ImageHeight="3094" ImageSize="6735313"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2586" ImageHeight="4000" ImageSize="5767196"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2586" ImageHeight="4000" ImageSize="5618459"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2586" ImageHeight="4000" ImageSize="4731919"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2586" ImageHeight="4000" ImageSize="5281126"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2586" ImageHeight="4000" ImageSize="4230953"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2586" ImageHeight="4000" ImageSize="5226883"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2586" ImageHeight="4000" ImageSize="4367344"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2586" ImageHeight="4000" ImageSize="4290557"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2586" ImageHeight="4000" ImageSize="4240148"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2586" ImageHeight="4000" ImageSize="3490332"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2586" ImageHeight="4000" ImageSize="4238779"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2586" ImageHeight="4000" ImageSize="3898226"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2586" ImageHeight="4000" ImageSize="3655691"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2586" ImageHeight="4000" ImageSize="4320652"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2586" ImageHeight="4000" ImageSize="4680145"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2586" ImageHeight="4000" ImageSize="4096381"/>
+		<Page Image="22" ImageSize="5589822"/>
+	</Pages>
+	<Penciller>Anastasiia Zozulia</Penciller>
+	<Publisher>BB Ink LLC</Publisher>
+	<Series>Pangaea: Myth of Ages: Age of Immortals, Sinners and Saints</Series>
+	<Summary>Freefall Part 1
+
+It's a clash of wills as two Rangers from opposing factions within their own organization hunt for a relic whose loss might have world-shattering repercussions; both politically and magically.</Summary>
+	<Title>Freefall Part 1</Title>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/pangaea-myth-of-ages-age-of-immortals-sinners-and-/4000-757786/</Web>
+	<Writer>Bolivar Beato</Writer>
+	<Year>2020</Year>
+</ComicInfo>

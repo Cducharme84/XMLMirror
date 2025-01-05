@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Pippa,Hugo Tate,Tank Girl,Barney Jones,Liz,Booga</Characters>
+  <GTIN>urn:comicvine:4000-276931</GTIN>
+  <Inker>Brett Ewins,D'Israeli,Glenn Dakin,Jamie Hewlett,Julie Hollings,Nick Abadzis,Philip Bond,Rachael Ball,Rob Moran,Shaky Kane,StiK</Inker>
+  <Letterer>Alan Martin</Letterer>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:13 [Issue ID 4000-276931] urn:comicvine:4000-276931
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:37:42. [Issue ID 648197]</Notes>
+  <Number>16</Number>
+  <PageCount>67</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2272" ImageSize="955440" ImageWidth="1600" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2295" ImageSize="901928" ImageWidth="1600" />
+    <Page Image="2" ImageHeight="2254" ImageSize="514742" ImageWidth="1600" />
+    <Page Image="3" ImageHeight="2284" ImageSize="1304765" ImageWidth="1600" />
+    <Page Image="4" ImageHeight="2277" ImageSize="940252" ImageWidth="1600" />
+    <Page Image="5" ImageHeight="2326" ImageSize="699720" ImageWidth="1600" />
+    <Page Image="6" ImageHeight="2277" ImageSize="1009201" ImageWidth="1600" />
+    <Page Image="7" ImageHeight="2325" ImageSize="870622" ImageWidth="1600" />
+    <Page Image="8" ImageHeight="2283" ImageSize="999769" ImageWidth="1600" />
+    <Page Image="9" ImageHeight="2294" ImageSize="900102" ImageWidth="1600" />
+    <Page Image="10" ImageHeight="2274" ImageSize="803269" ImageWidth="1600" />
+    <Page Image="11" ImageHeight="2276" ImageSize="709162" ImageWidth="1600" />
+    <Page Image="12" ImageHeight="2267" ImageSize="646727" ImageWidth="1600" />
+    <Page Image="13" ImageHeight="2351" ImageSize="626488" ImageWidth="1600" />
+    <Page Image="14" ImageHeight="2273" ImageSize="703403" ImageWidth="1600" />
+    <Page Image="15" ImageHeight="2296" ImageSize="648092" ImageWidth="1600" />
+    <Page Image="16" ImageHeight="2274" ImageSize="648701" ImageWidth="1600" />
+    <Page Image="17" ImageHeight="2250" ImageSize="626566" ImageWidth="1600" />
+    <Page Image="18" ImageHeight="2264" ImageSize="709980" ImageWidth="1600" />
+    <Page Image="19" ImageHeight="2282" ImageSize="809287" ImageWidth="1600" />
+    <Page Image="20" ImageHeight="2276" ImageSize="731451" ImageWidth="1600" />
+    <Page Image="21" ImageHeight="2343" ImageSize="459558" ImageWidth="1600" />
+    <Page Image="22" ImageHeight="2254" ImageSize="832752" ImageWidth="1600" />
+    <Page Image="23" ImageHeight="2356" ImageSize="651468" ImageWidth="1600" />
+    <Page Image="24" ImageHeight="2266" ImageSize="529437" ImageWidth="1600" />
+    <Page Image="25" ImageHeight="2335" ImageSize="189708" ImageWidth="1600" />
+    <Page Image="26" ImageHeight="2277" ImageSize="992143" ImageWidth="1600" />
+    <Page Image="27" ImageHeight="2293" ImageSize="656828" ImageWidth="1600" />
+    <Page Image="28" ImageHeight="2272" ImageSize="621432" ImageWidth="1600" />
+    <Page Image="29" ImageHeight="2359" ImageSize="698189" ImageWidth="1600" />
+    <Page Image="30" ImageHeight="2280" ImageSize="684758" ImageWidth="1600" />
+    <Page Image="31" ImageHeight="2296" ImageSize="856001" ImageWidth="1600" />
+    <Page Image="32" ImageHeight="2262" ImageSize="1210209" ImageWidth="1600" />
+    <Page Image="33" ImageHeight="2262" ImageSize="2514426" ImageWidth="3200" />
+    <Page Image="34" ImageHeight="2270" ImageSize="1037719" ImageWidth="1600" />
+    <Page Image="35" ImageHeight="2264" ImageSize="776074" ImageWidth="1600" />
+    <Page Image="36" ImageHeight="2243" ImageSize="371766" ImageWidth="1600" />
+    <Page Image="37" ImageHeight="4656" ImageSize="1879541" ImageWidth="3306" />
+    <Page Image="38" ImageHeight="4638" ImageSize="2024661" ImageWidth="3252" />
+    <Page Image="39" ImageHeight="2296" ImageSize="937946" ImageWidth="1600" />
+    <Page Image="40" ImageHeight="2235" ImageSize="826706" ImageWidth="1600" />
+    <Page Image="41" ImageHeight="2282" ImageSize="1010490" ImageWidth="1600" />
+    <Page Image="42" ImageHeight="2273" ImageSize="837273" ImageWidth="1600" />
+    <Page Image="43" ImageHeight="2290" ImageSize="1244411" ImageWidth="1600" />
+    <Page Image="44" ImageHeight="2298" ImageSize="880828" ImageWidth="1600" />
+    <Page Image="45" ImageHeight="2294" ImageSize="618777" ImageWidth="1600" />
+    <Page Image="46" ImageHeight="2293" ImageSize="851612" ImageWidth="1600" />
+    <Page Image="47" ImageHeight="2290" ImageSize="518587" ImageWidth="1600" />
+    <Page Image="48" ImageHeight="2293" ImageSize="1067439" ImageWidth="1600" />
+    <Page Image="49" ImageHeight="2335" ImageSize="868583" ImageWidth="1600" />
+    <Page Image="50" ImageHeight="2301" ImageSize="829642" ImageWidth="1600" />
+    <Page Image="51" ImageHeight="2293" ImageSize="739901" ImageWidth="1600" />
+    <Page Image="52" ImageHeight="2274" ImageSize="674195" ImageWidth="1600" />
+    <Page Image="53" ImageHeight="2318" ImageSize="634335" ImageWidth="1600" />
+    <Page Image="54" ImageHeight="2304" ImageSize="787916" ImageWidth="1600" />
+    <Page Image="55" ImageHeight="2296" ImageSize="502325" ImageWidth="1600" />
+    <Page Image="56" ImageHeight="2280" ImageSize="1087095" ImageWidth="1600" />
+    <Page Image="57" ImageHeight="2273" ImageSize="770208" ImageWidth="1600" />
+    <Page Image="58" ImageHeight="2281" ImageSize="1174100" ImageWidth="1600" />
+    <Page Image="59" ImageHeight="2308" ImageSize="949444" ImageWidth="1600" />
+    <Page Image="60" ImageHeight="2259" ImageSize="1533737" ImageWidth="1600" />
+    <Page Image="61" ImageHeight="2307" ImageSize="1020824" ImageWidth="1600" />
+    <Page Image="62" ImageHeight="2287" ImageSize="1089995" ImageWidth="1600" />
+    <Page Image="63" ImageHeight="2302" ImageSize="825728" ImageWidth="1600" />
+    <Page Image="64" ImageHeight="2341" ImageSize="696916" ImageWidth="1600" />
+    <Page Image="65" ImageHeight="2296" ImageSize="643193" ImageWidth="1600" />
+    <Page Image="66" ImageSize="976159" />
+  </Pages>
+  <Penciller>Brett Ewins,D'Israeli,Glenn Dakin,Jamie Hewlett,Julie Hollings,Nick Abadzis,Philip Bond,Rachael Ball,Rob Moran,Shaky Kane,StiK</Penciller>
+  <Publisher>Deadline Publications</Publisher>
+  <ScanInformation>(FIXED)(S23-ScAndy)</ScanInformation>
+  <Series>Deadline</Series>
+  <Summary>https://comicvine.gamespot.com/deadline-16/4000-276931/</Summary>
+  <Volume>1988</Volume>
+  <Web>https://comicvine.gamespot.com/deadline-16/4000-276931/</Web>
+  <Writer>Brett Ewins,Glenn Dakin,Insa Heiss,Jamie Hewlett,Julie Hollings,Nick Abadzis,Philip Bond,Rachael Ball,Rob Moran,Shaky Kane,StiK</Writer>
+  <Year>1990</Year>
+  <Count>71</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

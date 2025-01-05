@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>1</Count>
+	<Day>15</Day>
+	<Format>One Shot</Format>
+	<GTIN>urn:comicvine:4000-226549</GTIN>
+	<Genre>Adventure</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:53:06 [Issue ID 4000-226549] urn:comicvine:4000-226549 urn:grandcomicsdatabase:issue/226549</Notes>
+	<Number>1</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1024" ImageHeight="1565" ImageSize="247761" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1024" ImageHeight="1588" ImageSize="257724"/>
+		<Page Image="2" ImageWidth="1024" ImageHeight="1573" ImageSize="360225"/>
+		<Page Image="3" ImageWidth="1024" ImageHeight="1595" ImageSize="321148"/>
+		<Page Image="4" ImageWidth="1024" ImageHeight="1579" ImageSize="335982"/>
+		<Page Image="5" ImageWidth="1024" ImageHeight="1588" ImageSize="350792"/>
+		<Page Image="6" ImageWidth="1024" ImageHeight="1581" ImageSize="223482"/>
+		<Page Image="7" ImageWidth="1024" ImageHeight="1590" ImageSize="260571"/>
+		<Page Image="8" ImageWidth="1024" ImageHeight="1575" ImageSize="417547"/>
+		<Page Image="9" ImageWidth="1024" ImageHeight="1598" ImageSize="419992"/>
+		<Page Image="10" ImageWidth="1024" ImageHeight="1575" ImageSize="349033"/>
+		<Page Image="11" ImageWidth="1024" ImageHeight="1577" ImageSize="298524"/>
+		<Page Image="12" ImageWidth="1024" ImageHeight="1578" ImageSize="317017"/>
+		<Page Image="13" ImageWidth="1024" ImageHeight="1583" ImageSize="263430"/>
+		<Page Image="14" ImageWidth="1024" ImageHeight="1596" ImageSize="352634"/>
+		<Page Image="15" ImageWidth="1024" ImageHeight="1589" ImageSize="324008"/>
+		<Page Image="16" ImageWidth="1024" ImageHeight="1590" ImageSize="329116"/>
+		<Page Image="17" ImageWidth="1024" ImageHeight="1580" ImageSize="274930"/>
+		<Page Image="18" ImageWidth="1024" ImageHeight="1580" ImageSize="292072"/>
+		<Page Image="19" ImageWidth="1024" ImageHeight="1570" ImageSize="277941"/>
+		<Page Image="20" ImageWidth="1024" ImageHeight="1576" ImageSize="281505"/>
+		<Page Image="21" ImageWidth="1024" ImageHeight="1591" ImageSize="311751"/>
+		<Page Image="22" ImageWidth="1024" ImageHeight="1571" ImageSize="360612"/>
+		<Page Image="23" ImageWidth="1024" ImageHeight="1594" ImageSize="286068"/>
+		<Page Image="24" ImageWidth="1024" ImageHeight="1587" ImageSize="410302"/>
+		<Page Image="25" ImageWidth="1024" ImageHeight="1589" ImageSize="417072"/>
+		<Page Image="26" ImageWidth="1024" ImageHeight="1593" ImageSize="371910"/>
+		<Page Image="27" ImageSize="137295"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Simon Spector</Series>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-226549/</Web>
+	<Year>2004</Year>
+</ComicInfo>

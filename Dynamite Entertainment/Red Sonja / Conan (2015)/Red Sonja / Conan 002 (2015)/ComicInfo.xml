@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Red Sonja,Kal'Ang,Conan</Characters>
+  <Colorist>Alex Guimarães,Dinei Ribeiro</Colorist>
+  <Day>9</Day>
+  <Editor>Luke Lieberman</Editor>
+  <GTIN>urn:comicvine:4000-499758</GTIN>
+  <Inker>Roberto Castro</Inker>
+  <Letterer>Simon Bowland</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:23:56 [Issue ID 4000-499758] urn:comicvine:4000-499758
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 08:50:44. [Issue ID 1457077]</Notes>
+  <Number>2</Number>
+  <PageCount>2</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="446902" Type="FrontCover" />
+    <Page Image="1" ImageSize="390512" />
+  </Pages>
+  <Penciller>Roberto Castro</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <ScanInformation>(Jim Lee variant) (Jormungand-DCP)</ScanInformation>
+  <Series>Red Sonja / Conan</Series>
+  <Summary>Kal'Ang creates giant monsters to battle Conan and Red Sonja.</Summary>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/red-sonjaconan-2/4000-499758/</Web>
+  <Writer>Victor Gischler</Writer>
+  <Year>2015</Year>
+  <Count>4</Count>
+  <Genre>Sword and sorcery</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+  <AgeRating>Teen+</AgeRating>
+</ComicInfo>

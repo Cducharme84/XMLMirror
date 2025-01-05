@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Geralt of Rivia,Dandelion</Characters>
+  <Colorist>Helena Rossetti,Miki Montlló</Colorist>
+  <Day>21</Day>
+  <Editor>Bartosz Sztybor,Judy Khuu,Rose Weitz</Editor>
+  <GTIN>urn:comicvine:4000-961668</GTIN>
+  <Inker>Miki Montlló,Oriol Pérez</Inker>
+  <Letterer>Hassan Otsmane-Elhaou</Letterer>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:13:46 [Issue ID 4000-961668] urn:comicvine:4000-961668
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 09:11:31. [Issue ID 2467532]</Notes>
+  <Number>1</Number>
+  <PageCount>114</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="5760" ImageSize="2735026" ImageWidth="3747" Type="FrontCover" />
+    <Page Image="1" ImageHeight="5760" ImageSize="2989913" ImageWidth="3747" />
+    <Page Image="2" ImageHeight="5760" ImageSize="2931798" ImageWidth="3747" />
+    <Page Image="3" ImageHeight="5760" ImageSize="2340086" ImageWidth="3747" />
+    <Page Image="4" ImageHeight="5760" ImageSize="2428841" ImageWidth="3747" />
+    <Page Image="5" ImageHeight="5760" ImageSize="2703764" ImageWidth="3747" />
+    <Page Image="6" ImageHeight="5760" ImageSize="1756677" ImageWidth="3747" />
+    <Page Image="7" ImageHeight="5760" ImageSize="1931834" ImageWidth="3747" />
+    <Page Image="8" ImageHeight="5760" ImageSize="1990437" ImageWidth="3747" />
+    <Page Image="9" ImageHeight="5760" ImageSize="1763266" ImageWidth="3747" />
+    <Page Image="10" ImageHeight="5760" ImageSize="2108793" ImageWidth="3747" />
+    <Page Image="11" ImageHeight="5760" ImageSize="3521276" ImageWidth="3747" />
+    <Page Image="12" ImageHeight="5760" ImageSize="2554554" ImageWidth="3747" />
+    <Page Image="13" ImageHeight="5760" ImageSize="2206223" ImageWidth="3747" />
+    <Page Image="14" ImageHeight="5760" ImageSize="2362824" ImageWidth="3747" />
+    <Page Image="15" ImageHeight="5760" ImageSize="2855054" ImageWidth="3747" />
+    <Page Image="16" ImageHeight="5760" ImageSize="2030272" ImageWidth="3747" />
+    <Page Image="17" ImageHeight="5760" ImageSize="2048877" ImageWidth="3747" />
+    <Page Image="18" ImageHeight="5760" ImageSize="2925017" ImageWidth="3747" />
+    <Page Image="19" ImageHeight="5760" ImageSize="2060717" ImageWidth="3747" />
+    <Page Image="20" ImageHeight="5760" ImageSize="1885587" ImageWidth="3747" />
+    <Page Image="21" ImageHeight="5760" ImageSize="1827436" ImageWidth="3747" />
+    <Page Image="22" ImageHeight="5760" ImageSize="1884102" ImageWidth="3747" />
+    <Page Image="23" ImageHeight="5760" ImageSize="2433176" ImageWidth="3747" />
+    <Page Image="24" ImageHeight="5760" ImageSize="2327188" ImageWidth="3747" />
+    <Page Image="25" ImageHeight="5760" ImageSize="1980256" ImageWidth="3747" />
+    <Page Image="26" ImageHeight="5760" ImageSize="2280337" ImageWidth="3747" />
+    <Page Image="27" ImageHeight="5760" ImageSize="2430046" ImageWidth="3747" />
+    <Page Image="28" ImageHeight="5760" ImageSize="2458070" ImageWidth="3747" />
+    <Page Image="29" ImageHeight="5760" ImageSize="1959068" ImageWidth="3747" />
+    <Page Image="30" ImageHeight="5760" ImageSize="2071771" ImageWidth="3747" />
+    <Page Image="31" ImageHeight="5760" ImageSize="2036285" ImageWidth="3747" />
+    <Page Image="32" ImageHeight="5760" ImageSize="1948192" ImageWidth="3747" />
+    <Page Image="33" ImageHeight="5760" ImageSize="2886362" ImageWidth="3747" />
+    <Page Image="34" ImageHeight="5760" ImageSize="2900502" ImageWidth="3747" />
+    <Page Image="35" ImageHeight="5760" ImageSize="2920588" ImageWidth="3747" />
+    <Page Image="36" ImageHeight="5760" ImageSize="2181476" ImageWidth="3747" />
+    <Page Image="37" ImageHeight="5760" ImageSize="2022505" ImageWidth="3747" />
+    <Page Image="38" ImageHeight="5760" ImageSize="2904175" ImageWidth="3747" />
+    <Page Image="39" ImageHeight="5760" ImageSize="3045528" ImageWidth="3747" />
+    <Page Image="40" ImageHeight="5760" ImageSize="2066473" ImageWidth="3747" />
+    <Page Image="41" ImageHeight="5760" ImageSize="2190752" ImageWidth="3747" />
+    <Page Image="42" ImageHeight="5760" ImageSize="2877814" ImageWidth="3747" />
+    <Page Image="43" ImageHeight="5760" ImageSize="2381298" ImageWidth="3747" />
+    <Page Image="44" ImageHeight="5760" ImageSize="1801758" ImageWidth="3747" />
+    <Page Image="45" ImageHeight="5760" ImageSize="2218710" ImageWidth="3747" />
+    <Page Image="46" ImageHeight="5760" ImageSize="3412037" ImageWidth="3747" />
+    <Page Image="47" ImageHeight="5760" ImageSize="2108460" ImageWidth="3747" />
+    <Page Image="48" ImageHeight="5760" ImageSize="2000958" ImageWidth="3747" />
+    <Page Image="49" ImageHeight="5760" ImageSize="2770008" ImageWidth="3747" />
+    <Page Image="50" ImageHeight="5760" ImageSize="2543366" ImageWidth="3747" />
+    <Page Image="51" ImageHeight="5760" ImageSize="1894890" ImageWidth="3747" />
+    <Page Image="52" ImageHeight="5760" ImageSize="2558030" ImageWidth="3747" />
+    <Page Image="53" ImageHeight="5760" ImageSize="2941781" ImageWidth="3747" />
+    <Page Image="54" ImageHeight="5760" ImageSize="1591308" ImageWidth="3747" />
+    <Page Image="55" ImageHeight="5760" ImageSize="1950033" ImageWidth="3747" />
+    <Page Image="56" ImageHeight="5760" ImageSize="2013809" ImageWidth="3747" />
+    <Page Image="57" ImageHeight="5760" ImageSize="2160916" ImageWidth="3747" />
+    <Page Image="58" ImageHeight="5760" ImageSize="2163935" ImageWidth="3747" />
+    <Page Image="59" ImageHeight="5760" ImageSize="2210305" ImageWidth="3747" />
+    <Page Image="60" ImageHeight="5760" ImageSize="1883871" ImageWidth="3747" />
+    <Page Image="61" ImageHeight="5760" ImageSize="2345910" ImageWidth="3747" />
+    <Page Image="62" ImageHeight="5760" ImageSize="2003772" ImageWidth="3747" />
+    <Page Image="63" ImageHeight="5760" ImageSize="2737744" ImageWidth="3747" />
+    <Page Image="64" ImageHeight="5760" ImageSize="2378767" ImageWidth="3747" />
+    <Page Image="65" ImageHeight="5760" ImageSize="2046069" ImageWidth="3747" />
+    <Page Image="66" ImageHeight="5760" ImageSize="2421454" ImageWidth="3747" />
+    <Page Image="67" ImageHeight="5760" ImageSize="2508669" ImageWidth="3747" />
+    <Page Image="68" ImageHeight="5760" ImageSize="1501372" ImageWidth="3747" />
+    <Page Image="69" ImageHeight="5760" ImageSize="2025899" ImageWidth="3747" />
+    <Page Image="70" ImageHeight="5760" ImageSize="2257904" ImageWidth="3747" />
+    <Page Image="71" ImageHeight="5760" ImageSize="2237286" ImageWidth="3747" />
+    <Page Image="72" ImageHeight="5760" ImageSize="1758231" ImageWidth="3747" />
+    <Page Image="73" ImageHeight="5760" ImageSize="1758582" ImageWidth="3747" />
+    <Page Image="74" ImageHeight="5760" ImageSize="2345338" ImageWidth="3747" />
+    <Page Image="75" ImageHeight="5760" ImageSize="1836238" ImageWidth="3747" />
+    <Page Image="76" ImageHeight="5760" ImageSize="1596125" ImageWidth="3747" />
+    <Page Image="77" ImageHeight="5760" ImageSize="3381914" ImageWidth="3747" />
+    <Page Image="78" ImageHeight="5760" ImageSize="2162858" ImageWidth="3747" />
+    <Page Image="79" ImageHeight="5760" ImageSize="2219361" ImageWidth="3747" />
+    <Page Image="80" ImageHeight="5760" ImageSize="2789344" ImageWidth="3747" />
+    <Page Image="81" ImageHeight="5760" ImageSize="2533126" ImageWidth="3747" />
+    <Page Image="82" ImageHeight="5760" ImageSize="1856695" ImageWidth="3747" />
+    <Page Image="83" ImageHeight="5760" ImageSize="1743054" ImageWidth="3747" />
+    <Page Image="84" ImageHeight="5760" ImageSize="1931069" ImageWidth="3747" />
+    <Page Image="85" ImageHeight="5760" ImageSize="2151558" ImageWidth="3747" />
+    <Page Image="86" ImageHeight="5760" ImageSize="1730798" ImageWidth="3747" />
+    <Page Image="87" ImageHeight="5760" ImageSize="1560023" ImageWidth="3747" />
+    <Page Image="88" ImageHeight="5760" ImageSize="1849944" ImageWidth="3747" />
+    <Page Image="89" ImageHeight="5760" ImageSize="2154442" ImageWidth="3747" />
+    <Page Image="90" ImageHeight="5760" ImageSize="2215194" ImageWidth="3747" />
+    <Page Image="91" ImageHeight="5760" ImageSize="2260507" ImageWidth="3747" />
+    <Page Image="92" ImageHeight="5760" ImageSize="2075061" ImageWidth="3747" />
+    <Page Image="93" ImageHeight="5760" ImageSize="1920301" ImageWidth="3747" />
+    <Page Image="94" ImageHeight="5760" ImageSize="2593603" ImageWidth="3747" />
+    <Page Image="95" ImageHeight="5760" ImageSize="2349672" ImageWidth="3747" />
+    <Page Image="96" ImageHeight="5760" ImageSize="2003829" ImageWidth="3747" />
+    <Page Image="97" ImageHeight="5760" ImageSize="2303894" ImageWidth="3747" />
+    <Page Image="98" ImageHeight="5760" ImageSize="1556731" ImageWidth="3747" />
+    <Page Image="99" ImageHeight="5760" ImageSize="1856479" ImageWidth="3747" />
+    <Page Image="100" ImageHeight="5760" ImageSize="1940799" ImageWidth="3747" />
+    <Page Image="101" ImageHeight="5760" ImageSize="2153794" ImageWidth="3747" />
+    <Page Image="102" ImageHeight="5760" ImageSize="3246741" ImageWidth="3747" />
+    <Page Image="103" ImageHeight="5760" ImageSize="1647652" ImageWidth="3747" />
+    <Page Image="104" ImageHeight="5760" ImageSize="2554148" ImageWidth="3747" />
+    <Page Image="105" ImageHeight="5760" ImageSize="1499473" ImageWidth="3747" />
+    <Page Image="106" ImageHeight="5760" ImageSize="1841242" ImageWidth="3747" />
+    <Page Image="107" ImageHeight="5760" ImageSize="1690259" ImageWidth="3747" />
+    <Page Image="108" ImageHeight="5760" ImageSize="1515240" ImageWidth="3747" />
+    <Page Image="109" ImageHeight="5760" ImageSize="1737459" ImageWidth="3747" />
+    <Page Image="110" ImageHeight="5760" ImageSize="2105031" ImageWidth="3747" />
+    <Page Image="111" ImageHeight="5760" ImageSize="2098810" ImageWidth="3747" />
+    <Page Image="112" ImageHeight="5760" ImageSize="1559004" ImageWidth="3747" />
+    <Page Image="113" ImageSize="2239269" />
+  </Pages>
+  <Penciller>Miki Montlló,Oriol Pérez</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>The Witcher: The Ballad of Two Wolves</Series>
+  <Summary>Hailed as the greatest monster slayer-the infamous witcher Geralt is beckoned to the town of Grimmwald. When a strange occurrence stirs murmurs of a werewolf on the prowl, rumors spread about the peculiar arrival of three Piglet sisters. With a grand mystery and a monster to kill, Dandelion may just find the inspiration he needs to write the perfect ballad.
+
+https://comicvine.gamespot.com/the-witcher-the-ballad-of-two-wolves-1/4000-961668/</Summary>
+  <Title>Volume 7</Title>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/the-witcher-the-ballad-of-two-wolves-1/4000-961668/</Web>
+  <Writer>Bartosz Sztybor</Writer>
+  <Year>2022</Year>
+  <Count>4</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

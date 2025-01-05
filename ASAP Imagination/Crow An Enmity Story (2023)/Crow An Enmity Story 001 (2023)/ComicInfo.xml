@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Series>Crow An Enmity Story</Series>
+  <Number>1</Number>
+  <Count>1</Count>
+  <Volume>2023</Volume>
+  <Genre>Post-Apocalyptic</Genre>
+  <Summary>The Angels have fallen, but one of their own finds himself in urgent need of a vessel. In a desperate endeavor to preserve his life force, he uses his divine gifts to inhabit the body of a nearby crow, learning that there are significant advantages to possessing the Corvus.</Summary>
+  <Publisher>ASAP Imagination</Publisher>
+  <Year>2023</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Special</Format>
+  <AgeRating>Mature 17+</AgeRating>
+  <PageCount>9</PageCount>
+  <Writer>Morgan Quaid</Writer>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="2400" ImageSize="1607140" ImageWidth="1582" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="2400" ImageSize="2988518" ImageWidth="1582" />
+    <Page DoublePage="False" Image="2" ImageHeight="2400" ImageSize="2687980" ImageWidth="1582" />
+    <Page DoublePage="False" Image="3" ImageHeight="2400" ImageSize="2844642" ImageWidth="1582" />
+    <Page DoublePage="False" Image="4" ImageHeight="2400" ImageSize="2418498" ImageWidth="1582" />
+    <Page DoublePage="False" Image="5" ImageHeight="2400" ImageSize="2225969" ImageWidth="1582" />
+    <Page DoublePage="False" Image="6" ImageHeight="2400" ImageSize="2729257" ImageWidth="1582" />
+    <Page DoublePage="False" Image="7" ImageHeight="2400" ImageSize="2628894" ImageWidth="1582" />
+    <Page DoublePage="False" Image="8" ImageHeight="2400" ImageSize="1929766" ImageWidth="1582" />
+  </Pages>
+</ComicInfo>

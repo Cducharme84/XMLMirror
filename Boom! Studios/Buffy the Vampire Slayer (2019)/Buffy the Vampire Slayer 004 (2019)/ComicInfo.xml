@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Angel,Buffy,Cordelia,Drusilla,Eric,Giles,Jenny Calendar,Joyce Summers,Robin Wood,Rose Martinez,Spike,Willow,Xander</Characters>
+	<Colorist>Raul Angulo,Raúl Angulo</Colorist>
+	<Day>17</Day>
+	<Editor>Gavin Gronenthal,Jeanine Schaefer</Editor>
+	<GTIN>urn:comicvine:4000-706297</GTIN>
+	<Genre>Action/Adventure,Horror</Genre>
+	<Inker>Dan Mora</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Ed Dukeshire</Letterer>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:39:41 [Issue ID 4000-706297] urn:comicvine:4000-706297</Notes>
+	<Number>4</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="1496971" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="1205288"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="1987646"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="1689679"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="2082174"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="1384602"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="1812543"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="1636205"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="1808553"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="1859725"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="1536995"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="1700129"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1677151"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="1050109"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="1474218"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="1679275"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="1795346"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1672337"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="1338590"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="1853738"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1728048"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="1164440"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="1786451"/>
+		<Page Image="23" ImageWidth="1988" ImageHeight="3056" ImageSize="958006"/>
+		<Page Image="24" ImageWidth="3976" ImageHeight="3056" ImageSize="4573724"/>
+		<Page Image="25" ImageWidth="1988" ImageHeight="3056" ImageSize="1586719"/>
+		<Page Image="26" ImageWidth="1988" ImageHeight="3056" ImageSize="1217585"/>
+		<Page Image="27" ImageWidth="1988" ImageHeight="3056" ImageSize="1628779"/>
+		<Page Image="28" ImageSize="1250490"/>
+	</Pages>
+	<Penciller>Dan  Mora,Dan Mora</Penciller>
+	<Publisher>Boom! Studios</Publisher>
+	<ScanInformation>Kileko-Empire</ScanInformation>
+	<Series>Buffy the Vampire Slayer</Series>
+	<Summary>This is the issue no BUFFY fan can miss! In the shocking conclusion of the first story arc of the most-anticipated reVAMP of 2019, someone from the Scooby gang must make the ultimate sacrifice. And don't miss the massive first appearance that will have everyone talking!
+
+*List of covers and their creators:*
+ Cover | Name                                                    | Creator(s)     | Sidebar Location |
+--------------------------------------------------------------------------------------------------
+ A     | Main Cover                                              | Matthew Taylor | 1                |
+ B     | Spotlight Variant Cover (Xander)                        | Kevin Wada     | 2                |
+ C     | Chosen One Variant Cover (China Tang Dynasty)           | Feifei Ruan    | 3                |
+ Sub   | Episode Preorder Variant Cover (Once More With Feeling) | Paul Mann      | 4                |
+ Var   | 1:25 Variant Cover                                      | Jenny Frison   | 5                |
+ Var   | 1:50 Variant Cover                                      | Jenny Frison   | 6                |
+ FOC   | Unlocked Xander Variant Cover                           | Miguel Mercado | 7                |
+ FOC   | Unlocked Vampire Xander Variant Cover                   | Miguel Mercado | 8                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-10 20:38:01.  [CVDB706297]
+
+https://comicvine.gamespot.com/buffy-the-vampire-slayer-4/4000-706297/</Summary>
+	<Tags>Angel,Buffy,Cordelia,Drusilla,Eric,Giles,Jenny Calendar,Joyce Summers,Robin Wood,Rose Martinez,Scooby Gang,Spike,Willow,Xander</Tags>
+	<Teams>Scooby Gang</Teams>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/buffy-the-vampire-slayer-4/4000-706297/</Web>
+	<Writer>Jordie Bellaire</Writer>
+	<Year>2019</Year>
+</ComicInfo>

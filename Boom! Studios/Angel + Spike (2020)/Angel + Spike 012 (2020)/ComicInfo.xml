@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Spike,Angel</Characters>
+  <Colorist>Roman Titov,Roman Titov</Colorist>
+  <Count>8</Count>
+  <Day>22</Day>
+  <Editor>Jonathan Manning</Editor>
+  <GTIN>urn:comixology:873075</GTIN>
+  <Genre>Fantasy,Horror-suspense</Genre>
+  <Inker>Gleb Melnikov,Gleb Melnikov</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Ed Dukeshire,Ed Dukeshire</Letterer>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:21:37 [Issue ID 4000-2130703] urn:comicvine:4000-2130703 urn:comixology:873075 urn:grandcomicsdatabase:issue/2130703
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 04:08:57. [Issue ID 2130703]</Notes>
+  <Number>12</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="5596645" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="6545804" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="2668187" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="3764481" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2486539" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="2856945" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="2904458" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="3314091" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="3708609" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="2946260" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="2655462" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="4039496" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="3470549" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="2400560" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2787937" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="3253827" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="2947498" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="2799180" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="3144305" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="3001124" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2983885" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="2552465" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="3472904" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2473648" ImageWidth="1988" />
+    <Page Image="24" ImageSize="4315057" />
+  </Pages>
+  <Penciller>Gleb Melnikov,Gleb Melnikov</Penciller>
+  <Publisher>Boom! Studios</Publisher>
+  <ScanInformation>Kileko-Empire</ScanInformation>
+  <Series>Angel + Spike</Series>
+  <Volume>2020</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-2130703/</Web>
+  <Writer>Bryan Edward Hill,Bryan Edward Hill</Writer>
+  <Year>2020</Year>
+</ComicInfo>

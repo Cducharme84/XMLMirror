@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Colorist>Kathleen Brown</Colorist>
+	<Count>2</Count>
+	<CoverArtist>Rio Burton</CoverArtist>
+	<Day>17</Day>
+	<Editor>Nicole D'Andria</Editor>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-837739</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Giulia Lalli</Inker>
+	<Letterer>Matias Zanetti</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-24T00:50:35 [Issue ID 4000-837739] urn:comicvine:4000-837739</Notes>
+	<Number>1</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2025" ImageHeight="3075" ImageSize="2150253" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2025" ImageHeight="3075" ImageSize="599648"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2025" ImageHeight="3075" ImageSize="1667917"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2025" ImageHeight="3075" ImageSize="1818482"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2025" ImageHeight="3075" ImageSize="1650152"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2025" ImageHeight="3075" ImageSize="1774169"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2025" ImageHeight="3075" ImageSize="1636175"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2025" ImageHeight="3075" ImageSize="1813534"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2025" ImageHeight="3075" ImageSize="1704614"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2025" ImageHeight="3075" ImageSize="1352124"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2025" ImageHeight="3075" ImageSize="1197344"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2025" ImageHeight="3075" ImageSize="1775368"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2025" ImageHeight="3075" ImageSize="1304511"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2025" ImageHeight="3075" ImageSize="1369675"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2025" ImageHeight="3075" ImageSize="1371659"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2025" ImageHeight="3075" ImageSize="1212659"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2025" ImageHeight="3075" ImageSize="1344824"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2025" ImageHeight="3075" ImageSize="1217497"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2025" ImageHeight="3075" ImageSize="1338089"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2025" ImageHeight="3075" ImageSize="1032181"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2025" ImageHeight="3075" ImageSize="1258014"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2025" ImageHeight="3075" ImageSize="1498958"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2025" ImageHeight="3075" ImageSize="1396782"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2025" ImageHeight="3075" ImageSize="1578332"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2025" ImageHeight="3075" ImageSize="1492767"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2025" ImageHeight="3075" ImageSize="1492937"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2025" ImageHeight="3075" ImageSize="1514196"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2025" ImageHeight="3075" ImageSize="1475801"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2025" ImageHeight="3075" ImageSize="1413449"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2025" ImageHeight="3075" ImageSize="1223270"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2025" ImageHeight="3075" ImageSize="1207190"/>
+		<Page Image="31" ImageSize="1314253"/>
+	</Pages>
+	<Penciller>Giulia Lalli</Penciller>
+	<Publisher>Curious Perspective Comics</Publisher>
+	<Series>Ruination</Series>
+	<Summary>Keila, Jalen, and Dante were born into a world destroyed by centuries of war and haunted by the dead. Among the first born during peacetime, they are the generation that will define how the world is rebuilt from the scraps left by their forefathers. Though their elders have trained them to be enemy combatants, they join together to stop a madman from reigniting the war between Saldyria and the rebels known as the Fallen. Can they prevent the ruination of their world?</Summary>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/ruination-1/4000-837739/</Web>
+	<Writer>Ryan Bis</Writer>
+	<Year>2021</Year>
+</ComicInfo>

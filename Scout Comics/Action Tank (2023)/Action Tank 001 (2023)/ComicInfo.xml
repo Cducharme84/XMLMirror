@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Editor>Andrea Lorenzo Molinari</Editor>
+	<GTIN>urn:asin:B0C4C9RC21</GTIN>
+	<Genre>Science Fiction</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:14:13 [Issue ID 4000-1037077] urn:asin:B0C4C9RC21 urn:comicvine:4000-1037077</Notes>
+	<Number>1</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="546398" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="492233"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="335826"/>
+		<Page Image="3" ImageWidth="3976" ImageHeight="3056" ImageSize="844503"/>
+		<Page Image="4" ImageWidth="3976" ImageHeight="3056" ImageSize="1056419"/>
+		<Page Image="5" ImageWidth="3976" ImageHeight="3056" ImageSize="973972"/>
+		<Page Image="6" ImageWidth="3976" ImageHeight="3056" ImageSize="1273175"/>
+		<Page Image="7" ImageWidth="3976" ImageHeight="3056" ImageSize="1456179"/>
+		<Page Image="8" ImageWidth="3976" ImageHeight="3056" ImageSize="585717"/>
+		<Page Image="9" ImageWidth="3976" ImageHeight="3056" ImageSize="1101802"/>
+		<Page Image="10" ImageWidth="3976" ImageHeight="3056" ImageSize="990002"/>
+		<Page Image="11" ImageWidth="3976" ImageHeight="3056" ImageSize="1419315"/>
+		<Page Image="12" ImageWidth="3976" ImageHeight="3056" ImageSize="1333902"/>
+		<Page Image="13" ImageWidth="3976" ImageHeight="3056" ImageSize="1059883"/>
+		<Page Image="14" ImageWidth="3976" ImageHeight="3056" ImageSize="527908"/>
+		<Page Image="15" ImageWidth="3976" ImageHeight="3056" ImageSize="1186537"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="594627"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1490814"/>
+		<Page Image="18" ImageSize="1485941"/>
+	</Pages>
+	<Penciller>Mike Barry</Penciller>
+	<Publisher>Scout Comics</Publisher>
+	<ScanInformation>DrVink. Library loans through OverDrive and Kindle; ripped with Calibre DeDRM. Library loans through Hoopla, plus other sources; webrip. Denoised and upscaled with waifu2x-caffe or other tools.</ScanInformation>
+	<Series>Action Tank</Series>
+	<Summary>https://comicvine.gamespot.com/action-tank-1/4000-1037077/</Summary>
+	<Title>Action Tank Vol. 2 #1</Title>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/action-tank-1/4000-1037077/</Web>
+	<Writer>Mike Barry</Writer>
+	<Year>2023</Year>
+</ComicInfo>

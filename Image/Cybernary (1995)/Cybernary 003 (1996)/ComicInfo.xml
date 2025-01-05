@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Miranda,Borgia,Cybernary</Characters>
+  <Colorist>Nathan Lumm,Nathan Lumm</Colorist>
+  <Editor>Tom Harrington</Editor>
+  <GTIN>urn:comicvine:4000-163968</GTIN>
+  <Inker>Jeff Rebner,Richard Friend,Richard Friend</Inker>
+  <Letterer>Comicraft,Richard Starkings,Richard Starkings,Comicraft</Letterer>
+  <Locations>Gamorra</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T17:40:34 [Issue ID 4000-163968] urn:comicvine:4000-163968
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 06:06:18. [Issue ID 259068]</Notes>
+  <Number>3</Number>
+  <Pages>
+    <Page Image="0" Type="FrontCover" />
+    <Page Image="1" />
+    <Page Image="2" />
+    <Page Image="3" />
+    <Page Image="4" />
+    <Page Image="5" />
+    <Page Image="6" />
+    <Page Image="7" />
+    <Page Image="8" />
+    <Page Image="9" />
+  </Pages>
+  <Penciller>Jeff Rebner,Richard Starkings,Jeff Rebner</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Cybernary</Series>
+  <Title>Loop State</Title>
+  <Volume>1995</Volume>
+  <Web>https://comicvine.gamespot.com/cybernary-3-loop-state/4000-163968/</Web>
+  <Writer>Steve Gerber,Steve Gerber</Writer>
+  <Year>1996</Year>
+  <Count>5</Count>
+  <CoverArtist>Jeff Rebner,Richard Friend,Rob Ro</CoverArtist>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

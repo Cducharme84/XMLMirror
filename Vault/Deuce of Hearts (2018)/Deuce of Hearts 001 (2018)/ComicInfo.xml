@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Sullivan Husk</Characters>
+  <Colorist>Claudia Aguirre</Colorist>
+  <Day>14</Day>
+  <GTIN>urn:comixology:730519</GTIN>
+  <Genre>Comedy,Fantasy,Action/Adventure</Genre>
+  <Inker>Tony Gregori</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:46:20 [Issue ID 4000-692106] urn:comicvine:4000-692106 urn:comixology:730519
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 02:10:09. [Issue ID 1947660]</Notes>
+  <Number>1</Number>
+  <PageCount>133</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="7062411" ImageWidth="4050" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="2806075" ImageWidth="1987" />
+    <Page Image="2" ImageHeight="3056" ImageSize="2249917" ImageWidth="1987" />
+    <Page Image="3" ImageHeight="3056" ImageSize="2524051" ImageWidth="1987" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2183411" ImageWidth="1987" />
+    <Page Image="5" ImageHeight="3056" ImageSize="2427937" ImageWidth="1987" />
+    <Page Image="6" ImageHeight="3056" ImageSize="2250666" ImageWidth="1987" />
+    <Page Image="7" ImageHeight="3056" ImageSize="2065956" ImageWidth="1987" />
+    <Page Image="8" ImageHeight="3056" ImageSize="2633793" ImageWidth="1987" />
+    <Page Image="9" ImageHeight="3056" ImageSize="4990242" ImageWidth="3975" />
+    <Page Image="10" ImageHeight="3056" ImageSize="2324218" ImageWidth="1987" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1987098" ImageWidth="1987" />
+    <Page Image="12" ImageHeight="3056" ImageSize="2247495" ImageWidth="1987" />
+    <Page Image="13" ImageHeight="3056" ImageSize="2161912" ImageWidth="1987" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2088047" ImageWidth="1987" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1900900" ImageWidth="1987" />
+    <Page Image="16" ImageHeight="3056" ImageSize="2884667" ImageWidth="1987" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1907558" ImageWidth="1987" />
+    <Page Image="18" ImageHeight="3056" ImageSize="2000056" ImageWidth="1987" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2661273" ImageWidth="1987" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2551664" ImageWidth="1987" />
+    <Page Image="21" ImageHeight="3056" ImageSize="2304798" ImageWidth="1987" />
+    <Page Image="22" ImageHeight="3056" ImageSize="2551143" ImageWidth="1987" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2383141" ImageWidth="1987" />
+    <Page Image="24" ImageHeight="3056" ImageSize="2407880" ImageWidth="1987" />
+    <Page Image="25" ImageHeight="3056" ImageSize="2102986" ImageWidth="1987" />
+    <Page Image="26" ImageHeight="3056" ImageSize="2397773" ImageWidth="1987" />
+    <Page Image="27" ImageHeight="3056" ImageSize="2451251" ImageWidth="1987" />
+    <Page Image="28" ImageHeight="3056" ImageSize="2558849" ImageWidth="1987" />
+    <Page Image="29" ImageHeight="3056" ImageSize="2366125" ImageWidth="1987" />
+    <Page Image="30" ImageHeight="3056" ImageSize="2841352" ImageWidth="1987" />
+    <Page Image="31" ImageHeight="3056" ImageSize="2726182" ImageWidth="1987" />
+    <Page Image="32" ImageHeight="3056" ImageSize="2588665" ImageWidth="1987" />
+    <Page Image="33" ImageHeight="3056" ImageSize="2267118" ImageWidth="1987" />
+    <Page Image="34" ImageHeight="3056" ImageSize="2359728" ImageWidth="1987" />
+    <Page Image="35" ImageHeight="3056" ImageSize="2014135" ImageWidth="1987" />
+    <Page Image="36" ImageHeight="3056" ImageSize="2220118" ImageWidth="1987" />
+    <Page Image="37" ImageHeight="3056" ImageSize="2236018" ImageWidth="1987" />
+    <Page Image="38" ImageHeight="3056" ImageSize="2610234" ImageWidth="1987" />
+    <Page Image="39" ImageHeight="3056" ImageSize="2573390" ImageWidth="1987" />
+    <Page Image="40" ImageHeight="3056" ImageSize="2697494" ImageWidth="1987" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1981581" ImageWidth="1987" />
+    <Page Image="42" ImageHeight="3056" ImageSize="2488118" ImageWidth="1987" />
+    <Page Image="43" ImageHeight="3056" ImageSize="2472514" ImageWidth="1987" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1878277" ImageWidth="1987" />
+    <Page Image="45" ImageHeight="3056" ImageSize="2327785" ImageWidth="1987" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1782967" ImageWidth="1987" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1736950" ImageWidth="1987" />
+    <Page Image="48" ImageHeight="3056" ImageSize="2419966" ImageWidth="1987" />
+    <Page Image="49" ImageHeight="3056" ImageSize="2100119" ImageWidth="1987" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1979223" ImageWidth="1987" />
+    <Page Image="51" ImageHeight="3056" ImageSize="2450239" ImageWidth="1987" />
+    <Page Image="52" ImageHeight="3056" ImageSize="2558849" ImageWidth="1987" />
+    <Page Image="53" ImageHeight="3056" ImageSize="2149494" ImageWidth="1987" />
+    <Page Image="54" ImageHeight="3056" ImageSize="1914723" ImageWidth="1987" />
+    <Page Image="55" ImageHeight="3056" ImageSize="2169609" ImageWidth="1987" />
+    <Page Image="56" ImageHeight="3056" ImageSize="2344450" ImageWidth="1987" />
+    <Page Image="57" ImageHeight="3056" ImageSize="2351195" ImageWidth="1987" />
+    <Page Image="58" ImageHeight="3056" ImageSize="1795166" ImageWidth="1987" />
+    <Page Image="59" ImageHeight="3056" ImageSize="2361451" ImageWidth="1987" />
+    <Page Image="60" ImageHeight="3056" ImageSize="2042767" ImageWidth="1987" />
+    <Page Image="61" ImageHeight="3056" ImageSize="2913584" ImageWidth="1987" />
+    <Page Image="62" ImageHeight="3056" ImageSize="1894860" ImageWidth="1987" />
+    <Page Image="63" ImageHeight="3056" ImageSize="1932882" ImageWidth="1987" />
+    <Page Image="64" ImageHeight="3056" ImageSize="2279919" ImageWidth="1987" />
+    <Page Image="65" ImageHeight="3056" ImageSize="2682459" ImageWidth="1987" />
+    <Page Image="66" ImageHeight="3056" ImageSize="2345171" ImageWidth="1987" />
+    <Page Image="67" ImageHeight="3056" ImageSize="2121259" ImageWidth="1987" />
+    <Page Image="68" ImageHeight="3056" ImageSize="2636260" ImageWidth="1987" />
+    <Page Image="69" ImageHeight="3056" ImageSize="2838668" ImageWidth="1987" />
+    <Page Image="70" ImageHeight="3056" ImageSize="2377817" ImageWidth="1987" />
+    <Page Image="71" ImageHeight="3056" ImageSize="2826835" ImageWidth="1987" />
+    <Page Image="72" ImageHeight="3056" ImageSize="2429345" ImageWidth="1987" />
+    <Page Image="73" ImageHeight="3056" ImageSize="2420896" ImageWidth="1987" />
+    <Page Image="74" ImageHeight="3056" ImageSize="2626688" ImageWidth="1987" />
+    <Page Image="75" ImageHeight="3056" ImageSize="2445269" ImageWidth="1987" />
+    <Page Image="76" ImageHeight="3056" ImageSize="2558849" ImageWidth="1987" />
+    <Page Image="77" ImageHeight="3056" ImageSize="2565681" ImageWidth="1987" />
+    <Page Image="78" ImageHeight="3056" ImageSize="2301725" ImageWidth="1987" />
+    <Page Image="79" ImageHeight="3056" ImageSize="2520111" ImageWidth="1987" />
+    <Page Image="80" ImageHeight="3056" ImageSize="2448643" ImageWidth="1987" />
+    <Page Image="81" ImageHeight="3056" ImageSize="2247191" ImageWidth="1987" />
+    <Page Image="82" ImageHeight="3056" ImageSize="2849324" ImageWidth="1987" />
+    <Page Image="83" ImageHeight="3056" ImageSize="2063341" ImageWidth="1987" />
+    <Page Image="84" ImageHeight="3056" ImageSize="2781819" ImageWidth="1987" />
+    <Page Image="85" ImageHeight="3056" ImageSize="1769105" ImageWidth="1987" />
+    <Page Image="86" ImageHeight="3056" ImageSize="2382715" ImageWidth="1987" />
+    <Page Image="87" ImageHeight="3056" ImageSize="1984976" ImageWidth="1987" />
+    <Page Image="88" ImageHeight="3056" ImageSize="2522008" ImageWidth="1987" />
+    <Page Image="89" ImageHeight="3056" ImageSize="1996907" ImageWidth="1987" />
+    <Page Image="90" ImageHeight="3056" ImageSize="2119643" ImageWidth="1987" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1869457" ImageWidth="1987" />
+    <Page Image="92" ImageHeight="3056" ImageSize="2718349" ImageWidth="1987" />
+    <Page Image="93" ImageHeight="3056" ImageSize="2123434" ImageWidth="1987" />
+    <Page Image="94" ImageHeight="3056" ImageSize="2708967" ImageWidth="1987" />
+    <Page Image="95" ImageHeight="3056" ImageSize="2451704" ImageWidth="1987" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1779728" ImageWidth="1987" />
+    <Page Image="97" ImageHeight="3056" ImageSize="2334915" ImageWidth="1987" />
+    <Page Image="98" ImageHeight="3056" ImageSize="1936096" ImageWidth="1987" />
+    <Page Image="99" ImageHeight="3056" ImageSize="2456095" ImageWidth="1987" />
+    <Page Image="100" ImageHeight="3056" ImageSize="2558849" ImageWidth="1987" />
+    <Page Image="101" ImageHeight="3056" ImageSize="2360680" ImageWidth="1987" />
+    <Page Image="102" ImageHeight="3056" ImageSize="2107441" ImageWidth="1987" />
+    <Page Image="103" ImageHeight="3056" ImageSize="2059420" ImageWidth="1987" />
+    <Page Image="104" ImageHeight="3056" ImageSize="2696018" ImageWidth="1987" />
+    <Page Image="105" ImageHeight="3056" ImageSize="2582120" ImageWidth="1987" />
+    <Page Image="106" ImageHeight="3056" ImageSize="2365879" ImageWidth="1987" />
+    <Page Image="107" ImageHeight="3056" ImageSize="2659368" ImageWidth="1987" />
+    <Page Image="108" ImageHeight="3056" ImageSize="2495011" ImageWidth="1987" />
+    <Page Image="109" ImageHeight="3056" ImageSize="2019054" ImageWidth="1987" />
+    <Page Image="110" ImageHeight="3056" ImageSize="2910447" ImageWidth="1987" />
+    <Page Image="111" ImageHeight="3056" ImageSize="2651513" ImageWidth="1987" />
+    <Page Image="112" ImageHeight="3056" ImageSize="4543353" ImageWidth="1987" />
+    <Page Image="113" ImageHeight="3056" ImageSize="3174460" ImageWidth="1987" />
+    <Page Image="114" ImageHeight="3056" ImageSize="2586311" ImageWidth="1987" />
+    <Page Image="115" ImageHeight="3056" ImageSize="2471926" ImageWidth="1987" />
+    <Page Image="116" ImageHeight="3056" ImageSize="3273847" ImageWidth="1987" />
+    <Page Image="117" ImageHeight="3056" ImageSize="2947272" ImageWidth="1987" />
+    <Page Image="118" ImageHeight="3056" ImageSize="2784393" ImageWidth="1987" />
+    <Page Image="119" ImageHeight="3056" ImageSize="2354164" ImageWidth="1987" />
+    <Page Image="120" ImageHeight="3056" ImageSize="3113940" ImageWidth="1987" />
+    <Page Image="121" ImageHeight="3056" ImageSize="1932231" ImageWidth="1987" />
+    <Page Image="122" ImageHeight="3056" ImageSize="2626250" ImageWidth="1987" />
+    <Page Image="123" ImageHeight="3056" ImageSize="1857621" ImageWidth="1987" />
+    <Page Image="124" ImageHeight="3056" ImageSize="5665861" ImageWidth="3975" />
+    <Page Image="125" ImageHeight="3056" ImageSize="4682094" ImageWidth="3975" />
+    <Page Image="126" ImageHeight="3056" ImageSize="3996209" ImageWidth="3975" />
+    <Page Image="127" ImageHeight="3056" ImageSize="4523623" ImageWidth="3975" />
+    <Page Image="128" ImageHeight="3056" ImageSize="6203391" ImageWidth="3975" />
+    <Page Image="129" ImageHeight="3056" ImageSize="5271293" ImageWidth="3975" />
+    <Page Image="130" ImageHeight="3056" ImageSize="2988792" ImageWidth="1987" />
+    <Page Image="131" ImageHeight="3056" ImageSize="2534092" ImageWidth="1987" />
+    <Page Image="132" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Tony Gregori</Penciller>
+  <Publisher>Vault</Publisher>
+  <Series>Deuce of Hearts</Series>
+  <Summary>Sullivan Husk's life changed the day he was introduced to the Heartbreakr app and the notion that love is just another tradable commodity. What started as a Faustian bargain to restore the good health of a dying man has become a collector's habit. But all the upgrades the app has to offer might not be enough to save Sully from this latest upset spouse.
+
+https://comicvine.gamespot.com/deuce-of-hearts-1-tpb/4000-692106/</Summary>
+  <Title>TPB</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/deuce-of-hearts-1-tpb/4000-692106/</Web>
+  <Writer>Ricardo Mo</Writer>
+  <Year>2018</Year>
+  <Count>1</Count>
+  <Format>Collection</Format>
+</ComicInfo>

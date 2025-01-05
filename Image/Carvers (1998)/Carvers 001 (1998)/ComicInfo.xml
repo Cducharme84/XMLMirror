@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <GTIN>urn:comicvine:4000-406752</GTIN>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:15:00 [Issue ID 4000-406752] urn:comicvine:4000-406752
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 20:17:10. [Issue ID 1720683]</Notes>
+  <Number>1</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="809821" Type="FrontCover" />
+    <Page Image="1" ImageSize="436144" />
+    <Page Image="2" ImageSize="859746" />
+    <Page Image="3" ImageSize="403817" />
+    <Page Image="4" ImageSize="353116" />
+    <Page Image="5" ImageSize="411019" />
+    <Page Image="6" ImageSize="445065" />
+    <Page Image="7" ImageSize="495683" />
+    <Page Image="8" ImageSize="512681" />
+    <Page Image="9" ImageSize="481480" />
+    <Page Image="10" ImageSize="483990" />
+    <Page Image="11" ImageSize="520414" />
+    <Page Image="12" ImageSize="474718" />
+    <Page Image="13" ImageSize="462392" />
+    <Page Image="14" ImageSize="394169" />
+    <Page Image="15" ImageSize="373526" />
+    <Page Image="16" ImageSize="404137" />
+    <Page Image="17" ImageSize="415482" />
+    <Page Image="18" ImageSize="381826" />
+    <Page Image="19" ImageSize="378869" />
+    <Page Image="20" ImageSize="376414" />
+    <Page Image="21" ImageSize="379574" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Carvers</Series>
+  <Volume>1998</Volume>
+  <Web>https://comicvine.gamespot.com/carvers-1/4000-406752/</Web>
+  <Year>1998</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

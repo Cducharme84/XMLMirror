@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Fig Leveret,Sal Leveret,Stote Leveret,Tael Leveret,Wulla</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Day>15</Day>
+	<GTIN>urn:comicvine:4000-468819</GTIN>
+	<Inker>German Erramouspe</Inker>
+	<Letterer>Kurt Hathaway</Letterer>
+	<Locations>Vermintown</Locations>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:46:09 [Issue ID 4000-468819] urn:comicvine:4000-468819</Notes>
+	<Number>42</Number>
+	<PageCount>13</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="775" ImageSize="312392" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="796" ImageSize="322748"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="793" ImageSize="247463"/>
+		<Page Image="3" ImageWidth="1000" ImageHeight="769" ImageSize="223930"/>
+		<Page Image="4" ImageWidth="1000" ImageHeight="775" ImageSize="182489"/>
+		<Page Image="5" ImageWidth="1000" ImageHeight="779" ImageSize="275810"/>
+		<Page Image="6" ImageWidth="1000" ImageHeight="782" ImageSize="288353"/>
+		<Page Image="7" ImageWidth="1000" ImageHeight="777" ImageSize="213537"/>
+		<Page Image="8" ImageWidth="1000" ImageHeight="773" ImageSize="205535"/>
+		<Page Image="9" ImageWidth="1000" ImageHeight="767" ImageSize="221826"/>
+		<Page Image="10" ImageWidth="1000" ImageHeight="778" ImageSize="247886"/>
+		<Page Image="11" ImageWidth="1000" ImageHeight="773" ImageSize="191527"/>
+		<Page Image="12" ImageSize="195674"/>
+	</Pages>
+	<Penciller>German Erramouspe</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(disenchantedcomic.com)</ScanInformation>
+	<Series>Disenchanted</Series>
+	<Summary>https://comicvine.gamespot.com/disenchanted-42-episode-42/4000-468819/</Summary>
+	<Tags>Fig Leveret,Sal Leveret,Stote Leveret,Tael Leveret,Vermintown,Wulla</Tags>
+	<Title>Episode 42</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/disenchanted-42-episode-42/4000-468819/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2014</Year>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-2100200</GTIN>
+	<Genre>Fantasy</Genre>
+	<Imprint>DM</Imprint>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-12T04:53:29 [Issue ID 4000-2100200] urn:comicvine:4000-2100200 urn:grandcomicsdatabase:issue/2100200</Notes>
+	<Number>2</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2100" ImageHeight="3150" ImageSize="12594980" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2100" ImageHeight="3150" ImageSize="9572970"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2100" ImageHeight="3150" ImageSize="5152981"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2100" ImageHeight="3150" ImageSize="5206096"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2100" ImageHeight="3150" ImageSize="4090232"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2100" ImageHeight="3150" ImageSize="4135179"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2100" ImageHeight="3150" ImageSize="4736145"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2100" ImageHeight="3150" ImageSize="5466924"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2100" ImageHeight="3150" ImageSize="5252292"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2100" ImageHeight="3150" ImageSize="4302159"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2100" ImageHeight="3150" ImageSize="4178643"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2100" ImageHeight="3150" ImageSize="4708631"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2100" ImageHeight="3150" ImageSize="4957487"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2100" ImageHeight="3150" ImageSize="4606503"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2100" ImageHeight="3150" ImageSize="5149406"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2100" ImageHeight="3150" ImageSize="5323287"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2100" ImageHeight="3150" ImageSize="5065683"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2100" ImageHeight="3150" ImageSize="4862777"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2100" ImageHeight="3150" ImageSize="5238824"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2100" ImageHeight="3150" ImageSize="5784716"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2100" ImageHeight="3150" ImageSize="5557774"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2100" ImageHeight="3150" ImageSize="4889493"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2100" ImageHeight="3150" ImageSize="5144004"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2100" ImageHeight="3150" ImageSize="5633907"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2100" ImageHeight="3150" ImageSize="4616712"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2100" ImageHeight="3150" ImageSize="4538163"/>
+		<Page Image="26" ImageSize="13352253"/>
+	</Pages>
+	<Publisher>Don Marquez</Publisher>
+	<Series>The Dark Land</Series>
+	<Summary>When the inhabitants of a small fishing village of The Land rebel against their feudal overlords they face retribution and must prepare for the onslaught.
+
+When the inhabitants of a small fishing village of The Land rebel against their feudal overlords they face retribution and must prepare for the onslaught.</Summary>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-2100200/</Web>
+	<Year>2021</Year>
+</ComicInfo>

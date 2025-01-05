@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Hito,Chuck Bartowski,John Casey,General Beckman,Sarah Walker,Tommy</Characters>
+  <Colorist>Wes Hartman,Wes Hartman,Phil Noto</Colorist>
+  <Editor>Kristy Quinn,Shannon Eric Denton</Editor>
+  <GTIN>urn:comixology:5190</GTIN>
+  <Genre>Spy</Genre>
+  <Inker>Ande Parks,Cliff Rathburn,Jeremy Haun,Phil Noto,Wes Hartman,Jeremy Haun,Cliff Rathburn,Ande Parks,Shawn Crystal,Phil Noto</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Travis Lanham,Travis Lanham</Letterer>
+  <Locations>Tokyo</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:33:12 [Issue ID 4000-132984] urn:comicvine:4000-132984 urn:comixology:5190
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 00:51:53. [Issue ID 529738]</Notes>
+  <Number>2</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="1154111" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="2117360" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1249828" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="948577" ImageWidth="1988" />
+    <Page Image="4" ImageHeight="3056" ImageSize="995808" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1052866" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1218640" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="921916" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1129529" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="974443" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="914407" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1008675" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="896391" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1189464" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="897960" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="990617" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="968953" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1177355" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1137859" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="990712" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="889251" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="720336" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="707450" ImageWidth="1988" />
+    <Page Image="23" ImageSize="1085757" />
+  </Pages>
+  <Penciller>Jeremy Haun,Phil Noto,Jeremy Haun,Phil Noto</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Chuck</Series>
+  <Summary>General Beckman sends Chuck, Sarah and John to Tokyo to uncover Tommy's smuggling operation.
+
+Set in the year 2020, Chuck is on a mission and his wife Sarah is home with the kids.</Summary>
+  <Teams>Team Bartowski,National Security Council,Central Intelligence Agency</Teams>
+  <Volume>2008</Volume>
+  <Web>https://comicvine.gamespot.com/chuck-2/4000-132984/</Web>
+  <Writer>Peter Johnson,Peter Johnson,Zev Borow,Scott Rosenbaum</Writer>
+  <Year>2008</Year>
+  <Count>6</Count>
+  <Format>Limited Series</Format>
+</ComicInfo>

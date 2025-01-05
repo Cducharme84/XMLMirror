@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Scorpion</Characters>
+	<Day>1</Day>
+	<Editor>Ed Davis</Editor>
+	<GTIN>urn:comicvine:4000-139618</GTIN>
+	<Inker>Bernie Wrightson,Howard Chaykin,Michael Wm Kaluta,Walter Simonson</Inker>
+	<Letterer>Annette Kawecki</Letterer>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:52 [Issue ID 4000-139618] urn:comicvine:4000-139618</Notes>
+	<Number>2</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="325112" Type="FrontCover"/>
+		<Page Image="1" ImageSize="227146"/>
+		<Page Image="2" ImageSize="194882"/>
+		<Page Image="3" ImageSize="218914"/>
+		<Page Image="4" ImageSize="218278"/>
+		<Page Image="5" ImageSize="217087"/>
+		<Page Image="6" ImageSize="224218"/>
+		<Page Image="7" ImageSize="220866"/>
+		<Page Image="8" ImageSize="213354"/>
+		<Page Image="9" ImageSize="216709"/>
+		<Page Image="10" ImageSize="211216"/>
+		<Page Image="11" ImageSize="212956"/>
+		<Page Image="12" ImageSize="218052"/>
+		<Page Image="13" ImageSize="195303"/>
+		<Page Image="14" ImageSize="220250"/>
+		<Page Image="15" ImageSize="189735"/>
+		<Page Image="16" ImageSize="229696"/>
+		<Page Image="17" ImageSize="235904"/>
+		<Page Image="18" ImageSize="191979"/>
+		<Page Image="19" ImageSize="216294"/>
+		<Page Image="20" ImageSize="209271"/>
+	</Pages>
+	<Penciller>Howard Chaykin</Penciller>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>The Scorpion</Series>
+	<Summary>https://comicvine.gamespot.com/the-scorpion-2-the-devil-doll-commission/4000-139618/</Summary>
+	<Tags>Scorpion</Tags>
+	<Title>The Devil Doll Commission</Title>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/the-scorpion-2-the-devil-doll-commission/4000-139618/</Web>
+	<Writer>Howard Chaykin</Writer>
+	<Year>1975</Year>
+</ComicInfo>

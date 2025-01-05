@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>David Weaver</Characters>
+	<Colorist>Ivan Plascencia</Colorist>
+	<Count>4</Count>
+	<CoverArtist>Randy Kintz</CoverArtist>
+	<Day>31</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-490101</GTIN>
+	<Genre>Science Fiction</Genre>
+	<Inker>Randy Kintz</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Troy Peteri</Letterer>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-05T13:40:07 [Issue ID 4000-490101] urn:comicvine:4000-490101</Notes>
+	<Number>2</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3885" ImageSize="930954" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3885" ImageSize="2085945"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3885" ImageSize="1652500"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3885" ImageSize="1852917"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3885" ImageSize="1835877"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3885" ImageSize="1771181"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3885" ImageSize="1675281"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3885" ImageSize="2009146"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3885" ImageSize="1623330"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3885" ImageSize="1650608"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3885" ImageSize="1708869"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3885" ImageSize="1748804"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3885" ImageSize="1699586"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3885" ImageSize="1305239"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3885" ImageSize="1817024"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3885" ImageSize="1956806"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3885" ImageSize="1802429"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3885" ImageSize="1780403"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3885" ImageSize="1602257"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3885" ImageSize="1710226"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3885" ImageSize="1750427"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3885" ImageSize="1661297"/>
+		<Page Image="22" ImageSize="1566382"/>
+	</Pages>
+	<Penciller>Randy Kintz</Penciller>
+	<Publisher>Red 5 Comics</Publisher>
+	<Series>Drone: Fatal Error</Series>
+	<Summary>The drone operators find themselves ambushed at sea by an unexpected foe - enemy drones! With nowhere to run and only one surviving robot to defend them, rookie David Weaver is their only hope of survival. No pressure!
+
+Note: The digital edition (5/27/2015) for this issue was released before the print edition.</Summary>
+	<Volume>2015</Volume>
+	<Web>https://comicvine.gamespot.com/drone-fatal-error-2/4000-490101/</Web>
+	<Writer>Scott Chitwood</Writer>
+	<Year>2015</Year>
+</ComicInfo>

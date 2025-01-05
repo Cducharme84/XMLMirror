@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature</AgeRating>
+  <Colorist>Carolina Pontes, Moose Baumann</Colorist>
+  <Count>5</Count>
+  <CoverArtist>Moose Baumann, Raffaele Forté</CoverArtist>
+  <Day>1</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-823514</GTIN>
+  <Genre>Horror</Genre>
+  <Inker>Sara Ianniello</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Justin Birch</Letterer>
+  <Month>12</Month>
+  <Notes>Tagged with ComicTagger 1.6.0a21.dev23 using info from Comic Vine on 2024-08-09 12:38:56. [Issue ID 823514]</Notes>
+  <Number>1</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3936" ImageSize="1714596" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3936" ImageSize="1146175" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3936" ImageSize="1754770" ImageWidth="2560" />
+    <Page DoublePage="True" Image="3" ImageHeight="3936" ImageSize="2795559" ImageWidth="5120" />
+    <Page DoublePage="False" Image="4" ImageHeight="3936" ImageSize="1608700" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3936" ImageSize="1471078" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3936" ImageSize="1949331" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3936" ImageSize="1340054" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3936" ImageSize="1468680" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3936" ImageSize="1206587" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3936" ImageSize="1441582" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3936" ImageSize="1635574" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3936" ImageSize="1757148" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3936" ImageSize="2001390" ImageWidth="2560" />
+    <Page DoublePage="True" Image="14" ImageHeight="3936" ImageSize="3126425" ImageWidth="5120" />
+    <Page DoublePage="False" Image="15" ImageHeight="3936" ImageSize="1686870" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3936" ImageSize="1365782" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3936" ImageSize="1720705" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3936" ImageSize="2246866" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3936" ImageSize="2228428" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3936" ImageSize="1230083" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3936" ImageSize="629827" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Raffaele Forté</Penciller>
+  <Publisher>Blackbox Comics</Publisher>
+  <Series>Devil's Dominion</Series>
+  <Summary>Devlynn St. Paul sold her soul to the Devil to stop the horror being done to her by her brother. However, Devlynn reneged on the deal and now uses her demonic powers to hunt others who are demon possessed and have lost control of their lives.
+
+*List of covers and their creators:*
+| Cover | Name                                         | Creator(s)     | Sidebar Location |
+|-------|----------------------------------------------|----------------|------------------|
+| Reg   | Regular Cover                                | Raffaele Forté | 1                |
+| RI    | 1:10 Retailer Incentive Virgin Variant Cover | Raffaele Forté | 2                |
+
+Note: The digital edition (12/30/2020) for this issue was released before the print edition.</Summary>
+  <Volume>2020</Volume>
+  <Web>https://comicvine.gamespot.com/devils-dominion-1/4000-823514/ https://www.comics.org/issue/2287440</Web>
+  <Writer>Brian Hawkins</Writer>
+  <Year>2020</Year>
+</ComicInfo>

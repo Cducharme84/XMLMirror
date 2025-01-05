@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Childe Roland,Dark One,Gwynnion,Kildare,Magnus Magus,Nigel Hawthorne,Pug</Characters>
+	<Colorist>Andy Troy,Avalon Studios</Colorist>
+	<Count>4</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-93756</GTIN>
+	<Letterer>Dennis Heisler</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T17:54:33 [Issue ID 4000-93756] urn:comicvine:4000-93756</Notes>
+	<Number>4</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="410984" Type="FrontCover"/>
+		<Page Image="1" ImageSize="300087"/>
+		<Page Image="2" ImageSize="385582"/>
+		<Page Image="3" ImageSize="426596"/>
+		<Page Image="4" ImageSize="361472"/>
+		<Page Image="5" ImageSize="431682"/>
+		<Page Image="6" ImageSize="421209"/>
+		<Page Image="7" ImageSize="401016"/>
+		<Page Image="8" ImageSize="370925"/>
+		<Page Image="9" ImageSize="402848"/>
+		<Page Image="10" ImageSize="448309"/>
+		<Page Image="11" ImageSize="396646"/>
+		<Page Image="12" ImageSize="305493"/>
+		<Page Image="13" ImageSize="426635"/>
+		<Page Image="14" ImageSize="385000"/>
+		<Page Image="15" ImageSize="380618"/>
+		<Page Image="16" ImageSize="341379"/>
+		<Page Image="17" ImageSize="450811"/>
+		<Page Image="18" ImageSize="337150"/>
+		<Page Image="19" ImageSize="400203"/>
+		<Page Image="20" ImageSize="384018"/>
+		<Page Image="21" ImageSize="394411"/>
+		<Page Image="22" ImageSize="365648"/>
+	</Pages>
+	<Publisher>Avalon Studios</Publisher>
+	<Series>Aria</Series>
+	<Summary>*List of covers and their creators:*
+ 
+
+| Variant description | Cover Artist | Sidebar position |
+|---------------------|--------------|------------------|
+| regular             | Jay Anacleto | 1                |
+| Pals (w/Angela)     | Jay Anacleto | 2                |
+| Glow in the Dark    | Jay Anacleto | 3                |</Summary>
+	<Title>Among Ruins</Title>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/aria-4-among-ruins/4000-93756/</Web>
+	<Writer>Brian Holguin</Writer>
+	<Year>1999</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gravel,William Gravel</Characters>
+	<Count>3</Count>
+	<Day>10</Day>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-524086</GTIN>
+	<Genre>Crime</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:34:32 [Issue ID 4000-524086] urn:comicvine:4000-524086 urn:grandcomicsdatabase:issue/524086</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="365967" Type="FrontCover"/>
+		<Page Image="1" ImageSize="487784"/>
+		<Page Image="2" ImageSize="435327"/>
+		<Page Image="3" ImageSize="392940"/>
+		<Page Image="4" ImageSize="388301"/>
+		<Page Image="5" ImageSize="322087"/>
+		<Page Image="6" ImageSize="337873"/>
+		<Page Image="7" ImageSize="324488"/>
+		<Page Image="8" ImageSize="276711"/>
+		<Page Image="9" ImageSize="325358"/>
+		<Page Image="10" ImageSize="376360"/>
+		<Page Image="11" ImageSize="361957"/>
+		<Page Image="12" ImageSize="385169"/>
+		<Page Image="13" ImageSize="359796"/>
+		<Page Image="14" ImageSize="349437"/>
+		<Page Image="15" ImageSize="327745"/>
+		<Page Image="16" ImageSize="346281"/>
+		<Page Image="17" ImageSize="408648"/>
+		<Page Image="18" ImageSize="372593"/>
+		<Page Image="19" ImageSize="347662"/>
+		<Page Image="20" ImageSize="315983"/>
+		<Page Image="21" ImageSize="355806"/>
+		<Page Image="22" ImageSize="338792"/>
+		<Page Image="23" ImageSize="347367"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Strange Killings: Strong Medicine</Series>
+	<Tags>William Gravel</Tags>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-524086/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2003</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gravel,William Gravel</Characters>
+	<Count>3</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-794677</GTIN>
+	<Genre>Adventure,Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:36:59 [Issue ID 4000-794677] urn:comicvine:4000-794677 urn:grandcomicsdatabase:issue/794677</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="651125" Type="FrontCover"/>
+		<Page Image="1" ImageSize="435606"/>
+		<Page Image="2" ImageSize="409982"/>
+		<Page Image="3" ImageSize="338655"/>
+		<Page Image="4" ImageSize="371972"/>
+		<Page Image="5" ImageSize="358771"/>
+		<Page Image="6" ImageSize="350437"/>
+		<Page Image="7" ImageSize="344302"/>
+		<Page Image="8" ImageSize="297264"/>
+		<Page Image="9" ImageSize="394156"/>
+		<Page Image="10" ImageSize="353173"/>
+		<Page Image="11" ImageSize="373125"/>
+		<Page Image="12" ImageSize="370430"/>
+		<Page Image="13" ImageSize="339574"/>
+		<Page Image="14" ImageSize="378940"/>
+		<Page Image="15" ImageSize="436832"/>
+		<Page Image="16" ImageSize="392487"/>
+		<Page Image="17" ImageSize="354512"/>
+		<Page Image="18" ImageSize="354054"/>
+		<Page Image="19" ImageSize="402127"/>
+		<Page Image="20" ImageSize="296226"/>
+		<Page Image="21" ImageSize="295774"/>
+		<Page Image="22" ImageSize="341637"/>
+		<Page Image="23" ImageSize="311666"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Strange Killings</Series>
+	<Tags>William Gravel</Tags>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-794677/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2002</Year>
+</ComicInfo>

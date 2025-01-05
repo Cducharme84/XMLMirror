@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550729</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:48:27 [Issue ID 4000-550729] urn:comicvine:4000-550729 urn:grandcomicsdatabase:issue/550729
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:58:26. [Issue ID 550729]</Notes>
+  <Number>115</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="660257" Type="FrontCover" />
+    <Page Image="1" ImageSize="465954" />
+    <Page Image="2" ImageSize="484128" />
+    <Page Image="3" ImageSize="635157" />
+    <Page Image="4" ImageSize="610422" />
+    <Page Image="5" ImageSize="549738" />
+    <Page Image="6" ImageSize="596175" />
+    <Page Image="7" ImageSize="549967" />
+    <Page Image="8" ImageSize="598697" />
+    <Page Image="9" ImageSize="692610" />
+    <Page Image="10" ImageSize="593529" />
+    <Page Image="11" ImageSize="573813" />
+    <Page Image="12" ImageSize="594786" />
+    <Page Image="13" ImageSize="607764" />
+    <Page Image="14" ImageSize="570404" />
+    <Page Image="15" ImageSize="588859" />
+    <Page Image="16" ImageSize="661298" />
+    <Page Image="17" ImageSize="544974" />
+    <Page Image="18" ImageSize="587064" />
+    <Page Image="19" ImageSize="594285" />
+    <Page Image="20" ImageSize="613510" />
+    <Page Image="21" ImageSize="645756" />
+    <Page Image="22" ImageSize="597410" />
+    <Page Image="23" ImageSize="596268" />
+    <Page Image="24" ImageSize="544856" />
+    <Page Image="25" ImageSize="667615" />
+    <Page Image="26" ImageSize="575091" />
+    <Page Image="27" ImageSize="655270" />
+    <Page Image="28" ImageSize="584258" />
+    <Page Image="29" ImageSize="685106" />
+    <Page Image="30" ImageSize="621219" />
+    <Page Image="31" ImageSize="580745" />
+    <Page Image="32" ImageSize="501468" />
+    <Page Image="33" ImageSize="667121" />
+    <Page Image="34" ImageSize="599541" />
+    <Page Image="35" ImageSize="419042" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Liberty Goddess</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550729/</Web>
+  <Year>1979</Year>
+</ComicInfo>

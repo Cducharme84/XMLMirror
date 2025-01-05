@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Format>Series</Format>
+  <GTIN>urn:asin:B0D96JX7QC</GTIN>
+  <Genre>Adventure</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-11-15T17:47:22 urn:asin:B0D96JX7QC</Notes>
+  <Number>4</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page DoublePage="True" Image="0" ImageHeight="1972" ImageSize="1342234" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="True" Image="1" ImageHeight="1493" ImageSize="997440" ImageWidth="1920" />
+    <Page DoublePage="True" Image="2" ImageHeight="1493" ImageSize="609208" ImageWidth="1920" />
+    <Page DoublePage="True" Image="3" ImageHeight="1493" ImageSize="459899" ImageWidth="1920" />
+    <Page DoublePage="True" Image="4" ImageHeight="1493" ImageSize="597476" ImageWidth="1920" />
+    <Page DoublePage="True" Image="5" ImageHeight="1493" ImageSize="623334" ImageWidth="1920" />
+    <Page DoublePage="True" Image="6" ImageHeight="1493" ImageSize="570964" ImageWidth="1920" />
+    <Page DoublePage="True" Image="7" ImageHeight="1493" ImageSize="505487" ImageWidth="1920" />
+    <Page DoublePage="True" Image="8" ImageHeight="1493" ImageSize="553545" ImageWidth="1920" />
+    <Page DoublePage="True" Image="9" ImageHeight="1493" ImageSize="522099" ImageWidth="1920" />
+    <Page DoublePage="True" Image="10" ImageHeight="1493" ImageSize="600031" ImageWidth="1920" />
+    <Page DoublePage="True" Image="11" ImageHeight="1493" ImageSize="383436" ImageWidth="1920" />
+    <Page DoublePage="True" Image="12" ImageHeight="1493" ImageSize="612154" ImageWidth="1920" />
+    <Page DoublePage="True" Image="13" ImageHeight="1493" ImageSize="558195" ImageWidth="1920" />
+    <Page DoublePage="True" Image="14" ImageHeight="1493" ImageSize="602807" ImageWidth="1920" />
+    <Page DoublePage="True" Image="15" ImageHeight="1493" ImageSize="540913" ImageWidth="1920" />
+    <Page DoublePage="True" Image="16" ImageHeight="1493" ImageSize="787696" ImageWidth="1920" />
+    <Page DoublePage="True" Image="17" ImageHeight="1493" ImageSize="649625" ImageWidth="1920" />
+    <Page DoublePage="True" Image="18" ImageHeight="1493" ImageSize="756331" ImageWidth="1920" />
+    <Page DoublePage="True" Image="19" ImageHeight="1493" ImageSize="933655" ImageWidth="1920" />
+    <Page DoublePage="True" Image="20" ImageHeight="1493" ImageSize="911452" ImageWidth="1920" />
+    <Page DoublePage="True" Image="21" ImageHeight="1493" ImageSize="770889" ImageWidth="1920" />
+    <Page DoublePage="True" Image="22" ImageHeight="1493" ImageSize="222430" ImageWidth="1920" />
+    <Page DoublePage="True" Image="23" ImageHeight="1493" ImageSize="675923" ImageWidth="1920" />
+    <Page DoublePage="False" Image="24" ImageHeight="3056" ImageSize="2150678" ImageWidth="1988" />
+  </Pages>
+  <Publisher>Black Cat Comic Publishing</Publisher>
+  <ScanInformation>The Sloppy Bear-QuantumDeep</ScanInformation>
+  <Series>Cayo And The Cosmic Sword</Series>
+  <Volume>2024</Volume>
+  <Web>https://www.amazon.com/dp/B0D96JX7QC/</Web>
+  <Year>2024</Year>
+</ComicInfo>

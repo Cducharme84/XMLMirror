@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-247069</GTIN>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:56:21 [Issue ID 4000-247069] urn:comicvine:4000-247069</Notes>
+	<Number>5</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="875820" Type="FrontCover"/>
+		<Page Image="1" ImageSize="466063"/>
+		<Page Image="2" ImageSize="496651"/>
+		<Page Image="3" ImageSize="510921"/>
+		<Page Image="4" ImageSize="567109"/>
+		<Page Image="5" ImageSize="516988"/>
+		<Page Image="6" ImageSize="502441"/>
+		<Page Image="7" ImageSize="548169"/>
+		<Page Image="8" ImageSize="553210"/>
+		<Page Image="9" ImageSize="486273"/>
+		<Page Image="10" ImageSize="541720"/>
+		<Page Image="11" ImageSize="545134"/>
+		<Page Image="12" ImageSize="581960"/>
+		<Page Image="13" ImageSize="446865"/>
+		<Page Image="14" ImageSize="454247"/>
+		<Page Image="15" ImageSize="526912"/>
+		<Page Image="16" ImageSize="517321"/>
+		<Page Image="17" ImageSize="479337"/>
+		<Page Image="18" ImageSize="369404"/>
+		<Page Image="19" ImageSize="530085"/>
+		<Page Image="20" ImageSize="440614"/>
+		<Page Image="21" ImageSize="487492"/>
+		<Page Image="22" ImageSize="555627"/>
+		<Page Image="23" ImageSize="501064"/>
+		<Page Image="24" ImageSize="486846"/>
+		<Page Image="25" ImageSize="489270"/>
+		<Page Image="26" ImageSize="458145"/>
+		<Page Image="27" ImageSize="369414"/>
+	</Pages>
+	<Publisher>Tekno Comix</Publisher>
+	<ScanInformation>(Clasher)</ScanInformation>
+	<Series>Isaac Asimov's I-Bots</Series>
+	<Summary>https://comicvine.gamespot.com/isaac-asimovs-i-bots-5-crackdown-part-4-of-5/4000-247069/</Summary>
+	<Title>Crackdown part 4 of 5</Title>
+	<Volume>1996</Volume>
+	<Web>https://comicvine.gamespot.com/isaac-asimovs-i-bots-5-crackdown-part-4-of-5/4000-247069/</Web>
+	<Year>1996</Year>
+</ComicInfo>

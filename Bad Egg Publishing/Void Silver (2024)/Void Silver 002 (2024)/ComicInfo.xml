@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>2</Count>
+  <Format>Series</Format>
+  <Genre>Superhero</Genre>
+  <Inker>Suzi Blake</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-10-16T15:05:57</Notes>
+  <Number>2</Number>
+  <PageCount>52</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3936" ImageSize="1118557" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3936" ImageSize="1119488" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3936" ImageSize="1821249" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3936" ImageSize="1824668" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3936" ImageSize="1662948" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3936" ImageSize="1994519" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3936" ImageSize="1557203" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3936" ImageSize="1683388" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3936" ImageSize="1618612" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3936" ImageSize="1469652" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3936" ImageSize="1656813" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3936" ImageSize="1704358" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3936" ImageSize="1858754" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3936" ImageSize="1690454" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3936" ImageSize="1656295" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3936" ImageSize="1607877" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3936" ImageSize="1653848" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3936" ImageSize="1607463" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3936" ImageSize="1804644" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3936" ImageSize="1800125" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3936" ImageSize="1757965" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3936" ImageSize="1734015" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3936" ImageSize="2063677" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3936" ImageSize="1765812" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3936" ImageSize="1888273" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3936" ImageSize="1916716" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3936" ImageSize="1831642" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3936" ImageSize="1850898" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3936" ImageSize="2025905" ImageWidth="2560" />
+    <Page DoublePage="False" Image="29" ImageHeight="3936" ImageSize="2094518" ImageWidth="2560" />
+    <Page DoublePage="False" Image="30" ImageHeight="3936" ImageSize="1707043" ImageWidth="2560" />
+    <Page DoublePage="False" Image="31" ImageHeight="3936" ImageSize="1860548" ImageWidth="2560" />
+    <Page DoublePage="False" Image="32" ImageHeight="3936" ImageSize="1954173" ImageWidth="2560" />
+    <Page DoublePage="False" Image="33" ImageHeight="3936" ImageSize="1672066" ImageWidth="2560" />
+    <Page DoublePage="False" Image="34" ImageHeight="3936" ImageSize="1686080" ImageWidth="2560" />
+    <Page DoublePage="False" Image="35" ImageHeight="3936" ImageSize="1855120" ImageWidth="2560" />
+    <Page DoublePage="False" Image="36" ImageHeight="3936" ImageSize="2096568" ImageWidth="2560" />
+    <Page DoublePage="False" Image="37" ImageHeight="3936" ImageSize="1766948" ImageWidth="2560" />
+    <Page DoublePage="False" Image="38" ImageHeight="3936" ImageSize="1756108" ImageWidth="2560" />
+    <Page DoublePage="False" Image="39" ImageHeight="3936" ImageSize="2117518" ImageWidth="2560" />
+    <Page DoublePage="False" Image="40" ImageHeight="3936" ImageSize="1597108" ImageWidth="2560" />
+    <Page DoublePage="False" Image="41" ImageHeight="3936" ImageSize="1948379" ImageWidth="2560" />
+    <Page DoublePage="False" Image="42" ImageHeight="3936" ImageSize="959376" ImageWidth="2560" />
+    <Page DoublePage="False" Image="43" ImageHeight="3936" ImageSize="1431037" ImageWidth="2560" />
+    <Page DoublePage="False" Image="44" ImageHeight="3936" ImageSize="1040665" ImageWidth="2560" />
+    <Page DoublePage="False" Image="45" ImageHeight="3936" ImageSize="897312" ImageWidth="2560" />
+    <Page DoublePage="False" Image="46" ImageHeight="3936" ImageSize="1200559" ImageWidth="2560" />
+    <Page DoublePage="False" Image="47" ImageHeight="3936" ImageSize="2056202" ImageWidth="2560" />
+    <Page DoublePage="False" Image="48" ImageHeight="3936" ImageSize="1214144" ImageWidth="2560" />
+    <Page DoublePage="False" Image="49" ImageHeight="3936" ImageSize="1518856" ImageWidth="2560" />
+    <Page DoublePage="False" Image="50" ImageHeight="3936" ImageSize="864016" ImageWidth="2560" />
+    <Page DoublePage="False" Image="51" ImageHeight="3936" ImageSize="87583" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Suzi Blake</Penciller>
+  <Publisher>Bad Egg Publishing</Publisher>
+  <Series>Void Silver</Series>
+  <Volume>2024</Volume>
+  <Writer>Alejandro Arbona</Writer>
+  <Year>2024</Year>
+  <Summary>Created by YouTube sensation JackSepticEye, Void Silver is an all-new series set in the world of the ALTRVERSE.
+Magic exists alongside science and technology, and its practitioners dwell in every strata of modern society. Exceptional even among these exceptional individuals is the preternaturally gifted...the iconoclastic...the sarcastic and short-tempered...Marvin the Magnificent!
+School is in session? After failing his entrance exams, Marvin and Ramesses must regroup and find a way to educate the most promising young magician in a generation.
+Featuring wraparound mystic arts variant covers by the sensational Skylar Patridge.</Summary>
+  <Day>16</Day>
+  <Month>10</Month>
+</ComicInfo>

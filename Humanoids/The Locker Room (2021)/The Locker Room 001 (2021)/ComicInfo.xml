@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Editor>Amanda Lucido,Vincent Henry</Editor>
+  <GTIN>urn:comixology:927088</GTIN>
+  <Genre>Slice of Life</Genre>
+  <Inker>Timothé Le Boucher</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:59:56 [Issue ID 4000-828715] urn:comicvine:4000-828715 urn:comixology:927088
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 15:41:25. [Issue ID 2199571]</Notes>
+  <Number>1</Number>
+  <PageCount>129</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2513" ImageSize="715266" ImageWidth="1800" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2509" ImageSize="355845" ImageWidth="1800" />
+    <Page Image="2" ImageHeight="2509" ImageSize="354508" ImageWidth="1800" />
+    <Page Image="3" ImageHeight="2509" ImageSize="152735" ImageWidth="1800" />
+    <Page Image="4" ImageHeight="2509" ImageSize="271260" ImageWidth="1800" />
+    <Page Image="5" ImageHeight="2509" ImageSize="401662" ImageWidth="1800" />
+    <Page Image="6" ImageHeight="2509" ImageSize="534339" ImageWidth="1800" />
+    <Page Image="7" ImageHeight="2509" ImageSize="537744" ImageWidth="1800" />
+    <Page Image="8" ImageHeight="2509" ImageSize="652735" ImageWidth="1800" />
+    <Page Image="9" ImageHeight="2509" ImageSize="760481" ImageWidth="1800" />
+    <Page Image="10" ImageHeight="2509" ImageSize="691210" ImageWidth="1800" />
+    <Page Image="11" ImageHeight="2509" ImageSize="653317" ImageWidth="1800" />
+    <Page Image="12" ImageHeight="2509" ImageSize="639713" ImageWidth="1800" />
+    <Page Image="13" ImageHeight="2509" ImageSize="694568" ImageWidth="1800" />
+    <Page Image="14" ImageHeight="2509" ImageSize="621282" ImageWidth="1800" />
+    <Page Image="15" ImageHeight="2509" ImageSize="614368" ImageWidth="1800" />
+    <Page Image="16" ImageHeight="2509" ImageSize="630305" ImageWidth="1800" />
+    <Page Image="17" ImageHeight="2509" ImageSize="726669" ImageWidth="1800" />
+    <Page Image="18" ImageHeight="2509" ImageSize="602289" ImageWidth="1800" />
+    <Page Image="19" ImageHeight="2509" ImageSize="599263" ImageWidth="1800" />
+    <Page Image="20" ImageHeight="2509" ImageSize="612406" ImageWidth="1800" />
+    <Page Image="21" ImageHeight="2509" ImageSize="634257" ImageWidth="1800" />
+    <Page Image="22" ImageHeight="2509" ImageSize="657875" ImageWidth="1800" />
+    <Page Image="23" ImageHeight="2509" ImageSize="705172" ImageWidth="1800" />
+    <Page Image="24" ImageHeight="2509" ImageSize="605720" ImageWidth="1800" />
+    <Page Image="25" ImageHeight="2509" ImageSize="680158" ImageWidth="1800" />
+    <Page Image="26" ImageHeight="2509" ImageSize="622879" ImageWidth="1800" />
+    <Page Image="27" ImageHeight="2509" ImageSize="561240" ImageWidth="1800" />
+    <Page Image="28" ImageHeight="2509" ImageSize="735024" ImageWidth="1800" />
+    <Page Image="29" ImageHeight="2509" ImageSize="617736" ImageWidth="1800" />
+    <Page Image="30" ImageHeight="2509" ImageSize="656209" ImageWidth="1800" />
+    <Page Image="31" ImageHeight="2509" ImageSize="633550" ImageWidth="1800" />
+    <Page Image="32" ImageHeight="2509" ImageSize="659907" ImageWidth="1800" />
+    <Page Image="33" ImageHeight="2509" ImageSize="613750" ImageWidth="1800" />
+    <Page Image="34" ImageHeight="2509" ImageSize="693012" ImageWidth="1800" />
+    <Page Image="35" ImageHeight="2509" ImageSize="606152" ImageWidth="1800" />
+    <Page Image="36" ImageHeight="2509" ImageSize="481604" ImageWidth="1800" />
+    <Page Image="37" ImageHeight="2509" ImageSize="493150" ImageWidth="1800" />
+    <Page Image="38" ImageHeight="2509" ImageSize="628793" ImageWidth="1800" />
+    <Page Image="39" ImageHeight="2509" ImageSize="556120" ImageWidth="1800" />
+    <Page Image="40" ImageHeight="2509" ImageSize="548760" ImageWidth="1800" />
+    <Page Image="41" ImageHeight="2509" ImageSize="538895" ImageWidth="1800" />
+    <Page Image="42" ImageHeight="2509" ImageSize="527613" ImageWidth="1800" />
+    <Page Image="43" ImageHeight="2509" ImageSize="682758" ImageWidth="1800" />
+    <Page Image="44" ImageHeight="2509" ImageSize="569101" ImageWidth="1800" />
+    <Page Image="45" ImageHeight="2509" ImageSize="650558" ImageWidth="1800" />
+    <Page Image="46" ImageHeight="2509" ImageSize="604594" ImageWidth="1800" />
+    <Page Image="47" ImageHeight="2509" ImageSize="577733" ImageWidth="1800" />
+    <Page Image="48" ImageHeight="2509" ImageSize="654084" ImageWidth="1800" />
+    <Page Image="49" ImageHeight="2509" ImageSize="623653" ImageWidth="1800" />
+    <Page Image="50" ImageHeight="2509" ImageSize="581178" ImageWidth="1800" />
+    <Page Image="51" ImageHeight="2509" ImageSize="413371" ImageWidth="1800" />
+    <Page Image="52" ImageHeight="2509" ImageSize="813457" ImageWidth="1800" />
+    <Page Image="53" ImageHeight="2509" ImageSize="607199" ImageWidth="1800" />
+    <Page Image="54" ImageHeight="2509" ImageSize="593063" ImageWidth="1800" />
+    <Page Image="55" ImageHeight="2509" ImageSize="928959" ImageWidth="1800" />
+    <Page Image="56" ImageHeight="2509" ImageSize="528144" ImageWidth="1800" />
+    <Page Image="57" ImageHeight="2509" ImageSize="595042" ImageWidth="1800" />
+    <Page Image="58" ImageHeight="2509" ImageSize="626287" ImageWidth="1800" />
+    <Page Image="59" ImageHeight="2509" ImageSize="655417" ImageWidth="1800" />
+    <Page Image="60" ImageHeight="2509" ImageSize="555527" ImageWidth="1800" />
+    <Page Image="61" ImageHeight="2509" ImageSize="637190" ImageWidth="1800" />
+    <Page Image="62" ImageHeight="2509" ImageSize="585301" ImageWidth="1800" />
+    <Page Image="63" ImageHeight="2509" ImageSize="658904" ImageWidth="1800" />
+    <Page Image="64" ImageHeight="2509" ImageSize="467362" ImageWidth="1800" />
+    <Page Image="65" ImageHeight="2509" ImageSize="562502" ImageWidth="1800" />
+    <Page Image="66" ImageHeight="2509" ImageSize="649498" ImageWidth="1800" />
+    <Page Image="67" ImageHeight="2509" ImageSize="536570" ImageWidth="1800" />
+    <Page Image="68" ImageHeight="2509" ImageSize="566230" ImageWidth="1800" />
+    <Page Image="69" ImageHeight="2509" ImageSize="730342" ImageWidth="1800" />
+    <Page Image="70" ImageHeight="2509" ImageSize="649953" ImageWidth="1800" />
+    <Page Image="71" ImageHeight="2509" ImageSize="603770" ImageWidth="1800" />
+    <Page Image="72" ImageHeight="2509" ImageSize="594290" ImageWidth="1800" />
+    <Page Image="73" ImageHeight="2509" ImageSize="704086" ImageWidth="1800" />
+    <Page Image="74" ImageHeight="2509" ImageSize="721338" ImageWidth="1800" />
+    <Page Image="75" ImageHeight="2509" ImageSize="528065" ImageWidth="1800" />
+    <Page Image="76" ImageHeight="2509" ImageSize="520692" ImageWidth="1800" />
+    <Page Image="77" ImageHeight="2509" ImageSize="523791" ImageWidth="1800" />
+    <Page Image="78" ImageHeight="2509" ImageSize="535024" ImageWidth="1800" />
+    <Page Image="79" ImageHeight="2509" ImageSize="550778" ImageWidth="1800" />
+    <Page Image="80" ImageHeight="2509" ImageSize="624356" ImageWidth="1800" />
+    <Page Image="81" ImageHeight="2509" ImageSize="745709" ImageWidth="1800" />
+    <Page Image="82" ImageHeight="2509" ImageSize="693319" ImageWidth="1800" />
+    <Page Image="83" ImageHeight="2509" ImageSize="596140" ImageWidth="1800" />
+    <Page Image="84" ImageHeight="2509" ImageSize="680533" ImageWidth="1800" />
+    <Page Image="85" ImageHeight="2509" ImageSize="669321" ImageWidth="1800" />
+    <Page Image="86" ImageHeight="2509" ImageSize="600657" ImageWidth="1800" />
+    <Page Image="87" ImageHeight="2509" ImageSize="531699" ImageWidth="1800" />
+    <Page Image="88" ImageHeight="2509" ImageSize="670588" ImageWidth="1800" />
+    <Page Image="89" ImageHeight="2509" ImageSize="505278" ImageWidth="1800" />
+    <Page Image="90" ImageHeight="2509" ImageSize="552386" ImageWidth="1800" />
+    <Page Image="91" ImageHeight="2509" ImageSize="409713" ImageWidth="1800" />
+    <Page Image="92" ImageHeight="2509" ImageSize="629620" ImageWidth="1800" />
+    <Page Image="93" ImageHeight="2509" ImageSize="494090" ImageWidth="1800" />
+    <Page Image="94" ImageHeight="2509" ImageSize="557591" ImageWidth="1800" />
+    <Page Image="95" ImageHeight="2509" ImageSize="563674" ImageWidth="1800" />
+    <Page Image="96" ImageHeight="2509" ImageSize="535606" ImageWidth="1800" />
+    <Page Image="97" ImageHeight="2509" ImageSize="520234" ImageWidth="1800" />
+    <Page Image="98" ImageHeight="2509" ImageSize="591480" ImageWidth="1800" />
+    <Page Image="99" ImageHeight="2509" ImageSize="587125" ImageWidth="1800" />
+    <Page Image="100" ImageHeight="2509" ImageSize="672680" ImageWidth="1800" />
+    <Page Image="101" ImageHeight="2509" ImageSize="728436" ImageWidth="1800" />
+    <Page Image="102" ImageHeight="2509" ImageSize="648815" ImageWidth="1800" />
+    <Page Image="103" ImageHeight="2509" ImageSize="698142" ImageWidth="1800" />
+    <Page Image="104" ImageHeight="2509" ImageSize="715778" ImageWidth="1800" />
+    <Page Image="105" ImageHeight="2509" ImageSize="671942" ImageWidth="1800" />
+    <Page Image="106" ImageHeight="2509" ImageSize="504766" ImageWidth="1800" />
+    <Page Image="107" ImageHeight="2509" ImageSize="606617" ImageWidth="1800" />
+    <Page Image="108" ImageHeight="2509" ImageSize="905324" ImageWidth="1800" />
+    <Page Image="109" ImageHeight="2509" ImageSize="911443" ImageWidth="1800" />
+    <Page Image="110" ImageHeight="2509" ImageSize="653763" ImageWidth="1800" />
+    <Page Image="111" ImageHeight="2509" ImageSize="726170" ImageWidth="1800" />
+    <Page Image="112" ImageHeight="2509" ImageSize="722012" ImageWidth="1800" />
+    <Page Image="113" ImageHeight="2509" ImageSize="702185" ImageWidth="1800" />
+    <Page Image="114" ImageHeight="2509" ImageSize="737513" ImageWidth="1800" />
+    <Page Image="115" ImageHeight="2509" ImageSize="738360" ImageWidth="1800" />
+    <Page Image="116" ImageHeight="2509" ImageSize="717142" ImageWidth="1800" />
+    <Page Image="117" ImageHeight="2509" ImageSize="704949" ImageWidth="1800" />
+    <Page Image="118" ImageHeight="2509" ImageSize="610607" ImageWidth="1800" />
+    <Page Image="119" ImageHeight="2509" ImageSize="719401" ImageWidth="1800" />
+    <Page Image="120" ImageHeight="2509" ImageSize="623679" ImageWidth="1800" />
+    <Page Image="121" ImageHeight="2509" ImageSize="674790" ImageWidth="1800" />
+    <Page Image="122" ImageHeight="2509" ImageSize="620726" ImageWidth="1800" />
+    <Page Image="123" ImageHeight="2509" ImageSize="414480" ImageWidth="1800" />
+    <Page Image="124" ImageHeight="2509" ImageSize="515029" ImageWidth="1800" />
+    <Page Image="125" ImageHeight="2509" ImageSize="445388" ImageWidth="1800" />
+    <Page Image="126" ImageHeight="2509" ImageSize="513626" ImageWidth="1800" />
+    <Page Image="127" ImageHeight="2509" ImageSize="571608" ImageWidth="1800" />
+    <Page Image="128" ImageSize="294702" />
+  </Pages>
+  <Penciller>Timothé Le Boucher</Penciller>
+  <Publisher>Humanoids</Publisher>
+  <ScanInformation>phillywilly-Empire</ScanInformation>
+  <Series>The Locker Room</Series>
+  <Summary>The middle school has a new locker room and these pubescent boys are about to discover the full effects of hormones and social hierarchy in this unrestrained microcosm.
+
+The boys discover the renovated premises in a flurry of embarrassment and mockery: foggy glass windows, pink toilets… and communal showers! It becomes a special place where adult authority vanishes and primal instincts can be expressed in their rawest, most brutal form: aggression, adolescent sexuality, mockery, bullying...
+
+What is simulated within the locker room is a micro-society without boundaries, with an uncertain equilibrium—complete with fearsome leaders and lower class losers.
+
+Far from a teenage soap opera, this is an authentic testament to puberty.
+
+https://comicvine.gamespot.com/the-locker-room-1-gn/4000-828715/</Summary>
+  <Title>GN</Title>
+  <Volume>2021</Volume>
+  <Web>https://comicvine.gamespot.com/the-locker-room-1-gn/4000-828715/</Web>
+  <Writer>Timothé Le Boucher</Writer>
+  <Year>2021</Year>
+  <Count>1</Count>
+</ComicInfo>

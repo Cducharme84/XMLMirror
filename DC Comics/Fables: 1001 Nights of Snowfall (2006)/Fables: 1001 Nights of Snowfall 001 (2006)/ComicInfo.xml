@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>King Shahryar,Snow White</Characters>
+  <Colorist>Brian Bolland,Charles Vess,Derek Kirk Kim,Esao Andrews,Jill Thompson,John Bolton,Mark Buckingham,Mark Wheatley,Tara McPherson,Charles Vess,John Bolton,Mark Buckingham,James Jean,Mark Wheatley,Derek Kirk Kim,Esao Andrews,Brian Bolland,Jill Thompson</Colorist>
+  <Editor>Angela Rufino,Shelly Bond</Editor>
+  <GTIN>urn:comicvine:4000-125495</GTIN>
+  <Inker>Brian Bolland,Charles Vess,Derek Kirk Kim,Esao Andrews,James Jean,Jill Thompson,John Bolton,Mark Buckingham,Mark Wheatley,Tara McPherson,Charles Vess,John Bolton,Mark Buckingham,James Jean,Mark Wheatley,Derek Kirk Kim,Esao Andrews,Brian Bolland,Jill Thompson</Inker>
+  <Letterer>Todd Klein,Todd Klein</Letterer>
+  <Locations>Hamelin,The Farm,The Hesse,North America,Atlantis,New York City,Black Forest,Manhattan,The Woodland,Germany,New York State,Homelands,Fabletown,Gingerbread House,Mermaid Pond</Locations>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-17T18:15:55 [Issue ID 4000-125495] urn:comicvine:4000-125495
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 00:51:17. [Issue ID 316749]</Notes>
+  <Number>1</Number>
+  <PageCount>145</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="7713397" Type="FrontCover" />
+    <Page Image="1" ImageSize="583711" />
+    <Page Image="2" ImageSize="1232858" />
+    <Page Image="3" ImageSize="688103" />
+    <Page Image="4" ImageSize="723878" />
+    <Page Image="5" ImageSize="879413" />
+    <Page Image="6" ImageSize="2959497" />
+    <Page Image="7" ImageSize="2276005" />
+    <Page Image="8" ImageSize="1356728" />
+    <Page Image="9" ImageSize="1711706" />
+    <Page Image="10" ImageSize="1714395" />
+    <Page Image="11" ImageSize="662841" />
+    <Page Image="12" ImageSize="2890845" />
+    <Page Image="13" ImageSize="776895" />
+    <Page Image="14" ImageSize="2830414" />
+    <Page Image="15" ImageSize="1476413" />
+    <Page Image="16" ImageSize="1899660" />
+    <Page Image="17" ImageSize="833721" />
+    <Page Image="18" ImageSize="2802094" />
+    <Page Image="19" ImageSize="1389297" />
+    <Page Image="20" ImageSize="1502987" />
+    <Page Image="21" ImageSize="1947376" />
+    <Page Image="22" ImageSize="2468694" />
+    <Page Image="23" ImageSize="1790011" />
+    <Page Image="24" ImageSize="1698232" />
+    <Page Image="25" ImageSize="1491647" />
+    <Page Image="26" ImageSize="1480219" />
+    <Page Image="27" ImageSize="2166339" />
+    <Page Image="28" ImageSize="2161733" />
+    <Page Image="29" ImageSize="2190003" />
+    <Page Image="30" ImageSize="1881622" />
+    <Page Image="31" ImageSize="1557805" />
+    <Page Image="32" ImageSize="1889195" />
+    <Page Image="33" ImageSize="1988672" />
+    <Page Image="34" ImageSize="1740865" />
+    <Page Image="35" ImageSize="2273013" />
+    <Page Image="36" ImageSize="1943456" />
+    <Page Image="37" ImageSize="1987932" />
+    <Page Image="38" ImageSize="2347319" />
+    <Page Image="39" ImageSize="1885076" />
+    <Page Image="40" ImageSize="1745822" />
+    <Page Image="41" ImageSize="1653111" />
+    <Page Image="42" ImageSize="1847451" />
+    <Page Image="43" ImageSize="1849421" />
+    <Page Image="44" ImageSize="1777649" />
+    <Page Image="45" ImageSize="1782132" />
+    <Page Image="46" ImageSize="1749245" />
+    <Page Image="47" ImageSize="1869069" />
+    <Page Image="48" ImageSize="1764036" />
+    <Page Image="49" ImageSize="1694151" />
+    <Page Image="50" ImageSize="1757036" />
+    <Page Image="51" ImageSize="1707350" />
+    <Page Image="52" ImageSize="1587048" />
+    <Page Image="53" ImageSize="1693754" />
+    <Page Image="54" ImageSize="1353798" />
+    <Page Image="55" ImageSize="2267072" />
+    <Page Image="56" ImageSize="2108728" />
+    <Page Image="57" ImageSize="2017832" />
+    <Page Image="58" ImageSize="1893598" />
+    <Page Image="59" ImageSize="1789952" />
+    <Page Image="60" ImageSize="1872761" />
+    <Page Image="61" ImageSize="1940703" />
+    <Page Image="62" ImageSize="1750892" />
+    <Page Image="63" ImageSize="2115458" />
+    <Page Image="64" ImageSize="1715383" />
+    <Page Image="65" ImageSize="1777126" />
+    <Page Image="66" ImageSize="1633097" />
+    <Page Image="67" ImageSize="1757018" />
+    <Page Image="68" ImageSize="1666323" />
+    <Page Image="69" ImageSize="1574020" />
+    <Page Image="70" ImageSize="1571008" />
+    <Page Image="71" ImageSize="2055478" />
+    <Page Image="72" ImageSize="2107841" />
+    <Page Image="73" ImageSize="2107654" />
+    <Page Image="74" ImageSize="2024792" />
+    <Page Image="75" ImageSize="1823107" />
+    <Page Image="76" ImageSize="1956154" />
+    <Page Image="77" ImageSize="1924560" />
+    <Page Image="78" ImageSize="1964591" />
+    <Page Image="79" ImageSize="2361561" />
+    <Page Image="80" ImageSize="1779330" />
+    <Page Image="81" ImageSize="2050428" />
+    <Page Image="82" ImageSize="2029887" />
+    <Page Image="83" ImageSize="2216257" />
+    <Page Image="84" ImageSize="1628867" />
+    <Page Image="85" ImageSize="1323316" />
+    <Page Image="86" ImageSize="1588796" />
+    <Page Image="87" ImageSize="1675668" />
+    <Page Image="88" ImageSize="2087015" />
+    <Page Image="89" ImageSize="1380549" />
+    <Page Image="90" ImageSize="1374259" />
+    <Page Image="91" ImageSize="1370790" />
+    <Page Image="92" ImageSize="1260965" />
+    <Page Image="93" ImageSize="1388182" />
+    <Page Image="94" ImageSize="1348875" />
+    <Page Image="95" ImageSize="1322119" />
+    <Page Image="96" ImageSize="1292188" />
+    <Page Image="97" ImageSize="2569530" />
+    <Page Image="98" ImageSize="2652156" />
+    <Page Image="99" ImageSize="2318361" />
+    <Page Image="100" ImageSize="2517502" />
+    <Page Image="101" ImageSize="2651347" />
+    <Page Image="102" ImageSize="2534052" />
+    <Page Image="103" ImageSize="2345429" />
+    <Page Image="104" ImageSize="2370554" />
+    <Page Image="105" ImageSize="2455891" />
+    <Page Image="106" ImageSize="2505473" />
+    <Page Image="107" ImageSize="2299842" />
+    <Page Image="108" ImageSize="2345459" />
+    <Page Image="109" ImageSize="2427128" />
+    <Page Image="110" ImageSize="2467549" />
+    <Page Image="111" ImageSize="1253298" />
+    <Page Image="112" ImageSize="1257572" />
+    <Page Image="113" ImageSize="1204690" />
+    <Page Image="114" ImageSize="1367486" />
+    <Page Image="115" ImageSize="1413275" />
+    <Page Image="116" ImageSize="1964447" />
+    <Page Image="117" ImageSize="2136242" />
+    <Page Image="118" ImageSize="2393433" />
+    <Page Image="119" ImageSize="1938535" />
+    <Page Image="120" ImageSize="2006457" />
+    <Page Image="121" ImageSize="1907011" />
+    <Page Image="122" ImageSize="1892193" />
+    <Page Image="123" ImageSize="1930163" />
+    <Page Image="124" ImageSize="2130948" />
+    <Page Image="125" ImageSize="2062947" />
+    <Page Image="126" ImageSize="2058636" />
+    <Page Image="127" ImageSize="1912707" />
+    <Page Image="128" ImageSize="1917483" />
+    <Page Image="129" ImageSize="1984965" />
+    <Page Image="130" ImageSize="1943417" />
+    <Page Image="131" ImageSize="1958700" />
+    <Page Image="132" ImageSize="1770303" />
+    <Page Image="133" ImageSize="1925022" />
+    <Page Image="134" ImageSize="1853019" />
+    <Page Image="135" ImageSize="1234490" />
+    <Page Image="136" ImageSize="2895855" />
+    <Page Image="137" ImageSize="1514821" />
+    <Page Image="138" ImageSize="2716545" />
+    <Page Image="139" ImageSize="1589401" />
+    <Page Image="140" ImageSize="1468693" />
+    <Page Image="141" ImageSize="1146566" />
+    <Page Image="142" ImageSize="885776" />
+    <Page Image="143" ImageSize="1070013" />
+    <Page Image="144" ImageSize="974213" />
+  </Pages>
+  <Penciller>Brian Bolland,Derek Kirk Kim,Esao Andrews,James Jean,Jill Thompson,John Bolton,Mark Buckingham,Mark Wheatley,Michael Wm Kaluta,Tara McPherson,Michael Wm. Kaluta,John Bolton,Mark Buckingham,James Jean,Mark Wheatley,Derek Kirk Kim,Esao Andrews,Brian Bolland,Jill Thompson</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Fables: 1001 Nights of Snowfall</Series>
+  <Summary>Traveling in Arabia as an Ambassador from the exiled FABLES community, Snow White is captured by the local sultan who wants to marry her (and then kill her). But the clever Snow attempts to charm the sultan instead by playing Scheherazade, telling him fantastic stories for a total of 1,001 nights.
+
+Snow White pays a visit to the Seven Dwarfs... one that they'll never forget.
+
+Reynard the Fox helps the Goblin soldiers set up a trap for the other Fable animals.  Who's side is he on?
+
+The life and times of Prince Ambrose.
+
+The origin of Bigby Wolf.
+
+While trying to escape the Adversary, Snow White and Rose Red stumble upon Frau Totenkinder's cottage and her corpse.
+
+The origin of Frau Totenkinder.
+
+Snow White and Rose Red bring the rejuvenated Frau Totenkinder with them on their journey, much to Snow White's chagrin.
+
+Old King Cole seeks refuge from the invaders in the company of a very odd collection of characters.
+
+Snow White finishes her 1,001 stories to King Shahryar and now awaits her fate.</Summary>
+  <Tags>Reynard the Fox,Papa Bear,Black Forest,Boo Bear,Ogren,Cock Robin,Werewolves,Sir Dunsark,Old King Cole,Magic Mirror,Bigby Wolf,Dwarves,Arabian Fables,Captain Hook,Flycatcher,Card Soldiers,Fabletown Fables,Bo Peep's Sheep,Scheherazade,The Beast,Aurac,Frog Princess,Bluebeard,Mr. Mole,Colin,Badger,Mrs. Sprongwallow,Homeland Fables,Three Blind Mice,Seven Dwarfs,Running River Tribe,Cyclopes,Germany,Posey,Giants,The Little Dog Who Laughed,Snapjaw,Dun,New York State,Leland,The Farm,The Pied Piper,Hansel,North Wind,Peter Pan,North America,Longtooth,Billy Goat,Farm Fables,Ichabod Crane,Snow White,Shah Zaman,Three Little Pigs,The Hesse,Dragons,Atlantis,King Shahryar,Prescott,Merlin,Hamelin,Bo Peep,Goblins,Mr. Toad,Puss-in-Boots,Jack Pumpkinhead,Frau Totenkinder,Mr. Morgan,Rose Red,Polyphemus,Red Riding Hood,Colonel Thunderfoot,Mermaids,Homelands,Sergeant Krumphammer,Mr. Sunflower,Mamma Bear,Mersey Dotes,Fairies,Brock Blueheart,Grimble,Prince Charming,Three Bears,Thaddeus,King Noble,Gingerbread House,Woodsman,Mermaid Pond,Gretel,Stulla,Manhattan,Greyheart,The Spoon,Dinosaurs,Rapunzel,Throk,Sir Lancelot,The Dish,Winter,Fabletown,Lord Carrack,The Woodland,Daphne,New York City,Fog Mountain Tribe,Grubel Kaidan,Geppetto,King Tosh</Tags>
+  <Teams>Three Bears,Homeland Fables,Three Blind Mice,Seven Dwarfs,Goblins,Cyclopes,Running River Tribe,Giants,Werewolves,Dinosaurs,Dwarves,Arabian Fables,Card Soldiers,Fabletown Fables,Farm Fables,Mermaids,Three Little Pigs,Dragons,Fog Mountain Tribe,Fairies</Teams>
+  <Title>A Most Troublesome Woman [Part 1]; The Fencing Lessons; A Most Troublesome Woman [Part 2]; The Christmas Pies; A Frog's-Eye View; The Runt; A Most Troublesome Woman [Part 3]; A Mother's Love; Diaspora [Part One]; The Witch's Tale; Diaspora [Part Two]; What You Wish For; Fair Division; A Most Troublesome Woman [Part 4]</Title>
+  <Volume>2006</Volume>
+  <Web>https://comicvine.gamespot.com/fables-1001-nights-of-snowfall-1-gn/4000-125495/</Web>
+  <Writer>Bill Willingham,Bill Willingham</Writer>
+  <Year>2006</Year>
+  <Count>1</Count>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Graphic Novel</Format>
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+</ComicInfo>

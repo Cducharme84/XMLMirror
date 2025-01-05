@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Trigo</Characters>
+  <GTIN>urn:comicvine:4000-955142</GTIN>
+  <Inker>Don Lawrence,Miguel Quesada,Philip Corke</Inker>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:38:30 [Issue ID 4000-955142] urn:comicvine:4000-955142
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:28:18. [Issue ID 2588195]</Notes>
+  <Number>4</Number>
+  <PageCount>243</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2722315" Type="FrontCover" />
+    <Page Image="1" ImageSize="964333" />
+    <Page Image="2" ImageSize="2268200" />
+    <Page Image="3" ImageSize="2159014" />
+    <Page Image="4" ImageSize="851563" />
+    <Page Image="5" ImageSize="2578169" />
+    <Page Image="6" ImageSize="3088075" />
+    <Page Image="7" ImageSize="2294598" />
+    <Page Image="8" ImageSize="2685492" />
+    <Page Image="9" ImageSize="2632854" />
+    <Page Image="10" ImageSize="2678108" />
+    <Page Image="11" ImageSize="2458729" />
+    <Page Image="12" ImageSize="2865642" />
+    <Page Image="13" ImageSize="2399022" />
+    <Page Image="14" ImageSize="2476110" />
+    <Page Image="15" ImageSize="2924619" />
+    <Page Image="16" ImageSize="2661642" />
+    <Page Image="17" ImageSize="2395981" />
+    <Page Image="18" ImageSize="2882223" />
+    <Page Image="19" ImageSize="2340691" />
+    <Page Image="20" ImageSize="2700615" />
+    <Page Image="21" ImageSize="2327842" />
+    <Page Image="22" ImageSize="2576979" />
+    <Page Image="23" ImageSize="845820" />
+    <Page Image="24" ImageSize="2239954" />
+    <Page Image="25" ImageSize="3131257" />
+    <Page Image="26" ImageSize="2471810" />
+    <Page Image="27" ImageSize="2290153" />
+    <Page Image="28" ImageSize="2120818" />
+    <Page Image="29" ImageSize="2382167" />
+    <Page Image="30" ImageSize="2690136" />
+    <Page Image="31" ImageSize="2386872" />
+    <Page Image="32" ImageSize="2358633" />
+    <Page Image="33" ImageSize="2403689" />
+    <Page Image="34" ImageSize="2146565" />
+    <Page Image="35" ImageSize="2098384" />
+    <Page Image="36" ImageSize="2429957" />
+    <Page Image="37" ImageSize="2246515" />
+    <Page Image="38" ImageSize="2752516" />
+    <Page Image="39" ImageSize="2518358" />
+    <Page Image="40" ImageSize="2922854" />
+    <Page Image="41" ImageSize="2349283" />
+    <Page Image="42" ImageSize="863528" />
+    <Page Image="43" ImageSize="2393917" />
+    <Page Image="44" ImageSize="2342322" />
+    <Page Image="45" ImageSize="2362917" />
+    <Page Image="46" ImageSize="2608368" />
+    <Page Image="47" ImageSize="2592844" />
+    <Page Image="48" ImageSize="2609065" />
+    <Page Image="49" ImageSize="2575722" />
+    <Page Image="50" ImageSize="2348416" />
+    <Page Image="51" ImageSize="2379029" />
+    <Page Image="52" ImageSize="2523888" />
+    <Page Image="53" ImageSize="2624132" />
+    <Page Image="54" ImageSize="2354694" />
+    <Page Image="55" ImageSize="2552366" />
+    <Page Image="56" ImageSize="2467705" />
+    <Page Image="57" ImageSize="2329505" />
+    <Page Image="58" ImageSize="2503820" />
+    <Page Image="59" ImageSize="2513804" />
+    <Page Image="60" ImageSize="2588157" />
+    <Page Image="61" ImageSize="884842" />
+    <Page Image="62" ImageSize="2192052" />
+    <Page Image="63" ImageSize="2579118" />
+    <Page Image="64" ImageSize="2336864" />
+    <Page Image="65" ImageSize="3298429" />
+    <Page Image="66" ImageSize="3096427" />
+    <Page Image="67" ImageSize="2350536" />
+    <Page Image="68" ImageSize="2310534" />
+    <Page Image="69" ImageSize="2158819" />
+    <Page Image="70" ImageSize="2121222" />
+    <Page Image="71" ImageSize="2458731" />
+    <Page Image="72" ImageSize="952577" />
+    <Page Image="73" ImageSize="2341556" />
+    <Page Image="74" ImageSize="2151795" />
+    <Page Image="75" ImageSize="2387938" />
+    <Page Image="76" ImageSize="2685980" />
+    <Page Image="77" ImageSize="843789" />
+    <Page Image="78" ImageSize="2221233" />
+    <Page Image="79" ImageSize="2489373" />
+    <Page Image="80" ImageSize="2718435" />
+    <Page Image="81" ImageSize="2535377" />
+    <Page Image="82" ImageSize="2303758" />
+    <Page Image="83" ImageSize="2311741" />
+    <Page Image="84" ImageSize="2268096" />
+    <Page Image="85" ImageSize="2547987" />
+    <Page Image="86" ImageSize="2274672" />
+    <Page Image="87" ImageSize="2900642" />
+    <Page Image="88" ImageSize="2228370" />
+    <Page Image="89" ImageSize="2948088" />
+    <Page Image="90" ImageSize="2068799" />
+    <Page Image="91" ImageSize="2570827" />
+    <Page Image="92" ImageSize="3737646" />
+    <Page Image="93" ImageSize="2975810" />
+    <Page Image="94" ImageSize="1159576" />
+    <Page Image="95" ImageSize="2650913" />
+    <Page Image="96" ImageSize="2578566" />
+    <Page Image="97" ImageSize="2538021" />
+    <Page Image="98" ImageSize="2864044" />
+    <Page Image="99" ImageSize="2343303" />
+    <Page Image="100" ImageSize="2362382" />
+    <Page Image="101" ImageSize="2371157" />
+    <Page Image="102" ImageSize="2470322" />
+    <Page Image="103" ImageSize="2654337" />
+    <Page Image="104" ImageSize="2578300" />
+    <Page Image="105" ImageSize="2387404" />
+    <Page Image="106" ImageSize="2472053" />
+    <Page Image="107" ImageSize="2543209" />
+    <Page Image="108" ImageSize="2229446" />
+    <Page Image="109" ImageSize="2192706" />
+    <Page Image="110" ImageSize="2418242" />
+    <Page Image="111" ImageSize="2469066" />
+    <Page Image="112" ImageSize="2558867" />
+    <Page Image="113" ImageSize="1247552" />
+    <Page Image="114" ImageSize="3361121" />
+    <Page Image="115" ImageSize="3425973" />
+    <Page Image="116" ImageSize="3334329" />
+    <Page Image="117" ImageSize="3161470" />
+    <Page Image="118" ImageSize="3480491" />
+    <Page Image="119" ImageSize="3677414" />
+    <Page Image="120" ImageSize="3572346" />
+    <Page Image="121" ImageSize="3545100" />
+    <Page Image="122" ImageSize="3654339" />
+    <Page Image="123" ImageSize="3366721" />
+    <Page Image="124" ImageSize="1493700" />
+    <Page Image="125" ImageSize="4062020" />
+    <Page Image="126" ImageSize="3948507" />
+    <Page Image="127" ImageSize="3998664" />
+    <Page Image="128" ImageSize="4053656" />
+    <Page Image="129" ImageSize="3737430" />
+    <Page Image="130" ImageSize="3746862" />
+    <Page Image="131" ImageSize="4274425" />
+    <Page Image="132" ImageSize="4153396" />
+    <Page Image="133" ImageSize="3995941" />
+    <Page Image="134" ImageSize="4053841" />
+    <Page Image="135" ImageSize="3693275" />
+    <Page Image="136" ImageSize="4353815" />
+    <Page Image="137" ImageSize="4124076" />
+    <Page Image="138" ImageSize="4067838" />
+    <Page Image="139" ImageSize="3775793" />
+    <Page Image="140" ImageSize="4167660" />
+    <Page Image="141" ImageSize="4123932" />
+    <Page Image="142" ImageSize="3879614" />
+    <Page Image="143" ImageSize="3738913" />
+    <Page Image="144" ImageSize="4127458" />
+    <Page Image="145" ImageSize="1291984" />
+    <Page Image="146" ImageSize="3583220" />
+    <Page Image="147" ImageSize="3562423" />
+    <Page Image="148" ImageSize="2453341" />
+    <Page Image="149" ImageSize="2525516" />
+    <Page Image="150" ImageSize="3861308" />
+    <Page Image="151" ImageSize="3719006" />
+    <Page Image="152" ImageSize="3387628" />
+    <Page Image="153" ImageSize="3605274" />
+    <Page Image="154" ImageSize="4261446" />
+    <Page Image="155" ImageSize="3852068" />
+    <Page Image="156" ImageSize="3925070" />
+    <Page Image="157" ImageSize="4323194" />
+    <Page Image="158" ImageSize="3115446" />
+    <Page Image="159" ImageSize="3084312" />
+    <Page Image="160" ImageSize="3625425" />
+    <Page Image="161" ImageSize="3676958" />
+    <Page Image="162" ImageSize="1150048" />
+    <Page Image="163" ImageSize="3441939" />
+    <Page Image="164" ImageSize="3782327" />
+    <Page Image="165" ImageSize="3733050" />
+    <Page Image="166" ImageSize="4200133" />
+    <Page Image="167" ImageSize="3243585" />
+    <Page Image="168" ImageSize="3552684" />
+    <Page Image="169" ImageSize="3731883" />
+    <Page Image="170" ImageSize="3558345" />
+    <Page Image="171" ImageSize="3436486" />
+    <Page Image="172" ImageSize="3911206" />
+    <Page Image="173" ImageSize="3780666" />
+    <Page Image="174" ImageSize="3718343" />
+    <Page Image="175" ImageSize="3633378" />
+    <Page Image="176" ImageSize="3360510" />
+    <Page Image="177" ImageSize="3539855" />
+    <Page Image="178" ImageSize="3111903" />
+    <Page Image="179" ImageSize="1306856" />
+    <Page Image="180" ImageSize="3516002" />
+    <Page Image="181" ImageSize="3709936" />
+    <Page Image="182" ImageSize="3587216" />
+    <Page Image="183" ImageSize="3913664" />
+    <Page Image="184" ImageSize="3220792" />
+    <Page Image="185" ImageSize="3713994" />
+    <Page Image="186" ImageSize="3415664" />
+    <Page Image="187" ImageSize="3487769" />
+    <Page Image="188" ImageSize="3530478" />
+    <Page Image="189" ImageSize="4179148" />
+    <Page Image="190" ImageSize="3498343" />
+    <Page Image="191" ImageSize="4070351" />
+    <Page Image="192" ImageSize="3385873" />
+    <Page Image="193" ImageSize="3543514" />
+    <Page Image="194" ImageSize="1312329" />
+    <Page Image="195" ImageSize="3593934" />
+    <Page Image="196" ImageSize="3129658" />
+    <Page Image="197" ImageSize="3657209" />
+    <Page Image="198" ImageSize="3631178" />
+    <Page Image="199" ImageSize="3416588" />
+    <Page Image="200" ImageSize="3544855" />
+    <Page Image="201" ImageSize="3174351" />
+    <Page Image="202" ImageSize="3335048" />
+    <Page Image="203" ImageSize="3888991" />
+    <Page Image="204" ImageSize="3704272" />
+    <Page Image="205" ImageSize="3225442" />
+    <Page Image="206" ImageSize="2988665" />
+    <Page Image="207" ImageSize="2844212" />
+    <Page Image="208" ImageSize="3454470" />
+    <Page Image="209" ImageSize="2835371" />
+    <Page Image="210" ImageSize="2901570" />
+    <Page Image="211" ImageSize="2886368" />
+    <Page Image="212" ImageSize="2993143" />
+    <Page Image="213" ImageSize="2916246" />
+    <Page Image="214" ImageSize="2766462" />
+    <Page Image="215" ImageSize="965079" />
+    <Page Image="216" ImageSize="3338577" />
+    <Page Image="217" ImageSize="3102214" />
+    <Page Image="218" ImageSize="3009984" />
+    <Page Image="219" ImageSize="3317829" />
+    <Page Image="220" ImageSize="2473433" />
+    <Page Image="221" ImageSize="2878156" />
+    <Page Image="222" ImageSize="3071459" />
+    <Page Image="223" ImageSize="2847520" />
+    <Page Image="224" ImageSize="2816900" />
+    <Page Image="225" ImageSize="2891243" />
+    <Page Image="226" ImageSize="2897034" />
+    <Page Image="227" ImageSize="3043157" />
+    <Page Image="228" ImageSize="2772783" />
+    <Page Image="229" ImageSize="2894897" />
+    <Page Image="230" ImageSize="2583383" />
+    <Page Image="231" ImageSize="2897055" />
+    <Page Image="232" ImageSize="1144027" />
+    <Page Image="233" ImageSize="4393901" />
+    <Page Image="234" ImageSize="3361733" />
+    <Page Image="235" ImageSize="3723855" />
+    <Page Image="236" ImageSize="3794191" />
+    <Page Image="237" ImageSize="3456953" />
+    <Page Image="238" ImageSize="3750610" />
+    <Page Image="239" ImageSize="3644857" />
+    <Page Image="240" ImageSize="3833442" />
+    <Page Image="241" ImageSize="1116027" />
+    <Page Image="242" ImageSize="1490820" />
+  </Pages>
+  <Penciller>Don Lawrence,Miguel Quesada,Philip Corke</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>The Rise and Fall of the Trigan Empire</Series>
+  <Summary>The fourth omnibus of the science-fiction classic, The Rise and Fall of the Trigan Empire, collects the stories published from 1973 through to 1976.
+
+Don Lawrence's painted art continues to be a highlight of the series, and as he takes a sabbatical from the strip Miguel Quesada and Philip Corke match his impressive work with their own style.
+
+The Trigan Empire remains resilient against enemies on all fronts, from treacherous politicians, murderous Zith assassins, and alien invaders, Trigo and Janno protect the citizens of Elekton.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-18 02:48:20.  [Issue ID 955142]
+
+https://comicvine.gamespot.com/the-rise-and-fall-of-the-trigan-empire-4-volume-iv/4000-955142/</Summary>
+  <Tags>Trigo</Tags>
+  <Title>Volume IV</Title>
+  <Volume>2019</Volume>
+  <Web>https://comicvine.gamespot.com/the-rise-and-fall-of-the-trigan-empire-4-volume-iv/4000-955142/</Web>
+  <Writer>Mike Butterworth</Writer>
+  <Year>2022</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

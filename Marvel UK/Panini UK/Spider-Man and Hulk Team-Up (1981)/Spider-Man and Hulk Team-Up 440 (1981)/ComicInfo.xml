@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Daredevil,Hulk,Owl,Spider-Man</Characters>
+	<Count>32</Count>
+	<Day>12</Day>
+	<Editor>Jim Shooter</Editor>
+	<GTIN>urn:comicvine:4000-328069</GTIN>
+	<Inker>Don Perlin,Jim Novak</Inker>
+	<Letterer>Denise Wohl</Letterer>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:57:03 [Issue ID 4000-328069] urn:comicvine:4000-328069</Notes>
+	<Number>440</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="864079" Type="FrontCover"/>
+		<Page Image="1" ImageSize="771617"/>
+		<Page Image="2" ImageSize="993342"/>
+		<Page Image="3" ImageSize="952474"/>
+		<Page Image="4" ImageSize="987582"/>
+		<Page Image="5" ImageSize="930570"/>
+		<Page Image="6" ImageSize="980779"/>
+		<Page Image="7" ImageSize="892080"/>
+		<Page Image="8" ImageSize="861791"/>
+		<Page Image="9" ImageSize="876551"/>
+		<Page Image="10" ImageSize="919255"/>
+		<Page Image="11" ImageSize="1006198"/>
+		<Page Image="12" ImageSize="949982"/>
+		<Page Image="13" ImageSize="918245"/>
+		<Page Image="14" ImageSize="939766"/>
+		<Page Image="15" ImageSize="998710"/>
+		<Page Image="16" ImageSize="946499"/>
+		<Page Image="17" ImageSize="966953"/>
+		<Page Image="18" ImageSize="1002225"/>
+		<Page Image="19" ImageSize="875880"/>
+		<Page Image="20" ImageSize="780034"/>
+		<Page Image="21" ImageSize="797162"/>
+		<Page Image="22" ImageSize="821565"/>
+		<Page Image="23" ImageSize="935906"/>
+		<Page Image="24" ImageSize="872919"/>
+		<Page Image="25" ImageSize="872293"/>
+		<Page Image="26" ImageSize="795395"/>
+		<Page Image="27" ImageSize="836761"/>
+		<Page Image="28" ImageSize="1007251"/>
+		<Page Image="29" ImageSize="913565"/>
+		<Page Image="30" ImageSize="605848"/>
+		<Page Image="31" ImageSize="655069"/>
+	</Pages>
+	<Penciller>Kerry Gammill</Penciller>
+	<Publisher>Marvel UK/Panini UK</Publisher>
+	<Series>Spider-Man and Hulk Team-Up</Series>
+	<Summary>Spiderman and Daredevil in "A fluttering of Wings Most Foul!"
+
+The Hulk in "People in Glass Houses Shouldn't Hurt Hulks!</Summary>
+	<Volume>1981</Volume>
+	<Web>https://comicvine.gamespot.com/spider-man-and-hulk-team-up-440/4000-328069/</Web>
+	<Writer>Bill Mantlo,Gary Friedrich</Writer>
+	<Year>1981</Year>
+</ComicInfo>

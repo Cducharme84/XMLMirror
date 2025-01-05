@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-70374</GTIN>
+	<Inker>Andy Brase</Inker>
+	<Locations>Rel Astra</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:20:25 [Issue ID 4000-70374] urn:comicvine:4000-70374</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="854766" Type="FrontCover"/>
+		<Page Image="1" ImageSize="473586"/>
+		<Page Image="2" ImageSize="436494"/>
+		<Page Image="3" ImageSize="416153"/>
+		<Page Image="4" ImageSize="412325"/>
+		<Page Image="5" ImageSize="444644"/>
+		<Page Image="6" ImageSize="396986"/>
+		<Page Image="7" ImageSize="419867"/>
+		<Page Image="8" ImageSize="421478"/>
+		<Page Image="9" ImageSize="493153"/>
+		<Page Image="10" ImageSize="408474"/>
+		<Page Image="11" ImageSize="411607"/>
+		<Page Image="12" ImageSize="406353"/>
+		<Page Image="13" ImageSize="369770"/>
+		<Page Image="14" ImageSize="356774"/>
+		<Page Image="15" ImageSize="421526"/>
+		<Page Image="16" ImageSize="416276"/>
+		<Page Image="17" ImageSize="418580"/>
+		<Page Image="18" ImageSize="424656"/>
+		<Page Image="19" ImageSize="410950"/>
+		<Page Image="20" ImageSize="407462"/>
+		<Page Image="21" ImageSize="402100"/>
+		<Page Image="22" ImageSize="394250"/>
+		<Page Image="23" ImageSize="351413"/>
+	</Pages>
+	<Publisher>Kenzer and Company</Publisher>
+	<Series>Dungeons And Dragons: In The Shadow Of Dragons</Series>
+	<Summary>https://comicvine.gamespot.com/dungeons-and-dragons-in-the-shadow-of-dragons-2-pa/4000-70374/</Summary>
+	<Tags>Rel Astra</Tags>
+	<Title>Part 2: In the Belly of the Lone Heath</Title>
+	<Volume>2001</Volume>
+	<Web>https://comicvine.gamespot.com/dungeons-and-dragons-in-the-shadow-of-dragons-2-pa/4000-70374/</Web>
+	<Year>2001</Year>
+</ComicInfo>

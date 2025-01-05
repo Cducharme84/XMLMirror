@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Rroo,Dorgon,Moak,Senneith</Characters>
+  <Colorist>Ellie Wright,Ellie Wright</Colorist>
+  <Day>8</Day>
+  <Editor>Nate Cosby</Editor>
+  <GTIN>urn:comicvine:4000-975991</GTIN>
+  <Inker>Emiliana Pinna,Emiliana Pinna</Inker>
+  <Letterer>Jeff Eckleberry,Jeff Eckleberry</Letterer>
+  <Locations>Mars,Helium</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:33:04 [Issue ID 4000-975991] urn:comicvine:4000-975991
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 20:37:35. [Issue ID 2502174]</Notes>
+  <Number>1</Number>
+  <PageCount>184</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="6654876" Type="FrontCover" />
+    <Page Image="1" ImageSize="2694520" />
+    <Page Image="2" ImageSize="5497147" />
+    <Page Image="3" ImageSize="3130957" />
+    <Page Image="4" ImageSize="3277107" />
+    <Page Image="5" ImageSize="6432185" />
+    <Page Image="6" ImageSize="5472815" />
+    <Page Image="7" ImageSize="5602955" />
+    <Page Image="8" ImageSize="4614356" />
+    <Page Image="9" ImageSize="4867343" />
+    <Page Image="10" ImageSize="4764362" />
+    <Page Image="11" ImageSize="3880012" />
+    <Page Image="12" ImageSize="4825607" />
+    <Page Image="13" ImageSize="5509666" />
+    <Page Image="14" ImageSize="4799758" />
+    <Page Image="15" ImageSize="5399987" />
+    <Page Image="16" ImageSize="5702838" />
+    <Page Image="17" ImageSize="4718454" />
+    <Page Image="18" ImageSize="4394314" />
+    <Page Image="19" ImageSize="4686900" />
+    <Page Image="20" ImageSize="3949134" />
+    <Page Image="21" ImageSize="4159370" />
+    <Page Image="22" ImageSize="3904682" />
+    <Page Image="23" ImageSize="3638756" />
+    <Page Image="24" ImageSize="3257513" />
+    <Page Image="25" ImageSize="4410390" />
+    <Page Image="26" ImageSize="4627401" />
+    <Page Image="27" ImageSize="4152267" />
+    <Page Image="28" ImageSize="3174146" />
+    <Page Image="29" ImageSize="6317352" />
+    <Page Image="30" ImageSize="4923985" />
+    <Page Image="31" ImageSize="4814996" />
+    <Page Image="32" ImageSize="5072162" />
+    <Page Image="33" ImageSize="4826853" />
+    <Page Image="34" ImageSize="5888799" />
+    <Page Image="35" ImageSize="4250397" />
+    <Page Image="36" ImageSize="4692172" />
+    <Page Image="37" ImageSize="5630486" />
+    <Page Image="38" ImageSize="5685856" />
+    <Page Image="39" ImageSize="4895102" />
+    <Page Image="40" ImageSize="4721325" />
+    <Page Image="41" ImageSize="6212151" />
+    <Page Image="42" ImageSize="4720718" />
+    <Page Image="43" ImageSize="4181205" />
+    <Page Image="44" ImageSize="4348118" />
+    <Page Image="45" ImageSize="4458949" />
+    <Page Image="46" ImageSize="4287426" />
+    <Page Image="47" ImageSize="5267446" />
+    <Page Image="48" ImageSize="5069073" />
+    <Page Image="49" ImageSize="5474775" />
+    <Page Image="50" ImageSize="5654465" />
+    <Page Image="51" ImageSize="5451098" />
+    <Page Image="52" ImageSize="3193948" />
+    <Page Image="53" ImageSize="4903669" />
+    <Page Image="54" ImageSize="5468422" />
+    <Page Image="55" ImageSize="5566578" />
+    <Page Image="56" ImageSize="5546860" />
+    <Page Image="57" ImageSize="6184512" />
+    <Page Image="58" ImageSize="6040818" />
+    <Page Image="59" ImageSize="6455609" />
+    <Page Image="60" ImageSize="6331157" />
+    <Page Image="61" ImageSize="5580143" />
+    <Page Image="62" ImageSize="6098351" />
+    <Page Image="63" ImageSize="6964941" />
+    <Page Image="64" ImageSize="6371265" />
+    <Page Image="65" ImageSize="6513623" />
+    <Page Image="66" ImageSize="6407374" />
+    <Page Image="67" ImageSize="5915057" />
+    <Page Image="68" ImageSize="4860529" />
+    <Page Image="69" ImageSize="5026922" />
+    <Page Image="70" ImageSize="5413157" />
+    <Page Image="71" ImageSize="5658751" />
+    <Page Image="72" ImageSize="6628476" />
+    <Page Image="73" ImageSize="5061955" />
+    <Page Image="74" ImageSize="6659659" />
+    <Page Image="75" ImageSize="11088914" />
+    <Page Image="76" ImageSize="3301492" />
+    <Page Image="77" ImageSize="2797393" />
+    <Page Image="78" ImageSize="5080512" />
+    <Page Image="79" ImageSize="7541981" />
+    <Page Image="80" ImageSize="5500123" />
+    <Page Image="81" ImageSize="6075059" />
+    <Page Image="82" ImageSize="5129174" />
+    <Page Image="83" ImageSize="5978642" />
+    <Page Image="84" ImageSize="6453056" />
+    <Page Image="85" ImageSize="5866535" />
+    <Page Image="86" ImageSize="5221280" />
+    <Page Image="87" ImageSize="5338694" />
+    <Page Image="88" ImageSize="5242999" />
+    <Page Image="89" ImageSize="5048765" />
+    <Page Image="90" ImageSize="3525770" />
+    <Page Image="91" ImageSize="5052589" />
+    <Page Image="92" ImageSize="4877863" />
+    <Page Image="93" ImageSize="5510073" />
+    <Page Image="94" ImageSize="7550174" />
+    <Page Image="95" ImageSize="6625058" />
+    <Page Image="96" ImageSize="4195410" />
+    <Page Image="97" ImageSize="5705149" />
+    <Page Image="98" ImageSize="5997452" />
+    <Page Image="99" ImageSize="3224368" />
+    <Page Image="100" ImageSize="3520322" />
+    <Page Image="101" ImageSize="5305005" />
+    <Page Image="102" ImageSize="5142521" />
+    <Page Image="103" ImageSize="5082872" />
+    <Page Image="104" ImageSize="5438430" />
+    <Page Image="105" ImageSize="5313085" />
+    <Page Image="106" ImageSize="4102055" />
+    <Page Image="107" ImageSize="4456742" />
+    <Page Image="108" ImageSize="4863241" />
+    <Page Image="109" ImageSize="5003075" />
+    <Page Image="110" ImageSize="5289642" />
+    <Page Image="111" ImageSize="4525032" />
+    <Page Image="112" ImageSize="3935646" />
+    <Page Image="113" ImageSize="5499102" />
+    <Page Image="114" ImageSize="4696462" />
+    <Page Image="115" ImageSize="6302952" />
+    <Page Image="116" ImageSize="5386970" />
+    <Page Image="117" ImageSize="5420340" />
+    <Page Image="118" ImageSize="5502083" />
+    <Page Image="119" ImageSize="5202184" />
+    <Page Image="120" ImageSize="5990710" />
+    <Page Image="121" ImageSize="5455642" />
+    <Page Image="122" ImageSize="6412890" />
+    <Page Image="123" ImageSize="3215836" />
+    <Page Image="124" ImageSize="5386236" />
+    <Page Image="125" ImageSize="5965515" />
+    <Page Image="126" ImageSize="5006890" />
+    <Page Image="127" ImageSize="7067132" />
+    <Page Image="128" ImageSize="6205358" />
+    <Page Image="129" ImageSize="4831864" />
+    <Page Image="130" ImageSize="5744389" />
+    <Page Image="131" ImageSize="5844583" />
+    <Page Image="132" ImageSize="5534121" />
+    <Page Image="133" ImageSize="6136309" />
+    <Page Image="134" ImageSize="5637916" />
+    <Page Image="135" ImageSize="6593929" />
+    <Page Image="136" ImageSize="5294341" />
+    <Page Image="137" ImageSize="5402310" />
+    <Page Image="138" ImageSize="6220088" />
+    <Page Image="139" ImageSize="5734284" />
+    <Page Image="140" ImageSize="5766685" />
+    <Page Image="141" ImageSize="4956781" />
+    <Page Image="142" ImageSize="5224045" />
+    <Page Image="143" ImageSize="6733430" />
+    <Page Image="144" ImageSize="6766991" />
+    <Page Image="145" ImageSize="6043899" />
+    <Page Image="146" ImageSize="6084981" />
+    <Page Image="147" ImageSize="3151341" />
+    <Page Image="148" ImageSize="9070148" />
+    <Page Image="149" ImageSize="4022646" />
+    <Page Image="150" ImageSize="5076307" />
+    <Page Image="151" ImageSize="2492232" />
+    <Page Image="152" ImageSize="3678702" />
+    <Page Image="153" ImageSize="6928319" />
+    <Page Image="154" ImageSize="1749048" />
+    <Page Image="155" ImageSize="4540931" />
+    <Page Image="156" ImageSize="3439024" />
+    <Page Image="157" ImageSize="5760932" />
+    <Page Image="158" ImageSize="4217607" />
+    <Page Image="159" ImageSize="5730115" />
+    <Page Image="160" ImageSize="5382992" />
+    <Page Image="161" ImageSize="2571627" />
+    <Page Image="162" ImageSize="4124198" />
+    <Page Image="163" ImageSize="2236053" />
+    <Page Image="164" ImageSize="6042675" />
+    <Page Image="165" ImageSize="3969409" />
+    <Page Image="166" ImageSize="2470516" />
+    <Page Image="167" ImageSize="2905381" />
+    <Page Image="168" ImageSize="5813445" />
+    <Page Image="169" ImageSize="5406136" />
+    <Page Image="170" ImageSize="6051973" />
+    <Page Image="171" ImageSize="2823965" />
+    <Page Image="172" ImageSize="5955648" />
+    <Page Image="173" ImageSize="2468883" />
+    <Page Image="174" ImageSize="2965825" />
+    <Page Image="175" ImageSize="5179250" />
+    <Page Image="176" ImageSize="3200191" />
+    <Page Image="177" ImageSize="4044947" />
+    <Page Image="178" ImageSize="3005278" />
+    <Page Image="179" ImageSize="5453947" />
+    <Page Image="180" ImageSize="4248092" />
+    <Page Image="181" ImageSize="2686931" />
+    <Page Image="182" ImageSize="3456193" />
+    <Page Image="183" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Emiliana Pinna,Emiliana Pinna</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>Dejah Thoris</Series>
+  <Summary>Aided by Moak and his spiders, Senneith take over Helium.</Summary>
+  <Tags>Hudd,Dejah Thoris,Red Martians,Rroo,King Moak,Mars,Tharks,Cor,White Apes,Senneith,Helium,Thoats,Dwar Dorgon,Kaldanes</Tags>
+  <Teams>Red Martians,Kaldanes,Tharks,White Apes,Thoats</Teams>
+  <Volume>2023</Volume>
+  <Web>https://comicvine.gamespot.com/dejah-thoris-1/4000-975991/</Web>
+  <Writer>Chuck Brown,Chuck Brown</Writer>
+  <Year>2023</Year>
+  <Count>6</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+  <AgeRating>Rated Teen+</AgeRating>
+</ComicInfo>

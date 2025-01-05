@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Mai Murasaki,Tedashi Nagawa,Akane Nakiko</Characters>
+  <Count>5</Count>
+  <Day>1</Day>
+  <Editor>Roger Lee</Editor>
+  <GTIN>urn:comicvine:4000-155050</GTIN>
+  <Inker>Alvin Lee,Angelo Tsang,Arnold Tsang,Shane Law</Inker>
+  <Letterer>Simon Yeung</Letterer>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:15:05 [Issue ID 4000-155050] urn:comicvine:4000-155050
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 12:21:34. [Issue ID 1670607]</Notes>
+  <Number>½</Number>
+  <PageCount>14</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1519" ImageSize="470258" ImageWidth="979" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1522" ImageSize="377643" ImageWidth="977" />
+    <Page Image="2" ImageHeight="1516" ImageSize="378813" ImageWidth="973" />
+    <Page Image="3" ImageHeight="1514" ImageSize="497502" ImageWidth="973" />
+    <Page Image="4" ImageHeight="1518" ImageSize="437887" ImageWidth="976" />
+    <Page Image="5" ImageHeight="1518" ImageSize="440139" ImageWidth="968" />
+    <Page Image="6" ImageHeight="1519" ImageSize="547881" ImageWidth="978" />
+    <Page Image="7" ImageHeight="1520" ImageSize="435612" ImageWidth="976" />
+    <Page Image="8" ImageHeight="1523" ImageSize="1024165" ImageWidth="1971" />
+    <Page Image="9" ImageHeight="1519" ImageSize="462140" ImageWidth="971" />
+    <Page Image="10" ImageHeight="1520" ImageSize="458395" ImageWidth="976" />
+    <Page Image="11" ImageHeight="1520" ImageSize="408299" ImageWidth="974" />
+    <Page Image="12" ImageHeight="1521" ImageSize="514432" ImageWidth="977" />
+    <Page Image="13" ImageSize="61643" />
+  </Pages>
+  <Penciller>Angelo Tsang,Shane Law</Penciller>
+  <Publisher>Panini Deutschland</Publisher>
+  <Series>Darkminds</Series>
+  <Title>Electric Dreams</Title>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/darkminds-1-2-electric-dreams/4000-155050/</Web>
+  <Writer>Ken Siu-Chong</Writer>
+  <Year>1999</Year>
+  <LanguageISO>de</LanguageISO>
+</ComicInfo>

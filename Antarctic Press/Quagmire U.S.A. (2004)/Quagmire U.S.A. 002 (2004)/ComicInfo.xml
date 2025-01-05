@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Aloysius,Anna Feeple,Kassy,Mimi Masters,Ricky Feeple,Tomorrow Girl,Zetra 2</Characters>
+	<Count>6</Count>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-306890</GTIN>
+	<Genre>Action</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-23T14:30:41 [Issue ID 4000-306890] urn:comicvine:4000-306890</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2025" ImageHeight="3150" ImageSize="2155301" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1756" ImageHeight="2488" ImageSize="804571"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1756" ImageHeight="2488" ImageSize="1367514"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1756" ImageHeight="2488" ImageSize="1296494"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1756" ImageHeight="2488" ImageSize="1314643"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1756" ImageHeight="2488" ImageSize="1366749"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1756" ImageHeight="2488" ImageSize="1221871"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1756" ImageHeight="2488" ImageSize="1551029"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1756" ImageHeight="2488" ImageSize="1453449"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1756" ImageHeight="2488" ImageSize="1304862"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1756" ImageHeight="2488" ImageSize="1034244"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1756" ImageHeight="2488" ImageSize="1076956"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1756" ImageHeight="2488" ImageSize="1096400"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1756" ImageHeight="2488" ImageSize="1318067"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1756" ImageHeight="2488" ImageSize="1134297"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1756" ImageHeight="2488" ImageSize="1307178"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1756" ImageHeight="2488" ImageSize="1994023"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1756" ImageHeight="2488" ImageSize="1392211"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1756" ImageHeight="2488" ImageSize="1180666"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1756" ImageHeight="2488" ImageSize="1295676"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1756" ImageHeight="2488" ImageSize="1128518"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1756" ImageHeight="2488" ImageSize="1379150"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1756" ImageHeight="2488" ImageSize="1389454"/>
+		<Page Image="23" ImageSize="1231450"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Quagmire U.S.A.</Series>
+	<Summary>Trapped in a far-off dimension, Ricky Feeple sends a fairy with a dire message. Unfortunately, Bento obsessively trains to learn the Ninja Fist, Kassy is buried in her dangerous transformation chamber experiments, and Jeremy and Asrial have their hands full disciplining them all! The bedlam continues in the world of ninjas, aliens, and love.</Summary>
+	<Title>Fairy Quite Contrary</Title>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/quagmire-usa-2-fairy-quite-contrary/4000-306890/</Web>
+	<Year>2004</Year>
+</ComicInfo>

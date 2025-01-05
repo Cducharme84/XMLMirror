@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>John Hunt</Colorist>
+	<Day>30</Day>
+	<Editor>Andy Schmidt</Editor>
+	<GTIN>urn:comicvine:4000-548834</GTIN>
+	<Inker>Ken Perry</Inker>
+	<Letterer>Devon Wong</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:12:14 [Issue ID 4000-548834] urn:comicvine:4000-548834</Notes>
+	<Number>3</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="694884" Type="FrontCover"/>
+		<Page Image="1" ImageSize="2604528"/>
+		<Page Image="2" ImageSize="1497180"/>
+		<Page Image="3" ImageSize="1459715"/>
+		<Page Image="4" ImageSize="1502942"/>
+		<Page Image="5" ImageSize="1194361"/>
+		<Page Image="6" ImageSize="1582527"/>
+		<Page Image="7" ImageSize="1446655"/>
+		<Page Image="8" ImageSize="1626340"/>
+		<Page Image="9" ImageSize="1675593"/>
+		<Page Image="10" ImageSize="1653065"/>
+		<Page Image="11" ImageSize="1180607"/>
+		<Page Image="12" ImageSize="1504340"/>
+		<Page Image="13" ImageSize="1446068"/>
+		<Page Image="14" ImageSize="1169141"/>
+		<Page Image="15" ImageSize="1471173"/>
+		<Page Image="16" ImageSize="1059396"/>
+		<Page Image="17" ImageSize="1548138"/>
+		<Page Image="18" ImageSize="1341671"/>
+		<Page Image="19" ImageSize="1525873"/>
+		<Page Image="20" ImageSize="1612080"/>
+		<Page Image="21" ImageSize="1204389"/>
+		<Page Image="22" ImageSize="3730182"/>
+		<Page Image="23" ImageSize="1093530"/>
+		<Page Image="24" ImageSize="3203287"/>
+		<Page Image="25" ImageSize="2028664"/>
+		<Page Image="26" ImageSize="1607272"/>
+		<Page Image="27" ImageSize="132240"/>
+	</Pages>
+	<Penciller>Ken Perry</Penciller>
+	<Publisher>Comics Experience</Publisher>
+	<Series>Wretched Things</Series>
+	<Summary>It was written in blood by the rat kings, woven in silk by the spider sages, recited in verse by the ancient warlords of the centipedes. The Vermin shall inherit the Earth.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-07 13:13:04.  [Issue ID 548834]
+
+https://comicvine.gamespot.com/wretched-things-3/4000-548834/</Summary>
+	<Volume>2016</Volume>
+	<Web>https://comicvine.gamespot.com/wretched-things-3/4000-548834/</Web>
+	<Writer>Devon Wong</Writer>
+	<Year>2016</Year>
+</ComicInfo>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Christine,Des,Elisa,Maria,Roshan Masoud,Shaky</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>12</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-425344</GTIN>
+	<Inker>Fernando Melek,Lee Townsend</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>Orkney Islands</Locations>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:41:23 [Issue ID 4000-425344] urn:comicvine:4000-425344</Notes>
+	<Number>19</Number>
+	<PageCount>3</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="338553" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="821" ImageSize="286703"/>
+		<Page Image="2" ImageSize="292659"/>
+	</Pages>
+	<Penciller>Fernando Melek</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital) (JK-Empire)</ScanInformation>
+	<Series>Crossed: Wish You Were Here Interlude</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-19-episode-19/4000-425344/</Summary>
+	<Tags>Christine,Des,Elisa,Maria,Orkney Islands,Roshan Masoud,Shaky,The Crossed</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Episode 19</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-wish-you-were-here-interlude-19-episode-19/4000-425344/</Web>
+	<Writer>Simon Spurrier</Writer>
+	<Year>2013</Year>
+</ComicInfo>

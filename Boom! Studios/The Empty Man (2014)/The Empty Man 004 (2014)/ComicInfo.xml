@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>6</Count>
+  <Country>US</Country>
+  <Format>Mini-Series</Format>
+  <GTIN>urn:comicvine:4000-1256214</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:32:24 [Issue ID 4000-1256214] urn:comicvine:4000-1256214 urn:grandcomicsdatabase:issue/1256214
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 06:06:14. [Issue ID 1256214]</Notes>
+  <Number>4</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1939050" Type="FrontCover" />
+    <Page Image="1" ImageSize="1190571" />
+    <Page Image="2" ImageSize="1331672" />
+    <Page Image="3" ImageSize="1356226" />
+    <Page Image="4" ImageSize="1293270" />
+    <Page Image="5" ImageSize="2769120" />
+    <Page Image="6" ImageSize="1939397" />
+    <Page Image="7" ImageSize="1581529" />
+    <Page Image="8" ImageSize="1360081" />
+    <Page Image="9" ImageSize="1812461" />
+    <Page Image="10" ImageSize="1377807" />
+    <Page Image="11" ImageSize="1828147" />
+    <Page Image="12" ImageSize="2253126" />
+    <Page Image="13" ImageSize="2457065" />
+    <Page Image="14" ImageSize="1852299" />
+    <Page Image="15" ImageSize="2035476" />
+    <Page Image="16" ImageSize="1735773" />
+    <Page Image="17" ImageSize="1452232" />
+    <Page Image="18" ImageSize="1225686" />
+    <Page Image="19" ImageSize="1604511" />
+    <Page Image="20" ImageSize="1910554" />
+    <Page Image="21" ImageSize="2022450" />
+    <Page Image="22" ImageSize="1444149" />
+    <Page Image="23" ImageSize="1276263" />
+    <Page Image="24" ImageSize="1809470" />
+    <Page Image="25" ImageSize="1262697" />
+    <Page Image="26" ImageSize="2477096" />
+    <Page Image="27" ImageSize="2130083" />
+  </Pages>
+  <Publisher>Boom! Studios</Publisher>
+  <Series>The Empty Man</Series>
+  <Volume>2014</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1256214/</Web>
+  <Year>2014</Year>
+</ComicInfo>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <Day>19</Day>
+  <GTIN>urn:comicvine:4000-871811</GTIN>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:08:43 [Issue ID 4000-871811] urn:comicvine:4000-871811
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 01:21:52. [Issue ID 2255525]</Notes>
+  <Number>1</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1566883" Type="FrontCover" />
+    <Page Image="1" ImageSize="599632" />
+    <Page Image="2" ImageSize="1886696" />
+    <Page Image="3" ImageSize="1547899" />
+    <Page Image="4" ImageSize="1763229" />
+    <Page Image="5" ImageSize="1656199" />
+    <Page Image="6" ImageSize="1734720" />
+    <Page Image="7" ImageSize="1494539" />
+    <Page Image="8" ImageSize="1613069" />
+    <Page Image="9" ImageSize="1518685" />
+    <Page Image="10" ImageSize="1684698" />
+    <Page Image="11" ImageSize="1809770" />
+    <Page Image="12" ImageSize="1643589" />
+    <Page Image="13" ImageSize="1524718" />
+    <Page Image="14" ImageSize="1584472" />
+    <Page Image="15" ImageSize="1708108" />
+    <Page Image="16" ImageSize="2033795" />
+    <Page Image="17" ImageSize="1972986" />
+    <Page Image="18" ImageSize="1460758" />
+    <Page Image="19" ImageSize="1451276" />
+    <Page Image="20" ImageSize="1735564" />
+    <Page Image="21" ImageSize="1601086" />
+    <Page Image="22" ImageSize="1640493" />
+    <Page Image="23" ImageSize="1529119" />
+    <Page Image="24" ImageSize="1467545" />
+  </Pages>
+  <Publisher>Antarctic Press</Publisher>
+  <Series>Valkyrie Saviors</Series>
+  <Summary>An epic new tale in the Patriotika-verse, because some things in it are too big to contain in one series! College students by day, Kaiju-size Valkyrie warriors by night! Larissa, Valkyrie of the Tides, is the only one of Freja's forces who remains to fight the evil Zodiac gods! Can she find new recruits in time to stop them? Inspired by various manga and anime, Valkyrie Saviors has action, Norse Mythology, beautiful warrior maidens, comedy, and more!"
+
+*List of covers and their creators:*
+| Cover | Name                 | Creator(s)        | Sidebar Location |
+|-------|----------------------|-------------------|------------------|
+| Reg   | Regular Cover        | Gian Carlo Bernal | 1                |
+| Var   | Virgin Variant Cover | Kael Ngu          | 2                |</Summary>
+  <Volume>2020</Volume>
+  <Web>https://comicvine.gamespot.com/valkyrie-saviors-1/4000-871811/</Web>
+  <Writer>Ron Z</Writer>
+  <Year>2020</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

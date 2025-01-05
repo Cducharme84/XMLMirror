@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Format>Graphic Novel</Format>
+  <Genre>Anthology,Aborignal</Genre>
+  <Imprint>Comics on Country</Imprint>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-15T21:19:35</Notes>
+  <Number>1</Number>
+  <PageCount>49</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3508" ImageSize="722149" ImageWidth="2480" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3508" ImageSize="34183" ImageWidth="2480" />
+    <Page DoublePage="False" Image="2" ImageHeight="3508" ImageSize="365818" ImageWidth="2480" />
+    <Page DoublePage="False" Image="3" ImageHeight="3508" ImageSize="650957" ImageWidth="2480" />
+    <Page DoublePage="False" Image="4" ImageHeight="3508" ImageSize="645374" ImageWidth="2480" />
+    <Page DoublePage="False" Image="5" ImageHeight="3508" ImageSize="249837" ImageWidth="2480" />
+    <Page DoublePage="False" Image="6" ImageHeight="3508" ImageSize="1144268" ImageWidth="2480" />
+    <Page DoublePage="False" Image="7" ImageHeight="3508" ImageSize="834287" ImageWidth="2480" />
+    <Page DoublePage="False" Image="8" ImageHeight="3508" ImageSize="762397" ImageWidth="2480" />
+    <Page DoublePage="False" Image="9" ImageHeight="3508" ImageSize="663405" ImageWidth="2480" />
+    <Page DoublePage="False" Image="10" ImageHeight="3508" ImageSize="848084" ImageWidth="2480" />
+    <Page DoublePage="False" Image="11" ImageHeight="3508" ImageSize="660765" ImageWidth="2480" />
+    <Page DoublePage="False" Image="12" ImageHeight="3508" ImageSize="764216" ImageWidth="2480" />
+    <Page DoublePage="False" Image="13" ImageHeight="3508" ImageSize="774720" ImageWidth="2480" />
+    <Page DoublePage="False" Image="14" ImageHeight="3508" ImageSize="705414" ImageWidth="2480" />
+    <Page DoublePage="False" Image="15" ImageHeight="3508" ImageSize="694817" ImageWidth="2480" />
+    <Page DoublePage="False" Image="16" ImageHeight="3508" ImageSize="545661" ImageWidth="2480" />
+    <Page DoublePage="False" Image="17" ImageHeight="3508" ImageSize="653153" ImageWidth="2480" />
+    <Page DoublePage="False" Image="18" ImageHeight="3508" ImageSize="962275" ImageWidth="2480" />
+    <Page DoublePage="False" Image="19" ImageHeight="3508" ImageSize="616771" ImageWidth="2480" />
+    <Page DoublePage="False" Image="20" ImageHeight="3508" ImageSize="953848" ImageWidth="2480" />
+    <Page DoublePage="False" Image="21" ImageHeight="3508" ImageSize="834508" ImageWidth="2480" />
+    <Page DoublePage="False" Image="22" ImageHeight="3508" ImageSize="359840" ImageWidth="2480" />
+    <Page DoublePage="False" Image="23" ImageHeight="3508" ImageSize="532828" ImageWidth="2480" />
+    <Page DoublePage="False" Image="24" ImageHeight="3508" ImageSize="478586" ImageWidth="2480" />
+    <Page DoublePage="False" Image="25" ImageHeight="3508" ImageSize="409942" ImageWidth="2480" />
+    <Page DoublePage="False" Image="26" ImageHeight="3508" ImageSize="1277343" ImageWidth="2480" />
+    <Page DoublePage="False" Image="27" ImageHeight="3508" ImageSize="441771" ImageWidth="2480" />
+    <Page DoublePage="False" Image="28" ImageHeight="3508" ImageSize="466282" ImageWidth="2480" />
+    <Page DoublePage="False" Image="29" ImageHeight="3508" ImageSize="812590" ImageWidth="2480" />
+    <Page DoublePage="False" Image="30" ImageHeight="3508" ImageSize="400948" ImageWidth="2480" />
+    <Page DoublePage="False" Image="31" ImageHeight="3508" ImageSize="1002257" ImageWidth="2480" />
+    <Page DoublePage="False" Image="32" ImageHeight="3508" ImageSize="907856" ImageWidth="2480" />
+    <Page DoublePage="False" Image="33" ImageHeight="3508" ImageSize="779419" ImageWidth="2480" />
+    <Page DoublePage="False" Image="34" ImageHeight="3508" ImageSize="867183" ImageWidth="2480" />
+    <Page DoublePage="False" Image="35" ImageHeight="3508" ImageSize="913036" ImageWidth="2480" />
+    <Page DoublePage="False" Image="36" ImageHeight="3508" ImageSize="886996" ImageWidth="2480" />
+    <Page DoublePage="False" Image="37" ImageHeight="3508" ImageSize="1191855" ImageWidth="2480" />
+    <Page DoublePage="False" Image="38" ImageHeight="3508" ImageSize="823102" ImageWidth="2480" />
+    <Page DoublePage="False" Image="39" ImageHeight="3508" ImageSize="725334" ImageWidth="2480" />
+    <Page DoublePage="False" Image="40" ImageHeight="3508" ImageSize="450564" ImageWidth="2480" />
+    <Page DoublePage="False" Image="41" ImageHeight="3508" ImageSize="734653" ImageWidth="2480" />
+    <Page DoublePage="False" Image="42" ImageHeight="3508" ImageSize="787821" ImageWidth="2480" />
+    <Page DoublePage="False" Image="43" ImageHeight="3508" ImageSize="1142198" ImageWidth="2480" />
+    <Page DoublePage="False" Image="44" ImageHeight="3508" ImageSize="348200" ImageWidth="2480" />
+    <Page DoublePage="False" Image="45" ImageHeight="3508" ImageSize="812007" ImageWidth="2480" />
+    <Page DoublePage="False" Image="46" ImageHeight="3508" ImageSize="641896" ImageWidth="2480" />
+    <Page DoublePage="False" Image="47" ImageHeight="3508" ImageSize="570226" ImageWidth="2480" />
+    <Page DoublePage="False" Image="48" ImageHeight="3508" ImageSize="687939" ImageWidth="2480" />
+  </Pages>
+  <Publisher>Gestalt Comics</Publisher>
+  <Series>Storm Warning</Series>
+  <Volume>2021</Volume>
+  <Year>2021</Year>
+  <Count>1</Count>
+  <Summary>The storm is just the beginning… Skai receives a visit from a friend whose life is unravelling, just as a massive storm takes hold. With natural and human-made disasters surrounding them, Skai, Aiden, and those they gather close, must rely on each other to survive the catastrophic chain of events unleashed by the storm.</Summary>
+</ComicInfo>

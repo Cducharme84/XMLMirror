@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Orchid</Characters>
+  <Colorist>Dan Jackson</Colorist>
+  <Format>Collection</Format>
+  <GTIN>urn:comicvine:4000-420627</GTIN>
+  <Inker>Scott Hepburn</Inker>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:10:55 [Issue ID 4000-420627] urn:comicvine:4000-420627
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 07:28:51. [Issue ID 1133314]</Notes>
+  <Number>3</Number>
+  <PageCount>110</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="3326390" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="1962080" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="2103173" ImageWidth="1988" />
+    <Page Image="3" ImageHeight="3056" ImageSize="5775812" ImageWidth="3976" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2032821" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="947206" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="1815321" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="2049240" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="2009526" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="1497622" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="1896558" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="1846395" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="2084235" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="1926071" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="1952369" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="1810678" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="4668650" ImageWidth="3976" />
+    <Page Image="17" ImageHeight="3056" ImageSize="1977811" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="1911667" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2071661" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2131224" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="1798695" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="2031258" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2148941" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1856483" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="2000282" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="1664304" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="1786668" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="3248571" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="2512188" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="1967143" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="1844328" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="2283372" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="1744619" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="1798278" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="2179040" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="2739079" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="1881302" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1865724" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="2128217" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="1924115" ImageWidth="1988" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1839903" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="1727484" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="2062863" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="1978309" ImageWidth="1988" />
+    <Page Image="45" ImageHeight="3056" ImageSize="2008551" ImageWidth="1988" />
+    <Page Image="46" ImageHeight="3056" ImageSize="2309537" ImageWidth="1988" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1880241" ImageWidth="1988" />
+    <Page Image="48" ImageHeight="3056" ImageSize="1849787" ImageWidth="1988" />
+    <Page Image="49" ImageHeight="3056" ImageSize="4276270" ImageWidth="3976" />
+    <Page Image="50" ImageHeight="3056" ImageSize="1963054" ImageWidth="1988" />
+    <Page Image="51" ImageHeight="3056" ImageSize="1940875" ImageWidth="1988" />
+    <Page Image="52" ImageHeight="3056" ImageSize="2288186" ImageWidth="1988" />
+    <Page Image="53" ImageHeight="3056" ImageSize="2834345" ImageWidth="1988" />
+    <Page Image="54" ImageHeight="3056" ImageSize="2461531" ImageWidth="1988" />
+    <Page Image="55" ImageHeight="3056" ImageSize="2288437" ImageWidth="1988" />
+    <Page Image="56" ImageHeight="3056" ImageSize="2202907" ImageWidth="1988" />
+    <Page Image="57" ImageHeight="3056" ImageSize="2481357" ImageWidth="1988" />
+    <Page Image="58" ImageHeight="3056" ImageSize="2280034" ImageWidth="1988" />
+    <Page Image="59" ImageHeight="3056" ImageSize="1870368" ImageWidth="1988" />
+    <Page Image="60" ImageHeight="3056" ImageSize="1977997" ImageWidth="1988" />
+    <Page Image="61" ImageHeight="3056" ImageSize="1558160" ImageWidth="1988" />
+    <Page Image="62" ImageHeight="3056" ImageSize="2020116" ImageWidth="1988" />
+    <Page Image="63" ImageHeight="3056" ImageSize="2121357" ImageWidth="1988" />
+    <Page Image="64" ImageHeight="3056" ImageSize="1611777" ImageWidth="1988" />
+    <Page Image="65" ImageHeight="3056" ImageSize="1579033" ImageWidth="1988" />
+    <Page Image="66" ImageHeight="3056" ImageSize="1947970" ImageWidth="1988" />
+    <Page Image="67" ImageHeight="3056" ImageSize="2226839" ImageWidth="1988" />
+    <Page Image="68" ImageHeight="3056" ImageSize="1912583" ImageWidth="1988" />
+    <Page Image="69" ImageHeight="3056" ImageSize="2061685" ImageWidth="1988" />
+    <Page Image="70" ImageHeight="3056" ImageSize="2134629" ImageWidth="1988" />
+    <Page Image="71" ImageHeight="3056" ImageSize="2004805" ImageWidth="1988" />
+    <Page Image="72" ImageHeight="3056" ImageSize="1492097" ImageWidth="1988" />
+    <Page Image="73" ImageHeight="3056" ImageSize="1990229" ImageWidth="1988" />
+    <Page Image="74" ImageHeight="3056" ImageSize="2373289" ImageWidth="1988" />
+    <Page Image="75" ImageHeight="3056" ImageSize="2731279" ImageWidth="1988" />
+    <Page Image="76" ImageHeight="3056" ImageSize="2340138" ImageWidth="1988" />
+    <Page Image="77" ImageHeight="3056" ImageSize="1688478" ImageWidth="1988" />
+    <Page Image="78" ImageHeight="3056" ImageSize="2154822" ImageWidth="1988" />
+    <Page Image="79" ImageHeight="3056" ImageSize="2883172" ImageWidth="1988" />
+    <Page Image="80" ImageHeight="3056" ImageSize="3307447" ImageWidth="1988" />
+    <Page Image="81" ImageHeight="3056" ImageSize="2462376" ImageWidth="1988" />
+    <Page Image="82" ImageHeight="3056" ImageSize="2316568" ImageWidth="1988" />
+    <Page Image="83" ImageHeight="3056" ImageSize="2454732" ImageWidth="1988" />
+    <Page Image="84" ImageHeight="3056" ImageSize="2185220" ImageWidth="1988" />
+    <Page Image="85" ImageHeight="3056" ImageSize="2028580" ImageWidth="1988" />
+    <Page Image="86" ImageHeight="3056" ImageSize="1714240" ImageWidth="1988" />
+    <Page Image="87" ImageHeight="3056" ImageSize="2029932" ImageWidth="1988" />
+    <Page Image="88" ImageHeight="3056" ImageSize="1969395" ImageWidth="1988" />
+    <Page Image="89" ImageHeight="3056" ImageSize="1986948" ImageWidth="1988" />
+    <Page Image="90" ImageHeight="3056" ImageSize="1791256" ImageWidth="1988" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1915387" ImageWidth="1988" />
+    <Page Image="92" ImageHeight="3056" ImageSize="1845136" ImageWidth="1988" />
+    <Page Image="93" ImageHeight="3056" ImageSize="2802652" ImageWidth="1988" />
+    <Page Image="94" ImageHeight="3056" ImageSize="3984691" ImageWidth="3976" />
+    <Page Image="95" ImageHeight="3056" ImageSize="2091965" ImageWidth="1988" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1897395" ImageWidth="1988" />
+    <Page Image="97" ImageHeight="3056" ImageSize="2193972" ImageWidth="1988" />
+    <Page Image="98" ImageHeight="3056" ImageSize="2162798" ImageWidth="1988" />
+    <Page Image="99" ImageHeight="3056" ImageSize="2012962" ImageWidth="1988" />
+    <Page Image="100" ImageHeight="3056" ImageSize="2266824" ImageWidth="1988" />
+    <Page Image="101" ImageHeight="3056" ImageSize="4408729" ImageWidth="3976" />
+    <Page Image="102" ImageHeight="3056" ImageSize="2253826" ImageWidth="1988" />
+    <Page Image="103" ImageHeight="3056" ImageSize="2079038" ImageWidth="1988" />
+    <Page Image="104" ImageHeight="3056" ImageSize="1711165" ImageWidth="1988" />
+    <Page Image="105" ImageHeight="3056" ImageSize="2330123" ImageWidth="1988" />
+    <Page Image="106" ImageHeight="3056" ImageSize="1999468" ImageWidth="1988" />
+    <Page Image="107" ImageHeight="3056" ImageSize="3017266" ImageWidth="1988" />
+    <Page Image="108" ImageHeight="3056" ImageSize="2518222" ImageWidth="1988" />
+    <Page Image="109" ImageSize="3045497" />
+  </Pages>
+  <Penciller>Scott Hepburn</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <ScanInformation>(digital) (The Magicians-Empire)</ScanInformation>
+  <Series>Orchid</Series>
+  <Summary>As Orchid leads her fearsome female force against the vicious monsters of a totalitarian dictator, an army of impoverished Bridge People rise against a legion of trained soldiers seeking to exterminate those deemed unfit for their cruel society. Collects issues #9-#12. The conclusion to the Orchid saga!
+
+Features download codes for the soundtrack to the series!
+
+Written and created by Tom Morello of the Nightwatchman!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-07 10:50:44.  [Issue ID 420627]
+
+https://comicvine.gamespot.com/orchid-3-vol-3/4000-420627/</Summary>
+  <Tags>Orchid</Tags>
+  <Title>Vol. 3</Title>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/orchid-3-vol-3/4000-420627/</Web>
+  <Writer>Tom Morello</Writer>
+  <Year>2013</Year>
+  <Count>3</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

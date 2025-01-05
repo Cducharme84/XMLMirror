@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>3</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <Editor>William Christensen</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-2522708</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:27:29 [Issue ID 4000-2522708] urn:comicvine:4000-2522708 urn:grandcomicsdatabase:issue/2522708
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:00:41. [Issue ID 2522708]</Notes>
+  <Number>2</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="807812" Type="FrontCover" />
+    <Page Image="1" ImageSize="893617" />
+    <Page Image="2" ImageSize="770040" />
+    <Page Image="3" ImageSize="856165" />
+    <Page Image="4" ImageSize="894868" />
+    <Page Image="5" ImageSize="876256" />
+    <Page Image="6" ImageSize="1110001" />
+    <Page Image="7" ImageSize="881422" />
+    <Page Image="8" ImageSize="900171" />
+    <Page Image="9" ImageSize="956922" />
+    <Page Image="10" ImageSize="906283" />
+    <Page Image="11" ImageSize="1925269" />
+    <Page Image="12" ImageSize="1040813" />
+    <Page Image="13" ImageSize="830352" />
+    <Page Image="14" ImageSize="1993067" />
+    <Page Image="15" ImageSize="764646" />
+    <Page Image="16" ImageSize="749242" />
+    <Page Image="17" ImageSize="785531" />
+    <Page Image="18" ImageSize="776396" />
+    <Page Image="19" ImageSize="874332" />
+    <Page Image="20" ImageSize="887581" />
+    <Page Image="21" ImageSize="815660" />
+    <Page Image="22" ImageSize="839596" />
+    <Page Image="23" ImageSize="968302" />
+    <Page Image="24" ImageSize="912927" />
+    <Page Image="25" ImageSize="1288737" />
+    <Page Image="26" ImageSize="516038" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Silent Rapture</Series>
+  <Volume>1997</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-2522708/</Web>
+  <Year>1997</Year>
+</ComicInfo>

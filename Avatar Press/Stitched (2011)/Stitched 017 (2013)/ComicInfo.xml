@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Kenji Nakamura,Kozu</Characters>
+	<Colorist>Digikore Studios</Colorist>
+	<Count>19</Count>
+	<Country>US</Country>
+	<Editor>James Kuhoric,William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-433884</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Fernando Heinz Furukawa</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Kurt Hathaway</Letterer>
+	<Locations>Harajuku District,Shinjuku,Tokyo</Locations>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:30 [Issue ID 4000-433884] urn:comicvine:4000-433884 urn:grandcomicsdatabase:issue/1161281</Notes>
+	<Number>17</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1375906" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1155800"/>
+		<Page Image="2" ImageSize="1453802"/>
+		<Page Image="3" ImageSize="1211412"/>
+		<Page Image="4" ImageSize="1265582"/>
+		<Page Image="5" ImageSize="1484583"/>
+		<Page Image="6" ImageSize="1635109"/>
+		<Page Image="7" ImageSize="1620324"/>
+		<Page Image="8" ImageSize="1516544"/>
+		<Page Image="9" ImageSize="1535714"/>
+		<Page Image="10" ImageSize="1361531"/>
+		<Page Image="11" ImageSize="1595080"/>
+		<Page Image="12" ImageSize="1752778"/>
+		<Page Image="13" ImageSize="1676826"/>
+		<Page Image="14" ImageSize="1723496"/>
+		<Page Image="15" ImageSize="1754864"/>
+		<Page Image="16" ImageSize="1917952"/>
+		<Page Image="17" ImageSize="1684297"/>
+		<Page Image="18" ImageSize="1814678"/>
+		<Page Image="19" ImageSize="1829406"/>
+		<Page Image="20" ImageSize="1400694"/>
+		<Page Image="21" ImageSize="1433730"/>
+		<Page Image="22" ImageSize="1473080"/>
+		<Page Image="23" ImageSize="1617937"/>
+		<Page Image="24" ImageSize="1512100"/>
+		<Page Image="25" ImageSize="1498647"/>
+		<Page Image="26" ImageSize="560072"/>
+	</Pages>
+	<Penciller>Fernando Heinz Furukawa</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Stitched</Series>
+	<Summary>Series is adapted from a short film written and directed by Garth Ennis.</Summary>
+	<Teams>Stitched</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-433884/</Web>
+	<Writer>Mike Wolfer</Writer>
+	<Year>2013</Year>
+</ComicInfo>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Darkchylde,Flatulence,Piece,War</Characters>
+	<Colorist>Brett Evans,Jimmy Yu</Colorist>
+	<Day>31</Day>
+	<Editor>Sarah Oates</Editor>
+	<GTIN>urn:comicvine:4000-125361</GTIN>
+	<Inker>Randy Queen,Sean Parsons</Inker>
+	<Letterer>Steve Dutro</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:01:54 [Issue ID 4000-125361] urn:comicvine:4000-125361</Notes>
+	<Number>½</Number>
+	<PageCount>17</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="399234" Type="FrontCover"/>
+		<Page Image="1" ImageSize="273871"/>
+		<Page Image="2" ImageSize="464197"/>
+		<Page Image="3" ImageSize="405904"/>
+		<Page Image="4" ImageSize="888605"/>
+		<Page Image="5" ImageSize="486298"/>
+		<Page Image="6" ImageSize="449563"/>
+		<Page Image="7" ImageSize="797782"/>
+		<Page Image="8" ImageSize="442145"/>
+		<Page Image="9" ImageSize="453459"/>
+		<Page Image="10" ImageSize="388780"/>
+		<Page Image="11" ImageSize="870471"/>
+		<Page Image="12" ImageSize="465235"/>
+		<Page Image="13" ImageSize="761733"/>
+		<Page Image="14" ImageSize="949886"/>
+		<Page Image="15" ImageSize="479375"/>
+		<Page Image="16" ImageSize="803032"/>
+	</Pages>
+	<Penciller>Randy Queen</Penciller>
+	<Publisher>Darkchylde Entertainment</Publisher>
+	<Series>Darkchylde: Redemption</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-24 21:11:58.  [Issue ID 125361]
+
+https://comicvine.gamespot.com/darkchylde-redemption-12/4000-125361/</Summary>
+	<Tags>Darkchylde,Flatulence,Piece,War</Tags>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/darkchylde-redemption-12/4000-125361/</Web>
+	<Writer>Randy Queen</Writer>
+	<Year>2000</Year>
+</ComicInfo>

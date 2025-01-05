@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Mr. Hero</Characters>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-247115</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:35 [Issue ID 4000-247115] urn:comicvine:4000-247115</Notes>
+	<Number>13</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="272790" Type="FrontCover"/>
+		<Page Image="1" ImageSize="318096"/>
+		<Page Image="2" ImageSize="563059"/>
+		<Page Image="3" ImageSize="566460"/>
+		<Page Image="4" ImageSize="527875"/>
+		<Page Image="5" ImageSize="517060"/>
+		<Page Image="6" ImageSize="396300"/>
+		<Page Image="7" ImageSize="651010"/>
+		<Page Image="8" ImageSize="671909"/>
+		<Page Image="9" ImageSize="577302"/>
+		<Page Image="10" ImageSize="627520"/>
+		<Page Image="11" ImageSize="514115"/>
+		<Page Image="12" ImageSize="467088"/>
+		<Page Image="13" ImageSize="1400948"/>
+		<Page Image="14" ImageSize="761671"/>
+		<Page Image="15" ImageSize="672558"/>
+		<Page Image="16" ImageSize="697475"/>
+		<Page Image="17" ImageSize="553340"/>
+		<Page Image="18" ImageSize="688894"/>
+		<Page Image="19" ImageSize="357154"/>
+		<Page Image="20" ImageSize="530726"/>
+		<Page Image="21" ImageSize="593990"/>
+		<Page Image="22" ImageSize="610417"/>
+		<Page Image="23" ImageSize="517886"/>
+		<Page Image="24" ImageSize="677997"/>
+		<Page Image="25" ImageSize="680589"/>
+		<Page Image="26" ImageSize="363982"/>
+		<Page Image="27" ImageSize="680081"/>
+		<Page Image="28" ImageSize="673356"/>
+		<Page Image="29" ImageSize="459335"/>
+		<Page Image="30" ImageSize="427920"/>
+		<Page Image="31" ImageSize="338175"/>
+		<Page Image="32" ImageSize="395509"/>
+		<Page Image="33" ImageSize="629086"/>
+	</Pages>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Mr. Hero the Newmatic Man</Series>
+	<Summary>https://comicvine.gamespot.com/mr-hero-the-newmatic-man-13-robotic-interlude/4000-247115/</Summary>
+	<Tags>Mr. Hero</Tags>
+	<Title>Robotic Interlude</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/mr-hero-the-newmatic-man-13-robotic-interlude/4000-247115/</Web>
+	<Year>1996</Year>
+</ComicInfo>

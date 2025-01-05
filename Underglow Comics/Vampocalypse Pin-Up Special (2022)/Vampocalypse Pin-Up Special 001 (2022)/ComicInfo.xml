@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Adults Only 18+</AgeRating>
+	<Count>1</Count>
+	<Format>One Shot</Format>
+	<Genre>Adult,Pin-Up</Genre>
+	<Inker>Gary Parkin</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-01T20:15:01</Notes>
+	<Number>1</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3916" ImageSize="1913578" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3916" ImageSize="1607730"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3916" ImageSize="1067807"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3916" ImageSize="1834791"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3916" ImageSize="1833285"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3916" ImageSize="3050829"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3916" ImageSize="1407092"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3916" ImageSize="2090109"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3916" ImageSize="1635213"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3916" ImageSize="1109079"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3916" ImageSize="1758804"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3916" ImageSize="1990190"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3916" ImageSize="1700606"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3916" ImageSize="4654159"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3916" ImageSize="1881433"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3916" ImageSize="2113490"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3916" ImageSize="1867427"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3916" ImageSize="1661988"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3916" ImageSize="1034099"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3916" ImageSize="1605141"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3916" ImageSize="944024"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3916" ImageSize="1176166"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3916" ImageSize="1871415"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3916" ImageSize="1472205"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3916" ImageSize="1627241"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3916" ImageSize="1700149"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3916" ImageSize="1847176"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3916" ImageSize="1894979"/>
+		<Page Image="28" ImageSize="1649823"/>
+	</Pages>
+	<Penciller>Gary Parkin</Penciller>
+	<Publisher>Underglow Comics</Publisher>
+	<Series>Vampocalypse Pin-Up Special</Series>
+	<Summary>Join Rachel, Katie, Leanne and Alex for this amazing collection of illustrations depicting the vampires at their NSFW best!</Summary>
+	<Volume>2022</Volume>
+	<Year>2022</Year>
+</ComicInfo>

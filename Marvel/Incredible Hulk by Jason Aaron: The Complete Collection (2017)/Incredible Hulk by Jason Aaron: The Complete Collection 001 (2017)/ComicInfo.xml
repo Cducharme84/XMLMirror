@@ -1,0 +1,431 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Amanda Von Doom,Hulk,The Vegetable,Doombots,Bruce Banner,B.R.A.I.N.,Gor</Characters>
+  <Count>1</Count>
+  <GTIN>urn:comicvine:4000-628583</GTIN>
+  <Inker>Carlos Pacheco,Dalibor Talajić,Jefte Palo,Marc Silvestri,Pasqual Ferry,Steve Dillon,Tom Raney,Whilce Portacio,Jefte Palo,Roger Bonet,Dalibor Talajić,Tom Raney,Pasqual Ferry,Steve Dillon,Allen Martinez,Don Ho,Rick Ketcham,Scott Hanna,Joe Weems,Rick Basaldua,Jay Leisten,Sal Regla</Inker>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T15:35:15 [Issue ID 4000-628583] urn:comicvine:4000-628583
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 18:50:03. [Issue ID 1742367]</Notes>
+  <Number>1</Number>
+  <PageCount>372</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1184257" Type="FrontCover" />
+    <Page Image="1" ImageSize="2090239" />
+    <Page Image="2" ImageSize="3954994" />
+    <Page Image="3" ImageSize="861394" />
+    <Page Image="4" ImageSize="1098558" />
+    <Page Image="5" ImageSize="1264102" />
+    <Page Image="6" ImageSize="1238653" />
+    <Page Image="7" ImageSize="1972965" />
+    <Page Image="8" ImageSize="3141441" />
+    <Page Image="9" ImageSize="6196501" />
+    <Page Image="10" ImageSize="2519737" />
+    <Page Image="11" ImageSize="2568685" />
+    <Page Image="12" ImageSize="5097019" />
+    <Page Image="13" ImageSize="3110216" />
+    <Page Image="14" ImageSize="2663851" />
+    <Page Image="15" ImageSize="2803384" />
+    <Page Image="16" ImageSize="2546194" />
+    <Page Image="17" ImageSize="2463841" />
+    <Page Image="18" ImageSize="2371315" />
+    <Page Image="19" ImageSize="2038838" />
+    <Page Image="20" ImageSize="2131816" />
+    <Page Image="21" ImageSize="2476045" />
+    <Page Image="22" ImageSize="2248797" />
+    <Page Image="23" ImageSize="2067816" />
+    <Page Image="24" ImageSize="2783238" />
+    <Page Image="25" ImageSize="2700993" />
+    <Page Image="26" ImageSize="2419120" />
+    <Page Image="27" ImageSize="2385244" />
+    <Page Image="28" ImageSize="2296825" />
+    <Page Image="29" ImageSize="2386616" />
+    <Page Image="30" ImageSize="2144293" />
+    <Page Image="31" ImageSize="2171023" />
+    <Page Image="32" ImageSize="2497513" />
+    <Page Image="33" ImageSize="2395403" />
+    <Page Image="34" ImageSize="1829692" />
+    <Page Image="35" ImageSize="1517841" />
+    <Page Image="36" ImageSize="1869057" />
+    <Page Image="37" ImageSize="2241597" />
+    <Page Image="38" ImageSize="2421047" />
+    <Page Image="39" ImageSize="1739834" />
+    <Page Image="40" ImageSize="2284283" />
+    <Page Image="41" ImageSize="2190130" />
+    <Page Image="42" ImageSize="2421532" />
+    <Page Image="43" ImageSize="2563126" />
+    <Page Image="44" ImageSize="1854968" />
+    <Page Image="45" ImageSize="2211480" />
+    <Page Image="46" ImageSize="1891018" />
+    <Page Image="47" ImageSize="2094136" />
+    <Page Image="48" ImageSize="2140813" />
+    <Page Image="49" ImageSize="1548858" />
+    <Page Image="50" ImageSize="2646174" />
+    <Page Image="51" ImageSize="2226286" />
+    <Page Image="52" ImageSize="3068864" />
+    <Page Image="53" ImageSize="2668464" />
+    <Page Image="54" ImageSize="3117431" />
+    <Page Image="55" ImageSize="2844359" />
+    <Page Image="56" ImageSize="2643850" />
+    <Page Image="57" ImageSize="2914196" />
+    <Page Image="58" ImageSize="2656211" />
+    <Page Image="59" ImageSize="5378577" />
+    <Page Image="60" ImageSize="2870712" />
+    <Page Image="61" ImageSize="2712622" />
+    <Page Image="62" ImageSize="2679077" />
+    <Page Image="63" ImageSize="2380743" />
+    <Page Image="64" ImageSize="2063167" />
+    <Page Image="65" ImageSize="2212039" />
+    <Page Image="66" ImageSize="2403785" />
+    <Page Image="67" ImageSize="2989424" />
+    <Page Image="68" ImageSize="2171674" />
+    <Page Image="69" ImageSize="1505480" />
+    <Page Image="70" ImageSize="2098862" />
+    <Page Image="71" ImageSize="2214486" />
+    <Page Image="72" ImageSize="2430216" />
+    <Page Image="73" ImageSize="2611609" />
+    <Page Image="74" ImageSize="2187066" />
+    <Page Image="75" ImageSize="2475064" />
+    <Page Image="76" ImageSize="4224064" />
+    <Page Image="77" ImageSize="2401171" />
+    <Page Image="78" ImageSize="2704794" />
+    <Page Image="79" ImageSize="2569151" />
+    <Page Image="80" ImageSize="2420096" />
+    <Page Image="81" ImageSize="2294789" />
+    <Page Image="82" ImageSize="2247281" />
+    <Page Image="83" ImageSize="2285970" />
+    <Page Image="84" ImageSize="2025148" />
+    <Page Image="85" ImageSize="2220818" />
+    <Page Image="86" ImageSize="1948993" />
+    <Page Image="87" ImageSize="2258163" />
+    <Page Image="88" ImageSize="2537739" />
+    <Page Image="89" ImageSize="1505762" />
+    <Page Image="90" ImageSize="2876451" />
+    <Page Image="91" ImageSize="1571686" />
+    <Page Image="92" ImageSize="2046355" />
+    <Page Image="93" ImageSize="2452965" />
+    <Page Image="94" ImageSize="1878231" />
+    <Page Image="95" ImageSize="1844352" />
+    <Page Image="96" ImageSize="2413620" />
+    <Page Image="97" ImageSize="2105562" />
+    <Page Image="98" ImageSize="2075928" />
+    <Page Image="99" ImageSize="1906993" />
+    <Page Image="100" ImageSize="2502849" />
+    <Page Image="101" ImageSize="2222005" />
+    <Page Image="102" ImageSize="2186590" />
+    <Page Image="103" ImageSize="2150670" />
+    <Page Image="104" ImageSize="2495310" />
+    <Page Image="105" ImageSize="1426840" />
+    <Page Image="106" ImageSize="2420094" />
+    <Page Image="107" ImageSize="2079304" />
+    <Page Image="108" ImageSize="2088225" />
+    <Page Image="109" ImageSize="2007189" />
+    <Page Image="110" ImageSize="1608692" />
+    <Page Image="111" ImageSize="2302976" />
+    <Page Image="112" ImageSize="2129629" />
+    <Page Image="113" ImageSize="1595092" />
+    <Page Image="114" ImageSize="2201999" />
+    <Page Image="115" ImageSize="2218395" />
+    <Page Image="116" ImageSize="2211476" />
+    <Page Image="117" ImageSize="2244614" />
+    <Page Image="118" ImageSize="1902186" />
+    <Page Image="119" ImageSize="2223412" />
+    <Page Image="120" ImageSize="2003081" />
+    <Page Image="121" ImageSize="1926545" />
+    <Page Image="122" ImageSize="2514053" />
+    <Page Image="123" ImageSize="2312204" />
+    <Page Image="124" ImageSize="1843045" />
+    <Page Image="125" ImageSize="2169368" />
+    <Page Image="126" ImageSize="1953255" />
+    <Page Image="127" ImageSize="2324143" />
+    <Page Image="128" ImageSize="2200340" />
+    <Page Image="129" ImageSize="2085654" />
+    <Page Image="130" ImageSize="1765735" />
+    <Page Image="131" ImageSize="1480234" />
+    <Page Image="132" ImageSize="1822172" />
+    <Page Image="133" ImageSize="1749998" />
+    <Page Image="134" ImageSize="2593779" />
+    <Page Image="135" ImageSize="2415816" />
+    <Page Image="136" ImageSize="1681524" />
+    <Page Image="137" ImageSize="2031295" />
+    <Page Image="138" ImageSize="2023253" />
+    <Page Image="139" ImageSize="2131383" />
+    <Page Image="140" ImageSize="1892025" />
+    <Page Image="141" ImageSize="1855511" />
+    <Page Image="142" ImageSize="2143398" />
+    <Page Image="143" ImageSize="1774783" />
+    <Page Image="144" ImageSize="1649400" />
+    <Page Image="145" ImageSize="1658213" />
+    <Page Image="146" ImageSize="1794884" />
+    <Page Image="147" ImageSize="1676739" />
+    <Page Image="148" ImageSize="1966772" />
+    <Page Image="149" ImageSize="1849684" />
+    <Page Image="150" ImageSize="2116940" />
+    <Page Image="151" ImageSize="1632731" />
+    <Page Image="152" ImageSize="872537" />
+    <Page Image="153" ImageSize="1481786" />
+    <Page Image="154" ImageSize="1257296" />
+    <Page Image="155" ImageSize="1358496" />
+    <Page Image="156" ImageSize="1265417" />
+    <Page Image="157" ImageSize="1669529" />
+    <Page Image="158" ImageSize="1388133" />
+    <Page Image="159" ImageSize="1472777" />
+    <Page Image="160" ImageSize="1119462" />
+    <Page Image="161" ImageSize="1363539" />
+    <Page Image="162" ImageSize="1239429" />
+    <Page Image="163" ImageSize="1502358" />
+    <Page Image="164" ImageSize="1461337" />
+    <Page Image="165" ImageSize="1570344" />
+    <Page Image="166" ImageSize="1631332" />
+    <Page Image="167" ImageSize="1407199" />
+    <Page Image="168" ImageSize="1417911" />
+    <Page Image="169" ImageSize="1637314" />
+    <Page Image="170" ImageSize="1543409" />
+    <Page Image="171" ImageSize="1141780" />
+    <Page Image="172" ImageSize="1364091" />
+    <Page Image="173" ImageSize="1074701" />
+    <Page Image="174" ImageSize="1265106" />
+    <Page Image="175" ImageSize="1151157" />
+    <Page Image="176" ImageSize="1495930" />
+    <Page Image="177" ImageSize="1400492" />
+    <Page Image="178" ImageSize="1311232" />
+    <Page Image="179" ImageSize="1248405" />
+    <Page Image="180" ImageSize="1395081" />
+    <Page Image="181" ImageSize="1277410" />
+    <Page Image="182" ImageSize="1132793" />
+    <Page Image="183" ImageSize="1413314" />
+    <Page Image="184" ImageSize="1320199" />
+    <Page Image="185" ImageSize="1377657" />
+    <Page Image="186" ImageSize="1266970" />
+    <Page Image="187" ImageSize="1368535" />
+    <Page Image="188" ImageSize="1359632" />
+    <Page Image="189" ImageSize="1412529" />
+    <Page Image="190" ImageSize="1147820" />
+    <Page Image="191" ImageSize="1186896" />
+    <Page Image="192" ImageSize="1216654" />
+    <Page Image="193" ImageSize="967087" />
+    <Page Image="194" ImageSize="912573" />
+    <Page Image="195" ImageSize="1946653" />
+    <Page Image="196" ImageSize="1535949" />
+    <Page Image="197" ImageSize="1602212" />
+    <Page Image="198" ImageSize="1944018" />
+    <Page Image="199" ImageSize="1883824" />
+    <Page Image="200" ImageSize="2005485" />
+    <Page Image="201" ImageSize="1975494" />
+    <Page Image="202" ImageSize="1807098" />
+    <Page Image="203" ImageSize="2024067" />
+    <Page Image="204" ImageSize="1961283" />
+    <Page Image="205" ImageSize="2037706" />
+    <Page Image="206" ImageSize="1611095" />
+    <Page Image="207" ImageSize="1659073" />
+    <Page Image="208" ImageSize="1608449" />
+    <Page Image="209" ImageSize="1851110" />
+    <Page Image="210" ImageSize="1753855" />
+    <Page Image="211" ImageSize="1821335" />
+    <Page Image="212" ImageSize="1934248" />
+    <Page Image="213" ImageSize="2343647" />
+    <Page Image="214" ImageSize="1410004" />
+    <Page Image="215" ImageSize="1364179" />
+    <Page Image="216" ImageSize="1882397" />
+    <Page Image="217" ImageSize="2021156" />
+    <Page Image="218" ImageSize="1962022" />
+    <Page Image="219" ImageSize="1472241" />
+    <Page Image="220" ImageSize="1933909" />
+    <Page Image="221" ImageSize="2225515" />
+    <Page Image="222" ImageSize="1520708" />
+    <Page Image="223" ImageSize="1864643" />
+    <Page Image="224" ImageSize="1826468" />
+    <Page Image="225" ImageSize="1600202" />
+    <Page Image="226" ImageSize="1578900" />
+    <Page Image="227" ImageSize="1805316" />
+    <Page Image="228" ImageSize="1924077" />
+    <Page Image="229" ImageSize="1792192" />
+    <Page Image="230" ImageSize="2134524" />
+    <Page Image="231" ImageSize="1728177" />
+    <Page Image="232" ImageSize="945670" />
+    <Page Image="233" ImageSize="1329784" />
+    <Page Image="234" ImageSize="1189480" />
+    <Page Image="235" ImageSize="2001298" />
+    <Page Image="236" ImageSize="1466477" />
+    <Page Image="237" ImageSize="1913138" />
+    <Page Image="238" ImageSize="2102646" />
+    <Page Image="239" ImageSize="1875669" />
+    <Page Image="240" ImageSize="1687431" />
+    <Page Image="241" ImageSize="2162664" />
+    <Page Image="242" ImageSize="1936043" />
+    <Page Image="243" ImageSize="1394198" />
+    <Page Image="244" ImageSize="2391086" />
+    <Page Image="245" ImageSize="2105230" />
+    <Page Image="246" ImageSize="2358960" />
+    <Page Image="247" ImageSize="4692996" />
+    <Page Image="248" ImageSize="1686410" />
+    <Page Image="249" ImageSize="1931920" />
+    <Page Image="250" ImageSize="1666051" />
+    <Page Image="251" ImageSize="1514549" />
+    <Page Image="252" ImageSize="1765664" />
+    <Page Image="253" ImageSize="1513261" />
+    <Page Image="254" ImageSize="1293957" />
+    <Page Image="255" ImageSize="1046238" />
+    <Page Image="256" ImageSize="1241670" />
+    <Page Image="257" ImageSize="1191211" />
+    <Page Image="258" ImageSize="1716606" />
+    <Page Image="259" ImageSize="1443188" />
+    <Page Image="260" ImageSize="1728508" />
+    <Page Image="261" ImageSize="1828588" />
+    <Page Image="262" ImageSize="3119073" />
+    <Page Image="263" ImageSize="1760061" />
+    <Page Image="264" ImageSize="2007619" />
+    <Page Image="265" ImageSize="1984590" />
+    <Page Image="266" ImageSize="2122286" />
+    <Page Image="267" ImageSize="1472243" />
+    <Page Image="268" ImageSize="1939802" />
+    <Page Image="269" ImageSize="1955340" />
+    <Page Image="270" ImageSize="1950799" />
+    <Page Image="271" ImageSize="1871298" />
+    <Page Image="272" ImageSize="1428895" />
+    <Page Image="273" ImageSize="1333049" />
+    <Page Image="274" ImageSize="1771837" />
+    <Page Image="275" ImageSize="1244288" />
+    <Page Image="276" ImageSize="1704822" />
+    <Page Image="277" ImageSize="1302767" />
+    <Page Image="278" ImageSize="1116384" />
+    <Page Image="279" ImageSize="1340157" />
+    <Page Image="280" ImageSize="1257049" />
+    <Page Image="281" ImageSize="1215649" />
+    <Page Image="282" ImageSize="1361745" />
+    <Page Image="283" ImageSize="1420531" />
+    <Page Image="284" ImageSize="1101578" />
+    <Page Image="285" ImageSize="1404074" />
+    <Page Image="286" ImageSize="1025302" />
+    <Page Image="287" ImageSize="1273819" />
+    <Page Image="288" ImageSize="1472648" />
+    <Page Image="289" ImageSize="1326038" />
+    <Page Image="290" ImageSize="1261228" />
+    <Page Image="291" ImageSize="1228123" />
+    <Page Image="292" ImageSize="1383012" />
+    <Page Image="293" ImageSize="1491851" />
+    <Page Image="294" ImageSize="1047085" />
+    <Page Image="295" ImageSize="1086048" />
+    <Page Image="296" ImageSize="1201737" />
+    <Page Image="297" ImageSize="1499245" />
+    <Page Image="298" ImageSize="1051206" />
+    <Page Image="299" ImageSize="969291" />
+    <Page Image="300" ImageSize="962289" />
+    <Page Image="301" ImageSize="1407238" />
+    <Page Image="302" ImageSize="1239751" />
+    <Page Image="303" ImageSize="1530869" />
+    <Page Image="304" ImageSize="1422882" />
+    <Page Image="305" ImageSize="1548618" />
+    <Page Image="306" ImageSize="1271705" />
+    <Page Image="307" ImageSize="1242582" />
+    <Page Image="308" ImageSize="1358318" />
+    <Page Image="309" ImageSize="1389768" />
+    <Page Image="310" ImageSize="1325534" />
+    <Page Image="311" ImageSize="1324678" />
+    <Page Image="312" ImageSize="996037" />
+    <Page Image="313" ImageSize="1339429" />
+    <Page Image="314" ImageSize="1342181" />
+    <Page Image="315" ImageSize="1218286" />
+    <Page Image="316" ImageSize="1094648" />
+    <Page Image="317" ImageSize="1078257" />
+    <Page Image="318" ImageSize="1095338" />
+    <Page Image="319" ImageSize="858082" />
+    <Page Image="320" ImageSize="1218944" />
+    <Page Image="321" ImageSize="1110811" />
+    <Page Image="322" ImageSize="1492354" />
+    <Page Image="323" ImageSize="1288602" />
+    <Page Image="324" ImageSize="1433707" />
+    <Page Image="325" ImageSize="1314881" />
+    <Page Image="326" ImageSize="1386018" />
+    <Page Image="327" ImageSize="1341864" />
+    <Page Image="328" ImageSize="1219914" />
+    <Page Image="329" ImageSize="1515387" />
+    <Page Image="330" ImageSize="1337933" />
+    <Page Image="331" ImageSize="990915" />
+    <Page Image="332" ImageSize="984838" />
+    <Page Image="333" ImageSize="1366635" />
+    <Page Image="334" ImageSize="1412860" />
+    <Page Image="335" ImageSize="1365279" />
+    <Page Image="336" ImageSize="1339145" />
+    <Page Image="337" ImageSize="1252169" />
+    <Page Image="338" ImageSize="1159981" />
+    <Page Image="339" ImageSize="1181243" />
+    <Page Image="340" ImageSize="985694" />
+    <Page Image="341" ImageSize="1006394" />
+    <Page Image="342" ImageSize="1786637" />
+    <Page Image="343" ImageSize="1350386" />
+    <Page Image="344" ImageSize="1144468" />
+    <Page Image="345" ImageSize="1722393" />
+    <Page Image="346" ImageSize="1655645" />
+    <Page Image="347" ImageSize="2000072" />
+    <Page Image="348" ImageSize="1333001" />
+    <Page Image="349" ImageSize="1325951" />
+    <Page Image="350" ImageSize="1537020" />
+    <Page Image="351" ImageSize="1340500" />
+    <Page Image="352" ImageSize="1418731" />
+    <Page Image="353" ImageSize="1316810" />
+    <Page Image="354" ImageSize="1727903" />
+    <Page Image="355" ImageSize="1517474" />
+    <Page Image="356" ImageSize="1955501" />
+    <Page Image="357" ImageSize="1470372" />
+    <Page Image="358" ImageSize="1922966" />
+    <Page Image="359" ImageSize="1387686" />
+    <Page Image="360" ImageSize="2280082" />
+    <Page Image="361" ImageSize="1056347" />
+    <Page Image="362" ImageSize="1321336" />
+    <Page Image="363" ImageSize="1255236" />
+    <Page Image="364" ImageSize="1664932" />
+    <Page Image="365" ImageSize="1134653" />
+    <Page Image="366" ImageSize="1545654" />
+    <Page Image="367" ImageSize="896652" />
+    <Page Image="368" ImageSize="1163406" />
+    <Page Image="369" ImageSize="999753" />
+    <Page Image="370" ImageSize="1812915" />
+    <Page Image="371" ImageSize="750766" />
+  </Pages>
+  <Penciller>Carlos Pacheco,Dalibor Talajić,Jefte Palo,Marc Silvestri,Pasqual Ferry,Steve Dillon,Tom Raney,Whilce Portacio,Jefte Palo,Carlos Pacheco,Dalibor Talajić,Tom Raney,Pasqual Ferry,Steve Dillon,Whilce Portacio,Juan Vlasco,Marc Silvestri,Michael Broussard,Billy Tan,Eric Basaldua,Mike Choi</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Incredible Hulk by Jason Aaron: The Complete Collection</Series>
+  <Summary>The minds of Bruce Banner and the Hulk must work together to defeat the mental assassin known as the Vegetable.
+
+Before they can fulfill their mission to kill Doctor Doom, the Hulk and Bruce Banner have to fight their way through Amanda von Doom, an army of Doombots, and a surprise villain they've never encountered before.
+
+Bruce Banner has an interesting proposal for the Hulk that involves Doctor Doom.
+
+The Thing and Wolverine investigate the Hulk's intrusion of the underground prison known as the God Complex.
+
+Somewhere in the Pacific Northwest, the Hulk finds himself being hunted by Kraven, who has agreed to help Bruce Banner find the hidden City of Sasquatches.
+
+The Hulk awakens from a blackout to find himself in the undersea kingdom of Atlantis, where many of the locals do not take kindly to his presence.
+
+In Mexico, the Hulk teams up with the Punisher to take down a powerful drug-lord known as Pit Bull.
+
+The Red She-Hulk, Betty Ross, wants some answers from Hulk regarding the fate of Bruce Banner.
+
+After the explosion of a gamma bomb apparently kills Bruce Banner, Hulk has an angry meeting with Dr. Doom.
+
+On a remote ocean island, home to the secret lab of Bruce Banner, Hulk and Amanda Von Doom decide that the best way to deal with Banner is to set off a gamma bomb.
+
+The secret as to who split the Hulk and Bruce Banner into two separate beings is revealed.
+
+Hulk and Amanda Von Doom head for Bruce Banner's secret lab on a remote island in the Atlantic Ocean, where Banner's experiments have created a population of Hulk-like wild animals.
+
+The Boar Brothers attack the Hulk by taking Moloid children hostages. He defeats them and decides to join Amanda Von Doom's mad-scientists-killing unit. But Banner has a host of mutated monsters.
+
+Since he was separated from the Hulk, Banner has become obsessed with creating monsters. Amanda Von Doom recruits the Hulk as part of her team to kill mad scientists. The Hulk fights giant mutated sharks while two Banner-mutated boar monsters reach the Moloids' cave.
+
+Hulk has retreated to a lost Moloid village underground when he's found by surface people who want to recruit him against a Dr. Moreau-like menace.
+
+The Hulk separates himself from Bruce Banner.</Summary>
+  <Title>Hulk: United Conclusion; Hulk: United Part Two; Hulk: United Part One; Stay Angry! Part Five: Riot at the God Complex; Stay Angry! Part Four: The Search for the City of Sasquatches; Stay Angry! Part Three: Neverlab; Stay Angry! Part Two; Stay Angry! Part One; Alone; Hulk vs. Banner! Chapter Four: The Monster Is Dead... Long Live the Monster.; Hulk vs. Banner! Chapter Three: And Only One Shall Smash!; Hulk vs. Banner! Chapter Two: There Will Be Doom; Hulk vs. Banner! Chapter One: Island of 1000 Hulks; Hulk: Asunder Part Three; Hulk: Asunder Part Two; Hulk: Asunder Part One; Hulk: Asunder Prelude</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/incredible-hulk-by-jason-aaron-the-complete-collec/4000-628583/</Web>
+  <Writer>Jason Aaron,Jason Aaron</Writer>
+  <Year>2017</Year>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+  <AgeRating>Parental Advisory</AgeRating>
+  <Colorist>Frank Martin,Jim Charalampidis,Jesus Aburtov,Rex Lokus,Arif Prianto,Veronica Gandini,Mashuri,Sakti Yuwono,Beny Maulana,Sunny Gho,Guru eFX</Colorist>
+  <Letterer>Chris Eliopoulos,Clayton Cowles,Ed Dukeshire</Letterer>
+  <Editor>Mark Paniccia,Mark Paniccia</Editor>
+</ComicInfo>

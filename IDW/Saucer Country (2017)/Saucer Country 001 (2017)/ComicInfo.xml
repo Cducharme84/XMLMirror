@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Fausto,Pioneer 10,Harry Brooks,Joshua Kidd,Michael,Chloe Saunders,Arcadia Alvarado</Characters>
+  <Colorist>Cris Peter,Giulia Brusco,Lee Loughridge,Giulia Brusco,Cris Peter</Colorist>
+  <Day>13</Day>
+  <Editor>Alonzo Simon,Justin Eisinger,Mark Doyle</Editor>
+  <GTIN>urn:comicvine:4000-621629</GTIN>
+  <Inker>Andrea Mutti,David Lapham,Goran Sudzuka,Jimmy Broxton,Mirko Colak,Ryan Kelly,Ryan Kelly,Goran Sudžuka</Inker>
+  <Letterer>Sal Cipriano,Sal Cipriano</Letterer>
+  <Locations>New Mexico</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:42:08 [Issue ID 4000-621629] urn:comicvine:4000-621629
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 14:27:36. [Issue ID 1735798]</Notes>
+  <Number>1</Number>
+  <PageCount>322</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2024189" Type="FrontCover" />
+    <Page Image="1" ImageSize="1318072" />
+    <Page Image="2" ImageSize="1795112" />
+    <Page Image="3" ImageSize="3287741" />
+    <Page Image="4" ImageSize="3008316" />
+    <Page Image="5" ImageSize="2696375" />
+    <Page Image="6" ImageSize="2865194" />
+    <Page Image="7" ImageSize="2749881" />
+    <Page Image="8" ImageSize="2310860" />
+    <Page Image="9" ImageSize="2262087" />
+    <Page Image="10" ImageSize="1018752" />
+    <Page Image="11" ImageSize="2088712" />
+    <Page Image="12" ImageSize="2484309" />
+    <Page Image="13" ImageSize="2630280" />
+    <Page Image="14" ImageSize="3085150" />
+    <Page Image="15" ImageSize="3429717" />
+    <Page Image="16" ImageSize="2970627" />
+    <Page Image="17" ImageSize="2841161" />
+    <Page Image="18" ImageSize="2932804" />
+    <Page Image="19" ImageSize="2653192" />
+    <Page Image="20" ImageSize="3011377" />
+    <Page Image="21" ImageSize="2151410" />
+    <Page Image="22" ImageSize="2816636" />
+    <Page Image="23" ImageSize="2708828" />
+    <Page Image="24" ImageSize="3208361" />
+    <Page Image="25" ImageSize="2726739" />
+    <Page Image="26" ImageSize="3095859" />
+    <Page Image="27" ImageSize="2017672" />
+    <Page Image="28" ImageSize="3222730" />
+    <Page Image="29" ImageSize="3132023" />
+    <Page Image="30" ImageSize="3885112" />
+    <Page Image="31" ImageSize="1896582" />
+    <Page Image="32" ImageSize="3378269" />
+    <Page Image="33" ImageSize="1558093" />
+    <Page Image="34" ImageSize="2022949" />
+    <Page Image="35" ImageSize="3213458" />
+    <Page Image="36" ImageSize="2414275" />
+    <Page Image="37" ImageSize="2515967" />
+    <Page Image="38" ImageSize="2555005" />
+    <Page Image="39" ImageSize="2749712" />
+    <Page Image="40" ImageSize="2638871" />
+    <Page Image="41" ImageSize="2973360" />
+    <Page Image="42" ImageSize="2942307" />
+    <Page Image="43" ImageSize="2376944" />
+    <Page Image="44" ImageSize="2898572" />
+    <Page Image="45" ImageSize="2701839" />
+    <Page Image="46" ImageSize="2269929" />
+    <Page Image="47" ImageSize="3167678" />
+    <Page Image="48" ImageSize="2209677" />
+    <Page Image="49" ImageSize="2347377" />
+    <Page Image="50" ImageSize="2227021" />
+    <Page Image="51" ImageSize="3498369" />
+    <Page Image="52" ImageSize="3886724" />
+    <Page Image="53" ImageSize="2129124" />
+    <Page Image="54" ImageSize="2482346" />
+    <Page Image="55" ImageSize="3767620" />
+    <Page Image="56" ImageSize="2765954" />
+    <Page Image="57" ImageSize="3354505" />
+    <Page Image="58" ImageSize="3541094" />
+    <Page Image="59" ImageSize="2680466" />
+    <Page Image="60" ImageSize="3159403" />
+    <Page Image="61" ImageSize="2774032" />
+    <Page Image="62" ImageSize="2936049" />
+    <Page Image="63" ImageSize="3636850" />
+    <Page Image="64" ImageSize="3117645" />
+    <Page Image="65" ImageSize="3604786" />
+    <Page Image="66" ImageSize="2787500" />
+    <Page Image="67" ImageSize="3014009" />
+    <Page Image="68" ImageSize="3483979" />
+    <Page Image="69" ImageSize="3539192" />
+    <Page Image="70" ImageSize="2802113" />
+    <Page Image="71" ImageSize="3077560" />
+    <Page Image="72" ImageSize="2180471" />
+    <Page Image="73" ImageSize="3362223" />
+    <Page Image="74" ImageSize="3586211" />
+    <Page Image="75" ImageSize="1614126" />
+    <Page Image="76" ImageSize="3608321" />
+    <Page Image="77" ImageSize="2742635" />
+    <Page Image="78" ImageSize="3069157" />
+    <Page Image="79" ImageSize="2820224" />
+    <Page Image="80" ImageSize="3060423" />
+    <Page Image="81" ImageSize="2861319" />
+    <Page Image="82" ImageSize="2789860" />
+    <Page Image="83" ImageSize="3034540" />
+    <Page Image="84" ImageSize="2831960" />
+    <Page Image="85" ImageSize="2955165" />
+    <Page Image="86" ImageSize="2990654" />
+    <Page Image="87" ImageSize="3132265" />
+    <Page Image="88" ImageSize="2677181" />
+    <Page Image="89" ImageSize="3278082" />
+    <Page Image="90" ImageSize="3213665" />
+    <Page Image="91" ImageSize="3284952" />
+    <Page Image="92" ImageSize="3110951" />
+    <Page Image="93" ImageSize="2404342" />
+    <Page Image="94" ImageSize="2712612" />
+    <Page Image="95" ImageSize="2450773" />
+    <Page Image="96" ImageSize="5469988" />
+    <Page Image="97" ImageSize="2981779" />
+    <Page Image="98" ImageSize="3337273" />
+    <Page Image="99" ImageSize="2918525" />
+    <Page Image="100" ImageSize="2918290" />
+    <Page Image="101" ImageSize="2781596" />
+    <Page Image="102" ImageSize="2464874" />
+    <Page Image="103" ImageSize="2763126" />
+    <Page Image="104" ImageSize="3155565" />
+    <Page Image="105" ImageSize="2851563" />
+    <Page Image="106" ImageSize="2390186" />
+    <Page Image="107" ImageSize="2716622" />
+    <Page Image="108" ImageSize="2529658" />
+    <Page Image="109" ImageSize="2983413" />
+    <Page Image="110" ImageSize="3206055" />
+    <Page Image="111" ImageSize="3285458" />
+    <Page Image="112" ImageSize="3572260" />
+    <Page Image="113" ImageSize="3059990" />
+    <Page Image="114" ImageSize="2797933" />
+    <Page Image="115" ImageSize="3353606" />
+    <Page Image="116" ImageSize="3167659" />
+    <Page Image="117" ImageSize="3000710" />
+    <Page Image="118" ImageSize="3661723" />
+    <Page Image="119" ImageSize="3007528" />
+    <Page Image="120" ImageSize="1491006" />
+    <Page Image="121" ImageSize="2179606" />
+    <Page Image="122" ImageSize="3263426" />
+    <Page Image="123" ImageSize="2745094" />
+    <Page Image="124" ImageSize="7572484" />
+    <Page Image="125" ImageSize="2754798" />
+    <Page Image="126" ImageSize="3383685" />
+    <Page Image="127" ImageSize="5260909" />
+    <Page Image="128" ImageSize="2622654" />
+    <Page Image="129" ImageSize="2120275" />
+    <Page Image="130" ImageSize="2300937" />
+    <Page Image="131" ImageSize="2271488" />
+    <Page Image="132" ImageSize="2398335" />
+    <Page Image="133" ImageSize="1429684" />
+    <Page Image="134" ImageSize="2166958" />
+    <Page Image="135" ImageSize="2278482" />
+    <Page Image="136" ImageSize="1717491" />
+    <Page Image="137" ImageSize="2528903" />
+    <Page Image="138" ImageSize="2642804" />
+    <Page Image="139" ImageSize="2504206" />
+    <Page Image="140" ImageSize="3798540" />
+    <Page Image="141" ImageSize="3115082" />
+    <Page Image="142" ImageSize="3002906" />
+    <Page Image="143" ImageSize="3059241" />
+    <Page Image="144" ImageSize="3132139" />
+    <Page Image="145" ImageSize="3716752" />
+    <Page Image="146" ImageSize="2980523" />
+    <Page Image="147" ImageSize="3252633" />
+    <Page Image="148" ImageSize="3021263" />
+    <Page Image="149" ImageSize="3674273" />
+    <Page Image="150" ImageSize="3060330" />
+    <Page Image="151" ImageSize="3351155" />
+    <Page Image="152" ImageSize="4570341" />
+    <Page Image="153" ImageSize="2846892" />
+    <Page Image="154" ImageSize="2700076" />
+    <Page Image="155" ImageSize="2902709" />
+    <Page Image="156" ImageSize="3450807" />
+    <Page Image="157" ImageSize="2828653" />
+    <Page Image="158" ImageSize="3396333" />
+    <Page Image="159" ImageSize="2209309" />
+    <Page Image="160" ImageSize="3772314" />
+    <Page Image="161" ImageSize="2510790" />
+    <Page Image="162" ImageSize="3829303" />
+    <Page Image="163" ImageSize="1572598" />
+    <Page Image="164" ImageSize="3295178" />
+    <Page Image="165" ImageSize="3479577" />
+    <Page Image="166" ImageSize="2948801" />
+    <Page Image="167" ImageSize="3617151" />
+    <Page Image="168" ImageSize="3345274" />
+    <Page Image="169" ImageSize="2932004" />
+    <Page Image="170" ImageSize="3021656" />
+    <Page Image="171" ImageSize="2501537" />
+    <Page Image="172" ImageSize="3264023" />
+    <Page Image="173" ImageSize="3224172" />
+    <Page Image="174" ImageSize="2417586" />
+    <Page Image="175" ImageSize="4170107" />
+    <Page Image="176" ImageSize="2230943" />
+    <Page Image="177" ImageSize="2116208" />
+    <Page Image="178" ImageSize="2770814" />
+    <Page Image="179" ImageSize="3510601" />
+    <Page Image="180" ImageSize="2489079" />
+    <Page Image="181" ImageSize="3804742" />
+    <Page Image="182" ImageSize="2585272" />
+    <Page Image="183" ImageSize="2365541" />
+    <Page Image="184" ImageSize="3793217" />
+    <Page Image="185" ImageSize="3482301" />
+    <Page Image="186" ImageSize="3312074" />
+    <Page Image="187" ImageSize="3904125" />
+    <Page Image="188" ImageSize="3185897" />
+    <Page Image="189" ImageSize="2652922" />
+    <Page Image="190" ImageSize="2500584" />
+    <Page Image="191" ImageSize="3202315" />
+    <Page Image="192" ImageSize="2803368" />
+    <Page Image="193" ImageSize="2999053" />
+    <Page Image="194" ImageSize="2783609" />
+    <Page Image="195" ImageSize="3332077" />
+    <Page Image="196" ImageSize="2856977" />
+    <Page Image="197" ImageSize="2742839" />
+    <Page Image="198" ImageSize="3400217" />
+    <Page Image="199" ImageSize="2865009" />
+    <Page Image="200" ImageSize="2687219" />
+    <Page Image="201" ImageSize="3291105" />
+    <Page Image="202" ImageSize="2816682" />
+    <Page Image="203" ImageSize="2845807" />
+    <Page Image="204" ImageSize="2979871" />
+    <Page Image="205" ImageSize="2303918" />
+    <Page Image="206" ImageSize="3903062" />
+    <Page Image="207" ImageSize="2453306" />
+    <Page Image="208" ImageSize="3294129" />
+    <Page Image="209" ImageSize="3127963" />
+    <Page Image="210" ImageSize="2641300" />
+    <Page Image="211" ImageSize="3145578" />
+    <Page Image="212" ImageSize="3205007" />
+    <Page Image="213" ImageSize="2547217" />
+    <Page Image="214" ImageSize="2929373" />
+    <Page Image="215" ImageSize="2913365" />
+    <Page Image="216" ImageSize="2816702" />
+    <Page Image="217" ImageSize="3153120" />
+    <Page Image="218" ImageSize="2582707" />
+    <Page Image="219" ImageSize="2806111" />
+    <Page Image="220" ImageSize="2854400" />
+    <Page Image="221" ImageSize="2759861" />
+    <Page Image="222" ImageSize="2853322" />
+    <Page Image="223" ImageSize="2484161" />
+    <Page Image="224" ImageSize="2484840" />
+    <Page Image="225" ImageSize="2802967" />
+    <Page Image="226" ImageSize="3137664" />
+    <Page Image="227" ImageSize="2827332" />
+    <Page Image="228" ImageSize="3752687" />
+    <Page Image="229" ImageSize="3245086" />
+    <Page Image="230" ImageSize="2714693" />
+    <Page Image="231" ImageSize="2923833" />
+    <Page Image="232" ImageSize="3407986" />
+    <Page Image="233" ImageSize="2977645" />
+    <Page Image="234" ImageSize="2716118" />
+    <Page Image="235" ImageSize="3379935" />
+    <Page Image="236" ImageSize="2210569" />
+    <Page Image="237" ImageSize="2784491" />
+    <Page Image="238" ImageSize="2477733" />
+    <Page Image="239" ImageSize="1949448" />
+    <Page Image="240" ImageSize="2197613" />
+    <Page Image="241" ImageSize="2844044" />
+    <Page Image="242" ImageSize="3062373" />
+    <Page Image="243" ImageSize="2359885" />
+    <Page Image="244" ImageSize="2152060" />
+    <Page Image="245" ImageSize="2302755" />
+    <Page Image="246" ImageSize="2417900" />
+    <Page Image="247" ImageSize="2086517" />
+    <Page Image="248" ImageSize="2258513" />
+    <Page Image="249" ImageSize="2211996" />
+    <Page Image="250" ImageSize="3763837" />
+    <Page Image="251" ImageSize="2342537" />
+    <Page Image="252" ImageSize="3344334" />
+    <Page Image="253" ImageSize="2864797" />
+    <Page Image="254" ImageSize="2769358" />
+    <Page Image="255" ImageSize="3458444" />
+    <Page Image="256" ImageSize="2534351" />
+    <Page Image="257" ImageSize="3559477" />
+    <Page Image="258" ImageSize="3439295" />
+    <Page Image="259" ImageSize="3374770" />
+    <Page Image="260" ImageSize="2827283" />
+    <Page Image="261" ImageSize="3206281" />
+    <Page Image="262" ImageSize="2935385" />
+    <Page Image="263" ImageSize="3437112" />
+    <Page Image="264" ImageSize="3461880" />
+    <Page Image="265" ImageSize="2990361" />
+    <Page Image="266" ImageSize="2459940" />
+    <Page Image="267" ImageSize="3393315" />
+    <Page Image="268" ImageSize="3108228" />
+    <Page Image="269" ImageSize="2731055" />
+    <Page Image="270" ImageSize="2725158" />
+    <Page Image="271" ImageSize="2714352" />
+    <Page Image="272" ImageSize="3607120" />
+    <Page Image="273" ImageSize="2387124" />
+    <Page Image="274" ImageSize="2334717" />
+    <Page Image="275" ImageSize="2668828" />
+    <Page Image="276" ImageSize="3311651" />
+    <Page Image="277" ImageSize="2971537" />
+    <Page Image="278" ImageSize="2723554" />
+    <Page Image="279" ImageSize="2676334" />
+    <Page Image="280" ImageSize="2644968" />
+    <Page Image="281" ImageSize="2360976" />
+    <Page Image="282" ImageSize="2900689" />
+    <Page Image="283" ImageSize="3351376" />
+    <Page Image="284" ImageSize="3109124" />
+    <Page Image="285" ImageSize="3303289" />
+    <Page Image="286" ImageSize="3291416" />
+    <Page Image="287" ImageSize="3181576" />
+    <Page Image="288" ImageSize="3515123" />
+    <Page Image="289" ImageSize="2291628" />
+    <Page Image="290" ImageSize="3029556" />
+    <Page Image="291" ImageSize="3232868" />
+    <Page Image="292" ImageSize="2930928" />
+    <Page Image="293" ImageSize="3287130" />
+    <Page Image="294" ImageSize="4415273" />
+    <Page Image="295" ImageSize="2312356" />
+    <Page Image="296" ImageSize="3593293" />
+    <Page Image="297" ImageSize="3111154" />
+    <Page Image="298" ImageSize="3547715" />
+    <Page Image="299" ImageSize="2904795" />
+    <Page Image="300" ImageSize="3236163" />
+    <Page Image="301" ImageSize="2300684" />
+    <Page Image="302" ImageSize="3088810" />
+    <Page Image="303" ImageSize="3326510" />
+    <Page Image="304" ImageSize="3436110" />
+    <Page Image="305" ImageSize="2961918" />
+    <Page Image="306" ImageSize="2493822" />
+    <Page Image="307" ImageSize="3177070" />
+    <Page Image="308" ImageSize="2238398" />
+    <Page Image="309" ImageSize="3204302" />
+    <Page Image="310" ImageSize="2735117" />
+    <Page Image="311" ImageSize="3187953" />
+    <Page Image="312" ImageSize="3057203" />
+    <Page Image="313" ImageSize="2732554" />
+    <Page Image="314" ImageSize="2897948" />
+    <Page Image="315" ImageSize="3426327" />
+    <Page Image="316" ImageSize="3732410" />
+    <Page Image="317" ImageSize="3366832" />
+    <Page Image="318" ImageSize="3791869" />
+    <Page Image="319" ImageSize="1092349" />
+    <Page Image="320" ImageSize="1462285" />
+    <Page Image="321" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Andrea Mutti,David Lapham,Goran Sudzuka,Jimmy Broxton,Mirko Colak,Ryan Kelly,Ryan Kelly,Goran Sudžuka</Penciller>
+  <Publisher>IDW</Publisher>
+  <Series>Saucer Country</Series>
+  <Summary>THEY'RE UP THERE... Meet Arcadia Alvarado, Governor of New Mexico and Presidential hopeful. She's dealing with immigration policy, budget cuts, an alcoholic ex–and she was abducted by aliens. Or was she? It's a strange road to the White House but Alvarado is determined to get there because she has information that could stop an alien invasion and save the world. Collects all 14 issues of the original series.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-01 10:47:15.  [CVDB621629]
+
+https://comicvine.gamespot.com/saucer-country-1-tpb/4000-621629/</Summary>
+  <Tags>Fausto,New Mexico,Harry Brooks,Michael,Joshua Kidd,Pioneer 10,Chloe Saunders,Arcadia Alvarado</Tags>
+  <Title>President's Day - Conclusion; President's Day - Part 2; President's Day; Fairyland; The Reticulan Candidate - Part Two; The Reticulan Candidate - Conclusion; The Reticulan Candidate - Part One; The Bluebird Perspective; A Field Guide to Flying Saucers; Run Conclusion; Run Part Four; Run Part Three; Run Part Two; Run Part One; A "True Story" from Saucer Country</Title>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/saucer-country-1-tpb/4000-621629/</Web>
+  <Writer>Paul Cornell,Paul Cornell</Writer>
+  <Year>2017</Year>
+  <Count>1</Count>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

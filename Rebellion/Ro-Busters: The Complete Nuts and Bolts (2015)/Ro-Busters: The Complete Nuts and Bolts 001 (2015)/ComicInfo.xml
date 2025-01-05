@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Ro-Jaws,Howard Quartz,Mek-Quake,Robot Bomb,Hammer-Stein,Sarge,Miss Marilyn</Characters>
+  <GTIN>urn:comicvine:4000-526399</GTIN>
+  <Inker>Carlos Pino,Dave Gibbons,Geoff Campion,Ian Kennedy,Jose Luis Ferrer,Kevin O'Neill,Mike Dorey,Geoff Campion,Mike Dorey,Mike White,Dave Gibbons,Kevin O'Neill,José Luis Ferrer,Carlos Pino,Ian Kennedy</Inker>
+  <Letterer>Dave Gibbons,Jack Potter,John Aldrich,Paul Bensberg,Peter Knight,Steve Potter,Tom Frame,Tony Jacob,Peter Knight,Steve Potter,Tom Frame,Dave Gibbons,Jack Potter,John Aldrich,Paul Bensberg,Chris Lowder,Tony Jacob</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:39:23 [Issue ID 4000-526399] urn:comicvine:4000-526399
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:29:30. [Issue ID 1680030]</Notes>
+  <Number>1</Number>
+  <PageCount>235</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="4811068" Type="FrontCover" />
+    <Page Image="1" ImageSize="1240601" />
+    <Page Image="2" ImageSize="2034577" />
+    <Page Image="3" ImageSize="2936082" />
+    <Page Image="4" ImageSize="2049312" />
+    <Page Image="5" ImageSize="1851601" />
+    <Page Image="6" ImageSize="1691346" />
+    <Page Image="7" ImageSize="4421601" />
+    <Page Image="8" ImageSize="1470512" />
+    <Page Image="9" ImageSize="1641953" />
+    <Page Image="10" ImageSize="1738523" />
+    <Page Image="11" ImageSize="1749301" />
+    <Page Image="12" ImageSize="1778483" />
+    <Page Image="13" ImageSize="1785223" />
+    <Page Image="14" ImageSize="2720280" />
+    <Page Image="15" ImageSize="1700587" />
+    <Page Image="16" ImageSize="1848002" />
+    <Page Image="17" ImageSize="1863405" />
+    <Page Image="18" ImageSize="1772908" />
+    <Page Image="19" ImageSize="1975589" />
+    <Page Image="20" ImageSize="2945511" />
+    <Page Image="21" ImageSize="1735106" />
+    <Page Image="22" ImageSize="4846548" />
+    <Page Image="23" ImageSize="1756950" />
+    <Page Image="24" ImageSize="1468819" />
+    <Page Image="25" ImageSize="1821814" />
+    <Page Image="26" ImageSize="1686182" />
+    <Page Image="27" ImageSize="4858311" />
+    <Page Image="28" ImageSize="1577028" />
+    <Page Image="29" ImageSize="1824780" />
+    <Page Image="30" ImageSize="1636245" />
+    <Page Image="31" ImageSize="1797158" />
+    <Page Image="32" ImageSize="4479517" />
+    <Page Image="33" ImageSize="1579047" />
+    <Page Image="34" ImageSize="1570747" />
+    <Page Image="35" ImageSize="1883455" />
+    <Page Image="36" ImageSize="1735106" />
+    <Page Image="37" ImageSize="4846751" />
+    <Page Image="38" ImageSize="1613316" />
+    <Page Image="39" ImageSize="1667446" />
+    <Page Image="40" ImageSize="1963297" />
+    <Page Image="41" ImageSize="1735106" />
+    <Page Image="42" ImageSize="1997736" />
+    <Page Image="43" ImageSize="2053943" />
+    <Page Image="44" ImageSize="1622962" />
+    <Page Image="45" ImageSize="1629447" />
+    <Page Image="46" ImageSize="1656032" />
+    <Page Image="47" ImageSize="1661557" />
+    <Page Image="48" ImageSize="2334992" />
+    <Page Image="49" ImageSize="2323741" />
+    <Page Image="50" ImageSize="1739847" />
+    <Page Image="51" ImageSize="1639181" />
+    <Page Image="52" ImageSize="1742769" />
+    <Page Image="53" ImageSize="1675085" />
+    <Page Image="54" ImageSize="5416486" />
+    <Page Image="55" ImageSize="1683048" />
+    <Page Image="56" ImageSize="1678202" />
+    <Page Image="57" ImageSize="1644618" />
+    <Page Image="58" ImageSize="1707252" />
+    <Page Image="59" ImageSize="2830112" />
+    <Page Image="60" ImageSize="3100958" />
+    <Page Image="61" ImageSize="1638032" />
+    <Page Image="62" ImageSize="1669046" />
+    <Page Image="63" ImageSize="1625624" />
+    <Page Image="64" ImageSize="1672518" />
+    <Page Image="65" ImageSize="4811605" />
+    <Page Image="66" ImageSize="1786776" />
+    <Page Image="67" ImageSize="1550598" />
+    <Page Image="68" ImageSize="1658856" />
+    <Page Image="69" ImageSize="1585554" />
+    <Page Image="70" ImageSize="1672177" />
+    <Page Image="71" ImageSize="1735106" />
+    <Page Image="72" ImageSize="5320986" />
+    <Page Image="73" ImageSize="1577183" />
+    <Page Image="74" ImageSize="1366537" />
+    <Page Image="75" ImageSize="1683163" />
+    <Page Image="76" ImageSize="1652320" />
+    <Page Image="77" ImageSize="1499003" />
+    <Page Image="78" ImageSize="1735106" />
+    <Page Image="79" ImageSize="4328149" />
+    <Page Image="80" ImageSize="1471683" />
+    <Page Image="81" ImageSize="1700604" />
+    <Page Image="82" ImageSize="1450988" />
+    <Page Image="83" ImageSize="1549723" />
+    <Page Image="84" ImageSize="1491098" />
+    <Page Image="85" ImageSize="2331410" />
+    <Page Image="86" ImageSize="1557433" />
+    <Page Image="87" ImageSize="1619064" />
+    <Page Image="88" ImageSize="1576136" />
+    <Page Image="89" ImageSize="1552147" />
+    <Page Image="90" ImageSize="1300017" />
+    <Page Image="91" ImageSize="1677915" />
+    <Page Image="92" ImageSize="2177808" />
+    <Page Image="93" ImageSize="2611010" />
+    <Page Image="94" ImageSize="1505274" />
+    <Page Image="95" ImageSize="1581547" />
+    <Page Image="96" ImageSize="1573641" />
+    <Page Image="97" ImageSize="1611405" />
+    <Page Image="98" ImageSize="2676599" />
+    <Page Image="99" ImageSize="2191735" />
+    <Page Image="100" ImageSize="1559902" />
+    <Page Image="101" ImageSize="1599930" />
+    <Page Image="102" ImageSize="1574691" />
+    <Page Image="103" ImageSize="1698314" />
+    <Page Image="104" ImageSize="1477253" />
+    <Page Image="105" ImageSize="3155550" />
+    <Page Image="106" ImageSize="3038959" />
+    <Page Image="107" ImageSize="1652411" />
+    <Page Image="108" ImageSize="1528388" />
+    <Page Image="109" ImageSize="1653657" />
+    <Page Image="110" ImageSize="1667546" />
+    <Page Image="111" ImageSize="1547470" />
+    <Page Image="112" ImageSize="2439916" />
+    <Page Image="113" ImageSize="1705911" />
+    <Page Image="114" ImageSize="1566980" />
+    <Page Image="115" ImageSize="1725974" />
+    <Page Image="116" ImageSize="1364174" />
+    <Page Image="117" ImageSize="1540265" />
+    <Page Image="118" ImageSize="1621906" />
+    <Page Image="119" ImageSize="2163847" />
+    <Page Image="120" ImageSize="2582322" />
+    <Page Image="121" ImageSize="1700071" />
+    <Page Image="122" ImageSize="1570300" />
+    <Page Image="123" ImageSize="1713332" />
+    <Page Image="124" ImageSize="1722362" />
+    <Page Image="125" ImageSize="1685377" />
+    <Page Image="126" ImageSize="2260965" />
+    <Page Image="127" ImageSize="2368353" />
+    <Page Image="128" ImageSize="1475647" />
+    <Page Image="129" ImageSize="1634132" />
+    <Page Image="130" ImageSize="1711016" />
+    <Page Image="131" ImageSize="1186139" />
+    <Page Image="132" ImageSize="1286374" />
+    <Page Image="133" ImageSize="2261952" />
+    <Page Image="134" ImageSize="2294073" />
+    <Page Image="135" ImageSize="1562830" />
+    <Page Image="136" ImageSize="1690756" />
+    <Page Image="137" ImageSize="1701810" />
+    <Page Image="138" ImageSize="1620488" />
+    <Page Image="139" ImageSize="1620199" />
+    <Page Image="140" ImageSize="1748385" />
+    <Page Image="141" ImageSize="2438065" />
+    <Page Image="142" ImageSize="1975815" />
+    <Page Image="143" ImageSize="1646677" />
+    <Page Image="144" ImageSize="1636383" />
+    <Page Image="145" ImageSize="1533415" />
+    <Page Image="146" ImageSize="1591064" />
+    <Page Image="147" ImageSize="1582706" />
+    <Page Image="148" ImageSize="1475173" />
+    <Page Image="149" ImageSize="3385479" />
+    <Page Image="150" ImageSize="3821797" />
+    <Page Image="151" ImageSize="4411716" />
+    <Page Image="152" ImageSize="3477299" />
+    <Page Image="153" ImageSize="3914745" />
+    <Page Image="154" ImageSize="3711182" />
+    <Page Image="155" ImageSize="3123749" />
+    <Page Image="156" ImageSize="3658022" />
+    <Page Image="157" ImageSize="3284178" />
+    <Page Image="158" ImageSize="3533178" />
+    <Page Image="159" ImageSize="3379602" />
+    <Page Image="160" ImageSize="3538243" />
+    <Page Image="161" ImageSize="3958135" />
+    <Page Image="162" ImageSize="4174528" />
+    <Page Image="163" ImageSize="4288817" />
+    <Page Image="164" ImageSize="4209266" />
+    <Page Image="165" ImageSize="3941493" />
+    <Page Image="166" ImageSize="4098583" />
+    <Page Image="167" ImageSize="3997574" />
+    <Page Image="168" ImageSize="3439272" />
+    <Page Image="169" ImageSize="3713758" />
+    <Page Image="170" ImageSize="3603469" />
+    <Page Image="171" ImageSize="3919895" />
+    <Page Image="172" ImageSize="3204781" />
+    <Page Image="173" ImageSize="1847211" />
+    <Page Image="174" ImageSize="3974511" />
+    <Page Image="175" ImageSize="4230592" />
+    <Page Image="176" ImageSize="3817843" />
+    <Page Image="177" ImageSize="4124701" />
+    <Page Image="178" ImageSize="4304241" />
+    <Page Image="179" ImageSize="4021401" />
+    <Page Image="180" ImageSize="3330923" />
+    <Page Image="181" ImageSize="3786548" />
+    <Page Image="182" ImageSize="3753819" />
+    <Page Image="183" ImageSize="3513547" />
+    <Page Image="184" ImageSize="3808432" />
+    <Page Image="185" ImageSize="1803914" />
+    <Page Image="186" ImageSize="3245304" />
+    <Page Image="187" ImageSize="3735518" />
+    <Page Image="188" ImageSize="3500197" />
+    <Page Image="189" ImageSize="3780634" />
+    <Page Image="190" ImageSize="3585128" />
+    <Page Image="191" ImageSize="3400551" />
+    <Page Image="192" ImageSize="3736291" />
+    <Page Image="193" ImageSize="4179223" />
+    <Page Image="194" ImageSize="4504276" />
+    <Page Image="195" ImageSize="3746111" />
+    <Page Image="196" ImageSize="3381445" />
+    <Page Image="197" ImageSize="3077753" />
+    <Page Image="198" ImageSize="2706572" />
+    <Page Image="199" ImageSize="3050224" />
+    <Page Image="200" ImageSize="2797069" />
+    <Page Image="201" ImageSize="3147840" />
+    <Page Image="202" ImageSize="2772122" />
+    <Page Image="203" ImageSize="3299586" />
+    <Page Image="204" ImageSize="3118125" />
+    <Page Image="205" ImageSize="3436681" />
+    <Page Image="206" ImageSize="3484814" />
+    <Page Image="207" ImageSize="3171866" />
+    <Page Image="208" ImageSize="3010311" />
+    <Page Image="209" ImageSize="3075736" />
+    <Page Image="210" ImageSize="3101137" />
+    <Page Image="211" ImageSize="3318497" />
+    <Page Image="212" ImageSize="3395482" />
+    <Page Image="213" ImageSize="3280592" />
+    <Page Image="214" ImageSize="2909343" />
+    <Page Image="215" ImageSize="3680339" />
+    <Page Image="216" ImageSize="2935993" />
+    <Page Image="217" ImageSize="2740130" />
+    <Page Image="218" ImageSize="3525015" />
+    <Page Image="219" ImageSize="3600231" />
+    <Page Image="220" ImageSize="3208980" />
+    <Page Image="221" ImageSize="923538" />
+    <Page Image="222" ImageSize="1514639" />
+    <Page Image="223" ImageSize="1875514" />
+    <Page Image="224" ImageSize="2006649" />
+    <Page Image="225" ImageSize="1845168" />
+    <Page Image="226" ImageSize="1895398" />
+    <Page Image="227" ImageSize="1983066" />
+    <Page Image="228" ImageSize="2020550" />
+    <Page Image="229" ImageSize="1884655" />
+    <Page Image="230" ImageSize="1864287" />
+    <Page Image="231" ImageSize="1911957" />
+    <Page Image="232" ImageSize="2237242" />
+    <Page Image="233" ImageSize="1705211" />
+    <Page Image="234" ImageSize="128352" />
+  </Pages>
+  <Penciller>Carlos Pino,Dave Gibbons,Geoff Campion,Ian Kennedy,Jose Luis Ferrer,Kevin O'Neill,Mike Dorey,Geoff Campion,Mike Dorey,Mike White,Dave Gibbons,Kevin O'Neill,José Luis Ferrer,Carlos Pino,Ian Kennedy</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Ro-Busters: The Complete Nuts and Bolts</Series>
+  <Summary>Saved from the scrap heap by billionaire Howard Quartz, sewer droid Ro-Jaws and battle-weary war-bot Hammerstein became part of Ro-Busters - Quartz's international, robotic rescue squad. Plunged into situations far too dangerous for human beings to handle, the robotic duo need to maintain a 100% success rate, or face the threat of being dismantled by the sadistic battle tank Mek-Quake!
+
+Written by Pat Mills (The ABC Warriors) and featuring several British comic art luminaries, including Dave Gibbons (Watchmen), Ian Kennedy (Commando) and Kevin O'Neill (League of Extraordinary Gentlemen), this first volume includes all of the original Starlord strips and colour spreads.
+
+https://comicvine.gamespot.com/ro-busters-the-complete-nuts-and-bolts-1-volume-on/4000-526399/</Summary>
+  <Tags>Ro-Jaws,Howard Quartz,Mek-Quake,Chatterbox,Ro-Busters,Hammerstein</Tags>
+  <Teams>Ro-Busters</Teams>
+  <Title>Happy Ever After (Sort Of); Upstairs and Down Sewers!; Out!; In Bad Company!; Happy Days; Only Robots Left Alive!; Just Routine!; Wheels of Terror!; Baptism of Fire!; Yesterday's Hero!; Death on the Orient Express! Part Two; Death on the Orient Express!; The Preying Mantis; Day of the Robot</Title>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/ro-busters-the-complete-nuts-and-bolts-1-volume-on/4000-526399/</Web>
+  <Writer>Chris Lowder,Pat Mills,Kelvin Gosnell,Pat Mills,Jack Adrian,Chris Lowder</Writer>
+  <Year>2015</Year>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+  <Colorist>José Luis Ferrer,Carlos Pino,Ian Kennedy,Dave Gibbons</Colorist>
+</ComicInfo>

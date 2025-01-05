@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:comicvine:4000-237654</GTIN>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:45:25 [Issue ID 4000-237654] urn:comicvine:4000-237654
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 22:14:35. [Issue ID 740464]</Notes>
+  <Number>4</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="281520" Type="FrontCover" />
+    <Page Image="1" ImageSize="477136" />
+    <Page Image="2" ImageSize="669732" />
+    <Page Image="3" ImageSize="508352" />
+    <Page Image="4" ImageSize="593320" />
+    <Page Image="5" ImageSize="660850" />
+    <Page Image="6" ImageSize="555285" />
+    <Page Image="7" ImageSize="580038" />
+    <Page Image="8" ImageSize="521697" />
+    <Page Image="9" ImageSize="591983" />
+    <Page Image="10" ImageSize="582033" />
+    <Page Image="11" ImageSize="522598" />
+    <Page Image="12" ImageSize="664745" />
+    <Page Image="13" ImageSize="577930" />
+    <Page Image="14" ImageSize="667396" />
+    <Page Image="15" ImageSize="596861" />
+    <Page Image="16" ImageSize="488662" />
+    <Page Image="17" ImageSize="513137" />
+    <Page Image="18" ImageSize="623452" />
+    <Page Image="19" ImageSize="656519" />
+    <Page Image="20" ImageSize="663833" />
+    <Page Image="21" ImageSize="501066" />
+    <Page Image="22" ImageSize="108630" />
+    <Page Image="23" ImageSize="321450" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Golly!</Series>
+  <Volume>2008</Volume>
+  <Web>https://comicvine.gamespot.com/golly-4/4000-237654/</Web>
+  <Year>2009</Year>
+  <Count>5</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Grifter,Holden Carver,John Lynch</Characters>
+	<Day>31</Day>
+	<GTIN>urn:comixology:556468</GTIN>
+	<Genre>Superhero</Genre>
+	<Inker>Colin Wilson</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Locations>New York City,New York State</Locations>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:07:39 [Issue ID 4000-115163] urn:comicvine:4000-115163 urn:comixology:556468</Notes>
+	<Number>1</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1474107" Type="FrontCover"/>
+		<Page Image="1" ImageSize="686407"/>
+		<Page Image="2" ImageSize="907228"/>
+		<Page Image="3" ImageSize="1073078"/>
+		<Page Image="4" ImageSize="1278060"/>
+		<Page Image="5" ImageSize="1218563"/>
+		<Page Image="6" ImageSize="993151"/>
+		<Page Image="7" ImageSize="1134715"/>
+		<Page Image="8" ImageSize="1101244"/>
+		<Page Image="9" ImageSize="1441059"/>
+		<Page Image="10" ImageSize="1243973"/>
+		<Page Image="11" ImageSize="903146"/>
+		<Page Image="12" ImageSize="1026811"/>
+		<Page Image="13" ImageSize="1632256"/>
+		<Page Image="14" ImageSize="1061498"/>
+		<Page Image="15" ImageSize="1206845"/>
+		<Page Image="16" ImageSize="978254"/>
+		<Page Image="17" ImageSize="1000112"/>
+		<Page Image="18" ImageSize="913003"/>
+		<Page Image="19" ImageSize="1190064"/>
+		<Page Image="20" ImageSize="1072744"/>
+		<Page Image="21" ImageSize="1369778"/>
+		<Page Image="22" ImageSize="1272205"/>
+	</Pages>
+	<Penciller>Colin Wilson</Penciller>
+	<Publisher>DC</Publisher>
+	<Series>Point Blank</Series>
+	<Summary>POINT BLANK is the gritty prequel to the critically acclaimed SLEEPER graphic novel series written by Eisner Award-winner Ed Brubaker (Criminal, Captain America) and stylishly rendered by legendary artist Colin Wilson.</Summary>
+	<Tags>Grifter,Holden Carver,John Lynch,New York City,New York Police Department,New York State,Tao's Criminal Organization,Team 7</Tags>
+	<Teams>New York Police Department,Tao's Criminal Organization,Team 7</Teams>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/point-blank-1/4000-115163/</Web>
+	<Writer>Ed Brubaker</Writer>
+	<Year>2002</Year>
+</ComicInfo>

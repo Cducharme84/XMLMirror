@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Format>Series</Format>
+  <Genre>Superhero</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-23T23:40:01</Notes>
+  <Number>3</Number>
+  <PageCount>20</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3955" ImageSize="3124040" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3150" ImageSize="1986651" ImageWidth="2064" />
+    <Page DoublePage="False" Image="2" ImageHeight="3150" ImageSize="1714328" ImageWidth="2064" />
+    <Page DoublePage="False" Image="3" ImageHeight="3150" ImageSize="1824938" ImageWidth="2064" />
+    <Page DoublePage="False" Image="4" ImageHeight="3150" ImageSize="1082789" ImageWidth="2064" />
+    <Page DoublePage="False" Image="5" ImageHeight="3150" ImageSize="2132170" ImageWidth="2064" />
+    <Page DoublePage="False" Image="6" ImageHeight="3150" ImageSize="1827356" ImageWidth="2064" />
+    <Page DoublePage="False" Image="7" ImageHeight="3150" ImageSize="2318153" ImageWidth="2064" />
+    <Page DoublePage="False" Image="8" ImageHeight="3150" ImageSize="1567175" ImageWidth="2064" />
+    <Page DoublePage="False" Image="9" ImageHeight="3150" ImageSize="2391990" ImageWidth="2064" />
+    <Page DoublePage="False" Image="10" ImageHeight="3150" ImageSize="2576534" ImageWidth="2064" />
+    <Page DoublePage="True" Image="11" ImageHeight="3150" ImageSize="4517630" ImageWidth="4051" />
+    <Page DoublePage="False" Image="12" ImageHeight="3150" ImageSize="2093789" ImageWidth="2064" />
+    <Page DoublePage="False" Image="13" ImageHeight="3150" ImageSize="1279801" ImageWidth="2064" />
+    <Page DoublePage="False" Image="14" ImageHeight="3150" ImageSize="1738808" ImageWidth="2064" />
+    <Page DoublePage="False" Image="15" ImageHeight="3150" ImageSize="1850736" ImageWidth="2064" />
+    <Page DoublePage="False" Image="16" ImageHeight="3150" ImageSize="1639420" ImageWidth="2064" />
+    <Page DoublePage="False" Image="17" ImageHeight="3150" ImageSize="1396073" ImageWidth="2064" />
+    <Page DoublePage="False" Image="18" ImageHeight="3150" ImageSize="986217" ImageWidth="2064" />
+    <Page DoublePage="False" Image="19" ImageHeight="3075" ImageSize="428529" ImageWidth="1988" />
+  </Pages>
+  <Publisher>Atrophy Comix Studios</Publisher>
+  <Series>Canada Jack</Series>
+  <Volume>2015</Volume>
+  <Summary>Canada Jack! Defender of the Great White North! He wakes up in the morning and pisses excellence! Follow the adventures of this narcissistic maniac as he defends Canada from all threats foreign and domestic!</Summary>
+  <Year>2017</Year>
+</ComicInfo>

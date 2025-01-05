@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550822</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:47:11 [Issue ID 4000-550822] urn:comicvine:4000-550822 urn:grandcomicsdatabase:issue/550822
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:55:09. [Issue ID 550822]</Notes>
+  <Number>208</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="665735" Type="FrontCover" />
+    <Page Image="1" ImageSize="468706" />
+    <Page Image="2" ImageSize="620353" />
+    <Page Image="3" ImageSize="688847" />
+    <Page Image="4" ImageSize="672376" />
+    <Page Image="5" ImageSize="677212" />
+    <Page Image="6" ImageSize="654667" />
+    <Page Image="7" ImageSize="692393" />
+    <Page Image="8" ImageSize="675527" />
+    <Page Image="9" ImageSize="688363" />
+    <Page Image="10" ImageSize="684955" />
+    <Page Image="11" ImageSize="698836" />
+    <Page Image="12" ImageSize="681523" />
+    <Page Image="13" ImageSize="693963" />
+    <Page Image="14" ImageSize="678062" />
+    <Page Image="15" ImageSize="642902" />
+    <Page Image="16" ImageSize="635796" />
+    <Page Image="17" ImageSize="643333" />
+    <Page Image="18" ImageSize="630879" />
+    <Page Image="19" ImageSize="648246" />
+    <Page Image="20" ImageSize="599170" />
+    <Page Image="21" ImageSize="632001" />
+    <Page Image="22" ImageSize="623821" />
+    <Page Image="23" ImageSize="682876" />
+    <Page Image="24" ImageSize="633110" />
+    <Page Image="25" ImageSize="684554" />
+    <Page Image="26" ImageSize="708801" />
+    <Page Image="27" ImageSize="681771" />
+    <Page Image="28" ImageSize="652468" />
+    <Page Image="29" ImageSize="629046" />
+    <Page Image="30" ImageSize="647179" />
+    <Page Image="31" ImageSize="618697" />
+    <Page Image="32" ImageSize="590447" />
+    <Page Image="33" ImageSize="620552" />
+    <Page Image="34" ImageSize="548597" />
+    <Page Image="35" ImageSize="311294" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Planet of the Dead</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550822/</Web>
+  <Year>1979</Year>
+</ComicInfo>

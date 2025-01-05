@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>2</Count>
+	<CoverArtist>Caio Majado</CoverArtist>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-821794</GTIN>
+	<Genre>Fantasy,Horror,Zombies</Genre>
+	<Inker>Caio Majado</Inker>
+	<Letterer>HDE</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-25T21:56:08 [Issue ID 4000-821794] urn:comicvine:4000-821794</Notes>
+	<Number>1</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2064" ImageHeight="3226" ImageSize="2105169" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2064" ImageHeight="3154" ImageSize="1037938"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2064" ImageHeight="3154" ImageSize="1425463"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2064" ImageHeight="3154" ImageSize="1647812"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2064" ImageHeight="3154" ImageSize="1186832"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2064" ImageHeight="3154" ImageSize="1206748"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2064" ImageHeight="3154" ImageSize="1637862"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2064" ImageHeight="3154" ImageSize="1633617"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2064" ImageHeight="3154" ImageSize="1658552"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2064" ImageHeight="3154" ImageSize="1715829"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2064" ImageHeight="3154" ImageSize="1786014"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2064" ImageHeight="3154" ImageSize="1487131"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2064" ImageHeight="3154" ImageSize="1379711"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2064" ImageHeight="3154" ImageSize="1385694"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2064" ImageHeight="3154" ImageSize="1118656"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2064" ImageHeight="3154" ImageSize="1492329"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2064" ImageHeight="3154" ImageSize="1390684"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2064" ImageHeight="3154" ImageSize="1651035"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2064" ImageHeight="3154" ImageSize="1479828"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2064" ImageHeight="3154" ImageSize="1231350"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2064" ImageHeight="3154" ImageSize="1583511"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2064" ImageHeight="3154" ImageSize="1301975"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2064" ImageHeight="3154" ImageSize="1536281"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2064" ImageHeight="3154" ImageSize="1586481"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2064" ImageHeight="3154" ImageSize="1369269"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2064" ImageHeight="3154" ImageSize="1542973"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2064" ImageHeight="3154" ImageSize="1617933"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2064" ImageHeight="3154" ImageSize="1529542"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2064" ImageHeight="3154" ImageSize="1299788"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2064" ImageHeight="3154" ImageSize="1448421"/>
+		<Page Image="30" ImageSize="1223833"/>
+	</Pages>
+	<Penciller>Caio Majado</Penciller>
+	<Publisher>Big Dog Ink</Publisher>
+	<Series>PRINCESSES vs. ZOMBIES</Series>
+	<Title>Pumpkin Spice</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/princesses-vs-zombies-1-pumpkin-spice/4000-821794/</Web>
+	<Writer>Tom Hutchison</Writer>
+	<Year>2019</Year>
+</ComicInfo>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature Readers</AgeRating>
+	<Characters>Chris Rhodes,Chris's Mom,Doug,Jenny,Marci Hunt,Rick Ames,Rob Facincani,Steve,Tom</Characters>
+	<Count>4</Count>
+	<CoverArtist>Charles Burns</CoverArtist>
+	<GTIN>urn:comicvine:4000-51521</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Charles Burns</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Charles Burns,Susan Moore</Letterer>
+	<Locations>Seattle</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.9 on 2024-08-08T01:58:42 [Issue ID 4000-51521] urn:comicvine:4000-51521</Notes>
+	<Number>2</Number>
+	<PageCount>30</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="310642" Type="FrontCover"/>
+		<Page Image="1" ImageSize="356448"/>
+		<Page Image="2" ImageSize="419226"/>
+		<Page Image="3" ImageSize="31938"/>
+		<Page Image="4" ImageSize="364652"/>
+		<Page Image="5" ImageSize="471756"/>
+		<Page Image="6" ImageSize="514092"/>
+		<Page Image="7" ImageSize="562800"/>
+		<Page Image="8" ImageSize="530428"/>
+		<Page Image="9" ImageSize="407544"/>
+		<Page Image="10" ImageSize="373510"/>
+		<Page Image="11" ImageSize="455454"/>
+		<Page Image="12" ImageSize="452370"/>
+		<Page Image="13" ImageSize="366862"/>
+		<Page Image="14" ImageSize="436110"/>
+		<Page Image="15" ImageSize="379240"/>
+		<Page Image="16" ImageSize="400816"/>
+		<Page Image="17" ImageSize="450466"/>
+		<Page Image="18" ImageSize="415202"/>
+		<Page Image="19" ImageSize="435644"/>
+		<Page Image="20" ImageSize="436386"/>
+		<Page Image="21" ImageSize="443882"/>
+		<Page Image="22" ImageSize="449310"/>
+		<Page Image="23" ImageSize="498624"/>
+		<Page Image="24" ImageSize="408820"/>
+		<Page Image="25" ImageSize="397498"/>
+		<Page Image="26" ImageSize="428204"/>
+		<Page Image="27" ImageSize="379980"/>
+		<Page Image="28" ImageSize="531810"/>
+		<Page Image="29" ImageSize="392288"/>
+	</Pages>
+	<Penciller>Charles Burns</Penciller>
+	<Publisher>Kitchen Sink Press</Publisher>
+	<Series>Black Hole</Series>
+	<Summary>Racing Towards Something: Chris's friends discover she's caught the mutation disease</Summary>
+	<Title>Racing Towards Something</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/black-hole-2-racing-towards-something/4000-51521/</Web>
+	<Writer>Charles Burns</Writer>
+	<Year>1995</Year>
+</ComicInfo>

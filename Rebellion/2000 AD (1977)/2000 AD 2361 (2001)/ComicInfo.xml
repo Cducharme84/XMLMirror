@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>6</Day>
+	<GTIN>urn:comicvine:4000-1033522</GTIN>
+	<LanguageISO>en</LanguageISO>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.9 on 2024-07-27T21:39:19 [Issue ID 4000-1033522] urn:comicvine:4000-1033522</Notes>
+	<Number>2361</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1739722" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1511020"/>
+		<Page Image="2" ImageSize="1507328"/>
+		<Page Image="3" ImageSize="1406009"/>
+		<Page Image="4" ImageSize="1192045"/>
+		<Page Image="5" ImageSize="1244880"/>
+		<Page Image="6" ImageSize="1162536"/>
+		<Page Image="7" ImageSize="1230791"/>
+		<Page Image="8" ImageSize="1407029"/>
+		<Page Image="9" ImageSize="1335769"/>
+		<Page Image="10" ImageSize="1046835"/>
+		<Page Image="11" ImageSize="1307925"/>
+		<Page Image="12" ImageSize="1227999"/>
+		<Page Image="13" ImageSize="1251167"/>
+		<Page Image="14" ImageSize="1651727"/>
+		<Page Image="15" ImageSize="2066795"/>
+		<Page Image="16" ImageSize="1723732"/>
+		<Page Image="17" ImageSize="1951324"/>
+		<Page Image="18" ImageSize="1745901"/>
+		<Page Image="19" ImageSize="1820782"/>
+		<Page Image="20" ImageSize="1366102"/>
+		<Page Image="21" ImageSize="1407586"/>
+		<Page Image="22" ImageSize="1470344"/>
+		<Page Image="23" ImageSize="1218159"/>
+		<Page Image="24" ImageSize="1476026"/>
+		<Page Image="25" ImageSize="1448523"/>
+		<Page Image="26" ImageSize="1320305"/>
+		<Page Image="27" ImageSize="1302107"/>
+		<Page Image="28" ImageSize="1247160"/>
+		<Page Image="29" ImageSize="1298057"/>
+		<Page Image="30" ImageSize="2152615"/>
+		<Page Image="31" ImageSize="1001319"/>
+	</Pages>
+	<Publisher>Rebellion</Publisher>
+	<ScanInformation>(december 2023)</ScanInformation>
+	<Series>2000 AD</Series>
+	<Title>ad</Title>
+	<Volume>1977</Volume>
+	<Web>https://comicvine.gamespot.com/2000-ad-2361-prog-2361/4000-1033522/</Web>
+	<Year>2001</Year>
+</ComicInfo>

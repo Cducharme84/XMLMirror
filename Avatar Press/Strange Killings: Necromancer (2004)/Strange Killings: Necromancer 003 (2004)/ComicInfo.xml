@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Gravel</Characters>
+	<Count>6</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-794688</GTIN>
+	<Genre>Fantasy,Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:52:57 [Issue ID 4000-794688] urn:comicvine:4000-794688 urn:grandcomicsdatabase:issue/794688</Notes>
+	<Number>3</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="858318" Type="FrontCover"/>
+		<Page Image="1" ImageSize="362817"/>
+		<Page Image="2" ImageSize="345387"/>
+		<Page Image="3" ImageSize="297364"/>
+		<Page Image="4" ImageSize="359121"/>
+		<Page Image="5" ImageSize="354732"/>
+		<Page Image="6" ImageSize="328243"/>
+		<Page Image="7" ImageSize="299626"/>
+		<Page Image="8" ImageSize="348409"/>
+		<Page Image="9" ImageSize="293452"/>
+		<Page Image="10" ImageSize="245609"/>
+		<Page Image="11" ImageSize="339158"/>
+		<Page Image="12" ImageSize="355510"/>
+		<Page Image="13" ImageSize="343607"/>
+		<Page Image="14" ImageSize="344761"/>
+		<Page Image="15" ImageSize="304711"/>
+		<Page Image="16" ImageSize="356544"/>
+		<Page Image="17" ImageSize="394940"/>
+		<Page Image="18" ImageSize="243392"/>
+		<Page Image="19" ImageSize="322372"/>
+		<Page Image="20" ImageSize="322797"/>
+		<Page Image="21" ImageSize="236273"/>
+		<Page Image="22" ImageSize="202644"/>
+		<Page Image="23" ImageSize="335142"/>
+		<Page Image="24" ImageSize="166783"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Strange Killings: Necromancer</Series>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-794688/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2004</Year>
+</ComicInfo>

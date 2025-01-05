@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>For Mature Readers</AgeRating>
+  <Characters>Jason Voorhees</Characters>
+  <Colorist>Andrew Dalhouse</Colorist>
+  <Count>2</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <Editor>William Christensen</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-128135</GTIN>
+  <Inker>Mike Wolfer</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Camp Crystal Lake,Space</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:19:24 [Issue ID 4000-128135] urn:comicvine:4000-128135 urn:grandcomicsdatabase:issue/807026
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 16:32:53. [Issue ID 807026]</Notes>
+  <Number>1</Number>
+  <PageCount>28</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="341952" Type="FrontCover" />
+    <Page Image="1" ImageSize="477871" />
+    <Page Image="2" ImageSize="602406" />
+    <Page Image="3" ImageSize="953032" />
+    <Page Image="4" ImageSize="360443" />
+    <Page Image="5" ImageSize="281142" />
+    <Page Image="6" ImageSize="318379" />
+    <Page Image="7" ImageSize="290308" />
+    <Page Image="8" ImageSize="322363" />
+    <Page Image="9" ImageSize="342581" />
+    <Page Image="10" ImageSize="371192" />
+    <Page Image="11" ImageSize="260685" />
+    <Page Image="12" ImageSize="268180" />
+    <Page Image="13" ImageSize="282182" />
+    <Page Image="14" ImageSize="304509" />
+    <Page Image="15" ImageSize="324255" />
+    <Page Image="16" ImageSize="319811" />
+    <Page Image="17" ImageSize="235256" />
+    <Page Image="18" ImageSize="292758" />
+    <Page Image="19" ImageSize="296083" />
+    <Page Image="20" ImageSize="319301" />
+    <Page Image="21" ImageSize="376430" />
+    <Page Image="22" ImageSize="274064" />
+    <Page Image="23" ImageSize="373868" />
+    <Page Image="24" ImageSize="273469" />
+    <Page Image="25" ImageSize="306299" />
+    <Page Image="26" ImageSize="291980" />
+    <Page Image="27" ImageSize="365039" />
+  </Pages>
+  <Penciller>Mike Wolfer</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Friday the 13th: Jason vs Jason X</Series>
+  <Volume>2006</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-128135/</Web>
+  <Writer>Mike Wolfer</Writer>
+  <Year>2006</Year>
+</ComicInfo>

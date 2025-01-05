@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Iron Jaw</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-15205</GTIN>
+	<Letterer>Alan Kupperberg</Letterer>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:47 [Issue ID 4000-15205] urn:comicvine:4000-15205</Notes>
+	<Number>3</Number>
+	<PageCount>20</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="546690" Type="FrontCover"/>
+		<Page Image="1" ImageSize="448491"/>
+		<Page Image="2" ImageSize="397364"/>
+		<Page Image="3" ImageSize="394421"/>
+		<Page Image="4" ImageSize="422214"/>
+		<Page Image="5" ImageSize="461666"/>
+		<Page Image="6" ImageSize="440787"/>
+		<Page Image="7" ImageSize="445476"/>
+		<Page Image="8" ImageSize="431751"/>
+		<Page Image="9" ImageSize="379338"/>
+		<Page Image="10" ImageSize="417655"/>
+		<Page Image="11" ImageSize="435371"/>
+		<Page Image="12" ImageSize="386178"/>
+		<Page Image="13" ImageSize="394902"/>
+		<Page Image="14" ImageSize="415586"/>
+		<Page Image="15" ImageSize="423973"/>
+		<Page Image="16" ImageSize="435570"/>
+		<Page Image="17" ImageSize="419206"/>
+		<Page Image="18" ImageSize="417162"/>
+		<Page Image="19" ImageSize="415531"/>
+	</Pages>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>Iron Jaw</Series>
+	<Summary>https://comicvine.gamespot.com/iron-jaw-3/4000-15205/</Summary>
+	<Tags>Iron Jaw</Tags>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/iron-jaw-3/4000-15205/</Web>
+	<Writer>Michael Fleisher</Writer>
+	<Year>1975</Year>
+</ComicInfo>

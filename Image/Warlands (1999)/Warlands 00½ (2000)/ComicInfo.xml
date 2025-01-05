@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Day>1</Day>
+  <Editor>Roger Lee</Editor>
+  <GTIN>urn:comicvine:4000-177038</GTIN>
+  <Inker>Alvin Lee,Pat Lee</Inker>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:49:40 [Issue ID 4000-177038] urn:comicvine:4000-177038
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 00:53:34. [Issue ID 177038]</Notes>
+  <Number>½</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="333275" Type="FrontCover" />
+    <Page Image="1" ImageSize="242593" />
+    <Page Image="2" ImageSize="383946" />
+    <Page Image="3" ImageSize="345244" />
+    <Page Image="4" ImageSize="322023" />
+    <Page Image="5" ImageSize="256404" />
+    <Page Image="6" ImageSize="304384" />
+    <Page Image="7" ImageSize="344229" />
+    <Page Image="8" ImageSize="372114" />
+    <Page Image="9" ImageSize="319873" />
+    <Page Image="10" ImageSize="494673" />
+    <Page Image="11" ImageSize="376432" />
+    <Page Image="12" ImageSize="389002" />
+    <Page Image="13" ImageSize="352558" />
+    <Page Image="14" ImageSize="309645" />
+    <Page Image="15" ImageSize="248878" />
+    <Page Image="16" ImageSize="237073" />
+    <Page Image="17" ImageSize="232882" />
+    <Page Image="18" ImageSize="216272" />
+    <Page Image="19" ImageSize="237935" />
+    <Page Image="20" ImageSize="238589" />
+    <Page Image="21" ImageSize="256087" />
+    <Page Image="22" ImageSize="285095" />
+  </Pages>
+  <Penciller>Pat Lee,Pat Lee</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Warlands</Series>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/warlands-12/4000-177038/</Web>
+  <Writer>Adrian Tsang</Writer>
+  <Year>2000</Year>
+  <Count>14</Count>
+  <CoverArtist>Alvin Lee,Dreamwave Productions,Pat Lee</CoverArtist>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Dougie Patterson,Ivor Thompson</Characters>
+	<Count>4</Count>
+	<Country>US</Country>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-386464</GTIN>
+	<Genre>Humor</Genre>
+	<Inker>John McCrea</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:36:55 [Issue ID 4000-386464] urn:comicvine:4000-386464 urn:grandcomicsdatabase:issue/386464</Notes>
+	<Number>4</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="323642" Type="FrontCover"/>
+		<Page Image="1" ImageSize="336803"/>
+		<Page Image="2" ImageSize="155320"/>
+		<Page Image="3" ImageSize="152052"/>
+		<Page Image="4" ImageSize="179127"/>
+		<Page Image="5" ImageSize="192003"/>
+		<Page Image="6" ImageSize="187996"/>
+		<Page Image="7" ImageSize="211194"/>
+		<Page Image="8" ImageSize="262078"/>
+		<Page Image="9" ImageSize="194113"/>
+		<Page Image="10" ImageSize="220826"/>
+		<Page Image="11" ImageSize="216902"/>
+		<Page Image="12" ImageSize="182221"/>
+		<Page Image="13" ImageSize="456960"/>
+		<Page Image="14" ImageSize="200985"/>
+		<Page Image="15" ImageSize="146375"/>
+		<Page Image="16" ImageSize="177868"/>
+		<Page Image="17" ImageSize="170853"/>
+		<Page Image="18" ImageSize="199494"/>
+		<Page Image="19" ImageSize="186231"/>
+		<Page Image="20" ImageSize="175042"/>
+		<Page Image="21" ImageSize="163679"/>
+		<Page Image="22" ImageSize="177561"/>
+	</Pages>
+	<Penciller>John McCrea</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Dicks 2</Series>
+	<Summary>Each issue comes with a "clean" and "offensive" cover.</Summary>
+	<Title>#4: Give Us A Bloooooww</Title>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-386464/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2003</Year>
+</ComicInfo>

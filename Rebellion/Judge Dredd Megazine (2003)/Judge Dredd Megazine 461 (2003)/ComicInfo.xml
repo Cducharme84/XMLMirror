@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Henry Dubble,Judge Dredd,Helm,Judge Veranda Glover,Spector,Gunnar,Bagman,Johnny Red,Rogue Trooper</Characters>
+  <Colorist>Chris Blythe,Dylan Teague,Ian Gibson,Jason Wordie,Sally Hurst,Stephen Downer</Colorist>
+  <Day>20</Day>
+  <GTIN>urn:comicvine:4000-1025458</GTIN>
+  <Inker>Alberto Ponticelli,Carlos Ezquerra,Colin MacNeil,Dan Cornwell,Gary Welsh,John Higgins,Jose Luis Ferrer,Keith Burns</Inker>
+  <Letterer>Jim Campbell,Peter Knight,Rob Steen,Simon Bowland,Steve Potter,Tom B. Long,Tom Frame</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:25:35 [Issue ID 4000-1025458] urn:comicvine:4000-1025458
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:07:46. [Issue ID 2615408]</Notes>
+  <Number>461</Number>
+  <PageCount>132</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1709311" Type="FrontCover" />
+    <Page Image="1" ImageSize="2261626" />
+    <Page Image="2" ImageSize="2208628" />
+    <Page Image="3" ImageSize="3223144" />
+    <Page Image="4" ImageSize="1993310" />
+    <Page Image="5" ImageSize="1898849" />
+    <Page Image="6" ImageSize="1772050" />
+    <Page Image="7" ImageSize="1612542" />
+    <Page Image="8" ImageSize="1825505" />
+    <Page Image="9" ImageSize="1930322" />
+    <Page Image="10" ImageSize="1474340" />
+    <Page Image="11" ImageSize="1619210" />
+    <Page Image="12" ImageSize="1864664" />
+    <Page Image="13" ImageSize="1783967" />
+    <Page Image="14" ImageSize="4703646" />
+    <Page Image="15" ImageSize="1159725" />
+    <Page Image="16" ImageSize="2466103" />
+    <Page Image="17" ImageSize="2311701" />
+    <Page Image="18" ImageSize="2440511" />
+    <Page Image="19" ImageSize="2942086" />
+    <Page Image="20" ImageSize="3256071" />
+    <Page Image="21" ImageSize="2726419" />
+    <Page Image="22" ImageSize="2680736" />
+    <Page Image="23" ImageSize="2841721" />
+    <Page Image="24" ImageSize="2467588" />
+    <Page Image="25" ImageSize="2357811" />
+    <Page Image="26" ImageSize="1886790" />
+    <Page Image="27" ImageSize="1892057" />
+    <Page Image="28" ImageSize="1982671" />
+    <Page Image="29" ImageSize="1881437" />
+    <Page Image="30" ImageSize="2120119" />
+    <Page Image="31" ImageSize="1980910" />
+    <Page Image="32" ImageSize="2264740" />
+    <Page Image="33" ImageSize="2308233" />
+    <Page Image="34" ImageSize="2170433" />
+    <Page Image="35" ImageSize="2461816" />
+    <Page Image="36" ImageSize="1876198" />
+    <Page Image="37" ImageSize="1819986" />
+    <Page Image="38" ImageSize="2651589" />
+    <Page Image="39" ImageSize="2435683" />
+    <Page Image="40" ImageSize="2630343" />
+    <Page Image="41" ImageSize="2385488" />
+    <Page Image="42" ImageSize="2773143" />
+    <Page Image="43" ImageSize="2373008" />
+    <Page Image="44" ImageSize="3311286" />
+    <Page Image="45" ImageSize="3498077" />
+    <Page Image="46" ImageSize="3494977" />
+    <Page Image="47" ImageSize="3902582" />
+    <Page Image="48" ImageSize="3383057" />
+    <Page Image="49" ImageSize="3052012" />
+    <Page Image="50" ImageSize="3364512" />
+    <Page Image="51" ImageSize="2911721" />
+    <Page Image="52" ImageSize="3414006" />
+    <Page Image="53" ImageSize="3870384" />
+    <Page Image="54" ImageSize="3729936" />
+    <Page Image="55" ImageSize="3757573" />
+    <Page Image="56" ImageSize="3795283" />
+    <Page Image="57" ImageSize="3411498" />
+    <Page Image="58" ImageSize="3935127" />
+    <Page Image="59" ImageSize="4020629" />
+    <Page Image="60" ImageSize="2240110" />
+    <Page Image="61" ImageSize="2830890" />
+    <Page Image="62" ImageSize="3386829" />
+    <Page Image="63" ImageSize="3088597" />
+    <Page Image="64" ImageSize="1624838" />
+    <Page Image="65" ImageSize="2549217" />
+    <Page Image="66" ImageSize="1558059" />
+    <Page Image="67" ImageSize="1317962" />
+    <Page Image="68" ImageSize="1578035" />
+    <Page Image="69" ImageSize="1515416" />
+    <Page Image="70" ImageSize="1714516" />
+    <Page Image="71" ImageSize="1505460" />
+    <Page Image="72" ImageSize="1626750" />
+    <Page Image="73" ImageSize="1485554" />
+    <Page Image="74" ImageSize="1519041" />
+    <Page Image="75" ImageSize="1684045" />
+    <Page Image="76" ImageSize="1654188" />
+    <Page Image="77" ImageSize="1573707" />
+    <Page Image="78" ImageSize="1454823" />
+    <Page Image="79" ImageSize="1604172" />
+    <Page Image="80" ImageSize="1454722" />
+    <Page Image="81" ImageSize="1611170" />
+    <Page Image="82" ImageSize="1481980" />
+    <Page Image="83" ImageSize="1508884" />
+    <Page Image="84" ImageSize="2027410" />
+    <Page Image="85" ImageSize="1719422" />
+    <Page Image="86" ImageSize="1412985" />
+    <Page Image="87" ImageSize="2777141" />
+    <Page Image="88" ImageSize="2044905" />
+    <Page Image="89" ImageSize="2687123" />
+    <Page Image="90" ImageSize="2572180" />
+    <Page Image="91" ImageSize="2089415" />
+    <Page Image="92" ImageSize="1982178" />
+    <Page Image="93" ImageSize="2249331" />
+    <Page Image="94" ImageSize="2126296" />
+    <Page Image="95" ImageSize="2240797" />
+    <Page Image="96" ImageSize="1948573" />
+    <Page Image="97" ImageSize="2171790" />
+    <Page Image="98" ImageSize="1952952" />
+    <Page Image="99" ImageSize="2233296" />
+    <Page Image="100" ImageSize="1939652" />
+    <Page Image="101" ImageSize="2193295" />
+    <Page Image="102" ImageSize="2235183" />
+    <Page Image="103" ImageSize="1951861" />
+    <Page Image="104" ImageSize="2137410" />
+    <Page Image="105" ImageSize="2297680" />
+    <Page Image="106" ImageSize="2189192" />
+    <Page Image="107" ImageSize="4867504" />
+    <Page Image="108" ImageSize="1979306" />
+    <Page Image="109" ImageSize="3449829" />
+    <Page Image="110" ImageSize="2925072" />
+    <Page Image="111" ImageSize="3459634" />
+    <Page Image="112" ImageSize="2993170" />
+    <Page Image="113" ImageSize="4142103" />
+    <Page Image="114" ImageSize="3732728" />
+    <Page Image="115" ImageSize="3609677" />
+    <Page Image="116" ImageSize="2825073" />
+    <Page Image="117" ImageSize="2956131" />
+    <Page Image="118" ImageSize="2994961" />
+    <Page Image="119" ImageSize="1980182" />
+    <Page Image="120" ImageSize="2419270" />
+    <Page Image="121" ImageSize="1897620" />
+    <Page Image="122" ImageSize="2495720" />
+    <Page Image="123" ImageSize="2266863" />
+    <Page Image="124" ImageSize="2623016" />
+    <Page Image="125" ImageSize="2696194" />
+    <Page Image="126" ImageSize="2122179" />
+    <Page Image="127" ImageSize="2131590" />
+    <Page Image="128" ImageSize="1916669" />
+    <Page Image="129" ImageSize="2310883" />
+    <Page Image="130" ImageSize="2019102" />
+    <Page Image="131" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Alberto Ponticelli,Carlos Ezquerra,Colin MacNeil,Dan Cornwell,Gary Welsh,John Higgins,Jose Luis Ferrer,Keith Burns</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>As the dust clears on the warzones of the Battle Action crossover last month - by all accounts a palpable hit with you Squaxx - it’s back to business as usual. There’s two complete new stories this issue - Mike Carroll and Colin MacNeil collaborate on the Judge Dredd one-off, ‘Risk Assessment’, and we get into the spirit of the spooky season with a Tale From the Black Museum from Guy Adams and Gary Welsh.
+
+Elsewhere, there’s the latest instalments of Spector, Lawless, Rogue Trooper and Johnny Red, plus we reach the finale of the current Dreadnoughts arc (Mike and John will be back for more early-era Judges action in Nothing to Fear next year).
+
+Elsewhere, writer and editor John Tomlinson gets the Interrogation treatment, discussing his recent horror comedy Portals &amp; Black Goo that ran in the prog, Jock talks his new solo project Gone, we delve into the contents of the new three-part Smash! special as Paul Grist handles the Spider alongside artists such as Anna Morozova and Tom Foster, and Karl Stock tries to find out more about Robo-Hunter artist José Luis Ferrer – enjoy!
+
+Cover: Colin MacNeil
+
+Judge Dredd - Risk Assessment (Mike Carroll - Colin MacNeil)Mega-City One, 2145 AD. This vast urban hell on the east coast of post-apocalyptic North America is home to over 200 million citizens, with the irradiated Cursed Earth to the west and the toxic Black Atlantic to the east. Crime is rampant, and stemming the tide of chaos are the Judges. Toughest of them all is Judge Dredd - he is the Law!
+
+Spector - Incorruptible (Part 7) (John Wagner - Dan Cornwell)In a near-future US city, corruption within the branches of government has reached unsustainable levels. City Hall is rotten to the core, and the police force is equally on the take. To that end, Spector is created, a robot detective - beyond bribery and untainted by potential malfeasance - charged with rooting out criminal elements. But the android inspector is making many enemies…
+
+Tales From the Black Museum - The Tooth Will Kill Ya! (Guy Adams - Gary Welsh)Mega-City One, 2145 AD. Deep in the heart of the Grand Hall of Justice lies the Black Museum, Justice Department’s permanent exhibition of the relics from bygone crimes. Whether it’s a notorious serial killer’s trophies or the weapons of the Dark Judges, the violent history of the Big Meg is laid bare here. Let undead guide Henry Dubble show you around…
+
+Robo-Hunter - Planet of the Robots (John Wagner - Ian Gibson)For forty years, Sam Slade has been one of the best robo-tectives in the business, but all of his experience couldn’t prepare him for his latest case. The Commission believe that robots have taken control of the planet Verdus and want Sam to uncover the truth. It’s a dangerous case, but one Sam can’t refuse - otherwise he’s guaranteed a bullet in the head!
+
+Rogue Trooper - Part 3 (Brian Buckley - Alberto Pnoticelli)Nu-Earth, just another planet ravaged by a galaxy-wide war, its atmosphere poisoned by chemical weapons. Created to fight in such conditions were the G.I.s - genetically engineered infantrymen. But now only one remains, the man known as… Rogue Trooper!
+
+Johnny Red - Part 6 (Garth Ennis - Keith Burns)Legendary British fighter ace, Johnny ‘Red’ Redburn, returns once more as the commander of the Falcons - a Russian fighter squadron battling the Nazis in the skies over Stalingrad. But dogfighting Messerschmitts is about to become the least of his troubles when the NVKD - the notorious Soviet secret police - come calling!
+
+Lawless - Most Wanted (Part 6) (Dan Abnett - Phil Winslade)Colonial Marshal Metta Lawson was appointed to the frontier township of Badrock on the planet 43 Rega, intent on stamping her authority on the colony. But in doing so, Lawson made many enemies, including Munce, Inc., the mega-corporation that funded Badrock. Now, having been thrown off the force, and becoming a vigilante, she’s turned to organised crime…
+
+Dreadnoughts - The March of Progress (Part 7) (Mike Carroll - John Higgins)USA, 2035 AD. The new Justice Department is still in its early years, with Judges working alongside the police. It’s proving an explosive transition, with many citizens - and more than a few cops - unhappy with these helmeted officers taking to the streets. Judge Veranda Glover is a recent transfer to Boulder, Colorado, where a drugs cartel is striking back at the law…
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-18 22:51:38.  [Issue ID 1025458]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-461-meg-461/4000-1025458/</Summary>
+  <Tags>Henry Dubble,Judge Dredd,Helm,Judge Veranda Glover,Spector,Gunnar,Bagman,Johnny Red,Rogue Trooper</Tags>
+  <Title>Meg 461</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-461-meg-461/4000-1025458/</Web>
+  <Writer>Dan Abnett,Garth Ennis,Guy Adams,John Wagner,Michael Carroll</Writer>
+  <Year>2003</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Child,Arthur Lemming,Exterminator One,Dax,Spook,Demian Hunter</Characters>
+  <GTIN>urn:comicvine:4000-380345</GTIN>
+  <Inker>Bernie Wrightson,Esteban Maroto,Isidro Mones,Jaime Brocal Remohí,Ken Kelly,Leopoldo Sanchez,Manuel Sanjulian,Martin Salvador,Paul Neary,Richard Corben,Wally Wood</Inker>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:12:26 [Issue ID 4000-380345] urn:comicvine:4000-380345
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 09:08:50. [Issue ID 1052490]</Notes>
+  <Number>12</Number>
+  <PageCount>273</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="3765587" Type="FrontCover" />
+    <Page Image="1" ImageSize="1130587" />
+    <Page Image="2" ImageSize="86637" />
+    <Page Image="3" ImageSize="652462" />
+    <Page Image="4" ImageSize="1020884" />
+    <Page Image="5" ImageSize="1053116" />
+    <Page Image="6" ImageSize="1513305" />
+    <Page Image="7" ImageSize="1891652" />
+    <Page Image="8" ImageSize="2625283" />
+    <Page Image="9" ImageSize="1969265" />
+    <Page Image="10" ImageSize="1344637" />
+    <Page Image="11" ImageSize="2358888" />
+    <Page Image="12" ImageSize="2698758" />
+    <Page Image="13" ImageSize="2614585" />
+    <Page Image="14" ImageSize="2090622" />
+    <Page Image="15" ImageSize="2326361" />
+    <Page Image="16" ImageSize="2131134" />
+    <Page Image="17" ImageSize="2126725" />
+    <Page Image="18" ImageSize="1954658" />
+    <Page Image="19" ImageSize="2200132" />
+    <Page Image="20" ImageSize="2328817" />
+    <Page Image="21" ImageSize="1806618" />
+    <Page Image="22" ImageSize="1907949" />
+    <Page Image="23" ImageSize="2376002" />
+    <Page Image="24" ImageSize="1551964" />
+    <Page Image="25" ImageSize="1797029" />
+    <Page Image="26" ImageSize="2070530" />
+    <Page Image="27" ImageSize="2152676" />
+    <Page Image="28" ImageSize="1654885" />
+    <Page Image="29" ImageSize="2200082" />
+    <Page Image="30" ImageSize="2627405" />
+    <Page Image="31" ImageSize="2237554" />
+    <Page Image="32" ImageSize="2455516" />
+    <Page Image="33" ImageSize="2540670" />
+    <Page Image="34" ImageSize="2222077" />
+    <Page Image="35" ImageSize="1984624" />
+    <Page Image="36" ImageSize="1974952" />
+    <Page Image="37" ImageSize="2536580" />
+    <Page Image="38" ImageSize="3759016" />
+    <Page Image="39" ImageSize="3198471" />
+    <Page Image="40" ImageSize="3502594" />
+    <Page Image="41" ImageSize="3461465" />
+    <Page Image="42" ImageSize="4447632" />
+    <Page Image="43" ImageSize="3323822" />
+    <Page Image="44" ImageSize="3564174" />
+    <Page Image="45" ImageSize="4250731" />
+    <Page Image="46" ImageSize="2188017" />
+    <Page Image="47" ImageSize="2236775" />
+    <Page Image="48" ImageSize="2581862" />
+    <Page Image="49" ImageSize="2052409" />
+    <Page Image="50" ImageSize="2588770" />
+    <Page Image="51" ImageSize="2470857" />
+    <Page Image="52" ImageSize="2263861" />
+    <Page Image="53" ImageSize="2616329" />
+    <Page Image="54" ImageSize="2227355" />
+    <Page Image="55" ImageSize="2250261" />
+    <Page Image="56" ImageSize="2320182" />
+    <Page Image="57" ImageSize="2251410" />
+    <Page Image="58" ImageSize="2418878" />
+    <Page Image="59" ImageSize="2015262" />
+    <Page Image="60" ImageSize="2032222" />
+    <Page Image="61" ImageSize="2504319" />
+    <Page Image="62" ImageSize="2192873" />
+    <Page Image="63" ImageSize="2171219" />
+    <Page Image="64" ImageSize="2289922" />
+    <Page Image="65" ImageSize="1706344" />
+    <Page Image="66" ImageSize="2093448" />
+    <Page Image="67" ImageSize="1838344" />
+    <Page Image="68" ImageSize="2319801" />
+    <Page Image="69" ImageSize="2370492" />
+    <Page Image="70" ImageSize="1470396" />
+    <Page Image="71" ImageSize="2165597" />
+    <Page Image="72" ImageSize="2227723" />
+    <Page Image="73" ImageSize="2905118" />
+    <Page Image="74" ImageSize="2078786" />
+    <Page Image="75" ImageSize="2429494" />
+    <Page Image="76" ImageSize="2645873" />
+    <Page Image="77" ImageSize="1965886" />
+    <Page Image="78" ImageSize="1892888" />
+    <Page Image="79" ImageSize="2218737" />
+    <Page Image="80" ImageSize="2306276" />
+    <Page Image="81" ImageSize="2170552" />
+    <Page Image="82" ImageSize="2158351" />
+    <Page Image="83" ImageSize="2035887" />
+    <Page Image="84" ImageSize="2022794" />
+    <Page Image="85" ImageSize="1995308" />
+    <Page Image="86" ImageSize="2424346" />
+    <Page Image="87" ImageSize="1810923" />
+    <Page Image="88" ImageSize="2544077" />
+    <Page Image="89" ImageSize="2400881" />
+    <Page Image="90" ImageSize="1959939" />
+    <Page Image="91" ImageSize="2223406" />
+    <Page Image="92" ImageSize="2405856" />
+    <Page Image="93" ImageSize="2767768" />
+    <Page Image="94" ImageSize="2318538" />
+    <Page Image="95" ImageSize="2349024" />
+    <Page Image="96" ImageSize="1830129" />
+    <Page Image="97" ImageSize="2294132" />
+    <Page Image="98" ImageSize="2377770" />
+    <Page Image="99" ImageSize="2641453" />
+    <Page Image="100" ImageSize="2551727" />
+    <Page Image="101" ImageSize="2390600" />
+    <Page Image="102" ImageSize="2810435" />
+    <Page Image="103" ImageSize="3667446" />
+    <Page Image="104" ImageSize="2655636" />
+    <Page Image="105" ImageSize="2353560" />
+    <Page Image="106" ImageSize="3490345" />
+    <Page Image="107" ImageSize="3525044" />
+    <Page Image="108" ImageSize="4045542" />
+    <Page Image="109" ImageSize="3031902" />
+    <Page Image="110" ImageSize="2091852" />
+    <Page Image="111" ImageSize="2349195" />
+    <Page Image="112" ImageSize="2625816" />
+    <Page Image="113" ImageSize="2283937" />
+    <Page Image="114" ImageSize="1956048" />
+    <Page Image="115" ImageSize="2254264" />
+    <Page Image="116" ImageSize="1826586" />
+    <Page Image="117" ImageSize="2438923" />
+    <Page Image="118" ImageSize="2229173" />
+    <Page Image="119" ImageSize="2243496" />
+    <Page Image="120" ImageSize="2269837" />
+    <Page Image="121" ImageSize="1893008" />
+    <Page Image="122" ImageSize="1981238" />
+    <Page Image="123" ImageSize="2331781" />
+    <Page Image="124" ImageSize="2555126" />
+    <Page Image="125" ImageSize="2057098" />
+    <Page Image="126" ImageSize="2398955" />
+    <Page Image="127" ImageSize="2438452" />
+    <Page Image="128" ImageSize="2684952" />
+    <Page Image="129" ImageSize="2240850" />
+    <Page Image="130" ImageSize="1947114" />
+    <Page Image="131" ImageSize="2204145" />
+    <Page Image="132" ImageSize="2453182" />
+    <Page Image="133" ImageSize="3111028" />
+    <Page Image="134" ImageSize="1761656" />
+    <Page Image="135" ImageSize="2111332" />
+    <Page Image="136" ImageSize="2565392" />
+    <Page Image="137" ImageSize="2586242" />
+    <Page Image="138" ImageSize="2402535" />
+    <Page Image="139" ImageSize="1649001" />
+    <Page Image="140" ImageSize="2125512" />
+    <Page Image="141" ImageSize="1975642" />
+    <Page Image="142" ImageSize="1983418" />
+    <Page Image="143" ImageSize="2486690" />
+    <Page Image="144" ImageSize="2298902" />
+    <Page Image="145" ImageSize="2448162" />
+    <Page Image="146" ImageSize="1906786" />
+    <Page Image="147" ImageSize="2058498" />
+    <Page Image="148" ImageSize="1890869" />
+    <Page Image="149" ImageSize="2009223" />
+    <Page Image="150" ImageSize="1981188" />
+    <Page Image="151" ImageSize="1967727" />
+    <Page Image="152" ImageSize="1716246" />
+    <Page Image="153" ImageSize="2115668" />
+    <Page Image="154" ImageSize="2522712" />
+    <Page Image="155" ImageSize="2645250" />
+    <Page Image="156" ImageSize="2532894" />
+    <Page Image="157" ImageSize="1969470" />
+    <Page Image="158" ImageSize="2277892" />
+    <Page Image="159" ImageSize="2408588" />
+    <Page Image="160" ImageSize="2476383" />
+    <Page Image="161" ImageSize="1798500" />
+    <Page Image="162" ImageSize="1885567" />
+    <Page Image="163" ImageSize="1610754" />
+    <Page Image="164" ImageSize="2886096" />
+    <Page Image="165" ImageSize="2994912" />
+    <Page Image="166" ImageSize="3010721" />
+    <Page Image="167" ImageSize="2693626" />
+    <Page Image="168" ImageSize="2843289" />
+    <Page Image="169" ImageSize="2375688" />
+    <Page Image="170" ImageSize="2610432" />
+    <Page Image="171" ImageSize="2657932" />
+    <Page Image="172" ImageSize="1808201" />
+    <Page Image="173" ImageSize="1836510" />
+    <Page Image="174" ImageSize="1792612" />
+    <Page Image="175" ImageSize="1830625" />
+    <Page Image="176" ImageSize="1736596" />
+    <Page Image="177" ImageSize="1956235" />
+    <Page Image="178" ImageSize="1994496" />
+    <Page Image="179" ImageSize="2189403" />
+    <Page Image="180" ImageSize="2161194" />
+    <Page Image="181" ImageSize="1962034" />
+    <Page Image="182" ImageSize="1863437" />
+    <Page Image="183" ImageSize="2010120" />
+    <Page Image="184" ImageSize="1894241" />
+    <Page Image="185" ImageSize="2563957" />
+    <Page Image="186" ImageSize="2378850" />
+    <Page Image="187" ImageSize="2255040" />
+    <Page Image="188" ImageSize="2448852" />
+    <Page Image="189" ImageSize="2730102" />
+    <Page Image="190" ImageSize="2202733" />
+    <Page Image="191" ImageSize="2615529" />
+    <Page Image="192" ImageSize="2894082" />
+    <Page Image="193" ImageSize="2734087" />
+    <Page Image="194" ImageSize="2523572" />
+    <Page Image="195" ImageSize="2833595" />
+    <Page Image="196" ImageSize="2995560" />
+    <Page Image="197" ImageSize="3129612" />
+    <Page Image="198" ImageSize="1466844" />
+    <Page Image="199" ImageSize="2517636" />
+    <Page Image="200" ImageSize="2762197" />
+    <Page Image="201" ImageSize="2390653" />
+    <Page Image="202" ImageSize="1498895" />
+    <Page Image="203" ImageSize="2399562" />
+    <Page Image="204" ImageSize="2354060" />
+    <Page Image="205" ImageSize="2439399" />
+    <Page Image="206" ImageSize="1934566" />
+    <Page Image="207" ImageSize="1701789" />
+    <Page Image="208" ImageSize="2058145" />
+    <Page Image="209" ImageSize="2045348" />
+    <Page Image="210" ImageSize="1939788" />
+    <Page Image="211" ImageSize="1947787" />
+    <Page Image="212" ImageSize="2143599" />
+    <Page Image="213" ImageSize="1991828" />
+    <Page Image="214" ImageSize="2070401" />
+    <Page Image="215" ImageSize="2131108" />
+    <Page Image="216" ImageSize="1960243" />
+    <Page Image="217" ImageSize="2173419" />
+    <Page Image="218" ImageSize="3076962" />
+    <Page Image="219" ImageSize="2530889" />
+    <Page Image="220" ImageSize="2472237" />
+    <Page Image="221" ImageSize="2363182" />
+    <Page Image="222" ImageSize="2471234" />
+    <Page Image="223" ImageSize="2771075" />
+    <Page Image="224" ImageSize="2757136" />
+    <Page Image="225" ImageSize="2187361" />
+    <Page Image="226" ImageSize="1815194" />
+    <Page Image="227" ImageSize="2030864" />
+    <Page Image="228" ImageSize="2016825" />
+    <Page Image="229" ImageSize="2312361" />
+    <Page Image="230" ImageSize="2525637" />
+    <Page Image="231" ImageSize="2723815" />
+    <Page Image="232" ImageSize="2211611" />
+    <Page Image="233" ImageSize="2067958" />
+    <Page Image="234" ImageSize="2482901" />
+    <Page Image="235" ImageSize="2927319" />
+    <Page Image="236" ImageSize="2489944" />
+    <Page Image="237" ImageSize="2351524" />
+    <Page Image="238" ImageSize="2805312" />
+    <Page Image="239" ImageSize="2769808" />
+    <Page Image="240" ImageSize="3315625" />
+    <Page Image="241" ImageSize="2569561" />
+    <Page Image="242" ImageSize="3070814" />
+    <Page Image="243" ImageSize="3052374" />
+    <Page Image="244" ImageSize="2668519" />
+    <Page Image="245" ImageSize="2822877" />
+    <Page Image="246" ImageSize="2722856" />
+    <Page Image="247" ImageSize="2907921" />
+    <Page Image="248" ImageSize="2845286" />
+    <Page Image="249" ImageSize="3244848" />
+    <Page Image="250" ImageSize="1594788" />
+    <Page Image="251" ImageSize="2170265" />
+    <Page Image="252" ImageSize="1957729" />
+    <Page Image="253" ImageSize="2165658" />
+    <Page Image="254" ImageSize="1987845" />
+    <Page Image="255" ImageSize="2094468" />
+    <Page Image="256" ImageSize="2231385" />
+    <Page Image="257" ImageSize="2127102" />
+    <Page Image="258" ImageSize="1928830" />
+    <Page Image="259" ImageSize="2352997" />
+    <Page Image="260" ImageSize="2517366" />
+    <Page Image="261" ImageSize="2181660" />
+    <Page Image="262" ImageSize="2603383" />
+    <Page Image="263" ImageSize="2391531" />
+    <Page Image="264" ImageSize="2208771" />
+    <Page Image="265" ImageSize="2957457" />
+    <Page Image="266" ImageSize="2822567" />
+    <Page Image="267" ImageSize="2492512" />
+    <Page Image="268" ImageSize="2282328" />
+    <Page Image="269" ImageSize="2166609" />
+    <Page Image="270" ImageSize="749166" />
+    <Page Image="271" ImageSize="648177" />
+    <Page Image="272" ImageSize="2402034" />
+  </Pages>
+  <Penciller>Bernie Wrightson,Esteban Maroto,Isidro Mones,Jaime Brocal Remohí,Ken Kelly,Leopoldo Sanchez,Manuel Sanjulian,Martin Salvador,Paul Neary,Richard Corben,Wally Wood</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Eerie Archives</Series>
+  <Summary>The latest deluxe hardcover features work by Bernie Wrightson, Richard Corben, and Paul Neary, lavish covers by Ken Kelly and Sanjulian, and an interplanetary romance by none other than Wally Wood! We’re introduced to the Spook, a voodoo-inspired zombie hero of the antebellum south. We continue the post-apocalyptic adventures of Hunter and follow Dr. Archaeus as he tracks down each of the twelve jurors who sentenced him to death! Collects Eerie magazine #56-#60.
+
+Curse of the Werewolf
+
+Arthur Lemming, a torture-racked victim of fate, learns of a means to cure his werewolf curse! The search is on for a magic amulet with the power to change a wolf into a man!
+
+Hunter: Blood Princess
+
+Hunter invades a mutant-held castle and bites off more than he can chew. With the aid of an old man and a ghost, the strong-armed demon-killer mounts a death defying offensive.
+
+The Wizard Wagstaff
+
+With a wave of his wand and an alchemist's prayer, the cherubic sorcerer Wagstaff attempts to change a downtrodden werewolf from monster to man. April Fool's treat from Eerie.
+
+It: Returns
+
+An inheritance is up for grabs, and a lovely young lady is endangered. The Foley name has known many a trouble but nothing to compare with the drama of a long-dead relative returning from the grave!
+
+Dr. Archaeus: Red Death
+
+Scotland Yard is baffled by the antics of the madman known as Dr. Archaeus. Now, another of the twelve jurors who condemned Archaeus to death faces his maniacal vengeance!
+
+The Eerie Eye
+
+A biography of the most prolific Martin Salvador is this Eerie's feature presentation. In addition to this, we've our regular fanzine reviews, and an in-depth preview of this issue's stories.
+
+Spook: Stridespider Rot
+
+Set in Lousiana Bayou country, this tale of voodoo stars the dead man known as Spook, His mission on earth is to free all enslaved brethren and deliver justice unto man.
+
+Hunter: Demon Killer
+
+The concluding chapter of our epic science fiction adventure. Hunter and Schreck break from behind bars, and the demon killer enters into a death-battle with his enemy Ofphal!
+
+Hide From the Hacker
+
+In the dreary London night-fog he strikes, his vile blade catching a glint of moonlight. What is the incredible identity of this maniac who brutally kills only police officers?
+
+Child
+
+When his wife died, the old scientist was left alone in the world. but the grief-stricken inventor had an idea: create a young boy from parts of dead animals. And the result is a creature known as Child.
+
+It: Terror of Foley
+
+The fetid fiend from hell rises once more from his moldering grave. As protector of Foley mansion, It must defend the old home from a gang of thieves who learn of its wealth.
+
+Dr. Archaeus: A Switch
+
+Inspector Sanford finally unravels the entirely bizarre pattern behind the revenge of Archaeus. can the policeman intercept the madman...before he kills juror number 4?
+
+The Eerie Eye
+
+A profile of Vincente Alcazar, the man who helped bring Schreck to life. Also, a special introduction to our new series, and a sneak preview of our special forthcoming issue of Eerie.
+
+Enter: The Exterminator
+
+In the Middle Ages, grotesque, tentacled aliens from space prowl the countryside, devouring little children! And there is only one champion to stop them...The Exterminator
+
+Spook: Webtread
+
+Men came! They beat her. Then left her for dead. She was just an old hag. But she controlled the powers of darkness...and with them, the vengeance of the dead man called Spook was hers!
+
+The Pepper Lake Monster
+
+He was one of the world's greatest hunters, until he tried his skill against a different sort of game... a powerful sea serpent who was turning Pepper Lake waters blood-red!
+
+Child: Mind of Masses
+
+Child learns about life, love, and death, as he is befriended by an old witch-woman. But when she is burned at the stake, there is nothing left for him to do but retaliate!
+
+Spook: Knucklebones
+
+In the swamps of Bayou country, the mysterious unloving creature called The Spook wreaks a bizarre, hideous vengeance against a band of bizarre, hideous vengeance against a band of slavers, with the aid of the voodoo queen!
+
+Dr. Archaeus: Carnage!
+
+The battle of wits between Inspector Sanford and Dr. Archaeus grows more intense. With the life of the fifth juror in the balance, the game takes a deadly twist! Fabulous.
+
+Dax The Damned
+
+Dax, the warrior who walks among gods rescues a beautiful woman from the cave of death, and leases a deadly plague on all mankind!
+
+The Paradise Tree
+
+Dax is ensnared by a guardian tree that leads to the bowels of earth itself! There, he meets a monster who wants the barbarian as a mate!
+
+Chess
+
+The warrior is pulled into the heavens to meet the gods in a game of chess. The pawns: members of Dax' own family. The precious prize to be won: their very lives!
+
+Let the Evil One Sleep
+
+"He created me," she explained. "The evil one who sleeps in the forest! With but a thought, he can destroy us and the world about us!"
+
+The Golden Lake
+
+The mighty Dax is trapped on an island of beautiful women. An island paradise of gold, jewels and riches beyond imagination. an island of devils!
+
+The With, The Maneater
+
+A troll leaps from the darkness to attack Dax and his mercenaries. Dax wakes to find a witch cooking and eating his warriors.
+
+The Cyclops
+
+An enormous monster captures and abuses a defenseless maiden. to her rescue rushes Dax. alone against the vicious giant and his one-eyed brothers.
+
+Starlight
+
+Another endangered lass is brought from death's grasp by the warrior hero. But in so doing, Dax angers her prehistoric monster captors, who go off in pursuit!
+
+The Lord's Prayer
+
+Drawn to a demon-shaped temple, Dax discovers all manner of carnage. But he can only watch as sorceress offers up a living human sacrifice!
+
+Death Rides This Night
+
+Here is the moment of Truth! Dax faces death and his dark angel! Incredibly, Dax meets the pair in combat, with a surprise ending!
+
+The Eerie Eye
+
+Feature: everything you always wanted to know about Budd Lewis, the man who gave Dax a new lease on life! Plus...the secret life of editor Bill Dubay
+
+Twenty-four Hour Hell
+
+A deadly black market drug turns a band of normal men into crazed animals who set out on a spree of rape, robbery...and murder!
+
+Nightfall
+
+You shouldn't be afraid of the dark, his farther told him! But he knew there was good reason to be...something was there in the darkness, waiting for him!
+
+Exterminator One
+
+Part human, part computer; an experimental government assassin is sent on a trial mission, until he learns the identity of his first victim!
+
+Child Hood's End
+
+A shooting star leads an innocent young boy to the brink of tragedy and the only one who can save him is the pitiful being called Child!
+
+The Manhunters
+
+In a distant galaxy, a probe team searches for a missing starship commander...butfind instead a monstrous creature who seeks only to kill!
+
+This Unholy Creation
+
+They found him on his wedding day, lying drunk beside a curbstone, and they turned him into something evil...something less than human!
+
+Dr. Archaeus: Interlude
+
+The game of wits between Miles Sanford and Dr. Archaeus comes to a head as the two adversaries meet! But one may not survive!
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-09-17 11:40:11.  [CVDB380345]
+
+https://comicvine.gamespot.com/eerie-archives-12-volume-twelve/4000-380345/</Summary>
+  <Tags>Child,Arthur Lemming,Exterminator One,Dax,Spook,Demian Hunter</Tags>
+  <Title>Volume Twelve</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/eerie-archives-12-volume-twelve/4000-380345/</Web>
+  <Writer>Bill DuBay,Budd Lewis,Doug Moench,Gerry Boudreau,Steve Skeates</Writer>
+  <Year>2013</Year>
+  <Count>27</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

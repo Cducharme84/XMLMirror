@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Billy Friday,Darius Dax,Diana Dane,Fakeface,Jack-A-Dandy,Lounge Lizard,Master Meteor,Supreme</Characters>
+	<Count>6</Count>
+	<Day>31</Day>
+	<Editor>Brett Evans</Editor>
+	<GTIN>urn:comicvine:4000-130804</GTIN>
+	<Letterer>Albert Deschesne</Letterer>
+	<Locations>Dazzle Comics,Miskatonic Asylum,Omegapolis,Omegapolis Museum of Antiques</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:20:35 [Issue ID 4000-130804] urn:comicvine:4000-130804</Notes>
+	<Number>5</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="419211" Type="FrontCover"/>
+		<Page Image="1" ImageSize="187961"/>
+		<Page Image="2" ImageSize="397016"/>
+		<Page Image="3" ImageSize="463767"/>
+		<Page Image="4" ImageSize="506633"/>
+		<Page Image="5" ImageSize="475974"/>
+		<Page Image="6" ImageSize="375784"/>
+		<Page Image="7" ImageSize="402745"/>
+		<Page Image="8" ImageSize="369785"/>
+		<Page Image="9" ImageSize="379326"/>
+		<Page Image="10" ImageSize="480061"/>
+		<Page Image="11" ImageSize="552625"/>
+		<Page Image="12" ImageSize="550356"/>
+		<Page Image="13" ImageSize="548664"/>
+		<Page Image="14" ImageSize="525549"/>
+		<Page Image="15" ImageSize="429867"/>
+		<Page Image="16" ImageSize="457357"/>
+		<Page Image="17" ImageSize="451655"/>
+		<Page Image="18" ImageSize="467624"/>
+		<Page Image="19" ImageSize="520697"/>
+		<Page Image="20" ImageSize="476189"/>
+		<Page Image="21" ImageSize="432231"/>
+		<Page Image="22" ImageSize="424599"/>
+		<Page Image="23" ImageSize="429446"/>
+		<Page Image="24" ImageSize="496435"/>
+		<Page Image="25" ImageSize="339272"/>
+		<Page Image="26" ImageSize="488806"/>
+		<Page Image="27" ImageSize="465124"/>
+	</Pages>
+	<Publisher>Awesome Comics</Publisher>
+	<Series>Supreme: The Return</Series>
+	<Title>The Supremium Man!</Title>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/supreme-the-return-5-the-supremium-man/4000-130804/</Web>
+	<Writer>Alan Moore,Eric Stephenson</Writer>
+	<Year>2000</Year>
+</ComicInfo>

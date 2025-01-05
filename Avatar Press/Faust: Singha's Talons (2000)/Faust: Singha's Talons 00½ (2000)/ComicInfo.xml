@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Joanna Tan,Set Bao Tan,Sun Tzu</Characters>
+	<Colorist>Adam Street</Colorist>
+	<Day>31</Day>
+	<Editor>William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-248909</GTIN>
+	<Inker>Mark Beachum,Tim Vigil</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:19:18 [Issue ID 4000-248909] urn:comicvine:4000-248909</Notes>
+	<Number>½</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="405528" Type="FrontCover"/>
+		<Page Image="1" ImageSize="282281"/>
+		<Page Image="2" ImageSize="249067"/>
+		<Page Image="3" ImageSize="595450"/>
+		<Page Image="4" ImageSize="281467"/>
+		<Page Image="5" ImageSize="406140"/>
+		<Page Image="6" ImageSize="348280"/>
+		<Page Image="7" ImageSize="434701"/>
+		<Page Image="8" ImageSize="389431"/>
+		<Page Image="9" ImageSize="388126"/>
+		<Page Image="10" ImageSize="394575"/>
+		<Page Image="11" ImageSize="383410"/>
+		<Page Image="12" ImageSize="445593"/>
+		<Page Image="13" ImageSize="401726"/>
+		<Page Image="14" ImageSize="393938"/>
+		<Page Image="15" ImageSize="362199"/>
+		<Page Image="16" ImageSize="329233"/>
+		<Page Image="17" ImageSize="373542"/>
+		<Page Image="18" ImageSize="351890"/>
+		<Page Image="19" ImageSize="351770"/>
+		<Page Image="20" ImageSize="338806"/>
+		<Page Image="21" ImageSize="207660"/>
+		<Page Image="22" ImageSize="691926"/>
+		<Page Image="23" ImageSize="492219"/>
+		<Page Image="24" ImageSize="536327"/>
+	</Pages>
+	<Penciller>Mark Beachum,Tim Vigil</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Faust: Singha's Talons</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-15 08:33:39.  [Issue ID 248909]
+
+https://comicvine.gamespot.com/faust-singha-s-talons-1-2/4000-248909/</Summary>
+	<Tags>Joanna Tan,Set Bao Tan,Sun Tzu</Tags>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/faust-singha-s-talons-1-2/4000-248909/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>2000</Year>
+</ComicInfo>

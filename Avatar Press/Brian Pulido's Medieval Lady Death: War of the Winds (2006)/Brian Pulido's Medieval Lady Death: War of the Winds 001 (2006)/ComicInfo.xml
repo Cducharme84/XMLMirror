@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Lady Death,Obsidia,Jinn,Tvarus,Wolfram Von Bach,Caprice</Characters>
+  <Count>6</Count>
+  <Editor>Barbara Randall Kesel,William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-301019</GTIN>
+  <Inker>Joao Paulo</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:27:05 [Issue ID 4000-301019] urn:comicvine:4000-301019 urn:grandcomicsdatabase:issue/301019
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 16:58:41. [Issue ID 301019]</Notes>
+  <Number>1</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="400586" Type="FrontCover" />
+    <Page Image="1" ImageSize="246335" />
+    <Page Image="2" ImageSize="860013" />
+    <Page Image="3" ImageSize="265034" />
+    <Page Image="4" ImageSize="318916" />
+    <Page Image="5" ImageSize="699939" />
+    <Page Image="6" ImageSize="386760" />
+    <Page Image="7" ImageSize="354284" />
+    <Page Image="8" ImageSize="312939" />
+    <Page Image="9" ImageSize="315734" />
+    <Page Image="10" ImageSize="383433" />
+    <Page Image="11" ImageSize="398868" />
+    <Page Image="12" ImageSize="333203" />
+    <Page Image="13" ImageSize="429896" />
+    <Page Image="14" ImageSize="329425" />
+    <Page Image="15" ImageSize="347132" />
+    <Page Image="16" ImageSize="408468" />
+    <Page Image="17" ImageSize="372786" />
+    <Page Image="18" ImageSize="379709" />
+    <Page Image="19" ImageSize="339903" />
+    <Page Image="20" ImageSize="1063504" />
+    <Page Image="21" ImageSize="485662" />
+    <Page Image="22" ImageSize="444605" />
+    <Page Image="23" ImageSize="426738" />
+    <Page Image="24" ImageSize="304895" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Brian Pulido's Medieval Lady Death: War of the Winds</Series>
+  <Volume>2006</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-301019/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2006</Year>
+</ComicInfo>

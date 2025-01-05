@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Colorist>Cristian Ortiz</Colorist>
+  <Day>14</Day>
+  <Editor>Diana Ortiz</Editor>
+  <GTIN>urn:comicvine:4000-953622</GTIN>
+  <Inker>Cristian Ortiz</Inker>
+  <Letterer>Michael David Thomas</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:10:39 [Issue ID 4000-953622] urn:comicvine:4000-953622
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 07:28:34. [Issue ID 2431336]</Notes>
+  <Number>1</Number>
+  <PageCount>163</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1250035" Type="FrontCover" />
+    <Page Image="1" ImageSize="1750593" />
+    <Page Image="2" ImageSize="670269" />
+    <Page Image="3" ImageSize="240528" />
+    <Page Image="4" ImageSize="187863" />
+    <Page Image="5" ImageSize="62078" />
+    <Page Image="6" ImageSize="22533" />
+    <Page Image="7" ImageSize="454131" />
+    <Page Image="8" ImageSize="540884" />
+    <Page Image="9" ImageSize="901914" />
+    <Page Image="10" ImageSize="639576" />
+    <Page Image="11" ImageSize="908968" />
+    <Page Image="12" ImageSize="958121" />
+    <Page Image="13" ImageSize="968036" />
+    <Page Image="14" ImageSize="1100688" />
+    <Page Image="15" ImageSize="1087290" />
+    <Page Image="16" ImageSize="740654" />
+    <Page Image="17" ImageSize="710989" />
+    <Page Image="18" ImageSize="994173" />
+    <Page Image="19" ImageSize="851295" />
+    <Page Image="20" ImageSize="663998" />
+    <Page Image="21" ImageSize="868792" />
+    <Page Image="22" ImageSize="663732" />
+    <Page Image="23" ImageSize="291504" />
+    <Page Image="24" ImageSize="1221298" />
+    <Page Image="25" ImageSize="1385792" />
+    <Page Image="26" ImageSize="1002209" />
+    <Page Image="27" ImageSize="1151513" />
+    <Page Image="28" ImageSize="890563" />
+    <Page Image="29" ImageSize="948905" />
+    <Page Image="30" ImageSize="1009071" />
+    <Page Image="31" ImageSize="924440" />
+    <Page Image="32" ImageSize="889438" />
+    <Page Image="33" ImageSize="805506" />
+    <Page Image="34" ImageSize="767071" />
+    <Page Image="35" ImageSize="806199" />
+    <Page Image="36" ImageSize="1013560" />
+    <Page Image="37" ImageSize="703176" />
+    <Page Image="38" ImageSize="768003" />
+    <Page Image="39" ImageSize="492504" />
+    <Page Image="40" ImageSize="936429" />
+    <Page Image="41" ImageSize="1021286" />
+    <Page Image="42" ImageSize="906081" />
+    <Page Image="43" ImageSize="969999" />
+    <Page Image="44" ImageSize="423688" />
+    <Page Image="45" ImageSize="503832" />
+    <Page Image="46" ImageSize="578247" />
+    <Page Image="47" ImageSize="758632" />
+    <Page Image="48" ImageSize="721365" />
+    <Page Image="49" ImageSize="920119" />
+    <Page Image="50" ImageSize="958732" />
+    <Page Image="51" ImageSize="993223" />
+    <Page Image="52" ImageSize="1307495" />
+    <Page Image="53" ImageSize="847001" />
+    <Page Image="54" ImageSize="771259" />
+    <Page Image="55" ImageSize="408447" />
+    <Page Image="56" ImageSize="640615" />
+    <Page Image="57" ImageSize="825982" />
+    <Page Image="58" ImageSize="765352" />
+    <Page Image="59" ImageSize="954806" />
+    <Page Image="60" ImageSize="746676" />
+    <Page Image="61" ImageSize="686478" />
+    <Page Image="62" ImageSize="700644" />
+    <Page Image="63" ImageSize="900112" />
+    <Page Image="64" ImageSize="859917" />
+    <Page Image="65" ImageSize="1182854" />
+    <Page Image="66" ImageSize="1096776" />
+    <Page Image="67" ImageSize="1068580" />
+    <Page Image="68" ImageSize="921168" />
+    <Page Image="69" ImageSize="1072106" />
+    <Page Image="70" ImageSize="1288391" />
+    <Page Image="71" ImageSize="977030" />
+    <Page Image="72" ImageSize="855250" />
+    <Page Image="73" ImageSize="1155495" />
+    <Page Image="74" ImageSize="1010565" />
+    <Page Image="75" ImageSize="761071" />
+    <Page Image="76" ImageSize="863514" />
+    <Page Image="77" ImageSize="385108" />
+    <Page Image="78" ImageSize="833423" />
+    <Page Image="79" ImageSize="867771" />
+    <Page Image="80" ImageSize="787483" />
+    <Page Image="81" ImageSize="690199" />
+    <Page Image="82" ImageSize="809948" />
+    <Page Image="83" ImageSize="609865" />
+    <Page Image="84" ImageSize="675293" />
+    <Page Image="85" ImageSize="752660" />
+    <Page Image="86" ImageSize="920172" />
+    <Page Image="87" ImageSize="879087" />
+    <Page Image="88" ImageSize="807255" />
+    <Page Image="89" ImageSize="855559" />
+    <Page Image="90" ImageSize="673962" />
+    <Page Image="91" ImageSize="817542" />
+    <Page Image="92" ImageSize="996842" />
+    <Page Image="93" ImageSize="937132" />
+    <Page Image="94" ImageSize="526495" />
+    <Page Image="95" ImageSize="637315" />
+    <Page Image="96" ImageSize="576967" />
+    <Page Image="97" ImageSize="653017" />
+    <Page Image="98" ImageSize="416500" />
+    <Page Image="99" ImageSize="663185" />
+    <Page Image="100" ImageSize="1078925" />
+    <Page Image="101" ImageSize="744983" />
+    <Page Image="102" ImageSize="823294" />
+    <Page Image="103" ImageSize="863995" />
+    <Page Image="104" ImageSize="997704" />
+    <Page Image="105" ImageSize="1048129" />
+    <Page Image="106" ImageSize="788716" />
+    <Page Image="107" ImageSize="740985" />
+    <Page Image="108" ImageSize="986362" />
+    <Page Image="109" ImageSize="979468" />
+    <Page Image="110" ImageSize="500282" />
+    <Page Image="111" ImageSize="1155874" />
+    <Page Image="112" ImageSize="1008476" />
+    <Page Image="113" ImageSize="1227611" />
+    <Page Image="114" ImageSize="1164598" />
+    <Page Image="115" ImageSize="817420" />
+    <Page Image="116" ImageSize="716513" />
+    <Page Image="117" ImageSize="1024992" />
+    <Page Image="118" ImageSize="1047510" />
+    <Page Image="119" ImageSize="1253205" />
+    <Page Image="120" ImageSize="974961" />
+    <Page Image="121" ImageSize="995437" />
+    <Page Image="122" ImageSize="775890" />
+    <Page Image="123" ImageSize="882959" />
+    <Page Image="124" ImageSize="724171" />
+    <Page Image="125" ImageSize="1047981" />
+    <Page Image="126" ImageSize="873530" />
+    <Page Image="127" ImageSize="962938" />
+    <Page Image="128" ImageSize="947409" />
+    <Page Image="129" ImageSize="930718" />
+    <Page Image="130" ImageSize="818031" />
+    <Page Image="131" ImageSize="949975" />
+    <Page Image="132" ImageSize="44090" />
+    <Page Image="133" ImageSize="645798" />
+    <Page Image="134" ImageSize="732263" />
+    <Page Image="135" ImageSize="882676" />
+    <Page Image="136" ImageSize="536827" />
+    <Page Image="137" ImageSize="583945" />
+    <Page Image="138" ImageSize="647495" />
+    <Page Image="139" ImageSize="728301" />
+    <Page Image="140" ImageSize="1235827" />
+    <Page Image="141" ImageSize="1520165" />
+    <Page Image="142" ImageSize="1215017" />
+    <Page Image="143" ImageSize="1282516" />
+    <Page Image="144" ImageSize="1522131" />
+    <Page Image="145" ImageSize="691718" />
+    <Page Image="146" ImageSize="821246" />
+    <Page Image="147" ImageSize="1192569" />
+    <Page Image="148" ImageSize="849984" />
+    <Page Image="149" ImageSize="1032678" />
+    <Page Image="150" ImageSize="1284756" />
+    <Page Image="151" ImageSize="816761" />
+    <Page Image="152" ImageSize="871904" />
+    <Page Image="153" ImageSize="717794" />
+    <Page Image="154" ImageSize="1019175" />
+    <Page Image="155" ImageSize="978685" />
+    <Page Image="156" ImageSize="882740" />
+    <Page Image="157" ImageSize="1202308" />
+    <Page Image="158" ImageSize="912883" />
+    <Page Image="159" ImageSize="176386" />
+    <Page Image="160" ImageSize="1750593" />
+    <Page Image="161" ImageSize="897680" />
+    <Page Image="162" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Cristian Ortiz</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Birdking</Series>
+  <Summary>From the creators of Raiders, Daniel Freedman and CROM, comes an original dark fantasy graphic novel of epic adventure and magic.
+
+Bianca, teenage apprentice to an infamous arcane blacksmith, is forced to flee her homeland and seek out Atlas, a fabled land of light ruled by “the clean god." She is joined by a mysterious guardian spirit known only as the "BirdKing". Together they will have to overcome dozens of enemies to reach Atlas and along the way, unravel the mystery of the BirdKing and their ancestral connection.
+
+https://comicvine.gamespot.com/birdking-1-volume-1/4000-953622/</Summary>
+  <Title>Escape from Feather Hill</Title>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/birdking-1-volume-1/4000-953622/</Web>
+  <Writer>Daniel Freedman</Writer>
+  <Year>2022</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Graphic Novel</Format>
+</ComicInfo>

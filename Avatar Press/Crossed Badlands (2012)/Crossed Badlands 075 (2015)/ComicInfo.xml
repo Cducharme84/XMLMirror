@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Digikore Studios</Colorist>
+	<Count>100</Count>
+	<Country>US</Country>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-486193</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Rafa Lopez</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Jaymes Reed</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:18:10 [Issue ID 4000-486193] urn:comicvine:4000-486193 urn:grandcomicsdatabase:issue/1340814</Notes>
+	<Number>75</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1794632" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1560146"/>
+		<Page Image="2" ImageSize="1539739"/>
+		<Page Image="3" ImageSize="1345878"/>
+		<Page Image="4" ImageSize="1365337"/>
+		<Page Image="5" ImageSize="1347859"/>
+		<Page Image="6" ImageSize="1097420"/>
+		<Page Image="7" ImageSize="1139832"/>
+		<Page Image="8" ImageSize="1742269"/>
+		<Page Image="9" ImageSize="1731307"/>
+		<Page Image="10" ImageSize="1631818"/>
+		<Page Image="11" ImageSize="1508710"/>
+		<Page Image="12" ImageSize="1820436"/>
+		<Page Image="13" ImageSize="2105791"/>
+		<Page Image="14" ImageSize="1700938"/>
+		<Page Image="15" ImageSize="1644928"/>
+		<Page Image="16" ImageSize="1617437"/>
+		<Page Image="17" ImageSize="1544490"/>
+		<Page Image="18" ImageSize="1991719"/>
+		<Page Image="19" ImageSize="1819622"/>
+		<Page Image="20" ImageSize="2033976"/>
+		<Page Image="21" ImageSize="1999136"/>
+		<Page Image="22" ImageSize="1735638"/>
+		<Page Image="23" ImageSize="1167631"/>
+		<Page Image="24" ImageSize="1475349"/>
+	</Pages>
+	<Penciller>Rafa Lopez</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital) (DR &amp; Quinch-Empire)</ScanInformation>
+	<Series>Crossed Badlands</Series>
+	<Teams>Cavemen,The Crossed</Teams>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-486193/</Web>
+	<Writer>Kieron Gillen</Writer>
+	<Year>2015</Year>
+</ComicInfo>

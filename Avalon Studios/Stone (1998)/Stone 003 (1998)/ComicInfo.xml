@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Stone</Characters>
+	<Colorist>Dan Kemp,Dave Kemp</Colorist>
+	<Count>4</Count>
+	<Day>1</Day>
+	<Editor>Brian Holguin</Editor>
+	<GTIN>urn:comicvine:4000-208626</GTIN>
+	<Inker>Edgar Tadeo,Gerry Alanguilan</Inker>
+	<Letterer>Comicraft</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:17:27 [Issue ID 4000-208626] urn:comicvine:4000-208626</Notes>
+	<Number>3</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1280" ImageHeight="1972" ImageSize="378140" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1280" ImageHeight="2015" ImageSize="421065"/>
+		<Page Image="2" ImageWidth="1280" ImageHeight="1852" ImageSize="565377"/>
+		<Page Image="3" ImageWidth="1280" ImageHeight="1862" ImageSize="614504"/>
+		<Page Image="4" ImageWidth="1280" ImageHeight="1982" ImageSize="874776"/>
+		<Page Image="5" ImageWidth="1280" ImageHeight="1992" ImageSize="747477"/>
+		<Page Image="6" ImageWidth="1280" ImageHeight="1965" ImageSize="682731"/>
+		<Page Image="7" ImageWidth="1280" ImageHeight="1984" ImageSize="618176"/>
+		<Page Image="8" ImageWidth="1280" ImageHeight="1985" ImageSize="491462"/>
+		<Page Image="9" ImageWidth="1280" ImageHeight="1984" ImageSize="621364"/>
+		<Page Image="10" ImageWidth="1280" ImageHeight="1973" ImageSize="629324"/>
+		<Page Image="11" ImageWidth="1280" ImageHeight="1989" ImageSize="653026"/>
+		<Page Image="12" ImageWidth="1280" ImageHeight="1992" ImageSize="622517"/>
+		<Page Image="13" ImageWidth="1280" ImageHeight="1998" ImageSize="643213"/>
+		<Page Image="14" ImageWidth="1280" ImageHeight="1983" ImageSize="670451"/>
+		<Page Image="15" ImageWidth="1280" ImageHeight="1989" ImageSize="705271"/>
+		<Page Image="16" ImageWidth="1280" ImageHeight="1974" ImageSize="633792"/>
+		<Page Image="17" ImageWidth="1280" ImageHeight="2006" ImageSize="633149"/>
+		<Page Image="18" ImageWidth="1280" ImageHeight="1986" ImageSize="600639"/>
+		<Page Image="19" ImageWidth="1280" ImageHeight="1990" ImageSize="634682"/>
+		<Page Image="20" ImageWidth="1280" ImageHeight="1993" ImageSize="585550"/>
+		<Page Image="21" ImageWidth="1280" ImageHeight="2004" ImageSize="666859"/>
+		<Page Image="22" ImageWidth="1280" ImageHeight="2001" ImageSize="665655"/>
+		<Page Image="23" ImageWidth="1280" ImageHeight="1989" ImageSize="593112"/>
+		<Page Image="24" ImageWidth="1280" ImageHeight="2003" ImageSize="729793"/>
+		<Page Image="25" ImageWidth="1280" ImageHeight="1993" ImageSize="647994"/>
+		<Page Image="26" ImageWidth="1280" ImageHeight="1978" ImageSize="574863"/>
+		<Page Image="27" ImageSize="428183"/>
+	</Pages>
+	<Penciller>Whilce Portacio</Penciller>
+	<Publisher>Avalon Studios</Publisher>
+	<ScanInformation>by Potifar</ScanInformation>
+	<Series>Stone</Series>
+	<Title>Vol.1</Title>
+	<Volume>1998</Volume>
+	<Web>https://comicvine.gamespot.com/stone-3-vol1/4000-208626/</Web>
+	<Writer>Brian Haberlin</Writer>
+	<Year>1998</Year>
+</ComicInfo>

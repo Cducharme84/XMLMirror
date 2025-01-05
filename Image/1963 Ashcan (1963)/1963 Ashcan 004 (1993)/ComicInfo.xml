@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Horus</Characters>
+	<Colorist>Marvin Kilroy</Colorist>
+	<Count>4</Count>
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-370295</GTIN>
+	<Inker>John Totleben</Inker>
+	<Letterer>John Workman</Letterer>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:31:40 [Issue ID 4000-370295] urn:comicvine:4000-370295</Notes>
+	<Number>4</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1600" ImageHeight="2481" ImageSize="6914351" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1280" ImageHeight="2020" ImageSize="1753491"/>
+		<Page Image="2" ImageWidth="1280" ImageHeight="1988" ImageSize="2099652"/>
+		<Page Image="3" ImageWidth="1280" ImageHeight="2003" ImageSize="2156957"/>
+		<Page Image="4" ImageWidth="1280" ImageHeight="1971" ImageSize="2345895"/>
+		<Page Image="5" ImageWidth="1280" ImageHeight="1977" ImageSize="2432970"/>
+		<Page Image="6" ImageWidth="1280" ImageHeight="1976" ImageSize="2015720"/>
+		<Page Image="7" ImageWidth="1280" ImageHeight="1963" ImageSize="2450077"/>
+		<Page Image="8" ImageWidth="1280" ImageHeight="1934" ImageSize="2314139"/>
+		<Page Image="9" ImageWidth="1600" ImageHeight="1255" ImageSize="1620191"/>
+		<Page Image="10" ImageWidth="1600" ImageHeight="1255" ImageSize="1724340"/>
+		<Page Image="11" ImageWidth="1280" ImageHeight="1988" ImageSize="2176298"/>
+		<Page Image="12" ImageWidth="1280" ImageHeight="1968" ImageSize="2238697"/>
+		<Page Image="13" ImageWidth="1280" ImageHeight="1974" ImageSize="2079126"/>
+		<Page Image="14" ImageWidth="1280" ImageHeight="1957" ImageSize="2254169"/>
+		<Page Image="15" ImageWidth="1280" ImageHeight="1969" ImageSize="2303575"/>
+		<Page Image="16" ImageWidth="1280" ImageHeight="1950" ImageSize="1496155"/>
+		<Page Image="17" ImageWidth="1600" ImageHeight="2483" ImageSize="785809"/>
+		<Page Image="18" ImageSize="2754149"/>
+	</Pages>
+	<Penciller>Rick Veitch</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>1963 Ashcan</Series>
+	<Summary>A color preview of book five of the "1963" mini-series.</Summary>
+	<Title>Horus Lord of Light</Title>
+	<Volume>1963</Volume>
+	<Web>https://comicvine.gamespot.com/1963-ashcan-4-horus-lord-of-light/4000-370295/</Web>
+	<Writer>Alan Moore</Writer>
+	<Year>1993</Year>
+</ComicInfo>

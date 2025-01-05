@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Finn</Characters>
+  <GTIN>urn:comicvine:4000-351747</GTIN>
+  <Inker>Jim Elston</Inker>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:23:02 [Issue ID 4000-351747] urn:comicvine:4000-351747
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 02:07:40. [Issue ID 726999]</Notes>
+  <Number>1</Number>
+  <PageCount>163</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2120173" Type="FrontCover" />
+    <Page Image="1" ImageSize="4117804" />
+    <Page Image="2" ImageSize="1659525" />
+    <Page Image="3" ImageSize="1069398" />
+    <Page Image="4" ImageSize="1209668" />
+    <Page Image="5" ImageSize="911005" />
+    <Page Image="6" ImageSize="982972" />
+    <Page Image="7" ImageSize="1043378" />
+    <Page Image="8" ImageSize="1107491" />
+    <Page Image="9" ImageSize="1090823" />
+    <Page Image="10" ImageSize="977804" />
+    <Page Image="11" ImageSize="1061428" />
+    <Page Image="12" ImageSize="785490" />
+    <Page Image="13" ImageSize="787471" />
+    <Page Image="14" ImageSize="986859" />
+    <Page Image="15" ImageSize="913825" />
+    <Page Image="16" ImageSize="894278" />
+    <Page Image="17" ImageSize="1067108" />
+    <Page Image="18" ImageSize="865227" />
+    <Page Image="19" ImageSize="759092" />
+    <Page Image="20" ImageSize="1045576" />
+    <Page Image="21" ImageSize="926451" />
+    <Page Image="22" ImageSize="1064299" />
+    <Page Image="23" ImageSize="1137873" />
+    <Page Image="24" ImageSize="1226576" />
+    <Page Image="25" ImageSize="1201275" />
+    <Page Image="26" ImageSize="936667" />
+    <Page Image="27" ImageSize="1248705" />
+    <Page Image="28" ImageSize="1029857" />
+    <Page Image="29" ImageSize="790852" />
+    <Page Image="30" ImageSize="929851" />
+    <Page Image="31" ImageSize="993270" />
+    <Page Image="32" ImageSize="924709" />
+    <Page Image="33" ImageSize="919741" />
+    <Page Image="34" ImageSize="923724" />
+    <Page Image="35" ImageSize="1170326" />
+    <Page Image="36" ImageSize="917984" />
+    <Page Image="37" ImageSize="1032999" />
+    <Page Image="38" ImageSize="708091" />
+    <Page Image="39" ImageSize="1019317" />
+    <Page Image="40" ImageSize="841564" />
+    <Page Image="41" ImageSize="1002634" />
+    <Page Image="42" ImageSize="1121396" />
+    <Page Image="43" ImageSize="1038079" />
+    <Page Image="44" ImageSize="919266" />
+    <Page Image="45" ImageSize="990339" />
+    <Page Image="46" ImageSize="893887" />
+    <Page Image="47" ImageSize="1015521" />
+    <Page Image="48" ImageSize="1117422" />
+    <Page Image="49" ImageSize="1239733" />
+    <Page Image="50" ImageSize="1039331" />
+    <Page Image="51" ImageSize="995919" />
+    <Page Image="52" ImageSize="931209" />
+    <Page Image="53" ImageSize="915896" />
+    <Page Image="54" ImageSize="1092513" />
+    <Page Image="55" ImageSize="1034896" />
+    <Page Image="56" ImageSize="884856" />
+    <Page Image="57" ImageSize="1155141" />
+    <Page Image="58" ImageSize="1088641" />
+    <Page Image="59" ImageSize="1237611" />
+    <Page Image="60" ImageSize="986399" />
+    <Page Image="61" ImageSize="1087656" />
+    <Page Image="62" ImageSize="1283787" />
+    <Page Image="63" ImageSize="894624" />
+    <Page Image="64" ImageSize="1414092" />
+    <Page Image="65" ImageSize="1142552" />
+    <Page Image="66" ImageSize="1296977" />
+    <Page Image="67" ImageSize="1331906" />
+    <Page Image="68" ImageSize="1230926" />
+    <Page Image="69" ImageSize="1236200" />
+    <Page Image="70" ImageSize="1336936" />
+    <Page Image="71" ImageSize="1289477" />
+    <Page Image="72" ImageSize="1376164" />
+    <Page Image="73" ImageSize="1224029" />
+    <Page Image="74" ImageSize="1259350" />
+    <Page Image="75" ImageSize="1217063" />
+    <Page Image="76" ImageSize="1184515" />
+    <Page Image="77" ImageSize="1157966" />
+    <Page Image="78" ImageSize="1218755" />
+    <Page Image="79" ImageSize="863784" />
+    <Page Image="80" ImageSize="1123214" />
+    <Page Image="81" ImageSize="990552" />
+    <Page Image="82" ImageSize="1112381" />
+    <Page Image="83" ImageSize="1119124" />
+    <Page Image="84" ImageSize="1445364" />
+    <Page Image="85" ImageSize="988049" />
+    <Page Image="86" ImageSize="961979" />
+    <Page Image="87" ImageSize="1114404" />
+    <Page Image="88" ImageSize="1016335" />
+    <Page Image="89" ImageSize="1125734" />
+    <Page Image="90" ImageSize="987347" />
+    <Page Image="91" ImageSize="1168430" />
+    <Page Image="92" ImageSize="946442" />
+    <Page Image="93" ImageSize="884624" />
+    <Page Image="94" ImageSize="1225135" />
+    <Page Image="95" ImageSize="1005294" />
+    <Page Image="96" ImageSize="1212189" />
+    <Page Image="97" ImageSize="963821" />
+    <Page Image="98" ImageSize="987682" />
+    <Page Image="99" ImageSize="1068135" />
+    <Page Image="100" ImageSize="1178881" />
+    <Page Image="101" ImageSize="1122828" />
+    <Page Image="102" ImageSize="1233309" />
+    <Page Image="103" ImageSize="987061" />
+    <Page Image="104" ImageSize="1069086" />
+    <Page Image="105" ImageSize="1066861" />
+    <Page Image="106" ImageSize="1000016" />
+    <Page Image="107" ImageSize="1294711" />
+    <Page Image="108" ImageSize="1206291" />
+    <Page Image="109" ImageSize="1109747" />
+    <Page Image="110" ImageSize="1330106" />
+    <Page Image="111" ImageSize="1242937" />
+    <Page Image="112" ImageSize="1333656" />
+    <Page Image="113" ImageSize="1378073" />
+    <Page Image="114" ImageSize="1203813" />
+    <Page Image="115" ImageSize="1207569" />
+    <Page Image="116" ImageSize="1249744" />
+    <Page Image="117" ImageSize="1119616" />
+    <Page Image="118" ImageSize="1263221" />
+    <Page Image="119" ImageSize="1418057" />
+    <Page Image="120" ImageSize="1207393" />
+    <Page Image="121" ImageSize="1039365" />
+    <Page Image="122" ImageSize="1237466" />
+    <Page Image="123" ImageSize="1278182" />
+    <Page Image="124" ImageSize="1385403" />
+    <Page Image="125" ImageSize="1192518" />
+    <Page Image="126" ImageSize="1086249" />
+    <Page Image="127" ImageSize="1287399" />
+    <Page Image="128" ImageSize="1095863" />
+    <Page Image="129" ImageSize="1061790" />
+    <Page Image="130" ImageSize="1077519" />
+    <Page Image="131" ImageSize="1383748" />
+    <Page Image="132" ImageSize="1361480" />
+    <Page Image="133" ImageSize="1190700" />
+    <Page Image="134" ImageSize="1318289" />
+    <Page Image="135" ImageSize="1160422" />
+    <Page Image="136" ImageSize="1038967" />
+    <Page Image="137" ImageSize="1007647" />
+    <Page Image="138" ImageSize="991859" />
+    <Page Image="139" ImageSize="1181763" />
+    <Page Image="140" ImageSize="1142050" />
+    <Page Image="141" ImageSize="1413942" />
+    <Page Image="142" ImageSize="1218250" />
+    <Page Image="143" ImageSize="1315614" />
+    <Page Image="144" ImageSize="1015117" />
+    <Page Image="145" ImageSize="1192556" />
+    <Page Image="146" ImageSize="1406949" />
+    <Page Image="147" ImageSize="1026209" />
+    <Page Image="148" ImageSize="1057196" />
+    <Page Image="149" ImageSize="1304761" />
+    <Page Image="150" ImageSize="1110102" />
+    <Page Image="151" ImageSize="1154742" />
+    <Page Image="152" ImageSize="416335" />
+    <Page Image="153" ImageSize="987535" />
+    <Page Image="154" ImageSize="1016123" />
+    <Page Image="155" ImageSize="1313631" />
+    <Page Image="156" ImageSize="792222" />
+    <Page Image="157" ImageSize="703664" />
+    <Page Image="158" ImageSize="859693" />
+    <Page Image="159" ImageSize="809572" />
+    <Page Image="160" ImageSize="1003274" />
+    <Page Image="161" ImageSize="472722" />
+    <Page Image="162" ImageSize="272046" />
+  </Pages>
+  <Penciller>Jim Elston</Penciller>
+  <Publisher>Fleetway/Quality</Publisher>
+  <Series>Finn</Series>
+  <Summary>Reprints Finn from 2000AD.
+
+Cover: Jim Elston (Finn)
+
+Finn (Pat Mills and Tony Skinner - Jim Elston)
+
+https://comicvine.gamespot.com/finn-1-finn-1/4000-351747/</Summary>
+  <Tags>Finn</Tags>
+  <Title>Finn 1</Title>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/finn-1-finn-1/4000-351747/</Web>
+  <Writer>Pat Mills,Tony Skinner</Writer>
+  <Year>1993</Year>
+  <Count>4</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

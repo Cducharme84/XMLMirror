@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>10</Count>
+  <Day>23</Day>
+  <GTIN>urn:comicvine:4000-1460499</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:17:58 [Issue ID 4000-1460499] urn:comicvine:4000-1460499 urn:grandcomicsdatabase:issue/1460499
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 23:37:58. [Issue ID 1460499]</Notes>
+  <Number>8</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1121085" Type="FrontCover" />
+    <Page Image="1" ImageSize="848288" />
+    <Page Image="2" ImageSize="1605109" />
+    <Page Image="3" ImageSize="1370776" />
+    <Page Image="4" ImageSize="1823348" />
+    <Page Image="5" ImageSize="1286274" />
+    <Page Image="6" ImageSize="1396776" />
+    <Page Image="7" ImageSize="1507447" />
+    <Page Image="8" ImageSize="1730898" />
+    <Page Image="9" ImageSize="1525784" />
+    <Page Image="10" ImageSize="1494461" />
+    <Page Image="11" ImageSize="1497796" />
+    <Page Image="12" ImageSize="1555740" />
+    <Page Image="13" ImageSize="1250174" />
+    <Page Image="14" ImageSize="1526731" />
+    <Page Image="15" ImageSize="2385228" />
+    <Page Image="16" ImageSize="1545206" />
+    <Page Image="17" ImageSize="1044392" />
+    <Page Image="18" ImageSize="1473324" />
+    <Page Image="19" ImageSize="1734852" />
+    <Page Image="20" ImageSize="1583102" />
+    <Page Image="21" ImageSize="1209993" />
+    <Page Image="22" ImageSize="1219450" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Reyn</Series>
+  <Volume>2015</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1460499/</Web>
+  <Year>2015</Year>
+</ComicInfo>

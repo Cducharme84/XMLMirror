@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Eldren,Grimm,Sauriel,Vulnavia,Ruyin,Vandala,Ravenheart,Brock,Lady Death</Characters>
+  <Colorist>Colorgraphix,Colorgraphix</Colorist>
+  <Count>1</Count>
+  <Editor>Brian Pulido,Mike Francis</Editor>
+  <GTIN>urn:comicvine:4000-748486</GTIN>
+  <Genre>Adventure,Fantasy</Genre>
+  <Inker>Curtis Arnold,David Brewer,Curtis Arnold</Inker>
+  <Letterer>Comicraft,Comicraft</Letterer>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:38:59 [Issue ID 4000-748486] urn:comicvine:4000-748486 urn:grandcomicsdatabase:issue/748486
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 19:29:33. [Issue ID 748486]</Notes>
+  <Number>1</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1576" ImageSize="242885" ImageWidth="1024" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1572" ImageSize="336509" ImageWidth="1024" />
+    <Page Image="2" ImageHeight="1575" ImageSize="453268" ImageWidth="1024" />
+    <Page Image="3" ImageHeight="1577" ImageSize="470241" ImageWidth="1024" />
+    <Page Image="4" ImageHeight="1583" ImageSize="396084" ImageWidth="1024" />
+    <Page Image="5" ImageHeight="1584" ImageSize="650593" ImageWidth="2048" />
+    <Page Image="6" ImageHeight="1586" ImageSize="447910" ImageWidth="1024" />
+    <Page Image="7" ImageHeight="1588" ImageSize="399817" ImageWidth="1024" />
+    <Page Image="8" ImageHeight="1576" ImageSize="798927" ImageWidth="2048" />
+    <Page Image="9" ImageHeight="1587" ImageSize="446114" ImageWidth="1024" />
+    <Page Image="10" ImageHeight="1595" ImageSize="446752" ImageWidth="1024" />
+    <Page Image="11" ImageHeight="1577" ImageSize="693140" ImageWidth="2048" />
+    <Page Image="12" ImageHeight="1599" ImageSize="424962" ImageWidth="1024" />
+    <Page Image="13" ImageHeight="1588" ImageSize="401646" ImageWidth="1024" />
+    <Page Image="14" ImageHeight="1586" ImageSize="596759" ImageWidth="2048" />
+    <Page Image="15" ImageHeight="1603" ImageSize="389469" ImageWidth="1024" />
+    <Page Image="16" ImageHeight="1591" ImageSize="475180" ImageWidth="1024" />
+    <Page Image="17" ImageHeight="1595" ImageSize="416214" ImageWidth="1024" />
+    <Page Image="18" ImageHeight="1587" ImageSize="394918" ImageWidth="1024" />
+    <Page Image="19" ImageHeight="1593" ImageSize="392010" ImageWidth="1024" />
+    <Page Image="20" ImageHeight="1591" ImageSize="322736" ImageWidth="1024" />
+    <Page Image="21" ImageSize="736379" />
+  </Pages>
+  <Penciller>David Brewer,David Brewer</Penciller>
+  <Publisher>Chaos! Comics</Publisher>
+  <Series>Vandala</Series>
+  <Summary>Wings of Fate: With Asgard destroyed and her sisters dealing with their own issues, Vandala wanders around looking for the next direction in her angelic life. During a pitched battle with the Norse god, Ruyin, she gains some perspective and contentment with her current situation.
+
+</Summary>
+  <Title>Wings of Fate</Title>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-748486/</Web>
+  <Writer>Len Kaminski,Len Kaminski</Writer>
+  <Year>2000</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

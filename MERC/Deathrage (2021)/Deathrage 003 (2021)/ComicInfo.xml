@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Colorist>Gaston Zubeklia,Gaston Zubeldia</Colorist>
+	<Count>6</Count>
+	<CoverArtist>Franck Uzan,Gregbo Watson,Gwenaëlle Daligault,John Royle,Lucas Urrutia,Paolo Pantalena,Ryan Kincaid</CoverArtist>
+	<Editor>Murphey</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-921174</GTIN>
+	<Inker>Emiliano Urdinoloa,Lucas Urrutia</Inker>
+	<Letterer>Joel Rodriguez</Letterer>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-07T19:51:50 [Issue ID 4000-921174] urn:comicvine:4000-921174</Notes>
+	<Number>3</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2064" ImageHeight="3135" ImageSize="1720298" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2064" ImageHeight="3135" ImageSize="1378158"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2064" ImageHeight="3135" ImageSize="1574560"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2064" ImageHeight="3135" ImageSize="1559757"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2064" ImageHeight="3135" ImageSize="1575661"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2064" ImageHeight="3135" ImageSize="1367133"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2064" ImageHeight="3135" ImageSize="1393290"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2064" ImageHeight="3135" ImageSize="1454065"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2064" ImageHeight="3135" ImageSize="1337295"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2064" ImageHeight="3135" ImageSize="1484276"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2064" ImageHeight="3135" ImageSize="1580133"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2064" ImageHeight="3135" ImageSize="1539968"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2064" ImageHeight="3135" ImageSize="1753702"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2064" ImageHeight="3135" ImageSize="1578152"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2064" ImageHeight="3135" ImageSize="1402606"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2064" ImageHeight="3135" ImageSize="1615332"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2064" ImageHeight="3135" ImageSize="1653939"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2064" ImageHeight="3135" ImageSize="1586436"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2064" ImageHeight="3135" ImageSize="1612383"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2064" ImageHeight="3135" ImageSize="1429344"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2064" ImageHeight="3135" ImageSize="1415748"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2064" ImageHeight="3135" ImageSize="1998400"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2064" ImageHeight="3135" ImageSize="930872"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2064" ImageHeight="3135" ImageSize="899124"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2063" ImageHeight="3131" ImageSize="1112692"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2063" ImageHeight="3131" ImageSize="1514799"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2063" ImageHeight="3131" ImageSize="1353485"/>
+		<Page Image="27" ImageSize="1243258"/>
+	</Pages>
+	<Penciller>Emiliano Urdinola,Lucas Urrutia</Penciller>
+	<Publisher>MERC</Publisher>
+	<Series>Deathrage</Series>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/deathrage-3/4000-921174/</Web>
+	<Writer>Murphey</Writer>
+	<Year>2021</Year>
+</ComicInfo>

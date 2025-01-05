@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Paladino,Victory</Characters>
+  <Count>4</Count>
+  <Day>1</Day>
+  <Editor>Rômulo Soares</Editor>
+  <GTIN>urn:comicvine:4000-141484</GTIN>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:26:06 [Issue ID 4000-141484] urn:comicvine:4000-141484
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 14:39:34. [Issue ID 141484]</Notes>
+  <Number>2</Number>
+  <PageCount>26</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="294841" Type="FrontCover" />
+    <Page Image="1" ImageSize="316081" />
+    <Page Image="2" ImageSize="272862" />
+    <Page Image="3" ImageSize="271470" />
+    <Page Image="4" ImageSize="277789" />
+    <Page Image="5" ImageSize="333583" />
+    <Page Image="6" ImageSize="306797" />
+    <Page Image="7" ImageSize="355141" />
+    <Page Image="8" ImageSize="372257" />
+    <Page Image="9" ImageSize="355568" />
+    <Page Image="10" ImageSize="366342" />
+    <Page Image="11" ImageSize="361435" />
+    <Page Image="12" ImageSize="329914" />
+    <Page Image="13" ImageSize="365309" />
+    <Page Image="14" ImageSize="320454" />
+    <Page Image="15" ImageSize="335357" />
+    <Page Image="16" ImageSize="312739" />
+    <Page Image="17" ImageSize="297830" />
+    <Page Image="18" ImageSize="282944" />
+    <Page Image="19" ImageSize="293616" />
+    <Page Image="20" ImageSize="298882" />
+    <Page Image="21" ImageSize="316692" />
+    <Page Image="22" ImageSize="311804" />
+    <Page Image="23" ImageSize="324208" />
+    <Page Image="24" ImageSize="232961" />
+    <Page Image="25" ImageSize="200631" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Victory</Series>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/victory-2/4000-141484/</Web>
+  <Writer>Marcelo Cassaro</Writer>
+  <Year>2003</Year>
+  <Penciller>Eduardo Francisco</Penciller>
+</ComicInfo>

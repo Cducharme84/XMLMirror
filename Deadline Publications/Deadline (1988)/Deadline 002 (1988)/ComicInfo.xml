@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Pippa,Liz,Hugo Tate,Tank Girl,Johnny Nemo</Characters>
+  <GTIN>urn:comicvine:4000-247170</GTIN>
+  <Inker>Brett Ewins,Jamie Hewlett,Julie Hollings,Nick Abadzis,Jamie Hewlett,Brett Ewins</Inker>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:28:51 [Issue ID 4000-247170] urn:comicvine:4000-247170
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 18:41:06. [Issue ID 648183]</Notes>
+  <Number>2</Number>
+  <PageCount>68</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1600" ImageSize="266249" ImageWidth="1113" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1600" ImageSize="264293" ImageWidth="1087" />
+    <Page Image="2" ImageHeight="1600" ImageSize="277998" ImageWidth="1101" />
+    <Page Image="3" ImageHeight="1600" ImageSize="156325" ImageWidth="1120" />
+    <Page Image="4" ImageHeight="1600" ImageSize="406458" ImageWidth="1175" />
+    <Page Image="5" ImageHeight="1600" ImageSize="404448" ImageWidth="1124" />
+    <Page Image="6" ImageHeight="1600" ImageSize="410537" ImageWidth="1115" />
+    <Page Image="7" ImageHeight="1600" ImageSize="438298" ImageWidth="1109" />
+    <Page Image="8" ImageHeight="1600" ImageSize="426505" ImageWidth="1136" />
+    <Page Image="9" ImageHeight="1600" ImageSize="219732" ImageWidth="1155" />
+    <Page Image="10" ImageHeight="1600" ImageSize="262885" ImageWidth="1073" />
+    <Page Image="11" ImageHeight="1600" ImageSize="291421" ImageWidth="1104" />
+    <Page Image="12" ImageHeight="1600" ImageSize="531940" ImageWidth="1150" />
+    <Page Image="13" ImageHeight="1600" ImageSize="165678" ImageWidth="1114" />
+    <Page Image="14" ImageHeight="1600" ImageSize="173083" ImageWidth="1119" />
+    <Page Image="15" ImageHeight="1600" ImageSize="224550" ImageWidth="1115" />
+    <Page Image="16" ImageHeight="1600" ImageSize="292674" ImageWidth="1111" />
+    <Page Image="17" ImageHeight="1600" ImageSize="320709" ImageWidth="1115" />
+    <Page Image="18" ImageHeight="1600" ImageSize="250765" ImageWidth="1107" />
+    <Page Image="19" ImageHeight="1600" ImageSize="363602" ImageWidth="1117" />
+    <Page Image="20" ImageHeight="1600" ImageSize="308129" ImageWidth="1122" />
+    <Page Image="21" ImageHeight="1600" ImageSize="333911" ImageWidth="1129" />
+    <Page Image="22" ImageHeight="1600" ImageSize="320499" ImageWidth="1112" />
+    <Page Image="23" ImageHeight="1600" ImageSize="312729" ImageWidth="1038" />
+    <Page Image="24" ImageHeight="1600" ImageSize="234566" ImageWidth="1032" />
+    <Page Image="25" ImageHeight="1600" ImageSize="290845" ImageWidth="1119" />
+    <Page Image="26" ImageHeight="1600" ImageSize="247536" ImageWidth="1115" />
+    <Page Image="27" ImageHeight="1600" ImageSize="310776" ImageWidth="1132" />
+    <Page Image="28" ImageHeight="1600" ImageSize="272328" ImageWidth="1130" />
+    <Page Image="29" ImageHeight="1600" ImageSize="321926" ImageWidth="1066" />
+    <Page Image="30" ImageHeight="1600" ImageSize="184635" ImageWidth="999" />
+    <Page Image="31" ImageHeight="1600" ImageSize="311598" ImageWidth="1087" />
+    <Page Image="32" ImageHeight="1600" ImageSize="321882" ImageWidth="1053" />
+    <Page Image="33" ImageHeight="1600" ImageSize="256906" ImageWidth="1065" />
+    <Page Image="34" ImageHeight="1600" ImageSize="385964" ImageWidth="1101" />
+    <Page Image="35" ImageHeight="1600" ImageSize="376929" ImageWidth="1097" />
+    <Page Image="36" ImageHeight="1600" ImageSize="424949" ImageWidth="1104" />
+    <Page Image="37" ImageHeight="1600" ImageSize="390526" ImageWidth="1119" />
+    <Page Image="38" ImageHeight="1600" ImageSize="419689" ImageWidth="1107" />
+    <Page Image="39" ImageHeight="1600" ImageSize="321149" ImageWidth="1166" />
+    <Page Image="40" ImageHeight="1600" ImageSize="288145" ImageWidth="1110" />
+    <Page Image="41" ImageHeight="1600" ImageSize="405484" ImageWidth="1131" />
+    <Page Image="42" ImageHeight="1600" ImageSize="345212" ImageWidth="1076" />
+    <Page Image="43" ImageHeight="1600" ImageSize="393694" ImageWidth="1064" />
+    <Page Image="44" ImageHeight="1600" ImageSize="402636" ImageWidth="1046" />
+    <Page Image="45" ImageHeight="1600" ImageSize="368593" ImageWidth="1133" />
+    <Page Image="46" ImageHeight="1600" ImageSize="280913" ImageWidth="1159" />
+    <Page Image="47" ImageHeight="1600" ImageSize="328125" ImageWidth="1103" />
+    <Page Image="48" ImageHeight="1600" ImageSize="321357" ImageWidth="1071" />
+    <Page Image="49" ImageHeight="1600" ImageSize="401958" ImageWidth="1100" />
+    <Page Image="50" ImageHeight="1600" ImageSize="445903" ImageWidth="1160" />
+    <Page Image="51" ImageHeight="1600" ImageSize="332441" ImageWidth="1137" />
+    <Page Image="52" ImageHeight="1600" ImageSize="318975" ImageWidth="1121" />
+    <Page Image="53" ImageHeight="1600" ImageSize="219831" ImageWidth="1089" />
+    <Page Image="54" ImageHeight="1600" ImageSize="443242" ImageWidth="1089" />
+    <Page Image="55" ImageHeight="1600" ImageSize="353238" ImageWidth="1089" />
+    <Page Image="56" ImageHeight="1600" ImageSize="368982" ImageWidth="1084" />
+    <Page Image="57" ImageHeight="1600" ImageSize="402119" ImageWidth="1085" />
+    <Page Image="58" ImageHeight="1600" ImageSize="342315" ImageWidth="1090" />
+    <Page Image="59" ImageHeight="1600" ImageSize="359430" ImageWidth="1176" />
+    <Page Image="60" ImageHeight="1600" ImageSize="329566" ImageWidth="1092" />
+    <Page Image="61" ImageHeight="1600" ImageSize="294471" ImageWidth="1096" />
+    <Page Image="62" ImageHeight="1600" ImageSize="336425" ImageWidth="1115" />
+    <Page Image="63" ImageHeight="1600" ImageSize="326041" ImageWidth="1127" />
+    <Page Image="64" ImageHeight="1600" ImageSize="340168" ImageWidth="1078" />
+    <Page Image="65" ImageHeight="1600" ImageSize="195506" ImageWidth="1093" />
+    <Page Image="66" ImageHeight="1600" ImageSize="200874" ImageWidth="1115" />
+    <Page Image="67" ImageSize="93984" />
+  </Pages>
+  <Penciller>Brett Ewins,Jamie Hewlett,Julie Hollings,Nick Abadzis,Jamie Hewlett,Brett Ewins</Penciller>
+  <Publisher>Deadline Publications</Publisher>
+  <ScanInformation>(Cclay)</ScanInformation>
+  <Series>Deadline</Series>
+  <Summary>Johnny Nemo gets in conflict with occultists believing that Bing Crosby was divine.</Summary>
+  <Volume>1988</Volume>
+  <Web>https://comicvine.gamespot.com/deadline-2/4000-247170/</Web>
+  <Writer>Julie Hollings,Mike Hadley,Nick Abadzis,Peter Milligan,Philip Bond,Shaky Kane,Steve Dillon,Alan Martin,Alan Martin,Peter Milligan</Writer>
+  <Year>1988</Year>
+  <Count>71</Count>
+  <Title>Tank Girl; The White Quiffs of Dover</Title>
+  <Genre>Science fiction,Humor,Crime</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Jamie Hewlett,Tom Frame,Jamie Hewlett,Tom Frame</Letterer>
+  <Editor>Steve Dillon,Brett Ewins</Editor>
+</ComicInfo>

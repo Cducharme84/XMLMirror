@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Bruno,Dr. Alloy,Franky,Hombre Lagarto,Norton,The Goon,Willie Nagel</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-110218</GTIN>
+	<Inker>Eric Powell</Inker>
+	<Locations>Lonely Street,Norton's Pub</Locations>
+	<Month>5</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:12:40 [Issue ID 4000-110218] urn:comicvine:4000-110218</Notes>
+	<Number>12</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="595277" Type="FrontCover"/>
+		<Page Image="1" ImageSize="257896"/>
+		<Page Image="2" ImageSize="595985"/>
+		<Page Image="3" ImageSize="612758"/>
+		<Page Image="4" ImageSize="649009"/>
+		<Page Image="5" ImageSize="574857"/>
+		<Page Image="6" ImageSize="556367"/>
+		<Page Image="7" ImageSize="534611"/>
+		<Page Image="8" ImageSize="593403"/>
+		<Page Image="9" ImageSize="627531"/>
+		<Page Image="10" ImageSize="564524"/>
+		<Page Image="11" ImageSize="588269"/>
+		<Page Image="12" ImageSize="581509"/>
+		<Page Image="13" ImageSize="561106"/>
+		<Page Image="14" ImageSize="518780"/>
+		<Page Image="15" ImageSize="480943"/>
+		<Page Image="16" ImageSize="608037"/>
+		<Page Image="17" ImageSize="447642"/>
+		<Page Image="18" ImageSize="483586"/>
+		<Page Image="19" ImageSize="535125"/>
+		<Page Image="20" ImageSize="541534"/>
+		<Page Image="21" ImageSize="551233"/>
+		<Page Image="22" ImageSize="582700"/>
+		<Page Image="23" ImageSize="637913"/>
+		<Page Image="24" ImageSize="407275"/>
+	</Pages>
+	<Penciller>Eric Powell</Penciller>
+	<Publisher>Dark Horse Comics</Publisher>
+	<Series>The Goon</Series>
+	<Summary>Overview
+
+Sure, self-experimentation seems like all fun and games but then it goes affecting your mind and you unleash your killer robots on the city. Just look at what happens to Dr. Alloy here. He goes nutty as an outhouse rat, folks. But don't worry, Goon wouldn't let no mechanized contraption knock down his favorite watering hole, Norton's Pub. Let's just keep our fingers crossed that Franky and Butler Lagarto Hombre can find a cure for Alloy's madness before he goes ticking off the Goon.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-03-13 00:17:45.  [CVDB110218]
+
+https://comicvine.gamespot.com/the-goon-12/4000-110218/</Summary>
+	<Tags>Bruno,Dr. Alloy,Franky,Hombre Lagarto,Lonely Street,Norton,Norton's Pub,The Goon,Willie Nagel</Tags>
+	<Volume>2003</Volume>
+	<Web>https://comicvine.gamespot.com/the-goon-12/4000-110218/</Web>
+	<Writer>Eric Powell</Writer>
+	<Year>2005</Year>
+</ComicInfo>

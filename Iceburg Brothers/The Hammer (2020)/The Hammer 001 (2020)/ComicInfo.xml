@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Colorist>Charlie Hogg</Colorist>
+	<Count>4</Count>
+	<CoverArtist>Kieran Squires</CoverArtist>
+	<Day>10</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-808031</GTIN>
+	<Genre>Comedy</Genre>
+	<Inker>Kieran Squires</Inker>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T22:10:15 [Issue ID 4000-808031] urn:comicvine:4000-808031</Notes>
+	<Number>1</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="656436" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="1073809"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="873208"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="57884"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="663992"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="1425302"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="912374"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="1118677"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="1293738"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="1304020"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="906310"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="977920"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="1164371"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="845528"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="1152306"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="1028784"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="1320406"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="1118421"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="1089506"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1242015"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="1078359"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="1053162"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="1123909"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="1392275"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="1233419"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3840" ImageSize="1047572"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3840" ImageSize="1002770"/>
+		<Page Image="27" ImageSize="1266511"/>
+	</Pages>
+	<Penciller>Kieran Squires</Penciller>
+	<Publisher>Iceburg Brothers</Publisher>
+	<Series>The Hammer</Series>
+	<Summary>Hammer of the Gods
+
+We've all dreamt about it. We've all thought about what we would. We all know how we'd change the world. Jon Osmond never did. Jon Osmond only ever lived in the moment. A twist of fate forces him to embark on a crazy adventure and to discover if he is worthy of the power he now holds in his hands.</Summary>
+	<Title>Hammer of the Gods</Title>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/the-hammer-1-hammer-of-the-gods/4000-808031/</Web>
+	<Writer>Simon Squires</Writer>
+	<Year>2020</Year>
+</ComicInfo>

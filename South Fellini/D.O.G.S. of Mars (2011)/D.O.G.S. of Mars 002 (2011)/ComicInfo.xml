@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-1010268</GTIN>
+	<Inker>Paul Maybury</Inker>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:32:52 [Issue ID 4000-1010268] urn:comicvine:4000-1010268</Notes>
+	<Number>2</Number>
+	<PageCount>26</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="286455" Type="FrontCover"/>
+		<Page Image="1" ImageSize="559910"/>
+		<Page Image="2" ImageSize="539017"/>
+		<Page Image="3" ImageSize="581753"/>
+		<Page Image="4" ImageSize="673220"/>
+		<Page Image="5" ImageSize="661119"/>
+		<Page Image="6" ImageSize="704252"/>
+		<Page Image="7" ImageSize="515772"/>
+		<Page Image="8" ImageSize="638698"/>
+		<Page Image="9" ImageSize="457032"/>
+		<Page Image="10" ImageSize="580345"/>
+		<Page Image="11" ImageSize="552494"/>
+		<Page Image="12" ImageSize="688458"/>
+		<Page Image="13" ImageSize="667362"/>
+		<Page Image="14" ImageSize="572027"/>
+		<Page Image="15" ImageSize="669167"/>
+		<Page Image="16" ImageSize="654658"/>
+		<Page Image="17" ImageSize="549857"/>
+		<Page Image="18" ImageSize="557677"/>
+		<Page Image="19" ImageSize="580027"/>
+		<Page Image="20" ImageSize="511964"/>
+		<Page Image="21" ImageSize="445321"/>
+		<Page Image="22" ImageSize="532606"/>
+		<Page Image="23" ImageSize="408238"/>
+		<Page Image="24" ImageSize="407888"/>
+		<Page Image="25" ImageSize="978643"/>
+	</Pages>
+	<Penciller>Paul Maybury</Penciller>
+	<Publisher>South Fellini</Publisher>
+	<Series>D.O.G.S. of Mars</Series>
+	<Summary>https://comicvine.gamespot.com/dogs-of-mars-2/4000-1010268/</Summary>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/dogs-of-mars-2/4000-1010268/</Web>
+	<Writer>Christian Weiser,Johnny Zito,Tony Trov</Writer>
+	<Year>2011</Year>
+</ComicInfo>

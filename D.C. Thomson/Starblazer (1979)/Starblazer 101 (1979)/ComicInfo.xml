@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550715</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:44 [Issue ID 4000-550715] urn:comicvine:4000-550715 urn:grandcomicsdatabase:issue/550715
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:51:38. [Issue ID 550715]</Notes>
+  <Number>101</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="592932" Type="FrontCover" />
+    <Page Image="1" ImageSize="422494" />
+    <Page Image="2" ImageSize="608654" />
+    <Page Image="3" ImageSize="708823" />
+    <Page Image="4" ImageSize="666612" />
+    <Page Image="5" ImageSize="646686" />
+    <Page Image="6" ImageSize="674720" />
+    <Page Image="7" ImageSize="671769" />
+    <Page Image="8" ImageSize="693695" />
+    <Page Image="9" ImageSize="671606" />
+    <Page Image="10" ImageSize="685068" />
+    <Page Image="11" ImageSize="658042" />
+    <Page Image="12" ImageSize="679714" />
+    <Page Image="13" ImageSize="664749" />
+    <Page Image="14" ImageSize="660947" />
+    <Page Image="15" ImageSize="637492" />
+    <Page Image="16" ImageSize="688296" />
+    <Page Image="17" ImageSize="633657" />
+    <Page Image="18" ImageSize="649517" />
+    <Page Image="19" ImageSize="645781" />
+    <Page Image="20" ImageSize="682746" />
+    <Page Image="21" ImageSize="628474" />
+    <Page Image="22" ImageSize="690249" />
+    <Page Image="23" ImageSize="690685" />
+    <Page Image="24" ImageSize="685483" />
+    <Page Image="25" ImageSize="735527" />
+    <Page Image="26" ImageSize="640386" />
+    <Page Image="27" ImageSize="612508" />
+    <Page Image="28" ImageSize="607938" />
+    <Page Image="29" ImageSize="622227" />
+    <Page Image="30" ImageSize="642067" />
+    <Page Image="31" ImageSize="669700" />
+    <Page Image="32" ImageSize="683540" />
+    <Page Image="33" ImageSize="638004" />
+    <Page Image="34" ImageSize="651210" />
+    <Page Image="35" ImageSize="252923" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Forgotten World</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550715/</Web>
+  <Year>1979</Year>
+</ComicInfo>

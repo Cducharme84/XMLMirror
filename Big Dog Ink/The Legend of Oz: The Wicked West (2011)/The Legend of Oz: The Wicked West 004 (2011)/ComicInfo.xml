@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Toto,Scarecrow,Tin Man,Wicked Witch,Cowardly Lion,Gale</Characters>
+  <Count>6</Count>
+  <Day>9</Day>
+  <GTIN>urn:comicvine:4000-339817</GTIN>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:32:14 [Issue ID 4000-339817] urn:comicvine:4000-339817
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 13:42:58. [Issue ID 951451]</Notes>
+  <Number>4</Number>
+  <PageCount>31</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="738846" Type="FrontCover" />
+    <Page Image="1" ImageSize="1231038" />
+    <Page Image="2" ImageSize="779660" />
+    <Page Image="3" ImageSize="710588" />
+    <Page Image="4" ImageSize="877472" />
+    <Page Image="5" ImageSize="1040932" />
+    <Page Image="6" ImageSize="809123" />
+    <Page Image="7" ImageSize="866304" />
+    <Page Image="8" ImageSize="731091" />
+    <Page Image="9" ImageSize="817832" />
+    <Page Image="10" ImageSize="833054" />
+    <Page Image="11" ImageSize="869886" />
+    <Page Image="12" ImageSize="828865" />
+    <Page Image="13" ImageSize="707083" />
+    <Page Image="14" ImageSize="801444" />
+    <Page Image="15" ImageSize="682078" />
+    <Page Image="16" ImageSize="777175" />
+    <Page Image="17" ImageSize="822813" />
+    <Page Image="18" ImageSize="1032423" />
+    <Page Image="19" ImageSize="729218" />
+    <Page Image="20" ImageSize="840322" />
+    <Page Image="21" ImageSize="947777" />
+    <Page Image="22" ImageSize="803844" />
+    <Page Image="23" ImageSize="764622" />
+    <Page Image="24" ImageSize="828188" />
+    <Page Image="25" ImageSize="1366510" />
+    <Page Image="26" ImageSize="618061" />
+    <Page Image="27" ImageSize="723260" />
+    <Page Image="28" ImageSize="853636" />
+    <Page Image="29" ImageSize="569013" />
+    <Page Image="30" ImageSize="728765" />
+  </Pages>
+  <Publisher>Big Dog Ink</Publisher>
+  <Series>The Legend of Oz: The Wicked West</Series>
+  <Summary>A narrow escape from the wilds of the Oz forest leads Dorothy and her companions right to the Emerald City. The question is, is anyone still here?</Summary>
+  <Teams>Winged Monkeys</Teams>
+  <Volume>2011</Volume>
+  <Web>https://comicvine.gamespot.com/the-legend-of-oz-the-wicked-west-4/4000-339817/</Web>
+  <Writer>Tom Hutchison</Writer>
+  <Year>2011</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

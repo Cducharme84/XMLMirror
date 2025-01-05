@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>El Cid,Merlin,Karas Hunter,The Goblin,Cousin Eerie,Jedediah Pan,Exterminator One,Santa Claus,Coffin,Reuben Youngblood,God</Characters>
+  <Colorist>Michelle Wrightson</Colorist>
+  <Editor>Bill DuBay,James Warren,Louise Jones Simonson</Editor>
+  <GTIN>urn:comicvine:4000-442900</GTIN>
+  <Inker>Jose Gual,Ken Kelly,Manuel Sanjulian</Inker>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:12:46 [Issue ID 4000-442900] urn:comicvine:4000-442900
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 09:09:21. [Issue ID 1174507]</Notes>
+  <Number>15</Number>
+  <PageCount>304</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2064390" Type="FrontCover" />
+    <Page Image="1" ImageSize="544493" />
+    <Page Image="2" ImageSize="86637" />
+    <Page Image="3" ImageSize="638766" />
+    <Page Image="4" ImageSize="941561" />
+    <Page Image="5" ImageSize="728741" />
+    <Page Image="6" ImageSize="2157668" />
+    <Page Image="7" ImageSize="381358" />
+    <Page Image="8" ImageSize="2195681" />
+    <Page Image="9" ImageSize="2525266" />
+    <Page Image="10" ImageSize="1355056" />
+    <Page Image="11" ImageSize="2488827" />
+    <Page Image="12" ImageSize="2363876" />
+    <Page Image="13" ImageSize="1723567" />
+    <Page Image="14" ImageSize="2194708" />
+    <Page Image="15" ImageSize="1878106" />
+    <Page Image="16" ImageSize="1974882" />
+    <Page Image="17" ImageSize="1911935" />
+    <Page Image="18" ImageSize="2078833" />
+    <Page Image="19" ImageSize="2080408" />
+    <Page Image="20" ImageSize="1775166" />
+    <Page Image="21" ImageSize="1757529" />
+    <Page Image="22" ImageSize="1983381" />
+    <Page Image="23" ImageSize="2053170" />
+    <Page Image="24" ImageSize="1609361" />
+    <Page Image="25" ImageSize="1477091" />
+    <Page Image="26" ImageSize="2412696" />
+    <Page Image="27" ImageSize="2475693" />
+    <Page Image="28" ImageSize="2688749" />
+    <Page Image="29" ImageSize="2276427" />
+    <Page Image="30" ImageSize="2622341" />
+    <Page Image="31" ImageSize="2630061" />
+    <Page Image="32" ImageSize="2709108" />
+    <Page Image="33" ImageSize="2213885" />
+    <Page Image="34" ImageSize="2555400" />
+    <Page Image="35" ImageSize="2664339" />
+    <Page Image="36" ImageSize="2319571" />
+    <Page Image="37" ImageSize="2090333" />
+    <Page Image="38" ImageSize="2051114" />
+    <Page Image="39" ImageSize="2073293" />
+    <Page Image="40" ImageSize="2518604" />
+    <Page Image="41" ImageSize="2303283" />
+    <Page Image="42" ImageSize="2323133" />
+    <Page Image="43" ImageSize="1585994" />
+    <Page Image="44" ImageSize="1767445" />
+    <Page Image="45" ImageSize="1770315" />
+    <Page Image="46" ImageSize="2403034" />
+    <Page Image="47" ImageSize="2287239" />
+    <Page Image="48" ImageSize="2431482" />
+    <Page Image="49" ImageSize="2321510" />
+    <Page Image="50" ImageSize="2401723" />
+    <Page Image="51" ImageSize="2223861" />
+    <Page Image="52" ImageSize="2486961" />
+    <Page Image="53" ImageSize="2488893" />
+    <Page Image="54" ImageSize="2836550" />
+    <Page Image="55" ImageSize="2547503" />
+    <Page Image="56" ImageSize="2765667" />
+    <Page Image="57" ImageSize="2158590" />
+    <Page Image="58" ImageSize="2310940" />
+    <Page Image="59" ImageSize="2198207" />
+    <Page Image="60" ImageSize="1986413" />
+    <Page Image="61" ImageSize="1660997" />
+    <Page Image="62" ImageSize="1663389" />
+    <Page Image="63" ImageSize="1963093" />
+    <Page Image="64" ImageSize="1791323" />
+    <Page Image="65" ImageSize="1660488" />
+    <Page Image="66" ImageSize="2178560" />
+    <Page Image="67" ImageSize="3082268" />
+    <Page Image="68" ImageSize="1411229" />
+    <Page Image="69" ImageSize="2090965" />
+    <Page Image="70" ImageSize="1915819" />
+    <Page Image="71" ImageSize="1843177" />
+    <Page Image="72" ImageSize="1695645" />
+    <Page Image="73" ImageSize="1856393" />
+    <Page Image="74" ImageSize="2041795" />
+    <Page Image="75" ImageSize="1607654" />
+    <Page Image="76" ImageSize="1724460" />
+    <Page Image="77" ImageSize="1909302" />
+    <Page Image="78" ImageSize="2417025" />
+    <Page Image="79" ImageSize="2561773" />
+    <Page Image="80" ImageSize="2237202" />
+    <Page Image="81" ImageSize="2315229" />
+    <Page Image="82" ImageSize="2501734" />
+    <Page Image="83" ImageSize="2253462" />
+    <Page Image="84" ImageSize="2855816" />
+    <Page Image="85" ImageSize="2383355" />
+    <Page Image="86" ImageSize="1719591" />
+    <Page Image="87" ImageSize="2093552" />
+    <Page Image="88" ImageSize="1970124" />
+    <Page Image="89" ImageSize="2604568" />
+    <Page Image="90" ImageSize="2363083" />
+    <Page Image="91" ImageSize="2135639" />
+    <Page Image="92" ImageSize="2423479" />
+    <Page Image="93" ImageSize="2159702" />
+    <Page Image="94" ImageSize="1996416" />
+    <Page Image="95" ImageSize="2176961" />
+    <Page Image="96" ImageSize="1994773" />
+    <Page Image="97" ImageSize="2472246" />
+    <Page Image="98" ImageSize="2046376" />
+    <Page Image="99" ImageSize="2339196" />
+    <Page Image="100" ImageSize="2002643" />
+    <Page Image="101" ImageSize="2004577" />
+    <Page Image="102" ImageSize="2540793" />
+    <Page Image="103" ImageSize="2470747" />
+    <Page Image="104" ImageSize="2691746" />
+    <Page Image="105" ImageSize="2842536" />
+    <Page Image="106" ImageSize="2554484" />
+    <Page Image="107" ImageSize="2259376" />
+    <Page Image="108" ImageSize="2258133" />
+    <Page Image="109" ImageSize="2278995" />
+    <Page Image="110" ImageSize="2486434" />
+    <Page Image="111" ImageSize="2059710" />
+    <Page Image="112" ImageSize="2380473" />
+    <Page Image="113" ImageSize="2465307" />
+    <Page Image="114" ImageSize="2636836" />
+    <Page Image="115" ImageSize="2112900" />
+    <Page Image="116" ImageSize="2251887" />
+    <Page Image="117" ImageSize="2323903" />
+    <Page Image="118" ImageSize="2206698" />
+    <Page Image="119" ImageSize="2339580" />
+    <Page Image="120" ImageSize="2235507" />
+    <Page Image="121" ImageSize="1769961" />
+    <Page Image="122" ImageSize="2237850" />
+    <Page Image="123" ImageSize="2347698" />
+    <Page Image="124" ImageSize="1453004" />
+    <Page Image="125" ImageSize="2365485" />
+    <Page Image="126" ImageSize="2106829" />
+    <Page Image="127" ImageSize="1166699" />
+    <Page Image="128" ImageSize="1824324" />
+    <Page Image="129" ImageSize="1763364" />
+    <Page Image="130" ImageSize="1913106" />
+    <Page Image="131" ImageSize="2055356" />
+    <Page Image="132" ImageSize="1958995" />
+    <Page Image="133" ImageSize="2062618" />
+    <Page Image="134" ImageSize="2071770" />
+    <Page Image="135" ImageSize="2070125" />
+    <Page Image="136" ImageSize="1997990" />
+    <Page Image="137" ImageSize="1724384" />
+    <Page Image="138" ImageSize="1727654" />
+    <Page Image="139" ImageSize="2237796" />
+    <Page Image="140" ImageSize="1506333" />
+    <Page Image="141" ImageSize="1950021" />
+    <Page Image="142" ImageSize="1881509" />
+    <Page Image="143" ImageSize="2231374" />
+    <Page Image="144" ImageSize="1927917" />
+    <Page Image="145" ImageSize="2539797" />
+    <Page Image="146" ImageSize="2403778" />
+    <Page Image="147" ImageSize="2352997" />
+    <Page Image="148" ImageSize="1952257" />
+    <Page Image="149" ImageSize="2290172" />
+    <Page Image="150" ImageSize="2688649" />
+    <Page Image="151" ImageSize="2082584" />
+    <Page Image="152" ImageSize="2748406" />
+    <Page Image="153" ImageSize="2383536" />
+    <Page Image="154" ImageSize="2073233" />
+    <Page Image="155" ImageSize="2095382" />
+    <Page Image="156" ImageSize="2133253" />
+    <Page Image="157" ImageSize="2239440" />
+    <Page Image="158" ImageSize="1905721" />
+    <Page Image="159" ImageSize="2205243" />
+    <Page Image="160" ImageSize="1987244" />
+    <Page Image="161" ImageSize="1702145" />
+    <Page Image="162" ImageSize="1656549" />
+    <Page Image="163" ImageSize="1914446" />
+    <Page Image="164" ImageSize="3166141" />
+    <Page Image="165" ImageSize="2784528" />
+    <Page Image="166" ImageSize="2766234" />
+    <Page Image="167" ImageSize="2435584" />
+    <Page Image="168" ImageSize="2395436" />
+    <Page Image="169" ImageSize="2350570" />
+    <Page Image="170" ImageSize="2608389" />
+    <Page Image="171" ImageSize="2316776" />
+    <Page Image="172" ImageSize="1916368" />
+    <Page Image="173" ImageSize="2326280" />
+    <Page Image="174" ImageSize="2570555" />
+    <Page Image="175" ImageSize="1809546" />
+    <Page Image="176" ImageSize="2657979" />
+    <Page Image="177" ImageSize="1822900" />
+    <Page Image="178" ImageSize="1698967" />
+    <Page Image="179" ImageSize="2247372" />
+    <Page Image="180" ImageSize="1947640" />
+    <Page Image="181" ImageSize="2384190" />
+    <Page Image="182" ImageSize="2230426" />
+    <Page Image="183" ImageSize="2484375" />
+    <Page Image="184" ImageSize="2174323" />
+    <Page Image="185" ImageSize="1880176" />
+    <Page Image="186" ImageSize="2183680" />
+    <Page Image="187" ImageSize="2091848" />
+    <Page Image="188" ImageSize="1852928" />
+    <Page Image="189" ImageSize="2117108" />
+    <Page Image="190" ImageSize="2890877" />
+    <Page Image="191" ImageSize="2691925" />
+    <Page Image="192" ImageSize="1537333" />
+    <Page Image="193" ImageSize="2371327" />
+    <Page Image="194" ImageSize="2234100" />
+    <Page Image="195" ImageSize="2210041" />
+    <Page Image="196" ImageSize="2212004" />
+    <Page Image="197" ImageSize="2147201" />
+    <Page Image="198" ImageSize="2144304" />
+    <Page Image="199" ImageSize="2352316" />
+    <Page Image="200" ImageSize="1993381" />
+    <Page Image="201" ImageSize="1966582" />
+    <Page Image="202" ImageSize="2338292" />
+    <Page Image="203" ImageSize="2491202" />
+    <Page Image="204" ImageSize="2230151" />
+    <Page Image="205" ImageSize="2204100" />
+    <Page Image="206" ImageSize="1809075" />
+    <Page Image="207" ImageSize="2086556" />
+    <Page Image="208" ImageSize="2315159" />
+    <Page Image="209" ImageSize="2173974" />
+    <Page Image="210" ImageSize="2058221" />
+    <Page Image="211" ImageSize="1888399" />
+    <Page Image="212" ImageSize="2410385" />
+    <Page Image="213" ImageSize="2081837" />
+    <Page Image="214" ImageSize="2199271" />
+    <Page Image="215" ImageSize="3062071" />
+    <Page Image="216" ImageSize="2380228" />
+    <Page Image="217" ImageSize="2397674" />
+    <Page Image="218" ImageSize="1714676" />
+    <Page Image="219" ImageSize="2361951" />
+    <Page Image="220" ImageSize="2472833" />
+    <Page Image="221" ImageSize="2787292" />
+    <Page Image="222" ImageSize="2428523" />
+    <Page Image="223" ImageSize="2077668" />
+    <Page Image="224" ImageSize="2411691" />
+    <Page Image="225" ImageSize="2048928" />
+    <Page Image="226" ImageSize="2125890" />
+    <Page Image="227" ImageSize="2282854" />
+    <Page Image="228" ImageSize="2399041" />
+    <Page Image="229" ImageSize="2480058" />
+    <Page Image="230" ImageSize="2169025" />
+    <Page Image="231" ImageSize="2422954" />
+    <Page Image="232" ImageSize="2485119" />
+    <Page Image="233" ImageSize="2264079" />
+    <Page Image="234" ImageSize="1639924" />
+    <Page Image="235" ImageSize="1938634" />
+    <Page Image="236" ImageSize="1642613" />
+    <Page Image="237" ImageSize="1727177" />
+    <Page Image="238" ImageSize="2203963" />
+    <Page Image="239" ImageSize="2180218" />
+    <Page Image="240" ImageSize="2010998" />
+    <Page Image="241" ImageSize="2072988" />
+    <Page Image="242" ImageSize="2361682" />
+    <Page Image="243" ImageSize="1976366" />
+    <Page Image="244" ImageSize="2250652" />
+    <Page Image="245" ImageSize="1888013" />
+    <Page Image="246" ImageSize="1205221" />
+    <Page Image="247" ImageSize="1009445" />
+    <Page Image="248" ImageSize="2325943" />
+    <Page Image="249" ImageSize="2363083" />
+    <Page Image="250" ImageSize="2381887" />
+    <Page Image="251" ImageSize="2359986" />
+    <Page Image="252" ImageSize="2322061" />
+    <Page Image="253" ImageSize="2248833" />
+    <Page Image="254" ImageSize="2007201" />
+    <Page Image="255" ImageSize="2005733" />
+    <Page Image="256" ImageSize="2791799" />
+    <Page Image="257" ImageSize="1931414" />
+    <Page Image="258" ImageSize="2338027" />
+    <Page Image="259" ImageSize="2099254" />
+    <Page Image="260" ImageSize="2093438" />
+    <Page Image="261" ImageSize="2306666" />
+    <Page Image="262" ImageSize="2514262" />
+    <Page Image="263" ImageSize="2335500" />
+    <Page Image="264" ImageSize="2262277" />
+    <Page Image="265" ImageSize="1981907" />
+    <Page Image="266" ImageSize="2260841" />
+    <Page Image="267" ImageSize="2337637" />
+    <Page Image="268" ImageSize="2447656" />
+    <Page Image="269" ImageSize="2609783" />
+    <Page Image="270" ImageSize="2390276" />
+    <Page Image="271" ImageSize="2410850" />
+    <Page Image="272" ImageSize="2456336" />
+    <Page Image="273" ImageSize="2072849" />
+    <Page Image="274" ImageSize="2171032" />
+    <Page Image="275" ImageSize="2212848" />
+    <Page Image="276" ImageSize="2583977" />
+    <Page Image="277" ImageSize="2651272" />
+    <Page Image="278" ImageSize="2123820" />
+    <Page Image="279" ImageSize="2345415" />
+    <Page Image="280" ImageSize="2296213" />
+    <Page Image="281" ImageSize="2164793" />
+    <Page Image="282" ImageSize="2163046" />
+    <Page Image="283" ImageSize="2050812" />
+    <Page Image="284" ImageSize="2043932" />
+    <Page Image="285" ImageSize="1911010" />
+    <Page Image="286" ImageSize="1944466" />
+    <Page Image="287" ImageSize="2017136" />
+    <Page Image="288" ImageSize="1786342" />
+    <Page Image="289" ImageSize="1749964" />
+    <Page Image="290" ImageSize="1902963" />
+    <Page Image="291" ImageSize="2207056" />
+    <Page Image="292" ImageSize="2049175" />
+    <Page Image="293" ImageSize="2282714" />
+    <Page Image="294" ImageSize="2706945" />
+    <Page Image="295" ImageSize="2524996" />
+    <Page Image="296" ImageSize="2790339" />
+    <Page Image="297" ImageSize="2452191" />
+    <Page Image="298" ImageSize="2026729" />
+    <Page Image="299" ImageSize="4569270" />
+    <Page Image="300" ImageSize="2166553" />
+    <Page Image="301" ImageSize="749166" />
+    <Page Image="302" ImageSize="372870" />
+    <Page Image="303" ImageSize="1657847" />
+  </Pages>
+  <Penciller>Bernie Wrightson,Esteban Maroto,Gonzalo Mayo,Howard Chaykin,Jose Gual,Jose Ortiz,Josep Maria Bea,Ken Kelly,Leopoldo Sanchez,Luis Bermejo,Manuel Sanjulian,Paul Neary,Rafael Auraleón</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Eerie Archives</Series>
+  <Summary>Bizarre science fiction, luminous fantasy, dark psychological drama, and wild western adventure—in the pages of Eerie, these genres were brought together, twisted, and given thrilling touches of the macabre! This volume in the acclaimed Eerie Archives hardcover series collects all stories and bonus features from issues #70 to #74.
+
+The continued adventures of Coffin, undead in the wild west!
+
+Thrill at the eye-popping artwork!
+
+Painted covers by Ken Kelly and Sanjulian, plus all text features and fan pages!
+
+Coffin
+
+Tomorrow pony soldiers would take the Kiowa to a reservation. Braves would wave baskets. Eat corn. Sit in the sun. die. A man could wither. Or he could sell his life dearly, taking hundreds of soldiers with him. Leading the Indians to massacre is Death incarnate. The undead Coffin!
+
+Hunter II
+
+Three men. three destinies. The Exterminator: A machine-man who must destroy the unfit. Who must kill goblins. Karas Hunter: Determined to saly the goblin-breeding wizard, Yaust, and save the world. Echo: A warrior chief. He's lost his tribe to Yaust's mutants. He may lose his life!
+
+Code Name: Slaughter Five
+
+No food. Stringent birth control. Cannibalism. Legalized murder. It made no difference. The population continued to increase. And Starve. Population reduction was Slaughter's aim. Revol was his method. For, a lot of people would die in a revolution!
+
+El Cid: Crooked Mouth
+
+Garcia Ordonez' tongue was as twisted as his face. He hated El Cid. Whispered that Cid harbored the King's Moorish enemies. Fed them. Treated them as guests. Many believed. El Cid was called to answer before God, King, and the Demon who plotted his ruin!
+
+Oogie and the Junkers
+
+Leroy was a Buck Blaster freak. He'd seen every show. Bought every cassette. Read every book. Even owned a uniform and decoder ring. Only thing he didn't have was Buck's voluptuous sidekick, Thelma Starbust. And an obliging alien was planning to give him her!
+
+Goblin
+
+Salem burst into this world through the cabinet of an old grandfather clock. A small, hideous demon trapped accidentally in reality, frightened and frightening, seeking desperately to escape. And having the very devil of a time managing it!
+
+Hunter II: Time
+
+The goblin forces poured from the Eastern Mountains. To expand their territory. To take captives. Between one walled hamlet and the marauding goblin army stood two line, reluctant heroes. Exterminator one, the robot. And Karas/ Hunter II!
+
+Irving and the Devlpie
+
+The sheriff killed Invincible Irving with a shotgun blast through the heart. But Irving didn't die. He went to a land of shadows where he acquired a demon, a life of wealth and leisure, and a special, private hell!
+
+Pooter and the Magicman
+
+Smithpooter was a magician. And, as such, he was a failure. His tricks didn't work. The fat lady ate his rabbit. He was scorned. Abused. Fired. Until the fatal day he made a deal with the demonic S. Pavlov-Freud!
+
+El Cid: Demon Treasure
+
+The cache was guarded by a demon. So said the legends. But it was an old treasure...and even demons die. So, reasoned Aledo, it was guarded by reputation alone. And, to his regret, he decided to test his theory!
+
+Mordecai Moondog
+
+Seven spirits possessed the house. Seven portraits hung on the wall. Sigfried. Pieter. Ivar. Roald. Ilona. Tomas. Who was the seventh ghost? What secret linked them to this desolate mansion. What madness did they share?
+
+Demons of Jeremiah Cold
+
+The bandit chief flashed his silver bracelet and growled, "Belial!" A devil appeared. Two more names he snarled, till three fiends stood before him. Surrounded by demons and robbers, he rode in force to level a town.
+
+Hunter II: Armageddon
+
+Karas Hunter and Exterminator...trapped! Trolls to the left. Goblins to the right! A fire hurling dragon rider raining death from above. They stood, backs to calamity's door. Then suddenly, the mountain opened
+
+Youngblood and Beans
+
+Reuben Youngblood, a detective with a mission. To unravel a dastardly plot, he must discover a murderer among guests hurtling through the clouds in a huge dirigible...innocent victims of international espionage!
+
+A Thin Dime of Pain
+
+Thin man. Bat man. Human Caterpillar. Freaks to be jeered at. Humiliated. Till, ridiculed once to often, they turned on their taunters. And perpetrated a revenge more terrible than the calamities of their births!
+
+The Pie and I
+
+They had beaten me within and inch of my life. Blown my dad's head away with a shotgun. But I had Pie's gadget. The alien's box could be used to heal or to destroy. And I had total destruction in my as I strode into town!
+
+Tales of Peter Hypnos
+
+The music led to a factory. There people marched into the Incredible Machine and came out...different. Balloon heads. Animal faces. Stretched bodies. Peter had no choice. He was next. And he started to run!
+
+Hunter II: Phoenix' Death
+
+The journey had ended for Karas Hunter and Exterminator. In the cave of the black magician, the evil Mandragora, they faces their final challenge. They had overcome goblins, trolls, mutants, dragons. They now faces deceit, destruction and death!
+
+Freaks: Carnival
+
+A caravan of monsters rolled into town around midnight. Every kind of human deformity was represented. Every sort of freak. And then two children crept out of their house...hurried to see the freaks, rushed to join the terrible carnival that was then in progress!
+
+Tombspawn: Vampire, 1992
+
+Time: tomorrow. Place: Earth. Atmosphere: radioactive. Ecology: berserk. Two heroes are about to fight a mutant hammerhead land shark with bows and arrows. They will survive to face an even greater terror...an evil from the past now free to roam the earth!
+
+It...The Death Thing
+
+The circus had come to Foleyville, It promised excitement...laughter. It delivered evil. Thieves, disguised as clowns, plotted to steal a treasure. To do so they must face the deadly guardian of the Foley manse...a terrifying apparition from the grave!
+
+Peter Hypnos: The Hole
+
+The fanged bunny told Peter that shrinking was fine...once you gut used to it. But Peter hated it. And there was only one way out. He must get smaller and smaller til he was hardly there at all...then risk a journey through the final hole!
+
+Demons of Jedediah Pan
+
+Jedediah Pan was an ex-murderer, ex-convict and ex-leader of a band of outlaws. But Frito;s banditos saw only a wiry old man...easy prey for their knives and guns. They didn't know Pan's terrible secret. Demons lurked in his silver bracelet!
+
+Father Creator
+
+He was the elected caretaker of the universe...chosen, among all living beings, to oversee all sentient creatures. With the help of the Mother Computer, he created leaders...messiahs...to safeguard his flock. But could the half-mad god save himself?
+
+Merlin: A Secret King
+
+Uther Pendragon had died, leaving behind a secret heir. Merlin had taken the babe, born much too soon for propriety after his parents wedding, and raised him to kingly virtues. Now, to prove himself worthy, the boy must pull a magic sword from a stone!
+
+The Expedition
+
+It was thirty degrees...bitter cold for northern Louisiana. But stone insisted that he and Turner continue on their camping trip. And Turner was increasingly convinced that Stone was leading him into a trap...that stone would use him as fodder for a monster.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-09-17 12:31:08.  [CVDB442900]
+
+https://comicvine.gamespot.com/eerie-archives-15-volume-fifteen/4000-442900/</Summary>
+  <Tags>El Cid,Merlin,Karas Hunter,The Goblin,Cousin Eerie,Jedediah Pan,Exterminator One,Santa Claus,Coffin,Reuben Youngblood,God</Tags>
+  <Title>Volume Fifteen</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/eerie-archives-15-volume-fifteen/4000-442900/</Web>
+  <Writer>Bill DuBay,Budd Lewis,Carl Wessler,Doug Moench,Gerry Boudreau,Josep Maria Bea,Rich Margopoulos,Robert Evans</Writer>
+  <Year>2014</Year>
+  <Count>27</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

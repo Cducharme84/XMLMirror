@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>The Crypt-Keeper,The Old Witch,The Vault-Keeper</Characters>
+	<Day>1</Day>
+	<Editor>Bill Gaines</Editor>
+	<GTIN>urn:comicvine:4000-110546</GTIN>
+	<Inker>Graham Ingels,Jack Davis,Jack Kamen,Joe Orlando</Inker>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:42:52 [Issue ID 4000-110546] urn:comicvine:4000-110546</Notes>
+	<Number>30</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="400" ImageHeight="571" ImageSize="37255" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="993" ImageHeight="1389" ImageSize="144669"/>
+		<Page Image="2" ImageWidth="974" ImageHeight="1352" ImageSize="155114"/>
+		<Page Image="3" ImageWidth="981" ImageHeight="1377" ImageSize="161370"/>
+		<Page Image="4" ImageWidth="979" ImageHeight="1368" ImageSize="138608"/>
+		<Page Image="5" ImageWidth="999" ImageHeight="1374" ImageSize="150168"/>
+		<Page Image="6" ImageWidth="1004" ImageHeight="1374" ImageSize="151383"/>
+		<Page Image="7" ImageWidth="1008" ImageHeight="1338" ImageSize="151348"/>
+		<Page Image="8" ImageWidth="1004" ImageHeight="1374" ImageSize="149842"/>
+		<Page Image="9" ImageWidth="1035" ImageHeight="1425" ImageSize="160278"/>
+		<Page Image="10" ImageWidth="1027" ImageHeight="1351" ImageSize="160424"/>
+		<Page Image="11" ImageWidth="998" ImageHeight="1360" ImageSize="152294"/>
+		<Page Image="12" ImageWidth="1009" ImageHeight="1374" ImageSize="165323"/>
+		<Page Image="13" ImageWidth="995" ImageHeight="1412" ImageSize="164799"/>
+		<Page Image="14" ImageWidth="992" ImageHeight="1365" ImageSize="160456"/>
+		<Page Image="15" ImageWidth="1006" ImageHeight="1372" ImageSize="173689"/>
+		<Page Image="16" ImageWidth="1008" ImageHeight="1372" ImageSize="148039"/>
+		<Page Image="17" ImageWidth="998" ImageHeight="1395" ImageSize="126585"/>
+		<Page Image="18" ImageWidth="989" ImageHeight="1339" ImageSize="159222"/>
+		<Page Image="19" ImageWidth="1001" ImageHeight="1367" ImageSize="141385"/>
+		<Page Image="20" ImageWidth="988" ImageHeight="1346" ImageSize="156238"/>
+		<Page Image="21" ImageWidth="1010" ImageHeight="1366" ImageSize="135061"/>
+		<Page Image="22" ImageWidth="996" ImageHeight="1387" ImageSize="146440"/>
+		<Page Image="23" ImageWidth="988" ImageHeight="1348" ImageSize="143128"/>
+		<Page Image="24" ImageWidth="1000" ImageHeight="1338" ImageSize="144650"/>
+		<Page Image="25" ImageWidth="1000" ImageHeight="1374" ImageSize="132325"/>
+		<Page Image="26" ImageWidth="1012" ImageHeight="1338" ImageSize="141855"/>
+		<Page Image="27" ImageWidth="994" ImageHeight="1332" ImageSize="139716"/>
+		<Page Image="28" ImageWidth="996" ImageHeight="1338" ImageSize="142540"/>
+		<Page Image="29" ImageWidth="978" ImageHeight="1339" ImageSize="142566"/>
+		<Page Image="30" ImageWidth="997" ImageHeight="1378" ImageSize="139455"/>
+		<Page Image="31" ImageWidth="976" ImageHeight="1354" ImageSize="145717"/>
+		<Page Image="32" ImageSize="149895"/>
+	</Pages>
+	<Penciller>Graham Ingels,Jack Davis,Jack Kamen,Joe Orlando</Penciller>
+	<Publisher>EC</Publisher>
+	<Series>Tales from the Crypt</Series>
+	<Summary>https://comicvine.gamespot.com/tales-from-the-crypt-30/4000-110546/</Summary>
+	<Tags>The Crypt-Keeper,The Old Witch,The Vault-Keeper</Tags>
+	<Volume>1950</Volume>
+	<Web>https://comicvine.gamespot.com/tales-from-the-crypt-30/4000-110546/</Web>
+	<Writer>Al Feldstein</Writer>
+	<Year>1952</Year>
+</ComicInfo>

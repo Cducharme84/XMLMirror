@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>John Ikos</Characters>
+	<Colorist>Ben Templesmith</Colorist>
+	<Day>31</Day>
+	<Editor>Jeff Mariotte</Editor>
+	<GTIN>urn:comicvine:4000-98909</GTIN>
+	<Inker>Ben Templesmith</Inker>
+	<Letterer>Robbie Robbins</Letterer>
+	<Locations>Alaska,Barrow</Locations>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:04:06 [Issue ID 4000-98909] urn:comicvine:4000-98909</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1043578" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1017559"/>
+		<Page Image="2" ImageSize="840071"/>
+		<Page Image="3" ImageSize="936628"/>
+		<Page Image="4" ImageSize="1230534"/>
+		<Page Image="5" ImageSize="1446342"/>
+		<Page Image="6" ImageSize="1385323"/>
+		<Page Image="7" ImageSize="1388975"/>
+		<Page Image="8" ImageSize="959250"/>
+		<Page Image="9" ImageSize="1142235"/>
+		<Page Image="10" ImageSize="1132189"/>
+		<Page Image="11" ImageSize="1076318"/>
+		<Page Image="12" ImageSize="961750"/>
+		<Page Image="13" ImageSize="1005152"/>
+		<Page Image="14" ImageSize="1149536"/>
+		<Page Image="15" ImageSize="1056988"/>
+		<Page Image="16" ImageSize="1004626"/>
+		<Page Image="17" ImageSize="1002361"/>
+		<Page Image="18" ImageSize="1228362"/>
+		<Page Image="19" ImageSize="981767"/>
+		<Page Image="20" ImageSize="994340"/>
+		<Page Image="21" ImageSize="1005910"/>
+		<Page Image="22" ImageSize="994661"/>
+		<Page Image="23" ImageSize="1327906"/>
+	</Pages>
+	<Penciller>Ben Templesmith</Penciller>
+	<Publisher>IDW Publishing</Publisher>
+	<Series>30 Days of Night: Return to Barrow</Series>
+	<Summary>Barrow has a new sheriff, but a old problem.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-02 09:34:03.  [Issue ID 98909]
+
+https://comicvine.gamespot.com/30-days-of-night-return-to-barrow-1/4000-98909/</Summary>
+	<Tags>Alaska,Barrow,John Ikos,Vampires</Tags>
+	<Teams>Vampires</Teams>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/30-days-of-night-return-to-barrow-1/4000-98909/</Web>
+	<Writer>Steve Niles</Writer>
+	<Year>2004</Year>
+</ComicInfo>

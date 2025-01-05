@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>James Bellyi</Characters>
+  <Colorist>Alec Morgan</Colorist>
+  <Day>2</Day>
+  <GTIN>urn:comicvine:4000-820092</GTIN>
+  <Inker>Alec Morgan</Inker>
+  <Letterer>Jim Campbell</Letterer>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:42:47 [Issue ID 4000-820092] urn:comicvine:4000-820092
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 13:31:14. [Issue ID 2171692]</Notes>
+  <Number>1</Number>
+  <PageCount>129</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="277" Type="FrontCover" />
+    <Page Image="1" ImageSize="277" />
+    <Page Image="2" ImageSize="277" />
+    <Page Image="3" ImageSize="277" />
+    <Page Image="4" ImageSize="277" />
+    <Page Image="5" ImageSize="277" />
+    <Page Image="6" ImageSize="277" />
+    <Page Image="7" ImageSize="277" />
+    <Page Image="8" ImageSize="277" />
+    <Page Image="9" ImageSize="277" />
+    <Page Image="10" ImageSize="277" />
+    <Page Image="11" ImageSize="277" />
+    <Page Image="12" ImageSize="333" />
+    <Page Image="13" ImageSize="277" />
+    <Page Image="14" ImageSize="277" />
+    <Page Image="15" ImageSize="277" />
+    <Page Image="16" ImageSize="277" />
+    <Page Image="17" ImageSize="277" />
+    <Page Image="18" ImageSize="277" />
+    <Page Image="19" ImageSize="277" />
+    <Page Image="20" ImageSize="277" />
+    <Page Image="21" ImageSize="277" />
+    <Page Image="22" ImageSize="277" />
+    <Page Image="23" ImageSize="277" />
+    <Page Image="24" ImageSize="277" />
+    <Page Image="25" ImageSize="277" />
+    <Page Image="26" ImageSize="277" />
+    <Page Image="27" ImageSize="277" />
+    <Page Image="28" ImageSize="277" />
+    <Page Image="29" ImageSize="277" />
+    <Page Image="30" ImageSize="277" />
+    <Page Image="31" ImageSize="277" />
+    <Page Image="32" ImageSize="277" />
+    <Page Image="33" ImageSize="277" />
+    <Page Image="34" ImageSize="277" />
+    <Page Image="35" ImageSize="277" />
+    <Page Image="36" ImageSize="277" />
+    <Page Image="37" ImageSize="333" />
+    <Page Image="38" ImageSize="277" />
+    <Page Image="39" ImageSize="277" />
+    <Page Image="40" ImageSize="277" />
+    <Page Image="41" ImageSize="277" />
+    <Page Image="42" ImageSize="277" />
+    <Page Image="43" ImageSize="277" />
+    <Page Image="44" ImageSize="277" />
+    <Page Image="45" ImageSize="277" />
+    <Page Image="46" ImageSize="277" />
+    <Page Image="47" ImageSize="277" />
+    <Page Image="48" ImageSize="277" />
+    <Page Image="49" ImageSize="277" />
+    <Page Image="50" ImageSize="277" />
+    <Page Image="51" ImageSize="277" />
+    <Page Image="52" ImageSize="333" />
+    <Page Image="53" ImageSize="277" />
+    <Page Image="54" ImageSize="277" />
+    <Page Image="55" ImageSize="277" />
+    <Page Image="56" ImageSize="277" />
+    <Page Image="57" ImageSize="277" />
+    <Page Image="58" ImageSize="277" />
+    <Page Image="59" ImageSize="277" />
+    <Page Image="60" ImageSize="277" />
+    <Page Image="61" ImageSize="277" />
+    <Page Image="62" ImageSize="277" />
+    <Page Image="63" ImageSize="277" />
+    <Page Image="64" ImageSize="277" />
+    <Page Image="65" ImageSize="277" />
+    <Page Image="66" ImageSize="277" />
+    <Page Image="67" ImageSize="277" />
+    <Page Image="68" ImageSize="277" />
+    <Page Image="69" ImageSize="277" />
+    <Page Image="70" ImageSize="277" />
+    <Page Image="71" ImageSize="277" />
+    <Page Image="72" ImageSize="277" />
+    <Page Image="73" ImageSize="277" />
+    <Page Image="74" ImageSize="277" />
+    <Page Image="75" ImageSize="277" />
+    <Page Image="76" ImageSize="277" />
+    <Page Image="77" ImageSize="277" />
+    <Page Image="78" ImageSize="277" />
+    <Page Image="79" ImageSize="277" />
+    <Page Image="80" ImageSize="277" />
+    <Page Image="81" ImageSize="277" />
+    <Page Image="82" ImageSize="277" />
+    <Page Image="83" ImageSize="277" />
+    <Page Image="84" ImageSize="277" />
+    <Page Image="85" ImageSize="277" />
+    <Page Image="86" ImageSize="277" />
+    <Page Image="87" ImageSize="277" />
+    <Page Image="88" ImageSize="277" />
+    <Page Image="89" ImageSize="277" />
+    <Page Image="90" ImageSize="277" />
+    <Page Image="91" ImageSize="277" />
+    <Page Image="92" ImageSize="277" />
+    <Page Image="93" ImageSize="277" />
+    <Page Image="94" ImageSize="277" />
+    <Page Image="95" ImageSize="277" />
+    <Page Image="96" ImageSize="277" />
+    <Page Image="97" ImageSize="277" />
+    <Page Image="98" ImageSize="277" />
+    <Page Image="99" ImageSize="277" />
+    <Page Image="100" ImageSize="277" />
+    <Page Image="101" ImageSize="277" />
+    <Page Image="102" ImageSize="277" />
+    <Page Image="103" ImageSize="277" />
+    <Page Image="104" ImageSize="277" />
+    <Page Image="105" ImageSize="277" />
+    <Page Image="106" ImageSize="277" />
+    <Page Image="107" ImageSize="277" />
+    <Page Image="108" ImageSize="277" />
+    <Page Image="109" ImageSize="277" />
+    <Page Image="110" ImageSize="277" />
+    <Page Image="111" ImageSize="277" />
+    <Page Image="112" ImageSize="277" />
+    <Page Image="113" ImageSize="277" />
+    <Page Image="114" ImageSize="277" />
+    <Page Image="115" ImageSize="277" />
+    <Page Image="116" ImageSize="277" />
+    <Page Image="117" ImageSize="277" />
+    <Page Image="118" ImageSize="277" />
+    <Page Image="119" ImageSize="277" />
+    <Page Image="120" ImageSize="277" />
+    <Page Image="121" ImageSize="277" />
+    <Page Image="122" ImageSize="277" />
+    <Page Image="123" ImageSize="277" />
+    <Page Image="124" ImageSize="277" />
+    <Page Image="125" ImageSize="277" />
+    <Page Image="126" ImageSize="277" />
+    <Page Image="127" ImageSize="277" />
+    <Page Image="128" ImageSize="277" />
+    <Page Image="129" ImageSize="910535" />
+    <Page Image="130" ImageSize="435522" />
+    <Page Image="131" ImageSize="376159" />
+    <Page Image="132" ImageSize="312925" />
+    <Page Image="133" ImageSize="344548" />
+    <Page Image="134" ImageSize="524143" />
+    <Page Image="135" ImageSize="727762" />
+    <Page Image="136" ImageSize="300992" />
+    <Page Image="137" ImageSize="526135" />
+    <Page Image="138" ImageSize="446437" />
+    <Page Image="139" ImageSize="369310" />
+    <Page Image="140" ImageSize="555796" />
+    <Page Image="141" ImageSize="589578" />
+    <Page Image="142" ImageSize="481114" />
+    <Page Image="143" ImageSize="599371" />
+    <Page Image="144" ImageSize="569131" />
+    <Page Image="145" ImageSize="445377" />
+    <Page Image="146" ImageSize="567575" />
+    <Page Image="147" ImageSize="431119" />
+    <Page Image="148" ImageSize="537667" />
+    <Page Image="149" ImageSize="547902" />
+    <Page Image="150" ImageSize="632868" />
+    <Page Image="151" ImageSize="827780" />
+    <Page Image="152" ImageSize="408854" />
+    <Page Image="153" ImageSize="486059" />
+    <Page Image="154" ImageSize="283883" />
+    <Page Image="155" ImageSize="378442" />
+    <Page Image="156" ImageSize="234968" />
+    <Page Image="157" ImageSize="149576" />
+    <Page Image="158" ImageSize="294128" />
+    <Page Image="159" ImageSize="284649" />
+    <Page Image="160" ImageSize="274172" />
+    <Page Image="161" ImageSize="530671" />
+    <Page Image="162" ImageSize="533648" />
+    <Page Image="163" ImageSize="322661" />
+    <Page Image="164" ImageSize="614651" />
+    <Page Image="165" ImageSize="484782" />
+    <Page Image="166" ImageSize="545074" />
+    <Page Image="167" ImageSize="466503" />
+    <Page Image="168" ImageSize="260643" />
+    <Page Image="169" ImageSize="417963" />
+    <Page Image="170" ImageSize="198795" />
+    <Page Image="171" ImageSize="536615" />
+    <Page Image="172" ImageSize="620325" />
+    <Page Image="173" ImageSize="488739" />
+    <Page Image="174" ImageSize="462659" />
+    <Page Image="175" ImageSize="458506" />
+    <Page Image="176" ImageSize="575855" />
+    <Page Image="177" ImageSize="337129" />
+    <Page Image="178" ImageSize="458931" />
+    <Page Image="179" ImageSize="486331" />
+    <Page Image="180" ImageSize="503154" />
+    <Page Image="181" ImageSize="339064" />
+    <Page Image="182" ImageSize="430545" />
+    <Page Image="183" ImageSize="440086" />
+    <Page Image="184" ImageSize="391834" />
+    <Page Image="185" ImageSize="459338" />
+    <Page Image="186" ImageSize="387532" />
+    <Page Image="187" ImageSize="353567" />
+    <Page Image="188" ImageSize="422985" />
+    <Page Image="189" ImageSize="573022" />
+    <Page Image="190" ImageSize="567006" />
+    <Page Image="191" ImageSize="564275" />
+    <Page Image="192" ImageSize="69749" />
+    <Page Image="193" ImageSize="427638" />
+    <Page Image="194" ImageSize="359467" />
+    <Page Image="195" ImageSize="554012" />
+    <Page Image="196" ImageSize="401934" />
+    <Page Image="197" ImageSize="464460" />
+    <Page Image="198" ImageSize="470105" />
+    <Page Image="199" ImageSize="424041" />
+    <Page Image="200" ImageSize="395380" />
+    <Page Image="201" ImageSize="276603" />
+    <Page Image="202" ImageSize="412295" />
+    <Page Image="203" ImageSize="405609" />
+    <Page Image="204" ImageSize="528599" />
+    <Page Image="205" ImageSize="326127" />
+    <Page Image="206" ImageSize="352520" />
+    <Page Image="207" ImageSize="372236" />
+    <Page Image="208" ImageSize="456997" />
+    <Page Image="209" ImageSize="586923" />
+    <Page Image="210" ImageSize="510432" />
+    <Page Image="211" ImageSize="379348" />
+    <Page Image="212" ImageSize="447216" />
+    <Page Image="213" ImageSize="426017" />
+    <Page Image="214" ImageSize="424111" />
+    <Page Image="215" ImageSize="574795" />
+    <Page Image="216" ImageSize="469715" />
+    <Page Image="217" ImageSize="426147" />
+    <Page Image="218" ImageSize="71480" />
+    <Page Image="219" ImageSize="67964" />
+    <Page Image="220" ImageSize="480209" />
+    <Page Image="221" ImageSize="422635" />
+    <Page Image="222" ImageSize="404099" />
+    <Page Image="223" ImageSize="518185" />
+    <Page Image="224" ImageSize="289054" />
+    <Page Image="225" ImageSize="481288" />
+    <Page Image="226" ImageSize="562237" />
+    <Page Image="227" ImageSize="431473" />
+    <Page Image="228" ImageSize="334456" />
+    <Page Image="229" ImageSize="404723" />
+    <Page Image="230" ImageSize="312387" />
+    <Page Image="231" ImageSize="351967" />
+    <Page Image="232" ImageSize="303661" />
+    <Page Image="233" ImageSize="371506" />
+    <Page Image="234" ImageSize="207233" />
+    <Page Image="235" ImageSize="559430" />
+    <Page Image="236" ImageSize="512275" />
+    <Page Image="237" ImageSize="395789" />
+    <Page Image="238" ImageSize="422187" />
+    <Page Image="239" ImageSize="421643" />
+    <Page Image="240" ImageSize="248890" />
+    <Page Image="241" ImageSize="427701" />
+    <Page Image="242" ImageSize="580872" />
+    <Page Image="243" ImageSize="403789" />
+    <Page Image="244" ImageSize="316256" />
+    <Page Image="245" ImageSize="521855" />
+    <Page Image="246" ImageSize="466773" />
+    <Page Image="247" ImageSize="609647" />
+    <Page Image="248" ImageSize="359395" />
+    <Page Image="249" ImageSize="555164" />
+    <Page Image="250" ImageSize="468654" />
+    <Page Image="251" ImageSize="473990" />
+    <Page Image="252" ImageSize="465025" />
+    <Page Image="253" ImageSize="371201" />
+    <Page Image="254" ImageSize="347095" />
+    <Page Image="255" ImageSize="420844" />
+    <Page Image="256" ImageSize="571376" />
+    <Page Image="257" ImageSize="323180" />
+  </Pages>
+  <Penciller>Alec Morgan</Penciller>
+  <Publisher>AfterShock</Publisher>
+  <Series>Kill a Man</Series>
+  <Summary>The Truth is Worth Fighting For.
+
+As a child, James Bellyi watched his father die in the ring as payback for slurs he threw at his opponent. Today, James is a Mixed Martial Arts star at the top of his game, and one of the most popular fighters in the world…until he’s outed as gay in his title shot press conference.
+
+Abandoned overnight by his training camp, his endorsements, his fans and his sport, to regain his title shot, Bellyi is forced to turn to the last person he ever wanted to see again: Xavier Mayne, a gay, once-fighter in his own right…and the man James watched kill his father.
+
+A singular achievement from writers Steve Orlando (Martian Manhunter, DEAD KINGS) and Phillip Kennedy Johnson (Aquaman, Adventure Time, The Last Time), and artist Al Morgan (Midnighter, Daredevil, Battlestar Galactica).
+
+*List of covers and their creators:*
+ Cover | Name                             | Creator(s)      | Sidebar Location |
+----------------------------------------------------------------------------
+ Reg   | Regular Cover                    | Alec Morgan     | 1                |
+ RI    | Retailer Incentive Variant Cover | Rob Schamberger | 2                |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-08 22:47:51.  [Issue ID 820092]
+
+https://comicvine.gamespot.com/kill-a-man-1-ogn/4000-820092/</Summary>
+  <Tags>James Bellyi</Tags>
+  <Title>OGN</Title>
+  <Volume>2020</Volume>
+  <Web>https://comicvine.gamespot.com/kill-a-man-1-ogn/4000-820092/</Web>
+  <Writer>Phillip Kennedy Johnson,Steve Orlando</Writer>
+  <Year>2020</Year>
+  <Count>1</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Graphic Novel</Format>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Caitlin Fairchild,Freefall,Grunge,Kobeh</Characters>
+	<Colorist>Wildstorm FX</Colorist>
+	<Count>80</Count>
+	<Day>1</Day>
+	<Editor>Mike Rockwitz</Editor>
+	<GTIN>urn:comicvine:4000-157074</GTIN>
+	<Letterer>Bill O'Neil</Letterer>
+	<Locations>Space</Locations>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:37:01 [Issue ID 4000-157074] urn:comicvine:4000-157074</Notes>
+	<Number>21</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="610547" Type="FrontCover"/>
+		<Page Image="1" ImageSize="491717"/>
+		<Page Image="2" ImageSize="637734"/>
+		<Page Image="3" ImageSize="767842"/>
+		<Page Image="4" ImageSize="670233"/>
+		<Page Image="5" ImageSize="685313"/>
+		<Page Image="6" ImageSize="744953"/>
+		<Page Image="7" ImageSize="812174"/>
+		<Page Image="8" ImageSize="606955"/>
+		<Page Image="9" ImageSize="776006"/>
+		<Page Image="10" ImageSize="654090"/>
+		<Page Image="11" ImageSize="747416"/>
+		<Page Image="12" ImageSize="605015"/>
+		<Page Image="13" ImageSize="628352"/>
+		<Page Image="14" ImageSize="588930"/>
+		<Page Image="15" ImageSize="717944"/>
+		<Page Image="16" ImageSize="631745"/>
+		<Page Image="17" ImageSize="565848"/>
+		<Page Image="18" ImageSize="562772"/>
+		<Page Image="19" ImageSize="573348"/>
+		<Page Image="20" ImageSize="606697"/>
+		<Page Image="21" ImageSize="560867"/>
+		<Page Image="22" ImageSize="761560"/>
+		<Page Image="23" ImageSize="498801"/>
+	</Pages>
+	<Publisher>DC Comics</Publisher>
+	<Series>Gen 13</Series>
+	<Teams>D'rahn,Gen 13</Teams>
+	<Title>Lost in Space!</Title>
+	<Volume>1994</Volume>
+	<Web>https://comicvine.gamespot.com/gen-13-21-lost-in-space/4000-157074/</Web>
+	<Writer>Brandon Choi</Writer>
+	<Year>1997</Year>
+</ComicInfo>

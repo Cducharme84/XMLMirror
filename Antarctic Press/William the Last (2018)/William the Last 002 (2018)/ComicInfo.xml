@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>William the Last</Characters>
+  <Count>4</Count>
+  <GTIN>urn:comicvine:4000-691442</GTIN>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:33:24 [Issue ID 4000-691442] urn:comicvine:4000-691442
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 13:23:47. [Issue ID 1876357]</Notes>
+  <Number>2</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2171615" Type="FrontCover" />
+    <Page Image="1" ImageSize="1193176" />
+    <Page Image="2" ImageSize="2908524" />
+    <Page Image="3" ImageSize="2060713" />
+    <Page Image="4" ImageSize="2342781" />
+    <Page Image="5" ImageSize="3785055" />
+    <Page Image="6" ImageSize="2868636" />
+    <Page Image="7" ImageSize="2923118" />
+    <Page Image="8" ImageSize="2926604" />
+    <Page Image="9" ImageSize="3334451" />
+    <Page Image="10" ImageSize="3836670" />
+    <Page Image="11" ImageSize="2521740" />
+    <Page Image="12" ImageSize="2804916" />
+    <Page Image="13" ImageSize="3455689" />
+    <Page Image="14" ImageSize="2806603" />
+    <Page Image="15" ImageSize="2210905" />
+    <Page Image="16" ImageSize="2466438" />
+    <Page Image="17" ImageSize="2857805" />
+    <Page Image="18" ImageSize="2434101" />
+    <Page Image="19" ImageSize="2250178" />
+    <Page Image="20" ImageSize="2668707" />
+    <Page Image="21" ImageSize="1983863" />
+    <Page Image="22" ImageSize="2337298" />
+    <Page Image="23" ImageSize="2663286" />
+    <Page Image="24" ImageSize="855054" />
+  </Pages>
+  <Publisher>Antarctic Press</Publisher>
+  <Series>William the Last</Series>
+  <Summary>William is led underground, where he's taken in by a family in hiding. Unfortunately, his arrival hasn't gone unnoticed, and even the mere mention of his name could lead to death.</Summary>
+  <Tags>William the Last</Tags>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/william-the-last-2/4000-691442/</Web>
+  <Year>2018</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

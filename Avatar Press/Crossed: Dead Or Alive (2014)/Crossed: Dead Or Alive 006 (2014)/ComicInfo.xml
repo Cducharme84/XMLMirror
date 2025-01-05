@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Joe,Justin,Lauren,Luke,Richie,Tabitha</Characters>
+	<Colorist>Juan Carlos Rodriguez</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-475309</GTIN>
+	<Inker>Daniel Gete</Inker>
+	<Letterer>Jaymes Reed</Letterer>
+	<Locations>California</Locations>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:28:17 [Issue ID 4000-475309] urn:comicvine:4000-475309</Notes>
+	<Number>6</Number>
+	<PageCount>9</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1000" ImageHeight="800" ImageSize="263870" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1000" ImageHeight="785" ImageSize="248865"/>
+		<Page Image="2" ImageWidth="1000" ImageHeight="782" ImageSize="289049"/>
+		<Page Image="3" ImageWidth="1000" ImageHeight="783" ImageSize="258955"/>
+		<Page Image="4" ImageWidth="1000" ImageHeight="781" ImageSize="242415"/>
+		<Page Image="5" ImageWidth="1000" ImageHeight="784" ImageSize="274458"/>
+		<Page Image="6" ImageWidth="1000" ImageHeight="781" ImageSize="225098"/>
+		<Page Image="7" ImageWidth="1000" ImageHeight="781" ImageSize="285720"/>
+		<Page Image="8" ImageSize="236370"/>
+	</Pages>
+	<Penciller>Daniel Gete</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(crossedcomic.com)</ScanInformation>
+	<Series>Crossed: Dead Or Alive</Series>
+	<Summary>https://comicvine.gamespot.com/crossed-dead-or-alive-6-part-6/4000-475309/</Summary>
+	<Tags>California,Joe,Justin,Lauren,Luke,Richie,Tabitha,The Crossed</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Part 6</Title>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/crossed-dead-or-alive-6-part-6/4000-475309/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2014</Year>
+</ComicInfo>

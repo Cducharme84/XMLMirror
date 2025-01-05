@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature</AgeRating>
+  <Count>4</Count>
+  <Day>22</Day>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-2497109</GTIN>
+  <Genre>Action,Science Fiction</Genre>
+  <Imprint>Dren Productions (dp)</Imprint>
+  <Inker>Miguel Angle Hernandez</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-08-26T12:40:44 [Issue ID 4000-2497109] urn:comicvine:4000-2497109 urn:grandcomicsdatabase:issue/2497109</Notes>
+  <Number>3</Number>
+  <PageCount>21</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3840" ImageSize="2813980" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3908" ImageSize="2604569" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3906" ImageSize="1725296" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3916" ImageSize="2831150" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3906" ImageSize="2934166" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3908" ImageSize="2564312" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3906" ImageSize="2684844" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3908" ImageSize="2672470" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3908" ImageSize="2346664" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3906" ImageSize="2371492" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3908" ImageSize="2336734" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3908" ImageSize="2893451" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3906" ImageSize="2416946" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3906" ImageSize="2860212" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3908" ImageSize="2848963" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3906" ImageSize="2948432" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3908" ImageSize="3143015" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3906" ImageSize="2787731" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3906" ImageSize="3203337" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3906" ImageSize="2323697" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3908" ImageSize="1626338" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Miguel Angle Hernandez</Penciller>
+  <Publisher>Dren Productions LLC</Publisher>
+  <Series>The Unwanted</Series>
+  <Volume>2022</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-2497109/</Web>
+  <Writer>James Mascia</Writer>
+  <Year>2023</Year>
+  <Summary>The castaways find themselves at odds with each other when a couple of their group members are kidnapped. The only way to help them is to work together. Can they do it without fighting with each other?</Summary>
+</ComicInfo>

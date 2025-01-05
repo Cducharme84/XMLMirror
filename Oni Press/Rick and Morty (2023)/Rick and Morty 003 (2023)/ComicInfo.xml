@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-990213</GTIN>
+	<Inker>Andrew Dalhouse,Fred C. Stresing</Inker>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:10:26 [Issue ID 4000-990213] urn:comicvine:4000-990213</Notes>
+	<Number>3</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="878613" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1343713"/>
+		<Page Image="2" ImageSize="1847300"/>
+		<Page Image="3" ImageSize="1226668"/>
+		<Page Image="4" ImageSize="2138535"/>
+		<Page Image="5" ImageSize="1744963"/>
+		<Page Image="6" ImageSize="1619916"/>
+		<Page Image="7" ImageSize="1314271"/>
+		<Page Image="8" ImageSize="1787472"/>
+		<Page Image="9" ImageSize="1738009"/>
+		<Page Image="10" ImageSize="1504106"/>
+		<Page Image="11" ImageSize="1864027"/>
+		<Page Image="12" ImageSize="2020641"/>
+		<Page Image="13" ImageSize="6286634"/>
+		<Page Image="14" ImageSize="2020060"/>
+		<Page Image="15" ImageSize="1863658"/>
+		<Page Image="16" ImageSize="1691666"/>
+		<Page Image="17" ImageSize="1782097"/>
+		<Page Image="18" ImageSize="1608642"/>
+		<Page Image="19" ImageSize="1377263"/>
+		<Page Image="20" ImageSize="1400045"/>
+		<Page Image="21" ImageSize="1433629"/>
+		<Page Image="22" ImageSize="1571514"/>
+		<Page Image="23" ImageSize="1477068"/>
+		<Page Image="24" ImageSize="759547"/>
+	</Pages>
+	<Penciller>Andrew Dalhouse,Fred C. Stresing</Penciller>
+	<Publisher>Oni Press</Publisher>
+	<Series>Rick and Morty</Series>
+	<Summary>The invasion continues! War brews between the Goldenfold and Rick armies. Can the Ricks save their world with problem-solving science, or will the Goldenfolds subtract them from the equation? Yep, it's still about math! Oh, and Morty's new girlfriend seems...nice?
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-05 11:57:55.  [Issue ID 990213]
+
+https://comicvine.gamespot.com/rick-and-morty-3/4000-990213/</Summary>
+	<Volume>2023</Volume>
+	<Web>https://comicvine.gamespot.com/rick-and-morty-3/4000-990213/</Web>
+	<Writer>Alex Firer</Writer>
+	<Year>2023</Year>
+</ComicInfo>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <GTIN>urn:comicvine:4000-220547</GTIN>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:50:29 [Issue ID 4000-220547] urn:comicvine:4000-220547
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 22:35:03. [Issue ID 545769]</Notes>
+  <Number>6</Number>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="567502" Type="FrontCover" />
+    <Page Image="1" ImageSize="517303" />
+    <Page Image="2" ImageSize="332901" />
+    <Page Image="3" ImageSize="229082" />
+    <Page Image="4" ImageSize="682409" />
+    <Page Image="5" ImageSize="682439" />
+    <Page Image="6" ImageSize="642356" />
+    <Page Image="7" ImageSize="771331" />
+    <Page Image="8" ImageSize="637212" />
+    <Page Image="9" ImageSize="634517" />
+    <Page Image="10" ImageSize="629468" />
+    <Page Image="11" ImageSize="726323" />
+    <Page Image="12" ImageSize="653321" />
+    <Page Image="13" ImageSize="643285" />
+    <Page Image="14" ImageSize="672383" />
+    <Page Image="15" ImageSize="669960" />
+    <Page Image="16" ImageSize="655812" />
+    <Page Image="17" ImageSize="652604" />
+    <Page Image="18" ImageSize="623847" />
+    <Page Image="19" ImageSize="696891" />
+    <Page Image="20" ImageSize="652995" />
+    <Page Image="21" ImageSize="784521" />
+    <Page Image="22" ImageSize="649200" />
+    <Page Image="23" ImageSize="674544" />
+    <Page Image="24" ImageSize="602484" />
+    <Page Image="25" ImageSize="730054" />
+    <Page Image="26" ImageSize="739633" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Athena Inc. The Manhunter Project</Series>
+  <Summary>https://comicvine.gamespot.com/athena-inc-the-manhunter-project-6/4000-220547/</Summary>
+  <Volume>2002</Volume>
+  <Web>https://comicvine.gamespot.com/athena-inc-the-manhunter-project-6/4000-220547/</Web>
+  <Writer>Brian Haberlin</Writer>
+  <Year>2003</Year>
+  <Count>6</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

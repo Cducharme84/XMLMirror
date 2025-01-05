@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>4</Count>
+	<Country>US</Country>
+	<Format>Miniseries</Format>
+	<GTIN>urn:comicvine:4000-1281219</GTIN>
+	<Genre>Fantasy</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:45:12 [Issue ID 4000-1281219] urn:comicvine:4000-1281219 urn:grandcomicsdatabase:issue/1281219</Notes>
+	<Number>4</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="2123916" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="1152228"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="2542043"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="2370877"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="2655566"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="2637535"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="2257082"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="2080611"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="1337915"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="2103128"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="1809873"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="1714022"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1540109"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="1606912"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="2043518"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="1752817"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="2593057"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1980189"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="1801728"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="2038228"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1810712"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="1794360"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="2351890"/>
+		<Page Image="23" ImageSize="2571966"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital)</ScanInformation>
+	<Series>George R. R. Martin's In the House of the Worm</Series>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1281219/</Web>
+	<Writer>George R.R. Martin</Writer>
+	<Year>2014</Year>
+</ComicInfo>

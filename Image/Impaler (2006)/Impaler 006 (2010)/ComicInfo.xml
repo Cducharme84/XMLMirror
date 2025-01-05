@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Vlad the Impaler</Characters>
+  <Colorist>Francis Tsai</Colorist>
+  <Count>6</Count>
+  <Day>18</Day>
+  <GTIN>urn:comicvine:4000-411997</GTIN>
+  <Inker>Nick Marinkovich,Nick Postic,Nick Marinkovich,Nick Postic</Inker>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:42:42 [Issue ID 4000-411997] urn:comicvine:4000-411997
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 21:40:56. [Issue ID 411997]</Notes>
+  <Number>6</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1500" ImageSize="233064" ImageWidth="988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1500" ImageSize="274691" ImageWidth="988" />
+    <Page Image="2" ImageHeight="1500" ImageSize="305802" ImageWidth="988" />
+    <Page Image="3" ImageHeight="1500" ImageSize="372128" ImageWidth="988" />
+    <Page Image="4" ImageHeight="1500" ImageSize="332096" ImageWidth="988" />
+    <Page Image="5" ImageHeight="1500" ImageSize="319573" ImageWidth="988" />
+    <Page Image="6" ImageHeight="1500" ImageSize="321128" ImageWidth="988" />
+    <Page Image="7" ImageHeight="1500" ImageSize="298663" ImageWidth="988" />
+    <Page Image="8" ImageHeight="1500" ImageSize="344563" ImageWidth="988" />
+    <Page Image="9" ImageHeight="1500" ImageSize="305678" ImageWidth="988" />
+    <Page Image="10" ImageHeight="1500" ImageSize="287370" ImageWidth="988" />
+    <Page Image="11" ImageHeight="1500" ImageSize="376132" ImageWidth="988" />
+    <Page Image="12" ImageHeight="1500" ImageSize="230861" ImageWidth="988" />
+    <Page Image="13" ImageHeight="1500" ImageSize="256801" ImageWidth="988" />
+    <Page Image="14" ImageHeight="1500" ImageSize="297229" ImageWidth="988" />
+    <Page Image="15" ImageHeight="1500" ImageSize="264759" ImageWidth="988" />
+    <Page Image="16" ImageHeight="1500" ImageSize="291732" ImageWidth="988" />
+    <Page Image="17" ImageHeight="1500" ImageSize="349271" ImageWidth="988" />
+    <Page Image="18" ImageHeight="1500" ImageSize="310434" ImageWidth="988" />
+    <Page Image="19" ImageHeight="1500" ImageSize="217388" ImageWidth="988" />
+    <Page Image="20" ImageHeight="1275" ImageSize="322306" ImageWidth="1650" />
+    <Page Image="21" ImageSize="501767" />
+  </Pages>
+  <Penciller>Nick Marinkovich,Nick Postic,Nick Marinkovich,Nick Postic</Penciller>
+  <Publisher>Image</Publisher>
+  <ScanInformation>(digital-SD) (Minutemen-The Undead)</ScanInformation>
+  <Series>Impaler</Series>
+  <Summary>The conclusion to this reimagining of the vampire myth, where humanity's only hope lies with Vlad Tepes, the 'historical Dracula.'</Summary>
+  <Teams>Vampires</Teams>
+  <Volume>2006</Volume>
+  <Web>https://comicvine.gamespot.com/impaler-6/4000-411997/</Web>
+  <Writer>William Harms</Writer>
+  <Year>2010</Year>
+</ComicInfo>

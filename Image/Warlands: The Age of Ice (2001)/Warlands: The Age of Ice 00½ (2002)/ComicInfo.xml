@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Day>1</Day>
+  <Editor>Roger Lee</Editor>
+  <GTIN>urn:comicvine:4000-177122</GTIN>
+  <Inker>Lou Kang</Inker>
+  <Letterer>Simon Yeung</Letterer>
+  <Month>4</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:23:51 [Issue ID 4000-177122] urn:comicvine:4000-177122
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 13:41:30. [Issue ID 177122]</Notes>
+  <Number>½</Number>
+  <PageCount>16</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="455798" Type="FrontCover" />
+    <Page Image="1" ImageSize="467108" />
+    <Page Image="2" ImageSize="403779" />
+    <Page Image="3" ImageSize="483572" />
+    <Page Image="4" ImageSize="509162" />
+    <Page Image="5" ImageSize="515678" />
+    <Page Image="6" ImageSize="432955" />
+    <Page Image="7" ImageSize="509638" />
+    <Page Image="8" ImageSize="382956" />
+    <Page Image="9" ImageSize="393345" />
+    <Page Image="10" ImageSize="456395" />
+    <Page Image="11" ImageSize="463925" />
+    <Page Image="12" ImageSize="402314" />
+    <Page Image="13" ImageSize="405093" />
+    <Page Image="14" ImageSize="318410" />
+    <Page Image="15" ImageSize="448572" />
+  </Pages>
+  <Penciller>Lou Kang,Lou Kang</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Warlands: The Age of Ice</Series>
+  <Volume>2001</Volume>
+  <Web>https://comicvine.gamespot.com/warlands-the-age-of-ice-1-2/4000-177122/</Web>
+  <Writer>Chris Sarracini</Writer>
+  <Year>2002</Year>
+  <Count>11</Count>
+  <CoverArtist>Pat Lee,Ramil Sunga</CoverArtist>
+</ComicInfo>

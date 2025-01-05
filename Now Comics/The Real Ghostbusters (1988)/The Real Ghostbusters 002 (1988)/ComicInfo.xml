@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Captain Nemo,Egon Spengler,Peter Venkman,Ray Stantz,Slimer,The Slug,Winston Zeddemore</Characters>
+	<Colorist>Richard Powers</Colorist>
+	<Day>1</Day>
+	<Editor>Tony Caputo</Editor>
+	<GTIN>urn:comicvine:4000-134670</GTIN>
+	<Inker>Brian Thomas,John Tobias</Inker>
+	<Letterer>Jim Massara</Letterer>
+	<Locations>New York City</Locations>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:59:32 [Issue ID 4000-134670] urn:comicvine:4000-134670</Notes>
+	<Number>2</Number>
+	<PageCount>35</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="444255" Type="FrontCover"/>
+		<Page Image="1" ImageSize="395971"/>
+		<Page Image="2" ImageSize="404750"/>
+		<Page Image="3" ImageSize="424346"/>
+		<Page Image="4" ImageSize="417441"/>
+		<Page Image="5" ImageSize="472112"/>
+		<Page Image="6" ImageSize="466743"/>
+		<Page Image="7" ImageSize="407717"/>
+		<Page Image="8" ImageSize="489206"/>
+		<Page Image="9" ImageSize="481747"/>
+		<Page Image="10" ImageSize="452413"/>
+		<Page Image="11" ImageSize="428329"/>
+		<Page Image="12" ImageSize="459250"/>
+		<Page Image="13" ImageSize="364663"/>
+		<Page Image="14" ImageSize="294017"/>
+		<Page Image="15" ImageSize="476091"/>
+		<Page Image="16" ImageSize="80940"/>
+		<Page Image="17" ImageSize="782975"/>
+		<Page Image="18" ImageSize="101129"/>
+		<Page Image="19" ImageSize="449759"/>
+		<Page Image="20" ImageSize="161304"/>
+		<Page Image="21" ImageSize="409171"/>
+		<Page Image="22" ImageSize="477762"/>
+		<Page Image="23" ImageSize="408751"/>
+		<Page Image="24" ImageSize="397876"/>
+		<Page Image="25" ImageSize="380960"/>
+		<Page Image="26" ImageSize="525536"/>
+		<Page Image="27" ImageSize="437504"/>
+		<Page Image="28" ImageSize="581485"/>
+		<Page Image="29" ImageSize="431317"/>
+		<Page Image="30" ImageSize="465288"/>
+		<Page Image="31" ImageSize="403893"/>
+		<Page Image="32" ImageSize="477215"/>
+		<Page Image="33" ImageSize="399236"/>
+		<Page Image="34" ImageSize="361828"/>
+	</Pages>
+	<Penciller>John Tobias</Penciller>
+	<Publisher>Now Comics</Publisher>
+	<Series>The Real Ghostbusters</Series>
+	<Summary>https://comicvine.gamespot.com/the-real-ghostbusters-2/4000-134670/</Summary>
+	<Tags>Captain Nemo,Egon Spengler,Ghostbusters,New York City,Peter Venkman,Ray Stantz,Slimer,The Slug,Winston Zeddemore</Tags>
+	<Teams>Ghostbusters</Teams>
+	<Volume>1988</Volume>
+	<Web>https://comicvine.gamespot.com/the-real-ghostbusters-2/4000-134670/</Web>
+	<Writer>James Van Hise</Writer>
+	<Year>1988</Year>
+</ComicInfo>

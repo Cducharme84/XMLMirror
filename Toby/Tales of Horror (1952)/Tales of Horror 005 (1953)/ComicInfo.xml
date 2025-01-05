@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-351</GTIN>
+	<Inker>Moe Marcus</Inker>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:46:38 [Issue ID 4000-351] urn:comicvine:4000-351</Notes>
+	<Number>5</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="400" ImageHeight="597" ImageSize="83794" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1026" ImageHeight="1463" ImageSize="615224"/>
+		<Page Image="2" ImageWidth="1026" ImageHeight="1463" ImageSize="480704"/>
+		<Page Image="3" ImageWidth="1026" ImageHeight="1463" ImageSize="524353"/>
+		<Page Image="4" ImageWidth="1026" ImageHeight="1463" ImageSize="517114"/>
+		<Page Image="5" ImageWidth="1026" ImageHeight="1463" ImageSize="535945"/>
+		<Page Image="6" ImageWidth="1026" ImageHeight="1463" ImageSize="513686"/>
+		<Page Image="7" ImageWidth="1026" ImageHeight="1463" ImageSize="523095"/>
+		<Page Image="8" ImageWidth="1026" ImageHeight="1463" ImageSize="487890"/>
+		<Page Image="9" ImageWidth="1026" ImageHeight="1463" ImageSize="526928"/>
+		<Page Image="10" ImageWidth="1026" ImageHeight="1463" ImageSize="524306"/>
+		<Page Image="11" ImageWidth="1026" ImageHeight="1463" ImageSize="544981"/>
+		<Page Image="12" ImageWidth="1026" ImageHeight="1463" ImageSize="528411"/>
+		<Page Image="13" ImageWidth="1026" ImageHeight="1463" ImageSize="549981"/>
+		<Page Image="14" ImageWidth="1026" ImageHeight="1463" ImageSize="528963"/>
+		<Page Image="15" ImageWidth="1026" ImageHeight="1463" ImageSize="556870"/>
+		<Page Image="16" ImageWidth="1026" ImageHeight="1463" ImageSize="531558"/>
+		<Page Image="17" ImageWidth="1026" ImageHeight="1463" ImageSize="555940"/>
+		<Page Image="18" ImageWidth="1026" ImageHeight="1463" ImageSize="495245"/>
+		<Page Image="19" ImageWidth="1026" ImageHeight="1463" ImageSize="551617"/>
+		<Page Image="20" ImageWidth="1026" ImageHeight="1463" ImageSize="530783"/>
+		<Page Image="21" ImageWidth="1047" ImageHeight="1463" ImageSize="518716"/>
+		<Page Image="22" ImageWidth="1047" ImageHeight="1463" ImageSize="523517"/>
+		<Page Image="23" ImageWidth="1047" ImageHeight="1463" ImageSize="539089"/>
+		<Page Image="24" ImageWidth="1047" ImageHeight="1463" ImageSize="470980"/>
+		<Page Image="25" ImageWidth="1047" ImageHeight="1463" ImageSize="530247"/>
+		<Page Image="26" ImageWidth="1047" ImageHeight="1463" ImageSize="508851"/>
+		<Page Image="27" ImageWidth="1047" ImageHeight="1463" ImageSize="514203"/>
+		<Page Image="28" ImageWidth="1047" ImageHeight="1463" ImageSize="463714"/>
+		<Page Image="29" ImageWidth="1047" ImageHeight="1463" ImageSize="343847"/>
+		<Page Image="30" ImageSize="543527"/>
+	</Pages>
+	<Penciller>Moe Marcus</Penciller>
+	<Publisher>Toby</Publisher>
+	<Series>Tales of Horror</Series>
+	<Summary>https://comicvine.gamespot.com/tales-of-horror-5/4000-351/</Summary>
+	<Volume>1952</Volume>
+	<Web>https://comicvine.gamespot.com/tales-of-horror-5/4000-351/</Web>
+	<Year>1953</Year>
+</ComicInfo>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>185</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-1260219</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:49:10 [Issue ID 4000-1260219] urn:comicvine:4000-1260219 urn:grandcomicsdatabase:issue/1260219
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 00:36:23. [Issue ID 1260219]</Notes>
+  <Number>178</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1980808" Type="FrontCover" />
+    <Page Image="1" ImageSize="505500" />
+    <Page Image="2" ImageSize="1899612" />
+    <Page Image="3" ImageSize="1365343" />
+    <Page Image="4" ImageSize="1523235" />
+    <Page Image="5" ImageSize="2084084" />
+    <Page Image="6" ImageSize="1997025" />
+    <Page Image="7" ImageSize="1713842" />
+    <Page Image="8" ImageSize="1496264" />
+    <Page Image="9" ImageSize="1614427" />
+    <Page Image="10" ImageSize="1447887" />
+    <Page Image="11" ImageSize="3043147" />
+    <Page Image="12" ImageSize="1650059" />
+    <Page Image="13" ImageSize="1867414" />
+    <Page Image="14" ImageSize="1533429" />
+    <Page Image="15" ImageSize="1783747" />
+    <Page Image="16" ImageSize="1701346" />
+    <Page Image="17" ImageSize="1481174" />
+    <Page Image="18" ImageSize="1191071" />
+    <Page Image="19" ImageSize="1585497" />
+    <Page Image="20" ImageSize="1562191" />
+    <Page Image="21" ImageSize="1955700" />
+    <Page Image="22" ImageSize="1251142" />
+    <Page Image="23" ImageSize="3067465" />
+    <Page Image="24" ImageSize="2612167" />
+    <Page Image="25" ImageSize="1791814" />
+    <Page Image="26" ImageSize="1294009" />
+    <Page Image="27" ImageSize="1378782" />
+    <Page Image="28" ImageSize="1385595" />
+    <Page Image="29" ImageSize="357041" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Witchblade</Series>
+  <Volume>1995</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-1260219/</Web>
+  <Year>1995</Year>
+</ComicInfo>

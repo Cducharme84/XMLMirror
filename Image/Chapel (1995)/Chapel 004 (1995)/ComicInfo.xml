@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Spawn (Simmons),Chapel</Characters>
+  <Colorist>Laura Rhode</Colorist>
+  <Count>7</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-191704</GTIN>
+  <Inker>Richard Horie</Inker>
+  <Letterer>Kurt Hathaway</Letterer>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:05:26 [Issue ID 4000-191704] urn:comicvine:4000-191704
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-19 20:08:17. [Issue ID 214757]</Notes>
+  <Number>4</Number>
+  <PageCount>22</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="656585" Type="FrontCover" />
+    <Page Image="1" ImageSize="577386" />
+    <Page Image="2" ImageSize="563572" />
+    <Page Image="3" ImageSize="585057" />
+    <Page Image="4" ImageSize="477593" />
+    <Page Image="5" ImageSize="776561" />
+    <Page Image="6" ImageSize="725208" />
+    <Page Image="7" ImageSize="1281094" />
+    <Page Image="8" ImageSize="561647" />
+    <Page Image="9" ImageSize="495700" />
+    <Page Image="10" ImageSize="585788" />
+    <Page Image="11" ImageSize="470411" />
+    <Page Image="12" ImageSize="662258" />
+    <Page Image="13" ImageSize="640522" />
+    <Page Image="14" ImageSize="541000" />
+    <Page Image="15" ImageSize="612825" />
+    <Page Image="16" ImageSize="2041591" />
+    <Page Image="17" ImageSize="506370" />
+    <Page Image="18" ImageSize="555785" />
+    <Page Image="19" ImageSize="1002828" />
+    <Page Image="20" ImageSize="622307" />
+    <Page Image="21" ImageSize="448572" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>Chapel</Series>
+  <Summary>Runs concurrently with Youngblood #3 - Babewatch</Summary>
+  <Title>Babewatch</Title>
+  <Volume>1995</Volume>
+  <Web>https://comicvine.gamespot.com/chapel-4-babewatch/4000-191704/</Web>
+  <Writer>Brian Witten,Eric Stephenson</Writer>
+  <Year>1995</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

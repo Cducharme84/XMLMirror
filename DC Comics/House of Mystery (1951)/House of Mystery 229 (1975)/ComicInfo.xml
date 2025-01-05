@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Gregory,Cain</Characters>
+  <GTIN>urn:comicvine:4000-117384</GTIN>
+  <Inker>Bernie Wrightson,George Roussos,Jack Sparling,Jerry Grandenetti,Mort Meskin,Nestor Redondo,Wayne Howard,Jack Sparling,George Roussos,Nestor Redondo,Bernie Wrightson,Mort Meskin,Alex Toth,Wayne Howard</Inker>
+  <Locations>Barbados,Sydney,The House of Mystery</Locations>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:43:13 [Issue ID 4000-117384] urn:comicvine:4000-117384
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 01:29:23. [Issue ID 28222]</Notes>
+  <Number>229</Number>
+  <PageCount>101</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="400" ImageSize="19282" ImageWidth="400" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1500" ImageSize="333976" ImageWidth="982" />
+    <Page Image="2" ImageHeight="1493" ImageSize="248417" ImageWidth="937" />
+    <Page Image="3" ImageHeight="1500" ImageSize="305156" ImageWidth="933" />
+    <Page Image="4" ImageHeight="1496" ImageSize="261366" ImageWidth="912" />
+    <Page Image="5" ImageHeight="1500" ImageSize="291029" ImageWidth="923" />
+    <Page Image="6" ImageHeight="1503" ImageSize="262332" ImageWidth="937" />
+    <Page Image="7" ImageHeight="1500" ImageSize="275643" ImageWidth="909" />
+    <Page Image="8" ImageHeight="1503" ImageSize="286649" ImageWidth="926" />
+    <Page Image="9" ImageHeight="1500" ImageSize="258301" ImageWidth="909" />
+    <Page Image="10" ImageHeight="1503" ImageSize="288374" ImageWidth="933" />
+    <Page Image="11" ImageHeight="1500" ImageSize="287396" ImageWidth="902" />
+    <Page Image="12" ImageHeight="1503" ImageSize="272084" ImageWidth="933" />
+    <Page Image="13" ImageHeight="1496" ImageSize="285116" ImageWidth="905" />
+    <Page Image="14" ImageHeight="1500" ImageSize="281507" ImageWidth="933" />
+    <Page Image="15" ImageHeight="1496" ImageSize="236398" ImageWidth="902" />
+    <Page Image="16" ImageHeight="1500" ImageSize="283996" ImageWidth="947" />
+    <Page Image="17" ImageHeight="1496" ImageSize="259389" ImageWidth="909" />
+    <Page Image="18" ImageHeight="1503" ImageSize="280878" ImageWidth="933" />
+    <Page Image="19" ImageHeight="1496" ImageSize="284780" ImageWidth="902" />
+    <Page Image="20" ImageHeight="1503" ImageSize="278865" ImageWidth="930" />
+    <Page Image="21" ImageHeight="1500" ImageSize="293224" ImageWidth="898" />
+    <Page Image="22" ImageHeight="1500" ImageSize="269870" ImageWidth="916" />
+    <Page Image="23" ImageHeight="1500" ImageSize="272077" ImageWidth="895" />
+    <Page Image="24" ImageHeight="1496" ImageSize="238867" ImageWidth="912" />
+    <Page Image="25" ImageHeight="1493" ImageSize="263790" ImageWidth="877" />
+    <Page Image="26" ImageHeight="1493" ImageSize="295111" ImageWidth="937" />
+    <Page Image="27" ImageHeight="1500" ImageSize="292725" ImageWidth="909" />
+    <Page Image="28" ImageHeight="1496" ImageSize="284557" ImageWidth="943" />
+    <Page Image="29" ImageHeight="1496" ImageSize="290003" ImageWidth="898" />
+    <Page Image="30" ImageHeight="1496" ImageSize="272793" ImageWidth="937" />
+    <Page Image="31" ImageHeight="1500" ImageSize="286052" ImageWidth="905" />
+    <Page Image="32" ImageHeight="1496" ImageSize="290695" ImageWidth="944" />
+    <Page Image="33" ImageHeight="1496" ImageSize="274149" ImageWidth="902" />
+    <Page Image="34" ImageHeight="1493" ImageSize="299247" ImageWidth="943" />
+    <Page Image="35" ImageHeight="1493" ImageSize="272355" ImageWidth="902" />
+    <Page Image="36" ImageHeight="1493" ImageSize="283985" ImageWidth="954" />
+    <Page Image="37" ImageHeight="1493" ImageSize="286740" ImageWidth="905" />
+    <Page Image="38" ImageHeight="1493" ImageSize="259848" ImageWidth="944" />
+    <Page Image="39" ImageHeight="1500" ImageSize="275902" ImageWidth="905" />
+    <Page Image="40" ImageHeight="1496" ImageSize="312591" ImageWidth="933" />
+    <Page Image="41" ImageHeight="1514" ImageSize="263974" ImageWidth="912" />
+    <Page Image="42" ImageHeight="1493" ImageSize="270518" ImageWidth="951" />
+    <Page Image="43" ImageHeight="1496" ImageSize="305000" ImageWidth="902" />
+    <Page Image="44" ImageHeight="1493" ImageSize="297169" ImageWidth="943" />
+    <Page Image="45" ImageHeight="1496" ImageSize="288548" ImageWidth="902" />
+    <Page Image="46" ImageHeight="1496" ImageSize="282185" ImageWidth="947" />
+    <Page Image="47" ImageHeight="1496" ImageSize="208914" ImageWidth="905" />
+    <Page Image="48" ImageHeight="1496" ImageSize="291381" ImageWidth="951" />
+    <Page Image="49" ImageHeight="1496" ImageSize="276462" ImageWidth="916" />
+    <Page Image="50" ImageHeight="1493" ImageSize="312954" ImageWidth="951" />
+    <Page Image="51" ImageHeight="1503" ImageSize="307753" ImageWidth="912" />
+    <Page Image="52" ImageHeight="1500" ImageSize="288281" ImageWidth="937" />
+    <Page Image="53" ImageHeight="1496" ImageSize="301294" ImageWidth="919" />
+    <Page Image="54" ImageHeight="1500" ImageSize="272577" ImageWidth="947" />
+    <Page Image="55" ImageHeight="1500" ImageSize="264768" ImageWidth="926" />
+    <Page Image="56" ImageHeight="1493" ImageSize="292376" ImageWidth="951" />
+    <Page Image="57" ImageHeight="1496" ImageSize="285875" ImageWidth="923" />
+    <Page Image="58" ImageHeight="1496" ImageSize="299800" ImageWidth="940" />
+    <Page Image="59" ImageHeight="1500" ImageSize="233394" ImageWidth="930" />
+    <Page Image="60" ImageHeight="1496" ImageSize="287075" ImageWidth="933" />
+    <Page Image="61" ImageHeight="1503" ImageSize="295143" ImageWidth="926" />
+    <Page Image="62" ImageHeight="1493" ImageSize="276787" ImageWidth="933" />
+    <Page Image="63" ImageHeight="1500" ImageSize="284970" ImageWidth="930" />
+    <Page Image="64" ImageHeight="1496" ImageSize="295595" ImageWidth="933" />
+    <Page Image="65" ImageHeight="1500" ImageSize="237304" ImageWidth="940" />
+    <Page Image="66" ImageHeight="1493" ImageSize="298732" ImageWidth="923" />
+    <Page Image="67" ImageHeight="1496" ImageSize="275664" ImageWidth="930" />
+    <Page Image="68" ImageHeight="1500" ImageSize="295562" ImageWidth="951" />
+    <Page Image="69" ImageHeight="1500" ImageSize="286786" ImageWidth="926" />
+    <Page Image="70" ImageHeight="1496" ImageSize="239941" ImageWidth="947" />
+    <Page Image="71" ImageHeight="1500" ImageSize="268406" ImageWidth="930" />
+    <Page Image="72" ImageHeight="1496" ImageSize="300873" ImageWidth="923" />
+    <Page Image="73" ImageHeight="1500" ImageSize="283976" ImageWidth="919" />
+    <Page Image="74" ImageHeight="1496" ImageSize="304564" ImageWidth="926" />
+    <Page Image="75" ImageHeight="1500" ImageSize="290617" ImageWidth="916" />
+    <Page Image="76" ImageHeight="1496" ImageSize="263968" ImageWidth="933" />
+    <Page Image="77" ImageHeight="1496" ImageSize="282482" ImageWidth="930" />
+    <Page Image="78" ImageHeight="1500" ImageSize="268259" ImageWidth="926" />
+    <Page Image="79" ImageHeight="1493" ImageSize="273647" ImageWidth="930" />
+    <Page Image="80" ImageHeight="1496" ImageSize="273647" ImageWidth="926" />
+    <Page Image="81" ImageHeight="1500" ImageSize="255557" ImageWidth="916" />
+    <Page Image="82" ImageHeight="1500" ImageSize="280335" ImageWidth="923" />
+    <Page Image="83" ImageHeight="1503" ImageSize="267864" ImageWidth="923" />
+    <Page Image="84" ImageHeight="1496" ImageSize="282148" ImageWidth="930" />
+    <Page Image="85" ImageHeight="1500" ImageSize="270668" ImageWidth="916" />
+    <Page Image="86" ImageHeight="1500" ImageSize="271942" ImageWidth="930" />
+    <Page Image="87" ImageHeight="1493" ImageSize="276395" ImageWidth="912" />
+    <Page Image="88" ImageHeight="1500" ImageSize="275897" ImageWidth="933" />
+    <Page Image="89" ImageHeight="1496" ImageSize="270090" ImageWidth="916" />
+    <Page Image="90" ImageHeight="1500" ImageSize="301976" ImageWidth="923" />
+    <Page Image="91" ImageHeight="1493" ImageSize="285230" ImageWidth="930" />
+    <Page Image="92" ImageHeight="1493" ImageSize="237897" ImageWidth="937" />
+    <Page Image="93" ImageHeight="1496" ImageSize="319766" ImageWidth="940" />
+    <Page Image="94" ImageHeight="1496" ImageSize="290372" ImageWidth="930" />
+    <Page Image="95" ImageHeight="1496" ImageSize="290479" ImageWidth="930" />
+    <Page Image="96" ImageHeight="1496" ImageSize="305661" ImageWidth="933" />
+    <Page Image="97" ImageHeight="1496" ImageSize="296552" ImageWidth="912" />
+    <Page Image="98" ImageHeight="1496" ImageSize="282345" ImageWidth="933" />
+    <Page Image="99" ImageHeight="1493" ImageSize="247122" ImageWidth="919" />
+    <Page Image="100" ImageSize="296301" />
+  </Pages>
+  <Penciller>Bernie Wrightson,George Roussos,Jack Sparling,Jerry Grandenetti,Mort Meskin,Nestor Redondo,Wayne Howard,Jack Sparling,Jerry Grandenetti,Nestor Redondo,Bernie Wrightson,Mort Meskin,Alex Toth,Wayne Howard</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>House of Mystery</Series>
+  <Summary>Contains: 
+
+Sir Greeley's Revenge (reprinted from House of Mystery #181)
+
+Sour Note (reprinted from House of Mystery #179)
+
+Nightmare Castle
+
+The Dead Can Kill! (reprinted from House of Mystery #183)
+
+I Was A Spy For Them (reprinted from Tales of the Unexpected #16)
+
+Mask of the Red Fox (reprinted from House of Mystery #187)
+
+Grave Results (reprinted from House of Mystery #182)
+
+https://comicvine.gamespot.com/house-of-mystery-229/4000-117384/</Summary>
+  <Tags>The House of Mystery,Gregory,Cain,Barbados,Sydney</Tags>
+  <Volume>1951</Volume>
+  <Web>https://comicvine.gamespot.com/house-of-mystery-229/4000-117384/</Web>
+  <Writer>E. Nelson Bridwell,Marv Wolfman,Otto Binder,Robert Kanigher,Otto Binder,E. Nelson Bridwell,Robert Kanigher,Marv Wolfman</Writer>
+  <Year>1975</Year>
+  <Count>321</Count>
+  <Title>Sir Greeley's Revenge!; Sour Note!; Nightmare Castle; The Dead Can Kill!; I Was a Spy for Them; Mask of the Red Fox; Grave Results!</Title>
+  <Genre>Horror-suspense,Science fiction,Detective-mystery</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Approved by the Comics Code Authority</AgeRating>
+  <Letterer>John Costanza,Ira Schnapp,Ray Holloway,Alex Toth</Letterer>
+  <Editor>Joe Orlando</Editor>
+</ComicInfo>

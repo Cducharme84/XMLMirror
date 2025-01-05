@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>4</Count>
+	<Format>Limited Series</Format>
+	<Genre>Action,Anthology,Espionage,Risque</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-06T21:12:49</Notes>
+	<Number>2</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2100" ImageHeight="3150" ImageSize="593894" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2100" ImageHeight="3150" ImageSize="1850844"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2100" ImageHeight="3150" ImageSize="7268903"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2100" ImageHeight="3150" ImageSize="6686318"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2100" ImageHeight="3150" ImageSize="6808184"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2100" ImageHeight="3150" ImageSize="6873487"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2100" ImageHeight="3150" ImageSize="7381619"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2100" ImageHeight="3150" ImageSize="3618581"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2100" ImageHeight="3150" ImageSize="4405229"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2100" ImageHeight="3150" ImageSize="3722968"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2100" ImageHeight="3150" ImageSize="3935109"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2100" ImageHeight="3150" ImageSize="3497495"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2100" ImageHeight="3150" ImageSize="1828344"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2100" ImageHeight="3150" ImageSize="4628298"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2100" ImageHeight="3150" ImageSize="3847166"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2100" ImageHeight="3150" ImageSize="5555061"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2100" ImageHeight="3150" ImageSize="5826167"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2100" ImageHeight="3150" ImageSize="4571247"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2100" ImageHeight="3150" ImageSize="5267290"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2100" ImageHeight="3150" ImageSize="4000161"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2100" ImageHeight="3150" ImageSize="2906889"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2100" ImageHeight="3150" ImageSize="5071867"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2100" ImageHeight="3150" ImageSize="5554901"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2100" ImageHeight="3150" ImageSize="12692690"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2100" ImageHeight="3150" ImageSize="11668866"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2100" ImageHeight="3150" ImageSize="14401810"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2100" ImageHeight="3150" ImageSize="5800093"/>
+		<Page Image="27" ImageSize="13352253"/>
+	</Pages>
+	<Publisher>1.2.3. Comics</Publisher>
+	<Series>Gunmetal Black Ops</Series>
+	<Summary>Jade Lion and Black Cauldron deal with something in Chicago while Cadre deals with something on Mars.
+
+Espionage anthology with some recurring characters.</Summary>
+	<Volume>2020</Volume>
+	<Year>2020</Year>
+</ComicInfo>

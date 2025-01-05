@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Colorist>Kris Chua</Colorist>
+	<Count>2</Count>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-821793</GTIN>
+	<Genre>Fantasy,Horror,Zombies</Genre>
+	<Inker>Caio Majado</Inker>
+	<Letterer>HDE</Letterer>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-25T21:56:08 [Issue ID 4000-821793] urn:comicvine:4000-821793</Notes>
+	<Number>0</Number>
+	<PageCount>11</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2064" ImageHeight="3204" ImageSize="1504331" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2064" ImageHeight="3152" ImageSize="1762063"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2064" ImageHeight="3152" ImageSize="1351614"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2064" ImageHeight="3154" ImageSize="1159342"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2064" ImageHeight="3152" ImageSize="990532"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2064" ImageHeight="3134" ImageSize="1039653"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2064" ImageHeight="3154" ImageSize="1347558"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2064" ImageHeight="3152" ImageSize="1261127"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2064" ImageHeight="3154" ImageSize="1901517"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2064" ImageHeight="3154" ImageSize="1457000"/>
+		<Page Image="10" ImageSize="1255637"/>
+	</Pages>
+	<Penciller>Caio Majado</Penciller>
+	<Publisher>Big Dog Ink</Publisher>
+	<Series>PRINCESSES vs. ZOMBIES</Series>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/princesses-vs-zombies-0/4000-821793/</Web>
+	<Writer>Tom Hutchison</Writer>
+	<Year>2019</Year>
+</ComicInfo>

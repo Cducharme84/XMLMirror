@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Thom Broadarrow,Greyhawk,Mrs. Brand,Joshua Brand,TC Broadarrow,Mr. Brand,Sadie Broadarrow</Characters>
+  <Colorist>Julia Lacquement</Colorist>
+  <Editor>Mike Gold</Editor>
+  <GTIN>urn:comicvine:4000-137324</GTIN>
+  <Inker>Mike Grell</Inker>
+  <Letterer>Steve Haynie</Letterer>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:41:38 [Issue ID 4000-137324] urn:comicvine:4000-137324
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 11:10:34. [Issue ID 57328]</Notes>
+  <Number>10</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="94663" Type="FrontCover" />
+    <Page Image="1" ImageSize="553376" />
+    <Page Image="2" ImageSize="256271" />
+    <Page Image="3" ImageSize="540133" />
+    <Page Image="4" ImageSize="1005408" />
+    <Page Image="5" ImageSize="1079739" />
+    <Page Image="6" ImageSize="510961" />
+    <Page Image="7" ImageSize="546619" />
+    <Page Image="8" ImageSize="1191470" />
+    <Page Image="9" ImageSize="603954" />
+    <Page Image="10" ImageSize="539367" />
+    <Page Image="11" ImageSize="528246" />
+    <Page Image="12" ImageSize="573212" />
+    <Page Image="13" ImageSize="1066281" />
+    <Page Image="14" ImageSize="563151" />
+    <Page Image="15" ImageSize="462948" />
+    <Page Image="16" ImageSize="986338" />
+    <Page Image="17" ImageSize="1029184" />
+    <Page Image="18" ImageSize="1018571" />
+    <Page Image="19" ImageSize="517584" />
+    <Page Image="20" ImageSize="435877" />
+    <Page Image="21" ImageSize="456098" />
+    <Page Image="22" ImageSize="457689" />
+    <Page Image="23" ImageSize="484289" />
+    <Page Image="24" ImageSize="433126" />
+  </Pages>
+  <Penciller>Mike Grell</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Shaman's Tears</Series>
+  <Tags>Joshua Brand</Tags>
+  <Title>Shaman's Tears</Title>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/shamans-tears-10-shamans-tears/4000-137324/</Web>
+  <Writer>Mike Grell</Writer>
+  <Year>1995</Year>
+  <Count>13</Count>
+  <CoverArtist>Mike Grell</CoverArtist>
+  <Genre>Superhero</Genre>
+  <Summary>Past history between Joshua and Broadarrow revealed.</Summary>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

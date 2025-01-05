@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Claire,Faust</Characters>
+	<Count>15</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-133375</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:01:13 [Issue ID 4000-133375] urn:comicvine:4000-133375</Notes>
+	<Number>8</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2749378" Type="FrontCover"/>
+		<Page Image="1" ImageSize="2468651"/>
+		<Page Image="2" ImageSize="1572588"/>
+		<Page Image="3" ImageSize="3518176"/>
+		<Page Image="4" ImageSize="3491158"/>
+		<Page Image="5" ImageSize="3530159"/>
+		<Page Image="6" ImageSize="3656731"/>
+		<Page Image="7" ImageSize="3243204"/>
+		<Page Image="8" ImageSize="3953925"/>
+		<Page Image="9" ImageSize="3508193"/>
+		<Page Image="10" ImageSize="3242749"/>
+		<Page Image="11" ImageSize="2993494"/>
+		<Page Image="12" ImageSize="3475497"/>
+		<Page Image="13" ImageSize="3659451"/>
+		<Page Image="14" ImageSize="3206081"/>
+		<Page Image="15" ImageSize="3544606"/>
+		<Page Image="16" ImageSize="3924425"/>
+		<Page Image="17" ImageSize="3745133"/>
+		<Page Image="18" ImageSize="3787036"/>
+		<Page Image="19" ImageSize="3760497"/>
+		<Page Image="20" ImageSize="3735214"/>
+		<Page Image="21" ImageSize="3496190"/>
+		<Page Image="22" ImageSize="3233004"/>
+		<Page Image="23" ImageSize="2902768"/>
+		<Page Image="24" ImageSize="3748786"/>
+		<Page Image="25" ImageSize="3623954"/>
+		<Page Image="26" ImageSize="3542432"/>
+		<Page Image="27" ImageSize="3952418"/>
+		<Page Image="28" ImageSize="3115980"/>
+		<Page Image="29" ImageSize="3653630"/>
+		<Page Image="30" ImageSize="3624935"/>
+		<Page Image="31" ImageSize="3259030"/>
+		<Page Image="32" ImageSize="3957567"/>
+		<Page Image="33" ImageSize="3706994"/>
+		<Page Image="34" ImageSize="4051751"/>
+		<Page Image="35" ImageSize="1569038"/>
+		<Page Image="36" ImageSize="1743276"/>
+	</Pages>
+	<Publisher>Northstar</Publisher>
+	<Series>Faust: Love of the Damned</Series>
+	<Title>Jaded Love</Title>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/faust-love-of-the-damned-8-jaded-love/4000-133375/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>1993</Year>
+</ComicInfo>

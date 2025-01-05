@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Burnout,Caitlin Fairchild,Freefall,Grunge,Isaiah,John Lynch,Rainmaker</Characters>
+	<Colorist>Martin Jimenez</Colorist>
+	<Count>80</Count>
+	<Day>1</Day>
+	<Editor>Scott Dunbier</Editor>
+	<GTIN>urn:comicvine:4000-44695</GTIN>
+	<Inker>Cam Smith</Inker>
+	<Letterer>Amie Grenier</Letterer>
+	<Locations>New York City</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:36:48 [Issue ID 4000-44695] urn:comicvine:4000-44695</Notes>
+	<Number>26</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="185219" Type="FrontCover"/>
+		<Page Image="1" ImageSize="145998"/>
+		<Page Image="2" ImageSize="128847"/>
+		<Page Image="3" ImageSize="136762"/>
+		<Page Image="4" ImageSize="129865"/>
+		<Page Image="5" ImageSize="172745"/>
+		<Page Image="6" ImageSize="163372"/>
+		<Page Image="7" ImageSize="155243"/>
+		<Page Image="8" ImageSize="162067"/>
+		<Page Image="9" ImageSize="142322"/>
+		<Page Image="10" ImageSize="148435"/>
+		<Page Image="11" ImageSize="158128"/>
+		<Page Image="12" ImageSize="139755"/>
+		<Page Image="13" ImageSize="134521"/>
+		<Page Image="14" ImageSize="136476"/>
+		<Page Image="15" ImageSize="160638"/>
+		<Page Image="16" ImageSize="139956"/>
+		<Page Image="17" ImageSize="167386"/>
+		<Page Image="18" ImageSize="139127"/>
+		<Page Image="19" ImageSize="161723"/>
+		<Page Image="20" ImageSize="143383"/>
+		<Page Image="21" ImageSize="152147"/>
+		<Page Image="22" ImageSize="158333"/>
+	</Pages>
+	<Publisher>DC Comics</Publisher>
+	<Series>Gen 13</Series>
+	<Teams>Gen 13</Teams>
+	<Title>Whe worlds colide</Title>
+	<Volume>1994</Volume>
+	<Web>https://comicvine.gamespot.com/gen-13-26-whe-worlds-colide/4000-44695/</Web>
+	<Writer>John Arcudi</Writer>
+	<Year>1998</Year>
+</ComicInfo>

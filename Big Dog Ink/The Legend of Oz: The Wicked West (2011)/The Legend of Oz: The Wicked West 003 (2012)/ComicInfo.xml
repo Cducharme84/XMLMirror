@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cowardly Lion,Gale,Scarecrow,Tin Man,Toto,Wicked Witch</Characters>
+	<Colorist>Kate Finnegan</Colorist>
+	<Count>6</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-327752</GTIN>
+	<Inker>Alisson Borges</Inker>
+	<Locations>Oz</Locations>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:32:12 [Issue ID 4000-327752] urn:comicvine:4000-327752</Notes>
+	<Number>3</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1123579" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1337404"/>
+		<Page Image="2" ImageSize="534723"/>
+		<Page Image="3" ImageSize="849744"/>
+		<Page Image="4" ImageSize="680326"/>
+		<Page Image="5" ImageSize="761806"/>
+		<Page Image="6" ImageSize="743118"/>
+		<Page Image="7" ImageSize="668405"/>
+		<Page Image="8" ImageSize="930874"/>
+		<Page Image="9" ImageSize="791396"/>
+		<Page Image="10" ImageSize="1028934"/>
+		<Page Image="11" ImageSize="880005"/>
+		<Page Image="12" ImageSize="800319"/>
+		<Page Image="13" ImageSize="1050542"/>
+		<Page Image="14" ImageSize="943587"/>
+		<Page Image="15" ImageSize="1058080"/>
+		<Page Image="16" ImageSize="1017701"/>
+		<Page Image="17" ImageSize="784098"/>
+		<Page Image="18" ImageSize="956746"/>
+		<Page Image="19" ImageSize="936982"/>
+		<Page Image="20" ImageSize="1004055"/>
+		<Page Image="21" ImageSize="940575"/>
+		<Page Image="22" ImageSize="864180"/>
+		<Page Image="23" ImageSize="905946"/>
+		<Page Image="24" ImageSize="876712"/>
+		<Page Image="25" ImageSize="698385"/>
+		<Page Image="26" ImageSize="833868"/>
+		<Page Image="27" ImageSize="1258116"/>
+	</Pages>
+	<Penciller>Alisson Borges</Penciller>
+	<Publisher>Big Dog Ink</Publisher>
+	<Series>The Legend of Oz: The Wicked West</Series>
+	<Summary>Take a trip back over the rainbow, to an Oz you never knew existed. Dorothy Gale and her new found friends have a new enemy on their heels...and it isn't the Wicked Witch of the West!</Summary>
+	<Teams>Winged Monkeys</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/the-legend-of-oz-the-wicked-west-3/4000-327752/</Web>
+	<Writer>Tom Hutchison</Writer>
+	<Year>2012</Year>
+</ComicInfo>

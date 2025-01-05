@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jayce,Metallus,Creature King,Zorak,Brak,Lurker,Space Ghost,Jan,Blip</Characters>
+  <Colorist>Ken Steacy</Colorist>
+  <Day>18</Day>
+  <Editor>Diana Schutz</Editor>
+  <GTIN>urn:comicvine:4000-116485</GTIN>
+  <Inker>Alex Toth,Ken Steacy,Steve Rude,Will Blyberg</Inker>
+  <Locations>Space</Locations>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:00:46 [Issue ID 4000-116485] urn:comicvine:4000-116485
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 15:44:54. [Issue ID 43660]</Notes>
+  <Number>1</Number>
+  <PageCount>53</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1910" ImageSize="491424" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1959" ImageSize="372381" ImageWidth="1280" />
+    <Page Image="2" ImageHeight="1930" ImageSize="446842" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1956" ImageSize="558615" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1930" ImageSize="564900" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1934" ImageSize="559463" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1932" ImageSize="565331" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1928" ImageSize="507273" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1935" ImageSize="592157" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1929" ImageSize="536977" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1949" ImageSize="489832" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1979" ImageSize="471910" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1951" ImageSize="511795" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1963" ImageSize="517461" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1940" ImageSize="537264" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1970" ImageSize="522525" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1952" ImageSize="616894" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="1961" ImageSize="585308" ImageWidth="1280" />
+    <Page Image="18" ImageHeight="1950" ImageSize="517786" ImageWidth="1280" />
+    <Page Image="19" ImageHeight="1956" ImageSize="503190" ImageWidth="1280" />
+    <Page Image="20" ImageHeight="1948" ImageSize="511153" ImageWidth="1280" />
+    <Page Image="21" ImageHeight="1963" ImageSize="525312" ImageWidth="1280" />
+    <Page Image="22" ImageHeight="1963" ImageSize="493637" ImageWidth="1280" />
+    <Page Image="23" ImageHeight="1948" ImageSize="481426" ImageWidth="1280" />
+    <Page Image="24" ImageHeight="1956" ImageSize="540885" ImageWidth="1280" />
+    <Page Image="25" ImageHeight="1951" ImageSize="531773" ImageWidth="1280" />
+    <Page Image="26" ImageHeight="1972" ImageSize="545355" ImageWidth="1280" />
+    <Page Image="27" ImageHeight="1954" ImageSize="482918" ImageWidth="1280" />
+    <Page Image="28" ImageHeight="1959" ImageSize="548257" ImageWidth="1280" />
+    <Page Image="29" ImageHeight="1930" ImageSize="553020" ImageWidth="1280" />
+    <Page Image="30" ImageHeight="1972" ImageSize="511602" ImageWidth="1280" />
+    <Page Image="31" ImageHeight="1940" ImageSize="542743" ImageWidth="1280" />
+    <Page Image="32" ImageHeight="1948" ImageSize="509512" ImageWidth="1280" />
+    <Page Image="33" ImageHeight="1965" ImageSize="522335" ImageWidth="1280" />
+    <Page Image="34" ImageHeight="1934" ImageSize="515807" ImageWidth="1280" />
+    <Page Image="35" ImageHeight="1937" ImageSize="540133" ImageWidth="1280" />
+    <Page Image="36" ImageHeight="1960" ImageSize="422955" ImageWidth="1280" />
+    <Page Image="37" ImageHeight="1948" ImageSize="565251" ImageWidth="1280" />
+    <Page Image="38" ImageHeight="1959" ImageSize="523632" ImageWidth="1280" />
+    <Page Image="39" ImageHeight="1956" ImageSize="525909" ImageWidth="1280" />
+    <Page Image="40" ImageHeight="1940" ImageSize="463036" ImageWidth="1280" />
+    <Page Image="41" ImageHeight="1961" ImageSize="482392" ImageWidth="1280" />
+    <Page Image="42" ImageHeight="1957" ImageSize="506420" ImageWidth="1280" />
+    <Page Image="43" ImageHeight="1932" ImageSize="501331" ImageWidth="1280" />
+    <Page Image="44" ImageHeight="1928" ImageSize="470692" ImageWidth="1280" />
+    <Page Image="45" ImageHeight="1962" ImageSize="615188" ImageWidth="1280" />
+    <Page Image="46" ImageHeight="1981" ImageSize="597247" ImageWidth="1280" />
+    <Page Image="47" ImageHeight="1968" ImageSize="776339" ImageWidth="1280" />
+    <Page Image="48" ImageHeight="1936" ImageSize="453339" ImageWidth="1280" />
+    <Page Image="49" ImageHeight="1979" ImageSize="576267" ImageWidth="1280" />
+    <Page Image="50" ImageHeight="1964" ImageSize="129143" ImageWidth="1280" />
+    <Page Image="51" ImageHeight="1905" ImageSize="552412" ImageWidth="1280" />
+    <Page Image="52" ImageSize="748527" />
+  </Pages>
+  <Penciller>Alex Toth,Ken Steacy,Steve Rude</Penciller>
+  <Publisher>Comico</Publisher>
+  <Series>Space Ghost</Series>
+  <Summary>The Sinister Spectre: The Sinister Spectre frees some of Space Ghost's foes from prison to help him destroy Space Ghost.
+
+</Summary>
+  <Teams>The Ghost Team</Teams>
+  <Title>The Sinister Spectre</Title>
+  <Volume>1987</Volume>
+  <Web>https://comicvine.gamespot.com/space-ghost-1-the-sinister-spectre/4000-116485/</Web>
+  <Writer>Mark Evanier</Writer>
+  <Year>1987</Year>
+  <Count>1</Count>
+  <Genre>Superhero,Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One Shot</Format>
+</ComicInfo>

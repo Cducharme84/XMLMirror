@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Park,Harrow,Wassy,Hassan,Torrenson</Characters>
+  <Count>4</Count>
+  <GTIN>urn:comicvine:4000-609263</GTIN>
+  <Locations>Sphacteria</Locations>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:22:21 [Issue ID 4000-609263] urn:comicvine:4000-609263
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 21:22:47. [Issue ID 1722828]</Notes>
+  <Number>3</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="5088573" Type="FrontCover" />
+    <Page Image="1" ImageSize="1040812" />
+    <Page Image="2" ImageSize="2728767" />
+    <Page Image="3" ImageSize="11193675" />
+    <Page Image="4" ImageSize="5370276" />
+    <Page Image="5" ImageSize="3796514" />
+    <Page Image="6" ImageSize="4341585" />
+    <Page Image="7" ImageSize="4012208" />
+    <Page Image="8" ImageSize="4739373" />
+    <Page Image="9" ImageSize="4171221" />
+    <Page Image="10" ImageSize="4655767" />
+    <Page Image="11" ImageSize="4615486" />
+    <Page Image="12" ImageSize="5855024" />
+    <Page Image="13" ImageSize="4434009" />
+    <Page Image="14" ImageSize="4023927" />
+    <Page Image="15" ImageSize="3786681" />
+    <Page Image="16" ImageSize="3295047" />
+    <Page Image="17" ImageSize="2969326" />
+    <Page Image="18" ImageSize="3424996" />
+    <Page Image="19" ImageSize="3591983" />
+    <Page Image="20" ImageSize="3886630" />
+    <Page Image="21" ImageSize="3488884" />
+    <Page Image="22" ImageSize="3436265" />
+    <Page Image="23" ImageSize="4179698" />
+  </Pages>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Aliens: Dead Orbit</Series>
+  <Summary>The captain is grabbed by an alien.</Summary>
+  <Teams>Aliens (Xenomorphs)</Teams>
+  <Volume>2017</Volume>
+  <Web>https://comicvine.gamespot.com/aliens-dead-orbit-3/4000-609263/</Web>
+  <Year>2017</Year>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Miniseries</Format>
+</ComicInfo>

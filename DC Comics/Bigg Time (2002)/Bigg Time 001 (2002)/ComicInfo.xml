@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Stig</Characters>
+  <Editor>Heidi MacDonald,Joan Hilty,Zachary Rau</Editor>
+  <GTIN>urn:comicvine:4000-112829</GTIN>
+  <Inker>Ty Templeton</Inker>
+  <Letterer>Ty Templeton</Letterer>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:08:07 [Issue ID 4000-112829] urn:comicvine:4000-112829
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 22:40:18. [Issue ID 233664]</Notes>
+  <Number>1</Number>
+  <PageCount>132</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1521" ImageSize="451035" ImageWidth="980" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1522" ImageSize="331775" ImageWidth="940" />
+    <Page Image="2" ImageHeight="1522" ImageSize="377049" ImageWidth="975" />
+    <Page Image="3" ImageHeight="1525" ImageSize="499973" ImageWidth="974" />
+    <Page Image="4" ImageHeight="1523" ImageSize="343586" ImageWidth="970" />
+    <Page Image="5" ImageHeight="1522" ImageSize="564184" ImageWidth="968" />
+    <Page Image="6" ImageHeight="1522" ImageSize="538613" ImageWidth="972" />
+    <Page Image="7" ImageHeight="1524" ImageSize="523041" ImageWidth="969" />
+    <Page Image="8" ImageHeight="1524" ImageSize="541575" ImageWidth="971" />
+    <Page Image="9" ImageHeight="1523" ImageSize="542341" ImageWidth="964" />
+    <Page Image="10" ImageHeight="1521" ImageSize="438221" ImageWidth="968" />
+    <Page Image="11" ImageHeight="1523" ImageSize="563351" ImageWidth="966" />
+    <Page Image="12" ImageHeight="1526" ImageSize="500659" ImageWidth="965" />
+    <Page Image="13" ImageHeight="1523" ImageSize="565958" ImageWidth="965" />
+    <Page Image="14" ImageHeight="1532" ImageSize="503409" ImageWidth="965" />
+    <Page Image="15" ImageHeight="1528" ImageSize="466687" ImageWidth="964" />
+    <Page Image="16" ImageHeight="1522" ImageSize="492193" ImageWidth="963" />
+    <Page Image="17" ImageHeight="1524" ImageSize="486148" ImageWidth="965" />
+    <Page Image="18" ImageHeight="1527" ImageSize="423661" ImageWidth="962" />
+    <Page Image="19" ImageHeight="1521" ImageSize="517916" ImageWidth="960" />
+    <Page Image="20" ImageHeight="1524" ImageSize="524020" ImageWidth="961" />
+    <Page Image="21" ImageHeight="1523" ImageSize="546728" ImageWidth="959" />
+    <Page Image="22" ImageHeight="1523" ImageSize="546731" ImageWidth="960" />
+    <Page Image="23" ImageHeight="1524" ImageSize="484352" ImageWidth="980" />
+    <Page Image="24" ImageHeight="1525" ImageSize="497042" ImageWidth="958" />
+    <Page Image="25" ImageHeight="1524" ImageSize="490811" ImageWidth="961" />
+    <Page Image="26" ImageHeight="1519" ImageSize="559606" ImageWidth="955" />
+    <Page Image="27" ImageHeight="1523" ImageSize="539094" ImageWidth="964" />
+    <Page Image="28" ImageHeight="1522" ImageSize="549413" ImageWidth="954" />
+    <Page Image="29" ImageHeight="1524" ImageSize="517606" ImageWidth="960" />
+    <Page Image="30" ImageHeight="1521" ImageSize="491611" ImageWidth="947" />
+    <Page Image="31" ImageHeight="1493" ImageSize="519052" ImageWidth="943" />
+    <Page Image="32" ImageHeight="1523" ImageSize="505537" ImageWidth="958" />
+    <Page Image="33" ImageHeight="1524" ImageSize="515797" ImageWidth="964" />
+    <Page Image="34" ImageHeight="1526" ImageSize="481517" ImageWidth="964" />
+    <Page Image="35" ImageHeight="1525" ImageSize="489151" ImageWidth="961" />
+    <Page Image="36" ImageHeight="1524" ImageSize="474936" ImageWidth="954" />
+    <Page Image="37" ImageHeight="1519" ImageSize="501708" ImageWidth="953" />
+    <Page Image="38" ImageHeight="1524" ImageSize="558795" ImageWidth="958" />
+    <Page Image="39" ImageHeight="1520" ImageSize="532737" ImageWidth="957" />
+    <Page Image="40" ImageHeight="1525" ImageSize="537247" ImageWidth="964" />
+    <Page Image="41" ImageHeight="1523" ImageSize="538084" ImageWidth="956" />
+    <Page Image="42" ImageHeight="1525" ImageSize="526413" ImageWidth="957" />
+    <Page Image="43" ImageHeight="1529" ImageSize="574863" ImageWidth="957" />
+    <Page Image="44" ImageHeight="1522" ImageSize="558522" ImageWidth="960" />
+    <Page Image="45" ImageHeight="1525" ImageSize="508935" ImageWidth="958" />
+    <Page Image="46" ImageHeight="1523" ImageSize="634857" ImageWidth="961" />
+    <Page Image="47" ImageHeight="1522" ImageSize="536412" ImageWidth="955" />
+    <Page Image="48" ImageHeight="1531" ImageSize="581759" ImageWidth="955" />
+    <Page Image="49" ImageHeight="1523" ImageSize="563308" ImageWidth="953" />
+    <Page Image="50" ImageHeight="1525" ImageSize="523508" ImageWidth="954" />
+    <Page Image="51" ImageHeight="1520" ImageSize="579453" ImageWidth="953" />
+    <Page Image="52" ImageHeight="1524" ImageSize="575697" ImageWidth="957" />
+    <Page Image="53" ImageHeight="1521" ImageSize="441038" ImageWidth="959" />
+    <Page Image="54" ImageHeight="1526" ImageSize="504950" ImageWidth="978" />
+    <Page Image="55" ImageHeight="1523" ImageSize="458628" ImageWidth="971" />
+    <Page Image="56" ImageHeight="1524" ImageSize="540834" ImageWidth="947" />
+    <Page Image="57" ImageHeight="1524" ImageSize="487121" ImageWidth="956" />
+    <Page Image="58" ImageHeight="1527" ImageSize="481599" ImageWidth="947" />
+    <Page Image="59" ImageHeight="1526" ImageSize="465458" ImageWidth="956" />
+    <Page Image="60" ImageHeight="1527" ImageSize="516687" ImageWidth="950" />
+    <Page Image="61" ImageHeight="1529" ImageSize="509535" ImageWidth="956" />
+    <Page Image="62" ImageHeight="1527" ImageSize="466679" ImageWidth="945" />
+    <Page Image="63" ImageHeight="1525" ImageSize="520558" ImageWidth="952" />
+    <Page Image="64" ImageHeight="1524" ImageSize="490591" ImageWidth="943" />
+    <Page Image="65" ImageHeight="1524" ImageSize="505198" ImageWidth="966" />
+    <Page Image="66" ImageHeight="1527" ImageSize="517832" ImageWidth="943" />
+    <Page Image="67" ImageHeight="1526" ImageSize="530075" ImageWidth="958" />
+    <Page Image="68" ImageHeight="1523" ImageSize="479760" ImageWidth="943" />
+    <Page Image="69" ImageHeight="1526" ImageSize="560100" ImageWidth="958" />
+    <Page Image="70" ImageHeight="1525" ImageSize="492417" ImageWidth="947" />
+    <Page Image="71" ImageHeight="1524" ImageSize="512514" ImageWidth="959" />
+    <Page Image="72" ImageHeight="1525" ImageSize="443952" ImageWidth="956" />
+    <Page Image="73" ImageHeight="1520" ImageSize="680661" ImageWidth="955" />
+    <Page Image="74" ImageHeight="1520" ImageSize="585920" ImageWidth="952" />
+    <Page Image="75" ImageHeight="1523" ImageSize="436558" ImageWidth="951" />
+    <Page Image="76" ImageHeight="1529" ImageSize="511872" ImageWidth="954" />
+    <Page Image="77" ImageHeight="1524" ImageSize="542701" ImageWidth="953" />
+    <Page Image="78" ImageHeight="1525" ImageSize="599106" ImageWidth="952" />
+    <Page Image="79" ImageHeight="1525" ImageSize="587170" ImageWidth="955" />
+    <Page Image="80" ImageHeight="955" ImageSize="565610" ImageWidth="1525" />
+    <Page Image="81" ImageHeight="1526" ImageSize="596112" ImageWidth="952" />
+    <Page Image="82" ImageHeight="1526" ImageSize="596005" ImageWidth="952" />
+    <Page Image="83" ImageHeight="1509" ImageSize="545803" ImageWidth="949" />
+    <Page Image="84" ImageHeight="1509" ImageSize="520834" ImageWidth="959" />
+    <Page Image="85" ImageHeight="1524" ImageSize="579131" ImageWidth="962" />
+    <Page Image="86" ImageHeight="1528" ImageSize="524446" ImageWidth="957" />
+    <Page Image="87" ImageHeight="1527" ImageSize="551065" ImageWidth="958" />
+    <Page Image="88" ImageHeight="1522" ImageSize="567888" ImageWidth="960" />
+    <Page Image="89" ImageHeight="1523" ImageSize="593267" ImageWidth="969" />
+    <Page Image="90" ImageHeight="1528" ImageSize="484208" ImageWidth="960" />
+    <Page Image="91" ImageHeight="1527" ImageSize="483847" ImageWidth="960" />
+    <Page Image="92" ImageHeight="1525" ImageSize="537932" ImageWidth="957" />
+    <Page Image="93" ImageHeight="1523" ImageSize="505198" ImageWidth="960" />
+    <Page Image="94" ImageHeight="1524" ImageSize="512424" ImageWidth="956" />
+    <Page Image="95" ImageHeight="1524" ImageSize="532693" ImageWidth="957" />
+    <Page Image="96" ImageHeight="1527" ImageSize="560618" ImageWidth="966" />
+    <Page Image="97" ImageHeight="1523" ImageSize="550645" ImageWidth="965" />
+    <Page Image="98" ImageHeight="1529" ImageSize="559840" ImageWidth="960" />
+    <Page Image="99" ImageHeight="1525" ImageSize="539780" ImageWidth="960" />
+    <Page Image="100" ImageHeight="1527" ImageSize="545257" ImageWidth="959" />
+    <Page Image="101" ImageHeight="1525" ImageSize="570502" ImageWidth="964" />
+    <Page Image="102" ImageHeight="1527" ImageSize="527572" ImageWidth="957" />
+    <Page Image="103" ImageHeight="1521" ImageSize="518198" ImageWidth="956" />
+    <Page Image="104" ImageHeight="1527" ImageSize="501850" ImageWidth="963" />
+    <Page Image="105" ImageHeight="1527" ImageSize="610795" ImageWidth="963" />
+    <Page Image="106" ImageHeight="1524" ImageSize="518193" ImageWidth="958" />
+    <Page Image="107" ImageHeight="1522" ImageSize="544785" ImageWidth="960" />
+    <Page Image="108" ImageHeight="1525" ImageSize="513104" ImageWidth="958" />
+    <Page Image="109" ImageHeight="1523" ImageSize="512776" ImageWidth="960" />
+    <Page Image="110" ImageHeight="1510" ImageSize="566213" ImageWidth="970" />
+    <Page Image="111" ImageHeight="1523" ImageSize="503386" ImageWidth="957" />
+    <Page Image="112" ImageHeight="1523" ImageSize="631300" ImageWidth="961" />
+    <Page Image="113" ImageHeight="1525" ImageSize="571959" ImageWidth="961" />
+    <Page Image="114" ImageHeight="1529" ImageSize="536510" ImageWidth="964" />
+    <Page Image="115" ImageHeight="1523" ImageSize="535339" ImageWidth="962" />
+    <Page Image="116" ImageHeight="1526" ImageSize="544260" ImageWidth="965" />
+    <Page Image="117" ImageHeight="1528" ImageSize="550212" ImageWidth="960" />
+    <Page Image="118" ImageHeight="1528" ImageSize="545965" ImageWidth="963" />
+    <Page Image="119" ImageHeight="1528" ImageSize="507431" ImageWidth="957" />
+    <Page Image="120" ImageHeight="1523" ImageSize="569692" ImageWidth="958" />
+    <Page Image="121" ImageHeight="1523" ImageSize="474564" ImageWidth="958" />
+    <Page Image="122" ImageHeight="1525" ImageSize="16535" ImageWidth="952" />
+    <Page Image="123" ImageHeight="1529" ImageSize="23792" ImageWidth="940" />
+    <Page Image="124" ImageHeight="1524" ImageSize="481061" ImageWidth="962" />
+    <Page Image="125" ImageHeight="1523" ImageSize="505085" ImageWidth="958" />
+    <Page Image="126" ImageHeight="1529" ImageSize="570708" ImageWidth="963" />
+    <Page Image="127" ImageHeight="1524" ImageSize="518868" ImageWidth="952" />
+    <Page Image="128" ImageHeight="1519" ImageSize="470296" ImageWidth="967" />
+    <Page Image="129" ImageHeight="1522" ImageSize="561049" ImageWidth="955" />
+    <Page Image="130" ImageHeight="1521" ImageSize="83447" ImageWidth="939" />
+    <Page Image="131" ImageSize="502879" />
+  </Pages>
+  <Penciller>Ty Templeton</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <ScanInformation>(Vertigo)</ScanInformation>
+  <Series>Bigg Time</Series>
+  <Summary>After a freak accident allows Lester Biggs to see and interact with his guardian angel, the homeless, aspiring actor learns that all of his misfortunes are the direct result of his bored celestial protector's twisted machinations. Hoping to make amends for ruining his charge's life for his own amusement, the mischievous angel grants Lester his greatest desire, to be famous. Now in a humorous and satirical series of events that exposes the absurdity of the entertainment industry, Lester encounters insane talent agents, gorgeous groupies, abducting aliens and a secret society based on hair loss on his road to instant stardom as a movie star, a recording artist, and a TV personality.
+
+https://comicvine.gamespot.com/bigg-time-1-a-farcical-fable-of-fleeting-fame/4000-112829/</Summary>
+  <Title>Bigg Time</Title>
+  <Volume>2002</Volume>
+  <Web>https://comicvine.gamespot.com/bigg-time-1-a-farcical-fable-of-fleeting-fame/4000-112829/</Web>
+  <Writer>Ty Templeton</Writer>
+  <Year>2002</Year>
+  <Count>1</Count>
+  <Genre>Humor</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+</ComicInfo>

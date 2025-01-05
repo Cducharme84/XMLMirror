@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature</AgeRating>
+  <Count>4</Count>
+  <Format>Limited Series</Format>
+  <Genre>Horror</Genre>
+  <Inker>Maurico Caballero</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-01T12:48:30</Notes>
+  <Number>3</Number>
+  <PageCount>29</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3150" ImageSize="1609028" ImageWidth="2100" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3150" ImageSize="532514" ImageWidth="2100" />
+    <Page DoublePage="False" Image="2" ImageHeight="3957" ImageSize="2014778" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3957" ImageSize="2413260" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3957" ImageSize="2204963" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3957" ImageSize="2656183" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3957" ImageSize="2487511" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3957" ImageSize="2302564" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3957" ImageSize="2117116" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3957" ImageSize="2207930" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3957" ImageSize="1961478" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3957" ImageSize="2318738" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3957" ImageSize="2331227" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3957" ImageSize="1960709" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3957" ImageSize="2042053" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3957" ImageSize="2183486" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3957" ImageSize="2091615" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3957" ImageSize="2145211" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3957" ImageSize="2096994" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3957" ImageSize="2179886" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3957" ImageSize="2335688" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3957" ImageSize="2024903" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3957" ImageSize="2052253" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3957" ImageSize="2203984" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3957" ImageSize="2077815" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3957" ImageSize="1741340" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3957" ImageSize="2149624" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3957" ImageSize="2167042" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3150" ImageSize="573953" ImageWidth="2100" />
+  </Pages>
+  <Penciller>Maurico Caballero</Penciller>
+  <Publisher>Vargvast Creations</Publisher>
+  <Series>Murinae: After Midnight</Series>
+  <Volume>2023</Volume>
+  <Writer>Vember Judgment</Writer>
+  <Summary>Finding herself underground, Ama is shown a colony of mice like no other...And also finds herself soon to be a reguar mouse no longer.</Summary>
+  <Year>2023</Year>
+</ComicInfo>

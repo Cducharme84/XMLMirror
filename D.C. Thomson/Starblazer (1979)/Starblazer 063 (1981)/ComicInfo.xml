@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550677</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:48:38 [Issue ID 4000-550677] urn:comicvine:4000-550677 urn:grandcomicsdatabase:issue/550677
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:58:49. [Issue ID 550677]</Notes>
+  <Number>63</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="435634" Type="FrontCover" />
+    <Page Image="1" ImageSize="326561" />
+    <Page Image="2" ImageSize="500580" />
+    <Page Image="3" ImageSize="660146" />
+    <Page Image="4" ImageSize="643687" />
+    <Page Image="5" ImageSize="558612" />
+    <Page Image="6" ImageSize="630743" />
+    <Page Image="7" ImageSize="603351" />
+    <Page Image="8" ImageSize="554241" />
+    <Page Image="9" ImageSize="589271" />
+    <Page Image="10" ImageSize="539988" />
+    <Page Image="11" ImageSize="489811" />
+    <Page Image="12" ImageSize="622148" />
+    <Page Image="13" ImageSize="621990" />
+    <Page Image="14" ImageSize="557250" />
+    <Page Image="15" ImageSize="473004" />
+    <Page Image="16" ImageSize="537591" />
+    <Page Image="17" ImageSize="558740" />
+    <Page Image="18" ImageSize="510728" />
+    <Page Image="19" ImageSize="499638" />
+    <Page Image="20" ImageSize="646449" />
+    <Page Image="21" ImageSize="467262" />
+    <Page Image="22" ImageSize="574297" />
+    <Page Image="23" ImageSize="583960" />
+    <Page Image="24" ImageSize="582321" />
+    <Page Image="25" ImageSize="501077" />
+    <Page Image="26" ImageSize="592493" />
+    <Page Image="27" ImageSize="624895" />
+    <Page Image="28" ImageSize="608432" />
+    <Page Image="29" ImageSize="638750" />
+    <Page Image="30" ImageSize="564532" />
+    <Page Image="31" ImageSize="536311" />
+    <Page Image="32" ImageSize="606901" />
+    <Page Image="33" ImageSize="537032" />
+    <Page Image="34" ImageSize="514685" />
+    <Page Image="35" ImageSize="260200" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Lords of the Wilderness</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550677/</Web>
+  <Year>1981</Year>
+</ComicInfo>

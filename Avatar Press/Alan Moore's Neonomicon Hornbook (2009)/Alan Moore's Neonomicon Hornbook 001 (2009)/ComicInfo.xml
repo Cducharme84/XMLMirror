@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Agent Gordon Lamper,Aldo Sax,Agent Merril Brears</Characters>
+  <Count>1</Count>
+  <Editor>William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-223954</GTIN>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:33:36 [Issue ID 4000-223954] urn:comicvine:4000-223954
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:18:04. [Issue ID 807028]</Notes>
+  <Number>1</Number>
+  <PageCount>19</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1973" ImageSize="865056" ImageWidth="1280" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1946" ImageSize="921763" ImageWidth="2560" />
+    <Page Image="2" ImageHeight="1983" ImageSize="237468" ImageWidth="1280" />
+    <Page Image="3" ImageHeight="1972" ImageSize="630256" ImageWidth="1280" />
+    <Page Image="4" ImageHeight="1992" ImageSize="831145" ImageWidth="1280" />
+    <Page Image="5" ImageHeight="1992" ImageSize="918534" ImageWidth="1280" />
+    <Page Image="6" ImageHeight="1969" ImageSize="852080" ImageWidth="1280" />
+    <Page Image="7" ImageHeight="1991" ImageSize="705257" ImageWidth="1280" />
+    <Page Image="8" ImageHeight="1964" ImageSize="753531" ImageWidth="1280" />
+    <Page Image="9" ImageHeight="1965" ImageSize="780881" ImageWidth="1280" />
+    <Page Image="10" ImageHeight="1995" ImageSize="962767" ImageWidth="1280" />
+    <Page Image="11" ImageHeight="1995" ImageSize="909569" ImageWidth="1280" />
+    <Page Image="12" ImageHeight="1997" ImageSize="809647" ImageWidth="1280" />
+    <Page Image="13" ImageHeight="1991" ImageSize="835478" ImageWidth="1280" />
+    <Page Image="14" ImageHeight="1992" ImageSize="704333" ImageWidth="1280" />
+    <Page Image="15" ImageHeight="1987" ImageSize="719554" ImageWidth="1280" />
+    <Page Image="16" ImageHeight="1974" ImageSize="967083" ImageWidth="1280" />
+    <Page Image="17" ImageHeight="960" ImageSize="138483" ImageWidth="1280" />
+    <Page Image="18" ImageSize="543571" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Alan Moore's Neonomicon Hornbook</Series>
+  <Summary>A Preview to    Alan Moore's Neonomicon.  In this issue a few pages from issue #1 was used to show us readers the bridge connection to   The Courtyard, assuming we have read it.  The rest of the comic was filled with pages from Alan Moore's scripts.</Summary>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/alan-moores-neonomicon-hornbook-1/4000-223954/</Web>
+  <Writer>Alan Moore</Writer>
+  <Year>2009</Year>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>H.P. Lovecraft,Randolph Carter</Characters>
+	<Day>1</Day>
+	<Editor>Pornsak Pichetshote,Zachary Rau</Editor>
+	<GTIN>urn:comicvine:4000-116936</GTIN>
+	<Imprint>Vertigo</Imprint>
+	<Inker>Enrique Breccia</Inker>
+	<Letterer>Todd Klein</Letterer>
+	<Locations>Chicago,Rhode Island</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:38:53 [Issue ID 4000-116936] urn:comicvine:4000-116936</Notes>
+	<Number>1</Number>
+	<PageCount>143</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="3120" ImageHeight="1562" ImageSize="1552769" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="997" ImageHeight="1548" ImageSize="385527"/>
+		<Page Image="2" ImageWidth="931" ImageHeight="1514" ImageSize="133199"/>
+		<Page Image="3" ImageWidth="1947" ImageHeight="1522" ImageSize="700500"/>
+		<Page Image="4" ImageWidth="926" ImageHeight="1510" ImageSize="163346"/>
+		<Page Image="5" ImageWidth="942" ImageHeight="1450" ImageSize="453896"/>
+		<Page Image="6" ImageWidth="930" ImageHeight="1445" ImageSize="467394"/>
+		<Page Image="7" ImageWidth="929" ImageHeight="1427" ImageSize="486303"/>
+		<Page Image="8" ImageWidth="931" ImageHeight="1453" ImageSize="440644"/>
+		<Page Image="9" ImageWidth="924" ImageHeight="1421" ImageSize="577316"/>
+		<Page Image="10" ImageWidth="925" ImageHeight="1446" ImageSize="560572"/>
+		<Page Image="11" ImageWidth="923" ImageHeight="1447" ImageSize="599444"/>
+		<Page Image="12" ImageWidth="910" ImageHeight="1439" ImageSize="615358"/>
+		<Page Image="13" ImageWidth="933" ImageHeight="1453" ImageSize="575782"/>
+		<Page Image="14" ImageWidth="944" ImageHeight="1457" ImageSize="575395"/>
+		<Page Image="15" ImageWidth="938" ImageHeight="1461" ImageSize="518456"/>
+		<Page Image="16" ImageWidth="931" ImageHeight="1462" ImageSize="591276"/>
+		<Page Image="17" ImageWidth="937" ImageHeight="1457" ImageSize="557792"/>
+		<Page Image="18" ImageWidth="941" ImageHeight="1466" ImageSize="487041"/>
+		<Page Image="19" ImageWidth="940" ImageHeight="1459" ImageSize="549676"/>
+		<Page Image="20" ImageWidth="934" ImageHeight="1445" ImageSize="545391"/>
+		<Page Image="21" ImageWidth="929" ImageHeight="1451" ImageSize="614195"/>
+		<Page Image="22" ImageWidth="942" ImageHeight="1460" ImageSize="538473"/>
+		<Page Image="23" ImageWidth="930" ImageHeight="1456" ImageSize="504346"/>
+		<Page Image="24" ImageWidth="935" ImageHeight="1453" ImageSize="563713"/>
+		<Page Image="25" ImageWidth="939" ImageHeight="1462" ImageSize="519060"/>
+		<Page Image="26" ImageWidth="950" ImageHeight="1460" ImageSize="605250"/>
+		<Page Image="27" ImageWidth="925" ImageHeight="1443" ImageSize="488299"/>
+		<Page Image="28" ImageWidth="934" ImageHeight="1460" ImageSize="612809"/>
+		<Page Image="29" ImageWidth="927" ImageHeight="1458" ImageSize="605908"/>
+		<Page Image="30" ImageWidth="954" ImageHeight="1475" ImageSize="511039"/>
+		<Page Image="31" ImageWidth="929" ImageHeight="1453" ImageSize="394602"/>
+		<Page Image="32" ImageWidth="1956" ImageHeight="1523" ImageSize="1199908"/>
+		<Page Image="33" ImageWidth="907" ImageHeight="1430" ImageSize="475845"/>
+		<Page Image="34" ImageWidth="928" ImageHeight="1460" ImageSize="494495"/>
+		<Page Image="35" ImageWidth="937" ImageHeight="1497" ImageSize="406934"/>
+		<Page Image="36" ImageWidth="923" ImageHeight="1454" ImageSize="444866"/>
+		<Page Image="37" ImageWidth="928" ImageHeight="1451" ImageSize="542518"/>
+		<Page Image="38" ImageWidth="933" ImageHeight="1449" ImageSize="482035"/>
+		<Page Image="39" ImageWidth="921" ImageHeight="1452" ImageSize="467558"/>
+		<Page Image="40" ImageWidth="940" ImageHeight="1464" ImageSize="448597"/>
+		<Page Image="41" ImageWidth="942" ImageHeight="1455" ImageSize="569992"/>
+		<Page Image="42" ImageWidth="938" ImageHeight="1468" ImageSize="602442"/>
+		<Page Image="43" ImageWidth="946" ImageHeight="1467" ImageSize="588590"/>
+		<Page Image="44" ImageWidth="944" ImageHeight="1467" ImageSize="597168"/>
+		<Page Image="45" ImageWidth="950" ImageHeight="1461" ImageSize="411091"/>
+		<Page Image="46" ImageWidth="935" ImageHeight="1455" ImageSize="469953"/>
+		<Page Image="47" ImageWidth="945" ImageHeight="1488" ImageSize="474845"/>
+		<Page Image="48" ImageWidth="934" ImageHeight="1454" ImageSize="615359"/>
+		<Page Image="49" ImageWidth="927" ImageHeight="1475" ImageSize="497686"/>
+		<Page Image="50" ImageWidth="933" ImageHeight="1453" ImageSize="547644"/>
+		<Page Image="51" ImageWidth="929" ImageHeight="1458" ImageSize="423103"/>
+		<Page Image="52" ImageWidth="956" ImageHeight="1464" ImageSize="576699"/>
+		<Page Image="53" ImageWidth="946" ImageHeight="1475" ImageSize="578637"/>
+		<Page Image="54" ImageWidth="935" ImageHeight="1458" ImageSize="612402"/>
+		<Page Image="55" ImageWidth="942" ImageHeight="1456" ImageSize="536437"/>
+		<Page Image="56" ImageWidth="927" ImageHeight="1456" ImageSize="492931"/>
+		<Page Image="57" ImageWidth="924" ImageHeight="1451" ImageSize="432895"/>
+		<Page Image="58" ImageWidth="925" ImageHeight="1453" ImageSize="526672"/>
+		<Page Image="59" ImageWidth="922" ImageHeight="1456" ImageSize="496292"/>
+		<Page Image="60" ImageWidth="940" ImageHeight="1491" ImageSize="534243"/>
+		<Page Image="61" ImageWidth="933" ImageHeight="1464" ImageSize="524538"/>
+		<Page Image="62" ImageWidth="924" ImageHeight="1457" ImageSize="560902"/>
+		<Page Image="63" ImageWidth="939" ImageHeight="1461" ImageSize="562923"/>
+		<Page Image="64" ImageWidth="942" ImageHeight="1461" ImageSize="487626"/>
+		<Page Image="65" ImageWidth="935" ImageHeight="1462" ImageSize="566636"/>
+		<Page Image="66" ImageWidth="932" ImageHeight="1456" ImageSize="510452"/>
+		<Page Image="67" ImageWidth="929" ImageHeight="1448" ImageSize="514189"/>
+		<Page Image="68" ImageWidth="945" ImageHeight="1467" ImageSize="490012"/>
+		<Page Image="69" ImageWidth="949" ImageHeight="1488" ImageSize="449209"/>
+		<Page Image="70" ImageWidth="953" ImageHeight="1496" ImageSize="545855"/>
+		<Page Image="71" ImageWidth="930" ImageHeight="1498" ImageSize="564947"/>
+		<Page Image="72" ImageWidth="946" ImageHeight="1498" ImageSize="466456"/>
+		<Page Image="73" ImageWidth="934" ImageHeight="1455" ImageSize="560915"/>
+		<Page Image="74" ImageWidth="925" ImageHeight="1448" ImageSize="557370"/>
+		<Page Image="75" ImageWidth="930" ImageHeight="1455" ImageSize="503304"/>
+		<Page Image="76" ImageWidth="932" ImageHeight="1456" ImageSize="572777"/>
+		<Page Image="77" ImageWidth="932" ImageHeight="1463" ImageSize="560318"/>
+		<Page Image="78" ImageWidth="942" ImageHeight="1466" ImageSize="625454"/>
+		<Page Image="79" ImageWidth="931" ImageHeight="1470" ImageSize="571939"/>
+		<Page Image="80" ImageWidth="931" ImageHeight="1468" ImageSize="505806"/>
+		<Page Image="81" ImageWidth="944" ImageHeight="1466" ImageSize="524403"/>
+		<Page Image="82" ImageWidth="948" ImageHeight="1486" ImageSize="558311"/>
+		<Page Image="83" ImageWidth="940" ImageHeight="1489" ImageSize="568238"/>
+		<Page Image="84" ImageWidth="942" ImageHeight="1484" ImageSize="540313"/>
+		<Page Image="85" ImageWidth="950" ImageHeight="1482" ImageSize="548642"/>
+		<Page Image="86" ImageWidth="943" ImageHeight="1467" ImageSize="544193"/>
+		<Page Image="87" ImageWidth="931" ImageHeight="1457" ImageSize="479041"/>
+		<Page Image="88" ImageWidth="928" ImageHeight="1486" ImageSize="398437"/>
+		<Page Image="89" ImageWidth="930" ImageHeight="1455" ImageSize="544201"/>
+		<Page Image="90" ImageWidth="950" ImageHeight="1471" ImageSize="447416"/>
+		<Page Image="91" ImageWidth="953" ImageHeight="1486" ImageSize="468323"/>
+		<Page Image="92" ImageWidth="934" ImageHeight="1456" ImageSize="597823"/>
+		<Page Image="93" ImageWidth="935" ImageHeight="1468" ImageSize="618215"/>
+		<Page Image="94" ImageWidth="945" ImageHeight="1503" ImageSize="622518"/>
+		<Page Image="95" ImageWidth="945" ImageHeight="1520" ImageSize="638286"/>
+		<Page Image="96" ImageWidth="938" ImageHeight="1504" ImageSize="532370"/>
+		<Page Image="97" ImageWidth="942" ImageHeight="1520" ImageSize="670138"/>
+		<Page Image="98" ImageWidth="942" ImageHeight="1520" ImageSize="508815"/>
+		<Page Image="99" ImageWidth="1933" ImageHeight="1449" ImageSize="797954"/>
+		<Page Image="100" ImageWidth="938" ImageHeight="1519" ImageSize="509786"/>
+		<Page Image="101" ImageWidth="945" ImageHeight="1518" ImageSize="519018"/>
+		<Page Image="102" ImageWidth="940" ImageHeight="1521" ImageSize="608868"/>
+		<Page Image="103" ImageWidth="943" ImageHeight="1520" ImageSize="464060"/>
+		<Page Image="104" ImageWidth="936" ImageHeight="1475" ImageSize="621435"/>
+		<Page Image="105" ImageWidth="948" ImageHeight="1481" ImageSize="504550"/>
+		<Page Image="106" ImageWidth="952" ImageHeight="1483" ImageSize="580257"/>
+		<Page Image="107" ImageWidth="959" ImageHeight="1486" ImageSize="570361"/>
+		<Page Image="108" ImageWidth="945" ImageHeight="1477" ImageSize="615046"/>
+		<Page Image="109" ImageWidth="949" ImageHeight="1481" ImageSize="574742"/>
+		<Page Image="110" ImageWidth="958" ImageHeight="1479" ImageSize="554327"/>
+		<Page Image="111" ImageWidth="950" ImageHeight="1509" ImageSize="471356"/>
+		<Page Image="112" ImageWidth="953" ImageHeight="1464" ImageSize="581544"/>
+		<Page Image="113" ImageWidth="966" ImageHeight="1513" ImageSize="542373"/>
+		<Page Image="114" ImageWidth="938" ImageHeight="1475" ImageSize="486009"/>
+		<Page Image="115" ImageWidth="949" ImageHeight="1458" ImageSize="406979"/>
+		<Page Image="116" ImageWidth="966" ImageHeight="1478" ImageSize="517868"/>
+		<Page Image="117" ImageWidth="965" ImageHeight="1501" ImageSize="494146"/>
+		<Page Image="118" ImageWidth="961" ImageHeight="1496" ImageSize="540711"/>
+		<Page Image="119" ImageWidth="943" ImageHeight="1521" ImageSize="604976"/>
+		<Page Image="120" ImageWidth="930" ImageHeight="1419" ImageSize="493658"/>
+		<Page Image="121" ImageWidth="899" ImageHeight="1386" ImageSize="470949"/>
+		<Page Image="122" ImageWidth="938" ImageHeight="1432" ImageSize="512580"/>
+		<Page Image="123" ImageWidth="935" ImageHeight="1408" ImageSize="489922"/>
+		<Page Image="124" ImageWidth="922" ImageHeight="1421" ImageSize="452776"/>
+		<Page Image="125" ImageWidth="940" ImageHeight="1483" ImageSize="538914"/>
+		<Page Image="126" ImageWidth="917" ImageHeight="1462" ImageSize="445924"/>
+		<Page Image="127" ImageWidth="937" ImageHeight="1443" ImageSize="476952"/>
+		<Page Image="128" ImageWidth="944" ImageHeight="1410" ImageSize="443491"/>
+		<Page Image="129" ImageWidth="953" ImageHeight="1449" ImageSize="545628"/>
+		<Page Image="130" ImageWidth="908" ImageHeight="1430" ImageSize="475214"/>
+		<Page Image="131" ImageWidth="900" ImageHeight="1408" ImageSize="502971"/>
+		<Page Image="132" ImageWidth="930" ImageHeight="1442" ImageSize="511393"/>
+		<Page Image="133" ImageWidth="944" ImageHeight="1431" ImageSize="574115"/>
+		<Page Image="134" ImageWidth="942" ImageHeight="1430" ImageSize="631447"/>
+		<Page Image="135" ImageWidth="943" ImageHeight="1433" ImageSize="558640"/>
+		<Page Image="136" ImageWidth="941" ImageHeight="1424" ImageSize="512328"/>
+		<Page Image="137" ImageWidth="937" ImageHeight="1435" ImageSize="566985"/>
+		<Page Image="138" ImageWidth="958" ImageHeight="1517" ImageSize="459864"/>
+		<Page Image="139" ImageWidth="948" ImageHeight="1519" ImageSize="355636"/>
+		<Page Image="140" ImageWidth="950" ImageHeight="1517" ImageSize="174804"/>
+		<Page Image="141" ImageWidth="952" ImageHeight="1520" ImageSize="207635"/>
+		<Page Image="142" ImageSize="360746"/>
+	</Pages>
+	<Penciller>Enrique Breccia</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<ScanInformation>(Vertigo)</ScanInformation>
+	<Series>Lovecraft</Series>
+	<Summary>When young Howard Phillips Lovecraft becomes the reluctant guardian of the Necronomicon, his life veers into strange territory. Lovecraft maintains a tenuous balance between reality and the bizarre nightmares of his "fictional" horror.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-10-29 11:56:22.  [CVDB116936]
+
+https://comicvine.gamespot.com/lovecraft-1-tpbhc/4000-116936/</Summary>
+	<Tags>Chicago,Great Old Ones,H.P. Lovecraft,Randolph Carter,Rhode Island</Tags>
+	<Teams>Great Old Ones</Teams>
+	<Title>TPB/HC</Title>
+	<Volume>2004</Volume>
+	<Web>https://comicvine.gamespot.com/lovecraft-1-tpbhc/4000-116936/</Web>
+	<Writer>Hans Rodionoff,Keith Giffen</Writer>
+	<Year>2004</Year>
+</ComicInfo>

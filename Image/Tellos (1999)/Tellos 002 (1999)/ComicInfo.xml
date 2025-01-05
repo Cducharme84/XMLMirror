@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Malesur,Hauzer,Brad,Jarek,Tunring,Serra,Thomestharustra,Skald,Jessa,Koj</Characters>
+  <Colorist>Ken Wolak,Paul Mounts</Colorist>
+  <Day>1</Day>
+  <Editor>Todd Dezago</Editor>
+  <GTIN>urn:comicvine:4000-69253</GTIN>
+  <Inker>Mike Wieringo,Nathan Massengill,Mike Wieringo</Inker>
+  <Letterer>Richard Starkings,Wes Abbott</Letterer>
+  <Locations>Tellos</Locations>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:30:51 [Issue ID 4000-69253] urn:comicvine:4000-69253
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-19 16:14:14. [Issue ID 69253]</Notes>
+  <Number>2</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="883444" Type="FrontCover" />
+    <Page Image="1" ImageSize="545390" />
+    <Page Image="2" ImageSize="747750" />
+    <Page Image="3" ImageSize="693216" />
+    <Page Image="4" ImageSize="734622" />
+    <Page Image="5" ImageSize="1675320" />
+    <Page Image="6" ImageSize="788319" />
+    <Page Image="7" ImageSize="838825" />
+    <Page Image="8" ImageSize="822494" />
+    <Page Image="9" ImageSize="793980" />
+    <Page Image="10" ImageSize="760304" />
+    <Page Image="11" ImageSize="859252" />
+    <Page Image="12" ImageSize="752251" />
+    <Page Image="13" ImageSize="644381" />
+    <Page Image="14" ImageSize="870191" />
+    <Page Image="15" ImageSize="822837" />
+    <Page Image="16" ImageSize="823189" />
+    <Page Image="17" ImageSize="831560" />
+    <Page Image="18" ImageSize="679557" />
+    <Page Image="19" ImageSize="683470" />
+    <Page Image="20" ImageSize="664356" />
+    <Page Image="21" ImageSize="760514" />
+    <Page Image="22" ImageSize="707028" />
+  </Pages>
+  <Penciller>Mike Wieringo,Mike Wieringo</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Tellos</Series>
+  <Tags>Tellos,Jarek,Hauzer,Brad,Malesur,Tunring,Serra,Thomestharustra,Skald,Jessa,Koj</Tags>
+  <Volume>1999</Volume>
+  <Web>https://comicvine.gamespot.com/tellos-2/4000-69253/</Web>
+  <Writer>Todd Dezago</Writer>
+  <Year>1999</Year>
+  <Count>10</Count>
+  <CoverArtist>Mike Wieringo</CoverArtist>
+</ComicInfo>

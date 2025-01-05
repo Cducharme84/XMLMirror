@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Lady Justice</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-118397</GTIN>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:52 [Issue ID 4000-118397] urn:comicvine:4000-118397</Notes>
+	<Number>6</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="348826" Type="FrontCover"/>
+		<Page Image="1" ImageSize="535372"/>
+		<Page Image="2" ImageSize="377725"/>
+		<Page Image="3" ImageSize="368267"/>
+		<Page Image="4" ImageSize="382618"/>
+		<Page Image="5" ImageSize="410437"/>
+		<Page Image="6" ImageSize="402158"/>
+		<Page Image="7" ImageSize="363929"/>
+		<Page Image="8" ImageSize="471045"/>
+		<Page Image="9" ImageSize="519228"/>
+		<Page Image="10" ImageSize="452395"/>
+		<Page Image="11" ImageSize="482155"/>
+		<Page Image="12" ImageSize="352400"/>
+		<Page Image="13" ImageSize="430756"/>
+		<Page Image="14" ImageSize="361806"/>
+		<Page Image="15" ImageSize="358053"/>
+		<Page Image="16" ImageSize="351918"/>
+		<Page Image="17" ImageSize="383887"/>
+		<Page Image="18" ImageSize="282240"/>
+		<Page Image="19" ImageSize="386854"/>
+		<Page Image="20" ImageSize="355786"/>
+		<Page Image="21" ImageSize="394305"/>
+		<Page Image="22" ImageSize="397095"/>
+		<Page Image="23" ImageSize="306500"/>
+		<Page Image="24" ImageSize="367193"/>
+		<Page Image="25" ImageSize="369315"/>
+		<Page Image="26" ImageSize="434032"/>
+		<Page Image="27" ImageSize="580656"/>
+	</Pages>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Lady Justice</Series>
+	<Summary>https://comicvine.gamespot.com/lady-justice-6-woman-about-town-1/4000-118397/</Summary>
+	<Tags>Lady Justice</Tags>
+	<Title>Woman About Town 1</Title>
+	<Volume>1996</Volume>
+	<Web>https://comicvine.gamespot.com/lady-justice-6-woman-about-town-1/4000-118397/</Web>
+	<Writer>Fred Harper</Writer>
+	<Year>1996</Year>
+</ComicInfo>

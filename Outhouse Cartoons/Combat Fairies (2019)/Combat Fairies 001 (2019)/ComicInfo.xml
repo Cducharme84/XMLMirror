@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>12</Count>
+	<CoverArtist>Dylan Moore</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-705248</GTIN>
+	<Genre>Action,Comedy,Fantasy</Genre>
+	<Inker>Dylan Moore</Inker>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-09-20T23:52:28 [Issue ID 4000-705248] urn:comicvine:4000-705248</Notes>
+	<Number>1</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3843" ImageSize="982024" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3843" ImageSize="1977521"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3843" ImageSize="1936326"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3843" ImageSize="450529"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3843" ImageSize="38641"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3843" ImageSize="2003215"/>
+		<Page DoublePage="True" Image="6" ImageWidth="5119" ImageHeight="3843" ImageSize="4063051"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3843" ImageSize="2370254"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3843" ImageSize="1930541"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3843" ImageSize="2127398"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3843" ImageSize="2264541"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3843" ImageSize="2309128"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3843" ImageSize="2044336"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3843" ImageSize="2021723"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3843" ImageSize="2354313"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3843" ImageSize="2094616"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3843" ImageSize="2553405"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3843" ImageSize="2073393"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3843" ImageSize="2048361"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3843" ImageSize="1725804"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3843" ImageSize="2137280"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3843" ImageSize="1547692"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3843" ImageSize="1732259"/>
+		<Page Image="23" ImageSize="2040637"/>
+	</Pages>
+	<Penciller>Dylan Moore</Penciller>
+	<Publisher>Outhouse Cartoons</Publisher>
+	<Series>Combat Fairies</Series>
+	<Summary>Your Enemy's Enemies
+
+The team arrives at an abandoned church where several mortals have seemingly been murdered in the hopes of finding an artifact they've been tasked with uncovering. It's supposed to be a quick in and out gig, but it might be something more...</Summary>
+	<Title>Your Enemy's Enemies</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/combat-fairies-1-your-enemys-enemies/4000-705248/</Web>
+	<Writer>Dylan Moore</Writer>
+	<Year>2019</Year>
+</ComicInfo>

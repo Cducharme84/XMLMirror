@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Wolfskin</Characters>
+	<Colorist>Andrew Dalhouse</Colorist>
+	<Count>3</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<GTIN>urn:comicvine:4000-334360</GTIN>
+	<Genre>Adventure</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:24:30 [Issue ID 4000-334360] urn:comicvine:4000-334360 urn:grandcomicsdatabase:issue/334360</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2887896" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1726507"/>
+		<Page Image="2" ImageSize="3088517"/>
+		<Page Image="3" ImageSize="3201742"/>
+		<Page Image="4" ImageSize="3052109"/>
+		<Page Image="5" ImageSize="3386690"/>
+		<Page Image="6" ImageSize="3133286"/>
+		<Page Image="7" ImageSize="3085688"/>
+		<Page Image="8" ImageSize="3068058"/>
+		<Page Image="9" ImageSize="3062430"/>
+		<Page Image="10" ImageSize="2424187"/>
+		<Page Image="11" ImageSize="2872273"/>
+		<Page Image="12" ImageSize="2839310"/>
+		<Page Image="13" ImageSize="3005465"/>
+		<Page Image="14" ImageSize="2997426"/>
+		<Page Image="15" ImageSize="3034247"/>
+		<Page Image="16" ImageSize="3175192"/>
+		<Page Image="17" ImageSize="3082477"/>
+		<Page Image="18" ImageSize="3071791"/>
+		<Page Image="19" ImageSize="3070103"/>
+		<Page Image="20" ImageSize="3102340"/>
+		<Page Image="21" ImageSize="3248853"/>
+		<Page Image="22" ImageSize="3062040"/>
+		<Page Image="23" ImageSize="3425344"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Warren Ellis' Wolfskin</Series>
+	<Summary>Five covers exist for this title: REGULAR, WRAP AND VICIOUS by Juan Jose Ryp; AUXILIARY by Jacen Burrows; PAINTED by Carlos Valenzuela.</Summary>
+	<Tags>Wolfskin</Tags>
+	<Volume>2006</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-334360/</Web>
+	<Writer>Warren Ellis</Writer>
+	<Year>2006</Year>
+</ComicInfo>

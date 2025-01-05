@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Format>Series</Format>
+  <Genre>Superhero,Action</Genre>
+  <Inker>Rodrigo Pucheta</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-22T13:14:33</Notes>
+  <Number>0</Number>
+  <PageCount>12</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="4085" ImageSize="3002226" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="4085" ImageSize="3083282" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="4085" ImageSize="1819657" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="4085" ImageSize="1596398" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="4085" ImageSize="1536054" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="4085" ImageSize="1478251" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="4085" ImageSize="1438859" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="4085" ImageSize="1748914" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="4085" ImageSize="1681746" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="4085" ImageSize="413460" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="4085" ImageSize="2505780" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="4085" ImageSize="581768" ImageWidth="2560" />
+  </Pages>
+  <Penciller>Rodrigo Pucheta</Penciller>
+  <Publisher>Konkret Comics</Publisher>
+  <Series>Pryme 8</Series>
+  <Volume>2022</Volume>
+  <Writer>Avery Hazelwood</Writer>
+  <Year>2022</Year>
+  <Summary>When the radical Liberated Nation shakes the city of New West, a mysterious vigilante rises from the darkness to dispense justice.</Summary>
+</ComicInfo>

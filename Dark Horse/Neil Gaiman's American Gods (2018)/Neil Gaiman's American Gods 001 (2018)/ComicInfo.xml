@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Shadow Moon,Huginn,Mad Sweeney (dies),Odin,Ibis,Bastet,Jacquel,Laura (flashback)</Characters>
+  <Colorist>Adam Brown,Laura Martin,Lovern Kindzierski,Scott Hampton,Colleen Doran,Scott Hampton,Adam Brown,Colleen Doran,Laura Martin,Lovern Kindzierski</Colorist>
+  <Count>3</Count>
+  <Day>28</Day>
+  <Editor>Daniel Chabon</Editor>
+  <GTIN>urn:comicvine:4000-661104</GTIN>
+  <Inker>Glenn Fabry,Scott Hampton,Walter Simonson,Colleen Doran,P. Craig Russell,Scott Hampton,Glenn Fabry,Colleen Doran,Walter Simonson,P. Craig Russell</Inker>
+  <Letterer>Rick Parker,Rick Parker</Letterer>
+  <Locations>Indiana,Eagle Point,North America,Virginia,England,Illinois,Cornwall,Chicago,Europe</Locations>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:43:32 [Issue ID 4000-661104] urn:comicvine:4000-661104
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 20:16:38. [Issue ID 1788875]</Notes>
+  <Number>1</Number>
+  <PageCount>268</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="5240985" Type="FrontCover" />
+    <Page Image="1" ImageSize="2235928" />
+    <Page Image="2" ImageSize="5993191" />
+    <Page Image="3" ImageSize="10224026" />
+    <Page Image="4" ImageSize="6955530" />
+    <Page Image="5" ImageSize="5775151" />
+    <Page Image="6" ImageSize="4662726" />
+    <Page Image="7" ImageSize="9510154" />
+    <Page Image="8" ImageSize="7979727" />
+    <Page Image="9" ImageSize="8109214" />
+    <Page Image="10" ImageSize="7492348" />
+    <Page Image="11" ImageSize="8638415" />
+    <Page Image="12" ImageSize="7755706" />
+    <Page Image="13" ImageSize="8051885" />
+    <Page Image="14" ImageSize="10319936" />
+    <Page Image="15" ImageSize="7797524" />
+    <Page Image="16" ImageSize="6771989" />
+    <Page Image="17" ImageSize="7603970" />
+    <Page Image="18" ImageSize="5624752" />
+    <Page Image="19" ImageSize="8343289" />
+    <Page Image="20" ImageSize="7870065" />
+    <Page Image="21" ImageSize="6929170" />
+    <Page Image="22" ImageSize="10653866" />
+    <Page Image="23" ImageSize="6164155" />
+    <Page Image="24" ImageSize="5379265" />
+    <Page Image="25" ImageSize="7440311" />
+    <Page Image="26" ImageSize="6476315" />
+    <Page Image="27" ImageSize="6366066" />
+    <Page Image="28" ImageSize="10840338" />
+    <Page Image="29" ImageSize="9127978" />
+    <Page Image="30" ImageSize="8540782" />
+    <Page Image="31" ImageSize="6898216" />
+    <Page Image="32" ImageSize="6411619" />
+    <Page Image="33" ImageSize="8546491" />
+    <Page Image="34" ImageSize="7145380" />
+    <Page Image="35" ImageSize="8045689" />
+    <Page Image="36" ImageSize="11986941" />
+    <Page Image="37" ImageSize="9121221" />
+    <Page Image="38" ImageSize="8026550" />
+    <Page Image="39" ImageSize="9453979" />
+    <Page Image="40" ImageSize="10577362" />
+    <Page Image="41" ImageSize="9345980" />
+    <Page Image="42" ImageSize="10235638" />
+    <Page Image="43" ImageSize="9762910" />
+    <Page Image="44" ImageSize="9588465" />
+    <Page Image="45" ImageSize="10851963" />
+    <Page Image="46" ImageSize="9326496" />
+    <Page Image="47" ImageSize="9076821" />
+    <Page Image="48" ImageSize="7174232" />
+    <Page Image="49" ImageSize="8186864" />
+    <Page Image="50" ImageSize="7684132" />
+    <Page Image="51" ImageSize="8956821" />
+    <Page Image="52" ImageSize="6778344" />
+    <Page Image="53" ImageSize="6677131" />
+    <Page Image="54" ImageSize="9799228" />
+    <Page Image="55" ImageSize="11188622" />
+    <Page Image="56" ImageSize="6536082" />
+    <Page Image="57" ImageSize="6521752" />
+    <Page Image="58" ImageSize="7734798" />
+    <Page Image="59" ImageSize="6954903" />
+    <Page Image="60" ImageSize="6217738" />
+    <Page Image="61" ImageSize="5552854" />
+    <Page Image="62" ImageSize="5851142" />
+    <Page Image="63" ImageSize="9148536" />
+    <Page Image="64" ImageSize="10868339" />
+    <Page Image="65" ImageSize="5164167" />
+    <Page Image="66" ImageSize="5249154" />
+    <Page Image="67" ImageSize="4776081" />
+    <Page Image="68" ImageSize="5357722" />
+    <Page Image="69" ImageSize="5608509" />
+    <Page Image="70" ImageSize="7575814" />
+    <Page Image="71" ImageSize="8387472" />
+    <Page Image="72" ImageSize="6953215" />
+    <Page Image="73" ImageSize="9054355" />
+    <Page Image="74" ImageSize="7958997" />
+    <Page Image="75" ImageSize="7581145" />
+    <Page Image="76" ImageSize="8304888" />
+    <Page Image="77" ImageSize="9709661" />
+    <Page Image="78" ImageSize="5809745" />
+    <Page Image="79" ImageSize="6867449" />
+    <Page Image="80" ImageSize="7665539" />
+    <Page Image="81" ImageSize="7525138" />
+    <Page Image="82" ImageSize="7350506" />
+    <Page Image="83" ImageSize="8330170" />
+    <Page Image="84" ImageSize="19188309" />
+    <Page Image="85" ImageSize="6468849" />
+    <Page Image="86" ImageSize="5699872" />
+    <Page Image="87" ImageSize="6793917" />
+    <Page Image="88" ImageSize="6867667" />
+    <Page Image="89" ImageSize="6935053" />
+    <Page Image="90" ImageSize="6788192" />
+    <Page Image="91" ImageSize="8045895" />
+    <Page Image="92" ImageSize="7422504" />
+    <Page Image="93" ImageSize="10082808" />
+    <Page Image="94" ImageSize="9618110" />
+    <Page Image="95" ImageSize="11185733" />
+    <Page Image="96" ImageSize="5226977" />
+    <Page Image="97" ImageSize="8206243" />
+    <Page Image="98" ImageSize="8320397" />
+    <Page Image="99" ImageSize="6599132" />
+    <Page Image="100" ImageSize="7534972" />
+    <Page Image="101" ImageSize="8037543" />
+    <Page Image="102" ImageSize="7309039" />
+    <Page Image="103" ImageSize="7367513" />
+    <Page Image="104" ImageSize="7877914" />
+    <Page Image="105" ImageSize="7025586" />
+    <Page Image="106" ImageSize="6767389" />
+    <Page Image="107" ImageSize="7897516" />
+    <Page Image="108" ImageSize="11790003" />
+    <Page Image="109" ImageSize="9059995" />
+    <Page Image="110" ImageSize="9683608" />
+    <Page Image="111" ImageSize="7335178" />
+    <Page Image="112" ImageSize="6597962" />
+    <Page Image="113" ImageSize="8783292" />
+    <Page Image="114" ImageSize="9294051" />
+    <Page Image="115" ImageSize="7835853" />
+    <Page Image="116" ImageSize="7322096" />
+    <Page Image="117" ImageSize="7451056" />
+    <Page Image="118" ImageSize="8055468" />
+    <Page Image="119" ImageSize="7753284" />
+    <Page Image="120" ImageSize="9664430" />
+    <Page Image="121" ImageSize="8488653" />
+    <Page Image="122" ImageSize="8315912" />
+    <Page Image="123" ImageSize="8542079" />
+    <Page Image="124" ImageSize="10581013" />
+    <Page Image="125" ImageSize="15573964" />
+    <Page Image="126" ImageSize="12838122" />
+    <Page Image="127" ImageSize="7475111" />
+    <Page Image="128" ImageSize="12871248" />
+    <Page Image="129" ImageSize="10226666" />
+    <Page Image="130" ImageSize="13957193" />
+    <Page Image="131" ImageSize="6598096" />
+    <Page Image="132" ImageSize="19627984" />
+    <Page Image="133" ImageSize="11013828" />
+    <Page Image="134" ImageSize="12172364" />
+    <Page Image="135" ImageSize="10593173" />
+    <Page Image="136" ImageSize="14457115" />
+    <Page Image="137" ImageSize="14605290" />
+    <Page Image="138" ImageSize="10513782" />
+    <Page Image="139" ImageSize="10222606" />
+    <Page Image="140" ImageSize="9133943" />
+    <Page Image="141" ImageSize="11065545" />
+    <Page Image="142" ImageSize="11784510" />
+    <Page Image="143" ImageSize="12050655" />
+    <Page Image="144" ImageSize="10579845" />
+    <Page Image="145" ImageSize="7386830" />
+    <Page Image="146" ImageSize="6170767" />
+    <Page Image="147" ImageSize="6801389" />
+    <Page Image="148" ImageSize="8420020" />
+    <Page Image="149" ImageSize="8352910" />
+    <Page Image="150" ImageSize="9306910" />
+    <Page Image="151" ImageSize="14482604" />
+    <Page Image="152" ImageSize="7329341" />
+    <Page Image="153" ImageSize="5651175" />
+    <Page Image="154" ImageSize="9216287" />
+    <Page Image="155" ImageSize="8822133" />
+    <Page Image="156" ImageSize="11719460" />
+    <Page Image="157" ImageSize="11609757" />
+    <Page Image="158" ImageSize="9023818" />
+    <Page Image="159" ImageSize="8278222" />
+    <Page Image="160" ImageSize="9330230" />
+    <Page Image="161" ImageSize="8894509" />
+    <Page Image="162" ImageSize="8599616" />
+    <Page Image="163" ImageSize="8260018" />
+    <Page Image="164" ImageSize="10692440" />
+    <Page Image="165" ImageSize="6921367" />
+    <Page Image="166" ImageSize="7039076" />
+    <Page Image="167" ImageSize="5713758" />
+    <Page Image="168" ImageSize="6414917" />
+    <Page Image="169" ImageSize="8345110" />
+    <Page Image="170" ImageSize="8140276" />
+    <Page Image="171" ImageSize="8396189" />
+    <Page Image="172" ImageSize="7862317" />
+    <Page Image="173" ImageSize="8144165" />
+    <Page Image="174" ImageSize="9382211" />
+    <Page Image="175" ImageSize="9567535" />
+    <Page Image="176" ImageSize="10466357" />
+    <Page Image="177" ImageSize="10424714" />
+    <Page Image="178" ImageSize="10726593" />
+    <Page Image="179" ImageSize="8185670" />
+    <Page Image="180" ImageSize="11048004" />
+    <Page Image="181" ImageSize="6957884" />
+    <Page Image="182" ImageSize="5788765" />
+    <Page Image="183" ImageSize="5568292" />
+    <Page Image="184" ImageSize="5748063" />
+    <Page Image="185" ImageSize="6403028" />
+    <Page Image="186" ImageSize="5438253" />
+    <Page Image="187" ImageSize="5175968" />
+    <Page Image="188" ImageSize="8521156" />
+    <Page Image="189" ImageSize="6688909" />
+    <Page Image="190" ImageSize="5287948" />
+    <Page Image="191" ImageSize="5408716" />
+    <Page Image="192" ImageSize="13071096" />
+    <Page Image="193" ImageSize="9165974" />
+    <Page Image="194" ImageSize="7977859" />
+    <Page Image="195" ImageSize="8538960" />
+    <Page Image="196" ImageSize="12029645" />
+    <Page Image="197" ImageSize="8804929" />
+    <Page Image="198" ImageSize="8783055" />
+    <Page Image="199" ImageSize="9606204" />
+    <Page Image="200" ImageSize="8922302" />
+    <Page Image="201" ImageSize="9911069" />
+    <Page Image="202" ImageSize="8608340" />
+    <Page Image="203" ImageSize="12251462" />
+    <Page Image="204" ImageSize="16933709" />
+    <Page Image="205" ImageSize="8799092" />
+    <Page Image="206" ImageSize="8277823" />
+    <Page Image="207" ImageSize="6611319" />
+    <Page Image="208" ImageSize="6819263" />
+    <Page Image="209" ImageSize="4154823" />
+    <Page Image="210" ImageSize="3323943" />
+    <Page Image="211" ImageSize="7265308" />
+    <Page Image="212" ImageSize="5682392" />
+    <Page Image="213" ImageSize="5986632" />
+    <Page Image="214" ImageSize="7181840" />
+    <Page Image="215" ImageSize="7676768" />
+    <Page Image="216" ImageSize="7539582" />
+    <Page Image="217" ImageSize="5898769" />
+    <Page Image="218" ImageSize="7762687" />
+    <Page Image="219" ImageSize="5893709" />
+    <Page Image="220" ImageSize="6235320" />
+    <Page Image="221" ImageSize="9825026" />
+    <Page Image="222" ImageSize="10437565" />
+    <Page Image="223" ImageSize="8767802" />
+    <Page Image="224" ImageSize="7954971" />
+    <Page Image="225" ImageSize="5077550" />
+    <Page Image="226" ImageSize="5159238" />
+    <Page Image="227" ImageSize="5261497" />
+    <Page Image="228" ImageSize="3503109" />
+    <Page Image="229" ImageSize="4214389" />
+    <Page Image="230" ImageSize="4450617" />
+    <Page Image="231" ImageSize="4932403" />
+    <Page Image="232" ImageSize="5757300" />
+    <Page Image="233" ImageSize="5736505" />
+    <Page Image="234" ImageSize="4383391" />
+    <Page Image="235" ImageSize="8528051" />
+    <Page Image="236" ImageSize="8171876" />
+    <Page Image="237" ImageSize="4806212" />
+    <Page Image="238" ImageSize="7707495" />
+    <Page Image="239" ImageSize="7354226" />
+    <Page Image="240" ImageSize="5979384" />
+    <Page Image="241" ImageSize="3922425" />
+    <Page Image="242" ImageSize="3916510" />
+    <Page Image="243" ImageSize="4282658" />
+    <Page Image="244" ImageSize="8133037" />
+    <Page Image="245" ImageSize="8151688" />
+    <Page Image="246" ImageSize="7634417" />
+    <Page Image="247" ImageSize="6793298" />
+    <Page Image="248" ImageSize="7680031" />
+    <Page Image="249" ImageSize="16096931" />
+    <Page Image="250" ImageSize="7704354" />
+    <Page Image="251" ImageSize="8283704" />
+    <Page Image="252" ImageSize="7778869" />
+    <Page Image="253" ImageSize="7674824" />
+    <Page Image="254" ImageSize="4838803" />
+    <Page Image="255" ImageSize="4625144" />
+    <Page Image="256" ImageSize="36754948" />
+    <Page Image="257" ImageSize="17400387" />
+    <Page Image="258" ImageSize="10576063" />
+    <Page Image="259" ImageSize="6713572" />
+    <Page Image="260" ImageSize="7370976" />
+    <Page Image="261" ImageSize="16083281" />
+    <Page Image="262" ImageSize="17916585" />
+    <Page Image="263" ImageSize="9692133" />
+    <Page Image="264" ImageSize="1335005" />
+    <Page Image="265" ImageSize="3185429" />
+    <Page Image="266" ImageSize="4612127" />
+    <Page Image="267" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Glenn Fabry,Scott Hampton,Walter Simonson,Craig Russell,P. Craig Russell,Colleen Doran,Craig Russell,Glenn Fabry,P. Craig Russell,Scott Hampton,Colleen Doran,Walter Simonson</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>Neil Gaiman's American Gods</Series>
+  <Summary>This supernatural American road trip fantasy tells the story of a war between the ancient and modern gods. The Hugo, Bram Stoker, Locus, World Fantasy, and Nebula award-winning novel and new Starz television series by Neil Gaiman is adapted as a graphic novel for the first time!
+
+The first in a three-volume adaptation of Neil Gaiman's modern classic!
+
+Shadow Moon gets out of jail only to discover his wife is dead. Defeated, broke, and uncertain where to go from here, he meets the mysterious Mr. Wednesday, who employs him to serve as his bodyguard--thrusting Shadow into a deadly world where ghosts of the past come back from the dead, and a god war is imminent.
+
+Collecting the first nine issues of the American Gods comic book series, along with art process features, high res scans of original art, layouts, character designs, and variant covers by BECKY CLOONAN, SKOTTIE YOUNG, FÁBIO MOON, DAVE MCKEAN, and MORE!</Summary>
+  <Teams>Jinn,Dievas,Vikings,Asgardian Gods,Banshees</Teams>
+  <Title>Shadows</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/neil-gaimans-american-gods-1-shadows/4000-661104/</Web>
+  <Writer>Neil Gaiman,P. Craig Russell,Neil Gaiman,P. Craig Russell</Writer>
+  <Year>2018</Year>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

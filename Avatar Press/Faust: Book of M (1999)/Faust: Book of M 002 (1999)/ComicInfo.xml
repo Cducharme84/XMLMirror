@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Adam Street</Colorist>
+	<Count>3</Count>
+	<Country>US</Country>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-702973</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<Inker>Tim Tyler</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>C²</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:35:45 [Issue ID 4000-702973] urn:comicvine:4000-702973 urn:grandcomicsdatabase:issue/702973</Notes>
+	<Number>2</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="456214" Type="FrontCover"/>
+		<Page Image="1" ImageSize="279693"/>
+		<Page Image="2" ImageSize="423956"/>
+		<Page Image="3" ImageSize="468528"/>
+		<Page Image="4" ImageSize="479302"/>
+		<Page Image="5" ImageSize="446931"/>
+		<Page Image="6" ImageSize="429501"/>
+		<Page Image="7" ImageSize="433169"/>
+		<Page Image="8" ImageSize="414957"/>
+		<Page Image="9" ImageSize="451527"/>
+		<Page Image="10" ImageSize="412933"/>
+		<Page Image="11" ImageSize="380721"/>
+		<Page Image="12" ImageSize="412532"/>
+		<Page Image="13" ImageSize="396988"/>
+		<Page Image="14" ImageSize="434834"/>
+		<Page Image="15" ImageSize="409746"/>
+		<Page Image="16" ImageSize="364433"/>
+		<Page Image="17" ImageSize="384174"/>
+		<Page Image="18" ImageSize="377894"/>
+		<Page Image="19" ImageSize="491375"/>
+		<Page Image="20" ImageSize="384804"/>
+		<Page Image="21" ImageSize="521835"/>
+		<Page Image="22" ImageSize="397010"/>
+	</Pages>
+	<Penciller>Tim Vigil</Penciller>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Faust: Book of M</Series>
+	<Summary>There is a polybagged Collector's Set for USD 10.00 available. It includes the regular and nude covers. Limited to 500 sets.</Summary>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-702973/</Web>
+	<Writer>David Quinn</Writer>
+	<Year>1999</Year>
+</ComicInfo>

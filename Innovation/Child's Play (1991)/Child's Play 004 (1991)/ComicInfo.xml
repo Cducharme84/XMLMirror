@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Chucky</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-131058</GTIN>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:41:51 [Issue ID 4000-131058] urn:comicvine:4000-131058</Notes>
+	<Number>4</Number>
+	<PageCount>35</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="362960" Type="FrontCover"/>
+		<Page Image="1" ImageSize="398318"/>
+		<Page Image="2" ImageSize="314546"/>
+		<Page Image="3" ImageSize="323329"/>
+		<Page Image="4" ImageSize="407341"/>
+		<Page Image="5" ImageSize="294292"/>
+		<Page Image="6" ImageSize="355285"/>
+		<Page Image="7" ImageSize="357467"/>
+		<Page Image="8" ImageSize="295612"/>
+		<Page Image="9" ImageSize="320933"/>
+		<Page Image="10" ImageSize="411497"/>
+		<Page Image="11" ImageSize="435335"/>
+		<Page Image="12" ImageSize="302155"/>
+		<Page Image="13" ImageSize="352423"/>
+		<Page Image="14" ImageSize="254197"/>
+		<Page Image="15" ImageSize="358731"/>
+		<Page Image="16" ImageSize="184070"/>
+		<Page Image="17" ImageSize="298791"/>
+		<Page Image="18" ImageSize="273038"/>
+		<Page Image="19" ImageSize="197993"/>
+		<Page Image="20" ImageSize="333198"/>
+		<Page Image="21" ImageSize="361304"/>
+		<Page Image="22" ImageSize="378004"/>
+		<Page Image="23" ImageSize="274694"/>
+		<Page Image="24" ImageSize="309449"/>
+		<Page Image="25" ImageSize="390087"/>
+		<Page Image="26" ImageSize="412408"/>
+		<Page Image="27" ImageSize="709413"/>
+		<Page Image="28" ImageSize="385410"/>
+		<Page Image="29" ImageSize="344363"/>
+		<Page Image="30" ImageSize="344972"/>
+		<Page Image="31" ImageSize="300244"/>
+		<Page Image="32" ImageSize="294543"/>
+		<Page Image="33" ImageSize="248490"/>
+		<Page Image="34" ImageSize="204378"/>
+	</Pages>
+	<Publisher>Innovation</Publisher>
+	<ScanInformation>(Innovation) (NJZombie)</ScanInformation>
+	<Series>Child's Play</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-14 18:06:36.  [Issue ID 131058]
+
+https://comicvine.gamespot.com/childs-play-4-night-of-the-living-doll/4000-131058/</Summary>
+	<Tags>Chucky</Tags>
+	<Title>Night of the Living Doll</Title>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/childs-play-4-night-of-the-living-doll/4000-131058/</Web>
+	<Writer>Andy Mangels</Writer>
+	<Year>1991</Year>
+</ComicInfo>

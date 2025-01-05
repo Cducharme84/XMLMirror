@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Donatello,Michelangelo,Raphael,Leonardo,Master Splinter</Characters>
+  <Colorist>Ronda Pattison</Colorist>
+  <Day>30</Day>
+  <Editor>Alonzo Simon,Justin Eisinger</Editor>
+  <GTIN>urn:comicvine:4000-469882</GTIN>
+  <Inker>Dario Brizuela,Fernando Pinto,Hilary Barta,Kieron Dwyer,Mike Manley,Philip Moy,Sean Wang,W.C. Carani</Inker>
+  <Letterer>Eric Talbot</Letterer>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:37:51 [Issue ID 4000-469882] urn:comicvine:4000-469882
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 09:57:17. [Issue ID 2560404]</Notes>
+  <Number>6</Number>
+  <PageCount>131</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1830034" Type="FrontCover" />
+    <Page Image="1" ImageSize="762224" />
+    <Page Image="2" ImageSize="795739" />
+    <Page Image="3" ImageSize="633852" />
+    <Page Image="4" ImageSize="301751" />
+    <Page Image="5" ImageSize="1393141" />
+    <Page Image="6" ImageSize="1159493" />
+    <Page Image="7" ImageSize="1005160" />
+    <Page Image="8" ImageSize="1401965" />
+    <Page Image="9" ImageSize="1043237" />
+    <Page Image="10" ImageSize="1390148" />
+    <Page Image="11" ImageSize="1409573" />
+    <Page Image="12" ImageSize="1478821" />
+    <Page Image="13" ImageSize="1302489" />
+    <Page Image="14" ImageSize="1250082" />
+    <Page Image="15" ImageSize="1539495" />
+    <Page Image="16" ImageSize="1333428" />
+    <Page Image="17" ImageSize="1350310" />
+    <Page Image="18" ImageSize="1364819" />
+    <Page Image="19" ImageSize="1367778" />
+    <Page Image="20" ImageSize="2885498" />
+    <Page Image="21" ImageSize="970459" />
+    <Page Image="22" ImageSize="1227203" />
+    <Page Image="23" ImageSize="1270316" />
+    <Page Image="24" ImageSize="1608904" />
+    <Page Image="25" ImageSize="1551102" />
+    <Page Image="26" ImageSize="1355199" />
+    <Page Image="27" ImageSize="1524621" />
+    <Page Image="28" ImageSize="1339586" />
+    <Page Image="29" ImageSize="1282208" />
+    <Page Image="30" ImageSize="999637" />
+    <Page Image="31" ImageSize="1327424" />
+    <Page Image="32" ImageSize="709515" />
+    <Page Image="33" ImageSize="1203950" />
+    <Page Image="34" ImageSize="1164948" />
+    <Page Image="35" ImageSize="1134391" />
+    <Page Image="36" ImageSize="1158445" />
+    <Page Image="37" ImageSize="1190189" />
+    <Page Image="38" ImageSize="1080802" />
+    <Page Image="39" ImageSize="1110042" />
+    <Page Image="40" ImageSize="1039434" />
+    <Page Image="41" ImageSize="1049177" />
+    <Page Image="42" ImageSize="1277350" />
+    <Page Image="43" ImageSize="1430206" />
+    <Page Image="44" ImageSize="1505749" />
+    <Page Image="45" ImageSize="1639948" />
+    <Page Image="46" ImageSize="1323028" />
+    <Page Image="47" ImageSize="1184963" />
+    <Page Image="48" ImageSize="1435588" />
+    <Page Image="49" ImageSize="1397116" />
+    <Page Image="50" ImageSize="1506687" />
+    <Page Image="51" ImageSize="1829326" />
+    <Page Image="52" ImageSize="1579447" />
+    <Page Image="53" ImageSize="1346571" />
+    <Page Image="54" ImageSize="1629336" />
+    <Page Image="55" ImageSize="996069" />
+    <Page Image="56" ImageSize="1333798" />
+    <Page Image="57" ImageSize="1423671" />
+    <Page Image="58" ImageSize="1471699" />
+    <Page Image="59" ImageSize="1546686" />
+    <Page Image="60" ImageSize="1437309" />
+    <Page Image="61" ImageSize="1662062" />
+    <Page Image="62" ImageSize="1797189" />
+    <Page Image="63" ImageSize="301751" />
+    <Page Image="64" ImageSize="780807" />
+    <Page Image="65" ImageSize="1393174" />
+    <Page Image="66" ImageSize="1248402" />
+    <Page Image="67" ImageSize="1264907" />
+    <Page Image="68" ImageSize="1293387" />
+    <Page Image="69" ImageSize="1329945" />
+    <Page Image="70" ImageSize="1218490" />
+    <Page Image="71" ImageSize="1233527" />
+    <Page Image="72" ImageSize="1293592" />
+    <Page Image="73" ImageSize="1370327" />
+    <Page Image="74" ImageSize="1333756" />
+    <Page Image="75" ImageSize="1342363" />
+    <Page Image="76" ImageSize="1359297" />
+    <Page Image="77" ImageSize="1216688" />
+    <Page Image="78" ImageSize="1265054" />
+    <Page Image="79" ImageSize="1378203" />
+    <Page Image="80" ImageSize="1215408" />
+    <Page Image="81" ImageSize="1226634" />
+    <Page Image="82" ImageSize="1071027" />
+    <Page Image="83" ImageSize="1303913" />
+    <Page Image="84" ImageSize="1264145" />
+    <Page Image="85" ImageSize="2517523" />
+    <Page Image="86" ImageSize="1193024" />
+    <Page Image="87" ImageSize="1334231" />
+    <Page Image="88" ImageSize="1348879" />
+    <Page Image="89" ImageSize="1347290" />
+    <Page Image="90" ImageSize="1294247" />
+    <Page Image="91" ImageSize="1432092" />
+    <Page Image="92" ImageSize="1354017" />
+    <Page Image="93" ImageSize="1285405" />
+    <Page Image="94" ImageSize="1169245" />
+    <Page Image="95" ImageSize="1646799" />
+    <Page Image="96" ImageSize="1505497" />
+    <Page Image="97" ImageSize="1274878" />
+    <Page Image="98" ImageSize="1206853" />
+    <Page Image="99" ImageSize="1619161" />
+    <Page Image="100" ImageSize="1149505" />
+    <Page Image="101" ImageSize="1684400" />
+    <Page Image="102" ImageSize="1134817" />
+    <Page Image="103" ImageSize="1252844" />
+    <Page Image="104" ImageSize="1324634" />
+    <Page Image="105" ImageSize="1264696" />
+    <Page Image="106" ImageSize="1113833" />
+    <Page Image="107" ImageSize="1173188" />
+    <Page Image="108" ImageSize="1245821" />
+    <Page Image="109" ImageSize="1272071" />
+    <Page Image="110" ImageSize="1202606" />
+    <Page Image="111" ImageSize="1355958" />
+    <Page Image="112" ImageSize="1168151" />
+    <Page Image="113" ImageSize="1139667" />
+    <Page Image="114" ImageSize="1072172" />
+    <Page Image="115" ImageSize="1069481" />
+    <Page Image="116" ImageSize="1239240" />
+    <Page Image="117" ImageSize="1058368" />
+    <Page Image="118" ImageSize="739518" />
+    <Page Image="119" ImageSize="1179460" />
+    <Page Image="120" ImageSize="1543489" />
+    <Page Image="121" ImageSize="1099305" />
+    <Page Image="122" ImageSize="1188682" />
+    <Page Image="123" ImageSize="1175064" />
+    <Page Image="124" ImageSize="1112692" />
+    <Page Image="125" ImageSize="1299576" />
+    <Page Image="126" ImageSize="1304271" />
+    <Page Image="127" ImageSize="1370291" />
+    <Page Image="128" ImageSize="918425" />
+    <Page Image="129" ImageSize="304410" />
+    <Page Image="130" ImageSize="1738255" />
+  </Pages>
+  <Penciller>Dario Brizuela,Doug Rice,Fernando Pinto,Kieron Dwyer,Mike Manley,Rick Remender,Sean Wang</Penciller>
+  <Publisher>IDW</Publisher>
+  <Series>Tales of the Teenage Mutant Ninja Turtles</Series>
+  <Summary>Volume 6 collects issues #13–16 of Tales of the Teenage Mutant Ninja Turtles Volume Two, including the stories "Loops," "Hell's Blacktop," and "Sins of the Past," as well as back-up stories.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-15 09:03:14.  [CVDB469882]
+
+https://comicvine.gamespot.com/tales-of-the-teenage-mutant-ninja-turtles-6-volume/4000-469882/</Summary>
+  <Tags>Donatello,Michelangelo,Raphael,Leonardo,Master Splinter,Teenage Mutant Ninja Turtles</Tags>
+  <Teams>Teenage Mutant Ninja Turtles</Teams>
+  <Title>Volume 6</Title>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/tales-of-the-teenage-mutant-ninja-turtles-6-volume/4000-469882/</Web>
+  <Writer>Eric Talbot,Jim Lawson,Peter Laird,Rick Remender,Steve Murphy</Writer>
+  <Year>2012</Year>
+  <Count>8</Count>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

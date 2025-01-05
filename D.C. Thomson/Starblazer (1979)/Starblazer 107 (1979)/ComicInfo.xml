@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550721</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:48:16 [Issue ID 4000-550721] urn:comicvine:4000-550721 urn:grandcomicsdatabase:issue/550721
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:58:04. [Issue ID 550721]</Notes>
+  <Number>107</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="729316" Type="FrontCover" />
+    <Page Image="1" ImageSize="503357" />
+    <Page Image="2" ImageSize="571156" />
+    <Page Image="3" ImageSize="669392" />
+    <Page Image="4" ImageSize="686752" />
+    <Page Image="5" ImageSize="697311" />
+    <Page Image="6" ImageSize="715846" />
+    <Page Image="7" ImageSize="671956" />
+    <Page Image="8" ImageSize="721576" />
+    <Page Image="9" ImageSize="683530" />
+    <Page Image="10" ImageSize="673783" />
+    <Page Image="11" ImageSize="634130" />
+    <Page Image="12" ImageSize="702007" />
+    <Page Image="13" ImageSize="664742" />
+    <Page Image="14" ImageSize="719414" />
+    <Page Image="15" ImageSize="674469" />
+    <Page Image="16" ImageSize="684061" />
+    <Page Image="17" ImageSize="718508" />
+    <Page Image="18" ImageSize="705088" />
+    <Page Image="19" ImageSize="719574" />
+    <Page Image="20" ImageSize="751526" />
+    <Page Image="21" ImageSize="694072" />
+    <Page Image="22" ImageSize="648635" />
+    <Page Image="23" ImageSize="729351" />
+    <Page Image="24" ImageSize="686497" />
+    <Page Image="25" ImageSize="633465" />
+    <Page Image="26" ImageSize="618672" />
+    <Page Image="27" ImageSize="603469" />
+    <Page Image="28" ImageSize="597577" />
+    <Page Image="29" ImageSize="629051" />
+    <Page Image="30" ImageSize="701610" />
+    <Page Image="31" ImageSize="633187" />
+    <Page Image="32" ImageSize="580284" />
+    <Page Image="33" ImageSize="579706" />
+    <Page Image="34" ImageSize="669324" />
+    <Page Image="35" ImageSize="337492" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Magnon Marauders</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550721/</Web>
+  <Year>1979</Year>
+</ComicInfo>

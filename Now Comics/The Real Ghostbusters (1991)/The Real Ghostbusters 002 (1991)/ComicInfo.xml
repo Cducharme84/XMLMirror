@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Egon Spengler,Peter Venkman,Ray Stantz,Winston Zeddemore</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-315963</GTIN>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:59:25 [Issue ID 4000-315963] urn:comicvine:4000-315963</Notes>
+	<Number>2</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="355658" Type="FrontCover"/>
+		<Page Image="1" ImageSize="357498"/>
+		<Page Image="2" ImageSize="398604"/>
+		<Page Image="3" ImageSize="381300"/>
+		<Page Image="4" ImageSize="271088"/>
+		<Page Image="5" ImageSize="254889"/>
+		<Page Image="6" ImageSize="232458"/>
+		<Page Image="7" ImageSize="321814"/>
+		<Page Image="8" ImageSize="285809"/>
+		<Page Image="9" ImageSize="336222"/>
+		<Page Image="10" ImageSize="333365"/>
+		<Page Image="11" ImageSize="266329"/>
+		<Page Image="12" ImageSize="338630"/>
+		<Page Image="13" ImageSize="279319"/>
+		<Page Image="14" ImageSize="342950"/>
+		<Page Image="15" ImageSize="318701"/>
+		<Page Image="16" ImageSize="340420"/>
+		<Page Image="17" ImageSize="263055"/>
+		<Page Image="18" ImageSize="320308"/>
+		<Page Image="19" ImageSize="304786"/>
+		<Page Image="20" ImageSize="371763"/>
+		<Page Image="21" ImageSize="335148"/>
+		<Page Image="22" ImageSize="274440"/>
+		<Page Image="23" ImageSize="370850"/>
+		<Page Image="24" ImageSize="306267"/>
+		<Page Image="25" ImageSize="381096"/>
+		<Page Image="26" ImageSize="283252"/>
+	</Pages>
+	<Publisher>Now Comics</Publisher>
+	<Series>The Real Ghostbusters</Series>
+	<Summary>https://comicvine.gamespot.com/the-real-ghostbusters-2/4000-315963/</Summary>
+	<Tags>Egon Spengler,Ghostbusters,Peter Venkman,Ray Stantz,Winston Zeddemore</Tags>
+	<Teams>Ghostbusters</Teams>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/the-real-ghostbusters-2/4000-315963/</Web>
+	<Year>1991</Year>
+</ComicInfo>

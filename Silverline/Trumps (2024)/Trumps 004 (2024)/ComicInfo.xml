@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Colorist>Sid VenBlu</Colorist>
+  <Format>Limited Series</Format>
+  <Genre>Superhero</Genre>
+  <Inker>Thomas Florimonte</Inker>
+  <Letterer>Brian Dale</Letterer>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-08-18T00:15:48</Notes>
+  <Number>4</Number>
+  <Penciller>Thomas Hedglen</Penciller>
+  <Publisher>Silverline</Publisher>
+  <Series>Trumps</Series>
+  <Volume>2024</Volume>
+  <Writer>Roland Mann</Writer>
+  <Year>2024</Year>
+  <Count>4</Count>
+  <Summary>The dramatic conclusion of Trumps brings the exciting grand finale of the war! Though the Diamonds are in disarray thanks to the death of both their king and queen, the King of Clubs has not been able to breach their fortifications and thus decides to launch a final full-scale assault. The Spades' sneak attack on the Hearts doesn't go as expected as the Aces are played. Is it enough to turn the tide of battle? Which kingdom will emerge victorious in the tale entitled "Great King Rat."</Summary>
+  <Month>8</Month>
+  <LanguageISO>en</LanguageISO>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3840" ImageSize="1384024" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3840" ImageSize="2882245" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3840" ImageSize="2180978" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3840" ImageSize="2699384" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3840" ImageSize="3355351" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3840" ImageSize="2457155" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3840" ImageSize="2599356" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3840" ImageSize="2090502" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3840" ImageSize="2639450" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3840" ImageSize="2244614" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3840" ImageSize="3049457" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3840" ImageSize="2640502" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3840" ImageSize="2579422" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3840" ImageSize="3236757" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3840" ImageSize="2673448" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3840" ImageSize="2729610" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3840" ImageSize="2583326" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3840" ImageSize="3082362" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3840" ImageSize="2502941" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3840" ImageSize="3274912" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3840" ImageSize="2490039" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3840" ImageSize="2405513" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3840" ImageSize="2537332" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3840" ImageSize="2546219" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3840" ImageSize="1989935" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3840" ImageSize="2504135" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3840" ImageSize="2257486" ImageWidth="2560" />
+  </Pages>
+</ComicInfo>

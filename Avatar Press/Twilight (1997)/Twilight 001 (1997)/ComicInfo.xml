@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Trance,Twilight</Characters>
+	<Count>2</Count>
+	<Country>US</Country>
+	<Day>31</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-1754235</GTIN>
+	<Inker>David Mowry</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Mark Craig</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:22:11 [Issue ID 4000-1754235] urn:comicvine:4000-1754235 urn:grandcomicsdatabase:issue/1754235</Notes>
+	<Number>1</Number>
+	<PageCount>23</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1166215" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1097660"/>
+		<Page Image="2" ImageSize="1181533"/>
+		<Page Image="3" ImageSize="1234755"/>
+		<Page Image="4" ImageSize="1346572"/>
+		<Page Image="5" ImageSize="1127212"/>
+		<Page Image="6" ImageSize="1210844"/>
+		<Page Image="7" ImageSize="1079073"/>
+		<Page Image="8" ImageSize="1231083"/>
+		<Page Image="9" ImageSize="1149366"/>
+		<Page Image="10" ImageSize="1156881"/>
+		<Page Image="11" ImageSize="1112376"/>
+		<Page Image="12" ImageSize="1138367"/>
+		<Page Image="13" ImageSize="1197845"/>
+		<Page Image="14" ImageSize="1187669"/>
+		<Page Image="15" ImageSize="1294748"/>
+		<Page Image="16" ImageSize="1108627"/>
+		<Page Image="17" ImageSize="1069962"/>
+		<Page Image="18" ImageSize="1136553"/>
+		<Page Image="19" ImageSize="1019657"/>
+		<Page Image="20" ImageSize="1046303"/>
+		<Page Image="21" ImageSize="1180020"/>
+		<Page Image="22" ImageSize="1098604"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Twilight</Series>
+	<Volume>1997</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1754235/</Web>
+	<Year>1997</Year>
+</ComicInfo>

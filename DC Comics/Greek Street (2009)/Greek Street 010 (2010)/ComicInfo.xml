@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Suggested for Mature Readers</AgeRating>
+  <Colorist>Patricia Mulvihill,Trish Mulvihill,Patricia Mulvihill</Colorist>
+  <Count>16</Count>
+  <Editor>Will Dennis</Editor>
+  <GTIN>urn:comicvine:4000-743390</GTIN>
+  <Inker>Davide Gianfelice,Davide Gianfelice</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Clem Robins,Clem Robins</Letterer>
+  <Month>6</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:05:25 [Issue ID 4000-743390] urn:comicvine:4000-743390 urn:grandcomicsdatabase:issue/743390
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 03:48:52. [Issue ID 743390]</Notes>
+  <Number>10</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1892983" Type="FrontCover" />
+    <Page Image="1" ImageSize="756934" />
+    <Page Image="2" ImageSize="728865" />
+    <Page Image="3" ImageSize="597742" />
+    <Page Image="4" ImageSize="614129" />
+    <Page Image="5" ImageSize="544598" />
+    <Page Image="6" ImageSize="753593" />
+    <Page Image="7" ImageSize="776699" />
+    <Page Image="8" ImageSize="770527" />
+    <Page Image="9" ImageSize="719294" />
+    <Page Image="10" ImageSize="658106" />
+    <Page Image="11" ImageSize="825029" />
+    <Page Image="12" ImageSize="738848" />
+    <Page Image="13" ImageSize="574388" />
+    <Page Image="14" ImageSize="734122" />
+    <Page Image="15" ImageSize="664435" />
+    <Page Image="16" ImageSize="667781" />
+    <Page Image="17" ImageSize="782626" />
+    <Page Image="18" ImageSize="688829" />
+    <Page Image="19" ImageSize="537202" />
+    <Page Image="20" ImageSize="807462" />
+    <Page Image="21" ImageSize="956297" />
+    <Page Image="22" ImageSize="521880" />
+    <Page Image="23" ImageSize="697143" />
+    <Page Image="24" ImageSize="203979" />
+  </Pages>
+  <Penciller>Davide Gianfelice,Davide Gianfelice</Penciller>
+  <Publisher>DC Comics</Publisher>
+  <Series>Greek Street</Series>
+  <Summary>On the covers, the title is stylized as GRΣΣK STRΣΣT.</Summary>
+  <Title>Book Two: Cassandra Complex, Part Five: Oracle</Title>
+  <Volume>2009</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-743390/</Web>
+  <Writer>Peter Milligan,Peter Milligan</Writer>
+  <Year>2010</Year>
+</ComicInfo>

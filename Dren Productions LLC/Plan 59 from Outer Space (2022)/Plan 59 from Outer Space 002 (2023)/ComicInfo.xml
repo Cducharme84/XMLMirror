@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Count>3</Count>
+	<Day>26</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-388788</GTIN>
+	<Genre>Comedy,Satire,Science Fiction</Genre>
+	<Imprint>Dren Productions (dp)</Imprint>
+	<LanguageISO>en</LanguageISO>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-26T12:38:25 [Issue ID 4000-388788] urn:comicvine:4000-388788 urn:grandcomicsdatabase:issue/2484018</Notes>
+	<Number>2</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2100" ImageHeight="3150" ImageSize="1023194" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2100" ImageHeight="3150" ImageSize="1125591"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2062" ImageHeight="3131" ImageSize="1980277"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2062" ImageHeight="3131" ImageSize="1601371"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2062" ImageHeight="3131" ImageSize="1458997"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2062" ImageHeight="3131" ImageSize="1792422"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2062" ImageHeight="3131" ImageSize="1903378"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2062" ImageHeight="3131" ImageSize="1819275"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2062" ImageHeight="3131" ImageSize="1585808"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2062" ImageHeight="3131" ImageSize="1890479"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2062" ImageHeight="3131" ImageSize="2043513"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2100" ImageHeight="3150" ImageSize="1676895"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2100" ImageHeight="3150" ImageSize="1699529"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2100" ImageHeight="3150" ImageSize="1727753"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2100" ImageHeight="3150" ImageSize="1478568"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2100" ImageHeight="3150" ImageSize="1984338"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2100" ImageHeight="3150" ImageSize="1851190"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2100" ImageHeight="3150" ImageSize="1899952"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2100" ImageHeight="3150" ImageSize="1668559"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2100" ImageHeight="3150" ImageSize="1701365"/>
+		<Page Image="20" ImageSize="1877283"/>
+	</Pages>
+	<Publisher>Dren Productions LLC</Publisher>
+	<Series>Plan 59 from Outer Space</Series>
+	<Summary>Clever, clever. The aliens have figured out how to turn us into their zombies... using something that already has us zombified.</Summary>
+	<Volume>2022</Volume>
+	<Web>https://comicvine.gamespot.com/plan-9-from-outer-space-2/4000-388788/</Web>
+	<Year>2023</Year>
+</ComicInfo>

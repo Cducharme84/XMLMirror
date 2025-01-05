@@ -1,0 +1,326 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Nailbiter</Characters>
+  <Colorist>Adam Guzowski</Colorist>
+  <Day>14</Day>
+  <GTIN>urn:comicvine:4000-662769</GTIN>
+  <Inker>Adam Markiewicz,Mike Henderson</Inker>
+  <Letterer>John J. Hill</Letterer>
+  <Locations>Oregon,Buckaroo,North America</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:26:50 [Issue ID 4000-662769] urn:comicvine:4000-662769
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-17 21:04:40. [Issue ID 1791883]</Notes>
+  <Number>2</Number>
+  <PageCount>291</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2683138" Type="FrontCover" />
+    <Page Image="1" ImageSize="390968" />
+    <Page Image="2" ImageSize="601480" />
+    <Page Image="3" ImageSize="252580" />
+    <Page Image="4" ImageSize="150479" />
+    <Page Image="5" ImageSize="183516" />
+    <Page Image="6" ImageSize="1104270" />
+    <Page Image="7" ImageSize="1252807" />
+    <Page Image="8" ImageSize="1375629" />
+    <Page Image="9" ImageSize="1055092" />
+    <Page Image="10" ImageSize="1219430" />
+    <Page Image="11" ImageSize="1415013" />
+    <Page Image="12" ImageSize="1187069" />
+    <Page Image="13" ImageSize="1035846" />
+    <Page Image="14" ImageSize="1469816" />
+    <Page Image="15" ImageSize="4518542" />
+    <Page Image="16" ImageSize="1325517" />
+    <Page Image="17" ImageSize="1133541" />
+    <Page Image="18" ImageSize="491073" />
+    <Page Image="19" ImageSize="1454072" />
+    <Page Image="20" ImageSize="655317" />
+    <Page Image="21" ImageSize="1297669" />
+    <Page Image="22" ImageSize="1570238" />
+    <Page Image="23" ImageSize="1505924" />
+    <Page Image="24" ImageSize="1315616" />
+    <Page Image="25" ImageSize="147159" />
+    <Page Image="26" ImageSize="144269" />
+    <Page Image="27" ImageSize="1096878" />
+    <Page Image="28" ImageSize="1384104" />
+    <Page Image="29" ImageSize="1316267" />
+    <Page Image="30" ImageSize="1148212" />
+    <Page Image="31" ImageSize="1359746" />
+    <Page Image="32" ImageSize="1196839" />
+    <Page Image="33" ImageSize="1437052" />
+    <Page Image="34" ImageSize="1010137" />
+    <Page Image="35" ImageSize="1207400" />
+    <Page Image="36" ImageSize="1265787" />
+    <Page Image="37" ImageSize="1263764" />
+    <Page Image="38" ImageSize="1205465" />
+    <Page Image="39" ImageSize="1298900" />
+    <Page Image="40" ImageSize="1110717" />
+    <Page Image="41" ImageSize="1412788" />
+    <Page Image="42" ImageSize="1167618" />
+    <Page Image="43" ImageSize="1400908" />
+    <Page Image="44" ImageSize="1106026" />
+    <Page Image="45" ImageSize="1321378" />
+    <Page Image="46" ImageSize="1364405" />
+    <Page Image="47" ImageSize="171009" />
+    <Page Image="48" ImageSize="153222" />
+    <Page Image="49" ImageSize="1261672" />
+    <Page Image="50" ImageSize="1058280" />
+    <Page Image="51" ImageSize="1222980" />
+    <Page Image="52" ImageSize="1032214" />
+    <Page Image="53" ImageSize="1546307" />
+    <Page Image="54" ImageSize="1348723" />
+    <Page Image="55" ImageSize="1338913" />
+    <Page Image="56" ImageSize="1358049" />
+    <Page Image="57" ImageSize="1590112" />
+    <Page Image="58" ImageSize="1546763" />
+    <Page Image="59" ImageSize="1090310" />
+    <Page Image="60" ImageSize="934332" />
+    <Page Image="61" ImageSize="1057595" />
+    <Page Image="62" ImageSize="987034" />
+    <Page Image="63" ImageSize="1319176" />
+    <Page Image="64" ImageSize="1023834" />
+    <Page Image="65" ImageSize="1306143" />
+    <Page Image="66" ImageSize="1029403" />
+    <Page Image="67" ImageSize="1080277" />
+    <Page Image="68" ImageSize="1089320" />
+    <Page Image="69" ImageSize="196182" />
+    <Page Image="70" ImageSize="145128" />
+    <Page Image="71" ImageSize="1316753" />
+    <Page Image="72" ImageSize="1031823" />
+    <Page Image="73" ImageSize="1477928" />
+    <Page Image="74" ImageSize="1262464" />
+    <Page Image="75" ImageSize="1514608" />
+    <Page Image="76" ImageSize="1390684" />
+    <Page Image="77" ImageSize="1121797" />
+    <Page Image="78" ImageSize="922782" />
+    <Page Image="79" ImageSize="1454413" />
+    <Page Image="80" ImageSize="3925314" />
+    <Page Image="81" ImageSize="1339397" />
+    <Page Image="82" ImageSize="1002078" />
+    <Page Image="83" ImageSize="993515" />
+    <Page Image="84" ImageSize="1064068" />
+    <Page Image="85" ImageSize="1243548" />
+    <Page Image="86" ImageSize="1036749" />
+    <Page Image="87" ImageSize="1015153" />
+    <Page Image="88" ImageSize="1009184" />
+    <Page Image="89" ImageSize="1044384" />
+    <Page Image="90" ImageSize="153053" />
+    <Page Image="91" ImageSize="167557" />
+    <Page Image="92" ImageSize="1452558" />
+    <Page Image="93" ImageSize="986103" />
+    <Page Image="94" ImageSize="1137411" />
+    <Page Image="95" ImageSize="3752764" />
+    <Page Image="96" ImageSize="980631" />
+    <Page Image="97" ImageSize="1254314" />
+    <Page Image="98" ImageSize="1216703" />
+    <Page Image="99" ImageSize="1252513" />
+    <Page Image="100" ImageSize="1246999" />
+    <Page Image="101" ImageSize="1046075" />
+    <Page Image="102" ImageSize="1280147" />
+    <Page Image="103" ImageSize="1004179" />
+    <Page Image="104" ImageSize="1253125" />
+    <Page Image="105" ImageSize="1514229" />
+    <Page Image="106" ImageSize="1236768" />
+    <Page Image="107" ImageSize="1439645" />
+    <Page Image="108" ImageSize="1305362" />
+    <Page Image="109" ImageSize="1288253" />
+    <Page Image="110" ImageSize="2032976" />
+    <Page Image="111" ImageSize="252631" />
+    <Page Image="112" ImageSize="151883" />
+    <Page Image="113" ImageSize="176297" />
+    <Page Image="114" ImageSize="1087395" />
+    <Page Image="115" ImageSize="1383841" />
+    <Page Image="116" ImageSize="1618799" />
+    <Page Image="117" ImageSize="1324448" />
+    <Page Image="118" ImageSize="1118825" />
+    <Page Image="119" ImageSize="1112544" />
+    <Page Image="120" ImageSize="1184633" />
+    <Page Image="121" ImageSize="1176122" />
+    <Page Image="122" ImageSize="1216080" />
+    <Page Image="123" ImageSize="1281919" />
+    <Page Image="124" ImageSize="1136687" />
+    <Page Image="125" ImageSize="1067860" />
+    <Page Image="126" ImageSize="643319" />
+    <Page Image="127" ImageSize="1093072" />
+    <Page Image="128" ImageSize="1212907" />
+    <Page Image="129" ImageSize="984327" />
+    <Page Image="130" ImageSize="1136290" />
+    <Page Image="131" ImageSize="1290953" />
+    <Page Image="132" ImageSize="1235034" />
+    <Page Image="133" ImageSize="1147721" />
+    <Page Image="134" ImageSize="150525" />
+    <Page Image="135" ImageSize="151967" />
+    <Page Image="136" ImageSize="1158004" />
+    <Page Image="137" ImageSize="1457082" />
+    <Page Image="138" ImageSize="1466616" />
+    <Page Image="139" ImageSize="1385950" />
+    <Page Image="140" ImageSize="1460295" />
+    <Page Image="141" ImageSize="1488921" />
+    <Page Image="142" ImageSize="1506691" />
+    <Page Image="143" ImageSize="1411199" />
+    <Page Image="144" ImageSize="1236161" />
+    <Page Image="145" ImageSize="1300015" />
+    <Page Image="146" ImageSize="1466886" />
+    <Page Image="147" ImageSize="851494" />
+    <Page Image="148" ImageSize="1055884" />
+    <Page Image="149" ImageSize="3474068" />
+    <Page Image="150" ImageSize="892029" />
+    <Page Image="151" ImageSize="1362551" />
+    <Page Image="152" ImageSize="1208297" />
+    <Page Image="153" ImageSize="1504943" />
+    <Page Image="154" ImageSize="1182769" />
+    <Page Image="155" ImageSize="171020" />
+    <Page Image="156" ImageSize="133495" />
+    <Page Image="157" ImageSize="1327587" />
+    <Page Image="158" ImageSize="911006" />
+    <Page Image="159" ImageSize="1219024" />
+    <Page Image="160" ImageSize="1135228" />
+    <Page Image="161" ImageSize="1031362" />
+    <Page Image="162" ImageSize="1097251" />
+    <Page Image="163" ImageSize="1298391" />
+    <Page Image="164" ImageSize="1318073" />
+    <Page Image="165" ImageSize="1454959" />
+    <Page Image="166" ImageSize="1433636" />
+    <Page Image="167" ImageSize="1350722" />
+    <Page Image="168" ImageSize="1264734" />
+    <Page Image="169" ImageSize="1367675" />
+    <Page Image="170" ImageSize="1430188" />
+    <Page Image="171" ImageSize="1124557" />
+    <Page Image="172" ImageSize="1102506" />
+    <Page Image="173" ImageSize="1450066" />
+    <Page Image="174" ImageSize="1192602" />
+    <Page Image="175" ImageSize="1317286" />
+    <Page Image="176" ImageSize="1248110" />
+    <Page Image="177" ImageSize="195173" />
+    <Page Image="178" ImageSize="157291" />
+    <Page Image="179" ImageSize="1084870" />
+    <Page Image="180" ImageSize="1144543" />
+    <Page Image="181" ImageSize="1074363" />
+    <Page Image="182" ImageSize="1795244" />
+    <Page Image="183" ImageSize="1972887" />
+    <Page Image="184" ImageSize="1052312" />
+    <Page Image="185" ImageSize="1134561" />
+    <Page Image="186" ImageSize="1146642" />
+    <Page Image="187" ImageSize="1257642" />
+    <Page Image="188" ImageSize="1307725" />
+    <Page Image="189" ImageSize="1027244" />
+    <Page Image="190" ImageSize="1322842" />
+    <Page Image="191" ImageSize="1139999" />
+    <Page Image="192" ImageSize="1200123" />
+    <Page Image="193" ImageSize="1457645" />
+    <Page Image="194" ImageSize="1349396" />
+    <Page Image="195" ImageSize="1151992" />
+    <Page Image="196" ImageSize="1695949" />
+    <Page Image="197" ImageSize="1249645" />
+    <Page Image="198" ImageSize="1295039" />
+    <Page Image="199" ImageSize="162830" />
+    <Page Image="200" ImageSize="145348" />
+    <Page Image="201" ImageSize="1475109" />
+    <Page Image="202" ImageSize="1310831" />
+    <Page Image="203" ImageSize="1343042" />
+    <Page Image="204" ImageSize="1283670" />
+    <Page Image="205" ImageSize="1246749" />
+    <Page Image="206" ImageSize="1356335" />
+    <Page Image="207" ImageSize="1213540" />
+    <Page Image="208" ImageSize="1294161" />
+    <Page Image="209" ImageSize="1073913" />
+    <Page Image="210" ImageSize="1168658" />
+    <Page Image="211" ImageSize="1446144" />
+    <Page Image="212" ImageSize="975348" />
+    <Page Image="213" ImageSize="1321210" />
+    <Page Image="214" ImageSize="1048400" />
+    <Page Image="215" ImageSize="1165774" />
+    <Page Image="216" ImageSize="1392398" />
+    <Page Image="217" ImageSize="1328862" />
+    <Page Image="218" ImageSize="1590708" />
+    <Page Image="219" ImageSize="1654595" />
+    <Page Image="220" ImageSize="4743729" />
+    <Page Image="221" ImageSize="882231" />
+    <Page Image="222" ImageSize="1069961" />
+    <Page Image="223" ImageSize="251854" />
+    <Page Image="224" ImageSize="313731" />
+    <Page Image="225" ImageSize="1193303" />
+    <Page Image="226" ImageSize="1191506" />
+    <Page Image="227" ImageSize="2120642" />
+    <Page Image="228" ImageSize="2777685" />
+    <Page Image="229" ImageSize="1201832" />
+    <Page Image="230" ImageSize="2359800" />
+    <Page Image="231" ImageSize="1587971" />
+    <Page Image="232" ImageSize="966002" />
+    <Page Image="233" ImageSize="1090071" />
+    <Page Image="234" ImageSize="813125" />
+    <Page Image="235" ImageSize="1731800" />
+    <Page Image="236" ImageSize="1417241" />
+    <Page Image="237" ImageSize="1275066" />
+    <Page Image="238" ImageSize="1835038" />
+    <Page Image="239" ImageSize="919613" />
+    <Page Image="240" ImageSize="1350669" />
+    <Page Image="241" ImageSize="451478" />
+    <Page Image="242" ImageSize="559534" />
+    <Page Image="243" ImageSize="494536" />
+    <Page Image="244" ImageSize="644052" />
+    <Page Image="245" ImageSize="565519" />
+    <Page Image="246" ImageSize="517873" />
+    <Page Image="247" ImageSize="512001" />
+    <Page Image="248" ImageSize="540141" />
+    <Page Image="249" ImageSize="347094" />
+    <Page Image="250" ImageSize="426640" />
+    <Page Image="251" ImageSize="558205" />
+    <Page Image="252" ImageSize="524499" />
+    <Page Image="253" ImageSize="495319" />
+    <Page Image="254" ImageSize="547688" />
+    <Page Image="255" ImageSize="674652" />
+    <Page Image="256" ImageSize="695126" />
+    <Page Image="257" ImageSize="3603465" />
+    <Page Image="258" ImageSize="4444897" />
+    <Page Image="259" ImageSize="4578570" />
+    <Page Image="260" ImageSize="981180" />
+    <Page Image="261" ImageSize="950489" />
+    <Page Image="262" ImageSize="1157732" />
+    <Page Image="263" ImageSize="1088049" />
+    <Page Image="264" ImageSize="1194290" />
+    <Page Image="265" ImageSize="1169024" />
+    <Page Image="266" ImageSize="1275039" />
+    <Page Image="267" ImageSize="1297998" />
+    <Page Image="268" ImageSize="775483" />
+    <Page Image="269" ImageSize="701442" />
+    <Page Image="270" ImageSize="1082788" />
+    <Page Image="271" ImageSize="1219425" />
+    <Page Image="272" ImageSize="1126311" />
+    <Page Image="273" ImageSize="1204301" />
+    <Page Image="274" ImageSize="1250967" />
+    <Page Image="275" ImageSize="1320587" />
+    <Page Image="276" ImageSize="640120" />
+    <Page Image="277" ImageSize="554740" />
+    <Page Image="278" ImageSize="2153061" />
+    <Page Image="279" ImageSize="2495047" />
+    <Page Image="280" ImageSize="3452231" />
+    <Page Image="281" ImageSize="824040" />
+    <Page Image="282" ImageSize="483122" />
+    <Page Image="283" ImageSize="5397517" />
+    <Page Image="284" ImageSize="728110" />
+    <Page Image="285" ImageSize="725239" />
+    <Page Image="286" ImageSize="436629" />
+    <Page Image="287" ImageSize="1294628" />
+    <Page Image="288" ImageSize="371506" />
+    <Page Image="289" ImageSize="1432173" />
+    <Page Image="290" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Adam Markiewicz,Mike Henderson</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Nailbiter: The Murder Edition</Series>
+  <Summary>Sixteen of the world's most notorious serial killers were all born and raised in Buckaroo, Oregon. What is happening in this small town that has created so many serial killers? The worst and most infamous being Edward Charles Warren...the Nailbiter!
+
+JOSHUA WILLIAMSON and MIKE HENDERSON deliver a mystery that mixes Twin Peaks with the horror of Se7en!
+
+Collects NAILBITER #11-20, plus never-before-collected bonus features including sketches, a process section, the original pitch, and script pages.</Summary>
+  <Tags>Nailbiter,North America,Buckaroo Butchers,Oregon,Buckaroo</Tags>
+  <Teams>Buckaroo Butchers</Teams>
+  <Title>Vol. 2</Title>
+  <Volume>2016</Volume>
+  <Web>https://comicvine.gamespot.com/nailbiter-the-murder-edition-2-vol-2/4000-662769/</Web>
+  <Writer>Joshua Williamson</Writer>
+  <Year>2018</Year>
+  <Count>3</Count>
+  <CoverArtist>Mike Henderson</CoverArtist>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+<Genre>Horror</Genre></ComicInfo>

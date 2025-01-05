@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Egon Spengler,Peter Venkman,Ray Stantz,Winston Zeddemore</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-449963</GTIN>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:59:24 [Issue ID 4000-449963] urn:comicvine:4000-449963</Notes>
+	<Number>4</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="487952" Type="FrontCover"/>
+		<Page Image="1" ImageSize="420679"/>
+		<Page Image="2" ImageSize="398712"/>
+		<Page Image="3" ImageSize="390758"/>
+		<Page Image="4" ImageSize="281392"/>
+		<Page Image="5" ImageSize="261619"/>
+		<Page Image="6" ImageSize="318689"/>
+		<Page Image="7" ImageSize="331628"/>
+		<Page Image="8" ImageSize="375400"/>
+		<Page Image="9" ImageSize="369924"/>
+		<Page Image="10" ImageSize="348122"/>
+		<Page Image="11" ImageSize="308877"/>
+		<Page Image="12" ImageSize="333056"/>
+		<Page Image="13" ImageSize="286303"/>
+		<Page Image="14" ImageSize="389017"/>
+		<Page Image="15" ImageSize="360208"/>
+		<Page Image="16" ImageSize="213953"/>
+		<Page Image="17" ImageSize="421103"/>
+		<Page Image="18" ImageSize="365601"/>
+		<Page Image="19" ImageSize="449124"/>
+		<Page Image="20" ImageSize="326399"/>
+		<Page Image="21" ImageSize="369844"/>
+		<Page Image="22" ImageSize="388293"/>
+		<Page Image="23" ImageSize="377591"/>
+		<Page Image="24" ImageSize="416097"/>
+	</Pages>
+	<Publisher>Now Comics</Publisher>
+	<Series>The Real Ghostbusters</Series>
+	<Summary>https://comicvine.gamespot.com/the-real-ghostbusters-4/4000-449963/</Summary>
+	<Tags>Egon Spengler,Ghostbusters,Peter Venkman,Ray Stantz,Winston Zeddemore</Tags>
+	<Teams>Ghostbusters</Teams>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/the-real-ghostbusters-4/4000-449963/</Web>
+	<Year>1992</Year>
+</ComicInfo>

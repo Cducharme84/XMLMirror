@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550713</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:38 [Issue ID 4000-550713] urn:comicvine:4000-550713 urn:grandcomicsdatabase:issue/550713
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:51:26. [Issue ID 550713]</Notes>
+  <Number>99</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="606036" Type="FrontCover" />
+    <Page Image="1" ImageSize="416994" />
+    <Page Image="2" ImageSize="512646" />
+    <Page Image="3" ImageSize="709309" />
+    <Page Image="4" ImageSize="668549" />
+    <Page Image="5" ImageSize="688985" />
+    <Page Image="6" ImageSize="663506" />
+    <Page Image="7" ImageSize="653356" />
+    <Page Image="8" ImageSize="660549" />
+    <Page Image="9" ImageSize="675989" />
+    <Page Image="10" ImageSize="635705" />
+    <Page Image="11" ImageSize="657035" />
+    <Page Image="12" ImageSize="595904" />
+    <Page Image="13" ImageSize="632229" />
+    <Page Image="14" ImageSize="612776" />
+    <Page Image="15" ImageSize="595141" />
+    <Page Image="16" ImageSize="617783" />
+    <Page Image="17" ImageSize="591154" />
+    <Page Image="18" ImageSize="632188" />
+    <Page Image="19" ImageSize="638316" />
+    <Page Image="20" ImageSize="604632" />
+    <Page Image="21" ImageSize="673154" />
+    <Page Image="22" ImageSize="628393" />
+    <Page Image="23" ImageSize="648714" />
+    <Page Image="24" ImageSize="634230" />
+    <Page Image="25" ImageSize="607904" />
+    <Page Image="26" ImageSize="606840" />
+    <Page Image="27" ImageSize="630220" />
+    <Page Image="28" ImageSize="655884" />
+    <Page Image="29" ImageSize="606127" />
+    <Page Image="30" ImageSize="617822" />
+    <Page Image="31" ImageSize="666311" />
+    <Page Image="32" ImageSize="654107" />
+    <Page Image="33" ImageSize="624972" />
+    <Page Image="34" ImageSize="540720" />
+    <Page Image="35" ImageSize="257885" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Floating Cities of Nexios</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550713/</Web>
+  <Year>1979</Year>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Count>5</Count>
+	<CoverArtist>Patrick Blaine</CoverArtist>
+	<Day>28</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-738875</GTIN>
+	<Genre>Action</Genre>
+	<Inker>Patrick Blaine</Inker>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-26T13:59:49 [Issue ID 4000-738875] urn:comicvine:4000-738875</Notes>
+	<Number>2</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3886" ImageSize="1795220" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3886" ImageSize="1409000"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3886" ImageSize="2568553"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3886" ImageSize="2057254"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3886" ImageSize="2201815"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3886" ImageSize="2140991"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3886" ImageSize="2866529"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3886" ImageSize="2366679"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3886" ImageSize="2518182"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3886" ImageSize="2651251"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3886" ImageSize="2455636"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3886" ImageSize="2340035"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3886" ImageSize="1820888"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3886" ImageSize="2256109"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3886" ImageSize="2105160"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3886" ImageSize="2324427"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3886" ImageSize="2394843"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3886" ImageSize="2254924"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3886" ImageSize="2542579"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3886" ImageSize="2038259"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3886" ImageSize="2480057"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3886" ImageSize="2169091"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3886" ImageSize="1424226"/>
+		<Page Image="23" ImageSize="731717"/>
+	</Pages>
+	<Penciller>Patrick Blaine</Penciller>
+	<Publisher>Blackbox Comics</Publisher>
+	<Series>Project Icarus</Series>
+	<Summary>With nowhere to turn for help, Max solicits a hacker, a woman he locked up years ago. Will she be able to help him?</Summary>
+	<Volume>2020</Volume>
+	<Web>https://comicvine.gamespot.com/project-icarus-2/4000-738875/</Web>
+	<Writer>Andy Owens</Writer>
+	<Year>2020</Year>
+</ComicInfo>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Evan Adonis</Characters>
+	<Count>5</Count>
+	<CoverArtist>Heubert Khan Michael</CoverArtist>
+	<Day>31</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-656775</GTIN>
+	<Genre>Crime</Genre>
+	<Inker>Heubert Khan Michael</Inker>
+	<Letterer>Taylor Esposito</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-26T13:50:53 [Issue ID 4000-656775] urn:comicvine:4000-656775</Notes>
+	<Number>4</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3937" ImageSize="2531694" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3937" ImageSize="2094621"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3937" ImageSize="2489440"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3937" ImageSize="1938826"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3937" ImageSize="2463086"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3937" ImageSize="2336179"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3937" ImageSize="2435826"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3937" ImageSize="1979086"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3937" ImageSize="2157449"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3937" ImageSize="2214743"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3937" ImageSize="2341000"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3937" ImageSize="2351210"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3937" ImageSize="2369312"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3937" ImageSize="1794398"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3937" ImageSize="1813327"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3937" ImageSize="1916681"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3937" ImageSize="2669278"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3937" ImageSize="2257605"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3937" ImageSize="2594342"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3937" ImageSize="2338636"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3937" ImageSize="2410649"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3937" ImageSize="2023146"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3937" ImageSize="1607295"/>
+		<Page Image="23" ImageSize="1824723"/>
+	</Pages>
+	<Penciller>Heubert Khan Michael</Penciller>
+	<Publisher>Blackbox Comics</Publisher>
+	<Series>I.T.: The Secret World of Modern Banking 2</Series>
+	<Summary>Bank Information Technology expert Evan Adonis is relentlessly driven to the breaking point by corrupt senior bank management. They are absolutely determined to recruit Adonis, or crush him. In the internally corrupt world of modern banking, the IT expert is both the most powerful asset and the most hunted liability.</Summary>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/it-the-secret-world-of-modern-banking-2-4/4000-656775/</Web>
+	<Writer>Scott McDaniel</Writer>
+	<Year>2018</Year>
+</ComicInfo>

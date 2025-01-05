@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Ben</Characters>
+	<Colorist>Josan Gonzalez</Colorist>
+	<Day>30</Day>
+	<Editor>Eric Harburn,Jasmine Amiri</Editor>
+	<GTIN>urn:comicvine:4000-469544</GTIN>
+	<Inker>Michael Dialynas</Inker>
+	<Letterer>Ed Dukeshire</Letterer>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:49:49 [Issue ID 4000-469544] urn:comicvine:4000-469544</Notes>
+	<Number>7</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1738870" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1084425"/>
+		<Page Image="2" ImageSize="1602008"/>
+		<Page Image="3" ImageSize="1569703"/>
+		<Page Image="4" ImageSize="1549519"/>
+		<Page Image="5" ImageSize="1407923"/>
+		<Page Image="6" ImageSize="2079855"/>
+		<Page Image="7" ImageSize="1814176"/>
+		<Page Image="8" ImageSize="1979805"/>
+		<Page Image="9" ImageSize="4578193"/>
+		<Page Image="10" ImageSize="1855166"/>
+		<Page Image="11" ImageSize="2290328"/>
+		<Page Image="12" ImageSize="1561649"/>
+		<Page Image="13" ImageSize="1345121"/>
+		<Page Image="14" ImageSize="1680547"/>
+		<Page Image="15" ImageSize="2119282"/>
+		<Page Image="16" ImageSize="1846882"/>
+		<Page Image="17" ImageSize="2063336"/>
+		<Page Image="18" ImageSize="1121743"/>
+		<Page Image="19" ImageSize="1160981"/>
+		<Page Image="20" ImageSize="1302562"/>
+		<Page Image="21" ImageSize="1849525"/>
+		<Page Image="22" ImageSize="2275810"/>
+		<Page Image="23" ImageSize="1724069"/>
+		<Page Image="24" ImageSize="2130083"/>
+		<Page Image="25" ImageSize="1746161"/>
+		<Page Image="26" ImageSize="1837305"/>
+		<Page Image="27" ImageSize="1478509"/>
+	</Pages>
+	<Penciller>Michael Dialynas</Penciller>
+	<Publisher>Boom! Studios</Publisher>
+	<Series>The Woods</Series>
+	<Summary>The swarm has finally arrived, and it’s going to take the combined efforts of both the kids and the mysterious hunters to survive the onslaught. Meanwhile, we take a look at Ben on the night of the play one year ago, and his struggles to both be himself and be happy.
+
+https://comicvine.gamespot.com/the-woods-7/4000-469544/</Summary>
+	<Tags>Ben</Tags>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/the-woods-7/4000-469544/</Web>
+	<Writer>James Tynion IV</Writer>
+	<Year>2014</Year>
+</ComicInfo>

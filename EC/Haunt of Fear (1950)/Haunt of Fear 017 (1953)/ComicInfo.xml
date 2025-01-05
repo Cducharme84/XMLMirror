@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>The Crypt-Keeper,The Old Witch,The Vault-Keeper</Characters>
+	<Colorist>Marie Severin</Colorist>
+	<Count>28</Count>
+	<Day>1</Day>
+	<Editor>Al Feldstein</Editor>
+	<GTIN>urn:comicvine:4000-203</GTIN>
+	<Inker>George Evans,Graham Ingels,Jack Davis,Jack Kamen</Inker>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:43:25 [Issue ID 4000-203] urn:comicvine:4000-203</Notes>
+	<Number>17</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="414301" Type="FrontCover"/>
+		<Page Image="1" ImageSize="358710"/>
+		<Page Image="2" ImageSize="286188"/>
+		<Page Image="3" ImageSize="244829"/>
+		<Page Image="4" ImageSize="366555"/>
+		<Page Image="5" ImageSize="326454"/>
+		<Page Image="6" ImageSize="319148"/>
+		<Page Image="7" ImageSize="356786"/>
+		<Page Image="8" ImageSize="283216"/>
+		<Page Image="9" ImageSize="333894"/>
+		<Page Image="10" ImageSize="353367"/>
+		<Page Image="11" ImageSize="338741"/>
+		<Page Image="12" ImageSize="259432"/>
+		<Page Image="13" ImageSize="240987"/>
+		<Page Image="14" ImageSize="222683"/>
+		<Page Image="15" ImageSize="358880"/>
+		<Page Image="16" ImageSize="212445"/>
+		<Page Image="17" ImageSize="358802"/>
+		<Page Image="18" ImageSize="294248"/>
+		<Page Image="19" ImageSize="270873"/>
+		<Page Image="20" ImageSize="308238"/>
+		<Page Image="21" ImageSize="318011"/>
+		<Page Image="22" ImageSize="332736"/>
+		<Page Image="23" ImageSize="308286"/>
+		<Page Image="24" ImageSize="298398"/>
+		<Page Image="25" ImageSize="235457"/>
+		<Page Image="26" ImageSize="377781"/>
+		<Page Image="27" ImageSize="362703"/>
+		<Page Image="28" ImageSize="361948"/>
+	</Pages>
+	<Penciller>George Evans,Graham Ingels,Jack Davis,Jack Kamen</Penciller>
+	<Publisher>EC</Publisher>
+	<ScanInformation>(1)</ScanInformation>
+	<Series>Haunt of Fear</Series>
+	<Summary>Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-11-17 16:20:43.  [Issue ID 203]
+
+https://comicvine.gamespot.com/haunt-of-fear-17/4000-203/</Summary>
+	<Tags>The Crypt-Keeper,The Old Witch,The Vault-Keeper,Zombies</Tags>
+	<Teams>Zombies</Teams>
+	<Volume>1950</Volume>
+	<Web>https://comicvine.gamespot.com/haunt-of-fear-17/4000-203/</Web>
+	<Writer>Al Feldstein</Writer>
+	<Year>1953</Year>
+</ComicInfo>

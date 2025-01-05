@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550647</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:46:37 [Issue ID 4000-550647] urn:comicvine:4000-550647 urn:grandcomicsdatabase:issue/550647
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:53:52. [Issue ID 550647]</Notes>
+  <Number>33</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="430164" Type="FrontCover" />
+    <Page Image="1" ImageSize="332819" />
+    <Page Image="2" ImageSize="625418" />
+    <Page Image="3" ImageSize="527995" />
+    <Page Image="4" ImageSize="565997" />
+    <Page Image="5" ImageSize="534742" />
+    <Page Image="6" ImageSize="598712" />
+    <Page Image="7" ImageSize="603000" />
+    <Page Image="8" ImageSize="553001" />
+    <Page Image="9" ImageSize="563546" />
+    <Page Image="10" ImageSize="642725" />
+    <Page Image="11" ImageSize="569665" />
+    <Page Image="12" ImageSize="622726" />
+    <Page Image="13" ImageSize="616974" />
+    <Page Image="14" ImageSize="610943" />
+    <Page Image="15" ImageSize="487492" />
+    <Page Image="16" ImageSize="539773" />
+    <Page Image="17" ImageSize="580935" />
+    <Page Image="18" ImageSize="530882" />
+    <Page Image="19" ImageSize="517070" />
+    <Page Image="20" ImageSize="508938" />
+    <Page Image="21" ImageSize="511514" />
+    <Page Image="22" ImageSize="587331" />
+    <Page Image="23" ImageSize="519885" />
+    <Page Image="24" ImageSize="578910" />
+    <Page Image="25" ImageSize="469237" />
+    <Page Image="26" ImageSize="507044" />
+    <Page Image="27" ImageSize="568149" />
+    <Page Image="28" ImageSize="520823" />
+    <Page Image="29" ImageSize="583224" />
+    <Page Image="30" ImageSize="477468" />
+    <Page Image="31" ImageSize="539571" />
+    <Page Image="32" ImageSize="619398" />
+    <Page Image="33" ImageSize="525682" />
+    <Page Image="34" ImageSize="550119" />
+    <Page Image="35" ImageSize="342694" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>The Lost Planet</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550647/</Web>
+  <Year>1980</Year>
+</ComicInfo>

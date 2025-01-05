@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Count>4</Count>
+	<Format>Limited Series</Format>
+	<Genre>Action,Science Fiction</Genre>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-03T15:15:18</Notes>
+	<Number>4</Number>
+	<PageCount>101</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1988" ImageHeight="3072" ImageSize="1563002" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1988" ImageHeight="3075" ImageSize="298097"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1988" ImageHeight="3075" ImageSize="646591"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1988" ImageHeight="3075" ImageSize="405369"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1988" ImageHeight="3075" ImageSize="568222"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1988" ImageHeight="3075" ImageSize="484208"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1988" ImageHeight="3075" ImageSize="801535"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1988" ImageHeight="3075" ImageSize="747778"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1988" ImageHeight="3075" ImageSize="734649"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1988" ImageHeight="3075" ImageSize="684673"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1988" ImageHeight="3075" ImageSize="372359"/>
+		<Page DoublePage="True" Image="11" ImageWidth="3976" ImageHeight="3072" ImageSize="690255"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1988" ImageHeight="3075" ImageSize="728695"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1988" ImageHeight="3075" ImageSize="528060"/>
+		<Page DoublePage="True" Image="14" ImageWidth="3976" ImageHeight="3072" ImageSize="1667535"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1988" ImageHeight="3075" ImageSize="1034309"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1988" ImageHeight="3075" ImageSize="936093"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1988" ImageHeight="3075" ImageSize="583785"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1988" ImageHeight="3075" ImageSize="1364650"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1988" ImageHeight="3075" ImageSize="905702"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1988" ImageHeight="3075" ImageSize="1015951"/>
+		<Page DoublePage="True" Image="21" ImageWidth="3976" ImageHeight="3072" ImageSize="2002545"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1988" ImageHeight="3075" ImageSize="980837"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1988" ImageHeight="3075" ImageSize="966914"/>
+		<Page DoublePage="False" Image="24" ImageWidth="1988" ImageHeight="3075" ImageSize="910571"/>
+		<Page DoublePage="False" Image="25" ImageWidth="1988" ImageHeight="3075" ImageSize="1004798"/>
+		<Page DoublePage="False" Image="26" ImageWidth="1988" ImageHeight="3075" ImageSize="980598"/>
+		<Page DoublePage="False" Image="27" ImageWidth="1988" ImageHeight="3075" ImageSize="592502"/>
+		<Page DoublePage="False" Image="28" ImageWidth="1988" ImageHeight="3075" ImageSize="938099"/>
+		<Page DoublePage="False" Image="29" ImageWidth="1988" ImageHeight="3075" ImageSize="706692"/>
+		<Page DoublePage="False" Image="30" ImageWidth="1988" ImageHeight="3075" ImageSize="952460"/>
+		<Page DoublePage="False" Image="31" ImageWidth="1988" ImageHeight="3075" ImageSize="1230720"/>
+		<Page DoublePage="False" Image="32" ImageWidth="1988" ImageHeight="3075" ImageSize="893475"/>
+		<Page DoublePage="False" Image="33" ImageWidth="1988" ImageHeight="3075" ImageSize="1248347"/>
+		<Page DoublePage="False" Image="34" ImageWidth="1988" ImageHeight="3075" ImageSize="1412056"/>
+		<Page DoublePage="False" Image="35" ImageWidth="1988" ImageHeight="3075" ImageSize="1214795"/>
+		<Page DoublePage="False" Image="36" ImageWidth="1988" ImageHeight="3075" ImageSize="811233"/>
+		<Page DoublePage="False" Image="37" ImageWidth="1988" ImageHeight="3075" ImageSize="733885"/>
+		<Page DoublePage="False" Image="38" ImageWidth="1988" ImageHeight="3075" ImageSize="1120410"/>
+		<Page DoublePage="False" Image="39" ImageWidth="1988" ImageHeight="3075" ImageSize="1037208"/>
+		<Page DoublePage="False" Image="40" ImageWidth="1988" ImageHeight="3075" ImageSize="1121560"/>
+		<Page DoublePage="False" Image="41" ImageWidth="1988" ImageHeight="3075" ImageSize="936549"/>
+		<Page DoublePage="True" Image="42" ImageWidth="3976" ImageHeight="3072" ImageSize="1517908"/>
+		<Page DoublePage="False" Image="43" ImageWidth="1988" ImageHeight="3075" ImageSize="900421"/>
+		<Page DoublePage="False" Image="44" ImageWidth="1988" ImageHeight="3075" ImageSize="888015"/>
+		<Page DoublePage="False" Image="45" ImageWidth="1988" ImageHeight="3075" ImageSize="958072"/>
+		<Page DoublePage="False" Image="46" ImageWidth="1988" ImageHeight="3075" ImageSize="917233"/>
+		<Page DoublePage="False" Image="47" ImageWidth="1988" ImageHeight="3075" ImageSize="1195782"/>
+		<Page DoublePage="False" Image="48" ImageWidth="1988" ImageHeight="3075" ImageSize="1069495"/>
+		<Page DoublePage="False" Image="49" ImageWidth="1988" ImageHeight="3075" ImageSize="1109297"/>
+		<Page DoublePage="False" Image="50" ImageWidth="1988" ImageHeight="3075" ImageSize="1010536"/>
+		<Page DoublePage="False" Image="51" ImageWidth="1988" ImageHeight="3075" ImageSize="1112510"/>
+		<Page DoublePage="False" Image="52" ImageWidth="1988" ImageHeight="3075" ImageSize="1060572"/>
+		<Page DoublePage="False" Image="53" ImageWidth="1988" ImageHeight="3075" ImageSize="1077450"/>
+		<Page DoublePage="True" Image="54" ImageWidth="3072" ImageHeight="2374" ImageSize="1317020"/>
+		<Page DoublePage="True" Image="55" ImageWidth="3976" ImageHeight="3072" ImageSize="1932642"/>
+		<Page DoublePage="True" Image="56" ImageWidth="3976" ImageHeight="3072" ImageSize="3632850"/>
+		<Page DoublePage="True" Image="57" ImageWidth="3976" ImageHeight="3072" ImageSize="1617136"/>
+		<Page DoublePage="False" Image="58" ImageWidth="1988" ImageHeight="3075" ImageSize="945148"/>
+		<Page DoublePage="False" Image="59" ImageWidth="1988" ImageHeight="3075" ImageSize="1164420"/>
+		<Page DoublePage="False" Image="60" ImageWidth="1988" ImageHeight="3075" ImageSize="867623"/>
+		<Page DoublePage="False" Image="61" ImageWidth="1988" ImageHeight="3075" ImageSize="1185149"/>
+		<Page DoublePage="True" Image="62" ImageWidth="3976" ImageHeight="3072" ImageSize="1882429"/>
+		<Page DoublePage="True" Image="63" ImageWidth="3976" ImageHeight="3072" ImageSize="1850090"/>
+		<Page DoublePage="False" Image="64" ImageWidth="1988" ImageHeight="3075" ImageSize="1100781"/>
+		<Page DoublePage="False" Image="65" ImageWidth="1988" ImageHeight="3075" ImageSize="958536"/>
+		<Page DoublePage="False" Image="66" ImageWidth="1988" ImageHeight="3075" ImageSize="935496"/>
+		<Page DoublePage="False" Image="67" ImageWidth="1988" ImageHeight="3075" ImageSize="1161771"/>
+		<Page DoublePage="False" Image="68" ImageWidth="1988" ImageHeight="3075" ImageSize="906508"/>
+		<Page DoublePage="False" Image="69" ImageWidth="1988" ImageHeight="3075" ImageSize="1086178"/>
+		<Page DoublePage="False" Image="70" ImageWidth="1988" ImageHeight="3075" ImageSize="1023932"/>
+		<Page DoublePage="False" Image="71" ImageWidth="1988" ImageHeight="3075" ImageSize="782251"/>
+		<Page DoublePage="False" Image="72" ImageWidth="1988" ImageHeight="3075" ImageSize="572647"/>
+		<Page DoublePage="False" Image="73" ImageWidth="1988" ImageHeight="3075" ImageSize="637167"/>
+		<Page DoublePage="False" Image="74" ImageWidth="1988" ImageHeight="3075" ImageSize="964119"/>
+		<Page DoublePage="False" Image="75" ImageWidth="1988" ImageHeight="3075" ImageSize="1719789"/>
+		<Page DoublePage="False" Image="76" ImageWidth="1988" ImageHeight="3075" ImageSize="1588278"/>
+		<Page DoublePage="False" Image="77" ImageWidth="1988" ImageHeight="3075" ImageSize="1625322"/>
+		<Page DoublePage="True" Image="78" ImageWidth="3976" ImageHeight="3072" ImageSize="3082844"/>
+		<Page DoublePage="False" Image="79" ImageWidth="1988" ImageHeight="3075" ImageSize="1693111"/>
+		<Page DoublePage="False" Image="80" ImageWidth="1988" ImageHeight="3075" ImageSize="1070147"/>
+		<Page DoublePage="False" Image="81" ImageWidth="1988" ImageHeight="3075" ImageSize="953717"/>
+		<Page DoublePage="False" Image="82" ImageWidth="1988" ImageHeight="3075" ImageSize="888316"/>
+		<Page DoublePage="False" Image="83" ImageWidth="1988" ImageHeight="3075" ImageSize="655732"/>
+		<Page DoublePage="False" Image="84" ImageWidth="1988" ImageHeight="3075" ImageSize="1125359"/>
+		<Page DoublePage="True" Image="85" ImageWidth="3976" ImageHeight="3072" ImageSize="1703240"/>
+		<Page DoublePage="True" Image="86" ImageWidth="3976" ImageHeight="3072" ImageSize="1782575"/>
+		<Page DoublePage="True" Image="87" ImageWidth="3976" ImageHeight="3072" ImageSize="2626580"/>
+		<Page DoublePage="False" Image="88" ImageWidth="1988" ImageHeight="3075" ImageSize="1115236"/>
+		<Page DoublePage="False" Image="89" ImageWidth="1988" ImageHeight="3075" ImageSize="968491"/>
+		<Page DoublePage="False" Image="90" ImageWidth="1988" ImageHeight="3075" ImageSize="1087792"/>
+		<Page DoublePage="False" Image="91" ImageWidth="1988" ImageHeight="3075" ImageSize="862626"/>
+		<Page DoublePage="False" Image="92" ImageWidth="1988" ImageHeight="3075" ImageSize="609533"/>
+		<Page DoublePage="False" Image="93" ImageWidth="1988" ImageHeight="3075" ImageSize="950405"/>
+		<Page DoublePage="False" Image="94" ImageWidth="1988" ImageHeight="3075" ImageSize="989876"/>
+		<Page DoublePage="False" Image="95" ImageWidth="1988" ImageHeight="3075" ImageSize="152652"/>
+		<Page DoublePage="False" Image="96" ImageWidth="1988" ImageHeight="3075" ImageSize="1814473"/>
+		<Page DoublePage="False" Image="97" ImageWidth="1988" ImageHeight="3075" ImageSize="1778744"/>
+		<Page DoublePage="False" Image="98" ImageWidth="1988" ImageHeight="3075" ImageSize="591191"/>
+		<Page DoublePage="False" Image="99" ImageWidth="1988" ImageHeight="2859" ImageSize="1250484"/>
+		<Page Image="100" ImageSize="2310850"/>
+	</Pages>
+	<Publisher>Crazy Pencil Comics</Publisher>
+	<Series>Black Project</Series>
+	<Summary>Attacked, chased, and captured, Jack is now a "resident" of the NEXUS. Jack’s new ‘friend’ is teaching him a new way to communicate &amp; acquire knowledge that might help him discover more about who, and what, he is. Amon, Director of Nexus, now must meet in person with the two other remaining directors, Livia and Ori, revealing his history, and intentions, with this once forgotten Black Project.</Summary>
+	<Title>Synthetic Nexus</Title>
+	<Volume>2017</Volume>
+	<Year>2021</Year>
+</ComicInfo>

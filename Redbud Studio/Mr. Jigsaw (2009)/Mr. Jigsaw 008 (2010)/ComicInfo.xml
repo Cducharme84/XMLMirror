@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Mr. Jigsaw</Characters>
+	<Count>9</Count>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-272189</GTIN>
+	<Genre>Superhero</Genre>
+	<Imprint>Redbud Studios</Imprint>
+	<Inker>Gary Kato</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-19T21:25:20 [Issue ID 4000-272189] urn:comicvine:4000-272189 urn:grandcomicsdatabase:issue/840048</Notes>
+	<Number>8</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2010" ImageHeight="3075" ImageSize="4081597" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2010" ImageHeight="3075" ImageSize="680521"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2010" ImageHeight="3075" ImageSize="3502324"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2010" ImageHeight="3075" ImageSize="3532914"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2010" ImageHeight="3075" ImageSize="3995420"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2010" ImageHeight="3075" ImageSize="3475715"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2010" ImageHeight="3075" ImageSize="3624821"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2010" ImageHeight="3075" ImageSize="4016621"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2010" ImageHeight="3075" ImageSize="3634521"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2010" ImageHeight="3075" ImageSize="3433810"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2010" ImageHeight="3075" ImageSize="3668720"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2010" ImageHeight="3075" ImageSize="3611610"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2010" ImageHeight="3075" ImageSize="3287868"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2010" ImageHeight="3075" ImageSize="3938772"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2010" ImageHeight="3075" ImageSize="3742441"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2010" ImageHeight="3075" ImageSize="3406549"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2010" ImageHeight="3075" ImageSize="3049268"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2010" ImageHeight="3075" ImageSize="3353965"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2010" ImageHeight="3075" ImageSize="2992493"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2010" ImageHeight="3075" ImageSize="3777652"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2010" ImageHeight="3075" ImageSize="3492500"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2010" ImageHeight="3075" ImageSize="3884002"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2010" ImageHeight="3075" ImageSize="3754970"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2010" ImageHeight="3075" ImageSize="3720986"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2010" ImageHeight="3075" ImageSize="3489810"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2010" ImageHeight="3075" ImageSize="3349543"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2010" ImageHeight="3075" ImageSize="1055224"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2010" ImageHeight="3075" ImageSize="2808434"/>
+		<Page Image="28" ImageSize="2081741"/>
+	</Pages>
+	<Penciller>Gary Kato</Penciller>
+	<Publisher>Redbud Studio</Publisher>
+	<Series>Mr. Jigsaw</Series>
+	<Summary>Charlie Grant, AKA Mr. Jigsaw, in a serious turn for the Mr. Jigsaw series "Death of a Hero." The story begins with Charlie and his band of heroes saves Mr. Newcomb's shoe store, but quickly segues to a mysterious figure who is following Mr. Jigsaw around Portland... Brought to you by Ron Fortier and Gary Kato!</Summary>
+	<Title>Death of a Hero</Title>
+	<Volume>2009</Volume>
+	<Web>https://comicvine.gamespot.com/mr-jigsaw-8-death-of-a-hero/4000-272189/</Web>
+	<Writer>Ron Fortier</Writer>
+	<Year>2010</Year>
+</ComicInfo>

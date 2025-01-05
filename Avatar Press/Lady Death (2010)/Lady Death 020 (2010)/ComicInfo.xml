@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Salacia,Lady Death</Characters>
+  <Count>27</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-350966</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Hell</Locations>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:41 [Issue ID 4000-350966] urn:comicvine:4000-350966 urn:grandcomicsdatabase:issue/990997
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:42:44. [Issue ID 990997]</Notes>
+  <Number>20</Number>
+  <PageCount>23</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="3382316" Type="FrontCover" />
+    <Page Image="1" ImageSize="582090" />
+    <Page Image="2" ImageSize="1715409" />
+    <Page Image="3" ImageSize="4043478" />
+    <Page Image="4" ImageSize="2004446" />
+    <Page Image="5" ImageSize="2019125" />
+    <Page Image="6" ImageSize="2273405" />
+    <Page Image="7" ImageSize="2163430" />
+    <Page Image="8" ImageSize="3607461" />
+    <Page Image="9" ImageSize="1866830" />
+    <Page Image="10" ImageSize="2034332" />
+    <Page Image="11" ImageSize="1997463" />
+    <Page Image="12" ImageSize="1736581" />
+    <Page Image="13" ImageSize="2104981" />
+    <Page Image="14" ImageSize="1783633" />
+    <Page Image="15" ImageSize="2382023" />
+    <Page Image="16" ImageSize="2107574" />
+    <Page Image="17" ImageSize="2237677" />
+    <Page Image="18" ImageSize="1613265" />
+    <Page Image="19" ImageSize="1879148" />
+    <Page Image="20" ImageSize="1960637" />
+    <Page Image="21" ImageSize="2120559" />
+    <Page Image="22" ImageSize="1472421" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Lady Death</Series>
+  <Volume>2010</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-350966/</Web>
+  <Year>2010</Year>
+</ComicInfo>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Pizzaboy,Dog Mendonca</Characters>
+  <Colorist>Santiago Villa</Colorist>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-446460</GTIN>
+  <Inker>Juan Cavia</Inker>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T23:33:35 [Issue ID 4000-446460] urn:comicvine:4000-446460
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 08:12:39. [Issue ID 1184520]</Notes>
+  <Number>2</Number>
+  <PageCount>143</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="976485" Type="FrontCover" />
+    <Page Image="1" ImageSize="19405" />
+    <Page Image="2" ImageSize="246972" />
+    <Page Image="3" ImageSize="1324025" />
+    <Page Image="4" ImageSize="447497" />
+    <Page Image="5" ImageSize="671419" />
+    <Page Image="6" ImageSize="866518" />
+    <Page Image="7" ImageSize="746076" />
+    <Page Image="8" ImageSize="19405" />
+    <Page Image="9" ImageSize="967487" />
+    <Page Image="10" ImageSize="820495" />
+    <Page Image="11" ImageSize="1159271" />
+    <Page Image="12" ImageSize="984558" />
+    <Page Image="13" ImageSize="845613" />
+    <Page Image="14" ImageSize="652683" />
+    <Page Image="15" ImageSize="1148022" />
+    <Page Image="16" ImageSize="1042498" />
+    <Page Image="17" ImageSize="887588" />
+    <Page Image="18" ImageSize="1000756" />
+    <Page Image="19" ImageSize="981279" />
+    <Page Image="20" ImageSize="2572134" />
+    <Page Image="21" ImageSize="1012375" />
+    <Page Image="22" ImageSize="858257" />
+    <Page Image="23" ImageSize="1059282" />
+    <Page Image="24" ImageSize="773371" />
+    <Page Image="25" ImageSize="799440" />
+    <Page Image="26" ImageSize="1040242" />
+    <Page Image="27" ImageSize="808451" />
+    <Page Image="28" ImageSize="1029724" />
+    <Page Image="29" ImageSize="1004641" />
+    <Page Image="30" ImageSize="1221553" />
+    <Page Image="31" ImageSize="1672707" />
+    <Page Image="32" ImageSize="791533" />
+    <Page Image="33" ImageSize="1032305" />
+    <Page Image="34" ImageSize="1069359" />
+    <Page Image="35" ImageSize="1174264" />
+    <Page Image="36" ImageSize="1169715" />
+    <Page Image="37" ImageSize="1215237" />
+    <Page Image="38" ImageSize="1067558" />
+    <Page Image="39" ImageSize="858942" />
+    <Page Image="40" ImageSize="832336" />
+    <Page Image="41" ImageSize="1220383" />
+    <Page Image="42" ImageSize="2120736" />
+    <Page Image="43" ImageSize="1192027" />
+    <Page Image="44" ImageSize="922419" />
+    <Page Image="45" ImageSize="941257" />
+    <Page Image="46" ImageSize="822757" />
+    <Page Image="47" ImageSize="946740" />
+    <Page Image="48" ImageSize="506571" />
+    <Page Image="49" ImageSize="846165" />
+    <Page Image="50" ImageSize="932136" />
+    <Page Image="51" ImageSize="765845" />
+    <Page Image="52" ImageSize="798506" />
+    <Page Image="53" ImageSize="560566" />
+    <Page Image="54" ImageSize="897941" />
+    <Page Image="55" ImageSize="944643" />
+    <Page Image="56" ImageSize="778256" />
+    <Page Image="57" ImageSize="756233" />
+    <Page Image="58" ImageSize="940760" />
+    <Page Image="59" ImageSize="827782" />
+    <Page Image="60" ImageSize="867127" />
+    <Page Image="61" ImageSize="897088" />
+    <Page Image="62" ImageSize="914685" />
+    <Page Image="63" ImageSize="910697" />
+    <Page Image="64" ImageSize="1102710" />
+    <Page Image="65" ImageSize="1116344" />
+    <Page Image="66" ImageSize="970725" />
+    <Page Image="67" ImageSize="892779" />
+    <Page Image="68" ImageSize="845255" />
+    <Page Image="69" ImageSize="998851" />
+    <Page Image="70" ImageSize="927278" />
+    <Page Image="71" ImageSize="867453" />
+    <Page Image="72" ImageSize="899591" />
+    <Page Image="73" ImageSize="923589" />
+    <Page Image="74" ImageSize="988871" />
+    <Page Image="75" ImageSize="1031706" />
+    <Page Image="76" ImageSize="835406" />
+    <Page Image="77" ImageSize="959002" />
+    <Page Image="78" ImageSize="868191" />
+    <Page Image="79" ImageSize="975692" />
+    <Page Image="80" ImageSize="943107" />
+    <Page Image="81" ImageSize="931205" />
+    <Page Image="82" ImageSize="882548" />
+    <Page Image="83" ImageSize="779991" />
+    <Page Image="84" ImageSize="849153" />
+    <Page Image="85" ImageSize="896962" />
+    <Page Image="86" ImageSize="743467" />
+    <Page Image="87" ImageSize="926697" />
+    <Page Image="88" ImageSize="720914" />
+    <Page Image="89" ImageSize="1099781" />
+    <Page Image="90" ImageSize="85181" />
+    <Page Image="91" ImageSize="837034" />
+    <Page Image="92" ImageSize="955011" />
+    <Page Image="93" ImageSize="807812" />
+    <Page Image="94" ImageSize="1385271" />
+    <Page Image="95" ImageSize="1196443" />
+    <Page Image="96" ImageSize="1188862" />
+    <Page Image="97" ImageSize="1185113" />
+    <Page Image="98" ImageSize="832923" />
+    <Page Image="99" ImageSize="537129" />
+    <Page Image="100" ImageSize="1632264" />
+    <Page Image="101" ImageSize="3805864" />
+    <Page Image="102" ImageSize="3979558" />
+    <Page Image="103" ImageSize="4072794" />
+    <Page Image="104" ImageSize="3664124" />
+    <Page Image="105" ImageSize="1332309" />
+    <Page Image="106" ImageSize="430957" />
+    <Page Image="107" ImageSize="19405" />
+    <Page Image="108" ImageSize="1287622" />
+    <Page Image="109" ImageSize="1028706" />
+    <Page Image="110" ImageSize="1182362" />
+    <Page Image="111" ImageSize="1229991" />
+    <Page Image="112" ImageSize="1121063" />
+    <Page Image="113" ImageSize="990464" />
+    <Page Image="114" ImageSize="976622" />
+    <Page Image="115" ImageSize="1105964" />
+    <Page Image="116" ImageSize="1019984" />
+    <Page Image="117" ImageSize="976968" />
+    <Page Image="118" ImageSize="973130" />
+    <Page Image="119" ImageSize="860951" />
+    <Page Image="120" ImageSize="965274" />
+    <Page Image="121" ImageSize="1172189" />
+    <Page Image="122" ImageSize="936314" />
+    <Page Image="123" ImageSize="1117765" />
+    <Page Image="124" ImageSize="1118833" />
+    <Page Image="125" ImageSize="1037428" />
+    <Page Image="126" ImageSize="1108476" />
+    <Page Image="127" ImageSize="1064363" />
+    <Page Image="128" ImageSize="1165907" />
+    <Page Image="129" ImageSize="1126917" />
+    <Page Image="130" ImageSize="1040051" />
+    <Page Image="131" ImageSize="1124328" />
+    <Page Image="132" ImageSize="738714" />
+    <Page Image="133" ImageSize="1186644" />
+    <Page Image="134" ImageSize="1153875" />
+    <Page Image="135" ImageSize="716953" />
+    <Page Image="136" ImageSize="677397" />
+    <Page Image="137" ImageSize="634201" />
+    <Page Image="138" ImageSize="442248" />
+    <Page Image="139" ImageSize="824819" />
+    <Page Image="140" ImageSize="1107317" />
+    <Page Image="141" ImageSize="1176546" />
+    <Page Image="142" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Juan Cavia</Penciller>
+  <Publisher>Dark Horse</Publisher>
+  <Series>The Incredible Adventures of Dog Mendonca and PizzaBoy</Series>
+  <Summary>A middle-aged werewolf, a six-thousand-year-old demon, a nervous gargoyle, and an out-of-work pizza delivery boy take a stand against the four horsemen of the apocalypse! A humor-filled romp through Judgment Day, this edition includes a foreword by director George A. Romero, a special “making of” section, and all Dog Mendonça stories from the Eisner Award–winning DHP anthology!
+
+Includes all Dark Horse Presents stories!
+
+Foreword by legendary filmmaker George A. Romero!
+
+https://comicvine.gamespot.com/the-incredible-adventures-of-dog-mendonca-and-pizz/4000-446460/</Summary>
+  <Tags>Pizzaboy,Dog Mendonca</Tags>
+  <Title>Apocalypse</Title>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/the-incredible-adventures-of-dog-mendonca-and-pizz/4000-446460/</Web>
+  <Writer>Filipe Melo</Writer>
+  <Year>2012</Year>
+  <Count>3</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+</ComicInfo>

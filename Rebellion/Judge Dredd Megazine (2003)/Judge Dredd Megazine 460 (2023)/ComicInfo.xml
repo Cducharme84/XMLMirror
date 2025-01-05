@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Johnny Red,Bagman,Spector,Judge Dredd,Judge Veranda Glover,Rogue Trooper,Gunnar,Judge Anderson,Metta Lawless,Helm</Characters>
+  <Colorist>Dylan Teague,Gary Caldwell,Jason Wordie,Michael Spicer,Quinton Winter,Sally Hurst,Stephen Downer</Colorist>
+  <Day>20</Day>
+  <GTIN>urn:comicvine:4000-1015177</GTIN>
+  <Inker>Alberto Ponticelli,Dan Cornwell,Jim Boswell,John Higgins,John McCrea,Keith Burns,Kieran McKeown,Nick Percival,Phil Winslade,Staz Johnson</Inker>
+  <Letterer>Annie Parkhouse,Jim Campbell,Rob Steen,Simon Bowland,Tom B. Long</Letterer>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:25:50 [Issue ID 4000-1015177] urn:comicvine:4000-1015177
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 22:08:01. [Issue ID 2571233]</Notes>
+  <Number>460</Number>
+  <PageCount>129</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="5408965" Type="FrontCover" />
+    <Page Image="1" ImageSize="2261765" />
+    <Page Image="2" ImageSize="2379061" />
+    <Page Image="3" ImageSize="2815725" />
+    <Page Image="4" ImageSize="1474511" />
+    <Page Image="5" ImageSize="1491812" />
+    <Page Image="6" ImageSize="1521189" />
+    <Page Image="7" ImageSize="1561887" />
+    <Page Image="8" ImageSize="1679196" />
+    <Page Image="9" ImageSize="1549949" />
+    <Page Image="10" ImageSize="1333943" />
+    <Page Image="11" ImageSize="1510189" />
+    <Page Image="12" ImageSize="1480071" />
+    <Page Image="13" ImageSize="1416953" />
+    <Page Image="14" ImageSize="2198763" />
+    <Page Image="15" ImageSize="2266865" />
+    <Page Image="16" ImageSize="2458274" />
+    <Page Image="17" ImageSize="2168272" />
+    <Page Image="18" ImageSize="1979285" />
+    <Page Image="19" ImageSize="2445335" />
+    <Page Image="20" ImageSize="2148949" />
+    <Page Image="21" ImageSize="2285668" />
+    <Page Image="22" ImageSize="2328068" />
+    <Page Image="23" ImageSize="2346202" />
+    <Page Image="24" ImageSize="1905656" />
+    <Page Image="25" ImageSize="2290831" />
+    <Page Image="26" ImageSize="2404434" />
+    <Page Image="27" ImageSize="2035185" />
+    <Page Image="28" ImageSize="2190777" />
+    <Page Image="29" ImageSize="2080928" />
+    <Page Image="30" ImageSize="2329068" />
+    <Page Image="31" ImageSize="2472962" />
+    <Page Image="32" ImageSize="2444591" />
+    <Page Image="33" ImageSize="2332183" />
+    <Page Image="34" ImageSize="1825644" />
+    <Page Image="35" ImageSize="2009990" />
+    <Page Image="36" ImageSize="2336458" />
+    <Page Image="37" ImageSize="1626490" />
+    <Page Image="38" ImageSize="1839571" />
+    <Page Image="39" ImageSize="2078552" />
+    <Page Image="40" ImageSize="2576888" />
+    <Page Image="41" ImageSize="2191568" />
+    <Page Image="42" ImageSize="2573941" />
+    <Page Image="43" ImageSize="2714445" />
+    <Page Image="44" ImageSize="2906733" />
+    <Page Image="45" ImageSize="2246671" />
+    <Page Image="46" ImageSize="2875132" />
+    <Page Image="47" ImageSize="2673878" />
+    <Page Image="48" ImageSize="2938394" />
+    <Page Image="49" ImageSize="2412614" />
+    <Page Image="50" ImageSize="3036496" />
+    <Page Image="51" ImageSize="3457831" />
+    <Page Image="52" ImageSize="2699983" />
+    <Page Image="53" ImageSize="316973" />
+    <Page Image="54" ImageSize="934533" />
+    <Page Image="55" ImageSize="2889666" />
+    <Page Image="56" ImageSize="2526055" />
+    <Page Image="57" ImageSize="2920210" />
+    <Page Image="58" ImageSize="2501180" />
+    <Page Image="59" ImageSize="2275366" />
+    <Page Image="60" ImageSize="2614666" />
+    <Page Image="61" ImageSize="2446739" />
+    <Page Image="62" ImageSize="2255048" />
+    <Page Image="63" ImageSize="2687776" />
+    <Page Image="64" ImageSize="2539788" />
+    <Page Image="65" ImageSize="2003041" />
+    <Page Image="66" ImageSize="1246326" />
+    <Page Image="67" ImageSize="1331508" />
+    <Page Image="68" ImageSize="1659425" />
+    <Page Image="69" ImageSize="1754985" />
+    <Page Image="70" ImageSize="1712709" />
+    <Page Image="71" ImageSize="1599540" />
+    <Page Image="72" ImageSize="1781845" />
+    <Page Image="73" ImageSize="1664891" />
+    <Page Image="74" ImageSize="1589320" />
+    <Page Image="75" ImageSize="1526549" />
+    <Page Image="76" ImageSize="1075517" />
+    <Page Image="77" ImageSize="1785483" />
+    <Page Image="78" ImageSize="1602385" />
+    <Page Image="79" ImageSize="1590499" />
+    <Page Image="80" ImageSize="1143216" />
+    <Page Image="81" ImageSize="1399329" />
+    <Page Image="82" ImageSize="1503748" />
+    <Page Image="83" ImageSize="1598461" />
+    <Page Image="84" ImageSize="1759342" />
+    <Page Image="85" ImageSize="1598876" />
+    <Page Image="86" ImageSize="4170256" />
+    <Page Image="87" ImageSize="1291317" />
+    <Page Image="88" ImageSize="2043266" />
+    <Page Image="89" ImageSize="3467602" />
+    <Page Image="90" ImageSize="4114564" />
+    <Page Image="91" ImageSize="1899988" />
+    <Page Image="92" ImageSize="2076085" />
+    <Page Image="93" ImageSize="2109164" />
+    <Page Image="94" ImageSize="2047972" />
+    <Page Image="95" ImageSize="1885155" />
+    <Page Image="96" ImageSize="1711268" />
+    <Page Image="97" ImageSize="4203912" />
+    <Page Image="98" ImageSize="1994982" />
+    <Page Image="99" ImageSize="1523340" />
+    <Page Image="100" ImageSize="5046182" />
+    <Page Image="101" ImageSize="2425863" />
+    <Page Image="102" ImageSize="2218163" />
+    <Page Image="103" ImageSize="2111224" />
+    <Page Image="104" ImageSize="2085201" />
+    <Page Image="105" ImageSize="1803351" />
+    <Page Image="106" ImageSize="3494664" />
+    <Page Image="107" ImageSize="3869895" />
+    <Page Image="108" ImageSize="3849886" />
+    <Page Image="109" ImageSize="3779948" />
+    <Page Image="110" ImageSize="3717825" />
+    <Page Image="111" ImageSize="3546421" />
+    <Page Image="112" ImageSize="3553641" />
+    <Page Image="113" ImageSize="3314767" />
+    <Page Image="114" ImageSize="3470080" />
+    <Page Image="115" ImageSize="3975629" />
+    <Page Image="116" ImageSize="2824149" />
+    <Page Image="117" ImageSize="2597191" />
+    <Page Image="118" ImageSize="2788240" />
+    <Page Image="119" ImageSize="2922420" />
+    <Page Image="120" ImageSize="2810199" />
+    <Page Image="121" ImageSize="2336283" />
+    <Page Image="122" ImageSize="2803317" />
+    <Page Image="123" ImageSize="2570251" />
+    <Page Image="124" ImageSize="3058001" />
+    <Page Image="125" ImageSize="2134831" />
+    <Page Image="126" ImageSize="1835654" />
+    <Page Image="127" ImageSize="3043049" />
+    <Page Image="128" ImageSize="1472421" />
+  </Pages>
+  <Penciller>Alberto Ponticelli,Dan Cornwell,Jim Boswell,John Higgins,John McCrea,Keith Burns,Kieran McKeown,Nick Percival,Phil Winslade,Staz Johnson</Penciller>
+  <Publisher>Rebellion</Publisher>
+  <Series>Judge Dredd Megazine</Series>
+  <Summary>IMAGINE IF, IN 1982, THE POWERS-THAT-BE IN KING’S REACH TOWER DECIDED THAT BATTLE ACTION WAS TO merge with 2000 AD, much like Starlord and Tornado had done previously.
+
+What characters would cross over into the pages of the Galaxy’s Greatest Comic, and what revamps would they undergo to fit with the anthology’s SF/fantasy remit? Well, you can see for yourself in Prog 2350, which takes that very concept and creates an alternate line-up for Tharg’s Mighty Organ – but the speculation doesn’t just stop with one title. What if, two years later, it was such a success that Battle characters were given the Dreddworld treatment in the lawman’s very own mag?
+
+This special issue has the answer, with Dreddverse variants of Rat Pack, Johnny Red/Lofty’s One-Man Luftwaffe and Darkie’s Mob, with a couple of other characters from UK comics history thrown in. Meanwhile, in the second half of this month’s issue, we return to normal programming with the latest instalments of Spector, Dreadnoughts, Lawless, Rogue Trooper and Johnny Red. All in all, an l crammed Meg – I hope you enjoy it, citizens!
+
+Cover: Henry Flint
+
+Judge Dredd - Return to Billy Carter (Ken Niemand - Nick Percival)Mega-City One, 2106 AD. This vast urban hell on the east coast of post-apocalyptic North America is home to over 400 million citizens, with the irradiated Cursed Earth to the west and the toxic Black Atlantic to the east. Crime is rampant, and stemming the tide of chaos are the Judges. Toughest of them all is Judge Dredd – he is the Law! Now, in the wake of the Apocalypse War, Dredd’s returning to Billy Carter block, where the Dark Judges caused havoc…
+
+Rad Pack (Karl Stock - Kieran McKeown)Following in the footsteps of other late-1970s IPC comics in going direct to the movies for inspiration, Rat Pack took its cue from Robert Aldrich’s gritty 1967 war actioner The Dirty Dozen, in which a group of US Army convicts (played by Lee Marvin, Charles Bronson and co) are enlisted for a dirty and hard-to-survive mission.
+
+Strato Squad - Convoy Strike! (Mike Carroll - Staz Johnson)One of the launch series in Battle Picture Weekly, with art by the unheralded Italian illustrator Paolo Ongaro, Lofty’s One-Man Luftwaffe lasted for just four months, before aeroplane action left the comic ahead of Johnny Red’s arrival two years later. The premise was simple and effective – that downed RAF pilot and Nazi POW ‘Lofty’ Banks escapes from a concentration camp, takes on the identity of dead German air ace Major Ranke, and begins a secret war of attrition against the Luftwaffe while pretending to be a part of it.
+
+Anderson, Psi-Division - The Wolf &amp; the Dragon (Alec Worley - Patrick Goddard)Mega-City One, 2106 AD. There are many divisions in Justice Department dedicated to the fight against crime, from Tek to Wally Squad, and for cases of a paranormal nature there is Psi-Division, its officers all gifted with psychic talents. Most powerful of the telepaths is Cassandra Anderson, who has the ability to read minds and occasionally receive flashes of future events. Sardonic and irreverent, Anderson is given more leeway as as Psi-Judge…
+
+Darke’s Mob (Alex De Campi - John McCrea)A predecessor to 2000 AD classic Bad Company, Darkie’s Mob had a brutal and uncompromising commander gathering a ramshackle group of fighters around him to fight against an even more monstrously lethal enemy, with their collective descent into the heart of darkness catalogued by a raw private along for the ride.
+
+Spector - Incorruptible (Part 6) (John Wagner - Dan Cornwell)In a near-future US city, corruption within the branches of government has reached unsustainable levels. City Hall is rotten to the core, and the police force is equally on the take. To that end, Spector is created, a robot detective – beyond bribery and untainted by potential malfeasance – charged with rooting out criminal elements. But Spector is making many enemies amongst the cops, and they’re not above murder to try to get rid of him…
+
+Rogue Trooper - Part 2 (Brian Buckley - Alberto Ponticelli)Nu-Earth, just another planet ravaged by a galaxy-wide war, its atmosphere poisoned by chemical weapons. Created to fight in such conditions were the G.I.s – genetically engineered infantrymen. But now only one remains, the man known as… Rogue Trooper!
+
+Johnny Red - Part 5 (Garth Ennis - Keith Burns)Legendary British fighter ace, Johnny ‘Red’ Redburn, returns once more as the commander of the Falcons – a Russian fighter squadron battling the Nazis in the skies over Stalingrad. But dogfighting Messerschmitts is about to become the least of his troubles when the NVKD – the notorious Soviet secret police – come calling!
+
+Lawless - Most Wanted (Part 5) (Dan Abnett - Phil Winslade)Colonial Marshal Metta Lawson was appointed to the frontier township of Badrock on the planet 43 Rega, intent on stamping her authority on the colony. But in doing so, Lawson made many enemies, including Munce, Inc., the mega-corporation that funded Badrock. Now, having been thrown off the force, and become a vigilante, she’s turned to organised crime, and is proving herself for Mr Fugly, the local crimelord…
+
+Dreadnoughts - The March of Progress (Part 6) (Mike Carroll - John Higgins)USA, 2035 AD. The new Justice Department is still in its early years, with Judges working alongside the police. It’s proving an explosive transition, with many citizens – and uniformed cops – unhappy with these helmeted officers taking to the streets. Now a drugs cartel is striking back at the law, and Judge Veranda Glover is fleeing with a vital prisoner, whom the cartel want returned to them…
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-01-18 22:59:16.  [Issue ID 1015177]
+
+https://comicvine.gamespot.com/judge-dredd-megazine-460-meg-460/4000-1015177/</Summary>
+  <Tags>Johnny Red,Bagman,Spector,Judge Dredd,Judge Veranda Glover,Rogue Trooper,Gunnar,Judge Anderson,Metta Lawless,Helm</Tags>
+  <Title>Meg 460</Title>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/judge-dredd-megazine-460-meg-460/4000-1015177/</Web>
+  <Writer>Alec Worley,Alex de Campi,Brian Ruckley,Dan Abnett,Garth Ennis,John Wagner,Karl Stock,Kenneth Niemand,Michael Carroll</Writer>
+  <Year>2023</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

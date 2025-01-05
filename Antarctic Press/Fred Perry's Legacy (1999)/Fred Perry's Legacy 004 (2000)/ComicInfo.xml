@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Jochen Weltjens,Lee Duhig,Nathan Lumm</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-434095</GTIN>
+	<Inker>Fred Perry</Inker>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:14:46 [Issue ID 4000-434095] urn:comicvine:4000-434095</Notes>
+	<Number>4</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="116597" Type="FrontCover"/>
+		<Page Image="1" ImageSize="313103"/>
+		<Page Image="2" ImageSize="428455"/>
+		<Page Image="3" ImageSize="376258"/>
+		<Page Image="4" ImageSize="323574"/>
+		<Page Image="5" ImageSize="374438"/>
+		<Page Image="6" ImageSize="422440"/>
+		<Page Image="7" ImageSize="384946"/>
+		<Page Image="8" ImageSize="430493"/>
+		<Page Image="9" ImageSize="444853"/>
+		<Page Image="10" ImageSize="432356"/>
+		<Page Image="11" ImageSize="405058"/>
+		<Page Image="12" ImageSize="387876"/>
+		<Page Image="13" ImageSize="429443"/>
+		<Page Image="14" ImageSize="434475"/>
+		<Page Image="15" ImageSize="333549"/>
+		<Page Image="16" ImageSize="423634"/>
+		<Page Image="17" ImageSize="348613"/>
+		<Page Image="18" ImageSize="383676"/>
+		<Page Image="19" ImageSize="397630"/>
+		<Page Image="20" ImageSize="464680"/>
+		<Page Image="21" ImageSize="385155"/>
+		<Page Image="22" ImageSize="336960"/>
+		<Page Image="23" ImageSize="383643"/>
+		<Page Image="24" ImageSize="374144"/>
+	</Pages>
+	<Penciller>Fred Perry</Penciller>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Fred Perry's Legacy</Series>
+	<Summary>https://comicvine.gamespot.com/legacy-4/4000-434095/</Summary>
+	<Volume>1999</Volume>
+	<Web>https://comicvine.gamespot.com/legacy-4/4000-434095/</Web>
+	<Writer>Fred Perry</Writer>
+	<Year>2000</Year>
+</ComicInfo>

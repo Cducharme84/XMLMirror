@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Hulk,Spider-Man,Strikeback</Characters>
+	<Count>32</Count>
+	<Day>19</Day>
+	<Editor>Al Milgrom,Jim Shooter,Tom DeFalco</Editor>
+	<GTIN>urn:comicvine:4000-328070</GTIN>
+	<Inker>Vince Colletta</Inker>
+	<Letterer>Jean Simek,Jim Novak</Letterer>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:57:04 [Issue ID 4000-328070] urn:comicvine:4000-328070</Notes>
+	<Number>441</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="820687" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1028717"/>
+		<Page Image="2" ImageSize="948757"/>
+		<Page Image="3" ImageSize="950259"/>
+		<Page Image="4" ImageSize="889172"/>
+		<Page Image="5" ImageSize="1064349"/>
+		<Page Image="6" ImageSize="950454"/>
+		<Page Image="7" ImageSize="931362"/>
+		<Page Image="8" ImageSize="953800"/>
+		<Page Image="9" ImageSize="922168"/>
+		<Page Image="10" ImageSize="928675"/>
+		<Page Image="11" ImageSize="904762"/>
+		<Page Image="12" ImageSize="864282"/>
+		<Page Image="13" ImageSize="904027"/>
+		<Page Image="14" ImageSize="915737"/>
+		<Page Image="15" ImageSize="906601"/>
+		<Page Image="16" ImageSize="944371"/>
+		<Page Image="17" ImageSize="974385"/>
+		<Page Image="18" ImageSize="974106"/>
+		<Page Image="19" ImageSize="1023553"/>
+		<Page Image="20" ImageSize="968852"/>
+		<Page Image="21" ImageSize="886616"/>
+		<Page Image="22" ImageSize="975097"/>
+		<Page Image="23" ImageSize="717188"/>
+		<Page Image="24" ImageSize="862272"/>
+		<Page Image="25" ImageSize="805945"/>
+		<Page Image="26" ImageSize="821383"/>
+		<Page Image="27" ImageSize="932028"/>
+		<Page Image="28" ImageSize="842065"/>
+		<Page Image="29" ImageSize="849419"/>
+		<Page Image="30" ImageSize="848348"/>
+		<Page Image="31" ImageSize="996646"/>
+	</Pages>
+	<Penciller>John Byrne</Penciller>
+	<Publisher>Marvel UK/Panini UK</Publisher>
+	<Series>Spider-Man and Hulk Team-Up</Series>
+	<Summary>The Amazing Spider-Man in "Ring Out The Old, In The New!
+
+The Hulk in " Foundling!"</Summary>
+	<Volume>1981</Volume>
+	<Web>https://comicvine.gamespot.com/spider-man-and-hulk-team-up-441/4000-328070/</Web>
+	<Writer>Bill Mantlo,Roger Stern</Writer>
+	<Year>1981</Year>
+</ComicInfo>

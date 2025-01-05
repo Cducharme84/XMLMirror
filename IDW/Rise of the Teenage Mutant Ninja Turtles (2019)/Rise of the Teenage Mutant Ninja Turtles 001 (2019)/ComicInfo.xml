@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Harvey Hokum,Raphael,Donatello,Hypnopotamus,Michelangelo,Leonardo,April O'Neil,Baron Draxum,Tiger Claw,Warren Stone,Hamato Yoshi</Characters>
+  <Colorist>Heather Breckel</Colorist>
+  <Day>27</Day>
+  <Editor>Alonzo Simon,Bobby Curnow,Justin Eisinger,Megan Brown</Editor>
+  <GTIN>urn:comixology:740664</GTIN>
+  <Genre>Movies &amp; TV,Anthropomorphic,Superhero,Martial Arts</Genre>
+  <Inker>Chad Thomas</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Christa Miesner</Letterer>
+  <Locations>New York City</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:35:54 [Issue ID 4000-704693] urn:comicvine:4000-704693 urn:comixology:740664
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 13:55:47. [Issue ID 1943120]</Notes>
+  <Number>1</Number>
+  <PageCount>75</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="2700" ImageSize="727811" ImageWidth="1800" Type="FrontCover" />
+    <Page Image="1" ImageHeight="2700" ImageSize="1129688" ImageWidth="1800" />
+    <Page Image="2" ImageHeight="2700" ImageSize="719877" ImageWidth="1800" />
+    <Page Image="3" ImageHeight="2700" ImageSize="2258511" ImageWidth="3600" />
+    <Page Image="4" ImageHeight="2700" ImageSize="1168901" ImageWidth="1800" />
+    <Page Image="5" ImageHeight="2700" ImageSize="1976593" ImageWidth="1800" />
+    <Page Image="6" ImageHeight="2700" ImageSize="1741989" ImageWidth="1800" />
+    <Page Image="7" ImageHeight="2700" ImageSize="1445716" ImageWidth="1800" />
+    <Page Image="8" ImageHeight="2700" ImageSize="1526823" ImageWidth="1800" />
+    <Page Image="9" ImageHeight="2700" ImageSize="1379064" ImageWidth="1800" />
+    <Page Image="10" ImageHeight="2700" ImageSize="1743330" ImageWidth="1800" />
+    <Page Image="11" ImageHeight="2700" ImageSize="1624232" ImageWidth="1800" />
+    <Page Image="12" ImageHeight="2700" ImageSize="1678362" ImageWidth="1800" />
+    <Page Image="13" ImageHeight="2700" ImageSize="1627573" ImageWidth="1800" />
+    <Page Image="14" ImageHeight="2700" ImageSize="1752493" ImageWidth="1800" />
+    <Page Image="15" ImageHeight="2700" ImageSize="1923054" ImageWidth="1800" />
+    <Page Image="16" ImageHeight="2700" ImageSize="1790632" ImageWidth="1800" />
+    <Page Image="17" ImageHeight="2700" ImageSize="1510265" ImageWidth="1800" />
+    <Page Image="18" ImageHeight="2700" ImageSize="1498069" ImageWidth="1800" />
+    <Page Image="19" ImageHeight="2700" ImageSize="1813132" ImageWidth="1800" />
+    <Page Image="20" ImageHeight="2700" ImageSize="1817079" ImageWidth="1800" />
+    <Page Image="21" ImageHeight="2700" ImageSize="1501913" ImageWidth="1800" />
+    <Page Image="22" ImageHeight="2700" ImageSize="1799819" ImageWidth="1800" />
+    <Page Image="23" ImageHeight="2700" ImageSize="1746631" ImageWidth="1800" />
+    <Page Image="24" ImageHeight="2700" ImageSize="1792804" ImageWidth="1800" />
+    <Page Image="25" ImageHeight="2700" ImageSize="474934" ImageWidth="1800" />
+    <Page Image="26" ImageHeight="2700" ImageSize="1032049" ImageWidth="1800" />
+    <Page Image="27" ImageHeight="2700" ImageSize="1737613" ImageWidth="1800" />
+    <Page Image="28" ImageHeight="2700" ImageSize="1631042" ImageWidth="1800" />
+    <Page Image="29" ImageHeight="2700" ImageSize="2261795" ImageWidth="1800" />
+    <Page Image="30" ImageHeight="2700" ImageSize="1847791" ImageWidth="1800" />
+    <Page Image="31" ImageHeight="2700" ImageSize="2034303" ImageWidth="1800" />
+    <Page Image="32" ImageHeight="2700" ImageSize="1604798" ImageWidth="1800" />
+    <Page Image="33" ImageHeight="2700" ImageSize="1848027" ImageWidth="1800" />
+    <Page Image="34" ImageHeight="2700" ImageSize="1417408" ImageWidth="1800" />
+    <Page Image="35" ImageHeight="2700" ImageSize="1587436" ImageWidth="1800" />
+    <Page Image="36" ImageHeight="2700" ImageSize="1870866" ImageWidth="1800" />
+    <Page Image="37" ImageHeight="2700" ImageSize="1685802" ImageWidth="1800" />
+    <Page Image="38" ImageHeight="2700" ImageSize="2051119" ImageWidth="1800" />
+    <Page Image="39" ImageHeight="2700" ImageSize="1757032" ImageWidth="1800" />
+    <Page Image="40" ImageHeight="2700" ImageSize="1621446" ImageWidth="1800" />
+    <Page Image="41" ImageHeight="2700" ImageSize="1924435" ImageWidth="1800" />
+    <Page Image="42" ImageHeight="2700" ImageSize="1623240" ImageWidth="1800" />
+    <Page Image="43" ImageHeight="2700" ImageSize="1826678" ImageWidth="1800" />
+    <Page Image="44" ImageHeight="2700" ImageSize="1619740" ImageWidth="1800" />
+    <Page Image="45" ImageHeight="2700" ImageSize="1488689" ImageWidth="1800" />
+    <Page Image="46" ImageHeight="2700" ImageSize="2157118" ImageWidth="1800" />
+    <Page Image="47" ImageHeight="2700" ImageSize="469927" ImageWidth="1800" />
+    <Page Image="48" ImageHeight="2700" ImageSize="1171018" ImageWidth="1800" />
+    <Page Image="49" ImageHeight="2700" ImageSize="1742019" ImageWidth="1800" />
+    <Page Image="50" ImageHeight="2700" ImageSize="1949957" ImageWidth="1800" />
+    <Page Image="51" ImageHeight="2700" ImageSize="1379300" ImageWidth="1800" />
+    <Page Image="52" ImageHeight="2700" ImageSize="2466397" ImageWidth="1800" />
+    <Page Image="53" ImageHeight="2700" ImageSize="1502944" ImageWidth="1800" />
+    <Page Image="54" ImageHeight="2700" ImageSize="1453057" ImageWidth="1800" />
+    <Page Image="55" ImageHeight="2700" ImageSize="1573148" ImageWidth="1800" />
+    <Page Image="56" ImageHeight="2700" ImageSize="1787704" ImageWidth="1800" />
+    <Page Image="57" ImageHeight="2700" ImageSize="1549938" ImageWidth="1800" />
+    <Page Image="58" ImageHeight="2700" ImageSize="1591638" ImageWidth="1800" />
+    <Page Image="59" ImageHeight="2700" ImageSize="1660672" ImageWidth="1800" />
+    <Page Image="60" ImageHeight="2700" ImageSize="1250013" ImageWidth="1800" />
+    <Page Image="61" ImageHeight="2700" ImageSize="1478833" ImageWidth="1800" />
+    <Page Image="62" ImageHeight="2700" ImageSize="1263679" ImageWidth="1800" />
+    <Page Image="63" ImageHeight="2700" ImageSize="1416317" ImageWidth="1800" />
+    <Page Image="64" ImageHeight="2700" ImageSize="1543047" ImageWidth="1800" />
+    <Page Image="65" ImageHeight="2700" ImageSize="1342744" ImageWidth="1800" />
+    <Page Image="66" ImageHeight="2700" ImageSize="1636508" ImageWidth="1800" />
+    <Page Image="67" ImageHeight="2700" ImageSize="1704380" ImageWidth="1800" />
+    <Page Image="68" ImageHeight="2700" ImageSize="1429480" ImageWidth="1800" />
+    <Page Image="69" ImageHeight="2700" ImageSize="600455" ImageWidth="1800" />
+    <Page Image="70" ImageHeight="2700" ImageSize="760395" ImageWidth="1800" />
+    <Page Image="71" ImageHeight="2700" ImageSize="1335461" ImageWidth="1800" />
+    <Page Image="72" ImageHeight="2700" ImageSize="1162680" ImageWidth="1800" />
+    <Page Image="73" ImageHeight="2700" ImageSize="896373" ImageWidth="1800" />
+    <Page Image="74" ImageSize="776113" />
+  </Pages>
+  <Penciller>Chad Thomas</Penciller>
+  <Publisher>IDW</Publisher>
+  <Series>Rise of the Teenage Mutant Ninja Turtles</Series>
+  <Summary>The Turtles are back in an all-new animated series from Nickelodeon: new characters, new attitude, and a new age of mutant madness begins here. Join Leo, the self-proclaimed "coolest" brother; Donnie, the "genius”; Mikey, the "prankster”; and Raph, the leader of the group, as they uncover the secrets of New York City and untap their mystic ninja powers while learning to work together as a team. Will the TMNT be able to master their new world, or will their new world master them?! Collects issues #0–2.
+
+https://comicvine.gamespot.com/rise-of-the-teenage-mutant-ninja-turtles-1-volume-/4000-704693/</Summary>
+  <Teams>Teenage Mutant Ninja Turtles</Teams>
+  <Title>Volume 1</Title>
+  <Volume>2019</Volume>
+  <Web>https://comicvine.gamespot.com/rise-of-the-teenage-mutant-ninja-turtles-1-volume-/4000-704693/</Web>
+  <Writer>Matthew K. Manning</Writer>
+  <Year>2019</Year>
+  <Count>3</Count>
+  <Format>Collection</Format>
+</ComicInfo>

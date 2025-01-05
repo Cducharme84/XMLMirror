@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-2100199</GTIN>
+	<Genre>Fantasy</Genre>
+	<Imprint>DM</Imprint>
+	<LanguageISO>en</LanguageISO>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-12T04:53:29 [Issue ID 4000-2100199] urn:comicvine:4000-2100199 urn:grandcomicsdatabase:issue/2100199</Notes>
+	<Number>1</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2100" ImageHeight="3150" ImageSize="15385627" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2100" ImageHeight="3150" ImageSize="5497793"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2100" ImageHeight="3150" ImageSize="3588736"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2100" ImageHeight="3150" ImageSize="3469125"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2100" ImageHeight="3150" ImageSize="3471859"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2100" ImageHeight="3150" ImageSize="4206503"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2100" ImageHeight="3150" ImageSize="3915590"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2100" ImageHeight="3150" ImageSize="4938164"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2100" ImageHeight="3150" ImageSize="4156912"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2100" ImageHeight="3150" ImageSize="4759404"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2100" ImageHeight="3150" ImageSize="4223585"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2100" ImageHeight="3150" ImageSize="4002885"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2100" ImageHeight="3150" ImageSize="4488414"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2100" ImageHeight="3150" ImageSize="4389789"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2100" ImageHeight="3150" ImageSize="4034269"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2100" ImageHeight="3150" ImageSize="3659550"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2100" ImageHeight="3150" ImageSize="4005827"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2100" ImageHeight="3150" ImageSize="4312200"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2100" ImageHeight="3150" ImageSize="5208288"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2100" ImageHeight="3150" ImageSize="3293301"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2100" ImageHeight="3150" ImageSize="3718071"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2100" ImageHeight="3150" ImageSize="4745134"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2100" ImageHeight="3150" ImageSize="3928394"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2100" ImageHeight="3150" ImageSize="3891446"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2100" ImageHeight="3150" ImageSize="3296751"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2100" ImageHeight="3150" ImageSize="4671489"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2100" ImageHeight="3150" ImageSize="7442464"/>
+		<Page Image="27" ImageSize="13352253"/>
+	</Pages>
+	<Publisher>Don Marquez</Publisher>
+	<Series>The Dark Land</Series>
+	<Summary>Two bitter enemies are shipwrecked on the shores of The land and form an alliance to aid a village girl named Lorana in her battle against the oppressive Lord Morgan and his tax collector Thad. Swords are pitted against black magic and monsters.
+
+The Dark Land is an epic fantasy of swords and sorcery, set in a time before the beginning of recorded history.</Summary>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-2100199/</Web>
+	<Year>2021</Year>
+</ComicInfo>

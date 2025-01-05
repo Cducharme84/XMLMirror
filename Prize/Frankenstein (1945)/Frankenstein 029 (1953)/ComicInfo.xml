@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Frankenstein's Monster</Characters>
+	<Day>22</Day>
+	<GTIN>urn:comicvine:4000-224940</GTIN>
+	<Inker>Dick Briefer</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:09:58 [Issue ID 4000-224940] urn:comicvine:4000-224940</Notes>
+	<Number>29</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1061" ImageHeight="1526" ImageSize="497293" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="976" ImageHeight="1484" ImageSize="486456"/>
+		<Page Image="2" ImageWidth="924" ImageHeight="1383" ImageSize="455233"/>
+		<Page Image="3" ImageWidth="928" ImageHeight="1383" ImageSize="388037"/>
+		<Page Image="4" ImageWidth="930" ImageHeight="1394" ImageSize="414302"/>
+		<Page Image="5" ImageWidth="929" ImageHeight="1388" ImageSize="430559"/>
+		<Page Image="6" ImageWidth="923" ImageHeight="1388" ImageSize="439742"/>
+		<Page Image="7" ImageWidth="923" ImageHeight="1372" ImageSize="410543"/>
+		<Page Image="8" ImageWidth="929" ImageHeight="1378" ImageSize="405353"/>
+		<Page Image="9" ImageWidth="929" ImageHeight="1373" ImageSize="428500"/>
+		<Page Image="10" ImageWidth="918" ImageHeight="1388" ImageSize="424306"/>
+		<Page Image="11" ImageWidth="923" ImageHeight="1378" ImageSize="402399"/>
+		<Page Image="12" ImageWidth="944" ImageHeight="1404" ImageSize="391494"/>
+		<Page Image="13" ImageWidth="940" ImageHeight="1330" ImageSize="395692"/>
+		<Page Image="14" ImageWidth="950" ImageHeight="1404" ImageSize="444068"/>
+		<Page Image="15" ImageWidth="945" ImageHeight="1399" ImageSize="428863"/>
+		<Page Image="16" ImageWidth="939" ImageHeight="1398" ImageSize="408685"/>
+		<Page Image="17" ImageWidth="945" ImageHeight="1388" ImageSize="435456"/>
+		<Page Image="18" ImageWidth="940" ImageHeight="1388" ImageSize="426053"/>
+		<Page Image="19" ImageWidth="935" ImageHeight="1393" ImageSize="404835"/>
+		<Page Image="20" ImageWidth="950" ImageHeight="1346" ImageSize="405550"/>
+		<Page Image="21" ImageWidth="961" ImageHeight="1362" ImageSize="391573"/>
+		<Page Image="22" ImageWidth="924" ImageHeight="1404" ImageSize="413514"/>
+		<Page Image="23" ImageWidth="945" ImageHeight="1383" ImageSize="415391"/>
+		<Page Image="24" ImageWidth="940" ImageHeight="1388" ImageSize="429649"/>
+		<Page Image="25" ImageWidth="946" ImageHeight="1389" ImageSize="449512"/>
+		<Page Image="26" ImageWidth="940" ImageHeight="1420" ImageSize="428784"/>
+		<Page Image="27" ImageWidth="961" ImageHeight="1352" ImageSize="426951"/>
+		<Page Image="28" ImageWidth="940" ImageHeight="1394" ImageSize="411857"/>
+		<Page Image="29" ImageWidth="951" ImageHeight="1383" ImageSize="432495"/>
+		<Page Image="30" ImageWidth="929" ImageHeight="1388" ImageSize="444734"/>
+		<Page Image="31" ImageWidth="940" ImageHeight="1378" ImageSize="410376"/>
+		<Page Image="32" ImageWidth="945" ImageHeight="1420" ImageSize="386707"/>
+		<Page Image="33" ImageWidth="935" ImageHeight="1462" ImageSize="419809"/>
+		<Page Image="34" ImageWidth="998" ImageHeight="1425" ImageSize="458815"/>
+		<Page Image="35" ImageSize="387795"/>
+	</Pages>
+	<Penciller>Dick Briefer</Penciller>
+	<Publisher>Prize</Publisher>
+	<Series>Frankenstein</Series>
+	<Summary>https://comicvine.gamespot.com/frankenstein-29-entranced/4000-224940/</Summary>
+	<Title>Entranced</Title>
+	<Volume>1945</Volume>
+	<Web>https://comicvine.gamespot.com/frankenstein-29-entranced/4000-224940/</Web>
+	<Writer>Dick Briefer</Writer>
+	<Year>1953</Year>
+</ComicInfo>

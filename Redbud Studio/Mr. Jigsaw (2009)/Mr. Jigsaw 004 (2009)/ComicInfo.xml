@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Mr. Jigsaw</Characters>
+	<Count>9</Count>
+	<CoverArtist>Nick Runge</CoverArtist>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-221113</GTIN>
+	<Genre>Superhero</Genre>
+	<Imprint>Redbud Studios</Imprint>
+	<Inker>Gary Kato</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Maine</Locations>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-19T21:25:20 [Issue ID 4000-221113] urn:comicvine:4000-221113 urn:grandcomicsdatabase:issue/840044</Notes>
+	<Number>4</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2010" ImageHeight="3075" ImageSize="7685940" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2010" ImageHeight="3075" ImageSize="2171381"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2010" ImageHeight="3075" ImageSize="5548439"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2010" ImageHeight="3075" ImageSize="5357708"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2010" ImageHeight="3075" ImageSize="3632268"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2010" ImageHeight="3075" ImageSize="3489021"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2010" ImageHeight="3075" ImageSize="3963435"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2010" ImageHeight="3075" ImageSize="4425664"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2010" ImageHeight="3075" ImageSize="4480001"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2010" ImageHeight="3075" ImageSize="4840985"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2010" ImageHeight="3075" ImageSize="4686380"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2010" ImageHeight="3075" ImageSize="5142921"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2010" ImageHeight="3075" ImageSize="4256131"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2010" ImageHeight="3075" ImageSize="4307026"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2010" ImageHeight="3075" ImageSize="4802398"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2010" ImageHeight="3075" ImageSize="5018746"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2010" ImageHeight="3075" ImageSize="4584307"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2010" ImageHeight="3075" ImageSize="4275845"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2010" ImageHeight="3075" ImageSize="4448559"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2010" ImageHeight="3075" ImageSize="4480488"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2010" ImageHeight="3075" ImageSize="4023695"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2010" ImageHeight="3075" ImageSize="4024246"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2010" ImageHeight="3075" ImageSize="4198305"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2010" ImageHeight="3075" ImageSize="4262014"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2010" ImageHeight="3075" ImageSize="4428415"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2010" ImageHeight="3075" ImageSize="3324859"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2010" ImageHeight="3075" ImageSize="3036794"/>
+		<Page Image="27" ImageSize="12973136"/>
+	</Pages>
+	<Penciller>Gary Kato</Penciller>
+	<Publisher>Redbud Studio</Publisher>
+	<Series>Mr. Jigsaw</Series>
+	<Title>Mr. Jigsaw</Title>
+	<Volume>2009</Volume>
+	<Web>https://comicvine.gamespot.com/mr-jigsaw-4-mr-jigsaw/4000-221113/</Web>
+	<Writer>Ron Fortier</Writer>
+	<Year>2009</Year>
+</ComicInfo>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>6</Count>
+  <Format>Series</Format>
+  <GTIN>urn:comicvine:4000-1056398</GTIN>
+  <Genre>Anthology,Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-08-24T18:45:36 [Issue ID 4000-1056398] urn:comicvine:4000-1056398</Notes>
+  <Number>6</Number>
+  <PageCount>35</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3982" ImageSize="1549316" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3982" ImageSize="1796651" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3982" ImageSize="1939938" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3982" ImageSize="2069650" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3982" ImageSize="2106436" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3982" ImageSize="2359673" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3982" ImageSize="2193168" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3982" ImageSize="2618864" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3982" ImageSize="2437218" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3982" ImageSize="2521756" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3982" ImageSize="2661012" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3982" ImageSize="2773177" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3982" ImageSize="2230448" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3982" ImageSize="2474556" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3982" ImageSize="2852438" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3982" ImageSize="2676164" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3982" ImageSize="2426523" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3982" ImageSize="2157125" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3982" ImageSize="2643296" ImageWidth="2560" />
+    <Page DoublePage="True" Image="19" ImageHeight="3982" ImageSize="2996511" ImageWidth="5120" />
+    <Page DoublePage="False" Image="20" ImageHeight="3982" ImageSize="1863391" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3982" ImageSize="1655987" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3982" ImageSize="1576544" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3982" ImageSize="1847843" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3982" ImageSize="1763201" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3982" ImageSize="1891849" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3982" ImageSize="1845655" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3982" ImageSize="1698610" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3982" ImageSize="1872101" ImageWidth="2560" />
+    <Page DoublePage="False" Image="29" ImageHeight="3982" ImageSize="1409033" ImageWidth="2560" />
+    <Page DoublePage="False" Image="30" ImageHeight="3982" ImageSize="1810599" ImageWidth="2560" />
+    <Page DoublePage="False" Image="31" ImageHeight="3982" ImageSize="1497995" ImageWidth="2560" />
+    <Page DoublePage="False" Image="32" ImageHeight="3982" ImageSize="1913974" ImageWidth="2560" />
+    <Page DoublePage="False" Image="33" ImageHeight="3982" ImageSize="2356380" ImageWidth="2560" />
+    <Page DoublePage="False" Image="34" ImageHeight="3982" ImageSize="4370244" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Antarctic Press</Publisher>
+  <Series>Tomorrow Girl</Series>
+  <Summary>Follow the adventures of the Maid of Might</Summary>
+  <Volume>2023</Volume>
+  <Web>https://comicvine.gamespot.com/tomorrow-girl-5/4000-1056398/</Web>
+  <Year>2024</Year>
+</ComicInfo>

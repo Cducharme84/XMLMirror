@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Gravel,Allie</Characters>
+  <Count>3</Count>
+  <Country>US</Country>
+  <Editor>William Christensen</Editor>
+  <Format>Limited Series</Format>
+  <GTIN>urn:comicvine:4000-806708</GTIN>
+  <Inker>Dan Parsons</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Los Angeles</Locations>
+  <Month>3</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:33:13 [Issue ID 4000-806708] urn:comicvine:4000-806708 urn:grandcomicsdatabase:issue/806708
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:12:02. [Issue ID 806708]</Notes>
+  <Number>3</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="461782" Type="FrontCover" />
+    <Page Image="1" ImageSize="317103" />
+    <Page Image="2" ImageSize="310774" />
+    <Page Image="3" ImageSize="373443" />
+    <Page Image="4" ImageSize="349343" />
+    <Page Image="5" ImageSize="339546" />
+    <Page Image="6" ImageSize="396054" />
+    <Page Image="7" ImageSize="328295" />
+    <Page Image="8" ImageSize="307325" />
+    <Page Image="9" ImageSize="314925" />
+    <Page Image="10" ImageSize="323723" />
+    <Page Image="11" ImageSize="376822" />
+    <Page Image="12" ImageSize="303525" />
+    <Page Image="13" ImageSize="321679" />
+    <Page Image="14" ImageSize="368515" />
+    <Page Image="15" ImageSize="349202" />
+    <Page Image="16" ImageSize="319020" />
+    <Page Image="17" ImageSize="377461" />
+    <Page Image="18" ImageSize="350721" />
+    <Page Image="19" ImageSize="296212" />
+    <Page Image="20" ImageSize="284228" />
+    <Page Image="21" ImageSize="325122" />
+    <Page Image="22" ImageSize="306644" />
+    <Page Image="23" ImageSize="274499" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Stranger Kisses</Series>
+  <Teams>Los Angeles Police Department</Teams>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-806708/</Web>
+  <Writer>Warren Ellis</Writer>
+  <Year>2001</Year>
+</ComicInfo>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Teen</AgeRating>
+	<Characters>Akolyte</Characters>
+	<Colorist>Matheus Huve</Colorist>
+	<Count>4</Count>
+	<Day>1</Day>
+	<Editor>Daniel Calvo</Editor>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-966899</GTIN>
+	<Genre>Action,Superhero</Genre>
+	<Inker>Bruno Lima</Inker>
+	<Letterer>Lonzo Starr</Letterer>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-22T12:29:53 [Issue ID 4000-966899] urn:comicvine:4000-966899</Notes>
+	<Number>2</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3848" ImageSize="2204813" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3848" ImageSize="2327453"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3848" ImageSize="1922107"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3848" ImageSize="1847380"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3848" ImageSize="1717351"/>
+		<Page DoublePage="True" Image="5" ImageWidth="5120" ImageHeight="3848" ImageSize="3133355"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3848" ImageSize="1941361"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3848" ImageSize="2313098"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3848" ImageSize="1936482"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3848" ImageSize="1701702"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3848" ImageSize="2243059"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3848" ImageSize="1721631"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3848" ImageSize="2230649"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3848" ImageSize="2371192"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3848" ImageSize="1994428"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3848" ImageSize="1518979"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3848" ImageSize="2278566"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3848" ImageSize="2101236"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3848" ImageSize="1723321"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3848" ImageSize="2075377"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3848" ImageSize="2589294"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3848" ImageSize="2372461"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3848" ImageSize="1854611"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3848" ImageSize="2172694"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3848" ImageSize="733215"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3848" ImageSize="2196685"/>
+		<Page Image="26" ImageSize="649374"/>
+	</Pages>
+	<Publisher>Konkret Comics</Publisher>
+	<Series>Akolyte</Series>
+	<Summary>A few years after learning about his cosmic powers, Akolyte returns to Earth as its greatest hero. However, his mere presence has awakened many enemies, ranging from the criminal underground, the government, and a mysterious menace from outer space! The time has come for Akolyte to show the world who he truly is. Will the hero of Sapphire City fold under pressure, or will he rise to the occasion as the world's brightest light?</Summary>
+	<Title>Legacy of a Supreme</Title>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/akolyte-2-legacy-of-a-supreme/4000-966899/</Web>
+	<Writer>Lonzo Starr</Writer>
+	<Year>2020</Year>
+</ComicInfo>

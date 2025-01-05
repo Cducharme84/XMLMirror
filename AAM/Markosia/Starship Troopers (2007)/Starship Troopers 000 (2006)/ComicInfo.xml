@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Hopper Bug,Warrior Bug</Characters>
+	<Colorist>Wes Hartman</Colorist>
+	<Day>1</Day>
+	<Editor>Richard Emms</Editor>
+	<GTIN>urn:comicvine:4000-181923</GTIN>
+	<Inker>Andie Tong,John Feeney</Inker>
+	<Letterer>Richard Emms</Letterer>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:17:14 [Issue ID 4000-181923] urn:comicvine:4000-181923</Notes>
+	<Number>0</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1200" ImageHeight="1849" ImageSize="698776" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1200" ImageHeight="1870" ImageSize="424655"/>
+		<Page Image="2" ImageWidth="1200" ImageHeight="1850" ImageSize="612245"/>
+		<Page Image="3" ImageWidth="1200" ImageHeight="1851" ImageSize="608721"/>
+		<Page Image="4" ImageWidth="1200" ImageHeight="1845" ImageSize="731394"/>
+		<Page Image="5" ImageWidth="1200" ImageHeight="1874" ImageSize="649492"/>
+		<Page Image="6" ImageWidth="1200" ImageHeight="1867" ImageSize="698966"/>
+		<Page Image="7" ImageWidth="1200" ImageHeight="1857" ImageSize="625964"/>
+		<Page Image="8" ImageWidth="1200" ImageHeight="1864" ImageSize="631352"/>
+		<Page Image="9" ImageWidth="1200" ImageHeight="1863" ImageSize="571730"/>
+		<Page Image="10" ImageWidth="1200" ImageHeight="1869" ImageSize="623524"/>
+		<Page Image="11" ImageWidth="1200" ImageHeight="1865" ImageSize="553226"/>
+		<Page Image="12" ImageWidth="1200" ImageHeight="1860" ImageSize="461001"/>
+		<Page Image="13" ImageWidth="1200" ImageHeight="1865" ImageSize="535745"/>
+		<Page Image="14" ImageWidth="1200" ImageHeight="1865" ImageSize="524219"/>
+		<Page Image="15" ImageWidth="1200" ImageHeight="1859" ImageSize="590551"/>
+		<Page Image="16" ImageWidth="1200" ImageHeight="1866" ImageSize="640010"/>
+		<Page Image="17" ImageWidth="1200" ImageHeight="1870" ImageSize="728968"/>
+		<Page Image="18" ImageWidth="1200" ImageHeight="1857" ImageSize="737814"/>
+		<Page Image="19" ImageWidth="1200" ImageHeight="1869" ImageSize="633330"/>
+		<Page Image="20" ImageWidth="1200" ImageHeight="1869" ImageSize="607980"/>
+		<Page Image="21" ImageWidth="1200" ImageHeight="1849" ImageSize="556391"/>
+		<Page Image="22" ImageWidth="1200" ImageHeight="1870" ImageSize="753990"/>
+		<Page Image="23" ImageWidth="1200" ImageHeight="1869" ImageSize="709129"/>
+		<Page Image="24" ImageWidth="1200" ImageHeight="1864" ImageSize="822914"/>
+		<Page Image="25" ImageWidth="1200" ImageHeight="1863" ImageSize="803825"/>
+		<Page Image="26" ImageSize="332387"/>
+	</Pages>
+	<Penciller>Andie Tong</Penciller>
+	<Publisher>AAM/Markosia</Publisher>
+	<ScanInformation>(DarthScanner-DCP)</ScanInformation>
+	<Series>Starship Troopers</Series>
+	<Summary>https://comicvine.gamespot.com/starship-troopers-0-sst-0/4000-181923/</Summary>
+	<Teams>Arachnids</Teams>
+	<Title>SST 0</Title>
+	<Volume>2007</Volume>
+	<Web>https://comicvine.gamespot.com/starship-troopers-0-sst-0/4000-181923/</Web>
+	<Writer>Tony Lee</Writer>
+	<Year>2006</Year>
+</ComicInfo>

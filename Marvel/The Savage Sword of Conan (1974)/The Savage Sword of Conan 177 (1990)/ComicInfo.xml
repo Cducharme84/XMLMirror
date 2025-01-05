@@ -1,0 +1,106 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Daria,Bakii,Conan,Nhemed</Characters>
+  <GTIN>urn:comicvine:4000-130616</GTIN>
+  <Inker>Al Williamson,Armando Gil,Ernie Chan,Tony DeZuniga,Tony DeZuniga,Al Williamson,Armando Gil,Ernie Chan</Inker>
+  <Letterer>Diana Albers,Diana Albers</Letterer>
+  <Locations>Shadizar,Zembabwei,Tarantia,Hyboria,Zamora,Aquilonia</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T13:44:08 [Issue ID 4000-130616] urn:comicvine:4000-130616
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 11:33:46. [Issue ID 174782]</Notes>
+  <Number>177</Number>
+  <PageCount>68</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1032" ImageSize="275217" ImageWidth="770" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1032" ImageSize="241953" ImageWidth="763" />
+    <Page Image="2" ImageHeight="1021" ImageSize="324525" ImageWidth="731" />
+    <Page Image="3" ImageHeight="1021" ImageSize="338963" ImageWidth="727" />
+    <Page Image="4" ImageHeight="1006" ImageSize="292482" ImageWidth="717" />
+    <Page Image="5" ImageHeight="1011" ImageSize="303779" ImageWidth="715" />
+    <Page Image="6" ImageHeight="1024" ImageSize="305839" ImageWidth="737" />
+    <Page Image="7" ImageHeight="1015" ImageSize="310744" ImageWidth="730" />
+    <Page Image="8" ImageHeight="1026" ImageSize="323210" ImageWidth="731" />
+    <Page Image="9" ImageHeight="1024" ImageSize="297363" ImageWidth="724" />
+    <Page Image="10" ImageHeight="1018" ImageSize="325611" ImageWidth="718" />
+    <Page Image="11" ImageHeight="1016" ImageSize="363938" ImageWidth="729" />
+    <Page Image="12" ImageHeight="1022" ImageSize="332215" ImageWidth="722" />
+    <Page Image="13" ImageHeight="1023" ImageSize="318700" ImageWidth="726" />
+    <Page Image="14" ImageHeight="1022" ImageSize="317031" ImageWidth="719" />
+    <Page Image="15" ImageHeight="1017" ImageSize="332480" ImageWidth="717" />
+    <Page Image="16" ImageHeight="1024" ImageSize="298038" ImageWidth="733" />
+    <Page Image="17" ImageHeight="1015" ImageSize="329027" ImageWidth="737" />
+    <Page Image="18" ImageHeight="1017" ImageSize="328155" ImageWidth="736" />
+    <Page Image="19" ImageHeight="1015" ImageSize="344561" ImageWidth="709" />
+    <Page Image="20" ImageHeight="1024" ImageSize="313161" ImageWidth="722" />
+    <Page Image="21" ImageHeight="1020" ImageSize="290010" ImageWidth="730" />
+    <Page Image="22" ImageHeight="1022" ImageSize="300282" ImageWidth="733" />
+    <Page Image="23" ImageHeight="1020" ImageSize="301940" ImageWidth="724" />
+    <Page Image="24" ImageHeight="1020" ImageSize="333763" ImageWidth="732" />
+    <Page Image="25" ImageHeight="1018" ImageSize="322319" ImageWidth="731" />
+    <Page Image="26" ImageHeight="1030" ImageSize="311876" ImageWidth="734" />
+    <Page Image="27" ImageHeight="1011" ImageSize="318664" ImageWidth="731" />
+    <Page Image="28" ImageHeight="1021" ImageSize="332019" ImageWidth="720" />
+    <Page Image="29" ImageHeight="1018" ImageSize="295851" ImageWidth="731" />
+    <Page Image="30" ImageHeight="1026" ImageSize="331352" ImageWidth="732" />
+    <Page Image="31" ImageHeight="1028" ImageSize="321744" ImageWidth="726" />
+    <Page Image="32" ImageHeight="1019" ImageSize="317957" ImageWidth="729" />
+    <Page Image="33" ImageHeight="1021" ImageSize="290791" ImageWidth="726" />
+    <Page Image="34" ImageHeight="1013" ImageSize="297867" ImageWidth="716" />
+    <Page Image="35" ImageHeight="1015" ImageSize="365305" ImageWidth="730" />
+    <Page Image="36" ImageHeight="1019" ImageSize="355098" ImageWidth="724" />
+    <Page Image="37" ImageHeight="1019" ImageSize="321896" ImageWidth="730" />
+    <Page Image="38" ImageHeight="1019" ImageSize="398637" ImageWidth="719" />
+    <Page Image="39" ImageHeight="1017" ImageSize="338204" ImageWidth="724" />
+    <Page Image="40" ImageHeight="1020" ImageSize="378511" ImageWidth="718" />
+    <Page Image="41" ImageHeight="1015" ImageSize="383186" ImageWidth="715" />
+    <Page Image="42" ImageHeight="1014" ImageSize="381857" ImageWidth="722" />
+    <Page Image="43" ImageHeight="1022" ImageSize="370967" ImageWidth="720" />
+    <Page Image="44" ImageHeight="1024" ImageSize="366256" ImageWidth="721" />
+    <Page Image="45" ImageHeight="1020" ImageSize="349851" ImageWidth="730" />
+    <Page Image="46" ImageHeight="1020" ImageSize="373117" ImageWidth="727" />
+    <Page Image="47" ImageHeight="1024" ImageSize="392302" ImageWidth="736" />
+    <Page Image="48" ImageHeight="987" ImageSize="310191" ImageWidth="717" />
+    <Page Image="49" ImageHeight="1018" ImageSize="385954" ImageWidth="731" />
+    <Page Image="50" ImageHeight="1024" ImageSize="398055" ImageWidth="720" />
+    <Page Image="51" ImageHeight="1013" ImageSize="347798" ImageWidth="778" />
+    <Page Image="52" ImageHeight="1011" ImageSize="333399" ImageWidth="751" />
+    <Page Image="53" ImageHeight="1015" ImageSize="350315" ImageWidth="768" />
+    <Page Image="54" ImageHeight="1022" ImageSize="376744" ImageWidth="751" />
+    <Page Image="55" ImageHeight="1019" ImageSize="358770" ImageWidth="722" />
+    <Page Image="56" ImageHeight="1029" ImageSize="378918" ImageWidth="737" />
+    <Page Image="57" ImageHeight="1034" ImageSize="405251" ImageWidth="750" />
+    <Page Image="58" ImageHeight="1030" ImageSize="440247" ImageWidth="717" />
+    <Page Image="59" ImageHeight="1030" ImageSize="343996" ImageWidth="761" />
+    <Page Image="60" ImageHeight="1022" ImageSize="358633" ImageWidth="728" />
+    <Page Image="61" ImageHeight="1026" ImageSize="322995" ImageWidth="749" />
+    <Page Image="62" ImageHeight="1022" ImageSize="297854" ImageWidth="713" />
+    <Page Image="63" ImageHeight="1016" ImageSize="306599" ImageWidth="756" />
+    <Page Image="64" ImageHeight="1019" ImageSize="312384" ImageWidth="734" />
+    <Page Image="65" ImageHeight="1026" ImageSize="338998" ImageWidth="750" />
+    <Page Image="66" ImageHeight="1034" ImageSize="404717" ImageWidth="726" />
+    <Page Image="67" ImageSize="294463" />
+  </Pages>
+  <Penciller>Ernie Chan,Luke McDonnell,Matthew Jorgensen,Steve Carr,Luke McDonnell,Steve Carr,Matthew Jorgensen,Ernie Chan</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>The Savage Sword of Conan</Series>
+  <Summary>The Well of Whispers: In lawless Shadizar the Wicked, Conan is accused of murdering a savage chieftain.
+
+King Kull: The saga of Kull rendered in a series of illustrations.
+
+The Revenge of the Red Brotherhood: It is never wise to betray those you hire.
+
+The Ties That Bind: A tired King dreams of deadly dwarves.
+
+</Summary>
+  <Tags>Shadizar,Zenobia,Zembabwei,Conan,Tarantia,Conn,Valeria,Kull,Hyboria,Red Brotherhood,Zamora,Aquilonia</Tags>
+  <Teams>Red Brotherhood</Teams>
+  <Title>The Well of Whispers; King Kull; The Revenge of the Red Brotherhood; The Ties That Bind</Title>
+  <Volume>1974</Volume>
+  <Web>https://comicvine.gamespot.com/the-savage-sword-of-conan-177-the-well-of-whispers/4000-130616/</Web>
+  <Writer>Chuck Dixon,Matthew Jorgensen,Renee Witterstaetter,Robert E. Howard,S.C. Ringgenberg,Charles Dixon,Steve Ringgenberg,Charles Dixon,Steve Ringgenberg,Renee Witterstaetter</Writer>
+  <Year>1990</Year>
+  <Count>235</Count>
+  <CoverArtist>Ovi Hondru</CoverArtist>
+  <Genre>Fantasy</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Editor>Mike Rockwitz</Editor>
+</ComicInfo>

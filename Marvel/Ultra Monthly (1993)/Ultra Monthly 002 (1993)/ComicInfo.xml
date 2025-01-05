@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Prime,Al Baker,Hardcase,Duey,Choice</Characters>
+  <Colorist>Keith Conroy</Colorist>
+  <Count>6</Count>
+  <GTIN>urn:comicvine:4000-144630</GTIN>
+  <Imprint>Malibu Comics</Imprint>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:13:31 [Issue ID 4000-144630] urn:comicvine:4000-144630
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 05:30:35. [Issue ID 2516215]</Notes>
+  <Number>2</Number>
+  <PageCount>16</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="477009" Type="FrontCover" />
+    <Page Image="1" ImageSize="1363203" />
+    <Page Image="2" ImageSize="112447" />
+    <Page Image="3" ImageSize="379029" />
+    <Page Image="4" ImageSize="325255" />
+    <Page Image="5" ImageSize="395951" />
+    <Page Image="6" ImageSize="474091" />
+    <Page Image="7" ImageSize="422450" />
+    <Page Image="8" ImageSize="486283" />
+    <Page Image="9" ImageSize="447296" />
+    <Page Image="10" ImageSize="483676" />
+    <Page Image="11" ImageSize="426519" />
+    <Page Image="12" ImageSize="515552" />
+    <Page Image="13" ImageSize="526034" />
+    <Page Image="14" ImageSize="476309" />
+    <Page Image="15" ImageSize="489327" />
+  </Pages>
+  <Penciller>Mike Wieringo</Penciller>
+  <Publisher>Marvel</Publisher>
+  <Series>Ultra Monthly</Series>
+  <Summary>Second number of the in-universe magazine. It follows an interview with Hardcase about his return to hero activity.</Summary>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/ultra-monthly-2/4000-144630/</Web>
+  <Writer>James Robinson</Writer>
+  <Year>1993</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

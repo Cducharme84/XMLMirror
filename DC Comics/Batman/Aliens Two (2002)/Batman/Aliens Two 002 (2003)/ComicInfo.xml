@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Batman</Characters>
+	<Colorist>Gregory Wright</Colorist>
+	<Day>1</Day>
+	<Editor>Michael Wright</Editor>
+	<Format>Digital</Format>
+	<GTIN>urn:comixology:467325</GTIN>
+	<Genre>Military,Movies &amp; TV</Genre>
+	<Inker>James Hodgkins,Staz Johnson</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>John Workman</Letterer>
+	<Month>3</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:47:37 [Issue ID 4000-173366] urn:comicvine:4000-173366 urn:comixology:467325</Notes>
+	<Number>2</Number>
+	<PageCount>48</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="1041387" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3056" ImageSize="717922"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3056" ImageSize="788369"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="1975833"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="1650077"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="1199761"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="1216919"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="1353398"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="1405239"/>
+		<Page Image="9" ImageWidth="3975" ImageHeight="3056" ImageSize="3545305"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="2030200"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="2012787"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1575339"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="1540469"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="1720798"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="2004657"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="1706592"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1801259"/>
+		<Page Image="18" ImageWidth="3975" ImageHeight="3056" ImageSize="3813017"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="1907267"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1869168"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="1738519"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="2213500"/>
+		<Page Image="23" ImageWidth="1988" ImageHeight="3056" ImageSize="1303589"/>
+		<Page Image="24" ImageWidth="1988" ImageHeight="3056" ImageSize="1970759"/>
+		<Page Image="25" ImageWidth="1988" ImageHeight="3056" ImageSize="1561277"/>
+		<Page Image="26" ImageWidth="1988" ImageHeight="3056" ImageSize="1593528"/>
+		<Page Image="27" ImageWidth="1988" ImageHeight="3056" ImageSize="1887861"/>
+		<Page Image="28" ImageWidth="1988" ImageHeight="3056" ImageSize="1996497"/>
+		<Page Image="29" ImageWidth="1988" ImageHeight="3056" ImageSize="2250286"/>
+		<Page Image="30" ImageWidth="1988" ImageHeight="3056" ImageSize="1854053"/>
+		<Page Image="31" ImageWidth="3975" ImageHeight="3056" ImageSize="4124742"/>
+		<Page Image="32" ImageWidth="1988" ImageHeight="3056" ImageSize="1519502"/>
+		<Page Image="33" ImageWidth="1988" ImageHeight="3056" ImageSize="1727986"/>
+		<Page Image="34" ImageWidth="1988" ImageHeight="3056" ImageSize="1611479"/>
+		<Page Image="35" ImageWidth="1988" ImageHeight="3056" ImageSize="1668684"/>
+		<Page Image="36" ImageWidth="1988" ImageHeight="3056" ImageSize="2013812"/>
+		<Page Image="37" ImageWidth="1988" ImageHeight="3056" ImageSize="1930959"/>
+		<Page Image="38" ImageWidth="1988" ImageHeight="3056" ImageSize="1951297"/>
+		<Page Image="39" ImageWidth="1988" ImageHeight="3056" ImageSize="1889484"/>
+		<Page Image="40" ImageWidth="1988" ImageHeight="3056" ImageSize="1639840"/>
+		<Page Image="41" ImageWidth="1988" ImageHeight="3056" ImageSize="2018261"/>
+		<Page Image="42" ImageWidth="1988" ImageHeight="3056" ImageSize="1423891"/>
+		<Page Image="43" ImageWidth="1988" ImageHeight="3056" ImageSize="1634135"/>
+		<Page Image="44" ImageWidth="1988" ImageHeight="3056" ImageSize="2367609"/>
+		<Page Image="45" ImageWidth="1988" ImageHeight="3056" ImageSize="1846487"/>
+		<Page Image="46" ImageWidth="1988" ImageHeight="3056" ImageSize="1822276"/>
+		<Page Image="47" ImageSize="1166903"/>
+	</Pages>
+	<Penciller>Staz Johnson</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<ScanInformation>(Digital) (Shadowcat-Empire)</ScanInformation>
+	<Series>Batman/Aliens Two</Series>
+	<Summary>A black-ops government agency has taken over the Aliens case! But there's still at least one very fierce, very hungry Alien on the loose in Gotham City! Can Batman stop it from wreaking havoc in Arkham Asylum?
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-07-22 15:39:49.  [CVDB173366]
+
+https://comicvine.gamespot.com/batmanaliens-ii-2/4000-173366/</Summary>
+	<Teams>Aliens (Xenomorphs)</Teams>
+	<Volume>2002</Volume>
+	<Web>https://comicvine.gamespot.com/batmanaliens-ii-2/4000-173366/</Web>
+	<Writer>Ian Edginton</Writer>
+	<Year>2003</Year>
+</ComicInfo>

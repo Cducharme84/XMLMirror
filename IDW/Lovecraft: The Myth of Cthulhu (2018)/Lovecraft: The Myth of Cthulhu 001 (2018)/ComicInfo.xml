@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Cthulhu</Characters>
+  <Colorist>Santi Casas</Colorist>
+  <Day>14</Day>
+  <Editor>Alonzo Simon,Justin Eisinger</Editor>
+  <GTIN>urn:comicvine:4000-659932</GTIN>
+  <Inker>Esteban Maroto</Inker>
+  <Locations>Kingsport</Locations>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T00:40:36 [Issue ID 4000-659932] urn:comicvine:4000-659932
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-09 14:17:25. [Issue ID 1786545]</Notes>
+  <Number>1</Number>
+  <PageCount>83</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="2222251" Type="FrontCover" />
+    <Page Image="1" ImageSize="2597538" />
+    <Page Image="2" ImageSize="121513" />
+    <Page Image="3" ImageSize="197017" />
+    <Page Image="4" ImageSize="1418612" />
+    <Page Image="5" ImageSize="5872802" />
+    <Page Image="6" ImageSize="4866725" />
+    <Page Image="7" ImageSize="1558862" />
+    <Page Image="8" ImageSize="3134559" />
+    <Page Image="9" ImageSize="1418132" />
+    <Page Image="10" ImageSize="1818228" />
+    <Page Image="11" ImageSize="2240938" />
+    <Page Image="12" ImageSize="1920704" />
+    <Page Image="13" ImageSize="2806431" />
+    <Page Image="14" ImageSize="2191135" />
+    <Page Image="15" ImageSize="2534115" />
+    <Page Image="16" ImageSize="2499821" />
+    <Page Image="17" ImageSize="1536304" />
+    <Page Image="18" ImageSize="2322779" />
+    <Page Image="19" ImageSize="1562001" />
+    <Page Image="20" ImageSize="1531751" />
+    <Page Image="21" ImageSize="2704040" />
+    <Page Image="22" ImageSize="448450" />
+    <Page Image="23" ImageSize="1537291" />
+    <Page Image="24" ImageSize="1528721" />
+    <Page Image="25" ImageSize="2181833" />
+    <Page Image="26" ImageSize="1988376" />
+    <Page Image="27" ImageSize="2171282" />
+    <Page Image="28" ImageSize="2099697" />
+    <Page Image="29" ImageSize="1537312" />
+    <Page Image="30" ImageSize="1933370" />
+    <Page Image="31" ImageSize="2633110" />
+    <Page Image="32" ImageSize="2665360" />
+    <Page Image="33" ImageSize="1746145" />
+    <Page Image="34" ImageSize="1587070" />
+    <Page Image="35" ImageSize="1879604" />
+    <Page Image="36" ImageSize="2139412" />
+    <Page Image="37" ImageSize="1761463" />
+    <Page Image="38" ImageSize="1994600" />
+    <Page Image="39" ImageSize="1469897" />
+    <Page Image="40" ImageSize="1676664" />
+    <Page Image="41" ImageSize="1449922" />
+    <Page Image="42" ImageSize="1619970" />
+    <Page Image="43" ImageSize="1840395" />
+    <Page Image="44" ImageSize="465707" />
+    <Page Image="45" ImageSize="1261560" />
+    <Page Image="46" ImageSize="1303857" />
+    <Page Image="47" ImageSize="2571677" />
+    <Page Image="48" ImageSize="2298955" />
+    <Page Image="49" ImageSize="1690636" />
+    <Page Image="50" ImageSize="1886187" />
+    <Page Image="51" ImageSize="2415190" />
+    <Page Image="52" ImageSize="2015690" />
+    <Page Image="53" ImageSize="1970884" />
+    <Page Image="54" ImageSize="2002358" />
+    <Page Image="55" ImageSize="1746627" />
+    <Page Image="56" ImageSize="1688539" />
+    <Page Image="57" ImageSize="1672458" />
+    <Page Image="58" ImageSize="1853905" />
+    <Page Image="59" ImageSize="2182737" />
+    <Page Image="60" ImageSize="1966151" />
+    <Page Image="61" ImageSize="2206334" />
+    <Page Image="62" ImageSize="2060956" />
+    <Page Image="63" ImageSize="1794091" />
+    <Page Image="64" ImageSize="2415946" />
+    <Page Image="65" ImageSize="1361881" />
+    <Page Image="66" ImageSize="1517977" />
+    <Page Image="67" ImageSize="2982539" />
+    <Page Image="68" ImageSize="2315445" />
+    <Page Image="69" ImageSize="2148540" />
+    <Page Image="70" ImageSize="1898442" />
+    <Page Image="71" ImageSize="2400336" />
+    <Page Image="72" ImageSize="1929850" />
+    <Page Image="73" ImageSize="2605230" />
+    <Page Image="74" ImageSize="2214178" />
+    <Page Image="75" ImageSize="2225880" />
+    <Page Image="76" ImageSize="3621128" />
+    <Page Image="77" ImageSize="1973791" />
+    <Page Image="78" ImageSize="1323144" />
+    <Page Image="79" ImageSize="198238" />
+    <Page Image="80" ImageSize="121377" />
+    <Page Image="81" ImageSize="1895136" />
+    <Page Image="82" ImageSize="2431294" />
+  </Pages>
+  <Penciller>Esteban Maroto</Penciller>
+  <Publisher>IDW</Publisher>
+  <Series>Lovecraft: The Myth of Cthulhu</Series>
+  <Summary>Illustrated in haunting black and white over 30 years ago, these comics are re-presented in a new edition, adapting three of H.P. Lovecraft's most famous stories involving the Cthulhu Mythos.
+
+"The Nameless City" is considered the first story of Lovecraft's Cthulhu Mythos, detailing the discovery of an ancient city in the deserts of the Arabian Peninsula built by an unnamed race of reptilian beings. In "The Festival," a man arrives at the sea town of Kingsport, Massachusetts during Christmas but finds a place eerily empty and centuries out of date. "The Call of Cthulhu" is perhaps Lovecraft's most famous story, describing a man who, after finding the notes of his granduncle, is lead on a journey around the world in search of a mysterious and disturbing phenomenon.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-14 09:11:34.  [CVDB659932]
+
+https://comicvine.gamespot.com/lovecraft-the-myth-of-cthulhu-1-hc/4000-659932/</Summary>
+  <Tags>Kingsport,Cthulhu</Tags>
+  <Title>The Nameless City; The Festival; The Call of Cthulhu</Title>
+  <Volume>2018</Volume>
+  <Web>https://comicvine.gamespot.com/lovecraft-the-myth-of-cthulhu-1-hc/4000-659932/</Web>
+  <Writer>Esteban Maroto</Writer>
+  <Year>2018</Year>
+  <Count>1</Count>
+  <Genre>Horror-suspense</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>One-Shot</Format>
+</ComicInfo>

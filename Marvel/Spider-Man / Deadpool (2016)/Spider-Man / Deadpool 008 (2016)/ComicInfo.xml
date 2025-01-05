@@ -1,0 +1,152 @@
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Patient Zero,Deadpool [Wade Wilson],Anna Maria Marconi,Spider-Man [Peter Parker]</Characters>
+  <Count>51</Count>
+  <Editor>Jordan D. White,Nick Lowe,Devin Lewis</Editor>
+  <GTIN>urn:comicvine:4000-543757</GTIN>
+  <Inker>John Livesay,Mark Morales,Livesay,Mark Morales,Livesay</Inker>
+  <Letterer>Joe Sabino,Joe Sabino</Letterer>
+  <Locations>New York State,New York City,New Jersey,Parker Industries</Locations>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T14:35:41 [Issue ID 4000-543757] urn:comicvine:4000-543757
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-15 15:25:12. [Issue ID 1611112]</Notes>
+  <Number>8</Number>
+  <PageCount>108</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1819750" Type="FrontCover" />
+    <Page Image="1" ImageSize="579052" />
+    <Page Image="2" ImageSize="806723" />
+    <Page Image="3" ImageSize="1213000" />
+    <Page Image="4" ImageSize="1615762" />
+    <Page Image="5" ImageSize="1463386" />
+    <Page Image="6" ImageSize="3490859" />
+    <Page Image="7" ImageSize="2132481" />
+    <Page Image="8" ImageSize="1792383" />
+    <Page Image="9" ImageSize="1118985" />
+    <Page Image="10" ImageSize="1425872" />
+    <Page Image="11" ImageSize="1477917" />
+    <Page Image="12" ImageSize="1505601" />
+    <Page Image="13" ImageSize="2044187" />
+    <Page Image="14" ImageSize="1815552" />
+    <Page Image="15" ImageSize="2357978" />
+    <Page Image="16" ImageSize="2377205" />
+    <Page Image="17" ImageSize="2673362" />
+    <Page Image="18" ImageSize="1912392" />
+    <Page Image="19" ImageSize="1327525" />
+    <Page Image="20" ImageSize="1827206" />
+    <Page Image="21" ImageSize="2076192" />
+    <Page Image="22" ImageSize="2376081" />
+    <Page Image="23" ImageSize="1294297" />
+    <Page Image="24" ImageSize="1088842" />
+    <Page Image="25" ImageSize="691158" />
+    <Page Image="26" ImageSize="2997886" />
+    <Page Image="27" ImageSize="1935893" />
+    <Page Image="28" ImageSize="2121023" />
+    <Page Image="29" ImageSize="1894569" />
+    <Page Image="30" ImageSize="2213988" />
+    <Page Image="31" ImageSize="2213358" />
+    <Page Image="32" ImageSize="1440093" />
+    <Page Image="33" ImageSize="1586311" />
+    <Page Image="34" ImageSize="2177418" />
+    <Page Image="35" ImageSize="1621341" />
+    <Page Image="36" ImageSize="2120240" />
+    <Page Image="37" ImageSize="1929624" />
+    <Page Image="38" ImageSize="3043114" />
+    <Page Image="39" ImageSize="1602974" />
+    <Page Image="40" ImageSize="1565051" />
+    <Page Image="41" ImageSize="1860104" />
+    <Page Image="42" ImageSize="1766348" />
+    <Page Image="43" ImageSize="2001808" />
+    <Page Image="44" ImageSize="1405549" />
+    <Page Image="45" ImageSize="3203846" />
+    <Page Image="46" ImageSize="2161675" />
+    <Page Image="47" ImageSize="2136579" />
+    <Page Image="48" ImageSize="2085299" />
+    <Page Image="49" ImageSize="2022855" />
+    <Page Image="50" ImageSize="1578595" />
+    <Page Image="51" ImageSize="1993002" />
+    <Page Image="52" ImageSize="1609811" />
+    <Page Image="53" ImageSize="1836301" />
+    <Page Image="54" ImageSize="1875020" />
+    <Page Image="55" ImageSize="1786430" />
+    <Page Image="56" ImageSize="1700567" />
+    <Page Image="57" ImageSize="2202496" />
+    <Page Image="58" ImageSize="1903913" />
+    <Page Image="59" ImageSize="1711049" />
+    <Page Image="60" ImageSize="1945054" />
+    <Page Image="61" ImageSize="1616460" />
+    <Page Image="62" ImageSize="1750336" />
+    <Page Image="63" ImageSize="2235961" />
+    <Page Image="64" ImageSize="1464359" />
+    <Page Image="65" ImageSize="1807901" />
+    <Page Image="66" ImageSize="1237128" />
+    <Page Image="67" ImageSize="1346729" />
+    <Page Image="68" ImageSize="1699425" />
+    <Page Image="69" ImageSize="1491148" />
+    <Page Image="70" ImageSize="1729245" />
+    <Page Image="71" ImageSize="2147397" />
+    <Page Image="72" ImageSize="1989545" />
+    <Page Image="73" ImageSize="1841520" />
+    <Page Image="74" ImageSize="1759818" />
+    <Page Image="75" ImageSize="1452524" />
+    <Page Image="76" ImageSize="1518608" />
+    <Page Image="77" ImageSize="1692528" />
+    <Page Image="78" ImageSize="1865726" />
+    <Page Image="79" ImageSize="1581743" />
+    <Page Image="80" ImageSize="1472395" />
+    <Page Image="81" ImageSize="1470504" />
+    <Page Image="82" ImageSize="1526974" />
+    <Page Image="83" ImageSize="1945449" />
+    <Page Image="84" ImageSize="1466896" />
+    <Page Image="85" ImageSize="1571626" />
+    <Page Image="86" ImageSize="1978507" />
+    <Page Image="87" ImageSize="1979223" />
+    <Page Image="88" ImageSize="1957038" />
+    <Page Image="89" ImageSize="1962670" />
+    <Page Image="90" ImageSize="2348215" />
+    <Page Image="91" ImageSize="2364723" />
+    <Page Image="92" ImageSize="1893059" />
+    <Page Image="93" ImageSize="2014399" />
+    <Page Image="94" ImageSize="1408398" />
+    <Page Image="95" ImageSize="1852493" />
+    <Page Image="96" ImageSize="2233520" />
+    <Page Image="97" ImageSize="1847365" />
+    <Page Image="98" ImageSize="1851061" />
+    <Page Image="99" ImageSize="2106634" />
+    <Page Image="100" ImageSize="2369323" />
+    <Page Image="101" ImageSize="1737300" />
+    <Page Image="102" ImageSize="1695967" />
+    <Page Image="103" ImageSize="1958310" />
+    <Page Image="104" ImageSize="1878800" />
+    <Page Image="105" ImageSize="1748262" />
+    <Page Image="106" ImageSize="1758647" />
+    <Page Image="107" ImageSize="1093141" />
+  </Pages>
+  <Publisher>Marvel</Publisher>
+  <Series>Spider-Man / Deadpool</Series>
+  <Summary>CREATIVE TEAM SUPREME IS BACK!
+
+Finally, Spider-Man and Deadpool are face to face with the person who has caused all the events of this series! WHO IS PATIENT ZERO?!
+
+EVERY issue of this book has sold out and come back with second printings (and #1 is on its FIFTH), so don't sleep on this one, TRUE BELIEVERS!!! Talk to your retailer so you aren't spoiled while you wait for a second print!
+
+Note: The Mephisto deal from the "One More Day" story-arc is referred to in this issue.
+
+ 
+
+*List of covers and their creators:*
+| Cover | Name                                         | Creator(s)                                | Sidebar Location |
+|-------|----------------------------------------------|-------------------------------------------|------------------|
+| Reg   | Regular Cover                                | Ed McGuinness, Mark Morales &amp; Jason Keith | 1                |
+| Var   | Black Panther 50th Anniversary Variant Cover | Tradd Moore                               | 2                |</Summary>
+  <Title>Isn't it Bromantic? [Part Six]</Title>
+  <Volume>2016</Volume>
+  <Web>https://comicvine.gamespot.com/spider-mandeadpool-8-isnt-it-bromantic-conclusion/4000-543757/</Web>
+  <Writer>Joe Kelly,Joe Kelly</Writer>
+  <Year>2016</Year>
+  <Penciller>Ed McGuinness,Ed McGuinness</Penciller>
+  <Colorist>Jason Keith,Jason Keith</Colorist>
+  <CoverArtist>Ed McGuinness,Jason Keith,Mark Morales,Tradd Moore</CoverArtist>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <AgeRating>Rated T+</AgeRating>
+</ComicInfo>

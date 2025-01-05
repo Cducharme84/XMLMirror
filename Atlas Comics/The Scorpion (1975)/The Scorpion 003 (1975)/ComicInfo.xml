@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Golden Fuhrer,Scorpion</Characters>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-125574</GTIN>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:29:51 [Issue ID 4000-125574] urn:comicvine:4000-125574</Notes>
+	<Number>3</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="294315" Type="FrontCover"/>
+		<Page Image="1" ImageSize="248626"/>
+		<Page Image="2" ImageSize="227170"/>
+		<Page Image="3" ImageSize="234619"/>
+		<Page Image="4" ImageSize="237028"/>
+		<Page Image="5" ImageSize="241970"/>
+		<Page Image="6" ImageSize="228521"/>
+		<Page Image="7" ImageSize="231778"/>
+		<Page Image="8" ImageSize="243414"/>
+		<Page Image="9" ImageSize="229672"/>
+		<Page Image="10" ImageSize="244137"/>
+		<Page Image="11" ImageSize="242248"/>
+		<Page Image="12" ImageSize="230851"/>
+		<Page Image="13" ImageSize="216705"/>
+		<Page Image="14" ImageSize="228466"/>
+		<Page Image="15" ImageSize="231718"/>
+		<Page Image="16" ImageSize="237693"/>
+		<Page Image="17" ImageSize="222869"/>
+		<Page Image="18" ImageSize="237432"/>
+		<Page Image="19" ImageSize="236824"/>
+		<Page Image="20" ImageSize="212469"/>
+	</Pages>
+	<Publisher>Atlas Comics</Publisher>
+	<Series>The Scorpion</Series>
+	<Summary>The Golden Fuhrer strikes using a golem as his weapon of choice.
+
+https://comicvine.gamespot.com/the-scorpion-3-the-night-of-the-golden-fuhrer/4000-125574/</Summary>
+	<Tags>Golden Fuhrer,Scorpion</Tags>
+	<Title>The Night of the Golden Fuhrer</Title>
+	<Volume>1975</Volume>
+	<Web>https://comicvine.gamespot.com/the-scorpion-3-the-night-of-the-golden-fuhrer/4000-125574/</Web>
+	<Writer>Gabriel Levy</Writer>
+	<Year>1975</Year>
+</ComicInfo>

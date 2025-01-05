@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Count>4</Count>
+	<Day>1</Day>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-382329</GTIN>
+	<Inker>Daniel Thollin</Inker>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:52:07 [Issue ID 4000-382329] urn:comicvine:4000-382329</Notes>
+	<Number>3</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1081" ImageHeight="1650" ImageSize="443139" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1081" ImageHeight="1650" ImageSize="131298"/>
+		<Page Image="2" ImageWidth="1081" ImageHeight="1650" ImageSize="507558"/>
+		<Page Image="3" ImageWidth="1081" ImageHeight="1650" ImageSize="516562"/>
+		<Page Image="4" ImageWidth="1081" ImageHeight="1650" ImageSize="497851"/>
+		<Page Image="5" ImageWidth="1081" ImageHeight="1650" ImageSize="498870"/>
+		<Page Image="6" ImageWidth="1081" ImageHeight="1650" ImageSize="572545"/>
+		<Page Image="7" ImageWidth="1081" ImageHeight="1650" ImageSize="497740"/>
+		<Page Image="8" ImageWidth="1081" ImageHeight="1650" ImageSize="480776"/>
+		<Page Image="9" ImageWidth="1081" ImageHeight="1650" ImageSize="557124"/>
+		<Page Image="10" ImageWidth="1081" ImageHeight="1650" ImageSize="464088"/>
+		<Page Image="11" ImageWidth="1081" ImageHeight="1650" ImageSize="489194"/>
+		<Page Image="12" ImageWidth="1081" ImageHeight="1650" ImageSize="633257"/>
+		<Page Image="13" ImageWidth="1081" ImageHeight="1650" ImageSize="570816"/>
+		<Page Image="14" ImageWidth="1081" ImageHeight="1650" ImageSize="617285"/>
+		<Page Image="15" ImageWidth="1081" ImageHeight="1650" ImageSize="571383"/>
+		<Page Image="16" ImageWidth="1081" ImageHeight="1650" ImageSize="478575"/>
+		<Page Image="17" ImageWidth="1081" ImageHeight="1650" ImageSize="535450"/>
+		<Page Image="18" ImageWidth="1081" ImageHeight="1650" ImageSize="569928"/>
+		<Page Image="19" ImageWidth="1081" ImageHeight="1650" ImageSize="380254"/>
+		<Page Image="20" ImageWidth="1081" ImageHeight="1650" ImageSize="378860"/>
+		<Page Image="21" ImageWidth="1081" ImageHeight="1650" ImageSize="420736"/>
+		<Page Image="22" ImageWidth="1081" ImageHeight="1650" ImageSize="460935"/>
+		<Page Image="23" ImageWidth="1081" ImageHeight="1650" ImageSize="377329"/>
+		<Page Image="24" ImageWidth="1081" ImageHeight="1650" ImageSize="476391"/>
+		<Page Image="25" ImageWidth="1081" ImageHeight="1650" ImageSize="501947"/>
+		<Page Image="26" ImageWidth="1081" ImageHeight="1650" ImageSize="528945"/>
+		<Page Image="27" ImageWidth="1081" ImageHeight="1650" ImageSize="555711"/>
+		<Page Image="28" ImageWidth="1081" ImageHeight="1650" ImageSize="576049"/>
+		<Page Image="29" ImageWidth="1081" ImageHeight="1650" ImageSize="489992"/>
+		<Page Image="30" ImageWidth="1081" ImageHeight="1650" ImageSize="516733"/>
+		<Page Image="31" ImageWidth="1081" ImageHeight="1650" ImageSize="466988"/>
+		<Page Image="32" ImageWidth="1081" ImageHeight="1650" ImageSize="433285"/>
+		<Page Image="33" ImageSize="282136"/>
+	</Pages>
+	<Penciller>Daniel Thollin</Penciller>
+	<Publisher>Arcana Studio</Publisher>
+	<ScanInformation>(Digital) (Minutemen-InnerDemons)</ScanInformation>
+	<Series>The Evil Tree</Series>
+	<Summary>https://comicvine.gamespot.com/the-evil-tree-3-chapter-three/4000-382329/</Summary>
+	<Title>Chapter Three</Title>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/the-evil-tree-3-chapter-three/4000-382329/</Web>
+	<Writer>Erik Hendrix</Writer>
+	<Year>2012</Year>
+</ComicInfo>

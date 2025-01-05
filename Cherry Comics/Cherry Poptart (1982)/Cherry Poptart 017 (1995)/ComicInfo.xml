@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cherry Poptart</Characters>
+	<Count>23</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-123775</GTIN>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:04 [Issue ID 4000-123775] urn:comicvine:4000-123775</Notes>
+	<Number>17</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="149539" Type="FrontCover"/>
+		<Page Image="1" ImageSize="544539"/>
+		<Page Image="2" ImageSize="288361"/>
+		<Page Image="3" ImageSize="401000"/>
+		<Page Image="4" ImageSize="415972"/>
+		<Page Image="5" ImageSize="411779"/>
+		<Page Image="6" ImageSize="445511"/>
+		<Page Image="7" ImageSize="382244"/>
+		<Page Image="8" ImageSize="383700"/>
+		<Page Image="9" ImageSize="384654"/>
+		<Page Image="10" ImageSize="401832"/>
+		<Page Image="11" ImageSize="369231"/>
+		<Page Image="12" ImageSize="405310"/>
+		<Page Image="13" ImageSize="242704"/>
+		<Page Image="14" ImageSize="350355"/>
+		<Page Image="15" ImageSize="333791"/>
+		<Page Image="16" ImageSize="311111"/>
+		<Page Image="17" ImageSize="283128"/>
+		<Page Image="18" ImageSize="242721"/>
+		<Page Image="19" ImageSize="362445"/>
+		<Page Image="20" ImageSize="371993"/>
+		<Page Image="21" ImageSize="382303"/>
+		<Page Image="22" ImageSize="426717"/>
+		<Page Image="23" ImageSize="407490"/>
+		<Page Image="24" ImageSize="407248"/>
+		<Page Image="25" ImageSize="415251"/>
+		<Page Image="26" ImageSize="415479"/>
+		<Page Image="27" ImageSize="408433"/>
+		<Page Image="28" ImageSize="441113"/>
+		<Page Image="29" ImageSize="387241"/>
+		<Page Image="30" ImageSize="360130"/>
+		<Page Image="31" ImageSize="210010"/>
+		<Page Image="32" ImageSize="392505"/>
+		<Page Image="33" ImageSize="306124"/>
+		<Page Image="34" ImageSize="369912"/>
+		<Page Image="35" ImageSize="231192"/>
+		<Page Image="36" ImageSize="474869"/>
+	</Pages>
+	<Publisher>Cherry Comics</Publisher>
+	<Series>Cherry Poptart</Series>
+	<Summary>Featured Stories:
+
+Young Genetically Altered Samurai Lizards
+Surf Pirates</Summary>
+	<Volume>1982</Volume>
+	<Web>https://comicvine.gamespot.com/cherry-poptart-17/4000-123775/</Web>
+	<Writer>Larry Welz</Writer>
+	<Year>1995</Year>
+</ComicInfo>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Nocturne,Satasha,Lady Death</Characters>
+  <Colorist>Andrew Dalhouse</Colorist>
+  <Count>3</Count>
+  <Country>US</Country>
+  <Editor>William Christensen</Editor>
+  <GTIN>urn:comicvine:4000-122093</GTIN>
+  <Inker>Daniel HDR</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>12</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:44:30 [Issue ID 4000-122093] urn:comicvine:4000-122093 urn:grandcomicsdatabase:issue/733668
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 17:41:52. [Issue ID 733668]</Notes>
+  <Number>0</Number>
+  <PageCount>14</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="581721" Type="FrontCover" />
+    <Page Image="1" ImageSize="376865" />
+    <Page Image="2" ImageSize="395009" />
+    <Page Image="3" ImageSize="448845" />
+    <Page Image="4" ImageSize="534619" />
+    <Page Image="5" ImageSize="417923" />
+    <Page Image="6" ImageSize="435442" />
+    <Page Image="7" ImageSize="446283" />
+    <Page Image="8" ImageSize="409411" />
+    <Page Image="9" ImageSize="392257" />
+    <Page Image="10" ImageSize="443490" />
+    <Page Image="11" ImageSize="506691" />
+    <Page Image="12" ImageSize="517693" />
+    <Page Image="13" ImageSize="385546" />
+  </Pages>
+  <Penciller>Daniel HDR</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Brian Pulido's Lady Death: Sacrilege</Series>
+  <Volume>2006</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-122093/</Web>
+  <Writer>Brian Pulido</Writer>
+  <Year>2006</Year>
+</ComicInfo>

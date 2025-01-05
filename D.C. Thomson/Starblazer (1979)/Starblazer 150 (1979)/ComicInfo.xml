@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Count>281</Count>
+  <Country>GB</Country>
+  <GTIN>urn:comicvine:4000-550764</GTIN>
+  <Genre>Science fiction</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:46:15 [Issue ID 4000-550764] urn:comicvine:4000-550764 urn:grandcomicsdatabase:issue/550764
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 18:53:04. [Issue ID 550764]</Notes>
+  <Number>150</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="513107" Type="FrontCover" />
+    <Page Image="1" ImageSize="357029" />
+    <Page Image="2" ImageSize="710830" />
+    <Page Image="3" ImageSize="708364" />
+    <Page Image="4" ImageSize="676433" />
+    <Page Image="5" ImageSize="704578" />
+    <Page Image="6" ImageSize="687844" />
+    <Page Image="7" ImageSize="702224" />
+    <Page Image="8" ImageSize="653977" />
+    <Page Image="9" ImageSize="696589" />
+    <Page Image="10" ImageSize="652593" />
+    <Page Image="11" ImageSize="652284" />
+    <Page Image="12" ImageSize="683184" />
+    <Page Image="13" ImageSize="652108" />
+    <Page Image="14" ImageSize="618602" />
+    <Page Image="15" ImageSize="690979" />
+    <Page Image="16" ImageSize="598367" />
+    <Page Image="17" ImageSize="575022" />
+    <Page Image="18" ImageSize="602990" />
+    <Page Image="19" ImageSize="682420" />
+    <Page Image="20" ImageSize="611712" />
+    <Page Image="21" ImageSize="631135" />
+    <Page Image="22" ImageSize="628371" />
+    <Page Image="23" ImageSize="672632" />
+    <Page Image="24" ImageSize="605587" />
+    <Page Image="25" ImageSize="612706" />
+    <Page Image="26" ImageSize="606511" />
+    <Page Image="27" ImageSize="601107" />
+    <Page Image="28" ImageSize="542695" />
+    <Page Image="29" ImageSize="566465" />
+    <Page Image="30" ImageSize="606543" />
+    <Page Image="31" ImageSize="676933" />
+    <Page Image="32" ImageSize="569869" />
+    <Page Image="33" ImageSize="578142" />
+    <Page Image="34" ImageSize="604926" />
+    <Page Image="35" ImageSize="277177" />
+  </Pages>
+  <Publisher>D.C. Thomson</Publisher>
+  <Series>Starblazer</Series>
+  <Title>Captain's Choice</Title>
+  <Volume>1979</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-550764/</Web>
+  <Year>1979</Year>
+</ComicInfo>

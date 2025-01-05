@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Brett,Brett (intro),Cindy,Geoff,Geoff (death),Kelly,Kitrick,Patrick,Stan,Thomas</Characters>
+	<Count>10</Count>
+	<Country>US</Country>
+	<Editor>William Christensen</Editor>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-648125</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Locations>Rocky Mountains</Locations>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:24:41 [Issue ID 4000-648125] urn:comicvine:4000-648125 urn:grandcomicsdatabase:issue/648125</Notes>
+	<Number>6</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="2005068" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1064709"/>
+		<Page Image="2" ImageSize="1371066"/>
+		<Page Image="3" ImageSize="1503142"/>
+		<Page Image="4" ImageSize="1552914"/>
+		<Page Image="5" ImageSize="1449519"/>
+		<Page Image="6" ImageSize="1460729"/>
+		<Page Image="7" ImageSize="1534343"/>
+		<Page Image="8" ImageSize="1541793"/>
+		<Page Image="9" ImageSize="1420420"/>
+		<Page Image="10" ImageSize="1551772"/>
+		<Page Image="11" ImageSize="1488619"/>
+		<Page Image="12" ImageSize="1326677"/>
+		<Page Image="13" ImageSize="1447515"/>
+		<Page Image="14" ImageSize="1099557"/>
+		<Page Image="15" ImageSize="994406"/>
+		<Page Image="16" ImageSize="1397006"/>
+		<Page Image="17" ImageSize="1355381"/>
+		<Page Image="18" ImageSize="1310780"/>
+		<Page Image="19" ImageSize="1283106"/>
+		<Page Image="20" ImageSize="1357874"/>
+		<Page Image="21" ImageSize="1297500"/>
+		<Page Image="22" ImageSize="1191901"/>
+		<Page Image="23" ImageSize="1260569"/>
+		<Page Image="24" ImageSize="974213"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Crossed</Series>
+	<Summary>Well that's not--: The group has picked up a new survivor: Brett. Stan tells us Kitrick's backstory: Kitrick watched the Crossed butcher his wife and two kids.  Geoff tells his backstory, which shocks the entire group.  Stan befriends a dog that seems uninfected.</Summary>
+	<Tags>Brett (intro),Cindy,Geoff (death),Kelly,Kitrick,Patrick,Stan,Thomas</Tags>
+	<Teams>The Crossed</Teams>
+	<Title>Well that's not--</Title>
+	<Volume>2008</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-648125/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2009</Year>
+</ComicInfo>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Billy Black,Chester Wilson,Marcus Lopez,Maria,Saya,Willie Lewis</Characters>
+	<Colorist>Lee Loughridge</Colorist>
+	<Day>1</Day>
+	<Editor>Sebastian Girner</Editor>
+	<GTIN>urn:comicvine:4000-475420</GTIN>
+	<Inker>Wes Craig</Inker>
+	<Letterer>Rus Wooton</Letterer>
+	<Locations>California,San Francisco</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:32:51 [Issue ID 4000-475420] urn:comicvine:4000-475420</Notes>
+	<Number>10</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="829544" Type="FrontCover"/>
+		<Page Image="1" ImageSize="315556"/>
+		<Page Image="2" ImageSize="1123789"/>
+		<Page Image="3" ImageSize="1485274"/>
+		<Page Image="4" ImageSize="1347894"/>
+		<Page Image="5" ImageSize="1323001"/>
+		<Page Image="6" ImageSize="1356372"/>
+		<Page Image="7" ImageSize="1296287"/>
+		<Page Image="8" ImageSize="1795840"/>
+		<Page Image="9" ImageSize="1757883"/>
+		<Page Image="10" ImageSize="1520850"/>
+		<Page Image="11" ImageSize="1609186"/>
+		<Page Image="12" ImageSize="2022172"/>
+		<Page Image="13" ImageSize="1425727"/>
+		<Page Image="14" ImageSize="1166435"/>
+		<Page Image="15" ImageSize="1357485"/>
+		<Page Image="16" ImageSize="1867484"/>
+		<Page Image="17" ImageSize="1957348"/>
+		<Page Image="18" ImageSize="1671315"/>
+		<Page Image="19" ImageSize="1984961"/>
+		<Page Image="20" ImageSize="1239499"/>
+		<Page Image="21" ImageSize="761977"/>
+		<Page Image="22" ImageSize="1297222"/>
+		<Page Image="23" ImageSize="1253719"/>
+		<Page Image="24" ImageSize="927753"/>
+		<Page Image="25" ImageSize="457478"/>
+		<Page Image="26" ImageSize="1927847"/>
+		<Page Image="27" ImageSize="1102208"/>
+		<Page Image="28" ImageSize="1721423"/>
+		<Page Image="29" ImageSize="1765319"/>
+		<Page Image="30" ImageSize="151064"/>
+	</Pages>
+	<Penciller>Wes Craig</Penciller>
+	<Publisher>Image</Publisher>
+	<Series>Deadly Class</Series>
+	<Summary>Even teens training to be the world's coldest killers need a day off, so Marcus and Maria hit the streets of San Francisco. But you know what doesn't mesh well with too much booze and heartbreak? A seething cartel hit squad! It's true. Look it up.
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2024-02-07 09:48:40.  [Issue ID 475420]
+
+https://comicvine.gamespot.com/deadly-class-10/4000-475420/</Summary>
+	<Tags>Billy Black,California,Chester Wilson,Marcus Lopez,Maria,San Francisco,Saya,Willie Lewis</Tags>
+	<Volume>2014</Volume>
+	<Web>https://comicvine.gamespot.com/deadly-class-10/4000-475420/</Web>
+	<Writer>Rick Remender</Writer>
+	<Year>2015</Year>
+</ComicInfo>

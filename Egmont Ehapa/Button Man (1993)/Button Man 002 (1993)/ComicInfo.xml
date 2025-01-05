@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Button Man</Characters>
+  <Colorist>Arthur Ranson</Colorist>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-333669</GTIN>
+  <Inker>Arthur Ranson</Inker>
+  <Letterer>Steve Potter</Letterer>
+  <Month>8</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:52:47 [Issue ID 4000-333669] urn:comicvine:4000-333669
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 21:36:54. [Issue ID 946607]</Notes>
+  <Number>2</Number>
+  <PageCount>129</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="308016" Type="FrontCover" />
+    <Page Image="1" ImageSize="106291" />
+    <Page Image="2" ImageSize="305763" />
+    <Page Image="3" ImageSize="334419" />
+    <Page Image="4" ImageSize="328074" />
+    <Page Image="5" ImageSize="235855" />
+    <Page Image="6" ImageSize="300465" />
+    <Page Image="7" ImageSize="309413" />
+    <Page Image="8" ImageSize="396720" />
+    <Page Image="9" ImageSize="733608" />
+    <Page Image="10" ImageSize="744929" />
+    <Page Image="11" ImageSize="1066565" />
+    <Page Image="12" ImageSize="754893" />
+    <Page Image="13" ImageSize="649185" />
+    <Page Image="14" ImageSize="625402" />
+    <Page Image="15" ImageSize="732191" />
+    <Page Image="16" ImageSize="717544" />
+    <Page Image="17" ImageSize="687199" />
+    <Page Image="18" ImageSize="766007" />
+    <Page Image="19" ImageSize="664192" />
+    <Page Image="20" ImageSize="596368" />
+    <Page Image="21" ImageSize="365703" />
+    <Page Image="22" ImageSize="621544" />
+    <Page Image="23" ImageSize="663123" />
+    <Page Image="24" ImageSize="596578" />
+    <Page Image="25" ImageSize="550529" />
+    <Page Image="26" ImageSize="747082" />
+    <Page Image="27" ImageSize="669945" />
+    <Page Image="28" ImageSize="708941" />
+    <Page Image="29" ImageSize="677672" />
+    <Page Image="30" ImageSize="765973" />
+    <Page Image="31" ImageSize="792523" />
+    <Page Image="32" ImageSize="710776" />
+    <Page Image="33" ImageSize="671913" />
+    <Page Image="34" ImageSize="604689" />
+    <Page Image="35" ImageSize="655189" />
+    <Page Image="36" ImageSize="458751" />
+    <Page Image="37" ImageSize="666264" />
+    <Page Image="38" ImageSize="605489" />
+    <Page Image="39" ImageSize="432198" />
+    <Page Image="40" ImageSize="650710" />
+    <Page Image="41" ImageSize="680641" />
+    <Page Image="42" ImageSize="621680" />
+    <Page Image="43" ImageSize="767664" />
+    <Page Image="44" ImageSize="750572" />
+    <Page Image="45" ImageSize="674535" />
+    <Page Image="46" ImageSize="717335" />
+    <Page Image="47" ImageSize="753876" />
+    <Page Image="48" ImageSize="668036" />
+    <Page Image="49" ImageSize="649924" />
+    <Page Image="50" ImageSize="760560" />
+    <Page Image="51" ImageSize="867423" />
+    <Page Image="52" ImageSize="758150" />
+    <Page Image="53" ImageSize="839883" />
+    <Page Image="54" ImageSize="849355" />
+    <Page Image="55" ImageSize="753162" />
+    <Page Image="56" ImageSize="753143" />
+    <Page Image="57" ImageSize="716523" />
+    <Page Image="58" ImageSize="711633" />
+    <Page Image="59" ImageSize="688523" />
+    <Page Image="60" ImageSize="717454" />
+    <Page Image="61" ImageSize="704159" />
+    <Page Image="62" ImageSize="701431" />
+    <Page Image="63" ImageSize="663784" />
+    <Page Image="64" ImageSize="510373" />
+    <Page Image="65" ImageSize="736610" />
+    <Page Image="66" ImageSize="627460" />
+    <Page Image="67" ImageSize="1048593" />
+    <Page Image="68" ImageSize="601451" />
+    <Page Image="69" ImageSize="701658" />
+    <Page Image="70" ImageSize="833916" />
+    <Page Image="71" ImageSize="668043" />
+    <Page Image="72" ImageSize="675435" />
+    <Page Image="73" ImageSize="566124" />
+    <Page Image="74" ImageSize="590441" />
+    <Page Image="75" ImageSize="675968" />
+    <Page Image="76" ImageSize="716192" />
+    <Page Image="77" ImageSize="685507" />
+    <Page Image="78" ImageSize="619682" />
+    <Page Image="79" ImageSize="718651" />
+    <Page Image="80" ImageSize="703075" />
+    <Page Image="81" ImageSize="571288" />
+    <Page Image="82" ImageSize="644166" />
+    <Page Image="83" ImageSize="591194" />
+    <Page Image="84" ImageSize="572818" />
+    <Page Image="85" ImageSize="604304" />
+    <Page Image="86" ImageSize="652970" />
+    <Page Image="87" ImageSize="614987" />
+    <Page Image="88" ImageSize="680713" />
+    <Page Image="89" ImageSize="628110" />
+    <Page Image="90" ImageSize="769090" />
+    <Page Image="91" ImageSize="775741" />
+    <Page Image="92" ImageSize="508860" />
+    <Page Image="93" ImageSize="670779" />
+    <Page Image="94" ImageSize="573997" />
+    <Page Image="95" ImageSize="529195" />
+    <Page Image="96" ImageSize="649320" />
+    <Page Image="97" ImageSize="794547" />
+    <Page Image="98" ImageSize="710050" />
+    <Page Image="99" ImageSize="764168" />
+    <Page Image="100" ImageSize="823436" />
+    <Page Image="101" ImageSize="711282" />
+    <Page Image="102" ImageSize="851736" />
+    <Page Image="103" ImageSize="668313" />
+    <Page Image="104" ImageSize="739526" />
+    <Page Image="105" ImageSize="711039" />
+    <Page Image="106" ImageSize="723963" />
+    <Page Image="107" ImageSize="653382" />
+    <Page Image="108" ImageSize="674699" />
+    <Page Image="109" ImageSize="775479" />
+    <Page Image="110" ImageSize="805428" />
+    <Page Image="111" ImageSize="861936" />
+    <Page Image="112" ImageSize="682821" />
+    <Page Image="113" ImageSize="707193" />
+    <Page Image="114" ImageSize="731151" />
+    <Page Image="115" ImageSize="833572" />
+    <Page Image="116" ImageSize="818669" />
+    <Page Image="117" ImageSize="831078" />
+    <Page Image="118" ImageSize="798129" />
+    <Page Image="119" ImageSize="723647" />
+    <Page Image="120" ImageSize="118847" />
+    <Page Image="121" ImageSize="231160" />
+    <Page Image="122" ImageSize="318653" />
+    <Page Image="123" ImageSize="773411" />
+    <Page Image="124" ImageSize="229009" />
+    <Page Image="125" ImageSize="298614" />
+    <Page Image="126" ImageSize="305767" />
+    <Page Image="127" ImageSize="267094" />
+    <Page Image="128" ImageSize="128352" />
+  </Pages>
+  <Penciller>Arthur Ranson</Penciller>
+  <Publisher>Egmont Ehapa</Publisher>
+  <Series>Button Man</Series>
+  <Summary>BACK IN THE GAME!
+
+Harry Exton thinks that he has bought his way out of the Killing Game, but when a US senator smuggles him out of the UK and makes him an offer he can’t refuse, he finds himself becoming a Button Man once more. As the stakes get higher, though, so Harry’s passion for killing spirals out of control and his backer decides that the game is over. Little does he realise that Harry Exton is playing for keeps!
+
+This high-octane thriller is collected together for the first time in graphic novel format and features the writing of John Wagner (A History of Violence) and the striking art of Arthur Ranson (Judge Anderson).
+
+THIS VOLUME INCLUDES THE STORIES
+
+BUTTON MAN II: THE CONFESSION OF HARRY EXTON (2000AD progs 904-919)
+
+PLUS!
+
+Creator Bios
+
+Cover Gallery
+
+https://comicvine.gamespot.com/button-man-2-the-confession-of-harry-exton/4000-333669/</Summary>
+  <Tags>Button Man</Tags>
+  <Title>Die Stimme</Title>
+  <Volume>1993</Volume>
+  <Web>https://comicvine.gamespot.com/button-man-2-the-confession-of-harry-exton/4000-333669/</Web>
+  <Writer>John Wagner</Writer>
+  <Year>1993</Year>
+  <Count>2</Count>
+  <LanguageISO>de</LanguageISO>
+</ComicInfo>

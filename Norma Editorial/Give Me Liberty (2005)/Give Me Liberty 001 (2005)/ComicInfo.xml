@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Martha Washington</Characters>
+	<Colorist>Angus McKie</Colorist>
+	<Count>4</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-929989</GTIN>
+	<Inker>Dave Gibbons</Inker>
+	<Letterer>Joan Moreno,Ro Vargas</Letterer>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:34:46 [Issue ID 4000-929989] urn:comicvine:4000-929989</Notes>
+	<Number>1</Number>
+	<PageCount>51</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="236913" Type="FrontCover"/>
+		<Page Image="1" ImageSize="153732"/>
+		<Page Image="2" ImageSize="169866"/>
+		<Page Image="3" ImageSize="503537"/>
+		<Page Image="4" ImageSize="598772"/>
+		<Page Image="5" ImageSize="449182"/>
+		<Page Image="6" ImageSize="472918"/>
+		<Page Image="7" ImageSize="470720"/>
+		<Page Image="8" ImageSize="502099"/>
+		<Page Image="9" ImageSize="564144"/>
+		<Page Image="10" ImageSize="478650"/>
+		<Page Image="11" ImageSize="331707"/>
+		<Page Image="12" ImageSize="505542"/>
+		<Page Image="13" ImageSize="517317"/>
+		<Page Image="14" ImageSize="444845"/>
+		<Page Image="15" ImageSize="444839"/>
+		<Page Image="16" ImageSize="475564"/>
+		<Page Image="17" ImageSize="454708"/>
+		<Page Image="18" ImageSize="466059"/>
+		<Page Image="19" ImageSize="387610"/>
+		<Page Image="20" ImageSize="487488"/>
+		<Page Image="21" ImageSize="449638"/>
+		<Page Image="22" ImageSize="335415"/>
+		<Page Image="23" ImageSize="412954"/>
+		<Page Image="24" ImageSize="461391"/>
+		<Page Image="25" ImageSize="359813"/>
+		<Page Image="26" ImageSize="552490"/>
+		<Page Image="27" ImageSize="506854"/>
+		<Page Image="28" ImageSize="412430"/>
+		<Page Image="29" ImageSize="406510"/>
+		<Page Image="30" ImageSize="249204"/>
+		<Page Image="31" ImageSize="586048"/>
+		<Page Image="32" ImageSize="621926"/>
+		<Page Image="33" ImageSize="422155"/>
+		<Page Image="34" ImageSize="509657"/>
+		<Page Image="35" ImageSize="537523"/>
+		<Page Image="36" ImageSize="600991"/>
+		<Page Image="37" ImageSize="520994"/>
+		<Page Image="38" ImageSize="536834"/>
+		<Page Image="39" ImageSize="519347"/>
+		<Page Image="40" ImageSize="570544"/>
+		<Page Image="41" ImageSize="514299"/>
+		<Page Image="42" ImageSize="332772"/>
+		<Page Image="43" ImageSize="444111"/>
+		<Page Image="44" ImageSize="483004"/>
+		<Page Image="45" ImageSize="536857"/>
+		<Page Image="46" ImageSize="485076"/>
+		<Page Image="47" ImageSize="521254"/>
+		<Page Image="48" ImageSize="486978"/>
+		<Page Image="49" ImageSize="417537"/>
+		<Page Image="50" ImageSize="90815"/>
+	</Pages>
+	<Penciller>Dave Gibbons</Penciller>
+	<Publisher>Norma Editorial</Publisher>
+	<ScanInformation>(Humperdido)</ScanInformation>
+	<Series>Give Me Liberty</Series>
+	<Summary>https://comicvine.gamespot.com/give-me-liberty-1/4000-929989/</Summary>
+	<Volume>2005</Volume>
+	<Web>https://comicvine.gamespot.com/give-me-liberty-1/4000-929989/</Web>
+	<Writer>Frank Miller</Writer>
+	<Year>2005</Year>
+</ComicInfo>

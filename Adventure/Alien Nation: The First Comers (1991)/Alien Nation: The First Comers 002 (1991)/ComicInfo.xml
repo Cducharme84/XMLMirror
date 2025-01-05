@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>1</Day>
+	<Editor>Chris Ulm,Dan Danko,Mickie Villa</Editor>
+	<GTIN>urn:comicvine:4000-224301</GTIN>
+	<Inker>Andrew Pepoy,Tim Eldred</Inker>
+	<Letterer>Mike DeLepine</Letterer>
+	<Locations>California,Los Angeles,New Mexico,Texas</Locations>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:27:03 [Issue ID 4000-224301] urn:comicvine:4000-224301</Notes>
+	<Number>2</Number>
+	<PageCount>32</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="183486" Type="FrontCover"/>
+		<Page Image="1" ImageSize="326331"/>
+		<Page Image="2" ImageSize="307392"/>
+		<Page Image="3" ImageSize="299773"/>
+		<Page Image="4" ImageSize="297210"/>
+		<Page Image="5" ImageSize="259281"/>
+		<Page Image="6" ImageSize="259248"/>
+		<Page Image="7" ImageSize="315148"/>
+		<Page Image="8" ImageSize="318869"/>
+		<Page Image="9" ImageSize="314335"/>
+		<Page Image="10" ImageSize="314351"/>
+		<Page Image="11" ImageSize="324587"/>
+		<Page Image="12" ImageSize="297008"/>
+		<Page Image="13" ImageSize="299216"/>
+		<Page Image="14" ImageSize="298328"/>
+		<Page Image="15" ImageSize="252272"/>
+		<Page Image="16" ImageSize="289379"/>
+		<Page Image="17" ImageSize="310911"/>
+		<Page Image="18" ImageSize="358387"/>
+		<Page Image="19" ImageSize="263030"/>
+		<Page Image="20" ImageSize="266733"/>
+		<Page Image="21" ImageSize="276631"/>
+		<Page Image="22" ImageSize="249850"/>
+		<Page Image="23" ImageSize="271243"/>
+		<Page Image="24" ImageSize="296044"/>
+		<Page Image="25" ImageSize="295646"/>
+		<Page Image="26" ImageSize="287581"/>
+		<Page Image="27" ImageSize="254739"/>
+		<Page Image="28" ImageSize="256882"/>
+		<Page Image="29" ImageSize="306201"/>
+		<Page Image="30" ImageSize="261824"/>
+		<Page Image="31" ImageSize="311716"/>
+	</Pages>
+	<Penciller>Tim Eldred</Penciller>
+	<Publisher>Adventure</Publisher>
+	<Series>Alien Nation: The First Comers</Series>
+	<Summary>https://comicvine.gamespot.com/alien-nation-the-first-comers-2/4000-224301/</Summary>
+	<Teams>United States Army</Teams>
+	<Volume>1991</Volume>
+	<Web>https://comicvine.gamespot.com/alien-nation-the-first-comers-2/4000-224301/</Web>
+	<Writer>Martin Powell</Writer>
+	<Year>1991</Year>
+</ComicInfo>

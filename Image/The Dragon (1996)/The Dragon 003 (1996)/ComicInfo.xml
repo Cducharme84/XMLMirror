@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Officer Mike Rotch (introduction),Rose Fua (introduction),Debbie Harris (introduction),Arachnid (introduction),Basher (death)</Characters>
+  <Colorist>Gregory Wright,Ihoc,Olyoptics,Steve Oliff,Gregory Wright,Steve Oliff,Olyoptics</Colorist>
+  <Count>5</Count>
+  <Editor>Jannie Wong</Editor>
+  <GTIN>urn:comicvine:4000-187593</GTIN>
+  <Letterer>Chris Eliopoulos,Chris Eliopoulos</Letterer>
+  <Locations>Chicago</Locations>
+  <Month>5</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T18:45:17 [Issue ID 4000-187593] urn:comicvine:4000-187593
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 11:31:52. [Issue ID 555880]</Notes>
+  <Number>3</Number>
+  <PageCount>30</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="488228" Type="FrontCover" />
+    <Page Image="1" ImageSize="81494" />
+    <Page Image="2" ImageSize="308384" />
+    <Page Image="3" ImageSize="877823" />
+    <Page Image="4" ImageSize="544607" />
+    <Page Image="5" ImageSize="404262" />
+    <Page Image="6" ImageSize="448457" />
+    <Page Image="7" ImageSize="415523" />
+    <Page Image="8" ImageSize="365398" />
+    <Page Image="9" ImageSize="424016" />
+    <Page Image="10" ImageSize="433011" />
+    <Page Image="11" ImageSize="358078" />
+    <Page Image="12" ImageSize="407547" />
+    <Page Image="13" ImageSize="447776" />
+    <Page Image="14" ImageSize="424950" />
+    <Page Image="15" ImageSize="425926" />
+    <Page Image="16" ImageSize="508379" />
+    <Page Image="17" ImageSize="452008" />
+    <Page Image="18" ImageSize="459503" />
+    <Page Image="19" ImageSize="445447" />
+    <Page Image="20" ImageSize="374827" />
+    <Page Image="21" ImageSize="387804" />
+    <Page Image="22" ImageSize="431429" />
+    <Page Image="23" ImageSize="460660" />
+    <Page Image="24" ImageSize="352677" />
+    <Page Image="25" ImageSize="346252" />
+    <Page Image="26" ImageSize="471211" />
+    <Page Image="27" ImageSize="541108" />
+    <Page Image="28" ImageSize="495983" />
+    <Page Image="29" ImageSize="2869" />
+  </Pages>
+  <Publisher>Image</Publisher>
+  <Series>The Dragon</Series>
+  <Teams>Chicago Police Department,Vicious Circle</Teams>
+  <Volume>1996</Volume>
+  <Web>https://comicvine.gamespot.com/the-dragon-3-born-again-patriot/4000-187593/</Web>
+  <Year>1996</Year>
+  <Title>Born Again Patriot</Title>
+  <Writer>Erik Larsen,Erik Larsen</Writer>
+  <Penciller>Erik Larsen,Erik Larsen</Penciller>
+  <Inker>Erik Larsen,Erik Larsen</Inker>
+  <CoverArtist>Erik Larsen</CoverArtist>
+  <Genre>Superhero</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Limited Series</Format>
+</ComicInfo>

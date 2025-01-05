@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Cerberus,Raven</Characters>
+	<Count>5</Count>
+	<CoverArtist>Shawn McCauley</CoverArtist>
+	<Day>1</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-432547</GTIN>
+	<Genre>Fantasy</Genre>
+	<Inker>Brooke Clayton,Shawn McCauley</Inker>
+	<Letterer>Shawn McCauley</Letterer>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-25T22:59:21 [Issue ID 4000-432547] urn:comicvine:4000-432547</Notes>
+	<Number>1</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="2420838" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="2307985"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="1517074"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="2071489"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="2683639"/>
+		<Page DoublePage="True" Image="5" ImageWidth="4983" ImageHeight="3840" ImageSize="9125093"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="3315685"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="2506018"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="3208119"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="2321019"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="3163696"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="1294654"/>
+		<Page DoublePage="True" Image="12" ImageWidth="4983" ImageHeight="3840" ImageSize="7905886"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="3119294"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="3496483"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="3580099"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="4330111"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="3588331"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="3550185"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="3412435"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="3085609"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3840" ImageSize="2462778"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3840" ImageSize="3063442"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3840" ImageSize="3436826"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3840" ImageSize="2596157"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3840" ImageSize="2575519"/>
+		<Page DoublePage="False" Image="26" ImageWidth="2560" ImageHeight="3840" ImageSize="3112077"/>
+		<Page DoublePage="False" Image="27" ImageWidth="2560" ImageHeight="3840" ImageSize="2662900"/>
+		<Page DoublePage="False" Image="28" ImageWidth="2560" ImageHeight="3840" ImageSize="3004264"/>
+		<Page DoublePage="False" Image="29" ImageWidth="2560" ImageHeight="3840" ImageSize="2714361"/>
+		<Page DoublePage="False" Image="30" ImageWidth="2560" ImageHeight="3840" ImageSize="2208555"/>
+		<Page DoublePage="False" Image="31" ImageWidth="2560" ImageHeight="3840" ImageSize="2394453"/>
+		<Page DoublePage="False" Image="32" ImageWidth="2560" ImageHeight="3840" ImageSize="2129991"/>
+		<Page Image="33" ImageSize="2319245"/>
+	</Pages>
+	<Penciller>Brooke Clayton,Shawn McCauley</Penciller>
+	<Publisher>self published</Publisher>
+	<Series>Shadows of Oblivion</Series>
+	<Summary>Five years have passed since the Wolf Clan disbanded. The world has collapsed into complete and utter disorder. Cerberus, blamed for the Nord Catastrophe, now tries to earn redemption from his former Clansmen and himself as he attempts to set the world right. But can he do this all on his own?</Summary>
+	<Title>Resist</Title>
+	<Volume>2013</Volume>
+	<Web>https://comicvine.gamespot.com/shadows-of-oblivion-2/4000-432547/</Web>
+	<Writer>Shawn McCauley</Writer>
+	<Year>2013</Year>
+</ComicInfo>

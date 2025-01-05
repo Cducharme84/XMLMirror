@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Evan Adonis</Characters>
+	<Count>5</Count>
+	<CoverArtist>Scott McDaniel</CoverArtist>
+	<Day>30</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-603215</GTIN>
+	<Genre>Crime</Genre>
+	<Inker>Scott McDaniel</Inker>
+	<Letterer>Taylor Esposito</Letterer>
+	<Month>6</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-10-26T13:37:29 [Issue ID 4000-603215] urn:comicvine:4000-603215</Notes>
+	<Number>4</Number>
+	<PageCount>21</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3887" ImageSize="2148700" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3887" ImageSize="2065785"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3887" ImageSize="2652684"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3887" ImageSize="2635932"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3887" ImageSize="2312212"/>
+		<Page DoublePage="True" Image="5" ImageWidth="5120" ImageHeight="3887" ImageSize="6672526"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3887" ImageSize="2364106"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3887" ImageSize="2418931"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3887" ImageSize="2447582"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3887" ImageSize="2642655"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3887" ImageSize="2323168"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3887" ImageSize="2589621"/>
+		<Page DoublePage="True" Image="12" ImageWidth="5120" ImageHeight="3887" ImageSize="4556648"/>
+		<Page DoublePage="True" Image="13" ImageWidth="5120" ImageHeight="3887" ImageSize="4046375"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3887" ImageSize="2430131"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3887" ImageSize="2968317"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3887" ImageSize="2572075"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3887" ImageSize="2373161"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3887" ImageSize="2169606"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3887" ImageSize="1874818"/>
+		<Page Image="20" ImageSize="2303087"/>
+	</Pages>
+	<Penciller>Scott McDaniel</Penciller>
+	<Publisher>Blackbox Comics</Publisher>
+	<Series>I.T.: The Secret World of Modern Banking</Series>
+	<Summary>Bank Information Technology expert Evan Adonis suffers vicious retaliation at the hands of bank management, and is hunted by agents relentlessly pursuing the dangerous software he unknowingly unleashed. In the internally corrupt world of modern banking, the I.T. expert is both the most powerful asset and the most hunted liability.</Summary>
+	<Volume>2017</Volume>
+	<Web>https://comicvine.gamespot.com/it-the-secret-world-of-modern-banking-4/4000-603215/</Web>
+	<Writer>Scott McDaniel</Writer>
+	<Year>2017</Year>
+</ComicInfo>

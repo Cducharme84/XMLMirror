@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Cherry Poptart</Characters>
+	<Count>23</Count>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-123779</GTIN>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T04:45:03 [Issue ID 4000-123779] urn:comicvine:4000-123779</Notes>
+	<Number>11</Number>
+	<PageCount>37</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="130955" Type="FrontCover"/>
+		<Page Image="1" ImageSize="574986"/>
+		<Page Image="2" ImageSize="289346"/>
+		<Page Image="3" ImageSize="359407"/>
+		<Page Image="4" ImageSize="436940"/>
+		<Page Image="5" ImageSize="409238"/>
+		<Page Image="6" ImageSize="389314"/>
+		<Page Image="7" ImageSize="373322"/>
+		<Page Image="8" ImageSize="391180"/>
+		<Page Image="9" ImageSize="413956"/>
+		<Page Image="10" ImageSize="424685"/>
+		<Page Image="11" ImageSize="421085"/>
+		<Page Image="12" ImageSize="378699"/>
+		<Page Image="13" ImageSize="407438"/>
+		<Page Image="14" ImageSize="388482"/>
+		<Page Image="15" ImageSize="456063"/>
+		<Page Image="16" ImageSize="450580"/>
+		<Page Image="17" ImageSize="464958"/>
+		<Page Image="18" ImageSize="472022"/>
+		<Page Image="19" ImageSize="491678"/>
+		<Page Image="20" ImageSize="463642"/>
+		<Page Image="21" ImageSize="442526"/>
+		<Page Image="22" ImageSize="350887"/>
+		<Page Image="23" ImageSize="352234"/>
+		<Page Image="24" ImageSize="428818"/>
+		<Page Image="25" ImageSize="411484"/>
+		<Page Image="26" ImageSize="419057"/>
+		<Page Image="27" ImageSize="395611"/>
+		<Page Image="28" ImageSize="404790"/>
+		<Page Image="29" ImageSize="409344"/>
+		<Page Image="30" ImageSize="338148"/>
+		<Page Image="31" ImageSize="352695"/>
+		<Page Image="32" ImageSize="407004"/>
+		<Page Image="33" ImageSize="375141"/>
+		<Page Image="34" ImageSize="359545"/>
+		<Page Image="35" ImageSize="374334"/>
+		<Page Image="36" ImageSize="386110"/>
+	</Pages>
+	<Publisher>Cherry Comics</Publisher>
+	<Series>Cherry Poptart</Series>
+	<Summary>Featured Stories:
+
+Cherry in Threedy
+Good Ol' Mom
+Nurse's Aid
+Captain Eeyow
+The Love Channel
+I Love My Job
+A Personal Message From Cherry</Summary>
+	<Volume>1982</Volume>
+	<Web>https://comicvine.gamespot.com/cherry-poptart-11/4000-123779/</Web>
+	<Year>1990</Year>
+</ComicInfo>

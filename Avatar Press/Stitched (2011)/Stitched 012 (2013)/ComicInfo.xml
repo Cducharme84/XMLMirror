@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Colorist>Digikore Studios</Colorist>
+	<Count>19</Count>
+	<Country>US</Country>
+	<GTIN>urn:comicvine:4000-1092313</GTIN>
+	<Genre>Horror-suspense</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Kurt Hathaway</Letterer>
+	<Locations>Sri Lanka</Locations>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:51:33 [Issue ID 4000-1092313] urn:comicvine:4000-1092313 urn:grandcomicsdatabase:issue/1092313</Notes>
+	<Number>12</Number>
+	<PageCount>25</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="3631747" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1578034"/>
+		<Page Image="2" ImageSize="1997238"/>
+		<Page Image="3" ImageSize="1932984"/>
+		<Page Image="4" ImageSize="1970440"/>
+		<Page Image="5" ImageSize="1948018"/>
+		<Page Image="6" ImageSize="2029036"/>
+		<Page Image="7" ImageSize="1877374"/>
+		<Page Image="8" ImageSize="2223324"/>
+		<Page Image="9" ImageSize="2290311"/>
+		<Page Image="10" ImageSize="2086098"/>
+		<Page Image="11" ImageSize="2175155"/>
+		<Page Image="12" ImageSize="2125252"/>
+		<Page Image="13" ImageSize="2427398"/>
+		<Page Image="14" ImageSize="2161854"/>
+		<Page Image="15" ImageSize="1867037"/>
+		<Page Image="16" ImageSize="2043479"/>
+		<Page Image="17" ImageSize="1937844"/>
+		<Page Image="18" ImageSize="2245832"/>
+		<Page Image="19" ImageSize="2335325"/>
+		<Page Image="20" ImageSize="2219115"/>
+		<Page Image="21" ImageSize="1721691"/>
+		<Page Image="22" ImageSize="2488672"/>
+		<Page Image="23" ImageSize="1766331"/>
+		<Page Image="24" ImageSize="445537"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<Series>Stitched</Series>
+	<Summary>Series is adapted from a short film written and directed by Garth Ennis.</Summary>
+	<Teams>Stitched</Teams>
+	<Volume>2011</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1092313/</Web>
+	<Writer>Mike Wolfer</Writer>
+	<Year>2013</Year>
+</ComicInfo>

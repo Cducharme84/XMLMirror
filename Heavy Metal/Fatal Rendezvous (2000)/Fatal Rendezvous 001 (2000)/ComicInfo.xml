@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Ursus,Congressman,Silvio,Loan Shark,Valeria,Mrs. B Flat</Characters>
+  <Count>1</Count>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-255454</GTIN>
+  <Locations>Barbados</Locations>
+  <Month>1</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:58:13 [Issue ID 4000-255454] urn:comicvine:4000-255454
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:39:37. [Issue ID 769746]</Notes>
+  <Number>1</Number>
+  <PageCount>48</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1744" ImageSize="535825" ImageWidth="1268" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1727" ImageSize="192290" ImageWidth="1254" />
+    <Page Image="2" ImageHeight="1730" ImageSize="49175" ImageWidth="1256" />
+    <Page Image="3" ImageHeight="1572" ImageSize="550955" ImageWidth="1196" />
+    <Page Image="4" ImageHeight="1570" ImageSize="547451" ImageWidth="1196" />
+    <Page Image="5" ImageHeight="1570" ImageSize="504802" ImageWidth="1195" />
+    <Page Image="6" ImageHeight="1571" ImageSize="509541" ImageWidth="1196" />
+    <Page Image="7" ImageHeight="1569" ImageSize="505167" ImageWidth="1195" />
+    <Page Image="8" ImageHeight="1585" ImageSize="482130" ImageWidth="1208" />
+    <Page Image="9" ImageHeight="1571" ImageSize="503436" ImageWidth="1195" />
+    <Page Image="10" ImageHeight="1571" ImageSize="507991" ImageWidth="1195" />
+    <Page Image="11" ImageHeight="1570" ImageSize="611234" ImageWidth="1195" />
+    <Page Image="12" ImageHeight="1570" ImageSize="475462" ImageWidth="1194" />
+    <Page Image="13" ImageHeight="1570" ImageSize="542468" ImageWidth="1195" />
+    <Page Image="14" ImageHeight="1570" ImageSize="527940" ImageWidth="1197" />
+    <Page Image="15" ImageHeight="1570" ImageSize="442824" ImageWidth="1194" />
+    <Page Image="16" ImageHeight="1569" ImageSize="500864" ImageWidth="1172" />
+    <Page Image="17" ImageHeight="1569" ImageSize="510345" ImageWidth="1172" />
+    <Page Image="18" ImageHeight="1568" ImageSize="499424" ImageWidth="1172" />
+    <Page Image="19" ImageHeight="1570" ImageSize="540485" ImageWidth="1173" />
+    <Page Image="20" ImageHeight="1573" ImageSize="530031" ImageWidth="1188" />
+    <Page Image="21" ImageHeight="1573" ImageSize="537887" ImageWidth="1186" />
+    <Page Image="22" ImageHeight="1573" ImageSize="505716" ImageWidth="1187" />
+    <Page Image="23" ImageHeight="1568" ImageSize="479491" ImageWidth="1189" />
+    <Page Image="24" ImageHeight="1567" ImageSize="450708" ImageWidth="1191" />
+    <Page Image="25" ImageHeight="1569" ImageSize="475594" ImageWidth="1190" />
+    <Page Image="26" ImageHeight="1568" ImageSize="534581" ImageWidth="1189" />
+    <Page Image="27" ImageHeight="1569" ImageSize="455751" ImageWidth="1189" />
+    <Page Image="28" ImageHeight="1573" ImageSize="507221" ImageWidth="1187" />
+    <Page Image="29" ImageHeight="1573" ImageSize="531222" ImageWidth="1188" />
+    <Page Image="30" ImageHeight="1574" ImageSize="539154" ImageWidth="1189" />
+    <Page Image="31" ImageHeight="1575" ImageSize="516402" ImageWidth="1188" />
+    <Page Image="32" ImageHeight="1573" ImageSize="469741" ImageWidth="1189" />
+    <Page Image="33" ImageHeight="1574" ImageSize="521202" ImageWidth="1196" />
+    <Page Image="34" ImageHeight="1575" ImageSize="531820" ImageWidth="1199" />
+    <Page Image="35" ImageHeight="1575" ImageSize="552778" ImageWidth="1201" />
+    <Page Image="36" ImageHeight="1573" ImageSize="513265" ImageWidth="1196" />
+    <Page Image="37" ImageHeight="1573" ImageSize="464908" ImageWidth="1196" />
+    <Page Image="38" ImageHeight="1574" ImageSize="467169" ImageWidth="1197" />
+    <Page Image="39" ImageHeight="1573" ImageSize="499712" ImageWidth="1196" />
+    <Page Image="40" ImageHeight="1573" ImageSize="491497" ImageWidth="1196" />
+    <Page Image="41" ImageHeight="1573" ImageSize="473172" ImageWidth="1190" />
+    <Page Image="42" ImageHeight="1572" ImageSize="498921" ImageWidth="1187" />
+    <Page Image="43" ImageHeight="1575" ImageSize="547692" ImageWidth="1189" />
+    <Page Image="44" ImageHeight="1575" ImageSize="495268" ImageWidth="1189" />
+    <Page Image="45" ImageHeight="1574" ImageSize="434318" ImageWidth="1188" />
+    <Page Image="46" ImageHeight="1574" ImageSize="460969" ImageWidth="1189" />
+    <Page Image="47" ImageSize="193574" />
+  </Pages>
+  <Publisher>Heavy Metal</Publisher>
+  <Series>Fatal Rendezvous</Series>
+  <Volume>2000</Volume>
+  <Web>https://comicvine.gamespot.com/fatal-rendezvous-1/4000-255454/</Web>
+  <Year>2000</Year>
+  <LanguageISO>en</LanguageISO>
+</ComicInfo>

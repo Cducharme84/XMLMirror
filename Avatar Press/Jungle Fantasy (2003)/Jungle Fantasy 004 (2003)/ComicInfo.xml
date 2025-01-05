@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Zikti,Ivory,Fauna Jungle Girl</Characters>
+  <Count>6</Count>
+  <Country>US</Country>
+  <Day>1</Day>
+  <GTIN>urn:comicvine:4000-806043</GTIN>
+  <LanguageISO>en</LanguageISO>
+  <Locations>Prehistoric Jungle</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:46:18 [Issue ID 4000-806043] urn:comicvine:4000-806043 urn:grandcomicsdatabase:issue/806043
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 18:00:52. [Issue ID 806043]</Notes>
+  <Number>4</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="1543" ImageSize="528542" ImageWidth="999" Type="FrontCover" />
+    <Page Image="1" ImageHeight="1537" ImageSize="299594" ImageWidth="998" />
+    <Page Image="2" ImageHeight="1533" ImageSize="418452" ImageWidth="995" />
+    <Page Image="3" ImageHeight="1534" ImageSize="385587" ImageWidth="993" />
+    <Page Image="4" ImageHeight="1532" ImageSize="354391" ImageWidth="988" />
+    <Page Image="5" ImageHeight="1534" ImageSize="409857" ImageWidth="981" />
+    <Page Image="6" ImageHeight="1534" ImageSize="410156" ImageWidth="986" />
+    <Page Image="7" ImageHeight="1529" ImageSize="438998" ImageWidth="984" />
+    <Page Image="8" ImageHeight="1532" ImageSize="420514" ImageWidth="987" />
+    <Page Image="9" ImageHeight="1534" ImageSize="408105" ImageWidth="980" />
+    <Page Image="10" ImageHeight="1532" ImageSize="436724" ImageWidth="984" />
+    <Page Image="11" ImageHeight="1531" ImageSize="473561" ImageWidth="981" />
+    <Page Image="12" ImageHeight="1533" ImageSize="447812" ImageWidth="982" />
+    <Page Image="13" ImageHeight="1530" ImageSize="421219" ImageWidth="979" />
+    <Page Image="14" ImageHeight="1535" ImageSize="358950" ImageWidth="973" />
+    <Page Image="15" ImageHeight="1534" ImageSize="360993" ImageWidth="981" />
+    <Page Image="16" ImageHeight="1538" ImageSize="328496" ImageWidth="981" />
+    <Page Image="17" ImageHeight="1533" ImageSize="370453" ImageWidth="973" />
+    <Page Image="18" ImageHeight="1532" ImageSize="291207" ImageWidth="980" />
+    <Page Image="19" ImageHeight="1531" ImageSize="368969" ImageWidth="976" />
+    <Page Image="20" ImageHeight="1532" ImageSize="335088" ImageWidth="986" />
+    <Page Image="21" ImageHeight="1531" ImageSize="325420" ImageWidth="973" />
+    <Page Image="22" ImageHeight="1530" ImageSize="682283" ImageWidth="985" />
+    <Page Image="23" ImageHeight="1529" ImageSize="352020" ImageWidth="978" />
+    <Page Image="24" ImageHeight="1535" ImageSize="431203" ImageWidth="986" />
+    <Page Image="25" ImageHeight="1532" ImageSize="328727" ImageWidth="975" />
+    <Page Image="26" ImageHeight="1536" ImageSize="427108" ImageWidth="983" />
+    <Page Image="27" ImageHeight="1530" ImageSize="355642" ImageWidth="980" />
+    <Page Image="28" ImageHeight="1537" ImageSize="312591" ImageWidth="979" />
+    <Page Image="29" ImageHeight="1532" ImageSize="310797" ImageWidth="981" />
+    <Page Image="30" ImageHeight="1533" ImageSize="380072" ImageWidth="990" />
+    <Page Image="31" ImageHeight="1532" ImageSize="444322" ImageWidth="986" />
+    <Page Image="32" ImageHeight="1532" ImageSize="223224" ImageWidth="986" />
+    <Page Image="33" ImageHeight="1533" ImageSize="448695" ImageWidth="982" />
+    <Page Image="34" ImageHeight="1529" ImageSize="242152" ImageWidth="986" />
+    <Page Image="35" ImageSize="356287" />
+  </Pages>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Jungle Fantasy</Series>
+  <Volume>2003</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-806043/</Web>
+  <Writer>Doug Miers</Writer>
+  <Year>2003</Year>
+</ComicInfo>

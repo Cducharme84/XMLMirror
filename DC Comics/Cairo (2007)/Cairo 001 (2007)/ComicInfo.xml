@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Ashraf,Iblis,Kate,Shaheed,Shams,Tova</Characters>
+	<Day>1</Day>
+	<Editor>Joan Hilty,Rachel Gluckstern</Editor>
+	<GTIN>urn:comicvine:4000-150806</GTIN>
+	<Inker>M. K. Perker</Inker>
+	<Letterer>Travis Lanham</Letterer>
+	<Locations>Cairo,Egypt</Locations>
+	<Month>11</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T21:05:52 [Issue ID 4000-150806] urn:comicvine:4000-150806</Notes>
+	<Number>1</Number>
+	<PageCount>165</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1280" ImageHeight="1564" ImageSize="184494" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="640" ImageHeight="1804" ImageSize="108431"/>
+		<Page Image="2" ImageWidth="2560" ImageHeight="1610" ImageSize="321569"/>
+		<Page Image="3" ImageWidth="1280" ImageHeight="1764" ImageSize="142826"/>
+		<Page Image="4" ImageWidth="1280" ImageHeight="1726" ImageSize="158133"/>
+		<Page Image="5" ImageWidth="1280" ImageHeight="1683" ImageSize="201032"/>
+		<Page Image="6" ImageWidth="1280" ImageHeight="1688" ImageSize="217743"/>
+		<Page Image="7" ImageWidth="1280" ImageHeight="1685" ImageSize="156257"/>
+		<Page Image="8" ImageWidth="1280" ImageHeight="1683" ImageSize="299373"/>
+		<Page Image="9" ImageWidth="1280" ImageHeight="1695" ImageSize="313049"/>
+		<Page Image="10" ImageWidth="1280" ImageHeight="1687" ImageSize="314840"/>
+		<Page Image="11" ImageWidth="1280" ImageHeight="1684" ImageSize="351927"/>
+		<Page Image="12" ImageWidth="1280" ImageHeight="1689" ImageSize="299789"/>
+		<Page Image="13" ImageWidth="1280" ImageHeight="1683" ImageSize="289165"/>
+		<Page Image="14" ImageWidth="1280" ImageHeight="1726" ImageSize="325329"/>
+		<Page Image="15" ImageWidth="1280" ImageHeight="1726" ImageSize="289113"/>
+		<Page Image="16" ImageWidth="1280" ImageHeight="1726" ImageSize="311495"/>
+		<Page Image="17" ImageWidth="1280" ImageHeight="1726" ImageSize="366640"/>
+		<Page Image="18" ImageWidth="1280" ImageHeight="1726" ImageSize="362285"/>
+		<Page Image="19" ImageWidth="1280" ImageHeight="1627" ImageSize="343717"/>
+		<Page Image="20" ImageWidth="1280" ImageHeight="1656" ImageSize="322640"/>
+		<Page Image="21" ImageWidth="1280" ImageHeight="1695" ImageSize="318067"/>
+		<Page Image="22" ImageWidth="1280" ImageHeight="1682" ImageSize="370817"/>
+		<Page Image="23" ImageWidth="1280" ImageHeight="1676" ImageSize="301349"/>
+		<Page Image="24" ImageWidth="1280" ImageHeight="1654" ImageSize="321444"/>
+		<Page Image="25" ImageWidth="1280" ImageHeight="1703" ImageSize="343465"/>
+		<Page Image="26" ImageWidth="1280" ImageHeight="1679" ImageSize="288696"/>
+		<Page Image="27" ImageWidth="1280" ImageHeight="1679" ImageSize="316513"/>
+		<Page Image="28" ImageWidth="1280" ImageHeight="1679" ImageSize="309354"/>
+		<Page Image="29" ImageWidth="1280" ImageHeight="1679" ImageSize="326664"/>
+		<Page Image="30" ImageWidth="1280" ImageHeight="1650" ImageSize="343610"/>
+		<Page Image="31" ImageWidth="1280" ImageHeight="1690" ImageSize="328738"/>
+		<Page Image="32" ImageWidth="1280" ImageHeight="1671" ImageSize="330113"/>
+		<Page Image="33" ImageWidth="1280" ImageHeight="1666" ImageSize="330567"/>
+		<Page Image="34" ImageWidth="1280" ImageHeight="1660" ImageSize="278374"/>
+		<Page Image="35" ImageWidth="1280" ImageHeight="1683" ImageSize="298581"/>
+		<Page Image="36" ImageWidth="1280" ImageHeight="1686" ImageSize="330465"/>
+		<Page Image="37" ImageWidth="1280" ImageHeight="1679" ImageSize="312831"/>
+		<Page Image="38" ImageWidth="1280" ImageHeight="1605" ImageSize="331892"/>
+		<Page Image="39" ImageWidth="1280" ImageHeight="1643" ImageSize="285371"/>
+		<Page Image="40" ImageWidth="1280" ImageHeight="1646" ImageSize="349394"/>
+		<Page Image="41" ImageWidth="1280" ImageHeight="1679" ImageSize="376253"/>
+		<Page Image="42" ImageWidth="1280" ImageHeight="1680" ImageSize="394723"/>
+		<Page Image="43" ImageWidth="2560" ImageHeight="1668" ImageSize="755384"/>
+		<Page Image="44" ImageWidth="1280" ImageHeight="1679" ImageSize="352915"/>
+		<Page Image="45" ImageWidth="1280" ImageHeight="1682" ImageSize="345820"/>
+		<Page Image="46" ImageWidth="1280" ImageHeight="1676" ImageSize="318738"/>
+		<Page Image="47" ImageWidth="1280" ImageHeight="1648" ImageSize="323722"/>
+		<Page Image="48" ImageWidth="1280" ImageHeight="1657" ImageSize="318436"/>
+		<Page Image="49" ImageWidth="1280" ImageHeight="1674" ImageSize="347703"/>
+		<Page Image="50" ImageWidth="1280" ImageHeight="1715" ImageSize="337244"/>
+		<Page Image="51" ImageWidth="1280" ImageHeight="1662" ImageSize="286594"/>
+		<Page Image="52" ImageWidth="1280" ImageHeight="1672" ImageSize="281114"/>
+		<Page Image="53" ImageWidth="1280" ImageHeight="1676" ImageSize="322970"/>
+		<Page Image="54" ImageWidth="1280" ImageHeight="1706" ImageSize="320659"/>
+		<Page Image="55" ImageWidth="1280" ImageHeight="1677" ImageSize="328004"/>
+		<Page Image="56" ImageWidth="1280" ImageHeight="1677" ImageSize="310270"/>
+		<Page Image="57" ImageWidth="1280" ImageHeight="1672" ImageSize="314419"/>
+		<Page Image="58" ImageWidth="1280" ImageHeight="1718" ImageSize="305191"/>
+		<Page Image="59" ImageWidth="1280" ImageHeight="1636" ImageSize="294529"/>
+		<Page Image="60" ImageWidth="1280" ImageHeight="1677" ImageSize="367889"/>
+		<Page Image="61" ImageWidth="1280" ImageHeight="1674" ImageSize="371884"/>
+		<Page Image="62" ImageWidth="1280" ImageHeight="1657" ImageSize="303882"/>
+		<Page Image="63" ImageWidth="1280" ImageHeight="1636" ImageSize="311879"/>
+		<Page Image="64" ImageWidth="1280" ImageHeight="1676" ImageSize="355114"/>
+		<Page Image="65" ImageWidth="1280" ImageHeight="1766" ImageSize="308097"/>
+		<Page Image="66" ImageWidth="1280" ImageHeight="1730" ImageSize="276771"/>
+		<Page Image="67" ImageWidth="1280" ImageHeight="1698" ImageSize="316541"/>
+		<Page Image="68" ImageWidth="1280" ImageHeight="1645" ImageSize="398198"/>
+		<Page Image="69" ImageWidth="1280" ImageHeight="1673" ImageSize="372998"/>
+		<Page Image="70" ImageWidth="2560" ImageHeight="1664" ImageSize="801880"/>
+		<Page Image="71" ImageWidth="1280" ImageHeight="1678" ImageSize="349640"/>
+		<Page Image="72" ImageWidth="1280" ImageHeight="1671" ImageSize="356925"/>
+		<Page Image="73" ImageWidth="1280" ImageHeight="1691" ImageSize="312550"/>
+		<Page Image="74" ImageWidth="1280" ImageHeight="1655" ImageSize="342837"/>
+		<Page Image="75" ImageWidth="1280" ImageHeight="1714" ImageSize="327542"/>
+		<Page Image="76" ImageWidth="1280" ImageHeight="1695" ImageSize="316536"/>
+		<Page Image="77" ImageWidth="1280" ImageHeight="1679" ImageSize="327772"/>
+		<Page Image="78" ImageWidth="1280" ImageHeight="1706" ImageSize="332989"/>
+		<Page Image="79" ImageWidth="1280" ImageHeight="1680" ImageSize="350103"/>
+		<Page Image="80" ImageWidth="1280" ImageHeight="1633" ImageSize="332272"/>
+		<Page Image="81" ImageWidth="1280" ImageHeight="1692" ImageSize="337079"/>
+		<Page Image="82" ImageWidth="1280" ImageHeight="1643" ImageSize="302940"/>
+		<Page Image="83" ImageWidth="1280" ImageHeight="1695" ImageSize="325783"/>
+		<Page Image="84" ImageWidth="1280" ImageHeight="1638" ImageSize="308451"/>
+		<Page Image="85" ImageWidth="1280" ImageHeight="1741" ImageSize="357429"/>
+		<Page Image="86" ImageWidth="1280" ImageHeight="1684" ImageSize="343193"/>
+		<Page Image="87" ImageWidth="1280" ImageHeight="1663" ImageSize="354009"/>
+		<Page Image="88" ImageWidth="1280" ImageHeight="1676" ImageSize="343768"/>
+		<Page Image="89" ImageWidth="1280" ImageHeight="1603" ImageSize="319145"/>
+		<Page Image="90" ImageWidth="1280" ImageHeight="1654" ImageSize="330448"/>
+		<Page Image="91" ImageWidth="1280" ImageHeight="1646" ImageSize="355814"/>
+		<Page Image="92" ImageWidth="1280" ImageHeight="1651" ImageSize="321577"/>
+		<Page Image="93" ImageWidth="1280" ImageHeight="1689" ImageSize="287775"/>
+		<Page Image="94" ImageWidth="1280" ImageHeight="1746" ImageSize="303630"/>
+		<Page Image="95" ImageWidth="1280" ImageHeight="1742" ImageSize="222342"/>
+		<Page Image="96" ImageWidth="1280" ImageHeight="1644" ImageSize="321158"/>
+		<Page Image="97" ImageWidth="1280" ImageHeight="1738" ImageSize="332832"/>
+		<Page Image="98" ImageWidth="1280" ImageHeight="1725" ImageSize="318818"/>
+		<Page Image="99" ImageWidth="1280" ImageHeight="1711" ImageSize="308147"/>
+		<Page Image="100" ImageWidth="1280" ImageHeight="1709" ImageSize="345886"/>
+		<Page Image="101" ImageWidth="1280" ImageHeight="1679" ImageSize="355689"/>
+		<Page Image="102" ImageWidth="1280" ImageHeight="1676" ImageSize="314022"/>
+		<Page Image="103" ImageWidth="1280" ImageHeight="1701" ImageSize="316826"/>
+		<Page Image="104" ImageWidth="1280" ImageHeight="1630" ImageSize="334120"/>
+		<Page Image="105" ImageWidth="1280" ImageHeight="1745" ImageSize="329788"/>
+		<Page Image="106" ImageWidth="1280" ImageHeight="1671" ImageSize="321718"/>
+		<Page Image="107" ImageWidth="1280" ImageHeight="1718" ImageSize="333216"/>
+		<Page Image="108" ImageWidth="1280" ImageHeight="1718" ImageSize="314511"/>
+		<Page Image="109" ImageWidth="1280" ImageHeight="1642" ImageSize="311996"/>
+		<Page Image="110" ImageWidth="1280" ImageHeight="1642" ImageSize="291231"/>
+		<Page Image="111" ImageWidth="1280" ImageHeight="1677" ImageSize="333526"/>
+		<Page Image="112" ImageWidth="1280" ImageHeight="1680" ImageSize="358795"/>
+		<Page Image="113" ImageWidth="1280" ImageHeight="1682" ImageSize="318467"/>
+		<Page Image="114" ImageWidth="1280" ImageHeight="1631" ImageSize="309947"/>
+		<Page Image="115" ImageWidth="1280" ImageHeight="1754" ImageSize="307357"/>
+		<Page Image="116" ImageWidth="1280" ImageHeight="1751" ImageSize="341209"/>
+		<Page Image="117" ImageWidth="1280" ImageHeight="1663" ImageSize="280188"/>
+		<Page Image="118" ImageWidth="1280" ImageHeight="1662" ImageSize="287993"/>
+		<Page Image="119" ImageWidth="1280" ImageHeight="1685" ImageSize="304825"/>
+		<Page Image="120" ImageWidth="1280" ImageHeight="1664" ImageSize="297816"/>
+		<Page Image="121" ImageWidth="1280" ImageHeight="1620" ImageSize="335353"/>
+		<Page Image="122" ImageWidth="1280" ImageHeight="1636" ImageSize="316807"/>
+		<Page Image="123" ImageWidth="1280" ImageHeight="1704" ImageSize="335422"/>
+		<Page Image="124" ImageWidth="1280" ImageHeight="1684" ImageSize="316018"/>
+		<Page Image="125" ImageWidth="1280" ImageHeight="1637" ImageSize="325456"/>
+		<Page Image="126" ImageWidth="1280" ImageHeight="1694" ImageSize="317839"/>
+		<Page Image="127" ImageWidth="1280" ImageHeight="1651" ImageSize="312075"/>
+		<Page Image="128" ImageWidth="1280" ImageHeight="1661" ImageSize="310834"/>
+		<Page Image="129" ImageWidth="1280" ImageHeight="1661" ImageSize="297044"/>
+		<Page Image="130" ImageWidth="1280" ImageHeight="1697" ImageSize="332627"/>
+		<Page Image="131" ImageWidth="1280" ImageHeight="1648" ImageSize="309880"/>
+		<Page Image="132" ImageWidth="1280" ImageHeight="1629" ImageSize="301456"/>
+		<Page Image="133" ImageWidth="1280" ImageHeight="1677" ImageSize="249877"/>
+		<Page Image="134" ImageWidth="1280" ImageHeight="1676" ImageSize="316448"/>
+		<Page Image="135" ImageWidth="1280" ImageHeight="1677" ImageSize="322779"/>
+		<Page Image="136" ImageWidth="1280" ImageHeight="1719" ImageSize="327861"/>
+		<Page Image="137" ImageWidth="1280" ImageHeight="1665" ImageSize="355831"/>
+		<Page Image="138" ImageWidth="1280" ImageHeight="1679" ImageSize="306554"/>
+		<Page Image="139" ImageWidth="1280" ImageHeight="1680" ImageSize="348199"/>
+		<Page Image="140" ImageWidth="1280" ImageHeight="1683" ImageSize="297420"/>
+		<Page Image="141" ImageWidth="1280" ImageHeight="1680" ImageSize="313213"/>
+		<Page Image="142" ImageWidth="1280" ImageHeight="1693" ImageSize="364326"/>
+		<Page Image="143" ImageWidth="1280" ImageHeight="1625" ImageSize="333335"/>
+		<Page Image="144" ImageWidth="1280" ImageHeight="1698" ImageSize="289499"/>
+		<Page Image="145" ImageWidth="1280" ImageHeight="1743" ImageSize="295230"/>
+		<Page Image="146" ImageWidth="1280" ImageHeight="1680" ImageSize="293877"/>
+		<Page Image="147" ImageWidth="1280" ImageHeight="1660" ImageSize="309528"/>
+		<Page Image="148" ImageWidth="1280" ImageHeight="1681" ImageSize="291809"/>
+		<Page Image="149" ImageWidth="1280" ImageHeight="1653" ImageSize="291467"/>
+		<Page Image="150" ImageWidth="1280" ImageHeight="1641" ImageSize="312078"/>
+		<Page Image="151" ImageWidth="1280" ImageHeight="1655" ImageSize="304073"/>
+		<Page Image="152" ImageWidth="1280" ImageHeight="1699" ImageSize="312205"/>
+		<Page Image="153" ImageWidth="1280" ImageHeight="1688" ImageSize="279782"/>
+		<Page Image="154" ImageWidth="1280" ImageHeight="1682" ImageSize="354509"/>
+		<Page Image="155" ImageWidth="1280" ImageHeight="1690" ImageSize="324749"/>
+		<Page Image="156" ImageWidth="1280" ImageHeight="1674" ImageSize="327332"/>
+		<Page Image="157" ImageWidth="1280" ImageHeight="1710" ImageSize="332912"/>
+		<Page Image="158" ImageWidth="1280" ImageHeight="1641" ImageSize="343680"/>
+		<Page Image="159" ImageWidth="1280" ImageHeight="1693" ImageSize="331809"/>
+		<Page Image="160" ImageWidth="1280" ImageHeight="1660" ImageSize="238529"/>
+		<Page Image="161" ImageWidth="1280" ImageHeight="1726" ImageSize="839333"/>
+		<Page Image="162" ImageWidth="1280" ImageHeight="1764" ImageSize="142875"/>
+		<Page Image="163" ImageWidth="640" ImageHeight="1778" ImageSize="147504"/>
+		<Page Image="164" ImageSize="259422"/>
+	</Pages>
+	<Penciller>M. K. Perker</Penciller>
+	<Publisher>DC Comics</Publisher>
+	<Series>Cairo</Series>
+	<Summary>CAIRO interweaves the fates of a drug runner, a down-on-his-luck journalist, an American expatriate, a troubled young student, and an Israeli soldier as they race through bustling present-day Cairo to find an artifact of unimaginable power, one protected by a dignified Jinn and sought by a wrathful gangster-magician. But the vastness of Africa's legendary City of Victory extends into a spiritual realm -- the Undernile -- and even darker powers lurk there...
+
+Written by journalist G. Willow Wilson (Atlantic Monthly, The New York Times Magazine, Cairo Magazine) and drawn by award-winning illustrator M.K. Perker (The New York Times, The New Yorker, The Wall Street Journal), this magical-realist thriller brings together the ancient and the modern Middle East.
+
+----------
+
+Cairo begins with a then unknown man sitting and talking to an unseen person. He recounts the events that have occurred earlier in the day, which involved him almost being killed, and a run in with a baked (high) camel. As the man finishes his story it can be seen that he was in fact talking to a religious statue. The man is Ashraf, a small time hashish dealer and hookak seller.
+
+An IDF soldier is travelling with a group of nomadic camel riders, and the first connection is made with Ashraf. The camel riders were the prior owners of the camel left in the middle of the desert road. Tova (the IDF soldier) was apparently knocked out earlier, and the camel nomads have recuperated her. She finds out that they plan on taking her to Cairo.
+
+Both Shaheed and Kate are then on an aeroplane to Cairo. Shaheed is a young Lebanese-American boy with the intention of commiting a suicide bombing. Kate is a young American lady who wants to see what the middle eastern world is really like. She can speak Arabic because she wanted to learn "an anti-imperialist launguage". After the plane lands they split up, and Shaheed realises that he is stuck in Cairo overnight.
+
+Ali Jibreel and Ashraf's sister (Salma) are sitting in bar drinking and smoking. Ashraf arrives, and jokingly tells Ali what will happen if he tries to seduce Salma. Ali attempts to discourage Ahsraf from his Hashish dealing and walking around with a hookah, but Ahraf brushes it off, and explains that hookahs are legal in Egypt. Ashraf tells Ali that he plans to sell it to "some tourist". Kate arrives asking for the international hostel. Salma convinces Ali to go and help Kate, as he speaks the best English. He explains to her how to read numbers in Arabic, and leads her out of the bar. Kate explains why she came to Cairo (to get out of upper class American culture). Ali's tell her that he doesn't think she will find what she is looking for, because "many of us are stuck here". Kate realises that Ali is the controversial writer in the local newspaper. As she is explaining her respect for him, a gun is pressed to the back of her head. Kate and Ali are then put into the back of a van by very polite kidnappers.
+
+Ashraf stumbles upon Shaheed, and decides that he will sell the hookah to him. Ashraf pretends that he thinks Shaheed is Egyptian, and sweet talks him into buying the hookah for 20 American dollars. Shaheed starts to beat himself up (psychologically) for wasting money while stranded in a foregin country. When Ashraf arrives back at his apartment there is a gunman by the name of Waleed waiting for him. After Waleed is insulted, Ashraf takes the gun back and then asks the gunman to tell him the message from Nar. Waleed explains that Ashraf has stolen a valuable hookah from a safehouse in Al-Arish. Ashraf insists that it was a normal Hookah, and dosen't understnad why Nar (a powerful drug lord and magician) would want it back. Waleed shows him a picture of Kate and Ali in a van, and explains that until the hookah is returned, they will be held hostage. The kidnappers briefly explain the purpose of the kidnapping, and in broken Arabic, Kate asks if she can use the toilet.
+
+Waleed tells Ashraf that Nar wants the hookak within three days, and as a result of this, Ashraf scares him out of the apartment. Tovah (appearing out of nowhere) picks up the gun that Ashraf dropped, and presses it to his head, telling him that she needs to get to the Israeli border, and he will be her means of transport. Ashraf explains that he will only co-operate if she helps him retrieve Nar's hookah. By this point, all of the characters in Cairo are linked together, and there lives all revolve around the possession of the hookah.
+
+Read on to find more. The above paragraphs are just a taste of the story in Cairo.
+
+https://comicvine.gamespot.com/cairo-1-a-graphic-novel/4000-150806/</Summary>
+	<Teams>Jinn</Teams>
+	<Title>A Graphic Novel</Title>
+	<Volume>2007</Volume>
+	<Web>https://comicvine.gamespot.com/cairo-1-a-graphic-novel/4000-150806/</Web>
+	<Writer>G. Willow Wilson</Writer>
+	<Year>2007</Year>
+</ComicInfo>

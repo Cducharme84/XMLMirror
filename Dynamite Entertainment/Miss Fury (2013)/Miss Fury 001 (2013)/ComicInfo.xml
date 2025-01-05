@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Miss Fury</Characters>
+  <Colorist>Ivan Nunes,Ivan Nunes</Colorist>
+  <Day>6</Day>
+  <GTIN>urn:comicvine:4000-395739</GTIN>
+  <Inker>Jackson Herbert,Jack Herbert,Marcio Abreu</Inker>
+  <Letterer>Simon Bowland,Simon Bowland</Letterer>
+  <Locations>Manhattan,New York City</Locations>
+  <Month>11</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:47:49 [Issue ID 4000-395739] urn:comicvine:4000-395739
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-12 10:12:02. [Issue ID 1553564]</Notes>
+  <Number>1</Number>
+  <PageCount>212</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1705932" Type="FrontCover" />
+    <Page Image="1" ImageSize="983488" />
+    <Page Image="2" ImageSize="5364451" />
+    <Page Image="3" ImageSize="1790161" />
+    <Page Image="4" ImageSize="1880601" />
+    <Page Image="5" ImageSize="737143" />
+    <Page Image="6" ImageSize="812857" />
+    <Page Image="7" ImageSize="1085103" />
+    <Page Image="8" ImageSize="1474337" />
+    <Page Image="9" ImageSize="1298064" />
+    <Page Image="10" ImageSize="813711" />
+    <Page Image="11" ImageSize="1602978" />
+    <Page Image="12" ImageSize="1446176" />
+    <Page Image="13" ImageSize="1462173" />
+    <Page Image="14" ImageSize="1489527" />
+    <Page Image="15" ImageSize="1626412" />
+    <Page Image="16" ImageSize="1581307" />
+    <Page Image="17" ImageSize="1390241" />
+    <Page Image="18" ImageSize="1328886" />
+    <Page Image="19" ImageSize="1937577" />
+    <Page Image="20" ImageSize="2059147" />
+    <Page Image="21" ImageSize="1783354" />
+    <Page Image="22" ImageSize="2285827" />
+    <Page Image="23" ImageSize="2636480" />
+    <Page Image="24" ImageSize="2194757" />
+    <Page Image="25" ImageSize="2003955" />
+    <Page Image="26" ImageSize="2247860" />
+    <Page Image="27" ImageSize="1634915" />
+    <Page Image="28" ImageSize="1701039" />
+    <Page Image="29" ImageSize="1916160" />
+    <Page Image="30" ImageSize="2052121" />
+    <Page Image="31" ImageSize="737143" />
+    <Page Image="32" ImageSize="473837" />
+    <Page Image="33" ImageSize="1445496" />
+    <Page Image="34" ImageSize="1427945" />
+    <Page Image="35" ImageSize="1787723" />
+    <Page Image="36" ImageSize="795762" />
+    <Page Image="37" ImageSize="1226682" />
+    <Page Image="38" ImageSize="3957362" />
+    <Page Image="39" ImageSize="1501202" />
+    <Page Image="40" ImageSize="2194953" />
+    <Page Image="41" ImageSize="2498200" />
+    <Page Image="42" ImageSize="1725591" />
+    <Page Image="43" ImageSize="1547170" />
+    <Page Image="44" ImageSize="1762956" />
+    <Page Image="45" ImageSize="1832416" />
+    <Page Image="46" ImageSize="1513806" />
+    <Page Image="47" ImageSize="2013529" />
+    <Page Image="48" ImageSize="1734013" />
+    <Page Image="49" ImageSize="1434789" />
+    <Page Image="50" ImageSize="1775683" />
+    <Page Image="51" ImageSize="2390953" />
+    <Page Image="52" ImageSize="2255252" />
+    <Page Image="53" ImageSize="1425330" />
+    <Page Image="54" ImageSize="2304740" />
+    <Page Image="55" ImageSize="1957297" />
+    <Page Image="56" ImageSize="737143" />
+    <Page Image="57" ImageSize="669726" />
+    <Page Image="58" ImageSize="1472207" />
+    <Page Image="59" ImageSize="1413392" />
+    <Page Image="60" ImageSize="1609444" />
+    <Page Image="61" ImageSize="795775" />
+    <Page Image="62" ImageSize="2173631" />
+    <Page Image="63" ImageSize="1749530" />
+    <Page Image="64" ImageSize="1690831" />
+    <Page Image="65" ImageSize="1814481" />
+    <Page Image="66" ImageSize="1843084" />
+    <Page Image="67" ImageSize="1920874" />
+    <Page Image="68" ImageSize="1841315" />
+    <Page Image="69" ImageSize="1355602" />
+    <Page Image="70" ImageSize="2291363" />
+    <Page Image="71" ImageSize="1532703" />
+    <Page Image="72" ImageSize="1837586" />
+    <Page Image="73" ImageSize="1843909" />
+    <Page Image="74" ImageSize="1617821" />
+    <Page Image="75" ImageSize="1497677" />
+    <Page Image="76" ImageSize="1752556" />
+    <Page Image="77" ImageSize="1709711" />
+    <Page Image="78" ImageSize="1678319" />
+    <Page Image="79" ImageSize="1717813" />
+    <Page Image="80" ImageSize="1726595" />
+    <Page Image="81" ImageSize="1571597" />
+    <Page Image="82" ImageSize="737143" />
+    <Page Image="83" ImageSize="800354" />
+    <Page Image="84" ImageSize="1150584" />
+    <Page Image="85" ImageSize="1599411" />
+    <Page Image="86" ImageSize="1356143" />
+    <Page Image="87" ImageSize="768583" />
+    <Page Image="88" ImageSize="1918820" />
+    <Page Image="89" ImageSize="1448100" />
+    <Page Image="90" ImageSize="1661042" />
+    <Page Image="91" ImageSize="1686376" />
+    <Page Image="92" ImageSize="1836736" />
+    <Page Image="93" ImageSize="1624127" />
+    <Page Image="94" ImageSize="1670971" />
+    <Page Image="95" ImageSize="2202884" />
+    <Page Image="96" ImageSize="1502028" />
+    <Page Image="97" ImageSize="1499612" />
+    <Page Image="98" ImageSize="2195621" />
+    <Page Image="99" ImageSize="2040124" />
+    <Page Image="100" ImageSize="1697686" />
+    <Page Image="101" ImageSize="1982733" />
+    <Page Image="102" ImageSize="2098709" />
+    <Page Image="103" ImageSize="1535725" />
+    <Page Image="104" ImageSize="1780430" />
+    <Page Image="105" ImageSize="1729345" />
+    <Page Image="106" ImageSize="1967670" />
+    <Page Image="107" ImageSize="737143" />
+    <Page Image="108" ImageSize="1513206" />
+    <Page Image="109" ImageSize="1663489" />
+    <Page Image="110" ImageSize="1498922" />
+    <Page Image="111" ImageSize="2023522" />
+    <Page Image="112" ImageSize="795959" />
+    <Page Image="113" ImageSize="1908665" />
+    <Page Image="114" ImageSize="2356018" />
+    <Page Image="115" ImageSize="1849783" />
+    <Page Image="116" ImageSize="1758666" />
+    <Page Image="117" ImageSize="1749049" />
+    <Page Image="118" ImageSize="2039786" />
+    <Page Image="119" ImageSize="1785570" />
+    <Page Image="120" ImageSize="1909974" />
+    <Page Image="121" ImageSize="1728501" />
+    <Page Image="122" ImageSize="1562833" />
+    <Page Image="123" ImageSize="2049932" />
+    <Page Image="124" ImageSize="1433629" />
+    <Page Image="125" ImageSize="1646305" />
+    <Page Image="126" ImageSize="1634687" />
+    <Page Image="127" ImageSize="1456448" />
+    <Page Image="128" ImageSize="1604175" />
+    <Page Image="129" ImageSize="1587147" />
+    <Page Image="130" ImageSize="1732007" />
+    <Page Image="131" ImageSize="1711957" />
+    <Page Image="132" ImageSize="1477723" />
+    <Page Image="133" ImageSize="737143" />
+    <Page Image="134" ImageSize="1221224" />
+    <Page Image="135" ImageSize="847130" />
+    <Page Image="136" ImageSize="1328968" />
+    <Page Image="137" ImageSize="2058768" />
+    <Page Image="138" ImageSize="803626" />
+    <Page Image="139" ImageSize="2024593" />
+    <Page Image="140" ImageSize="2307332" />
+    <Page Image="141" ImageSize="1417691" />
+    <Page Image="142" ImageSize="2183729" />
+    <Page Image="143" ImageSize="1921551" />
+    <Page Image="144" ImageSize="1464307" />
+    <Page Image="145" ImageSize="1709289" />
+    <Page Image="146" ImageSize="2023499" />
+    <Page Image="147" ImageSize="2130561" />
+    <Page Image="148" ImageSize="2159882" />
+    <Page Image="149" ImageSize="2107839" />
+    <Page Image="150" ImageSize="1966174" />
+    <Page Image="151" ImageSize="1459217" />
+    <Page Image="152" ImageSize="1992796" />
+    <Page Image="153" ImageSize="1965961" />
+    <Page Image="154" ImageSize="1963738" />
+    <Page Image="155" ImageSize="2137000" />
+    <Page Image="156" ImageSize="1766855" />
+    <Page Image="157" ImageSize="1621928" />
+    <Page Image="158" ImageSize="1721745" />
+    <Page Image="159" ImageSize="737143" />
+    <Page Image="160" ImageSize="1041129" />
+    <Page Image="161" ImageSize="712769" />
+    <Page Image="162" ImageSize="629020" />
+    <Page Image="163" ImageSize="819137" />
+    <Page Image="164" ImageSize="719563" />
+    <Page Image="165" ImageSize="792466" />
+    <Page Image="166" ImageSize="763994" />
+    <Page Image="167" ImageSize="850568" />
+    <Page Image="168" ImageSize="867897" />
+    <Page Image="169" ImageSize="857217" />
+    <Page Image="170" ImageSize="814959" />
+    <Page Image="171" ImageSize="679462" />
+    <Page Image="172" ImageSize="710516" />
+    <Page Image="173" ImageSize="693333" />
+    <Page Image="174" ImageSize="1589263" />
+    <Page Image="175" ImageSize="1193045" />
+    <Page Image="176" ImageSize="1531633" />
+    <Page Image="177" ImageSize="1358377" />
+    <Page Image="178" ImageSize="697143" />
+    <Page Image="179" ImageSize="749978" />
+    <Page Image="180" ImageSize="1119278" />
+    <Page Image="181" ImageSize="1542463" />
+    <Page Image="182" ImageSize="1291940" />
+    <Page Image="183" ImageSize="1630791" />
+    <Page Image="184" ImageSize="1592345" />
+    <Page Image="185" ImageSize="428042" />
+    <Page Image="186" ImageSize="1470791" />
+    <Page Image="187" ImageSize="1472355" />
+    <Page Image="188" ImageSize="1977648" />
+    <Page Image="189" ImageSize="1189301" />
+    <Page Image="190" ImageSize="652018" />
+    <Page Image="191" ImageSize="1606677" />
+    <Page Image="192" ImageSize="1353888" />
+    <Page Image="193" ImageSize="1812420" />
+    <Page Image="194" ImageSize="1239909" />
+    <Page Image="195" ImageSize="835027" />
+    <Page Image="196" ImageSize="1141656" />
+    <Page Image="197" ImageSize="1760198" />
+    <Page Image="198" ImageSize="1506287" />
+    <Page Image="199" ImageSize="1390444" />
+    <Page Image="200" ImageSize="1479899" />
+    <Page Image="201" ImageSize="1776672" />
+    <Page Image="202" ImageSize="1534520" />
+    <Page Image="203" ImageSize="2125697" />
+    <Page Image="204" ImageSize="1324716" />
+    <Page Image="205" ImageSize="1221904" />
+    <Page Image="206" ImageSize="791521" />
+    <Page Image="207" ImageSize="1359807" />
+    <Page Image="208" ImageSize="2082299" />
+    <Page Image="209" ImageSize="912752" />
+    <Page Image="210" ImageSize="737143" />
+    <Page Image="211" ImageSize="1315832" />
+  </Pages>
+  <Penciller>Jackson Herbert,Jack Herbert,Marcio Abreu</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>Miss Fury</Series>
+  <Summary>THE PULP HEROINE RETURNS! When Miss Fury foils a wartime plot by Nazi secret agents, she is catapulted through time... or so it seems. Is she really careening from past to future and back, or has she lost her mind? And if her sanity remains intact, can one lone heroine possibly hope to end World War II by herself, a conflict still waged into the year 2013? As witness to generations of bloodshed and violence, Miss Fury has lots of righteous rage... and anger is her fearsome power!
+
+https://comicvine.gamespot.com/miss-fury-1/4000-395739/</Summary>
+  <Tags>Miss Fury,Manhattan,New York City</Tags>
+  <Volume>2013</Volume>
+  <Web>https://comicvine.gamespot.com/miss-fury-1/4000-395739/</Web>
+  <Writer>Rob Williams,Rob Williams</Writer>
+  <Year>2013</Year>
+  <Count>2</Count>
+  <Title>Anger Is an Energy</Title>
+  <Genre>Superhero,Adventure</Genre>
+  <LanguageISO>en</LanguageISO>
+  <Format>Collection</Format>
+  <AgeRating>Rated T+</AgeRating>
+</ComicInfo>

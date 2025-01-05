@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>8</Count>
+  <Format>Series</Format>
+  <Genre>Superhero</Genre>
+  <Inker>Michael Keller</Inker>
+  <Number>7</Number>
+  <Penciller>Vhon Remot</Penciller>
+  <Publisher>4th Wall Productions</Publisher>
+  <Series>Aceblade</Series>
+  <Volume>2014</Volume>
+  <Writer>Christoph Hollars</Writer>
+  <Summary>Terrell Durham is frustrated after being helpless to stop his student from being taken to prison. He suits up as Aceblade and takes to the streets, hoping to clear his head and stop some crime, but is our vigilante really in the right state of mind to help his community?</Summary>
+  <Year>2023</Year>
+  <Day>7</Day>
+  <Month>10</Month>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3910" ImageSize="1769775" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3910" ImageSize="1481647" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3910" ImageSize="1343009" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3910" ImageSize="953113" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3910" ImageSize="1159197" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3910" ImageSize="1026975" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3910" ImageSize="1397921" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3910" ImageSize="2212988" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3910" ImageSize="1099647" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3910" ImageSize="1206203" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3910" ImageSize="1295829" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3910" ImageSize="1214696" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3910" ImageSize="1710156" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3910" ImageSize="183686" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3910" ImageSize="997681" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3910" ImageSize="1129724" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3910" ImageSize="1164140" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3910" ImageSize="1096979" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3910" ImageSize="1099312" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3910" ImageSize="1070131" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3910" ImageSize="1062503" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3910" ImageSize="1399048" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3910" ImageSize="1039924" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3910" ImageSize="1130243" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3910" ImageSize="1133681" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3910" ImageSize="309676" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3910" ImageSize="1348495" ImageWidth="2560" />
+  </Pages>
+</ComicInfo>

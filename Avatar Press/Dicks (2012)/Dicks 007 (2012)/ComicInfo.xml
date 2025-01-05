@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Dougie Patterson,Ivor Thompson</Characters>
+	<Count>10</Count>
+	<Country>US</Country>
+	<Format>Digital</Format>
+	<GTIN>urn:comicvine:4000-1118629</GTIN>
+	<Genre>Humor</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>7</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:25:56 [Issue ID 4000-1118629] urn:comicvine:4000-1118629 urn:grandcomicsdatabase:issue/1118629</Notes>
+	<Number>7</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="1988" ImageHeight="3056" ImageSize="1656903" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="1988" ImageHeight="3075" ImageSize="1171912"/>
+		<Page Image="2" ImageWidth="1988" ImageHeight="3092" ImageSize="1127696"/>
+		<Page Image="3" ImageWidth="1988" ImageHeight="3056" ImageSize="1002963"/>
+		<Page Image="4" ImageWidth="1988" ImageHeight="3056" ImageSize="1370755"/>
+		<Page Image="5" ImageWidth="1988" ImageHeight="3056" ImageSize="1576284"/>
+		<Page Image="6" ImageWidth="1988" ImageHeight="3056" ImageSize="1510135"/>
+		<Page Image="7" ImageWidth="1988" ImageHeight="3056" ImageSize="1675469"/>
+		<Page Image="8" ImageWidth="1988" ImageHeight="3056" ImageSize="1370455"/>
+		<Page Image="9" ImageWidth="1988" ImageHeight="3056" ImageSize="1832901"/>
+		<Page Image="10" ImageWidth="1988" ImageHeight="3056" ImageSize="1542563"/>
+		<Page Image="11" ImageWidth="1988" ImageHeight="3056" ImageSize="1318501"/>
+		<Page Image="12" ImageWidth="1988" ImageHeight="3056" ImageSize="1672568"/>
+		<Page Image="13" ImageWidth="1988" ImageHeight="3056" ImageSize="1574417"/>
+		<Page Image="14" ImageWidth="1988" ImageHeight="3056" ImageSize="1575431"/>
+		<Page Image="15" ImageWidth="1988" ImageHeight="3056" ImageSize="1702736"/>
+		<Page Image="16" ImageWidth="1988" ImageHeight="3056" ImageSize="1647701"/>
+		<Page Image="17" ImageWidth="1988" ImageHeight="3056" ImageSize="1754312"/>
+		<Page Image="18" ImageWidth="1988" ImageHeight="3056" ImageSize="1370105"/>
+		<Page Image="19" ImageWidth="1988" ImageHeight="3056" ImageSize="1527712"/>
+		<Page Image="20" ImageWidth="1988" ImageHeight="3056" ImageSize="1932020"/>
+		<Page Image="21" ImageWidth="1988" ImageHeight="3056" ImageSize="1547986"/>
+		<Page Image="22" ImageWidth="1988" ImageHeight="3056" ImageSize="1315401"/>
+		<Page Image="23" ImageWidth="1988" ImageHeight="3056" ImageSize="1435243"/>
+		<Page Image="24" ImageWidth="1988" ImageHeight="3056" ImageSize="1429003"/>
+		<Page Image="25" ImageWidth="1988" ImageHeight="3056" ImageSize="1697944"/>
+		<Page Image="26" ImageSize="703543"/>
+	</Pages>
+	<Publisher>Avatar Press</Publisher>
+	<ScanInformation>(Digital)</ScanInformation>
+	<Series>Dicks</Series>
+	<Volume>2012</Volume>
+	<Web>https://comicvine.gamespot.com/c/4000-1118629/</Web>
+	<Writer>Garth Ennis</Writer>
+	<Year>2012</Year>
+</ComicInfo>

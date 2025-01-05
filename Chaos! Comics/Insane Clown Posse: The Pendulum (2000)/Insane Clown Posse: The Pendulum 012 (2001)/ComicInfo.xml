@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Jamie Madrox,Monoxide,Shaggy 2 Dope,Violent J</Characters>
+	<Day>1</Day>
+	<Editor>Gregg Pisani,Mike Francis</Editor>
+	<GTIN>urn:comicvine:4000-145058</GTIN>
+	<Inker>Jerry Beck,Sandu Florea</Inker>
+	<Month>12</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:39:09 [Issue ID 4000-145058] urn:comicvine:4000-145058</Notes>
+	<Number>12</Number>
+	<PageCount>24</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="980" ImageHeight="1526" ImageSize="542377" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="970" ImageHeight="1521" ImageSize="394999"/>
+		<Page Image="2" ImageWidth="971" ImageHeight="1520" ImageSize="392175"/>
+		<Page Image="3" ImageWidth="972" ImageHeight="1523" ImageSize="351042"/>
+		<Page Image="4" ImageWidth="968" ImageHeight="1521" ImageSize="409241"/>
+		<Page Image="5" ImageWidth="971" ImageHeight="1523" ImageSize="428444"/>
+		<Page Image="6" ImageWidth="966" ImageHeight="1523" ImageSize="425260"/>
+		<Page Image="7" ImageWidth="970" ImageHeight="1524" ImageSize="419618"/>
+		<Page Image="8" ImageWidth="968" ImageHeight="1519" ImageSize="390103"/>
+		<Page Image="9" ImageWidth="970" ImageHeight="1523" ImageSize="421792"/>
+		<Page Image="10" ImageWidth="971" ImageHeight="1519" ImageSize="368707"/>
+		<Page Image="11" ImageWidth="970" ImageHeight="1525" ImageSize="424831"/>
+		<Page Image="12" ImageWidth="967" ImageHeight="1520" ImageSize="399536"/>
+		<Page Image="13" ImageWidth="967" ImageHeight="1523" ImageSize="407920"/>
+		<Page Image="14" ImageWidth="967" ImageHeight="1521" ImageSize="432174"/>
+		<Page Image="15" ImageWidth="960" ImageHeight="1520" ImageSize="383691"/>
+		<Page Image="16" ImageWidth="968" ImageHeight="1520" ImageSize="406554"/>
+		<Page Image="17" ImageWidth="967" ImageHeight="1524" ImageSize="392091"/>
+		<Page Image="18" ImageWidth="965" ImageHeight="1521" ImageSize="402990"/>
+		<Page Image="19" ImageWidth="962" ImageHeight="1526" ImageSize="405052"/>
+		<Page Image="20" ImageWidth="968" ImageHeight="1519" ImageSize="424725"/>
+		<Page Image="21" ImageWidth="962" ImageHeight="1525" ImageSize="390202"/>
+		<Page Image="22" ImageWidth="966" ImageHeight="1518" ImageSize="396672"/>
+		<Page Image="23" ImageSize="459447"/>
+	</Pages>
+	<Penciller>Jerry Beck</Penciller>
+	<Publisher>Chaos! Comics</Publisher>
+	<Series>Insane Clown Posse: The Pendulum</Series>
+	<Summary>https://comicvine.gamespot.com/insane-clown-posse-the-pendulum-12-into-the-nether/4000-145058/</Summary>
+	<Teams>Twiztid</Teams>
+	<Title>Into the Nether World</Title>
+	<Volume>2000</Volume>
+	<Web>https://comicvine.gamespot.com/insane-clown-posse-the-pendulum-12-into-the-nether/4000-145058/</Web>
+	<Writer>Jesse Leon McCann</Writer>
+	<Year>2001</Year>
+</ComicInfo>

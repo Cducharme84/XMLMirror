@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature</AgeRating>
+	<Characters>Jo-Jo,Rulah</Characters>
+	<Count>27</Count>
+	<CoverArtist>Alessio Nocerino</CoverArtist>
+	<Day>9</Day>
+	<Editor>Brian Denham</Editor>
+	<Format>Anthology</Format>
+	<GTIN>urn:comicvine:4000-919714</GTIN>
+	<Genre>Anthology,Fantasy,Jungle</Genre>
+	<LanguageISO>en</LanguageISO>
+	<Month>2</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-08-18T01:48:25 [Issue ID 4000-919714] urn:comicvine:4000-919714 urn:grandcomicsdatabase:issue/2337903</Notes>
+	<Number>5</Number>
+	<PageCount>34</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="1987" ImageHeight="3075" ImageSize="1662489" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="1987" ImageHeight="3075" ImageSize="1119093"/>
+		<Page DoublePage="False" Image="2" ImageWidth="1987" ImageHeight="3075" ImageSize="1496730"/>
+		<Page DoublePage="False" Image="3" ImageWidth="1987" ImageHeight="3075" ImageSize="1454145"/>
+		<Page DoublePage="False" Image="4" ImageWidth="1987" ImageHeight="3075" ImageSize="1889828"/>
+		<Page DoublePage="False" Image="5" ImageWidth="1987" ImageHeight="3075" ImageSize="1757691"/>
+		<Page DoublePage="False" Image="6" ImageWidth="1987" ImageHeight="3075" ImageSize="1658693"/>
+		<Page DoublePage="False" Image="7" ImageWidth="1987" ImageHeight="3075" ImageSize="1211522"/>
+		<Page DoublePage="False" Image="8" ImageWidth="1987" ImageHeight="3075" ImageSize="1735946"/>
+		<Page DoublePage="False" Image="9" ImageWidth="1987" ImageHeight="3075" ImageSize="1244904"/>
+		<Page DoublePage="False" Image="10" ImageWidth="1987" ImageHeight="3075" ImageSize="1839916"/>
+		<Page DoublePage="False" Image="11" ImageWidth="1987" ImageHeight="3075" ImageSize="1500594"/>
+		<Page DoublePage="False" Image="12" ImageWidth="1987" ImageHeight="3075" ImageSize="1734555"/>
+		<Page DoublePage="False" Image="13" ImageWidth="1987" ImageHeight="3075" ImageSize="1402415"/>
+		<Page DoublePage="False" Image="14" ImageWidth="1987" ImageHeight="3075" ImageSize="1935339"/>
+		<Page DoublePage="False" Image="15" ImageWidth="1987" ImageHeight="3075" ImageSize="2313182"/>
+		<Page DoublePage="False" Image="16" ImageWidth="1987" ImageHeight="3075" ImageSize="1720678"/>
+		<Page DoublePage="False" Image="17" ImageWidth="1987" ImageHeight="3075" ImageSize="2035113"/>
+		<Page DoublePage="False" Image="18" ImageWidth="1987" ImageHeight="3075" ImageSize="1765273"/>
+		<Page DoublePage="False" Image="19" ImageWidth="1987" ImageHeight="3075" ImageSize="2526023"/>
+		<Page DoublePage="False" Image="20" ImageWidth="1987" ImageHeight="3075" ImageSize="2369860"/>
+		<Page DoublePage="False" Image="21" ImageWidth="1987" ImageHeight="3075" ImageSize="1681916"/>
+		<Page DoublePage="False" Image="22" ImageWidth="1987" ImageHeight="3075" ImageSize="1356496"/>
+		<Page DoublePage="False" Image="23" ImageWidth="1987" ImageHeight="3075" ImageSize="1704175"/>
+		<Page DoublePage="False" Image="24" ImageWidth="1987" ImageHeight="3075" ImageSize="2158175"/>
+		<Page DoublePage="False" Image="25" ImageWidth="1987" ImageHeight="3075" ImageSize="2095895"/>
+		<Page DoublePage="False" Image="26" ImageWidth="1987" ImageHeight="3075" ImageSize="2155866"/>
+		<Page DoublePage="False" Image="27" ImageWidth="1987" ImageHeight="3075" ImageSize="1835715"/>
+		<Page DoublePage="False" Image="28" ImageWidth="1987" ImageHeight="3075" ImageSize="1849757"/>
+		<Page DoublePage="False" Image="29" ImageWidth="1987" ImageHeight="3075" ImageSize="1821101"/>
+		<Page DoublePage="False" Image="30" ImageWidth="1987" ImageHeight="3075" ImageSize="1708851"/>
+		<Page DoublePage="False" Image="31" ImageWidth="1987" ImageHeight="3075" ImageSize="1278329"/>
+		<Page DoublePage="False" Image="32" ImageWidth="1987" ImageHeight="3075" ImageSize="1418998"/>
+		<Page Image="33" ImageSize="1438887"/>
+	</Pages>
+	<Publisher>Antarctic Press</Publisher>
+	<Series>Jungle Comics</Series>
+	<Summary>Rhula and JoJo enter the valley of the dinosaurs as they chase illegal poachers into a forbidden jungle in part 2 of "Green Hell" by Chuck Dixon and Alessio Nocerino. In "David and Goliath", by Scott O. Brown and Robespierre Feitoza, the titular heroes continue to defend their jungle paradise from an invasion of giant spiders. A deadly virus infects a jungle village in "Ebola" by John Crowther and Dell Barras. And in part 2 of Paul Beale and Jenny Godin's "Hidden Island", the plane crash survivors contend with staying alive, unaware they are being observed by hungry eyes!</Summary>
+	<Volume>2019</Volume>
+	<Web>https://comicvine.gamespot.com/jungle-comics-5/4000-919714/</Web>
+	<Year>2022</Year>
+</ComicInfo>

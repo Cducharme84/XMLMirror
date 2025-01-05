@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Ash</Characters>
+  <Colorist>Dinei Ribeiro</Colorist>
+  <Day>8</Day>
+  <GTIN>urn:asin:B0B2BSNSWS</GTIN>
+  <Inker>Tom Garcia</Inker>
+  <Letterer>Troy Peteri</Letterer>
+  <Locations>The Bronx</Locations>
+  <Month>9</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T03:52:17 [Issue ID 4000-884179] urn:asin:B0B2BSNSWS urn:comicvine:4000-884179
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 21:34:25. [Issue ID 2260594]</Notes>
+  <Number>1</Number>
+  <PageCount>136</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="775586" ImageWidth="1988" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="1807936" ImageWidth="1988" />
+    <Page Image="2" ImageHeight="3056" ImageSize="6743292" ImageWidth="3976" />
+    <Page Image="3" ImageHeight="3056" ImageSize="5690578" ImageWidth="3976" />
+    <Page Image="4" ImageHeight="3056" ImageSize="2674047" ImageWidth="1988" />
+    <Page Image="5" ImageHeight="3056" ImageSize="2289643" ImageWidth="1988" />
+    <Page Image="6" ImageHeight="3056" ImageSize="2178440" ImageWidth="1988" />
+    <Page Image="7" ImageHeight="3056" ImageSize="2157263" ImageWidth="1988" />
+    <Page Image="8" ImageHeight="3056" ImageSize="1991904" ImageWidth="1988" />
+    <Page Image="9" ImageHeight="3056" ImageSize="2376401" ImageWidth="1988" />
+    <Page Image="10" ImageHeight="3056" ImageSize="2016973" ImageWidth="1988" />
+    <Page Image="11" ImageHeight="3056" ImageSize="2165127" ImageWidth="1988" />
+    <Page Image="12" ImageHeight="3056" ImageSize="2768273" ImageWidth="1988" />
+    <Page Image="13" ImageHeight="3056" ImageSize="2158303" ImageWidth="1988" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2392164" ImageWidth="1988" />
+    <Page Image="15" ImageHeight="3056" ImageSize="2646132" ImageWidth="1988" />
+    <Page Image="16" ImageHeight="3056" ImageSize="2683675" ImageWidth="1988" />
+    <Page Image="17" ImageHeight="3056" ImageSize="2094520" ImageWidth="1988" />
+    <Page Image="18" ImageHeight="3056" ImageSize="2481907" ImageWidth="1988" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2081684" ImageWidth="1988" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2361409" ImageWidth="1988" />
+    <Page Image="21" ImageHeight="3056" ImageSize="2697146" ImageWidth="1988" />
+    <Page Image="22" ImageHeight="3056" ImageSize="2621620" ImageWidth="1988" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2434785" ImageWidth="1988" />
+    <Page Image="24" ImageHeight="3056" ImageSize="3099448" ImageWidth="1988" />
+    <Page Image="25" ImageHeight="3056" ImageSize="2051548" ImageWidth="1988" />
+    <Page Image="26" ImageHeight="3056" ImageSize="2061956" ImageWidth="1988" />
+    <Page Image="27" ImageHeight="3056" ImageSize="2653478" ImageWidth="1988" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1409005" ImageWidth="1988" />
+    <Page Image="29" ImageHeight="3056" ImageSize="2300613" ImageWidth="1988" />
+    <Page Image="30" ImageHeight="3056" ImageSize="2712823" ImageWidth="1988" />
+    <Page Image="31" ImageHeight="3056" ImageSize="2649695" ImageWidth="1988" />
+    <Page Image="32" ImageHeight="3056" ImageSize="3445527" ImageWidth="1988" />
+    <Page Image="33" ImageHeight="3056" ImageSize="2619822" ImageWidth="1988" />
+    <Page Image="34" ImageHeight="3056" ImageSize="2601899" ImageWidth="1988" />
+    <Page Image="35" ImageHeight="3056" ImageSize="2624377" ImageWidth="1988" />
+    <Page Image="36" ImageHeight="3056" ImageSize="2488286" ImageWidth="1988" />
+    <Page Image="37" ImageHeight="3056" ImageSize="2022535" ImageWidth="1988" />
+    <Page Image="38" ImageHeight="3056" ImageSize="1983206" ImageWidth="1988" />
+    <Page Image="39" ImageHeight="3056" ImageSize="2001392" ImageWidth="1988" />
+    <Page Image="40" ImageHeight="3056" ImageSize="2122151" ImageWidth="1988" />
+    <Page Image="41" ImageHeight="3056" ImageSize="1778778" ImageWidth="1988" />
+    <Page Image="42" ImageHeight="3056" ImageSize="2416358" ImageWidth="1988" />
+    <Page Image="43" ImageHeight="3056" ImageSize="2242748" ImageWidth="1988" />
+    <Page Image="44" ImageHeight="3056" ImageSize="2374720" ImageWidth="1988" />
+    <Page Image="45" ImageHeight="3056" ImageSize="1925714" ImageWidth="1988" />
+    <Page Image="46" ImageHeight="3056" ImageSize="2129951" ImageWidth="1988" />
+    <Page Image="47" ImageHeight="3056" ImageSize="2062503" ImageWidth="1988" />
+    <Page Image="48" ImageHeight="3056" ImageSize="2022420" ImageWidth="1988" />
+    <Page Image="49" ImageHeight="3056" ImageSize="2027999" ImageWidth="1988" />
+    <Page Image="50" ImageHeight="3056" ImageSize="2020306" ImageWidth="1988" />
+    <Page Image="51" ImageHeight="3056" ImageSize="2175013" ImageWidth="1988" />
+    <Page Image="52" ImageHeight="3056" ImageSize="1031736" ImageWidth="1988" />
+    <Page Image="53" ImageHeight="3056" ImageSize="2401889" ImageWidth="1988" />
+    <Page Image="54" ImageHeight="3056" ImageSize="2108503" ImageWidth="1988" />
+    <Page Image="55" ImageHeight="3056" ImageSize="2269644" ImageWidth="1988" />
+    <Page Image="56" ImageHeight="3056" ImageSize="2293321" ImageWidth="1988" />
+    <Page Image="57" ImageHeight="3056" ImageSize="2524966" ImageWidth="1988" />
+    <Page Image="58" ImageHeight="3056" ImageSize="2865590" ImageWidth="1988" />
+    <Page Image="59" ImageHeight="3056" ImageSize="2466352" ImageWidth="1988" />
+    <Page Image="60" ImageHeight="3056" ImageSize="2302393" ImageWidth="1988" />
+    <Page Image="61" ImageHeight="3056" ImageSize="2500811" ImageWidth="1988" />
+    <Page Image="62" ImageHeight="3056" ImageSize="2092661" ImageWidth="1988" />
+    <Page Image="63" ImageHeight="3056" ImageSize="1937736" ImageWidth="1988" />
+    <Page Image="64" ImageHeight="3056" ImageSize="2735732" ImageWidth="1988" />
+    <Page Image="65" ImageHeight="3056" ImageSize="2452782" ImageWidth="1988" />
+    <Page Image="66" ImageHeight="3056" ImageSize="2111786" ImageWidth="1988" />
+    <Page Image="67" ImageHeight="3056" ImageSize="2679471" ImageWidth="1988" />
+    <Page Image="68" ImageHeight="3056" ImageSize="2870101" ImageWidth="1988" />
+    <Page Image="69" ImageHeight="3056" ImageSize="1928982" ImageWidth="1988" />
+    <Page Image="70" ImageHeight="3056" ImageSize="2484723" ImageWidth="1988" />
+    <Page Image="71" ImageHeight="3056" ImageSize="2339499" ImageWidth="1988" />
+    <Page Image="72" ImageHeight="3056" ImageSize="2404211" ImageWidth="1988" />
+    <Page Image="73" ImageHeight="3056" ImageSize="2074418" ImageWidth="1988" />
+    <Page Image="74" ImageHeight="3056" ImageSize="2310208" ImageWidth="1988" />
+    <Page Image="75" ImageHeight="3056" ImageSize="2804063" ImageWidth="1988" />
+    <Page Image="76" ImageHeight="3056" ImageSize="999910" ImageWidth="1988" />
+    <Page Image="77" ImageHeight="3056" ImageSize="2327311" ImageWidth="1988" />
+    <Page Image="78" ImageHeight="3056" ImageSize="3422122" ImageWidth="1988" />
+    <Page Image="79" ImageHeight="3056" ImageSize="2551347" ImageWidth="1988" />
+    <Page Image="80" ImageHeight="3056" ImageSize="2309828" ImageWidth="1988" />
+    <Page Image="81" ImageHeight="3056" ImageSize="2127654" ImageWidth="1988" />
+    <Page Image="82" ImageHeight="3056" ImageSize="2139147" ImageWidth="1988" />
+    <Page Image="83" ImageHeight="3056" ImageSize="2474473" ImageWidth="1988" />
+    <Page Image="84" ImageHeight="3056" ImageSize="2565201" ImageWidth="1988" />
+    <Page Image="85" ImageHeight="3056" ImageSize="2411574" ImageWidth="1988" />
+    <Page Image="86" ImageHeight="3056" ImageSize="1940057" ImageWidth="1988" />
+    <Page Image="87" ImageHeight="3056" ImageSize="3072615" ImageWidth="1988" />
+    <Page Image="88" ImageHeight="3056" ImageSize="2413314" ImageWidth="1988" />
+    <Page Image="89" ImageHeight="3056" ImageSize="2020836" ImageWidth="1988" />
+    <Page Image="90" ImageHeight="3056" ImageSize="2259721" ImageWidth="1988" />
+    <Page Image="91" ImageHeight="3056" ImageSize="3454218" ImageWidth="1988" />
+    <Page Image="92" ImageHeight="3056" ImageSize="2010853" ImageWidth="1988" />
+    <Page Image="93" ImageHeight="3056" ImageSize="2376178" ImageWidth="1988" />
+    <Page Image="94" ImageHeight="3056" ImageSize="2783493" ImageWidth="1988" />
+    <Page Image="95" ImageHeight="3056" ImageSize="2096660" ImageWidth="1988" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1792962" ImageWidth="1988" />
+    <Page Image="97" ImageHeight="3056" ImageSize="1929454" ImageWidth="1988" />
+    <Page Image="98" ImageHeight="3056" ImageSize="1905626" ImageWidth="1988" />
+    <Page Image="99" ImageHeight="3056" ImageSize="2913732" ImageWidth="1988" />
+    <Page Image="100" ImageHeight="3056" ImageSize="928492" ImageWidth="1988" />
+    <Page Image="101" ImageHeight="3056" ImageSize="2353984" ImageWidth="1988" />
+    <Page Image="102" ImageHeight="3056" ImageSize="2034928" ImageWidth="1988" />
+    <Page Image="103" ImageHeight="3056" ImageSize="2871065" ImageWidth="1988" />
+    <Page Image="104" ImageHeight="3056" ImageSize="2322410" ImageWidth="1988" />
+    <Page Image="105" ImageHeight="3056" ImageSize="2403271" ImageWidth="1988" />
+    <Page Image="106" ImageHeight="3056" ImageSize="1673267" ImageWidth="1988" />
+    <Page Image="107" ImageHeight="3056" ImageSize="1683839" ImageWidth="1988" />
+    <Page Image="108" ImageHeight="3056" ImageSize="2570166" ImageWidth="1988" />
+    <Page Image="109" ImageHeight="3056" ImageSize="2855292" ImageWidth="1988" />
+    <Page Image="110" ImageHeight="3056" ImageSize="2427950" ImageWidth="1988" />
+    <Page Image="111" ImageHeight="3056" ImageSize="3067324" ImageWidth="1988" />
+    <Page Image="112" ImageHeight="3056" ImageSize="2610966" ImageWidth="1988" />
+    <Page Image="113" ImageHeight="3056" ImageSize="1765844" ImageWidth="1988" />
+    <Page Image="114" ImageHeight="3056" ImageSize="2130741" ImageWidth="1988" />
+    <Page Image="115" ImageHeight="3056" ImageSize="2151927" ImageWidth="1988" />
+    <Page Image="116" ImageHeight="3056" ImageSize="2533231" ImageWidth="1988" />
+    <Page Image="117" ImageHeight="3056" ImageSize="2060857" ImageWidth="1988" />
+    <Page Image="118" ImageHeight="3056" ImageSize="1696595" ImageWidth="1988" />
+    <Page Image="119" ImageHeight="3056" ImageSize="2267039" ImageWidth="1988" />
+    <Page Image="120" ImageHeight="3056" ImageSize="2580985" ImageWidth="1988" />
+    <Page Image="121" ImageHeight="3056" ImageSize="1986299" ImageWidth="1988" />
+    <Page Image="122" ImageHeight="3056" ImageSize="2538914" ImageWidth="1988" />
+    <Page Image="123" ImageHeight="3056" ImageSize="2136168" ImageWidth="1988" />
+    <Page Image="124" ImageHeight="3056" ImageSize="4978187" ImageWidth="3976" />
+    <Page Image="125" ImageHeight="3056" ImageSize="7629884" ImageWidth="3976" />
+    <Page Image="126" ImageHeight="3056" ImageSize="6037026" ImageWidth="3976" />
+    <Page Image="127" ImageHeight="3056" ImageSize="5545882" ImageWidth="3976" />
+    <Page Image="128" ImageHeight="3056" ImageSize="5305336" ImageWidth="3976" />
+    <Page Image="129" ImageHeight="3056" ImageSize="6667519" ImageWidth="3976" />
+    <Page Image="130" ImageHeight="3056" ImageSize="5552717" ImageWidth="3976" />
+    <Page Image="131" ImageHeight="3056" ImageSize="6700433" ImageWidth="3976" />
+    <Page Image="132" ImageHeight="3056" ImageSize="5828240" ImageWidth="3976" />
+    <Page Image="133" ImageHeight="3056" ImageSize="5701918" ImageWidth="3976" />
+    <Page Image="134" ImageHeight="3056" ImageSize="6706117" ImageWidth="3976" />
+    <Page Image="135" ImageSize="1246651" />
+  </Pages>
+  <Penciller>Tom Garcia</Penciller>
+  <Publisher>Dynamite Entertainment</Publisher>
+  <Series>The Army of Darkness: 1979</Series>
+  <Summary>Dare we say it!?!? Yes! We Dare!
+
+ASH IS BACK, BABY!
+
+After his most recent appearance in Die!namite Lives, Ashley Williams is retired. Settled down. Haunted by the Deadites and the Necronomicon no more- wait, no, that ain’t right… None of that is true! In fact, not only is Ash still haunted by Deadites and the Necronomicon, but he’s haunted by the both of them in the 1970s (kids, ask your parents. Parents, ask yourselves!)! And what does he find in the South Bronx of the late 70s? Gangs! And what have those gangs found? The Necronomicon. So, what does that make the gangs? Bad-Ass Mxxxerfxxxers.
+
+Dynamite proudly presents a brand new Army of Darkness series, written by Rodney Barnes (Killadelphia), drawn by Tom Garcia and featuring an awesome array of cover artists, including the Dynamite return of Jason Shawn Alexander, along with Junggeun Yoon, and Stuart Sayger and the Zombie King himself -- Arthur Suydam!
+
+Rodney Barnes is an American screenwriter and producer. Barnes has written and produced The Boondocks, My Wife and Kids, Everybody Hates Chris, Those Who Can't, Marvel's Runaways, American Gods, Wu-Tang: An American Saga, and is currently an executive producer/writer on HBO's Untitled Los Angeles Lakers drama. In comics, Barnes is the creator of the critically acclaimed Killadelphia from Image Comics, and has written Falcon and Lando (Star Wars) for Marvel Comics.
+
+*List of covers and their creators:*
+ Cover | Name                                                               | Creator(s)            | Sidebar Location |
+--------------------------------------------------------------------------------------------------------------------
+ A     | Cover A                                                            | Jason Shawn Alexander | 1                |
+ B     | Cover B                                                            | Arthur Suydam         | 2                |
+ C     | Cover C                                                            | Jung-Geun Yoon        | 3                |
+ D     | Cover D                                                            | Stuart Sayger         | 4                |
+ E     | Blank Authentix Edition Variant Cover                              | None                  | 5                |
+ F/RI  | 1:10 Retailer Incentive "Black &amp; White Art" Edition Variant Cover  | Arthur Suydam         | 6                |
+ G/RI  | 1:15 Retailer Incentive "Black &amp; White Art" Edition Variant Cover  | Stuart Sayger         | 7                |
+ H/RI  | 1:20 Retailer Incentive "Black &amp; White Art" Edition Variant Cover  | Jung-Geun Yoon        | 8                |
+ I/RI  | 1:25 Retailer Incentive "Black &amp; White Art" Edition Variant Cover  | Jason Shawn Alexander | 9                |
+ J/RI  | 1:30 Retailer Incentive "Blood Red Tint Art" Edition Variant Cover | Arthur Suydam         | 10               |
+ K/RI  | 1:40 Retailer Incentive "Blood Red Tint Art" Edition Variant Cover | Jung-Geun Yoon        | 11               |
+ L/RI  | 1:50 Retailer Incentive "Blood Red TintArt" Edition Variant Cover  | Jason Shawn Alexander | 12               |
+ M/RE  | Signed Atlas Signature Series Edition Variant Cover                | Arthur Suydam         | 13               |
+ N/PE  | Premium Metal Variant Cover                                        | Jason Shawn Alexander | 14               |
+ O/LE  | Limited Edition "Virgin Art" Edition Variant Cover                 | Arthur Suydam         | 15               |
+ P/LE  | Limited Edition "Virgin Art" Edition Variant Cover                 | Jason Shawn Alexander | 16               |
+ Q/LE  | Limited Edition "Virgin Art" Edition Variant Cover                 | Stuart Sayger         | 17               |
+ R/FOC | FOC Incentive "Black &amp; White Virgin Art" Edition Variant Cover     | Jason Shawn Alexander | 18               |
+ S/FOC | FOC Incentive "Blood Red Tint Art" Edition Variant Cover           | Stuart Sayger         | 19               |
+ T/FOC | FOC Incentive "Virgin Art" Edition Variant Cover                   | Jung-Geun Yoon        | 20               |
+ U/RE  | The Comic Mint Insiders Exclusive Variant Cover                    | Javan Jordan          | Missing          |
+ V/RE  | The Comic Mint Insiders Exclusive Variant Cover                    | Javan Jordan          | Missing          |
+
+
+https://comicvine.gamespot.com/the-army-of-darkness-1979-1/4000-884179/</Summary>
+  <Teams>Deadites</Teams>
+  <Title>TPB</Title>
+  <Volume>2021</Volume>
+  <Web>https://comicvine.gamespot.com/the-army-of-darkness-1979-1/4000-884179/</Web>
+  <Writer>Rodney Barnes</Writer>
+  <Year>2021</Year>
+  <Count>5</Count>
+  <LanguageISO>en</LanguageISO>
+  <Format>Miniseries</Format>
+  <AgeRating>Rated Teen+</AgeRating>
+  <Editor>Joe Rybandt</Editor>
+</ComicInfo>

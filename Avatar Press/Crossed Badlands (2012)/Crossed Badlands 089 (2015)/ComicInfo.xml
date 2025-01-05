@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Jack,Saul,Tiffany,Clancy</Characters>
+  <Count>100</Count>
+  <Country>US</Country>
+  <GTIN>urn:comicvine:4000-505577</GTIN>
+  <Inker>Fernando Melek</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Month>10</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:18:14 [Issue ID 4000-505577] urn:comicvine:4000-505577 urn:grandcomicsdatabase:issue/1497217
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-18 16:31:31. [Issue ID 1497217]</Notes>
+  <Number>89</Number>
+  <PageCount>24</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="1654490" Type="FrontCover" />
+    <Page Image="1" ImageSize="1516276" />
+    <Page Image="2" ImageSize="1359774" />
+    <Page Image="3" ImageSize="1920697" />
+    <Page Image="4" ImageSize="1416103" />
+    <Page Image="5" ImageSize="1200235" />
+    <Page Image="6" ImageSize="1468207" />
+    <Page Image="7" ImageSize="1505585" />
+    <Page Image="8" ImageSize="1544371" />
+    <Page Image="9" ImageSize="1387428" />
+    <Page Image="10" ImageSize="1401309" />
+    <Page Image="11" ImageSize="1294179" />
+    <Page Image="12" ImageSize="1458581" />
+    <Page Image="13" ImageSize="1334645" />
+    <Page Image="14" ImageSize="1252499" />
+    <Page Image="15" ImageSize="1506150" />
+    <Page Image="16" ImageSize="1518241" />
+    <Page Image="17" ImageSize="1129203" />
+    <Page Image="18" ImageSize="1412268" />
+    <Page Image="19" ImageSize="2840210" />
+    <Page Image="20" ImageSize="568520" />
+    <Page Image="21" ImageSize="1152649" />
+    <Page Image="22" ImageSize="1259984" />
+    <Page Image="23" ImageSize="472352" />
+  </Pages>
+  <Penciller>Fernando Melek</Penciller>
+  <Publisher>Avatar Press</Publisher>
+  <Series>Crossed Badlands</Series>
+  <Teams>The Crossed</Teams>
+  <Volume>2012</Volume>
+  <Web>https://comicvine.gamespot.com/c/4000-505577/</Web>
+  <Writer>Max Bemis</Writer>
+  <Year>2015</Year>
+</ComicInfo>

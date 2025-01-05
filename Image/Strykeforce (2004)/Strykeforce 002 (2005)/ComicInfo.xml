@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Stryker,Lift,Killawatt,Sly,Black Anvil,Katana</Characters>
+  <Colorist>Brian Buccellato</Colorist>
+  <Day>1</Day>
+  <Editor>Peter Lam,Philip W. Smith II,Rob Levin,Scott Tucker</Editor>
+  <GTIN>urn:comicvine:4000-98994</GTIN>
+  <Inker>Marlo Alquiza,Tyler Kirkham</Inker>
+  <Letterer>Dennis Heisler,Robin Spehar</Letterer>
+  <Locations>Los Angeles</Locations>
+  <Month>7</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T19:11:39 [Issue ID 4000-98994] urn:comicvine:4000-98994
+Tagged with ComicTagger 1.6.0a13.dev43 using info from Comic Vine on 2024-04-20 09:20:03. [Issue ID 98994]</Notes>
+  <Number>2</Number>
+  <PageCount>25</PageCount>
+  <Pages>
+    <Page Image="0" ImageSize="490222" Type="FrontCover" />
+    <Page Image="1" ImageSize="433714" />
+    <Page Image="2" ImageSize="300043" />
+    <Page Image="3" ImageSize="422762" />
+    <Page Image="4" ImageSize="396205" />
+    <Page Image="5" ImageSize="461016" />
+    <Page Image="6" ImageSize="415811" />
+    <Page Image="7" ImageSize="475035" />
+    <Page Image="8" ImageSize="409231" />
+    <Page Image="9" ImageSize="390819" />
+    <Page Image="10" ImageSize="403772" />
+    <Page Image="11" ImageSize="375624" />
+    <Page Image="12" ImageSize="469063" />
+    <Page Image="13" ImageSize="437273" />
+    <Page Image="14" ImageSize="497850" />
+    <Page Image="15" ImageSize="435122" />
+    <Page Image="16" ImageSize="470072" />
+    <Page Image="17" ImageSize="435271" />
+    <Page Image="18" ImageSize="349253" />
+    <Page Image="19" ImageSize="440672" />
+    <Page Image="20" ImageSize="471469" />
+    <Page Image="21" ImageSize="466324" />
+    <Page Image="22" ImageSize="423934" />
+    <Page Image="23" ImageSize="363959" />
+    <Page Image="24" ImageSize="383867" />
+  </Pages>
+  <Penciller>Tyler Kirkham,Tyler Kirkham</Penciller>
+  <Publisher>Image</Publisher>
+  <Series>Strykeforce</Series>
+  <Tags>Los Angeles,Stryker,Lift,Killawatt,Sly,Black Anvil,Strykeforce,Katana</Tags>
+  <Teams>Strykeforce</Teams>
+  <Volume>2004</Volume>
+  <Web>https://comicvine.gamespot.com/strykeforce-2/4000-98994/</Web>
+  <Writer>Jay Faerber</Writer>
+  <Year>2005</Year>
+  <Count>5</Count>
+</ComicInfo>
