@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Ichabod Jones</Characters>
+	<Count>12</Count>
+	<CoverArtist>Renzo Podesta</CoverArtist>
+	<Day>5</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-883282</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Renzo Podesta</Inker>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-25T01:48:56 [Issue ID 4000-883282] urn:comicvine:4000-883282</Notes>
+	<Number>12</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3840" ImageSize="2148735" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3840" ImageSize="627705"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3840" ImageSize="1850856"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3840" ImageSize="1737130"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3840" ImageSize="1827271"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3840" ImageSize="2112893"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3840" ImageSize="1665360"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3840" ImageSize="1630177"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3840" ImageSize="1698902"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3840" ImageSize="1855013"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3840" ImageSize="2113653"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3840" ImageSize="2150470"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3840" ImageSize="1968588"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3840" ImageSize="2013864"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3840" ImageSize="1966400"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3840" ImageSize="2079193"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3840" ImageSize="2002368"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3840" ImageSize="1779141"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3840" ImageSize="1916451"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3840" ImageSize="1971645"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3840" ImageSize="1888911"/>
+		<Page Image="21" ImageSize="1785960"/>
+	</Pages>
+	<Penciller>Renzo Podesta</Penciller>
+	<Publisher>Wannabe Press</Publisher>
+	<Series>Ichabod Jones: Monster Hunter</Series>
+	<Summary>Lost in his past, Ichabod must find the key to end the Apocalypse before his body dies.</Summary>
+	<Volume>2016</Volume>
+	<Web>https://comicvine.gamespot.com/ichabod-jones-monster-hunter-12/4000-883282/</Web>
+	<Writer>Russell Nohelty</Writer>
+	<Year>2021</Year>
+</ComicInfo>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Adults Only 18+</AgeRating>
+	<Count>1</Count>
+	<CoverArtist>Gary Parkin</CoverArtist>
+	<Day>27</Day>
+	<Format>Limited Series</Format>
+	<GTIN>urn:comicvine:4000-886056</GTIN>
+	<Genre>Horror,Mature</Genre>
+	<Inker>Gary Parkin</Inker>
+	<Letterer>Gary Parkin</Letterer>
+	<Month>9</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-11-01T20:15:01 [Issue ID 4000-886056] urn:comicvine:4000-886056</Notes>
+	<Number>1</Number>
+	<PageCount>27</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="2560" ImageHeight="3871" ImageSize="1394974" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="2560" ImageHeight="3871" ImageSize="1195989"/>
+		<Page DoublePage="False" Image="2" ImageWidth="2560" ImageHeight="3871" ImageSize="1372365"/>
+		<Page DoublePage="False" Image="3" ImageWidth="2560" ImageHeight="3871" ImageSize="1241800"/>
+		<Page DoublePage="False" Image="4" ImageWidth="2560" ImageHeight="3871" ImageSize="1324803"/>
+		<Page DoublePage="False" Image="5" ImageWidth="2560" ImageHeight="3871" ImageSize="919456"/>
+		<Page DoublePage="False" Image="6" ImageWidth="2560" ImageHeight="3871" ImageSize="1421118"/>
+		<Page DoublePage="False" Image="7" ImageWidth="2560" ImageHeight="3871" ImageSize="1623418"/>
+		<Page DoublePage="False" Image="8" ImageWidth="2560" ImageHeight="3871" ImageSize="1363462"/>
+		<Page DoublePage="False" Image="9" ImageWidth="2560" ImageHeight="3871" ImageSize="1557924"/>
+		<Page DoublePage="False" Image="10" ImageWidth="2560" ImageHeight="3871" ImageSize="1651352"/>
+		<Page DoublePage="False" Image="11" ImageWidth="2560" ImageHeight="3871" ImageSize="2118780"/>
+		<Page DoublePage="False" Image="12" ImageWidth="2560" ImageHeight="3871" ImageSize="1394536"/>
+		<Page DoublePage="False" Image="13" ImageWidth="2560" ImageHeight="3871" ImageSize="2095819"/>
+		<Page DoublePage="False" Image="14" ImageWidth="2560" ImageHeight="3871" ImageSize="2018895"/>
+		<Page DoublePage="False" Image="15" ImageWidth="2560" ImageHeight="3871" ImageSize="2540401"/>
+		<Page DoublePage="False" Image="16" ImageWidth="2560" ImageHeight="3871" ImageSize="2200530"/>
+		<Page DoublePage="False" Image="17" ImageWidth="2560" ImageHeight="3871" ImageSize="1533475"/>
+		<Page DoublePage="False" Image="18" ImageWidth="2560" ImageHeight="3871" ImageSize="1944546"/>
+		<Page DoublePage="False" Image="19" ImageWidth="2560" ImageHeight="3871" ImageSize="1843778"/>
+		<Page DoublePage="False" Image="20" ImageWidth="2560" ImageHeight="3871" ImageSize="2104102"/>
+		<Page DoublePage="False" Image="21" ImageWidth="2560" ImageHeight="3871" ImageSize="2080316"/>
+		<Page DoublePage="False" Image="22" ImageWidth="2560" ImageHeight="3871" ImageSize="1965841"/>
+		<Page DoublePage="False" Image="23" ImageWidth="2560" ImageHeight="3871" ImageSize="2429643"/>
+		<Page DoublePage="False" Image="24" ImageWidth="2560" ImageHeight="3871" ImageSize="1355081"/>
+		<Page DoublePage="False" Image="25" ImageWidth="2560" ImageHeight="3871" ImageSize="1262421"/>
+		<Page Image="26" ImageSize="1108231"/>
+	</Pages>
+	<Penciller>Gary Parkin</Penciller>
+	<Publisher>Underglow Comics</Publisher>
+	<Series>Vampocalypse</Series>
+	<Summary>When the President of the United States orders a worldwide cull of 7 billion people, a tribe of vampire women sets about stopping his plans and twisting events to their benefit.</Summary>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/vampocalypse-1/4000-886056/</Web>
+	<Writer>Gary Parkin</Writer>
+	<Year>2021</Year>
+</ComicInfo>

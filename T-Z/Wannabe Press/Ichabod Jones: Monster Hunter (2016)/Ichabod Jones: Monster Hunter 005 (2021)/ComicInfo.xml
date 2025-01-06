@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<AgeRating>Mature 17+</AgeRating>
+	<Characters>Ichabod Jones</Characters>
+	<Count>12</Count>
+	<CoverArtist>Renzo Podesta</CoverArtist>
+	<Day>9</Day>
+	<Format>Series</Format>
+	<GTIN>urn:comicvine:4000-824100</GTIN>
+	<Genre>Horror</Genre>
+	<Inker>Renzo Podesta</Inker>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.2.0 on 2024-12-25T01:01:13 [Issue ID 4000-824100] urn:comicvine:4000-824100</Notes>
+	<Number>5</Number>
+	<PageCount>31</PageCount>
+	<Pages>
+		<Page DoublePage="False" Image="0" ImageWidth="800" ImageHeight="1200" ImageSize="410273" Type="FrontCover"/>
+		<Page DoublePage="False" Image="1" ImageWidth="800" ImageHeight="1200" ImageSize="482191"/>
+		<Page DoublePage="False" Image="2" ImageWidth="800" ImageHeight="1200" ImageSize="365032"/>
+		<Page DoublePage="False" Image="3" ImageWidth="800" ImageHeight="1200" ImageSize="353381"/>
+		<Page DoublePage="False" Image="4" ImageWidth="800" ImageHeight="1200" ImageSize="384689"/>
+		<Page DoublePage="False" Image="5" ImageWidth="800" ImageHeight="1200" ImageSize="373528"/>
+		<Page DoublePage="False" Image="6" ImageWidth="800" ImageHeight="1200" ImageSize="342284"/>
+		<Page DoublePage="False" Image="7" ImageWidth="800" ImageHeight="1200" ImageSize="330735"/>
+		<Page DoublePage="False" Image="8" ImageWidth="800" ImageHeight="1200" ImageSize="357035"/>
+		<Page DoublePage="False" Image="9" ImageWidth="800" ImageHeight="1200" ImageSize="406583"/>
+		<Page DoublePage="False" Image="10" ImageWidth="800" ImageHeight="1200" ImageSize="372861"/>
+		<Page DoublePage="False" Image="11" ImageWidth="800" ImageHeight="1200" ImageSize="398790"/>
+		<Page DoublePage="False" Image="12" ImageWidth="800" ImageHeight="1200" ImageSize="354387"/>
+		<Page DoublePage="False" Image="13" ImageWidth="800" ImageHeight="1200" ImageSize="370014"/>
+		<Page DoublePage="False" Image="14" ImageWidth="800" ImageHeight="1200" ImageSize="356819"/>
+		<Page DoublePage="False" Image="15" ImageWidth="800" ImageHeight="1200" ImageSize="311403"/>
+		<Page DoublePage="False" Image="16" ImageWidth="800" ImageHeight="1200" ImageSize="201687"/>
+		<Page DoublePage="False" Image="17" ImageWidth="800" ImageHeight="1200" ImageSize="311708"/>
+		<Page DoublePage="False" Image="18" ImageWidth="800" ImageHeight="1200" ImageSize="302343"/>
+		<Page DoublePage="False" Image="19" ImageWidth="800" ImageHeight="1200" ImageSize="425640"/>
+		<Page DoublePage="False" Image="20" ImageWidth="800" ImageHeight="1200" ImageSize="423456"/>
+		<Page DoublePage="False" Image="21" ImageWidth="800" ImageHeight="1200" ImageSize="375202"/>
+		<Page DoublePage="False" Image="22" ImageWidth="800" ImageHeight="1200" ImageSize="411473"/>
+		<Page DoublePage="False" Image="23" ImageWidth="800" ImageHeight="1200" ImageSize="383962"/>
+		<Page DoublePage="False" Image="24" ImageWidth="800" ImageHeight="1200" ImageSize="383154"/>
+		<Page DoublePage="False" Image="25" ImageWidth="800" ImageHeight="1200" ImageSize="315673"/>
+		<Page DoublePage="False" Image="26" ImageWidth="800" ImageHeight="1200" ImageSize="356743"/>
+		<Page DoublePage="False" Image="27" ImageWidth="800" ImageHeight="1200" ImageSize="451293"/>
+		<Page DoublePage="False" Image="28" ImageWidth="800" ImageHeight="1200" ImageSize="473790"/>
+		<Page DoublePage="False" Image="29" ImageWidth="800" ImageHeight="1200" ImageSize="166838"/>
+		<Page Image="30" ImageSize="163449"/>
+	</Pages>
+	<Penciller>Renzo Podesta</Penciller>
+	<Publisher>Wannabe Press</Publisher>
+	<Series>Ichabod Jones: Monster Hunter</Series>
+	<Summary>Ichabod was dead...or he was...now, he's back, and he's been tasked with ending the Apocalypse...but for real this time.</Summary>
+	<Volume>2016</Volume>
+	<Web>https://comicvine.gamespot.com/ichabod-jones-monster-hunter-5/4000-824100/</Web>
+	<Writer>Russell Nohelty</Writer>
+	<Year>2021</Year>
+</ComicInfo>

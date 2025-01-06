@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Alexis Murphy,Dr. Alan Grant,Dr. Ellie Sattler,Ian Malcolm,John Hammond,Tim Murphy</Characters>
+	<Colorist>Tom Smith</Colorist>
+	<Day>1</Day>
+	<Editor>Jim Salicrup</Editor>
+	<GTIN>urn:comicvine:4000-37681</GTIN>
+	<Inker>Dave Cockrum,George Pérez</Inker>
+	<Letterer>John Workman</Letterer>
+	<Locations>Isla Nublar,Jurassic Park</Locations>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T22:18:39 [Issue ID 4000-37681] urn:comicvine:4000-37681</Notes>
+	<Number>4</Number>
+	<PageCount>33</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="486324" Type="FrontCover"/>
+		<Page Image="1" ImageSize="581981"/>
+		<Page Image="2" ImageSize="645731"/>
+		<Page Image="3" ImageSize="620391"/>
+		<Page Image="4" ImageSize="506841"/>
+		<Page Image="5" ImageSize="552540"/>
+		<Page Image="6" ImageSize="454972"/>
+		<Page Image="7" ImageSize="497949"/>
+		<Page Image="8" ImageSize="501460"/>
+		<Page Image="9" ImageSize="527818"/>
+		<Page Image="10" ImageSize="488437"/>
+		<Page Image="11" ImageSize="510764"/>
+		<Page Image="12" ImageSize="535293"/>
+		<Page Image="13" ImageSize="587211"/>
+		<Page Image="14" ImageSize="583921"/>
+		<Page Image="15" ImageSize="618717"/>
+		<Page Image="16" ImageSize="615276"/>
+		<Page Image="17" ImageSize="479477"/>
+		<Page Image="18" ImageSize="543594"/>
+		<Page Image="19" ImageSize="494737"/>
+		<Page Image="20" ImageSize="532420"/>
+		<Page Image="21" ImageSize="558326"/>
+		<Page Image="22" ImageSize="566728"/>
+		<Page Image="23" ImageSize="491025"/>
+		<Page Image="24" ImageSize="527486"/>
+		<Page Image="25" ImageSize="507497"/>
+		<Page Image="26" ImageSize="546611"/>
+		<Page Image="27" ImageSize="589133"/>
+		<Page Image="28" ImageSize="576068"/>
+		<Page Image="29" ImageSize="533568"/>
+		<Page Image="30" ImageSize="462107"/>
+		<Page Image="31" ImageSize="729849"/>
+		<Page Image="32" ImageSize="341692"/>
+	</Pages>
+	<Penciller>Dave Cockrum,Gil Kane</Penciller>
+	<Publisher>Topps Comics</Publisher>
+	<Series>Jurassic Park</Series>
+	<Summary>Based on the movie.
+
+https://comicvine.gamespot.com/jurassic-park-4-part-4-of-4/4000-37681/</Summary>
+	<Tags>Alexis Murphy,Dinosaurs,Dr. Alan Grant,Dr. Ellie Sattler,Ian Malcolm,Isla Nublar,John Hammond,Jurassic Park,Tim Murphy</Tags>
+	<Teams>Dinosaurs</Teams>
+	<Title>Part 4 of 4</Title>
+	<Volume>1993</Volume>
+	<Web>https://comicvine.gamespot.com/jurassic-park-4-part-4-of-4/4000-37681/</Web>
+	<Writer>Walter Simonson</Writer>
+	<Year>1993</Year>
+</ComicInfo>

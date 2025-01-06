@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Mr. Hero</Characters>
+	<Colorist>Alan Craddock,Angus McKie</Colorist>
+	<Day>1</Day>
+	<Editor>Ed Polgardy</Editor>
+	<GTIN>urn:comicvine:4000-247104</GTIN>
+	<Inker>Bob McLeod</Inker>
+	<Letterer>John Workman</Letterer>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:37 [Issue ID 4000-247104] urn:comicvine:4000-247104</Notes>
+	<Number>2</Number>
+	<PageCount>28</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="428619" Type="FrontCover"/>
+		<Page Image="1" ImageSize="318590"/>
+		<Page Image="2" ImageSize="409427"/>
+		<Page Image="3" ImageSize="426496"/>
+		<Page Image="4" ImageSize="382127"/>
+		<Page Image="5" ImageSize="473363"/>
+		<Page Image="6" ImageSize="458885"/>
+		<Page Image="7" ImageSize="430294"/>
+		<Page Image="8" ImageSize="395620"/>
+		<Page Image="9" ImageSize="374609"/>
+		<Page Image="10" ImageSize="430805"/>
+		<Page Image="11" ImageSize="450821"/>
+		<Page Image="12" ImageSize="418364"/>
+		<Page Image="13" ImageSize="412958"/>
+		<Page Image="14" ImageSize="426016"/>
+		<Page Image="15" ImageSize="460702"/>
+		<Page Image="16" ImageSize="372232"/>
+		<Page Image="17" ImageSize="375492"/>
+		<Page Image="18" ImageSize="358074"/>
+		<Page Image="19" ImageSize="409560"/>
+		<Page Image="20" ImageSize="401698"/>
+		<Page Image="21" ImageSize="464749"/>
+		<Page Image="22" ImageSize="426319"/>
+		<Page Image="23" ImageSize="446201"/>
+		<Page Image="24" ImageSize="445693"/>
+		<Page Image="25" ImageSize="431833"/>
+		<Page Image="26" ImageSize="385230"/>
+		<Page Image="27" ImageSize="384586"/>
+	</Pages>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Mr. Hero the Newmatic Man</Series>
+	<Summary>https://comicvine.gamespot.com/mr-hero-the-newmatic-man-2-hand-to-hand/4000-247104/</Summary>
+	<Tags>Mr. Hero</Tags>
+	<Title>Hand to Hand</Title>
+	<Volume>1995</Volume>
+	<Web>https://comicvine.gamespot.com/mr-hero-the-newmatic-man-2-hand-to-hand/4000-247104/</Web>
+	<Writer>James Vance</Writer>
+	<Year>1995</Year>
+</ComicInfo>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Mature 17+</AgeRating>
+  <Characters>Ichabod Jones</Characters>
+  <Count>16</Count>
+  <CoverArtist>Renzo Podesta</CoverArtist>
+  <Format>Series</Format>
+  <Genre>Horror</Genre>
+  <Inker>Renzo Podesta</Inker>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-12-25T01:48:56</Notes>
+  <Number>15</Number>
+  <PageCount>21</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="2400" ImageSize="3268736" ImageWidth="1600" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="2400" ImageSize="2844772" ImageWidth="1600" />
+    <Page DoublePage="False" Image="2" ImageHeight="2400" ImageSize="2460727" ImageWidth="1600" />
+    <Page DoublePage="False" Image="3" ImageHeight="2400" ImageSize="2866252" ImageWidth="1600" />
+    <Page DoublePage="False" Image="4" ImageHeight="2400" ImageSize="2601356" ImageWidth="1600" />
+    <Page DoublePage="False" Image="5" ImageHeight="2400" ImageSize="3149587" ImageWidth="1600" />
+    <Page DoublePage="False" Image="6" ImageHeight="2400" ImageSize="3736963" ImageWidth="1600" />
+    <Page DoublePage="False" Image="7" ImageHeight="2400" ImageSize="3199998" ImageWidth="1600" />
+    <Page DoublePage="False" Image="8" ImageHeight="2400" ImageSize="2997799" ImageWidth="1600" />
+    <Page DoublePage="False" Image="9" ImageHeight="2400" ImageSize="2699989" ImageWidth="1600" />
+    <Page DoublePage="False" Image="10" ImageHeight="2400" ImageSize="2396666" ImageWidth="1600" />
+    <Page DoublePage="False" Image="11" ImageHeight="2400" ImageSize="3215697" ImageWidth="1600" />
+    <Page DoublePage="False" Image="12" ImageHeight="2400" ImageSize="2976622" ImageWidth="1600" />
+    <Page DoublePage="False" Image="13" ImageHeight="2400" ImageSize="3069349" ImageWidth="1600" />
+    <Page DoublePage="False" Image="14" ImageHeight="2400" ImageSize="3608657" ImageWidth="1600" />
+    <Page DoublePage="False" Image="15" ImageHeight="2400" ImageSize="2628665" ImageWidth="1600" />
+    <Page DoublePage="False" Image="16" ImageHeight="2400" ImageSize="2872746" ImageWidth="1600" />
+    <Page DoublePage="False" Image="17" ImageHeight="2400" ImageSize="2747877" ImageWidth="1600" />
+    <Page DoublePage="False" Image="18" ImageHeight="2400" ImageSize="2288577" ImageWidth="1600" />
+    <Page DoublePage="False" Image="19" ImageHeight="2400" ImageSize="2103061" ImageWidth="1600" />
+    <Page DoublePage="False" Image="20" ImageHeight="2400" ImageSize="2694469" ImageWidth="1600" />
+  </Pages>
+  <Penciller>Renzo Podesta</Penciller>
+  <Publisher>Wannabe Press</Publisher>
+  <Series>Ichabod Jones: Monster Hunter</Series>
+  <Summary>The plan comes together.</Summary>
+  <Volume>2016</Volume>
+  <Writer>Russell Nohelty</Writer>
+  <Year>2022</Year>
+</ComicInfo>

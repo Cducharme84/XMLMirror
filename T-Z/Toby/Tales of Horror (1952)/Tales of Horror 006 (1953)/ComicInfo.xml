@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Day>31</Day>
+	<GTIN>urn:comicvine:4000-650</GTIN>
+	<Month>8</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-13T20:46:33 [Issue ID 4000-650] urn:comicvine:4000-650</Notes>
+	<Number>6</Number>
+	<PageCount>36</PageCount>
+	<Pages>
+		<Page Image="0" ImageWidth="994" ImageHeight="1494" ImageSize="555360" Type="FrontCover"/>
+		<Page Image="1" ImageWidth="940" ImageHeight="1486" ImageSize="255521"/>
+		<Page Image="2" ImageWidth="955" ImageHeight="1442" ImageSize="273269"/>
+		<Page Image="3" ImageWidth="953" ImageHeight="1452" ImageSize="286118"/>
+		<Page Image="4" ImageWidth="949" ImageHeight="1410" ImageSize="345445"/>
+		<Page Image="5" ImageWidth="944" ImageHeight="1423" ImageSize="314967"/>
+		<Page Image="6" ImageWidth="972" ImageHeight="1431" ImageSize="318418"/>
+		<Page Image="7" ImageWidth="924" ImageHeight="1420" ImageSize="310833"/>
+		<Page Image="8" ImageWidth="960" ImageHeight="1431" ImageSize="277783"/>
+		<Page Image="9" ImageWidth="947" ImageHeight="1428" ImageSize="301578"/>
+		<Page Image="10" ImageWidth="965" ImageHeight="1396" ImageSize="294230"/>
+		<Page Image="11" ImageWidth="962" ImageHeight="1410" ImageSize="307894"/>
+		<Page Image="12" ImageWidth="961" ImageHeight="1424" ImageSize="315312"/>
+		<Page Image="13" ImageWidth="965" ImageHeight="1427" ImageSize="319202"/>
+		<Page Image="14" ImageWidth="968" ImageHeight="1423" ImageSize="309141"/>
+		<Page Image="15" ImageWidth="948" ImageHeight="1416" ImageSize="312359"/>
+		<Page Image="16" ImageWidth="978" ImageHeight="1423" ImageSize="350704"/>
+		<Page Image="17" ImageWidth="931" ImageHeight="1420" ImageSize="295160"/>
+		<Page Image="18" ImageWidth="979" ImageHeight="1430" ImageSize="329388"/>
+		<Page Image="19" ImageWidth="981" ImageHeight="1355" ImageSize="213006"/>
+		<Page Image="20" ImageWidth="957" ImageHeight="1417" ImageSize="264884"/>
+		<Page Image="21" ImageWidth="945" ImageHeight="1383" ImageSize="286434"/>
+		<Page Image="22" ImageWidth="966" ImageHeight="1406" ImageSize="317022"/>
+		<Page Image="23" ImageWidth="942" ImageHeight="1398" ImageSize="340507"/>
+		<Page Image="24" ImageWidth="939" ImageHeight="1410" ImageSize="382737"/>
+		<Page Image="25" ImageWidth="936" ImageHeight="1410" ImageSize="333503"/>
+		<Page Image="26" ImageWidth="933" ImageHeight="1380" ImageSize="307098"/>
+		<Page Image="27" ImageWidth="939" ImageHeight="1404" ImageSize="366858"/>
+		<Page Image="28" ImageWidth="945" ImageHeight="1404" ImageSize="370738"/>
+		<Page Image="29" ImageWidth="945" ImageHeight="1398" ImageSize="367069"/>
+		<Page Image="30" ImageWidth="952" ImageHeight="1399" ImageSize="308701"/>
+		<Page Image="31" ImageWidth="972" ImageHeight="1375" ImageSize="329569"/>
+		<Page Image="32" ImageWidth="982" ImageHeight="1426" ImageSize="328175"/>
+		<Page Image="33" ImageWidth="988" ImageHeight="1365" ImageSize="335013"/>
+		<Page Image="34" ImageWidth="982" ImageHeight="1426" ImageSize="251602"/>
+		<Page Image="35" ImageSize="375249"/>
+	</Pages>
+	<Publisher>Toby</Publisher>
+	<Series>Tales of Horror</Series>
+	<Summary>https://comicvine.gamespot.com/tales-of-horror-6-the-treacherous-genie/4000-650/</Summary>
+	<Title>The Treacherous Genie</Title>
+	<Volume>1952</Volume>
+	<Web>https://comicvine.gamespot.com/tales-of-horror-6-the-treacherous-genie/4000-650/</Web>
+	<Year>1953</Year>
+</ComicInfo>

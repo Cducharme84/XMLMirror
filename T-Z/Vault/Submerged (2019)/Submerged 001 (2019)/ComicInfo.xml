@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <Characters>Elysia Puente,Angel Puente</Characters>
+  <Colorist>Stelladia</Colorist>
+  <Day>13</Day>
+  <GTIN>urn:comixology:748733</GTIN>
+  <Genre>Fantasy</Genre>
+  <Inker>Lisa Sterle</Inker>
+  <LanguageISO>en</LanguageISO>
+  <Letterer>Rachel Autumn Deering</Letterer>
+  <Locations>New York City</Locations>
+  <Month>2</Month>
+  <Notes>Tagged with comicbox 1.1.1 on 2024-03-13T16:45:34 [Issue ID 4000-699354] urn:comicvine:4000-699354 urn:comixology:748733
+Tagged with ComicTagger 1.6.0a13.dev122 using info from Grand Comics Database on 2024-06-16 02:05:57. [Issue ID 1947686]</Notes>
+  <Number>1</Number>
+  <PageCount>114</PageCount>
+  <Pages>
+    <Page Image="0" ImageHeight="3056" ImageSize="3792472" ImageWidth="4026" Type="FrontCover" />
+    <Page Image="1" ImageHeight="3056" ImageSize="565070" ImageWidth="1987" />
+    <Page Image="2" ImageHeight="3056" ImageSize="1610302" ImageWidth="1987" />
+    <Page Image="3" ImageHeight="3056" ImageSize="1708486" ImageWidth="1987" />
+    <Page Image="4" ImageHeight="3056" ImageSize="1720573" ImageWidth="1987" />
+    <Page Image="5" ImageHeight="3056" ImageSize="1468450" ImageWidth="1987" />
+    <Page Image="6" ImageHeight="3056" ImageSize="3093839" ImageWidth="1987" />
+    <Page Image="7" ImageHeight="3056" ImageSize="3013341" ImageWidth="1987" />
+    <Page Image="8" ImageHeight="3056" ImageSize="3070999" ImageWidth="1987" />
+    <Page Image="9" ImageHeight="3056" ImageSize="2506952" ImageWidth="1987" />
+    <Page Image="10" ImageHeight="3056" ImageSize="3599893" ImageWidth="1987" />
+    <Page Image="11" ImageHeight="3056" ImageSize="2602427" ImageWidth="1987" />
+    <Page Image="12" ImageHeight="3056" ImageSize="2944891" ImageWidth="1987" />
+    <Page Image="13" ImageHeight="3056" ImageSize="3024152" ImageWidth="1987" />
+    <Page Image="14" ImageHeight="3056" ImageSize="2959372" ImageWidth="1987" />
+    <Page Image="15" ImageHeight="3056" ImageSize="3282067" ImageWidth="1987" />
+    <Page Image="16" ImageHeight="3056" ImageSize="3029388" ImageWidth="1987" />
+    <Page Image="17" ImageHeight="3056" ImageSize="2955453" ImageWidth="1987" />
+    <Page Image="18" ImageHeight="3056" ImageSize="2896626" ImageWidth="1987" />
+    <Page Image="19" ImageHeight="3056" ImageSize="2583941" ImageWidth="1987" />
+    <Page Image="20" ImageHeight="3056" ImageSize="2512140" ImageWidth="1987" />
+    <Page Image="21" ImageHeight="3056" ImageSize="2238555" ImageWidth="1987" />
+    <Page Image="22" ImageHeight="3056" ImageSize="2342792" ImageWidth="1987" />
+    <Page Image="23" ImageHeight="3056" ImageSize="2086825" ImageWidth="1987" />
+    <Page Image="24" ImageHeight="3056" ImageSize="1976990" ImageWidth="1987" />
+    <Page Image="25" ImageHeight="3056" ImageSize="2122001" ImageWidth="1987" />
+    <Page Image="26" ImageHeight="3056" ImageSize="2160212" ImageWidth="1987" />
+    <Page Image="27" ImageHeight="3056" ImageSize="2908115" ImageWidth="1987" />
+    <Page Image="28" ImageHeight="3056" ImageSize="1469995" ImageWidth="1987" />
+    <Page Image="29" ImageHeight="3056" ImageSize="1887593" ImageWidth="1987" />
+    <Page Image="30" ImageHeight="3056" ImageSize="2500645" ImageWidth="1987" />
+    <Page Image="31" ImageHeight="3056" ImageSize="2846450" ImageWidth="1987" />
+    <Page Image="32" ImageHeight="3056" ImageSize="2391171" ImageWidth="1987" />
+    <Page Image="33" ImageHeight="3056" ImageSize="2654756" ImageWidth="1987" />
+    <Page Image="34" ImageHeight="3056" ImageSize="2801284" ImageWidth="1987" />
+    <Page Image="35" ImageHeight="3056" ImageSize="2745413" ImageWidth="1987" />
+    <Page Image="36" ImageHeight="3056" ImageSize="2890283" ImageWidth="1987" />
+    <Page Image="37" ImageHeight="3056" ImageSize="2544185" ImageWidth="1987" />
+    <Page Image="38" ImageHeight="3056" ImageSize="2475377" ImageWidth="1987" />
+    <Page Image="39" ImageHeight="3056" ImageSize="2400275" ImageWidth="1987" />
+    <Page Image="40" ImageHeight="3056" ImageSize="2520918" ImageWidth="1987" />
+    <Page Image="41" ImageHeight="3056" ImageSize="2530294" ImageWidth="1987" />
+    <Page Image="42" ImageHeight="3056" ImageSize="2454192" ImageWidth="1987" />
+    <Page Image="43" ImageHeight="3056" ImageSize="2344170" ImageWidth="1987" />
+    <Page Image="44" ImageHeight="3056" ImageSize="2445084" ImageWidth="1987" />
+    <Page Image="45" ImageHeight="3056" ImageSize="2138642" ImageWidth="1987" />
+    <Page Image="46" ImageHeight="3056" ImageSize="1614801" ImageWidth="1987" />
+    <Page Image="47" ImageHeight="3056" ImageSize="1807007" ImageWidth="1987" />
+    <Page Image="48" ImageHeight="3056" ImageSize="2537914" ImageWidth="1987" />
+    <Page Image="49" ImageHeight="3056" ImageSize="1688895" ImageWidth="1987" />
+    <Page Image="50" ImageHeight="3056" ImageSize="2304198" ImageWidth="1987" />
+    <Page Image="51" ImageHeight="3056" ImageSize="2830696" ImageWidth="1987" />
+    <Page Image="52" ImageHeight="3056" ImageSize="1470219" ImageWidth="1987" />
+    <Page Image="53" ImageHeight="3056" ImageSize="1887593" ImageWidth="1987" />
+    <Page Image="54" ImageHeight="3056" ImageSize="2806077" ImageWidth="1987" />
+    <Page Image="55" ImageHeight="3056" ImageSize="2594934" ImageWidth="1987" />
+    <Page Image="56" ImageHeight="3056" ImageSize="3264987" ImageWidth="1987" />
+    <Page Image="57" ImageHeight="3056" ImageSize="2547822" ImageWidth="1987" />
+    <Page Image="58" ImageHeight="3056" ImageSize="2448454" ImageWidth="1987" />
+    <Page Image="59" ImageHeight="3056" ImageSize="2600228" ImageWidth="1987" />
+    <Page Image="60" ImageHeight="3056" ImageSize="2613793" ImageWidth="1987" />
+    <Page Image="61" ImageHeight="1987" ImageSize="2807018" ImageWidth="3056" />
+    <Page Image="62" ImageHeight="1987" ImageSize="2713618" ImageWidth="3056" />
+    <Page Image="63" ImageHeight="3056" ImageSize="4160353" ImageWidth="3975" />
+    <Page Image="64" ImageHeight="3056" ImageSize="2594675" ImageWidth="1987" />
+    <Page Image="65" ImageHeight="3056" ImageSize="2518463" ImageWidth="1987" />
+    <Page Image="66" ImageHeight="3056" ImageSize="2372742" ImageWidth="1987" />
+    <Page Image="67" ImageHeight="3056" ImageSize="2645856" ImageWidth="1987" />
+    <Page Image="68" ImageHeight="3056" ImageSize="2915206" ImageWidth="1987" />
+    <Page Image="69" ImageHeight="3056" ImageSize="2447468" ImageWidth="1987" />
+    <Page Image="70" ImageHeight="3056" ImageSize="2490741" ImageWidth="1987" />
+    <Page Image="71" ImageHeight="3056" ImageSize="2147630" ImageWidth="1987" />
+    <Page Image="72" ImageHeight="3056" ImageSize="2336440" ImageWidth="1987" />
+    <Page Image="73" ImageHeight="3056" ImageSize="2301651" ImageWidth="1987" />
+    <Page Image="74" ImageHeight="3056" ImageSize="1839284" ImageWidth="1987" />
+    <Page Image="75" ImageHeight="3056" ImageSize="1469481" ImageWidth="1987" />
+    <Page Image="76" ImageHeight="3056" ImageSize="1887593" ImageWidth="1987" />
+    <Page Image="77" ImageHeight="3056" ImageSize="2051145" ImageWidth="1987" />
+    <Page Image="78" ImageHeight="3056" ImageSize="1966787" ImageWidth="1987" />
+    <Page Image="79" ImageHeight="3056" ImageSize="2535378" ImageWidth="1987" />
+    <Page Image="80" ImageHeight="3056" ImageSize="2413050" ImageWidth="1987" />
+    <Page Image="81" ImageHeight="3056" ImageSize="2362754" ImageWidth="1987" />
+    <Page Image="82" ImageHeight="3056" ImageSize="2401363" ImageWidth="1987" />
+    <Page Image="83" ImageHeight="3056" ImageSize="2412627" ImageWidth="1987" />
+    <Page Image="84" ImageHeight="3056" ImageSize="2370918" ImageWidth="1987" />
+    <Page Image="85" ImageHeight="3056" ImageSize="2226875" ImageWidth="1987" />
+    <Page Image="86" ImageHeight="3056" ImageSize="2199816" ImageWidth="1987" />
+    <Page Image="87" ImageHeight="3056" ImageSize="2299785" ImageWidth="1987" />
+    <Page Image="88" ImageHeight="3056" ImageSize="2375311" ImageWidth="1987" />
+    <Page Image="89" ImageHeight="3056" ImageSize="2607747" ImageWidth="1987" />
+    <Page Image="90" ImageHeight="3056" ImageSize="3646106" ImageWidth="1987" />
+    <Page Image="91" ImageHeight="3056" ImageSize="1851161" ImageWidth="1987" />
+    <Page Image="92" ImageHeight="3056" ImageSize="1968493" ImageWidth="1987" />
+    <Page Image="93" ImageHeight="3056" ImageSize="2281933" ImageWidth="1987" />
+    <Page Image="94" ImageHeight="3056" ImageSize="2039038" ImageWidth="1987" />
+    <Page Image="95" ImageHeight="3056" ImageSize="1702767" ImageWidth="1987" />
+    <Page Image="96" ImageHeight="3056" ImageSize="1937044" ImageWidth="1987" />
+    <Page Image="97" ImageHeight="3056" ImageSize="2534323" ImageWidth="1987" />
+    <Page Image="98" ImageHeight="3056" ImageSize="2241390" ImageWidth="1987" />
+    <Page Image="99" ImageHeight="3056" ImageSize="965424" ImageWidth="1987" />
+    <Page Image="100" ImageHeight="3056" ImageSize="3408604" ImageWidth="3975" />
+    <Page Image="101" ImageHeight="3056" ImageSize="2160223" ImageWidth="3975" />
+    <Page Image="102" ImageHeight="3056" ImageSize="3187793" ImageWidth="3975" />
+    <Page Image="103" ImageHeight="3056" ImageSize="2679645" ImageWidth="3975" />
+    <Page Image="104" ImageHeight="3056" ImageSize="3131270" ImageWidth="3975" />
+    <Page Image="105" ImageHeight="3056" ImageSize="3436512" ImageWidth="3975" />
+    <Page Image="106" ImageHeight="3056" ImageSize="3211935" ImageWidth="3975" />
+    <Page Image="107" ImageHeight="3056" ImageSize="1003590" ImageWidth="1987" />
+    <Page Image="108" ImageHeight="3056" ImageSize="915370" ImageWidth="1987" />
+    <Page Image="109" ImageHeight="3056" ImageSize="1106162" ImageWidth="3975" />
+    <Page Image="110" ImageHeight="3056" ImageSize="1070247" ImageWidth="3975" />
+    <Page Image="111" ImageHeight="3056" ImageSize="1002877" ImageWidth="1987" />
+    <Page Image="112" ImageHeight="3056" ImageSize="595132" ImageWidth="1987" />
+    <Page Image="113" ImageSize="1204289" />
+  </Pages>
+  <Penciller>Lisa Sterle</Penciller>
+  <Publisher>Vault</Publisher>
+  <Series>Submerged</Series>
+  <Summary>On the night of the biggest storm in New York City history, Elysia Puente gets a call from her estranged little brother Angel, terrified and begging for help. When the call cuts out suddenly, despite the bad feelings between them, Ellie rushes into the night. Finding his broken phone in front of a barricaded subway station, Ellie follows echoes of her brother into the sinister darkness of the underground, desperate to find him before it's too late.
+
+https://comicvine.gamespot.com/submerged-1-tpb/4000-699354/</Summary>
+  <Title>TPB</Title>
+  <Volume>2019</Volume>
+  <Web>https://comicvine.gamespot.com/submerged-1-tpb/4000-699354/</Web>
+  <Writer>Vita Ayala</Writer>
+  <Year>2019</Year>
+  <Count>1</Count>
+  <Format>Collection</Format>
+</ComicInfo>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>22</Count>
+  <CoverArtist>Randy Reynaldo</CoverArtist>
+  <Format>Series</Format>
+  <GTIN>urn:comicvine:4000-694420</GTIN>
+  <Genre>Crime,Adventure</Genre>
+  <Inker>Randy Reynaldo</Inker>
+  <Number>22</Number>
+  <Penciller>Randy Reynaldo</Penciller>
+  <Publisher>WCG Comics</Publisher>
+  <Series>Rob Hanes Adventures</Series>
+  <Summary>The issue opens in the waning days of World War II as U.S. soldiers come across retreating Nazis seeking to hide a trove of gold reserves—then flashes forward to the present day as Justice International investigator Rob Hanes picks up the trail of an extremist paramilitary group that is trying to find the still-missing gold to fund its terror operations.</Summary>
+  <Volume>2014</Volume>
+  <Writer>Randy Reynaldo</Writer>
+  <Month>8</Month>
+  <Year>2020</Year>
+  <PageCount>27</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3150" ImageSize="1379804" ImageWidth="2100" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3840" ImageSize="3306761" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3840" ImageSize="1861683" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3840" ImageSize="2503858" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3840" ImageSize="2653755" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3840" ImageSize="2239139" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3840" ImageSize="2388297" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3840" ImageSize="2366554" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3840" ImageSize="1776960" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3840" ImageSize="2181410" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3840" ImageSize="2269229" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3840" ImageSize="2465559" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3840" ImageSize="2592158" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3840" ImageSize="2315771" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3840" ImageSize="2337227" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3840" ImageSize="2473764" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3840" ImageSize="2613096" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3840" ImageSize="2441371" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3840" ImageSize="2095568" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3840" ImageSize="2065620" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3840" ImageSize="2009190" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3840" ImageSize="2250205" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3840" ImageSize="1849320" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3840" ImageSize="2161024" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3840" ImageSize="2427003" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3840" ImageSize="3044146" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3840" ImageSize="1575327" ImageWidth="2560" />
+  </Pages>
+</ComicInfo>

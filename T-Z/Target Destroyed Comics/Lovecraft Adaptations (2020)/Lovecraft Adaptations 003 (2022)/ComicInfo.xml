@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ComicInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+  <AgeRating>Teen</AgeRating>
+  <Count>5</Count>
+  <Format>Anthology</Format>
+  <Genre>Horror</Genre>
+  <Notes>Tagged with comicbox 1.2.0 on 2024-09-21T12:42:16</Notes>
+  <Number>3</Number>
+  <PageCount>36</PageCount>
+  <Pages>
+    <Page DoublePage="False" Image="0" ImageHeight="3840" ImageSize="1457580" ImageWidth="2560" Type="FrontCover" />
+    <Page DoublePage="False" Image="1" ImageHeight="3799" ImageSize="922884" ImageWidth="2560" />
+    <Page DoublePage="False" Image="2" ImageHeight="3840" ImageSize="1440735" ImageWidth="2560" />
+    <Page DoublePage="False" Image="3" ImageHeight="3840" ImageSize="1788869" ImageWidth="2560" />
+    <Page DoublePage="False" Image="4" ImageHeight="3840" ImageSize="1615450" ImageWidth="2560" />
+    <Page DoublePage="False" Image="5" ImageHeight="3840" ImageSize="1620906" ImageWidth="2560" />
+    <Page DoublePage="False" Image="6" ImageHeight="3840" ImageSize="1516329" ImageWidth="2560" />
+    <Page DoublePage="False" Image="7" ImageHeight="3314" ImageSize="1454374" ImageWidth="2560" />
+    <Page DoublePage="False" Image="8" ImageHeight="3840" ImageSize="1730753" ImageWidth="2560" />
+    <Page DoublePage="False" Image="9" ImageHeight="3840" ImageSize="997933" ImageWidth="2560" />
+    <Page DoublePage="False" Image="10" ImageHeight="3840" ImageSize="1712377" ImageWidth="2560" />
+    <Page DoublePage="False" Image="11" ImageHeight="3840" ImageSize="1340400" ImageWidth="2560" />
+    <Page DoublePage="False" Image="12" ImageHeight="3840" ImageSize="1451331" ImageWidth="2560" />
+    <Page DoublePage="False" Image="13" ImageHeight="3840" ImageSize="1775305" ImageWidth="2560" />
+    <Page DoublePage="False" Image="14" ImageHeight="3840" ImageSize="1347859" ImageWidth="2560" />
+    <Page DoublePage="False" Image="15" ImageHeight="3840" ImageSize="1386418" ImageWidth="2560" />
+    <Page DoublePage="False" Image="16" ImageHeight="3840" ImageSize="1360398" ImageWidth="2560" />
+    <Page DoublePage="False" Image="17" ImageHeight="3840" ImageSize="1770999" ImageWidth="2560" />
+    <Page DoublePage="False" Image="18" ImageHeight="3840" ImageSize="957165" ImageWidth="2560" />
+    <Page DoublePage="False" Image="19" ImageHeight="3840" ImageSize="1277594" ImageWidth="2560" />
+    <Page DoublePage="False" Image="20" ImageHeight="3840" ImageSize="1500722" ImageWidth="2560" />
+    <Page DoublePage="False" Image="21" ImageHeight="3840" ImageSize="1348476" ImageWidth="2560" />
+    <Page DoublePage="False" Image="22" ImageHeight="3840" ImageSize="1550329" ImageWidth="2560" />
+    <Page DoublePage="False" Image="23" ImageHeight="3840" ImageSize="1489258" ImageWidth="2560" />
+    <Page DoublePage="False" Image="24" ImageHeight="3840" ImageSize="1058376" ImageWidth="2560" />
+    <Page DoublePage="False" Image="25" ImageHeight="3840" ImageSize="1520555" ImageWidth="2560" />
+    <Page DoublePage="False" Image="26" ImageHeight="3840" ImageSize="1459990" ImageWidth="2560" />
+    <Page DoublePage="False" Image="27" ImageHeight="3840" ImageSize="1407024" ImageWidth="2560" />
+    <Page DoublePage="False" Image="28" ImageHeight="3840" ImageSize="1579102" ImageWidth="2560" />
+    <Page DoublePage="False" Image="29" ImageHeight="3840" ImageSize="1240457" ImageWidth="2560" />
+    <Page DoublePage="False" Image="30" ImageHeight="3840" ImageSize="2000059" ImageWidth="2560" />
+    <Page DoublePage="False" Image="31" ImageHeight="3840" ImageSize="1849204" ImageWidth="2560" />
+    <Page DoublePage="False" Image="32" ImageHeight="3840" ImageSize="1787958" ImageWidth="2560" />
+    <Page DoublePage="False" Image="33" ImageHeight="3840" ImageSize="1853496" ImageWidth="2560" />
+    <Page DoublePage="False" Image="34" ImageHeight="3799" ImageSize="1239926" ImageWidth="2560" />
+    <Page DoublePage="False" Image="35" ImageHeight="3799" ImageSize="1781991" ImageWidth="2560" />
+  </Pages>
+  <Publisher>Target Destroyed Comics</Publisher>
+  <Series>Lovecraft Adaptations</Series>
+  <Title>The Music of Erich Zann</Title>
+  <Volume>2020</Volume>
+  <Writer>Nick O'Gorman</Writer>
+  <Year>2022</Year>
+  <Summary>Nick OG's adaptation and expansion of HP Lovecraft's 1921 tale of melody and mayhem, The Music of Erich Zann.</Summary>
+</ComicInfo>

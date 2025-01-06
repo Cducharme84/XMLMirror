@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Commander Narab,Prisar,Zeerus</Characters>
+	<Colorist>Prismacolor</Colorist>
+	<Day>1</Day>
+	<Editor>James Chambers</Editor>
+	<GTIN>urn:comicvine:4000-247092</GTIN>
+	<Inker>Pat Broderick</Inker>
+	<Locations>Space</Locations>
+	<Month>1</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:56:00 [Issue ID 4000-247092] urn:comicvine:4000-247092</Notes>
+	<Number>7</Number>
+	<PageCount>22</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="941799" Type="FrontCover"/>
+		<Page Image="1" ImageSize="997846"/>
+		<Page Image="2" ImageSize="1171056"/>
+		<Page Image="3" ImageSize="1019599"/>
+		<Page Image="4" ImageSize="1092752"/>
+		<Page Image="5" ImageSize="1075384"/>
+		<Page Image="6" ImageSize="1154623"/>
+		<Page Image="7" ImageSize="1142028"/>
+		<Page Image="8" ImageSize="1185647"/>
+		<Page Image="9" ImageSize="1153973"/>
+		<Page Image="10" ImageSize="1177524"/>
+		<Page Image="11" ImageSize="1172784"/>
+		<Page Image="12" ImageSize="1031387"/>
+		<Page Image="13" ImageSize="1137373"/>
+		<Page Image="14" ImageSize="1259500"/>
+		<Page Image="15" ImageSize="988577"/>
+		<Page Image="16" ImageSize="1153188"/>
+		<Page Image="17" ImageSize="1294277"/>
+		<Page Image="18" ImageSize="959954"/>
+		<Page Image="19" ImageSize="1140508"/>
+		<Page Image="20" ImageSize="923602"/>
+		<Page Image="21" ImageSize="1005509"/>
+	</Pages>
+	<Penciller>Pat Broderick</Penciller>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Leonard Nimoy's Primortals</Series>
+	<Summary>https://comicvine.gamespot.com/leonard-nimoys-primortals-7-rites/4000-247092/</Summary>
+	<Title>Rites</Title>
+	<Volume>1996</Volume>
+	<Web>https://comicvine.gamespot.com/leonard-nimoys-primortals-7-rites/4000-247092/</Web>
+	<Writer>Christopher Mills</Writer>
+	<Year>1997</Year>
+</ComicInfo>

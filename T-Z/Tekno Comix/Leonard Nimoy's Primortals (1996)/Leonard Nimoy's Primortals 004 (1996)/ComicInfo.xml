@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Jess,Primaster,Stewart,Zeerus</Characters>
+	<Colorist>Mada Design Inc,Tony Gagnon</Colorist>
+	<Day>1</Day>
+	<GTIN>urn:comicvine:4000-247089</GTIN>
+	<Inker>Art Nichols,Kirk Van Wormer</Inker>
+	<Letterer>Ken Bruzenak</Letterer>
+	<Locations>New York City</Locations>
+	<Month>10</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T02:55:56 [Issue ID 4000-247089] urn:comicvine:4000-247089</Notes>
+	<Number>4</Number>
+	<PageCount>19</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1277766" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1020027"/>
+		<Page Image="2" ImageSize="1275462"/>
+		<Page Image="3" ImageSize="1296924"/>
+		<Page Image="4" ImageSize="1240409"/>
+		<Page Image="5" ImageSize="1368801"/>
+		<Page Image="6" ImageSize="1307739"/>
+		<Page Image="7" ImageSize="1269008"/>
+		<Page Image="8" ImageSize="1120773"/>
+		<Page Image="9" ImageSize="1179916"/>
+		<Page Image="10" ImageSize="1224128"/>
+		<Page Image="11" ImageSize="1141191"/>
+		<Page Image="12" ImageSize="1072916"/>
+		<Page Image="13" ImageSize="1251092"/>
+		<Page Image="14" ImageSize="1379337"/>
+		<Page Image="15" ImageSize="1086987"/>
+		<Page Image="16" ImageSize="987810"/>
+		<Page Image="17" ImageSize="1215485"/>
+		<Page Image="18" ImageSize="1265581"/>
+	</Pages>
+	<Penciller>Kirk Van Wormer</Penciller>
+	<Publisher>Tekno Comix</Publisher>
+	<Series>Leonard Nimoy's Primortals</Series>
+	<Summary>https://comicvine.gamespot.com/leonard-nimoys-primortals-4-scorched-earth-part-2-/4000-247089/</Summary>
+	<Title>Scorched Earth Part 2: Prophecy Fever</Title>
+	<Volume>1996</Volume>
+	<Web>https://comicvine.gamespot.com/leonard-nimoys-primortals-4-scorched-earth-part-2-/4000-247089/</Web>
+	<Writer>Doug Wheeler</Writer>
+	<Year>1996</Year>
+</ComicInfo>

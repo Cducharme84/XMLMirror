@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComicInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://anansi-project.github.io/docs/comicinfo/schemas/v2.1">
+	<Characters>Baron Samedi,Shadowman</Characters>
+	<Colorist>Jordie Bellaire</Colorist>
+	<Day>29</Day>
+	<Editor>David Menchel,Heather Antos</Editor>
+	<GTIN>urn:comicvine:4000-845510</GTIN>
+	<Genre>Superhero</Genre>
+	<Inker>Jon Davis-Hunt</Inker>
+	<LanguageISO>en</LanguageISO>
+	<Letterer>Clayton Cowles</Letterer>
+	<Locations>Deadside,Louisiana,New Orleans</Locations>
+	<Month>4</Month>
+	<Notes>Tagged with comicbox 1.1.1 on 2024-03-14T01:50:36 [Issue ID 4000-845510] urn:comicvine:4000-845510</Notes>
+	<Number>1</Number>
+	<PageCount>29</PageCount>
+	<Pages>
+		<Page Image="0" ImageSize="1396086" Type="FrontCover"/>
+		<Page Image="1" ImageSize="1396625"/>
+		<Page Image="2" ImageSize="1308032"/>
+		<Page Image="3" ImageSize="3301928"/>
+		<Page Image="4" ImageSize="1269050"/>
+		<Page Image="5" ImageSize="1217328"/>
+		<Page Image="6" ImageSize="1378663"/>
+		<Page Image="7" ImageSize="1075571"/>
+		<Page Image="8" ImageSize="1184889"/>
+		<Page Image="9" ImageSize="1286794"/>
+		<Page Image="10" ImageSize="1093905"/>
+		<Page Image="11" ImageSize="1035133"/>
+		<Page Image="12" ImageSize="1370454"/>
+		<Page Image="13" ImageSize="1439459"/>
+		<Page Image="14" ImageSize="1982429"/>
+		<Page Image="15" ImageSize="1249392"/>
+		<Page Image="16" ImageSize="1521168"/>
+		<Page Image="17" ImageSize="1241016"/>
+		<Page Image="18" ImageSize="1112553"/>
+		<Page Image="19" ImageSize="1062562"/>
+		<Page Image="20" ImageSize="1024060"/>
+		<Page Image="21" ImageSize="1233033"/>
+		<Page Image="22" ImageSize="892870"/>
+		<Page Image="23" ImageSize="1643953"/>
+		<Page Image="24" ImageSize="1136658"/>
+		<Page Image="25" ImageSize="1135475"/>
+		<Page Image="26" ImageSize="2387478"/>
+		<Page Image="27" ImageSize="979440"/>
+		<Page Image="28" ImageSize="1204289"/>
+	</Pages>
+	<Penciller>Jon Davis-Hunt</Penciller>
+	<Publisher>Valiant/Acclaim</Publisher>
+	<Series>Shadowman</Series>
+	<Summary>A brand-new horror series!
+
+From the New York Times bestselling master of horror Cullen Bunn (Venom) and bone-chilling artist Jon Davis-Hunt (Clean Room) comes a shocking supernatural odyssey.
+
+The forces of darkness are awakening and they are hungry for life. Will Jack Boniface, feared by the forces of evil as the protector Shadowman, be able to save us all?
+
+*List of covers and their creators:*
+ Cover | Name                                                                           | Creator(s)        | Sidebar Location |
+----------------------------------------------------------------------------------------------------------------------------
+ A     | Cover A                                                                        | Jon Davis-Hunt    | 1                |
+ B     | Cover B                                                                        | Rod Reis          | 3                |
+ C     | Horror Homage Cover C (Jordan Peele's "Us" from 2019)                          | Dave Johnson      | 4                |
+ D     | Blank Sketch Cover D                                                           | None              | 5                |
+ E     | Pre-Order Cover E                                                              | Tony Moore        | 6                |
+ F     | 1:250 Black Glass Cover F                                                      | Jeff Dekal        | 7                |
+ G     | Gold Edition Cover (1:25 ???)                                                  | Jon Davis-Hunt    | 2                |
+ RE    | A Sound of Thunder Exclusive Homage Cover (500 copies only)                    | Paul Pelletier    | Missing          |
+ RE    | A Sound of Thunder Exclusive Virgin Homage Cover (50 copies only)              | Paul Pelletier    | Missing          |
+ RE    | A Sound of Thunder Exclusive Throwback Homage Cover (50 copies only)           | Paul Pelletier    | Missing          |
+ RE    | Awesome Autographed Collectibles Exclusive Cover                               | Ben Templesmith   | Missing          |
+ RE    | Awesome Autographed Collectibles Exclusive B&amp;W Cover                           | Ben Templesmith   | Missing          |
+ RE    | Awesome Autographed Collectibles Exclusive Virgin Cover                        | Ben Templesmith   | Missing          |
+ RE    | Bulletproof Comix Exclusive Cover (300 copies only)                            | Damion Scott      | Missing          |
+ RE    | Bulletproof Comix Exclusive Virgin Cover (150 copies only)                     | Damion Scott      | Missing          |
+ RE    | Circle City Comics Exclusive Wraparound Cover                                  | Cary Vallery      | Missing          |
+ RE    | Circle City Comics Exclusive Virgin Wraparound Cover                           | Cary Vallery      | Missing          |
+ RE    | Exchange Collectibles Exclusive Cover                                          | Zu Orzu           | Missing          |
+ RE    | Exchange Collectibles Exclusive Virgin Cover                                   | Zu Orzu           | Missing          |
+ RE    | Exchange Collectibles Exclusive Virgin B&amp;W Cover                               | Zu Orzu           | Missing          |
+ RE    | Frankie's Comics Exclusive Virgin Cover                                        | David Mack        | Missing          |
+ RE    | Gotham Central Comics/El Rey Comics Exclusive Cover                            | Joseph Schmalke   | Missing          |
+ RE    | Gotham Central Comics/El Rey Comics Exclusive Virgin Cover                     | Joseph Schmalke   | Missing          |
+ RE    | Groundbreaking Comics Exclusive Cover (500 copies only)                        | Rahzzah           | Missing          |
+ RE    | Groundbreaking Comics Exclusive Cover (200 copies only)                        | Rahzzah           | Missing          |
+ RE    | Kowabunga Comics Exclusive Cover (500 copies only)                             | Jenny Frison      | Missing          |
+ RE    | Kowabunga Comics Exclusive Virgin Cover (250 copies only)                      | Jenny Frison      | Missing          |
+ RE    | Kowabunga Comics Exclusive Virgin Grey Cover (250 copies only)                 | Jenny Frison      | Missing          |
+ RE    | Lemonjuice McGee's Comic Cavalcade Exclusive Cover                             | Robbi Rodriguez   | Missing          |
+ RE    | Lemonjuice McGee's Comic Cavalcade Exclusive Virgin Cover                      | Robbi Rodriguez   | Missing          |
+ RE    | Linebreakers Exclusive Cover                                                   | Todd Ulrich       | Missing          |
+ RE    | Linebreakers Exclusive Virgin Cover                                            | Todd Ulrich       | Missing          |
+ RE    | One Stop Comic Shop / Shared Retailer Exclusive Virgin Cover (600 copies only) | Johnny Desjardins | Missing          |
+ RE    | The Comic Mint Exclusive Cover                                                 | John Gallagher    | Missing          |
+ RE    | The One Stop Shop Cover (300 copies only)                                      | Joseph Schmalke   | Missing          |
+ RE    | The One Stop Shop B&amp;W Cover (250 copies only)                                  | Joseph Schmalke   | Missing          |
+ RE    | The One Stop Shop Virgin Cover (150 copies only)                               | Joseph Schmalke   | Missing          |
+ RE    | Ultimate Comics Exclusive Throwback Cover (500 copies only)                    | Clayton Crain     | Missing          |
+ RE    | Ultimate Comics Exclusive Virgin Cover (250 copies only)                       | Clayton Crain     | Missing          |
+ RE    | Unknown Comic Books Exclusive Cover                                            | Marco Mastrazzo   | Missing          |
+
+
+Tagged with the ninjas.walk.alone fork of ComicTagger 1.3.5 using info from Comic Vine on 2023-12-26 15:28:45.  [Issue ID 845510]
+
+https://comicvine.gamespot.com/shadowman-1/4000-845510/</Summary>
+	<Tags>Baron Samedi,Deadside,Loa,Louisiana,New Orleans,Shadowman,The Blight</Tags>
+	<Teams>Loa,The Blight</Teams>
+	<Volume>2021</Volume>
+	<Web>https://comicvine.gamespot.com/shadowman-1/4000-845510/</Web>
+	<Writer>Cullen Bunn</Writer>
+	<Year>2021</Year>
+</ComicInfo>
